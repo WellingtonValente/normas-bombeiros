@@ -1,37 +1,41 @@
 {
-  "version": "1.0",
-  "category": "Modelos de Laudo Técnico Pós-Incêndio",
-  "description": "Catálogo de modelos técnicos baseados nas ITs do CBMMG. Se o arquivo não existir, o GPT gera o conteúdo completo no chat com base normativa e referência ABNT/CBMMG.",
-  "base_url": "https://wellingtonvalente.github.io/pericias-pos-incendio-mg/templates/formularios/",
+  "version": "1.1",
+  "category": "Modelos de Laudo Técnico e Formulários CBMMG/MG",
+  "description": "Catálogo de modelos técnicos. Quando o arquivo DOCX não estiver disponível, o GPT deve gerar o conteúdo-base do modelo no chat com base nas ITs do CBMMG e em boas práticas documentais.",
+  "base_url": "https://wellingtonvalente.github.io/normas-bombeiros/templates/formularios/",
   "items": [
     {
       "id": "laudo-aplicacao-it40",
       "title": "E.5.1.A – Laudo Técnico para Aplicação de Adaptações (IT 40)",
       "url": "https://wellingtonvalente.github.io/pericias-pos-incendio-mg/templates/formularios/E.5.1.A%20-%20LAUDO%20T%C3%89CNICO%20PARA%20APLICA%C3%87%C3%95ES%20PREVISTAS%20NA%20IT%2040.docx",
       "format": "docx",
-      "jurisdiction": "CBMMG/MG"
+      "jurisdiction": "CBMMG/MG",
+      "perfil": "PROFISSIONAL"
     },
     {
       "id": "laudo-corpo-tecnico",
       "title": "E.5.1.B – Laudo de Análise para Corpo Técnico",
       "url": "https://wellingtonvalente.github.io/pericias-pos-incendio-mg/templates/formularios/E.5.1.B%20-%20Laudo%20de%20an%C3%A1lise%20para%20Corpo%20T%C3%A9cnico.docx",
       "format": "docx",
-      "jurisdiction": "CBMMG/MG"
+      "jurisdiction": "CBMMG/MG",
+      "perfil": "PROFISSIONAL"
     },
     {
       "id": "laudo-declaratorio",
       "title": "E.5.2 – Laudo Técnico Declaratório",
       "url": "https://wellingtonvalente.github.io/pericias-pos-incendio-mg/templates/formularios/E.5.2%20-%20Laudo%20T%C3%A9cnico%20Declarat%C3%B3rio.docx",
       "format": "docx",
-      "jurisdiction": "CBMMG/MG"
+      "jurisdiction": "CBMMG/MG",
+      "perfil": "PROFISSIONAL"
     },
     {
       "id": "laudo-comissionamento",
       "title": "E.5.5 – Laudo de Comissionamento / Inspeção do Sistema",
       "url": "https://wellingtonvalente.github.io/pericias-pos-incendio-mg/templates/formularios/E.5.5%20Laudo%20de%20Comissionamento%20Inspe%C3%A7%C3%A3o%20do%20sistema.docx",
       "format": "docx",
-      "jurisdiction": "CBMMG/MG"
+      "jurisdiction": "CBMMG/MG",
+      "perfil": "PROFISSIONAL"
     }
   ],
-  "fallback_text": "O modelo solicitado ainda não está disponível no banco de dados. Abaixo segue o conteúdo-base do Laudo Técnico Pós-Incêndio conforme ITs do CBMMG e ABNT."
+  "fallback_text": "O modelo solicitado ainda não está disponível como arquivo. O GPT deve gerar o conteúdo-base no chat, com identificação do responsável técnico, objeto, escopo, metodologia, constatações, conclusão, limitações e referências normativas aplicáveis."
 }

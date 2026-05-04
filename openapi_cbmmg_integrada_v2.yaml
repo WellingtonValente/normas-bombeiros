@@ -1,122 +1,14 @@
 openapi: 3.1.0
 info:
   title: CBMMG Base Integrada - Normas, Textos e Templates
-  version: 2.2.0
-  description: API estática para Custom GPT consultar a base atualizada de normas técnicas do CBMMG, manifestos oficiais, textos extraídos, endereços e templates profissionais.
+  version: 2.3.0
+  description: API estática publicada no GitHub Pages para consulta pelo Custom GPT do Guia de Prevenção a Incêndios MG.
 
 servers:
-  - url: https://wellingtonvalente.github.io
+  - url: https://wellingtonvalente.github.io/normas-bombeiros
 
 paths:
-  /normas-bombeiros/normas_com_texto.json:
-    get:
-      summary: Compatibilidade com o endpoint antigo de normas com texto extraído
-      operationId: listarNormasComTextoCompat
-      responses:
-        '200':
-          description: Base textual extraída dos PDFs oficiais sincronizados.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/NormasComTextoResponse'
-
-  /normas-bombeiros/normas_manifest.json:
-    get:
-      summary: Compatibilidade com o manifesto de normas na raiz do GitHub Pages
-      operationId: listarManifestoNormasCompat
-      responses:
-        '200':
-          description: Manifesto auditável publicado também na raiz.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/ManifestoNormasResponse'
-
-  /normas-bombeiros/instrucoes_tecnicas_manifest.json:
-    get:
-      summary: Compatibilidade com o manifesto de Instruções Técnicas na raiz do GitHub Pages
-      operationId: listarInstrucoesTecnicasCompat
-      responses:
-        '200':
-          description: Manifesto de Instruções Técnicas publicado também na raiz.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/InstrucoesTecnicasResponse'
-
-  /normas-bombeiros/data/normas_manifest.json:
-    get:
-      summary: Lista todos os documentos oficiais sincronizados da página do CBMMG
-      operationId: listarManifestoNormasCBMMG
-      responses:
-        '200':
-          description: Manifesto auditável com título, categoria, URL oficial, arquivo espelhado, SHA-256 e data de coleta.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/ManifestoNormasResponse'
-
-  /normas-bombeiros/data/instrucoes_tecnicas_manifest.json:
-    get:
-      summary: Lista somente as Instruções Técnicas detectadas
-      operationId: listarInstrucoesTecnicasCBMMG
-      responses:
-        '200':
-          description: Manifesto das ITs com número, edição, situação, alteração e URLs.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/InstrucoesTecnicasResponse'
-
-  /normas-bombeiros/data/normas_com_texto.json:
-    get:
-      summary: Lista normas com texto extraído dos PDFs oficiais
-      operationId: listarNormasComTexto
-      responses:
-        '200':
-          description: Base textual das normas e ITs extraída dos PDFs oficiais sincronizados.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/NormasComTextoResponse'
-
-  /normas-bombeiros/data/enderecos_cbmmg.json:
-    get:
-      summary: Lista unidades e endereços CBMMG cadastrados na base local
-      operationId: listarEnderecosCBMMG
-      responses:
-        '200':
-          description: Base local de endereços de unidades CBMMG e municípios atendidos.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/EnderecosCBMMGResponse'
-
-  /normas-bombeiros/data/links_nao_pdf.json:
-    get:
-      summary: Lista links detectados que não retornaram PDF ou foram ignorados
-      operationId: listarLinksNaoPdf
-      responses:
-        '200':
-          description: Auditoria de links não baixados.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/LinksNaoPdfResponse'
-
-  /normas-bombeiros/data/erros_download.json:
-    get:
-      summary: Lista erros de download detectados na sincronização
-      operationId: listarErrosDownload
-      responses:
-        '200':
-          description: Auditoria de links com falha de download.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/ErrosDownloadResponse'
-
-  /normas-bombeiros/templates/formularios/modelos_laudos.json:
+  /templates/formularios/modelos_laudos.json:
     get:
       summary: Lista modelos e templates disponíveis para uso profissional
       operationId: listarTemplatesProfissionais
@@ -128,6 +20,90 @@ paths:
               schema:
                 $ref: '#/components/schemas/TemplatesProfissionaisResponse'
 
+  /data/normas_manifest.json:
+    get:
+      summary: Lista todos os documentos oficiais sincronizados da página do CBMMG
+      operationId: listarManifestoNormasCBMMG
+      responses:
+        '200':
+          description: Manifesto auditável com título, categoria, URL oficial, arquivo espelhado, SHA-256 e data de coleta.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ManifestoNormasResponse'
+
+  /data/instrucoes_tecnicas_manifest.json:
+    get:
+      summary: Lista somente as Instruções Técnicas detectadas
+      operationId: listarInstrucoesTecnicasCBMMG
+      responses:
+        '200':
+          description: Manifesto das Instruções Técnicas detectadas na base sincronizada.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/InstrucoesTecnicasResponse'
+
+  /data/enderecos_cbmmg.json:
+    get:
+      summary: Lista unidades e endereços CBMMG cadastrados na base local
+      operationId: listarEnderecosCBMMG
+      responses:
+        '200':
+          description: Base local de endereços de unidades CBMMG e municípios atendidos.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/EnderecosCBMMGResponse'
+
+  /data/links_nao_pdf.json:
+    get:
+      summary: Lista links detectados que não retornaram PDF ou foram ignorados
+      operationId: listarLinksNaoPdf
+      responses:
+        '200':
+          description: Auditoria de links não baixados.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LinksNaoPdfResponse'
+
+  /data/erros_download.json:
+    get:
+      summary: Lista erros de download detectados na sincronização
+      operationId: listarErrosDownload
+      responses:
+        '200':
+          description: Auditoria de links com falha de download.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrosDownloadResponse'
+
+  /data/normas_com_texto.json:
+    get:
+      summary: Lista normas com texto extraído dos PDFs oficiais
+      operationId: listarNormasComTexto
+      responses:
+        '200':
+          description: Base textual potencialmente grande; use após consultar o manifesto.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NormasComTextoResponse'
+
+  /normas_com_texto.json:
+    get:
+      summary: Compatibilidade com endpoint antigo de normas com texto extraído
+      operationId: listarNormasComTextoCompat
+      responses:
+        '200':
+          description: Base textual compatível com o GPT antigo.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NormasComTextoResponse'
+
 components:
   schemas:
     Metadata:
@@ -136,311 +112,68 @@ components:
       properties:
         fonte_oficial:
           type: string
-          description: Fonte oficial utilizada para montar a base.
         fonte_url:
           type: string
-          description: URL de origem dos dados.
         data_coleta:
           type: string
-          description: Data ou data/hora de coleta.
         generated_at:
           type: string
-          description: Data/hora de geração do arquivo.
         total:
           type: integer
-          description: Quantidade total de registros.
         total_pdfs:
           type: integer
-          description: Quantidade de PDFs sincronizados.
+        total_links_nao_pdf_ou_ignorados:
+          type: integer
+        total_erros:
+          type: integer
         links_detectados:
           type: integer
-          description: Quantidade de links detectados no site de origem.
-        erros:
-          type: integer
-          description: Quantidade de erros registrados na sincronização.
+        observacao:
+          type: string
 
     DocumentoBase:
       type: object
       additionalProperties: true
       properties:
-        id:
-          type: string
         titulo:
           type: string
         title:
           type: string
+        url:
+          type: string
         categoria:
           type: string
-        tipo:
+        subcategoria:
           type: string
-        numero:
+        numero_it:
           type: string
         edicao:
           type: string
         situacao:
           type: string
-        portaria:
-          type: string
         alteracao:
           type: string
-        data_coleta:
-          type: string
-        url_oficial:
-          type: string
-        url:
-          type: string
-        url_espelho:
-          type: string
         arquivo:
-          type: string
-        caminho:
           type: string
         sha256:
           type: string
         tamanho_bytes:
           type: integer
-
-    DocumentoComTexto:
-      type: object
-      additionalProperties: true
-      properties:
-        id:
-          type: string
-        titulo:
-          type: string
-        title:
-          type: string
-        categoria:
-          type: string
-        tipo:
-          type: string
-        numero:
-          type: string
-        edicao:
-          type: string
-        situacao:
-          type: string
-        portaria:
-          type: string
-        data_coleta:
-          type: string
-        url_oficial:
-          type: string
-        url:
-          type: string
-        url_espelho:
-          type: string
-        arquivo:
-          type: string
-        sha256:
-          type: string
-        texto:
-          type: string
-          description: Texto extraído do PDF.
-        texto_extraido:
-          type: string
-          description: Texto extraído do PDF, quando publicado com este nome de campo.
         paginas:
           type: integer
-        chunks:
-          type: array
-          items:
-            type: string
+        texto_path:
+          type: string
 
-    ManifestoNormasResponse:
-      type: object
-      additionalProperties: true
-      properties:
-        meta:
-          $ref: '#/components/schemas/Metadata'
-        metadata:
-          $ref: '#/components/schemas/Metadata'
-        fonte_url:
-          type: string
-        data_coleta:
-          type: string
-        links_detectados:
-          type: integer
-        total_pdfs:
-          type: integer
-        total:
-          type: integer
-        documentos:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoBase'
-        items:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoBase'
-        pdfs:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoBase'
-
-    InstrucoesTecnicasResponse:
-      type: object
-      additionalProperties: true
-      properties:
-        meta:
-          $ref: '#/components/schemas/Metadata'
-        metadata:
-          $ref: '#/components/schemas/Metadata'
-        fonte_url:
-          type: string
-        data_coleta:
-          type: string
-        total:
-          type: integer
-        instrucoes_tecnicas:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoBase'
-        its:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoBase'
-        items:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoBase'
-
-    NormasComTextoResponse:
-      type: object
-      additionalProperties: true
-      properties:
-        meta:
-          $ref: '#/components/schemas/Metadata'
-        metadata:
-          $ref: '#/components/schemas/Metadata'
-        fonte_url:
-          type: string
-        data_coleta:
-          type: string
-        total:
-          type: integer
-        normas:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoComTexto'
-        documentos:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoComTexto'
-        items:
-          type: array
-          items:
-            $ref: '#/components/schemas/DocumentoComTexto'
-
-    UnidadeCBMMG:
-      type: object
-      additionalProperties: true
-      properties:
-        unidade:
-          type: string
-        cidade_base:
-          type: string
-        endereco:
-          type: string
-        cep:
-          type: string
-        telefone:
-          type: string
-        email:
-          type: string
-        municipios_atendidos:
-          type: array
-          items:
-            type: string
-
-    EnderecosCBMMGResponse:
-      type: object
-      additionalProperties: true
-      properties:
-        meta:
-          $ref: '#/components/schemas/Metadata'
-        metadata:
-          $ref: '#/components/schemas/Metadata'
-        unidades:
-          type: array
-          items:
-            $ref: '#/components/schemas/UnidadeCBMMG'
-        items:
-          type: array
-          items:
-            $ref: '#/components/schemas/UnidadeCBMMG'
-
-    LinkNaoPdf:
-      type: object
-      additionalProperties: true
-      properties:
-        titulo:
-          type: string
-        title:
-          type: string
-        url:
-          type: string
-        motivo:
-          type: string
-        content_type:
-          type: string
-        status_code:
-          type: integer
-
-    LinksNaoPdfResponse:
-      type: object
-      additionalProperties: true
-      properties:
-        meta:
-          $ref: '#/components/schemas/Metadata'
-        metadata:
-          $ref: '#/components/schemas/Metadata'
-        links_nao_pdf:
-          type: array
-          items:
-            $ref: '#/components/schemas/LinkNaoPdf'
-        nao_pdf:
-          type: array
-          items:
-            $ref: '#/components/schemas/LinkNaoPdf'
-        items:
-          type: array
-          items:
-            $ref: '#/components/schemas/LinkNaoPdf'
-
-    ErroDownload:
-      type: object
-      additionalProperties: true
-      properties:
-        titulo:
-          type: string
-        title:
-          type: string
-        url:
-          type: string
-        erro:
-          type: string
-        mensagem:
-          type: string
-        status_code:
-          type: integer
-
-    ErrosDownloadResponse:
-      type: object
-      additionalProperties: true
-      properties:
-        meta:
-          $ref: '#/components/schemas/Metadata'
-        metadata:
-          $ref: '#/components/schemas/Metadata'
-        erros:
-          type: array
-          items:
-            $ref: '#/components/schemas/ErroDownload'
-        items:
-          type: array
-          items:
-            $ref: '#/components/schemas/ErroDownload'
+    DocumentoComTexto:
+      allOf:
+        - $ref: '#/components/schemas/DocumentoBase'
+        - type: object
+          additionalProperties: true
+          properties:
+            texto:
+              type: string
+            texto_extraido:
+              type: string
 
     TemplateProfissional:
       type: object
@@ -491,3 +224,164 @@ components:
           type: array
           items:
             $ref: '#/components/schemas/TemplateProfissional'
+
+    ManifestoNormasResponse:
+      type: object
+      additionalProperties: true
+      properties:
+        metadata:
+          $ref: '#/components/schemas/Metadata'
+        meta:
+          $ref: '#/components/schemas/Metadata'
+        documentos:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoBase'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoBase'
+        pdfs:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoBase'
+
+    InstrucoesTecnicasResponse:
+      type: object
+      additionalProperties: true
+      properties:
+        metadata:
+          $ref: '#/components/schemas/Metadata'
+        meta:
+          $ref: '#/components/schemas/Metadata'
+        instrucoes_tecnicas:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoBase'
+        its:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoBase'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoBase'
+
+    NormasComTextoResponse:
+      type: object
+      additionalProperties: true
+      properties:
+        metadata:
+          $ref: '#/components/schemas/Metadata'
+        meta:
+          $ref: '#/components/schemas/Metadata'
+        normas:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoComTexto'
+        documentos:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoComTexto'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/DocumentoComTexto'
+
+    UnidadeCBMMG:
+      type: object
+      additionalProperties: true
+      properties:
+        unidade:
+          type: string
+        cidade_base:
+          type: string
+        endereco:
+          type: string
+        cep:
+          type: string
+        telefone:
+          type: string
+        email:
+          type: string
+        municipios_atendidos:
+          type: array
+          items:
+            type: string
+
+    EnderecosCBMMGResponse:
+      type: object
+      additionalProperties: true
+      properties:
+        metadata:
+          $ref: '#/components/schemas/Metadata'
+        meta:
+          $ref: '#/components/schemas/Metadata'
+        unidades:
+          type: array
+          items:
+            $ref: '#/components/schemas/UnidadeCBMMG'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/UnidadeCBMMG'
+
+    LinkNaoPdf:
+      type: object
+      additionalProperties: true
+      properties:
+        titulo:
+          type: string
+        url:
+          type: string
+        motivo:
+          type: string
+        content_type:
+          type: string
+        status_code:
+          type: integer
+
+    LinksNaoPdfResponse:
+      type: object
+      additionalProperties: true
+      properties:
+        metadata:
+          $ref: '#/components/schemas/Metadata'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/LinkNaoPdf'
+        links_nao_pdf:
+          type: array
+          items:
+            $ref: '#/components/schemas/LinkNaoPdf'
+
+    ErroDownload:
+      type: object
+      additionalProperties: true
+      properties:
+        titulo:
+          type: string
+        url:
+          type: string
+        erro:
+          type: string
+        mensagem:
+          type: string
+        status_code:
+          type: integer
+
+    ErrosDownloadResponse:
+      type: object
+      additionalProperties: true
+      properties:
+        metadata:
+          $ref: '#/components/schemas/Metadata'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/ErroDownload'
+        erros:
+          type: array
+          items:
+            $ref: '#/components/schemas/ErroDownload'

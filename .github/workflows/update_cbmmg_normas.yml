@@ -30,6 +30,10 @@ jobs:
         run: |
           python scripts/sincronizar_normas_cbmmg.py --out docs --extract-text
 
+      - name: Validar JSONs publicados
+        run: |
+          python scripts/validar_json_pages.py
+
       - name: Verificar alterações em docs
         id: diff
         run: |
