@@ -1,24 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Sincronizador oficial - Legislação e Normas Técnicas CBMMG
+"""Sincronizador oficial da base CBMMG para GitHub Pages.
 
 Objetivo:
-1) Ler a página oficial de normas técnicas do CBMMG.
-2) Identificar links de PDFs por seção: leis, decretos, portarias, instruções técnicas, emendas, erratas etc.
-3) Baixar os PDFs oficiais, calcular SHA-256 e gerar manifesto auditável.
-4) Extrair texto pesquisável dos PDFs, com foco especial nas Instruções Técnicas vigentes.
-5) Publicar arquivos JSON/JSONL estáticos para uso em GitHub Pages e Actions do Custom GPT.
+1. Ler a página oficial de Legislação e Normas Técnicas do CBMMG.
+2. Identificar links para documentos, priorizando PDFs do domínio bombeiros.mg.gov.br.
+3. Baixar PDFs oficiais, calcular SHA-256 e criar manifesto auditável.
+4. Extrair texto pesquisável dos PDFs quando --extract-text for usado.
+5. Publicar JSON/JSONL estático para Actions do Custom GPT.
 
-Observação importante:
-- Não baixe nem hospede texto integral de normas ABNT/NBR. Elas são protegidas por direitos autorais.
-- Este script foi desenhado para documentos oficiais publicados no site do CBMMG.
-
-Uso local:
-    python scripts/sincronizar_normas_cbmmg.py --out public
-
-Uso no GitHub Actions:
-    python scripts/sincronizar_normas_cbmmg.py --out public --extract-text
+Observação: este script não baixa nem replica texto integral de normas ABNT/NBR.
 """
 
 from __future__ import annotations
@@ -28,7 +19,6 @@ import dataclasses
 import datetime as dt
 import hashlib
 import json
-import os
 import re
 import sys
 import time
@@ -41,7 +31,7 @@ import requests
 from bs4 import BeautifulSoup
 
 OFICIAL_URL = "https://www.bombeiros.mg.gov.br/normastecnicas"
-USER_AGENT = "RWValente-CBMMG-Sync/2.0 (+GitHub Pages; educational mirror)"
+USER_AGENT = "RWValente-CBMMG-Sync/2.1 (+GitHub Pages; educational mirror)"
 TIMEOUT = 45
 MAX_RETRIES = 3
 CHUNK_SIZE_CHARS = 4500
@@ -72,137 +62,11 @@ class Documento:
 def slugify(value: str, max_len: int = 120) -> str:
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     value = re.sub(r"[^a-zA-Z0-9]+", "-", value).strip("-").lower()
-    return value[:max_len].strip("-") or "documento"
+    return (value[:max_len].strip("-") or "documento")
 
 
 def now_iso() -> str:
     return dt.datetime.now(dt.timezone.utc).astimezone().isoformat(timespec="seconds")
-
-
-def get_session() -> requests.Session:
-    s = requests.Session()
-    s.headers.update({"User-Agent": USER_AGENT, "Accept": "text/html,application/pdf,*/*"})
-    return s
-
-
-def fetch(session: requests.Session, url: str) -> requests.Response:
-    last_exc: Exception | None = None
-    for tentativa in range(1, MAX_RETRIES + 1):
-        try:
-            r = session.get(url, timeout=TIMEOUT, allow_redirects=True)
-            r.raise_for_status()
-            return r
-        except Exception as exc:  # noqa: BLE001
-            last_exc = exc
-            if tentativa < MAX_RETRIES:
-                time.sleep(2 * tentativa)
-    raise RuntimeError(f"Falha ao baixar {url}: {last_exc}")
-
-
-def is_probably_pdf(response: requests.Response, url: str) -> bool:
-    content_type = response.headers.get("content-type", "").lower()
-    if "application/pdf" in content_type:
-        return True
-    if urlparse(url).path.lower().endswith(".pdf"):
-        return True
-    return response.content[:5] == b"%PDF-"
-
-
-def parse_it_metadata(titulo: str, complemento: str = "") -> tuple[str | None, str | None, str | None, str | None]:
-    numero_it = None
-    edicao = None
-    situacao = None
-    alteracao = None
-
-    m = re.search(r"\bIT\s*0*([0-9]{1,2})\b", titulo, flags=re.I)
-    if m:
-        numero_it = f"{int(m.group(1)):02d}"
-
-    m = re.search(r"(\d+)\s*[ªaºo]\s*Edi[cç][aã]o", titulo, flags=re.I)
-    if m:
-        edicao = f"{m.group(1)}ª Edição"
-
-    full = f"{titulo} {complemento}".strip()
-    if "revogada" in full.lower():
-        situacao = "revogada"
-    else:
-        situacao = "vigente/listada"
-
-    m = re.search(r"\((Alterada|Aprovada|Adotar|Revogada)[^)]+\)", full, flags=re.I)
-    if m:
-        alteracao = m.group(0).strip("() ")
-
-    return numero_it, edicao, situacao, alteracao
-
-
-def section_name(text: str) -> str:
-    clean = re.sub(r"\s+", " ", text or "").strip()
-    clean = clean.replace("#####", "").replace("####", "").strip()
-    return clean or "Sem seção"
-
-
-def extrair_links_da_pagina(html: str, base_url: str) -> list[Documento]:
-    soup = BeautifulSoup(html, "html.parser")
-
-    # Tentativa de reduzir ruído: usar área de conteúdo quando existir.
-    root = soup.find("main") or soup.find(id=re.compile("conteudo|content", re.I)) or soup.body or soup
-
-    categoria_atual = "Sem seção"
-    subcategoria_atual: str | None = None
-    documentos: list[Documento] = []
-
-    # Percorre a árvore em ordem visual. A página do CBMMG usa headings e listas simples.
-    for el in root.find_all(["h1", "h2", "h3", "h4", "h5", "h6", "a", "li"], recursive=True):
-        tag = el.name.lower()
-        texto = re.sub(r"\s+", " ", el.get_text(" ", strip=True))
-
-        if tag in {"h3", "h4", "h5"}:
-            nome = section_name(texto)
-            # Nomes numéricos como "2025" funcionam melhor como subcategoria.
-            if re.fullmatch(r"20\d{2}|19\d{2}|\d{4}", nome):
-                subcategoria_atual = nome
-            else:
-                categoria_atual = nome
-                subcategoria_atual = None
-            continue
-
-        if tag == "a" and el.get("href"):
-            href = urljoin(base_url, el.get("href"))
-            titulo = texto
-            if not titulo or titulo.lower().startswith(("ir para", "início", "facebook", "youtube", "instagram")):
-                continue
-
-            # Captura o texto do item da lista para pegar observações como "Alterada pela Portaria...".
-            complemento = ""
-            parent_li = el.find_parent("li")
-            if parent_li:
-                complemento = re.sub(r"\s+", " ", parent_li.get_text(" ", strip=True))
-            else:
-                complemento = titulo
-
-            numero_it, edicao, situacao, alteracao = parse_it_metadata(titulo, complemento)
-            documentos.append(
-                Documento(
-                    titulo=titulo,
-                    url=href,
-                    categoria=categoria_atual,
-                    subcategoria=subcategoria_atual,
-                    numero_it=numero_it,
-                    edicao=edicao,
-                    situacao=situacao,
-                    alteracao=alteracao,
-                )
-            )
-
-    # Remove duplicatas por URL mantendo o primeiro registro útil.
-    vistos: set[str] = set()
-    unicos: list[Documento] = []
-    for doc in documentos:
-        if doc.url in vistos:
-            continue
-        vistos.add(doc.url)
-        unicos.append(doc)
-    return unicos
 
 
 def salvar_json(path: Path, obj: Any) -> None:
@@ -214,29 +78,145 @@ def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+def get_session() -> requests.Session:
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html,application/pdf,*/*",
+    })
+    return session
+
+
+def fetch(session: requests.Session, url: str) -> requests.Response:
+    last_exc: Exception | None = None
+    for tentativa in range(1, MAX_RETRIES + 1):
+        try:
+            response = session.get(url, timeout=TIMEOUT, allow_redirects=True)
+            response.raise_for_status()
+            return response
+        except Exception as exc:  # noqa: BLE001
+            last_exc = exc
+            if tentativa < MAX_RETRIES:
+                time.sleep(2 * tentativa)
+    raise RuntimeError(f"Falha ao baixar {url}: {last_exc}")
+
+
+def is_probably_pdf(response: requests.Response, url: str) -> bool:
+    content_type = response.headers.get("content-type", "").lower()
+    return (
+        "application/pdf" in content_type
+        or urlparse(url).path.lower().endswith(".pdf")
+        or response.content[:5] == b"%PDF-"
+    )
+
+
+def parse_it_metadata(titulo: str, complemento: str = "") -> tuple[str | None, str | None, str | None, str | None]:
+    full = f"{titulo} {complemento}".strip()
+    numero_it = None
+    edicao = None
+    alteracao = None
+
+    m = re.search(r"\bIT\s*0*([0-9]{1,2})\b", full, flags=re.I)
+    if m:
+        numero_it = f"{int(m.group(1)):02d}"
+
+    m = re.search(r"(\d+)\s*[ªaºo]?\s*edi[cç][aã]o", full, flags=re.I)
+    if m:
+        edicao = f"{m.group(1)}ª Edição"
+
+    situacao = "revogada" if "revogad" in full.lower() else "vigente/listada"
+
+    m = re.search(r"(Portaria\s*n?[ºo]?\s*\d+/?\d*|Emenda\s*n?[ºo]?\s*\d+/?\d*)", full, flags=re.I)
+    if m:
+        alteracao = m.group(1).strip()
+
+    return numero_it, edicao, situacao, alteracao
+
+
+def section_name(text: str) -> str:
+    clean = re.sub(r"\s+", " ", text or "").strip()
+    return clean or "Sem seção"
+
+
+def extrair_links_da_pagina(html: str, base_url: str) -> list[Documento]:
+    soup = BeautifulSoup(html, "html.parser")
+    root = soup.find("main") or soup.find(id=re.compile("conteudo|content", re.I)) or soup.body or soup
+
+    categoria_atual = "Sem seção"
+    subcategoria_atual: str | None = None
+    documentos: list[Documento] = []
+
+    for el in root.find_all(["h1", "h2", "h3", "h4", "h5", "h6", "a"], recursive=True):
+        tag = el.name.lower()
+        texto = re.sub(r"\s+", " ", el.get_text(" ", strip=True))
+
+        if tag in {"h1", "h2", "h3", "h4", "h5", "h6"}:
+            nome = section_name(texto)
+            if re.fullmatch(r"20\d{2}|19\d{2}|\d{4}", nome):
+                subcategoria_atual = nome
+            elif nome:
+                categoria_atual = nome
+                subcategoria_atual = None
+            continue
+
+        href_raw = el.get("href")
+        if not href_raw:
+            continue
+
+        href = urljoin(base_url, href_raw)
+        titulo = texto or href
+        if titulo.lower().startswith(("ir para", "início", "facebook", "instagram", "youtube", "linkedin")):
+            continue
+
+        parent_li = el.find_parent("li")
+        complemento = re.sub(r"\s+", " ", parent_li.get_text(" ", strip=True)) if parent_li else titulo
+        numero_it, edicao, situacao, alteracao = parse_it_metadata(titulo, complemento)
+
+        documentos.append(
+            Documento(
+                titulo=titulo,
+                url=href,
+                categoria=categoria_atual,
+                subcategoria=subcategoria_atual,
+                numero_it=numero_it,
+                edicao=edicao,
+                situacao=situacao,
+                alteracao=alteracao,
+            )
+        )
+
+    vistos: set[str] = set()
+    unicos: list[Documento] = []
+    for doc in documentos:
+        if doc.url in vistos:
+            continue
+        vistos.add(doc.url)
+        unicos.append(doc)
+    return unicos
+
+
 def extract_pdf_text(pdf_path: Path) -> tuple[str, int | None]:
-    # Preferência: PyMuPDF; fallback: pypdf.
     try:
         import fitz  # type: ignore
 
-        texts: list[str] = []
+        textos: list[str] = []
         with fitz.open(pdf_path) as doc:
             for i, page in enumerate(doc, start=1):
                 t = page.get_text("text") or ""
                 if t.strip():
-                    texts.append(f"\n\n--- PÁGINA {i} ---\n{t.strip()}")
-            return "".join(texts).strip(), len(doc)
+                    textos.append(f"\n\n--- PÁGINA {i} ---\n{t.strip()}")
+            return "".join(textos).strip(), len(doc)
     except Exception:
         try:
             from pypdf import PdfReader  # type: ignore
 
             reader = PdfReader(str(pdf_path))
-            texts = []
+            textos = []
             for i, page in enumerate(reader.pages, start=1):
                 t = page.extract_text() or ""
                 if t.strip():
-                    texts.append(f"\n\n--- PÁGINA {i} ---\n{t.strip()}")
-            return "".join(texts).strip(), len(reader.pages)
+                    textos.append(f"\n\n--- PÁGINA {i} ---\n{t.strip()}")
+            return "".join(textos).strip(), len(reader.pages)
         except Exception as exc:  # noqa: BLE001
             return f"[ERRO DE EXTRAÇÃO: {exc}]", None
 
@@ -245,12 +225,12 @@ def chunk_text(text: str, size: int = CHUNK_SIZE_CHARS, overlap: int = CHUNK_OVE
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     if not text:
         return []
+
     chunks: list[str] = []
     start = 0
     n = len(text)
     while start < n:
         end = min(n, start + size)
-        # Tenta quebrar em fim de parágrafo para ficar bonito.
         if end < n:
             break_at = text.rfind("\n\n", start, end)
             if break_at > start + int(size * 0.6):
@@ -258,8 +238,7 @@ def chunk_text(text: str, size: int = CHUNK_SIZE_CHARS, overlap: int = CHUNK_OVE
         chunks.append(text[start:end].strip())
         if end >= n:
             break
-        next_start = max(0, end - overlap)
-        start = next_start if next_start > start else end
+        start = max(0, end - overlap)
     return chunks
 
 
@@ -272,10 +251,8 @@ def download_e_processar(
 ) -> tuple[list[Documento], list[dict[str, Any]], list[dict[str, Any]]]:
     pdf_dir = out / "pdf"
     text_dir = out / "texto"
-    data_dir = out / "data"
     pdf_dir.mkdir(parents=True, exist_ok=True)
     text_dir.mkdir(parents=True, exist_ok=True)
-    data_dir.mkdir(parents=True, exist_ok=True)
 
     docs_pdf: list[Documento] = []
     nao_pdf: list[dict[str, Any]] = []
@@ -288,20 +265,25 @@ def download_e_processar(
             continue
 
         try:
-            r = fetch(session, doc.url)
-            if not is_probably_pdf(r, doc.url):
-                nao_pdf.append({**doc.asdict(), "motivo": "não retornou PDF", "content_type": r.headers.get("content-type")})
+            response = fetch(session, doc.url)
+            if not is_probably_pdf(response, doc.url):
+                nao_pdf.append({
+                    **doc.asdict(),
+                    "motivo": "não retornou PDF",
+                    "content_type": response.headers.get("content-type"),
+                })
                 continue
-            digest = sha256_bytes(r.content)
+
+            digest = sha256_bytes(response.content)
             prefix = f"it-{doc.numero_it}" if doc.numero_it else slugify(doc.categoria)
             fname = f"{prefix}-{slugify(doc.titulo)}-{digest[:12]}.pdf"
             pdf_path = pdf_dir / fname
-            if not pdf_path.exists() or pdf_path.read_bytes() != r.content:
-                pdf_path.write_bytes(r.content)
+            if not pdf_path.exists() or pdf_path.read_bytes() != response.content:
+                pdf_path.write_bytes(response.content)
 
             doc.arquivo = f"pdf/{fname}"
             doc.sha256 = digest
-            doc.tamanho_bytes = len(r.content)
+            doc.tamanho_bytes = len(response.content)
 
             if extract_text:
                 text, paginas = extract_pdf_text(pdf_path)
@@ -310,6 +292,7 @@ def download_e_processar(
                 text_path = text_dir / text_fname
                 text_path.write_text(text, encoding="utf-8", errors="replace")
                 doc.texto_path = f"texto/{text_fname}"
+
             docs_pdf.append(doc)
             print(f"[{idx}/{len(documentos)}] OK PDF: {doc.titulo}", file=sys.stderr)
         except Exception as exc:  # noqa: BLE001
@@ -321,30 +304,29 @@ def download_e_processar(
 
 def gerar_indices(out: Path, docs_pdf: list[Documento], nao_pdf: list[dict[str, Any]], erros: list[dict[str, Any]], fonte_url: str) -> None:
     data_dir = out / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+
     metadata = {
         "fonte_oficial": fonte_url,
         "data_coleta": now_iso(),
         "total_pdfs": len(docs_pdf),
         "total_links_nao_pdf_ou_ignorados": len(nao_pdf),
         "total_erros": len(erros),
-        "observacao": "Use sempre o campo sha256 e a data_coleta para auditoria. Não reproduzir normas ABNT/NBR em texto integral.",
+        "observacao": "Use sha256 e data_coleta para auditoria. Não reproduzir normas ABNT/NBR em texto integral.",
     }
 
-    manifest = {
-        "metadata": metadata,
-        "documentos": [doc.asdict() for doc in docs_pdf],
-    }
+    docs_pdf_sorted = sorted(docs_pdf, key=lambda d: (d.numero_it or "999", d.titulo))
+    its = [d for d in docs_pdf_sorted if d.numero_it]
+
+    manifest = {"metadata": metadata, "documentos": [doc.asdict() for doc in docs_pdf_sorted]}
+    its_manifest = {"metadata": metadata, "instrucoes_tecnicas": [doc.asdict() for doc in its]}
+
     salvar_json(data_dir / "normas_manifest.json", manifest)
+    salvar_json(data_dir / "instrucoes_tecnicas_manifest.json", its_manifest)
     salvar_json(data_dir / "links_nao_pdf.json", {"metadata": metadata, "items": nao_pdf})
     salvar_json(data_dir / "erros_download.json", {"metadata": metadata, "items": erros})
 
-    its = [d for d in docs_pdf if d.numero_it]
-    its.sort(key=lambda d: int(d.numero_it or 999))
-    its_manifest = {"metadata": metadata, "instrucoes_tecnicas": [d.asdict() for d in its]}
-    salvar_json(data_dir / "instrucoes_tecnicas_manifest.json", its_manifest)
-
-    # JSON com texto integral das ITs vigentes/listadas. Útil para a Action listarNormasComTexto.
-    normas_com_texto = []
+    normas_com_texto: list[dict[str, Any]] = []
     for d in its:
         texto = ""
         if d.texto_path:
@@ -356,14 +338,11 @@ def gerar_indices(out: Path, docs_pdf: list[Documento], nao_pdf: list[dict[str, 
     normas_com_texto_obj = {"metadata": metadata, "normas": normas_com_texto}
     salvar_json(data_dir / "normas_com_texto.json", normas_com_texto_obj)
 
-    # Compatibilidade com o endpoint antigo do GPT:
-    # https://wellingtonvalente.github.io/normas-bombeiros/normas_com_texto.json
-    # Quando o GitHub Pages publica /docs, este arquivo precisa existir na raiz de /docs.
+    # Compatibilidade com endpoints antigos publicados na raiz do GitHub Pages (/docs).
     salvar_json(out / "normas_com_texto.json", normas_com_texto_obj)
     salvar_json(out / "normas_manifest.json", manifest)
     salvar_json(out / "instrucoes_tecnicas_manifest.json", its_manifest)
 
-    # JSONL em chunks para busca sem carregar um monolito gigante.
     chunks_path = data_dir / "normas_chunks.jsonl"
     with chunks_path.open("w", encoding="utf-8") as f:
         for d in its:
@@ -388,13 +367,15 @@ def gerar_indices(out: Path, docs_pdf: list[Documento], nao_pdf: list[dict[str, 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Sincroniza PDFs oficiais da página de normas técnicas do CBMMG.")
     parser.add_argument("--url", default=OFICIAL_URL, help="URL da página oficial do CBMMG.")
-    parser.add_argument("--out", default="public", help="Diretório de saída.")
+    parser.add_argument("--out", default="docs", help="Diretório de saída publicado pelo GitHub Pages.")
     parser.add_argument("--extract-text", action="store_true", help="Extrai texto dos PDFs baixados.")
     parser.add_argument("--allow-external", action="store_true", help="Permite baixar PDFs fora do domínio bombeiros.mg.gov.br.")
     args = parser.parse_args()
 
     out = Path(args.out).resolve()
     out.mkdir(parents=True, exist_ok=True)
+    (out / "data").mkdir(parents=True, exist_ok=True)
+
     session = get_session()
     html = fetch(session, args.url).text
     docs = extrair_links_da_pagina(html, args.url)
@@ -412,6 +393,7 @@ def main() -> int:
         only_cbmmg_host=not args.allow_external,
     )
     gerar_indices(out, docs_pdf, nao_pdf, erros, args.url)
+
     print(json.dumps({"ok": True, "pdfs": len(docs_pdf), "nao_pdf": len(nao_pdf), "erros": len(erros)}, ensure_ascii=False, indent=2))
     return 0
 

@@ -1,9 +1,9 @@
-name: Atualizar normas CBMMG
+﻿name: Atualizar normas CBMMG
 
 on:
   workflow_dispatch:
   schedule:
-    # Toda segunda-feira às 06:30 UTC. Ajuste se preferir mensal.
+    # Toda segunda-feira às 06:30 UTC.
     - cron: '30 6 * * 1'
 
 permissions:
@@ -24,20 +24,19 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m pip install -r requirements.txt
 
       - name: Sincronizar PDFs e JSONs oficiais do CBMMG
         run: |
           python scripts/sincronizar_normas_cbmmg.py --out docs --extract-text
 
-      - name: Verificar alterações
+      - name: Verificar alterações em docs
         id: diff
         run: |
-          if git diff --quiet -- docs; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
+          if [ -n "$(git status --porcelain -- docs)" ]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Commit automático

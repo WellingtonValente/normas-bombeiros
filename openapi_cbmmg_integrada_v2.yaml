@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: CBMMG Base Integrada - Normas, Textos e Templates
-  version: 2.0.0
+  version: 2.1.0
   description: >-
     API estática para Custom GPT consultar a base atualizada de normas técnicas do CBMMG,
     manifesto de PDFs oficiais, textos extraídos e catálogo de templates profissionais.
@@ -14,34 +14,33 @@ paths:
       operationId: listarNormasComTextoCompat
       responses:
         '200':
-          description: Base textual das ITs do CBMMG extraída dos PDFs oficiais sincronizados, publicada também na raiz do GitHub Pages por compatibilidade.
+          description: Base textual das ITs do CBMMG extraída dos PDFs oficiais sincronizados.
           content:
             application/json:
               schema:
                 type: object
-                properties:
-                  metadata:
-                    $ref: '#/components/schemas/Metadata'
-                  normas:
-                    type: array
-                    items:
-                      allOf:
-                        - $ref: '#/components/schemas/Documento'
-                        - type: object
-                          properties:
-                            texto:
-                              type: string
   /normas-bombeiros/normas_manifest.json:
     get:
       summary: Compatibilidade com o manifesto de normas na raiz do GitHub Pages
       operationId: listarManifestoNormasCompat
       responses:
         '200':
-          description: Manifesto auditável publicado também na raiz do GitHub Pages por compatibilidade.
+          description: Manifesto auditável publicado também na raiz do GitHub Pages.
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/ManifestoResponse'
+                type: object
+  /normas-bombeiros/instrucoes_tecnicas_manifest.json:
+    get:
+      summary: Compatibilidade com o manifesto de ITs na raiz do GitHub Pages
+      operationId: listarInstrucoesTecnicasCompat
+      responses:
+        '200':
+          description: Manifesto de Instruções Técnicas publicado também na raiz do GitHub Pages.
+          content:
+            application/json:
+              schema:
+                type: object
   /normas-bombeiros/data/normas_manifest.json:
     get:
       summary: Lista todos os documentos oficiais sincronizados da página do CBMMG
@@ -52,25 +51,18 @@ paths:
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/ManifestoResponse'
+                type: object
   /normas-bombeiros/data/instrucoes_tecnicas_manifest.json:
     get:
-      summary: Lista somente as Instruções Técnicas atuais detectadas na página do CBMMG
+      summary: Lista somente as Instruções Técnicas detectadas na página do CBMMG
       operationId: listarInstrucoesTecnicasCBMMG
       responses:
         '200':
-          description: Manifesto das ITs com número, edição, situação, portaria de alteração e URLs.
+          description: Manifesto das ITs com número, edição, situação, alteração e URLs.
           content:
             application/json:
               schema:
                 type: object
-                properties:
-                  metadata:
-                    $ref: '#/components/schemas/Metadata'
-                  instrucoes_tecnicas:
-                    type: array
-                    items:
-                      $ref: '#/components/schemas/Documento'
   /normas-bombeiros/data/normas_com_texto.json:
     get:
       summary: Lista as Instruções Técnicas com texto extraído dos PDFs oficiais
@@ -82,19 +74,6 @@ paths:
             application/json:
               schema:
                 type: object
-                properties:
-                  metadata:
-                    $ref: '#/components/schemas/Metadata'
-                  normas:
-                    type: array
-                    items:
-                      allOf:
-                        - $ref: '#/components/schemas/Documento'
-                        - type: object
-                          properties:
-                            texto:
-                              type: string
-
   /normas-bombeiros/data/enderecos_cbmmg.json:
     get:
       summary: Lista unidades/endereço CBMMG com SSCIP cadastradas na base local
@@ -128,70 +107,3 @@ paths:
             application/json:
               schema:
                 type: object
-components:
-  schemas:
-    Metadata:
-      type: object
-      properties:
-        fonte_oficial:
-          type: string
-        data_coleta:
-          type: string
-        total_pdfs:
-          type: integer
-        total_links_nao_pdf_ou_ignorados:
-          type: integer
-        total_erros:
-          type: integer
-        observacao:
-          type: string
-    Documento:
-      type: object
-      properties:
-        titulo:
-          type: string
-        url:
-          type: string
-        categoria:
-          type: string
-        subcategoria:
-          type: string
-          nullable: true
-        numero_it:
-          type: string
-          nullable: true
-        edicao:
-          type: string
-          nullable: true
-        situacao:
-          type: string
-          nullable: true
-        alteracao:
-          type: string
-          nullable: true
-        arquivo:
-          type: string
-          nullable: true
-        sha256:
-          type: string
-          nullable: true
-        tamanho_bytes:
-          type: integer
-          nullable: true
-        paginas:
-          type: integer
-          nullable: true
-        texto_path:
-          type: string
-          nullable: true
-        origem:
-          type: string
-    ManifestoResponse:
-      type: object
-      properties:
-        metadata:
-          $ref: '#/components/schemas/Metadata'
-        documentos:
-          type: array
-          items:
-            $ref: '#/components/schemas/Documento'
