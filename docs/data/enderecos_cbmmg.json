@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "fonte_oficial": "CBMMG – Endereços de Unidades com SSCIP",
+    "url": "https://www.bombeiros.mg.gov.br/enderecos",
+    "data_coleta": "2025-10-18"
+  },
+  "unidades": [
+    {
+      "unidade": "Centro de Atividades Técnicas (CAT)",
+      "cidade_base": "Belo Horizonte",
+      "endereco": "Alameda José Maria Alkimim, 1822 - Serra Verde - Belo Horizonte/MG",
+      "cep": "31630-060",
+      "telefone": "(31) 3916-0969",
+      "email": "cat.recepcao@bombeiros.mg.gov.br",
+      "municipios_atendidos": ["Belo Horizonte","Nova Lima","Contagem","Betim","Ibirité","Sabará","Santa Luzia"]
+    },
+    {
+      "unidade": "Governador Valadares (1ª Cia./6º BBM/5º CO)",
+      "cidade_base": "Governador Valadares",
+      "endereco": "Rua São Paulo, 1047 – Centro – Gov. Valadares/MG",
+      "cep": "35012-240",
+      "telefone": "(33) 3279-3637",
+      "email": "",
+      "municipios_atendidos": ["Governador Valadares","Itabirinha","Mantena","Alvarenga","Sobrália","Galiléia","Virgolândia"]
+    },
+    {
+      "unidade": "Teófilo Otoni (2ª Cia./6º BBM/5º CO)",
+      "cidade_base": "Teófilo Otoni",
+      "endereco": "Rua Padre Eustáquio, 180 – São Jacinto – Teófilo Otoni/MG",
+      "cep": "39803-050",
+      "telefone": "(33) 3522-1221",
+      "email": "",
+      "municipios_atendidos": ["Teófilo Otoni","Novo Oriente de Minas","Malacacheta","Poté","Ladainha","Caraí","Itambacuri"]
+    }
+  ]
+}
