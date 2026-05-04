@@ -1,0 +1,1894 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 10 
+1ª edição 
+PRESSURIZAÇÃO DE ESCADA DE 
+SEGURANÇA 
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+SUMÁRIO 
+1– Objetivo  
+2– Aplicação  
+3– Referências 
+4– Definições  
+5– Procedimentos 
+ANEXOS 
+A – Tabela 1 – Níveis de pressurização/ 
+Tabela 2 – Áreas típicas de escape para 
+quatro tipos de PCF 
+B – Resumo de exigências para os 
+diversos 
+tipos 
+de 
+edificações 
+com 
+sistemas de pressurização 
+C – Condições para instalação de casa de 
+máquinas de pressurização no pavimento 
+cobertura 
+D – Condição para não se revestir os 
+dutos 
+metálicos 
+de 
+sucção 
+e/ou 
+pressurização 
+E – Esquema geral do sistema de 
+pressurização (com duto no interior da 
+escada) 
+F – (Informativo) Características das 
+paredes 
+G – Módulo de cálculo de vazão do 
+sistema de pressurização de escada
+
+--- PÁGINA 2 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+2/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+1 OBJETIVO  
+1.1 Estabelecer os requisitos mínimos necessários para o dimensionamento da pressurização de 
+escadas de segurança em edificações.  
+1.2 Manter as escadas de emergência livres da fumaça, de modo a permitir a fuga dos 
+ocupantes de uma edificação no caso de incêndio. Esse sistema também pode ser acionado em 
+qualquer caso de necessidade de abandono da edificação.  
+2 APLICAÇÃO  
+Esta instrução técnica aplica-se a todas as edificações onde for projetada escada pressurizada 
+para fins de atendimento à legislação de segurança contra incêndio e pânico do Estado de Minas 
+Gerais. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las:  
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 9050 – Adequação das edificações e do imobiliário urbano à pessoa deficiente – 
+Procedimento. 
+NBR 9077 – Saídas de emergências em edifícios.  
+NBR 9441 – Execução de sistemas de detecção e alarme de incêndio.  
+NBR 10.898 – Sistemas de iluminação de emergência.  
+NBR 11.742 – Porta corta-fogo para saída de emergência.  
+NBR 13.768 – Acessórios destinados à porta corta-fogo para saída de emergência – requisitos. 
+NBR 14.880 – Saídas de emergência em edifícios – Escada de Segurança – Controle de fumaça 
+por pressurização.  
+BS–5588 Parte 4 (British Standards Institution) – Pressurização de escadas de segurança. 
+IT 08 – Saídas de emergência em edificações.  
+IT 15 – Sinalização de emergência.
+
+--- PÁGINA 3 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+3/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+4 DEFINIÇÕES  
+Para os efeitos desta Instrução Técnica aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção Contra Incêndio e Pânico).  
+5 PROCEDIMENTOS  
+5.1 Conceitos básicos do sistema de pressurização  
+5.1.1 Princípio geral da pressurização 
+a) considera-se um espaço pressurizado quando este receber um suprimento contínuo de ar que 
+possibilite manter um diferencial de pressão entre este espaço e os adjacentes, preservando-se 
+um fluxo de ar através de uma ou várias trajetórias de escape, que conduzem o ar para o 
+exterior da edificação; 
+b) para a finalidade prevista nesta IT, o diferencial de pressão deve ser mantido em nível 
+adequado para impedir a entrada de fumaça no interior da escada; 
+c) o método estabelecido nesta IT também se aplica às escadas de segurança com pavimentos 
+abaixo dos de descarga. 
+5.1.2 Pressurização de um ou dois estágios 
+O sistema de pressurização pode ser projetado de duas formas:  
+5.1.2.1 Sistema de um estágio: para operar somente em situação de emergência; ou  
+5.1.2.2 Sistema de dois estágios: incorporar um nível baixo de pressurização, para 
+funcionamento contínuo, com previsão para um nível maior de pressurização que entra em 
+funcionamento em uma situação de emergência. 
+5.1.2.3 É facultativa a utilização do sistema de pressurização de um ou dois estágios.  
+5.1.3 Elementos básicos de um sistema de pressurização  
+São elementos básicos de um sistema de pressurização:  
+a) sistema de acionamento e alarme;  
+b) ar externo suprido mecanicamente;  
+c) trajetória de escape do ar; e 
+d) fonte de energia garantida.  
+5.1.4 Unidades adotadas 
+5.1.4.1 Toda e qualquer proposta de sistema de pressurização deve seguir os critérios de 
+apresentação e desenvolvimento de acordo com o estabelecido abaixo: 
+Vazão (Q) = m³/s  
+Velocidade (V) = m/s
+
+--- PÁGINA 4 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+4/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+Área (A) = m² 
+Pressão (P) = Pa (Pascal), ou mmH2O (milímetro de coluna d’água) 
+Potência = CV (Cavalo Vapor) ou HP (Horse Power) 
+Temperatura em Graus Celsius = °C  
+Altura da Edificação (h) = m  
+5.1.5 Níveis de pressurização adotados  
+5.1.5.1 O nível de pressurização utilizado para fins de processo não deve ser menor que o 
+apresentado na Tabela 1 do Anexo A, desta IT, e não deve ultrapassar o limite de 60 Pa, 
+considerando-se todas as PCF (portas corta-fogo) de acesso à escada fechadas.  
+5.1.5.2 Os edifícios utilizados por crianças, idosos e ou pessoas incapacitadas precisam de 
+considerações especiais, a fim de assegurar que as PCF possam ser abertas, apesar da força 
+criada pelo diferencial de pressão.  
+5.1.5.3 Para obtenção dos níveis de pressurização no interior dos espaços pressurizados, na 
+determinação da capacidade de vazão e pressão dos motoventiladores, devem ser avaliadas as 
+perdas de carga localizadas em todos os componentes de captação e distribuição do sistema 
+(dutos, venezianas, grelhas, joelhos, dampers, saídas dos motoventiladores, rugosidades das 
+superfícies internas dos dutos, etc.), que devem constar de memorial de cálculo, atendendo as 
+seguintes condições:  
+a) desenvolvimento do cálculo do suprimento de ar necessário considerando as duas situações 
+previstas no item 5.1.6 abaixo: escape de ar com todas as portas do espaço pressurizado 
+fechadas (Equação 2), para o dimensionamento do damper de alívio, e escape de ar 
+considerando as portas abertas na quantidade estipulada no Anexo B desta IT (Equação 3);  
+b) desenvolvimento do cálculo das perdas de carga ao longo da rede de captação e distribuição 
+de ar, considerando todas as singularidades. Devem constar também a velocidade do fluxo de ar 
+em todos os trechos e acessórios, que devem estar dentro dos limites estipulados nesta IT. 
+Tabelas e ábacos de fabricantes de acessórios podem ser considerados para determinação das 
+perdas de carga de singularidades, a partir da velocidade e vazão;  
+c) a velocidade do fluxo de ar em todo o trecho de captação deve ser de 4 a 8m/s e, no trecho de 
+distribuição, de 10 a 15m/s, podendo ser aceito diferente desses parâmetros quando se tratar de 
+edificação existente, desde que não haja possibilidade técnica de adequação, devidamente 
+justificada.  
+5.1.6 Suprimento de ar necessário  
+5.1.6.1 Cálculo do suprimento de ar 
+a) para se determinar o primeiro valor de suprimento de ar necessário para se obter um certo 
+diferencial de pressão entre o ambiente a ser pressurizado e os ambientes contíguos, deve-se 
+adotar a Equação 1. Essa equação depende diretamente da área de restrição e do diferencial de 
+pressão entre os ambientes contíguos. A área de restrição é determinada pelo escape de ar para 
+fora do espaço a ser pressurizado, quando o ar passa, como por exemplo, pelas frestas ao redor 
+de uma PCF. O diferencial de pressão é o mínimo estabelecido nesta IT, ou seja, 50 Pa.
+
+--- PÁGINA 5 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+5/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+Equação 1:  
+𝐐= 𝟎,𝟖𝟐𝟕× 𝐀× (𝐏)(𝟏𝐍
+⁄ ) 
+Onde: 
+Q - é o fluxo de ar (m3 /s)  
+A - é a área de restrição (m2)  
+P - é o diferencial de pressão (Pa)  
+N - é um índice que varia de 1 a 2  
+No caso de frestas em torno de uma PCF, N = 2  
+No caso de frestas em vãos estreitos, tais como frestas em torno de janelas, N = 1,6  
+Vazão de ar (condição padrão de ar com densidade de 1,204 kg/m3)  
+5.1.6.2 Trajetórias de escape em série e paralelo 
+a) na trajetória de escape do ar para fora de um espaço pressurizado, podem existir elementos 
+de restrição posicionados em paralelo, tal como ilustrado na Figura 1, ou em série, como 
+apresentado na Figura 2, ou ainda, uma combinação desses. 
+ 
+Figura 1– Trajetórias de escape do ar em paralelo  
+b) no caso de trajetórias de escape do ar em paralelo, com as portas do ambiente conforme 
+Figura 1 acima, a área total de escape é determinada pela simples soma de todas as áreas de 
+escape envolvidas, então:  
+𝐴 total =  𝐴1+ 𝐴2+ 𝐴3 + 𝐴4 
+ 
+Figura 2– Trajetórias de escape do ar em série
+
+--- PÁGINA 6 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+6/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+c) no caso das portas em série, como a PCF da escada e a PCF da antecâmara não ventilada a 
+ela associada, como demonstrado na Figura 2 acima, temos: 
+1
+(𝐴𝑇𝑜𝑡𝑎𝑙)² =
+1
+(𝐴1)² +
+1
+(𝐴2)² +
+1
+(𝐴3)² +
+1
+(𝐴4)² 
+d) o escape total e efetivo de uma combinação de trajetórias de escape do ar em série e em 
+paralelo, pode ser obtido combinando-se sucessivamente grupos simples de escape isolados 
+(PCF da escada e da antecâmara pressurizada do mesmo pavimento), com os outros 
+equivalentes (PCF em paralelo).  
+5.1.6.3 Área de escape a partir de uma escada pressurizada 
+De maneira geral, o escape de ar a partir de uma escada ocorre:  
+a) por meio das frestas em torno das PCF (quando essas estiverem fechadas), devendo ser 
+adotado os valores constantes na tabela 2 do anexo A desta IT;  
+b) por meio do vão de luz das PCF consideradas na condição abertas, na quantidade estipulada 
+do Anexo B desta IT, somada às perdas pelas frestas das demais PCF consideradas na 
+condição fechadas;  
+c) por meio das frestas no entorno de portas de elevadores e janelas existentes no espaço 
+pressurizado.  
+5.1.6.4 Vazamentos em dutos e vazamentos não identificados 
+No desenvolvimento do cálculo, considerar acréscimo no suprimento total de ar necessário, 
+considerando todas as portas da caixa de escada fechadas:  
+a) de 15% para vazamentos em dutos metálicos ou 25% para dutos construídos em alvenaria ou 
+mistos, sendo que esses valores percentuais devem ser considerados independentemente do 
+comprimento dos dutos;  
+b) de 25% para atender a hipótese de vazamentos não identificados.  
+Nota: A vazão total de escape pelas frestas pode ser calculada pelas equações abaixo:  
+Equação 2: 
+𝐐𝐅𝐓= 𝐐𝐅+ 𝟏𝟓%(𝐯𝐚𝐳𝐚𝐦𝐞𝐧𝐭𝐨𝐬 𝐞𝐦 𝐝𝐮𝐭𝐨𝐬 𝐦𝐞𝐭á𝐥𝐢𝐜𝐨𝐬) + 𝟐𝟓%(𝐯𝐚𝐳𝐚𝐦𝐞𝐧𝐭𝐨𝐬 𝐧ã𝐨 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐢𝐜𝐚𝐝𝐨𝐬) 
+OU 
+𝐐𝐅𝐓= 𝐐𝐅+ 𝟐𝟓%(𝐯𝐚𝐳𝐚𝐦𝐞𝐧𝐭𝐨𝐬 𝐞𝐦 𝐝𝐮𝐭𝐨𝐬 𝐦𝐞𝐭á𝐥𝐢𝐜𝐨𝐬) + 𝟐𝟓%(𝐯𝐚𝐳𝐚𝐦𝐞𝐧𝐭𝐨𝐬 𝐧ã𝐨 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐢𝐜𝐚𝐝𝐨𝐬) 
+Onde:  
+QFT = vazão total das frestas com todas as portas fechadas (m³/s), levando-se em consideração 
+a condição padrão do ar.  
+QF = vazamento através das frestas, considerando-se todas as portas fechadas (m³/s), levando-
+se em consideração a condição padrão do ar.
+
+--- PÁGINA 7 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+7/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+5.1.6.5 Portas corta-fogo abertas e outras aberturas 
+a) para ser eficaz, a escada de emergência deve ter seus acessos protegidos por PCF, e é 
+inevitável que estas sejam abertas ocasionalmente. A pressurização projetada não pode ser 
+mantida, se houver grande abertura entre a área pressurizada e os espaços adjacentes; 
+b) os critérios para verificação da velocidade do ar a que se referem os itens seguintes são os 
+estipulados no item 5.1.6.8;  
+c) quando de uma abertura permanente (uma janela dentro da caixa de escada, por exemplo), 
+deve ser considerada uma velocidade média do ar, através desta abertura, de 4 m/s; 
+d) a abertura intermitente das PCF, quando do abandono da edificação, produz, 
+momentaneamente, uma perda de pressão no interior da escada. A vazão de ar determinada 
+pela Equação 1 deve ser avaliada para que seja obtida uma condição satisfatória para minimizar 
+a infiltração de fumaça no interior da escada nesta situação, devendo possibilitar a manutenção 
+de uma velocidade de ar mínima de 1,0 m/s saindo através das PCF consideradas abertas, 
+conforme critério estabelecido no Anexo B, desta IT, e das frestas das demais PCF fechadas da 
+escada; 
+e) o número de PCF abertas a ser utilizado nos cálculos depende do tipo de edificação, 
+considerando-se o número de ocupantes e as dificuldades encontradas para o abandono, 
+devendo obedecer aos critérios estipulados no Anexo B desta IT; 
+f) uma PCF considerada aberta adicional (com relação ao estabelecido no Anexo B desta IT) 
+deve ser considerada no cálculo do suprimento de ar do sistema de pressurização, em 
+edificações onde existem locais de reunião de público com capacidade para 50 (cinquenta) ou 
+mais pessoas (tais como auditórios, refeitórios, salas de exposição e assemelhados). Esse 
+critério deve ser desconsiderado quando o local de reunião de público estiver no piso de 
+descarga (térreo ou nível com saída direta para o exterior) ou em mezaninos do piso térreo com 
+acessos através de escadas exclusivas; 
+g) devem ser considerados os vãos e frestas reais de todas as PCF da caixa da escada 
+pressurizada, conforme especificado abaixo, na quantidade estipulada no Anexo B desta IT:  
+g.1) PCF simples, quando todos os acessos à escada pressurizada ocorrer apenas através de 
+PCF simples;  
+g.2) PCF duplas, quando a quantidade de PCF duplas instaladas for igual ou superior à 
+quantidade de PCF abertas - critério esse estipulado no Anexo B desta IT para efeito de 
+dimensionamento de vazão por meio de PCF abertas;  
+g.3) PCF duplas e PCF simples, quando a quantidade de PCF duplas for inferior à quantidade de 
+PCF consideradas abertas - critério esse estipulado no Anexo B desta IT para efeito de 
+dimensionamento de vazão por meio de PCF abertas - devem ser consideradas todas as PCF 
+duplas e, na quantidade devida, complementar com PCF simples, ou seja, neste caso, cada PCF 
+dupla deve ser computada como uma PCF aberta e não como duas, embora devem ser 
+somados o vão de luz real de cada PCF dupla e simples consideradas;  
+h) em edificações existentes é comum, o uso da pressurização de um amplo hall e o uso da PCF 
+no acesso às unidades residenciais ou unidades de escritório etc., como estabelecido na Figura 
+1 do item 5.1.6.2. Nesses casos, o número de PCF duplas ou simples calculadas (respeitando-se 
+suas áreas), deve ser de 04 (quatro) para edificações com até 60 (sessenta) metros de altura, 
+sendo que acima desse valor é exigido o cálculo de 5 (cinco) PCF abertas.
+
+--- PÁGINA 8 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+8/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+Observação: O número máximo de PCF por pavimento, em contato com esse ambiente 
+pressurizado deve ser de 4 (quatro) PCF simples. Características diferentes devem ser avaliadas 
+pelo Corpo Técnico do CBMMG.  
+Nota:A vazão total requerida para o sistema de pressurização de escadas deve ser calculada 
+pela equação abaixo: 
+ Equação 3:  
+Se QFT> QPA então QT = QFT 
+Se QFT< QPA então QT = QPA 
+Onde:  
+QT = vazão total requerida do sistema de pressurização;  
+QFT = vazão total das frestas com todas as portas fechadas (m³/s);  
+QPA = vazamento de ar através das portas consideradas abertas (m³/s);  
+Observação:  
+Em todos os casos levar em consideração a condição padrão do ar. 
+5.1.6.6 Elevador de emergência 
+A antecâmara de segurança do elevador de emergência deve ser pressurizada, conforme os 
+critérios do item 5.1.6.7 e da Tabela do Anexo B desta IT, e apresentar as seguintes 
+características:  
+a) no topo da caixa de alvenaria do elevador deve ser prevista abertura permanente ou damper 
+de alívio, de modo a permitir o escape de ar insuflado para as antecâmaras do elevador, 
+proveniente das frestas das portas do poço instaladas em cada pavimento, a fim de impedir que 
+a pressão no interior dessas antecâmaras dificulte a abertura das PCF de acesso;  
+b) as frestas das portas do elevador e das PCF de acesso às antecâmaras devem ser suficientes 
+para promover o escape de ar, impedindo que a pressão interna se eleve acima dos 60 Pa;  
+c) quando contígua com a escada pressurizada, a antecâmara, quando não pressurizada por 
+duto exclusivo, deve ser pressurizada pelo mesmo sistema da escada, através de vasos 
+comunicantes, controlados por venezianas reguláveis e independentes em cada nível de 
+pavimento, de forma a manter um gradiente de pressão no sentido do interior da escada 
+pressurizada para a antecâmara de segurança – neste caso considerar o escape de ar através 
+dessas janelas no cálculo do suprimento total de ar necessário para o sistema de pressurização 
+da escada (adotar as frestas e vão reais efetivos).  
+d) ser protegida por PCF P90, no acesso à antecâmara de segurança, a partir do pavimento;  
+e) a casa de máquinas deve ser independente e isolada em relação aos demais elevadores, com 
+paredes de resistência mínima a 2 (duas) horas de fogo e acessos protegidos por PCF P90;  
+f) alternativamente, pode ser adotada a pressurização das antecâmaras do elevador de 
+emergência a partir do poço do elevador que, nesse caso, funcionará como duto de 
+pressurização, para tanto:
+
+--- PÁGINA 9 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+9/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+f.1) avaliar as condições para se manter as antecâmaras pressurizadas até o limite de 60 Pa, 
+considerando-se as resistências das frestas no entorno das portas dos elevadores e PCF de 
+acesso em cada pavimento;  
+f.2) precaver-se de que haja um fluxo de ar contínuo entre esse espaço pressurizado com os 
+ambientes contíguos e, desses, com aberturas permanentes para o exterior da edificação.  
+5.1.6.7 Antecâmara de segurança 
+a) para as edificações estabelecidas no Anexo B desta IT, deve ser exigida, além da 
+pressurização da escada de segurança, a existência de uma antecâmara de segurança. Essa 
+antecâmara deve possuir as seguintes características:  
+a.1) ser interposta entre a escada pressurizada e as áreas comuns ou privativas da edificação, 
+em todos os níveis de pavimento, considerando-se a partir do piso de descarga, nos sentidos 
+ascendente e descendente (pavimentos superiores e inferiores ao nível da descarga) dentro do 
+critério de altura da Tabela do Anexo B; 
+a.2) ser protegida por PCF P60, tanto no acesso à antecâmara de segurança quanto no acesso 
+à escada pressurizada;  
+a.3) deve haver um diferencial de pressão entre a antecâmara de segurança e o interior da 
+escada pressurizada, garantindo-se dessa forma o gradiente de pressão no sentido do interior da 
+escada pressurizada para a antecâmara de segurança;  
+a.4) a antecâmara de segurança deve possuir dimensões mínimas de acordo com a IT 08 
+(Saídas de Emergência em Edificações);  
+a.5) a pressurização da escada e da antecâmara de segurança pode ser realizada utilizando-se 
+de somente um conjunto motoventilador.  
+Observação: Quando exigido (ver Anexo B), as antecâmaras de segurança das escadas 
+pressurizadas e dos elevadores de emergência, localizadas em níveis inferiores ao piso de 
+descarga, devem possuir as mesmas características mencionadas acima.  
+b) as edificações existentes estão isentas do cumprimento do estabelecido neste item, caso haja 
+impossibilidade técnica de adaptação.  
+5.1.6.8 Estimativa da velocidade de saída do ar através da PCF aberta 
+a) na prática, a velocidade de saída do ar deve ser obtida dividindo-se a vazão de ar de 
+suprimento (Equação 1) pela área de abertura total;  
+b) a área de abertura total deve ser calculada somando-se as áreas das PCF consideradas 
+abertas (ver Anexo B desta IT) e as frestas das demais PCF previstas na escada; 
+c) quando a velocidade obtida no cálculo especificado na alínea “a” for inferior ao parâmetro 
+mínimo estabelecido, a vazão de ar deve ser aumentada até que seja alcançado o valor 
+requerido; 
+d) sobre o valor de vazão de ar obtido conforme alínea “a” ou alínea “c” devem ser aplicados os 
+fatores de vazamentos em dutos e de vazamentos não-identificados; 
+e) para atender a todas as hipóteses de escapes de ar e de vazamentos não-identificados, 
+contidos nesta IT, invariavelmente a escada pressurizada deve ser provida de dispositivos que
+
+--- PÁGINA 10 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+10/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+impeçam que a pressão no seu interior se eleve acima de 60 Pa, devido ao excesso de ar que 
+pode ser necessário.  
+5.1.6.9 Efeito do sistema 
+Com a finalidade de eliminar o risco de redução de desempenho do ventilador, em termos de 
+vazão, é recomendado que o "efeito do sistema" seja levado em consideração, atendendo-se 
+aos procedimentos contidos nas Normas ASNI / ASHRAE 51 ou a AMCA –210 e o Manual da 
+AMCA "Fans and Systems"– publicação 201– 90 – "O fator do efeito do sistema" (System Effect 
+Factor) e suas tabelas.  
+5.2 A edificação 
+5.2.1Aspectos gerais 
+a) sistema de pressurização de escada de segurança para edificação com altura superior a 90 
+metros deve ser objeto de análise do Corpo Técnico do CBMMG;  
+b) a edificação deve ser planejada de forma a atender aos requisitos do sistema de 
+pressurização, garantindo o seu funcionamento com relação às condições descritas nesta IT;  
+c) todos os componentes do sistema de pressurização (dutos, grupo motoventilador, grupo 
+motogerador automatizado) devem ser protegidos contra o fogo por no mínimo 2 (duas) horas 
+(exceção feita às portas corta-fogo que devem ser do tipo P90, nas casas de máquinas), a fim de 
+garantir o abandono dos ocupantes da edificação, bem como o acesso ao Corpo de Bombeiros;  
+d) pisos escorregadios nas proximidades das PCF de acesso aos espaços pressurizados devem 
+ser evitados;  
+e) portas corta-fogo devem estar de acordo com a NBR 11.742, e serem instaladas de forma a 
+atender às premissas básicas do processo de pressurização de escadas. Caso contrário, a 
+pressurização perde sua função e deve ser reavaliada, ou dispositivos complementares, junto a 
+esta PCF, devem dar as garantias do projetado na pressurização. Tais dispositivos não podem 
+alterar as características de resistência ao fogo das PCF;  
+f) atenção especial deve ser dada às edificações que possuam acesso de pessoas portadoras 
+de deficiência física;  
+g) quando a pressurização da escada dificulta o fechamento das PCF (como exemplo, PCF 
+posicionada no pavimento de descarga), dispositivos de fechamento devem ser dimensionados 
+de forma a vencer esta força. Tais dispositivos devem ser capazes de mantê-las fechadas contra 
+a pressão do sistema de pressurização;  
+h) deve ser prevista sinalização orientativa nas PCF, na face externa à escada, com os 
+seguintes dizeres: “ESCADA PRESSURIZADA”, segundo critérios da IT 15 (Sinalização de 
+Emergência);  
+i) visando a selagem, como forma de não prejudicar o estabelecido no item 5.1.6.6 desta IT, 
+deve ser considerado o controle da porosidade das paredes que envolvem as escadas, bem 
+como dos dutos de sucção e pressurização, construídos em alvenaria;  
+j) deve ser previsto sistema de detecção de fumaça e iluminação de emergência nos seguintes 
+locais: casa de máquinas de pressurização; sala do grupo motogerador automatizado; no 
+ambiente onde se localizar os acionadores manuais alternativos dos motoventiladores; em 
+qualquer outro local que possua contato direto com a escada pressurizada;
+
+--- PÁGINA 11 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+11/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+k) caso exista algum compartimento ou equipamento que, direta ou indiretamente, possa gerar 
+dúvida quanto à sua real interferência no sistema de pressurização, como por exemplo, sistema 
+de controle de fumaça, o processo deve ser submetido à análise do Corpo Técnico do CBMMG.  
+5.2.2 Edifícios com múltiplas escadas 
+a) em edifícios com múltiplas escadas pressurizadas, devem ser instalados sistemas 
+independentes de pressurização para cada escada; 
+b) escadas conjugadas em um mesmo volume ou com aberturas entre si, funcionando como 
+vasos comunicantes entre si, não devem ser aceitas, haja vista reduzir o nível de confiabilidade 
+necessária para edificações com elevada concentração de pessoas ou elevado nível de altura, 
+inviabilizando a redundância das saídas de emergência e comprometendo o funcionamento do 
+sistema de pressurização da escada; 
+c) em um mesmo edifício não devem existir escadas de segurança pressurizadas, escadas 
+simples ou enclausuradas atendendo aos mesmos espaços. Casos específicos em que se 
+comprove a não interferência da escada pressurizada sobre as demais, devem ser analisados 
+pelo Corpo Técnico do CBMMG.  
+5.2.3 Relação entre a Pressurização e o Sistema de Ar Condicionado 
+a) a circulação de ar promovida pelo sistema de condicionamento de ar ou de exaustão 
+mecânica deve ser projetada de modo a manter a trajetória do fluxo de ar no sentido contrário ao 
+estabelecido para o abandono da população da edificação, a fim de diminuir o risco das rotas de 
+fuga serem atingidas pela fumaça oriunda do incêndio. Caso isso não seja atendido, devem ser 
+previstos dispositivos de fechamento automático, que garantam o bloqueio da passagem de 
+fumaça em caso de incêndio. Portanto, esses dispositivos devem ser utilizados quando existir o 
+risco desses dutos e/ou sistemas contribuírem para o alastramento do incêndio, ou não 
+atenderem os critérios de compartimentação horizontal e/ou vertical; 
+b) na situação de emergência (entrada em funcionamento do sistema de pressurização), todo o 
+sistema de circulação de ar existente na edificação deve ser projetado para imediata interrupção 
+do seu funcionamento; 
+c) sistemas de exaustão podem ser mantidos ligados desde que promovam um fluxo favorável 
+ao sentido do escape de ar do sistema de pressurização de escada, sendo que tais casos devem 
+ser analisados pelo Corpo Técnico do CBMMG; 
+d) o sistema de alarme e detecção de incêndio também deve ser o responsável pelo comando 
+das alterações necessárias no sistema de ventilação e ar condicionado. O sinal, que deve dar 
+início a todas estas alterações na operação desses sistemas, deve vir da mesma fonte que 
+aciona a pressurização na situação de emergência; 
+e) detector de fumaça dentro dos dutos de retorno do ar condicionado deve ser utilizado como 
+sistema auxiliar de acionamento do sistema de pressurização, devendo o mesmo ser 
+adequadamente instalado e ter sua eficiência comprovada por meio de ensaio, de acordo com 
+NBR 17.240.  
+5.2.4 Estruturas de proteção e garantias de funcionamento do sistema de pressurização 
+a) a edificação deve proporcionar a proteção adequada contra incêndio para todos os 
+componentes que garantam o funcionamento do sistema de pressurização;
+
+--- PÁGINA 12 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+12/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+b) os dutos de sucção e/ou pressurização, seus ancoramentos ou seus revestimentos contra 
+incêndio, em seu caminhamento interno ou externamente à edificação, não devem passar por 
+ambientes que possam prejudicar (com danos mecânicos, químicos ou do próprio incêndio) a 
+eficiência do sistema de pressurização; 
+c) os dutos de sucção e/ou pressurização, no seu caminhamento, devem, de preferência, estar 
+posicionados o mais próximo possível ao teto (laje) dos ambientes, sendo que quaisquer outras 
+instalações devem estar posicionadas logo abaixo, desde que se atendam os requisitos do item 
+5.2.4, alíneas f, g e h desta IT; 
+d) os ancoramentos dos dutos e outros acessórios, necessários ao sistema de pressurização, 
+não podem servir funcionalmente a outros tipos de instalações; 
+e) cabos elétricos e dutos de sucção e/ou pressurização devem estar devidamente protegidos 
+contra a ação do fogo em caso de incêndio, garantindo o acionamento e o funcionamento do 
+sistema de pressurização para no mínimo 2 (duas) horas; 
+f) os dutos de sucção e/ou pressurização, para que não seja exigido o revestimento contra 
+incêndio, devem estar afastados de sistemas de vasos sob pressão, baterias de GLP ou 
+sistemas alimentados por gás natural, de nafta ou similares e depósitos ou tanques de 
+combustível, de acordo com o estabelecido no Anexo D desta IT; 
+g) para os riscos citados no item 5.2.4 alínea “f”, em que não consiga os afastamentos 
+estabelecidos no Anexo D (todos desta IT), além da proteção que garanta resistência ao fogo 
+por 2 (duas) horas nos dutos de sucção e/ou pressurização, deve ser prevista distância mínima, 
+medida no plano horizontal, de 2,0 metros desses riscos; 
+h) caso o afastamento de 2,0 metros entre as tubulações que conduzem gás GLP, gases 
+naturais, de nafta ou similares, e os dutos de sucção e/ou pressurização não seja cumprido, 
+essas tubulações de gás devem ser envolvidas por tubo-luva de proteção, de ferro galvanizado 
+ou aço carbono, devidamente identificada na cor vermelha e suportado de forma independente, 
+com diâmetro nominal mínimo 1,5 vezes maior que a tubulação a ser envolvida. O afastamento, 
+medido no plano horizontal, entre a entrada e saída do tubo-luva de proteção e os dutos de 
+sucção e/ou pressurização, deve ser de no mínimo 1,0 m, de acordo com o estabelecido no 
+Anexo D desta IT; 
+i) o grupo motoventilador, seus acessórios, componentes elétricos e de controle, devem ser 
+alojados em compartimentos resistentes ao fogo por, no mínimo, duas horas. As PCF de acesso 
+a esse compartimento devem ser do tipo PCF P90;  
+j) caso o compartimento casa de máquinas do grupo motoventilador esteja posicionado em 
+pavimento subsolo, ou outro pavimento que possa causar risco de captação da fumaça de um 
+incêndio, deve ser previsto uma "antecâmara de segurança" entre esse compartimento e o 
+pavimento. Também deve ser previsto sistema de detecção no acesso a esse conjunto 
+compartimento casa de máquinas. Essa "antecâmara de segurança" pode possuir dimensões 
+reduzidas, com relação ao estabelecido na IT 08 (Saídas de Emergência em edificações). O 
+acesso à "antecâmara de segurança" deve ser protegido por uma PCF P90, bem como, o 
+acesso à casa de máquinas do grupo motoventilador ser protegido por uma porta estanque, de 
+forma a evitar a captação de fumaça que porventura passe pelas frestas desta PCF. Esta 
+solução pode ser substituída por outra, que garanta a diminuição de risco de captação da 
+fumaça de um incêndio pelo compartimento casa de máquinas do grupo motoventilador; 
+k) quando o sistema de interligação do grupo motoventilador for realizado por correias, deve ser 
+providenciada proteção contra eventuais acidentes pessoais, por meio de grade ou outro 
+dispositivo que possua mesma finalidade e eficiência;
+
+--- PÁGINA 13 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+13/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+l) o grupo motogerador automatizado e seus acessórios, quando exigidos, de acordo com os 
+critérios do Anexo B desta IT, devem ter em seu compartimento, o mesmo nível de proteção 
+estabelecido no item 5.2.4, alínea “i” desta IT. Tais compartimentos devem ser projetados com 
+vistas a garantir a manutenção de sua estabilidade, integridade e estanqueidade, tendo em vista 
+a vibração originária do funcionamento do grupo motogerador; 
+m) o circuito formado pela tomada de ar frio e saída do ar aquecido (do compartimento casa de 
+máquinas do grupo motogerador), bem como o escape dos gases da combustão, para o perfeito 
+funcionamento do grupo motogerador automatizado e seus acessórios, devem ser 
+adequadamente projetados como forma de garantir a alimentação elétrica dos sistemas de 
+segurança e sistema de pressurização das edificações. Preferencialmente, o grupo motogerador 
+e seus acessórios devem estar posicionados no pavimento térreo ou próximo deste. Caso não 
+exista condição técnica para o cumprimento dessa exigência, no mínimo, deve ser garantida que 
+a tomada de ar frio seja realizada próximo ao pavimento térreo, através de dutos, sem o risco de 
+se captar a fumaça oriunda de um incêndio. Os dutos de tomada de ar frio devem, se passarem 
+por áreas de risco, possuir proteção que garanta resistência ao fogo por no mínimo 2 (duas) 
+horas. Cuidados especiais, quanto ao isolamento térmico e/ou de resistência ao fogo, devem ser 
+tomados para os dutos de saída do ar aquecido e dutos de escape de gases da combustão; 
+n) cuidados especiais devem ser tomados para evitar a entrada de água ou produtos agressivos, 
+nos compartimentos casa de máquinas do grupo motoventilador e do grupo motogerador 
+automatizado, por intempéries ou mesmo quando da manutenção geral da edificação; 
+o) o grupo motoventilador deve estar posicionado em compartimento diferente do que abriga o 
+grupo motogerador automatizado; 
+p) nas edificações existentes não é obrigatório o uso do grupo motogerador automatizado, que 
+pode ser substituído pela ligação independente do grupo motoventilador.  
+5.3 A Instalação e equipamentos  
+5.3.1 Ventilador  
+a) o conjunto motoventilador deve atender a todos os requisitos desta IT, para proporcionar a 
+pressurização requerida; 
+b) em todos os edifícios devem ser previstos sistemas motoventiladores em duplicata, com as 
+mesmas características, para atuarem especificamente na situação de emergência, de acordo 
+com os critérios estabelecidos no Anexo B desta IT; 
+c) nos edifícios residenciais e escritórios com até 60 (sessenta) metros de altura e nos edifícios 
+escolares com até 30 (trinta) metros de altura, é permitido o uso de somente um ventilador com 
+um motor. De forma substitutiva, podem ser utilizados 02 (dois) grupos motoventiladores, sendo 
+que cada grupo deve, no mínimo, garantir 50% da vazão total do sistema e 100% da pressão 
+total requerida, para atuarem especificamente no estágio de emergência e em conjunto.  
+5.3.2 Tomada de ar 
+a) é essencial que o suprimento de ar usado para pressurização nunca esteja em risco de 
+contaminação pela fumaça proveniente de um incêndio no edifício. Medidas para minimizar a 
+influência da ação dos ventos sobre o sistema de pressurização, da entrada do sistema (tomada 
+de ar) até a saída (por meio das PCF e/ou periferia do edifício) também devem ser adotadas;  
+b) a tomada de ar e instalação do grupo motoventilador e seus acessórios, para o sistema de 
+pressurização, devem atender as seguintes características:
+
+--- PÁGINA 14 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+14/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+b.1) localizarem-se no pavimento térreo ou próximo deste, e possuir filtro de partículas classe G-
+1, conforme NBR 6401, sendo do tipo metálico lavável;  
+b.2) caso necessário, a tomada de ar deve ser realizada através de duto de captação de um 
+local sem risco de fumaça de incêndio até o compartimento que abriga o conjunto 
+motoventilador;  
+b.3) não é permitido conjugar a captação de ar do sistema de pressurização com a saída da 
+extração de fumaça dos subsolos;  
+b.4) o compartimento que abriga o conjunto motoventilador deve permitir facilidades de acesso 
+para manutenção, mesmo quando estiver posicionado em nível subterrâneo;  
+c) em edificações existentes e quando não houver condições técnicas de se cumprir o 
+estabelecido no item 5.3.2, alínea b desta IT, devidamente comprovada a inviabilidade, quanto à 
+instalação do conjunto motoventilador, pode ser permitida sua instalação no pavimento 
+cobertura; 
+d) a tomada de ar em nível da cobertura, em edificações existentes, pode ser permitida quando 
+não houver condições técnicas de se cumprir o estabelecido no item 5.3.2, alínea b desta IT, 
+devendo ser analisada pelo Corpo Técnico do CBMMG; 
+e) caso seja aceita a tomada de ar ao nível da cobertura da edificação, requisitos mínimos 
+devem ser providenciados de modo a diminuir o risco de captação da fumaça que sobe pelas 
+fachadas do edifício, a saber:  
+e.1) construção de uma parede alta, posicionada em todo o perímetro da cobertura da 
+edificação, e afastada da tomada de ar 5,0 m, medida no plano horizontal, tal parede deve ser 
+1,0 m mais alta que o nível da tomada de ar; 
+Observação: Ver Anexo C desta IT. 
+e.2) construção de uma parede alta, 2,0 m acima da tomada de ar, posicionada em todo o 
+perímetro da cobertura da edificação, quando não se conseguir o afastamento de 5,0 m, 
+medidos no plano horizontal.  
+Observação: Ver Anexo C desta IT.  
+f) da mesma forma, o ponto de descarga de qualquer duto vertical que possa eventualmente 
+descarregar fumaça de um incêndio, deve também estar afastado 2,0 m, no mínimo, medida no 
+plano vertical, em relação ao nível da tomada de ar. Esse duto deve atender aos requisitos 
+estabelecidos no item 5.2.4, alínea b desta IT, e preferencialmente o seu ponto de descarga 
+deve ficar posicionado o mais próximo possível, medido no plano horizontal, da tomada de ar do 
+sistema de pressurização.  
+Observação: Ver Anexo C desta IT.  
+5.3.3 Sistema de distribuição de ar 
+a) nos edifícios com vários pavimentos, a disposição preferida para um sistema de distribuição 
+de ar para pressurização consiste em um duto vertical que corre adjacente aos espaços 
+pressurizados, sendo que, para edificações existentes, havendo impossibilidade técnica 
+justificada de execução desse duto, pode ser aceita a distribuição de ar através de duto plenum. 
+Neste caso o processo deve ser analisado pelo Corpo Técnico do CBMMG. Deve-se verificar os 
+efeitos da "resistência fluidodinâmica" associada ao escoamento vertical do ar pela escada, que
+
+--- PÁGINA 15 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+15/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+se manifesta em série, de um andar a outro. O problema fica, portanto, na dependência da 
+geometria da escada, que deve ser objeto de análise específica de cada caso; 
+b) os dutos devem, de preferência, ser construídos em metal laminado, com costuras 
+longitudinais lacradas à máquina, com material de vedação adequado. Os aspectos construtivos 
+devem obedecer às recomendações da SMACNA, através das literaturas “HVACDuct 
+Construction - Metal and Flexible” e “HVAC System Duct Design”. A utilização de dutos 
+confeccionados em outros materiais, além de atender as condições de exigência relativas aos 
+dutos metálicos, deve ser submetida à avaliação do Corpo Técnico do CBMMG; 
+c) cuidados especiais devem ser tomados na ancoragem dos dutos do sistema de 
+pressurização, quando for necessário o uso de revestimento resistente ao fogo para sua 
+proteção, tendo em vista o aumento de peso causado por esses revestimentos; 
+d) dutos de alvenaria podem ser utilizados, desde que sejam somente para a distribuição do ar 
+de pressurização, e que a sua superfície interna, preferencialmente, possua revestimento com 
+argamassa, com objetivo de se obter uma superfície lisa e estanque, ou revestida com chapas 
+metálicas ou outro material incombustível. Dutos para pressurização, com áreas internas 
+inferiores a 0,5 m² e triangulares, devem, à medida do possível, ser evitados; 
+e) recomenda-se que o nível de ruído transmitido pelo sistema de pressurização no interior da 
+escada não deve ultrapassar a 85 dB, na condição desocupada; 
+f) caso necessário, um teste de vazamento nos dutos pode ser aplicado de forma a se verificar a 
+exatidão dos parâmetros adotados. O método de teste deve ser o recomendado pela SMACNA, 
+por meio da literatura “HVAC Air Duct Leakage Test Manual”; 
+g) registros corta-fogo não devem ser usados na rede de dutos de tomada ou distribuição do ar 
+de pressurização, de modo que o seu acionamento não prejudique o suprimento de ar; 
+h) os dutos metálicos, tanto na tomada de ar quanto na sua distribuição, que ficarem 
+posicionados de forma aparente, devem possuir tratamento de revestimento contra o fogo, que 
+garanta resistência ao fogo por 2 (duas) horas, mesmo que esses dutos estejam posicionados 
+em pavimentos subsolos ou na face externa do edifício. Exceção se faz quando do 
+caminhamento do duto externo à edificação com os afastamentos citados no Anexo D desta IT; 
+i) os revestimentos resistentes ao fogo aplicados diretamente sobre os dutos metálicos de 
+ventilação, quando submetidos às condições de trabalho esperadas, principalmente às 
+condições de um incêndio, devem demonstrar resistência ao fogo por um período mínimo de 2 
+(duas) horas, atendendo aos seguintes critérios abaixo:  
+i.1) integridade a passagem de chamas, fumaça e gases quentes;  
+i.2) estabilidade ao colapso do duto, que evitaria o cumprimento normal de suas funções;  
+i.3) isolamento térmico, para evitar que a elevação da temperatura na superfície interna do duto 
+não alcance 140 ºC (temperatura média) e 180 ºC (temperatura máxima pontual), acima da 
+temperatura ambiente;  
+i.4) incombustibilidade do revestimento.  
+Observação: Os critérios acima devem ser definidos em testes normalizados de resistência ao 
+fogo de dutos de ventilação, utilizando a norma brasileira, e na sua ausência a norma ISO 6944 
+–Fire Resistance Tests – Ventilation Ducts ou similar.
+
+--- PÁGINA 16 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+16/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+j) caso se adote parede sem função estrutural para proteger dutos metálicos verticalizados, a 
+tabela do Anexo F desta IT pode ser utilizada como referência. 
+Observação: Na segunda coluna da tabela do Anexo F desta IT, onde é apresentado “Traço em 
+volume de argamassa de assentamento”, não é estabelecido o valor para cimento pois, o ensaio 
+no IPT (Instituto de Pesquisas Tecnológicas) foi realizado na situação de uma parede não 
+estrutural na condição mais desfavorável, ou seja, sem o cimento. Porém, o valor mínimo para o 
+cimento, o traço em volume da argamassa de assentamento, deve ser de 1 (um).  
+5.3.4 Grelhas de insuflamento de ar 
+a) para a pressurização de uma escada, através de duto, devem ser previstas várias grelhas de 
+insuflamento, localizadas a intervalos regulares por toda a altura da escada, e posicionadas de 
+modo a haver uma distância máxima de dois pavimentos entre grelhas adjacentes. Os pontos de 
+saída devem ser balanceados para permitir a saída de quantidades iguais de ar em cada grelha, 
+devendo obrigatoriamente haver uma grelha no piso de descarga (pavimento térreo) e uma no 
+último pavimento; 
+b) os dispositivos de ajuste e balanceamento das grelhas de insuflamento não podem permitir 
+alterações, mesmo que acidentais, após montagens e testes, a não ser por pessoal técnico 
+capacitado.  
+5.3.5 Sistema elétrico 
+a) deve ser assegurado o fornecimento de energia elétrica para o sistema de pressurização e de 
+segurança existente na edificação durante o incêndio, de modo a garantir o funcionamento e 
+permitir o abandono seguro dos ocupantes da edificação. O edifício deve possuir um sistema de 
+fornecimento de energia de emergência por meio de um grupo motogerador automatizado, de 
+acordo com as Normas Técnicas Oficiais, com autonomia de funcionamento de acordo com os 
+critérios do Anexo B desta IT e acionado automaticamente quando houver interrupção no 
+fornecimento de energia normal para o sistema de pressurização; 
+b) os demais sistemas de emergência (tais como iluminação de emergência, registros corta-fogo, 
+bombas de pressurização hidráulicas de incêndio, elevadores de segurança etc.) podem ser 
+alimentados pelo mesmo grupo motogerador automatizado; 
+c) o comando elétrico, de início de funcionamento do grupo motoventilador, na situação de 
+emergência, deve se dar a partir de um sistema automático de detecção de fumaça, cuja 
+instalação é exigida nos locais citados no item 5.2.4 e Anexo B, desta IT, e IT 14 (Sistemas de 
+Detecção e Alarme de Incêndio); 
+d) as instalações elétricas devem estar de acordo com a NBR 5410; 
+e) os circuitos elétricos do sistema de pressurização, devem ser acondicionados de forma a 
+garantir a operação do sistema conforme tempo preconizado nesta IT. Se os circuitos elétricos 
+do sistema de pressurização passarem por áreas de risco, aparentes ou embutidas em forros 
+sem resistência contra incêndio, devem ser protegidos contra a ação do calor do incêndio, pelo 
+tempo de utilização do grupo motogerador automatizado.  
+5.3.6 Sistemas de controle 
+a) considerando-se a diversidade de condições a que o sistema é submetido, para se manter um 
+diferencial de pressão adequado, quando todas as PCF estiverem fechadas, e a velocidade 
+mínima necessária referida à condição padrão do ar, por meio das PCF consideradas abertas, 
+deve ser previsto registro de sobre pressão, ou damper motorizado acionado por sensor
+
+--- PÁGINA 17 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+17/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+diferencial de pressão, a fim de impedir que a pressão se eleve acima de 60 Pa, quando todas 
+as PCF estiverem fechadas; 
+b) esse registro é colocado entre um espaço pressurizado e um espaço interno ou externo, 
+desde que se dê garantia de funcionamento, considerando-se a influência da ação dos ventos. 
+Esse registro deve ser posicionado fora das áreas de risco e afastados de acordo com o Anexo 
+E desta IT; 
+c) alternativamente, ao registro de sobre pressão, podem ser adotados sistemas que modulem a 
+capacidade dos ventiladores de pressurização, sob comando de um controlador de pressão com 
+sensor instalado no interior da escada pressurizada; 
+d) para sistemas de pressurização que se utilizam 02 (dois) conjuntos motoventiladores, um 
+funcionando como reserva do outro, deve ser instalado no sistema de dutos, um dispositivo de 
+controle automático de pressão diferencial, de forma a identificar a parada de um grupo 
+motoventilador e possibilitar o imediato acionamento do outro; 
+e) orienta-se que, quando se utilizar registros (dampers) nas descargas dos ventiladores, suas 
+lâminas sejam posicionadas de forma perpendicular ao eixo do ventilador, como forma de 
+diminuir o chamado "efeito do sistema".  
+5.3.7 Sistema de acionamento e alarme  
+a) o sistema principal para acionamento do sistema de pressurização, na situação de 
+emergência, deve ser o de detecção automática, pontual ou linear. Em todos os edifícios deve 
+haver tal sistema, no mínimo, no hall interno de acesso à escada pressurizada e nos seus 
+corredores principais de acesso, com pelo menos dois pontos de detecção por pavimento, como 
+redundância para melhor confiabilidade do sistema; 
+Observação: Todos os ambientes que possuem acesso direto à escada pressurizada devem 
+estar protegidos pelo sistema de detecção de fumaça.  
+b) nos edifícios em que os detectores de fumaça foram instalados apenas para acionar a 
+situação de emergência do sistema de pressurização, esse detector deve ser posicionado no 
+lado de menor pressão de todas as PCF de comunicação entre a escada pressurizada e o 
+espaço adjacente; 
+c) a instalação do detector de fumaça dentro do espaço pressurizado não é aceitável; 
+d) o uso do sistema de detecção não isenta o uso do sistema de alarme manual, sistema de 
+chuveiros automáticos ou outro sistema de prevenção ou combate a incêndios.  
+Observação:  
+1) A existência de sistema de chuveiros automáticos ou outro sistema de combate a incêndios 
+não isenta a necessidade de instalação de sistema de detecção e alarme, como forma principal 
+de acionamento do sistema de pressurização.  
+2) o treinamento da brigada de combate a incêndios e a elaboração de plano de abandono e 
+emergências, para a plena utilização do sistema de detecção e alarme, devem ser elaborados e 
+constantemente avaliados.  
+e) procedimentos devem ser adotados no sentido de se testar o sistema de alarme de incêndio, 
+sem necessariamente operar o sistema de pressurização de escadas;
+
+--- PÁGINA 18 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+18/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+f) a instalação dos detectores automáticos ou acionadores manuais de alarme devem seguir as 
+orientações do Corpo de Bombeiros e subsidiariamente o que preceitua a IT 14 (Sistemas de 
+Detecção e Alarme de Incêndio); 
+g) o painel da central de comando de alarme/detecção deve sinalizar o setor atingido, não sendo 
+permitido que um laço de alarme/detecção supervisione mais de um pavimento; todas as 
+indicações da central de alarme/detecção devem ser informadas na língua portuguesa; 
+h) qualquer sinal de alarme ou defeito deve ser interpretado pela central de alarme/detecção 
+como alarme e deve acionar o sistema de pressurização, sendo que não é permitido, por meio 
+da central de alarme, realizar o desligamento do sistema de pressurização, respeitadas as 
+considerações dos itens seguintes; 
+i) o sistema de pressurização deve ser acionado imediatamente quando a central de alarme e 
+detecção de incêndio receber sinal de ativação do detector de fumaça/calor e/ou acionador 
+manual de alarme de incêndio instalados na edificação. O funcionamento de motoventiladores 
+não pode depender da ativação dos dispositivos sonoros (sirenes), cujo retardo pode causar a 
+contaminação da escada pela fumaça oriunda do incêndio; dessa forma, o sistema de alarme e 
+detecção de incêndio deve ativar o sistema de pressurização antes mesmo do reconhecimento 
+do sinal de alarme pela pessoa responsável pela vigilância; 
+j) o detector de fumaça instalado na sala dos motoventiladores deve possuir laço exclusivo e 
+independente (ou similar) dos demais e funcionar de forma diferenciada, ou seja, ao ser 
+acionado, deve inibir o acionamento do sistema de pressurização; 
+k) somente é aceito, para garantia do sistema de pressurização, sistemas com acionadores 
+manuais que sejam supervisionados pela central de alarme e detecção, de acordo com os 
+critérios estabelecidos na IT 14 (Sistemas de Detecção e Alarme de Incêndio); 
+l) a lógica do sistema deve contemplar a necessidade de se evitar que o sistema de 
+pressurização da escada entre em funcionamento automaticamente em caso da existência real 
+de fumaça no interior do compartimento que abriga o conjunto motoventilador, proveniente de 
+um incêndio em suas adjacências. Dessa forma devem ser adotados mecanismos adequados 
+que impeçam que o falso alarme desative o funcionamento do conjunto motoventilador. O 
+monitoramento através do sistema de detecção de fumaça desse compartimento deve ser 
+realizado através de um laço exclusivo e independente (ou similar) em relação aos demais 
+detectores de fumaça e acionadores manuais de alarme da edificação; 
+m) o sistema de detecção deve ser submetido aos testes de acordo com a IT 14 (Sistemas de 
+Detecção e Alarme de Incêndio), também com as interferências da pressurização, quando o 
+sistema for de dois estágios. Deve-se apresentar o laudo de teste do sistema de detecção, 
+quando da solicitação da vistoria junto ao Corpo de Bombeiros, comprovando que foram 
+realizados os testes de acordo com a referida norma, bem como o devido recolhimento da ART 
+(Anotação de Responsabilidade Técnica); 
+n) é permitido o uso de destravadores eletromagnéticos para PCF de acesso à escada 
+pressurizada, sendo que o seu circuito deve ser ligado à central de comando do sistema de 
+detecção e alarme. O sistema deve permitir ainda o destravamento manual por meio da central 
+de comando do sistema de alarme, ou manualmente na própria PCF. Esse sistema tem a função 
+de destravar a PCF automaticamente na falta de energia elétrica ou quando acionado o sistema 
+de pressurização de escadas; 
+o) o tempo máximo de fechamento das PCF de acesso à escada pressurizada, que se utilizam 
+dos destravadores eletromagnéticos, deve ser de 30 (trinta) segundos;
+
+--- PÁGINA 19 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+19/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+p) os acionadores manuais de alarme, de forma complementar, e nunca substitutiva, devem 
+sempre permitir o acionamento do sistema de pressurização em situação de emergência; 
+q) um acionador remoto manual, do tipo “liga”, do sistema de pressurização, deve sempre ser 
+instalado em cada local abaixo descrito: 
+q.1) na sala de controle central de serviços do edifício, desde que possua fácil comunicação com 
+todo o edifício;  
+q.2) no compartimento do grupo motoventilador e seus acessórios, se este for distante da sala 
+de controle central;  
+q.3) na portaria ou guarita de entrada do edifício.  
+r) a parada do sistema de pressurização, em situação de emergência, somente pode ser 
+realizada de modo manual no painel de comando do grupo motoventilador. Não pode existir, 
+também, qualquer tipo de dispositivo capaz de impedir a entrada em funcionamento do sistema 
+de pressurização ou qualquer outro sistema de segurança contra incêndio.  
+5.3.8 Sistema de escape do ar utilizado para pressurização 
+a) no dimensionamento do sistema de pressurização devem ser previstas áreas de escape de ar 
+para o exterior da edificação, de preferência, utilizando-se de aberturas em pelo menos 02 
+(duas) de suas faces. Tais aberturas em cada pavimento devem proporcionar, no total, um 
+mínimo de vazão correspondente a 15% da vazão volumétrica média que escapa de 1 (uma) 
+PCF aberta (com velocidade de 1,0 m/s). Para tanto, o projetista pode adotar uma das 
+alternativas abaixo:  
+a.1) método do escape de ar por janelas;  
+a.2) método do escape de ar através de aberturas especiais no perímetro do edifício, que 
+permanecem normalmente fechadas, na condição normal de uso da edificação, e funcionem no 
+caso de ativação do sistema de pressurização; 
+a.3) método do escape de ar através de dutos verticais, desde que não comprometa a 
+compartimentação vertical exigida para a edificação – as aberturas devem ser protegidas nos 
+moldes do especificado na IT 07 (Compartimentação Horizontal e Compartimentação Vertical);  
+a.4) método do escape de ar através de extração mecânica, seguindo critérios adotados na IT 07 
+(Compartimentação Horizontal e Compartimentação Vertical). 
+b) nos edifícios onde haja necessidade de sistema de escape do ar de pressurização, baseado 
+na operação automática dos dispositivos instalados para esta finalidade, o sinal que opera tais 
+dispositivos deve ser o mesmo que aciona o grupo motoventilador no estágio de emergência. 
+Sensores independentes, que acionem apenas os dispositivos de escape, não são permitidos; 
+c) todo equipamento acionado automaticamente para proporcionar o escape do ar de 
+pressurização, do edifício, caso exista, deve ser incluído nos procedimentos de manutenção. 
+5.3.9 Procedimentos de manutenção 
+a) todo equipamento de pressurização deve ser submetido a um processo regular de 
+manutenção, que inclui: o sistema de detectores de fumaça ou qualquer outro tipo de sistema de 
+alarme de incêndio utilizado, o mecanismo de comutação, o grupo motoventilador, suas correias 
+de interligação, dutos (sucção e/ou pressurização) e suas ancoragens e proteções contra
+
+--- PÁGINA 20 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+20/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+incêndio, os sistemas para o fornecimento de energia em emergência, portas corta-fogo e o 
+equipamento do sistema de escape do ar acionado automaticamente. Os cuidados com esses 
+equipamentos devem ser incluídos no programa de manutenção anual do edifício, e devem ser 
+apresentados quando da solicitação de vistoria. Esses cuidados são de inteira responsabilidade 
+do proprietário da edificação, síndico, e/ou seu representante legal; 
+b) todos os sistemas de emergência devem ser colocados em operação semanalmente, a fim de 
+garantir que cada um dos grupos motoventiladores de pressurização esteja funcionando; 
+c) sistemas que se utilizam de duplicidade de motores, condições devem ser dadas para o teste 
+individualizado; 
+d) os diferenciais de pressão devem ser verificados anualmente, podendo ser prevista a 
+instalação permanente de equipamentos para esta finalidade. Uma lista de verificações dos 
+procedimentos de manutenção deve ser fornecida aos proprietários do edifício ao final das 
+obras, pelos responsáveis da instalação do sistema, com manuais em português.  
+5.4 Integração com outras medidas ativas de proteção contra incêndio  
+O acionamento do sistema de pressurização deve estar em conformidade com o item 5.3.7 desta 
+IT, podendo haver a interligação com outros sistemas automáticos de combate, permitindo de 
+forma secundária, o acionamento do sistema.  
+5.5 Testes de aprovação  
+5.5.1 Aspectos gerais 
+a) um teste de fumaça não é satisfatório para se determinar o correto funcionamento de uma 
+instalação de pressurização, visto que não se pode garantir que todas as condições climáticas 
+adversas possam estar presentes no momento da execução do teste. Entretanto, este teste 
+pode, às vezes, revelar trajetórias indesejáveis de fluxo da fumaça provocadas por defeitos na 
+construção; 
+b) o teste de aprovação da pressurização deve consistir de:  
+b.1) medição do diferencial de pressão entre a escada e os espaços não pressurizados 
+adjacentes com todas as PCF fechadas;  
+b.2) medição da velocidade do ar que sai de um conjunto representativo (de acordo com 
+estipulado no cálculo) de PCF abertas que, quando fechadas, separam o espaço pressurizado 
+dos recintos ocupados do edifício;  
+c) o teste deve ser feito quando o edifício estiver concluído, com os sistemas de 
+condicionamento de ar e de pressurização balanceados e todo o sistema pronto e funcionando, 
+com cada componente operando satisfatoriamente e sendo controlado pelo sistema de 
+acionamento no seu modo correto de operação em emergência. As medições efetuadas em 
+campo devem seguir as recomendações da AMCA 203, pela literatura “Field Performance 
+Measurement of Fan System”; 
+d) nos sistemas com dois estágios são exigidas medições apenas com o segundo estágio 
+operando (estágio de emergência); 
+e) o sistema de detecção deve ser submetido aos testes, de acordo com a IT 14 (Sistemas de 
+detecção e alarme de incêndio); também considerando as interferências da pressurização, 
+quando o sistema for de dois estágios.
+
+--- PÁGINA 21 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+21/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+5.5.2 Medição dos diferenciais de pressão 
+a) a medição dos diferenciais de pressão, entre os espaços pressurizados e os espaços não 
+pressurizados adjacentes, deve ser feita com o auxílio de um manômetro de líquido ajustável, ou 
+outro instrumento sensível e adequadamente calibrado; 
+b) um local conveniente para medir o diferencial de pressão é por meio de uma PCF fechada. 
+Pequenas sondas são colocadas de cada lado da PCF, sendo que uma das sondas passa 
+através de uma fresta da PCF, ou por baixo dela. As duas sondas a seguir são ligadas ao 
+manômetro por meio de tubos flexíveis. É importante que o tubo que passa através da fresta da 
+PCF, efetivamente, atravesse-a e penetre suficientemente no espaço, para que a extremidade 
+livre fique em uma região de ar parado. Sugere-se que esta sonda tenha uma dobra em L (de 
+pelo menos 50mm. de comprimento), para que depois da inserção através da fresta, a sonda 
+possa ser girada em ângulo reto em relação à fresta. Este processo introduz a extremidade livre 
+em uma região de ar parado; 
+c) é importante que a inserção da sonda não modifique as características de escape da PCF, por 
+exemplo, afastando a superfície da PCF do rebaixo no batente. A posição da sonda de medição 
+deve ser escolhida de acordo com esses critérios.  
+5.5.3 Correção de divergências no nível de pressurização obtido 
+a) se houver qualquer divergência séria, entre os valores medidos e os níveis de pressurização 
+especificados, os motivos desta divergência devem ser detectados e corrigidos. Há três razões 
+principais que explicam a não obtenção do nível de pressurização projetado:  
+a.1) vazão de ar insuficiente;  
+a.2) áreas de vazamento para fora do espaço pressurizado excessivas; e  
+a.3) áreas de escape do ar para fora do edifício insuficiente;  
+b) deve ser medida a vazão de ar dos ventiladores e a vazão de ar através de todas as grelhas 
+de insuflamento, a fim de se detectar os níveis de escape e o suprimento total de ar que chega à 
+escada. Para a avaliação do teste de escape podem ser utilizados os procedimentos previstos 
+no MANUAL SMACNA, HVAC AIR DUCT LEAKAGE TEST MANUAL ou da Recomendação 
+técnica DW/143 da Heating and Ventilation Contractors' Association (HVAC). Estas medições 
+devem ser efetuadas com as PCF da escada fechadas; 
+c) caso a vazão de ar que entra na escada esteja de acordo com a prevista em processo, devem 
+ser verificadas as frestas em redor das PCF, dando-se atenção especial à folga na sua parte 
+inferior. Se qualquer PCF tiver folgas inaceitavelmente grandes, estas devem ser reduzidas. 
+Devem ser localizadas, também, áreas de vazamentos adicionais não previstas, que devem ser 
+vedadas; 
+d) caso a vazão de ar não atinja o nível previsto, o escape de ar a partir dos espaços não 
+pressurizados deve ser examinado para se ter certeza que está em conformidade com o 
+processo e as necessidades desta IT. Se for inadequado, o escape deve ser aumentado para os 
+valores recomendados. Como alternativa, pode ser aumentada a vazão de entrada de ar até o 
+nível desejado de pressurização a ser atingido, mesmo diante de escapes adicionais ou de 
+condições insuficientes. O nível de pressurização medido não deve ser menor que 90% do valor 
+projetado, nem exceder a 60 Pa.
+
+--- PÁGINA 22 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+22/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+5.5.4 Medição da velocidade média do ar através de uma PCF aberta 
+a) esta medida deve ser tomada com um anemômetro de fio quente ou outro instrumento com 
+resolução e exatidão adequados e devidamente calibrado; 
+b) a velocidade média através da PCF aberta deve ser obtida por meio da média aritmética de 
+pelo menos doze medições em pontos uniformemente distribuídos no vão da PCF, sendo 
+necessário condições estáveis de vento e com o edifício vazio; 
+c) o número de PCF abertas durante a realização das medições deve seguir o estabelecido no 
+Anexo B desta IT.
+
+--- PÁGINA 23 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+23/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO A 
+TABELA 1 – Níveis de Pressurização 
+VALORES DE DIFERENCIAL DE PRESSÃO 
+SISTEMA DE 1 ESTÁGIO 
+SISTEMA DE 2 ESTÁGIOS 
+50 
+1º ESTÁGIO 
+2º ESTÁGIO 
+15 
+50 
+Observações:  
+1) Pa = Pascal, sendo que 10 Pa equivalem a 1,0 mmH2O  
+2) Quando pavimentos subterrâneos necessitem ser pressurizados, o processo deve ser 
+submetido à avaliação do Corpo Técnico do CBMMG. 
+TABELA 2: Áreas Típicas de Escape para Quatro Tipos de PCF 
+TIPO DE PCF 
+Tamanho 
+(m) 
+Área de Escape Pcf 
+Aberta (M²) 
+Área de escape PCF 
+fechada 
+(m²) 
+PCF simples, batente rebaixado dando ACESSO 
+ao espaço pressurizado 
+2,10 x 0,89 
+1,64 
+0,03 
+PCF simples, batente rebaixado permitindo a 
+SAÍDA do espaço pressurizado 
+2,10 x 0,89 
+1,64 
+0,04 
+PCF dupla com ou sem rebaixo central dando 
+ACESSO 
+2,10 x 0,89 
+(cada) 
+3,28 
+0,045 
+PCF dupla com ou sem rebaixo central permitindo 
+SAÍDA 
+2,10 x 0,89 
+(cada) 
+3,28 
+0,06 
+Observação: Nos outros tipos de PCF, PCF duplas, portas de elevadores, suas dimensões 
+devem ser verificadas junto aos fabricantes.
+
+--- PÁGINA 24 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+24/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO B 
+Resumo de Exigências para os Diversos Tipos de Edificações com Sistemas de 
+Pressurização 
+G 
+R 
+U 
+P 
+O 
+OCUPAÇÃO/ 
+USO 
+(4) 
+CRITÉRIO 
+DE 
+ALTURA 
+(7) 
+NÚMERO DE PCF 
+CONSIDERADAS 
+ABERTAS 
+(8) 
+GRUPO 
+MOTOGERADOR 
+AUTOMATIZADO 
+(Autonomia de 
+4h) 
+LOCAIS A SEREM 
+SUPERVISIONADOS PELO SISTEMA 
+DE DETECÇÃO AUTOMÁTICA DE 
+FUMAÇA 
+(1) 
+A 
+Residencial 
+(2) (3) 
+Até 
+80 metros 
+1 
+NÃO 
+(exceto Convento) 
+I - 
+Toda 
+edificação 
+dotada 
+de 
+sistema de pressurização de escada 
+e/ou elevador de emergência deve 
+possuir 
+sistema 
+de 
+detecção 
+automática 
+de 
+fumaça 
+nos 
+seguintes locais: 
+1) no hall comum ou privativo de 
+acesso à saída de emergência 
+pressurizada; 
+2) em todos os corredores de 
+circulação, 
+em 
+áreas 
+comuns, 
+utilizados como rota de fuga para 
+acesso à saída de emergência 
+pressurizada; 
+3) em todos os corredores de 
+circulação 
+privativos, 
+quando 
+o 
+acesso à saída de emergência 
+pressurizada atender diretamente 
+as áreas privativas; 
+4) em todos os ambientes com 
+acesso 
+direto 
+à 
+saída 
+de 
+emergência pressurizada; 
+5) no compartimento destinado ao 
+conjunto 
+motoventilador 
+(laço 
+exclusivo 
+e 
+independente 
+ou 
+similar); 
+6) no compartimento destinado ao 
+grupo motogerador, quando este 
+atender 
+ao 
+sistema 
+de 
+pressurização de escadas; 
+7) na antecâmara de segurança do 
+compartimento 
+destinado 
+ao 
+conjunto 
+motoventilador, 
+quando 
+este 
+estiver 
+localizado 
+em 
+pavimento subsolo; 
+II – Todos os pavimentos que dão 
+acesso à saída de emergência 
+pressurizada 
+devem 
+ser 
+supervisionados por, pelo menos, 
+dois pontos de detecção de fumaça; 
+III - 
+A 
+previsão 
+de 
+detecção 
+automática de fumaça nos locais 
+descritos no item I acima não isenta 
+a edificação da instalação desse 
+mesmo sistema em outros locais 
+que porventura sejam exigidos em 
+legislação de 
+segurança contra 
+incêndio e pânico do Estado de 
+Minas Gerais. 
+Acima de  
+80 metros 
+2 
+SIM 
+B 
+Serviço de 
+Hospedagem 
+Até 
+30 metros 
+2 
+SIM 
+Acima de  
+30 metros 
+2 
+SIM 
+C 
+Comercial 
+Até 
+12 metros 
+2 
+SIM 
+Acima de 
+12 metros 
+2 
+SIM 
+D 
+Serviço 
+profissional 
+(2) 
+Até 
+21 metros 
+(5) 
+1 
+NÃO 
+(Área do pav <930 
+m²) 
+Acima de 
+21 metros 
+(6) 
+2 
+SIM 
+E 
+Educacional e 
+cultura física 
+(2) 
+Até 
+30 metros 
+2 
+NÃO 
+Acima de 
+30 metros 
+2 
+SIM 
+F 
+Local de 
+Reunião de  
+Público 
+Até 
+12 metros 
+3 
+SIM 
+Acima de 
+12 metros 
+4 
+SIM 
+G 
+Serviço 
+automotivo e 
+assemelhados 
+Até 
+12 metros 
+2 
+SIM 
+Acima de 
+12 metros 
+2 
+SIM 
+H 
+Serviço de 
+saúde e 
+institucional 
+Até  
+12 metros 
+2 
+SIM 
+Acima de  
+12 metros 
+2 
+SIM 
+I 
+Indústria 
+Até  
+12 metros 
+2 
+SIM 
+Acima de  
+12 metros 
+2 
+SIM
+
+--- PÁGINA 25 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+25/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+G 
+R 
+U 
+P 
+O 
+OCUPAÇÃO/ 
+USO 
+(4) 
+CRITÉRIO 
+DE 
+ALTURA 
+(7) 
+NÚMERO DE PCF 
+CONSIDERADAS 
+ABERTAS 
+(8) 
+GRUPO 
+MOTOGERADOR 
+AUTOMATIZADO 
+(Autonomia de 
+4h) 
+LOCAIS A SEREM 
+SUPERVISIONADOS PELO SISTEMA 
+DE DETECÇÃO AUTOMÁTICA DE 
+FUMAÇA 
+(1) 
+J 
+Depósito 
+Até 12 
+metros 
+2 
+SIM 
+(idem ao descrito na mesma coluna 
+da página anterior) 
+Acima de 
+12 metros 
+2 
+SIM 
+L 
+Explosivos 
+Até 12 
+metros 
+2 
+SIM 
+Acima de 
+12 metros 
+2 
+SIM 
+M 
+Especial 
+Até 12 
+metros 
+2 
+SIM 
+Acima de 
+12 metros 
+2 
+SIM 
+(1) A exigência de sistema de detecção de fumaça para o sistema de pressurização não isenta a 
+edificação das demais exigências previstas na legislação de segurança contra incêndio e pânico. 
+(2) Conforme item 5.3.1, alínea “c”: “Nos edifícios residenciais e escritórios com até 60 metros 
+de altura e nos edifícios escolares com até 30 (trinta) metros de altura, é permitido o uso de 
+somente um ventilador com um motor. De forma substitutiva, podem ser utilizados 02 (dois) 
+grupos motoventiladores, sendo que cada grupo deve, no mínimo, garantir 50% da vazão total 
+do sistema e 100% da pressão total requerida, para atuarem especificamente no estágio de 
+emergência e em conjunto”.  
+(3) Em edificações com altura superior a 12 metros, do tipo Convento, é exigido grupo 
+motogerador automatizado.  
+(4) Devem ser pressurizadas as escadas dos subsolos que possuir as seguintes características:  
+a) que tiver uso distinto de estacionamento de veículos sem distinção de altura;  
+b) que tiver uso de estacionamento de veículos com profundidade maior que 12 metros. Em 
+ambos os casos a escada e o número de PCF calculadas seguem o mesmo critério de 
+dimensionamento dos pavimentos superiores, devendo, a escada, ser descontínua no piso de 
+descarga.  
+(5) Edificações isentas de uso do grupo motogerador desde que a área de cada pavimento seja 
+inferior a 930 m2.  
+(6) Somente é exigido antecâmara de segurança nos acessos à escada pressurizada, de acordo 
+com item 5.1.6.7 desta IT, para edificações residenciais com altura igual ou superior a 80 metros 
+e demais ocupações com altura igual ou superior a 60 metros.  
+(7) Quando a edificação for dotada de elevador de emergência, seus acessos devem ser 
+protegidos por antecâmara de segurança, conforme descrito no item 5.1.6.6 e 5.1.6.7 desta IT, 
+em todos os pavimentos, inclusive para os pavimentos situados abaixo do piso de descarga; 
+essa antecâmara pode ser dispensada apenas no nível térreo (piso de descarga) quando este 
+não estiver em local de risco de incêndio, ou seja, esse pavimento seja destinado única e 
+exclusivamente a hall de recepção ou, caso possua loja ou dependências com carga-incêndio, 
+estas devem possuir compartimentação do tipo corta-fogo em relação a esse hall. 
+(8) Caso o edifício possua local de reunião de público, adotar o item 5.1.6.5, alínea "f" desta IT.
+
+--- PÁGINA 26 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+26/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO C
+
+--- PÁGINA 27 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+27/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO D
+
+--- PÁGINA 28 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+28/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO E
+
+--- PÁGINA 29 ---
+CBMMG IT 10 – Pressurização de Escada de Segurança 
+1ª edição 
+ 
+29/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO F 
+Característica das Paredes (informativo) 
+ 
+Paredes ensaiadas (*) 
+Características das paredes 
+Resultado dos ensaios 
+Traço em volume da 
+argamassa do 
+assentamento 
+Espessura 
+média da 
+argamassa 
+de 
+assentamento 
+(cm) 
+Traço em volume de argamassa de 
+revestimento 
+Espessura de 
+argamassa 
+de     
+revestimento 
+(cada face) 
+(cm) 
+Espessura 
+total da 
+parede 
+(cm) 
+Duração 
+do 
+ensaio 
+(min) 
+Tempo de atendimento aos 
+critérios de avaliação 
+(horas) 
+Resis-
+tência 
+ao 
+fogo 
+(horas
+) 
+Chapisco 
+Emboço 
+Cimento 
+Cal 
+Areia 
+Cimento 
+Areia 
+Cimento 
+Cal 
+Areia 
+Integri- 
+dade 
+Estan-
+queidade 
+Isolação 
+térmica 
+Parede de tijolos de 
+barro cozido 
+(dimensões 
+nominais dos 
+tijolos). 
+5 cm x 10 cm x 20 
+cm: Massa: 1,5 kg 
+Meio - tijolo sem 
+revestimento 
+- 
+1 
+5 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+10 
+120 
+≥ 2 
+≥ 2 
+1½ 
+1½ 
+Um tijolo sem 
+revestimento 
+- 
+1 
+5 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+20 
+395 (**) 
+≥ 6 
+≥ 6 
+≥ 6 
+≥ 6 
+Meio - tijolo com 
+revestimento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Um tijolo com 
+revestimento 
+- 
+1 
+5 
+1 
+1 
+3 
+1 
+2 
+9 
+2,5 
+25 
+300 (**) 
+≥ 6 
+≥ 6 
+≥ 5 
+> 6 
+Parede de blocos 
+vazados de 
+concreto (2 furos) 
+(blocos com 
+dimensões 
+nominais): 
+14 cm x 19 cm x 39 
+cm e 
+19 cm x 19 cm x 39 
+cm; e massas de 
+13 kg e 17 kg 
+respectivamente. 
+Bloco de 14 
+cm sem 
+revestimento 
+1 
+1 
+8 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+14 
+100 
+≥ 1½ 
+≥ 1½ 
+1½ 
+1½ 
+Bloco de 19 
+cm sem 
+revestimento 
+1 
+1 
+8 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+19 
+120 
+≥ 2 
+≥ 2 
+1½ 
+1½ 
+Bloco de 14 
+cm com 
+revestimento 
+1 
+1 
+8 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+17 
+150 
+≥ 2 
+≥ 2 
+2 
+2 
+Bloco de 19 
+cm com 
+revestimento 
+1 
+1 
+8 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+22 
+185 
+≥ 3 
+≥ 3 
+3 
+3 
+Paredes de tijolos 
+cerâmicos de oito 
+furos (dimensões 
+nominais dos tijolos 
+10 cm x 20 cm x 20 
+cm  (massa 2,9 
+Kg). 
+Meio - tijolo 
+com 
+revestimento 
+- 
+1 
+4 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+13 
+150 
+≥ 2 
+≥ 2 
+2 
+2 
+Um tijolo com 
+revestimento 
+- 
+1 
+4 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+23 
+300 (**) 
+≥ 4 
+≥ 4 
+≥ 4 
+> 4 
+Paredes de 
+concreto armado 
+monolítico sem 
+revestimento 
+Traço do concreto em volume, 1 cimento: 2,5 areia média: 3,5 agregado gaúcho (granizo pedra nº 3): armadura simples 
+posicionada à meia espessura das paredes, possuindo malha de lados 15 cm, de aço CA- 50A diâmetro ¼ polegada. 
+11,5 
+150 
+2 
+2 
+1 
+1½ 
+16 
+210 
+3 
+3 
+3 
+3 
+(*) Paredes sem função estrutural ensaiadas totalmente vinculadas dentro da estrutura de concreto armado, com dimensões 2,8m x 2,8m totalmente expostas ao fogo (em uma face).  
+(**) Ensaio encerrado sem ocorrência de falência em nenhum dos três critérios de avaliação.
+
+--- PÁGINA 30 ---
+CBMMG IT 10 – Pressurização de escada de Segurança 
+1ª Edição  
+ 
+30/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO G 
+MODELO DE CÁLCULO DE VAZÃO DO SISTEMA DE PRESSURIZAÇÃO DE ESCADA 
+I – Dados para o desenvolvimento do cálculo de vazão de ar  
+1) Quantidade de pavimentos com acesso à escada pressurizada: 18  
+2) Quantidade total de portas corta-fogo (PCF) de ingresso à escada de segurança: NPI = 17  
+3) Quantidade total de PCF de saída da escada de segurança: NPS = 01  
+4) Quantidade de PCF abertas a serem consideradas no cálculo para a situação de emergência 
+(incêndio): NPA = 02 (conforme Anexo B - edifício de serviços profissionais)  
+5) Área de vazamento por meio de frestas das portas corta-fogo (PCF) que comunicam a escada 
+pressurizada com os diversos pavimentos – adotar PCF simples:  
+a) 0.03 m² – porta simples, batente rebaixado, dando acesso ao espaço pressurizado. 
+b) 0.04 m² – porta simples, batente rebaixado, permitindo a saída do espaço pressurizado.  
+6) Área de passagem de ar por meio do vão de luz de uma porta corta-fogo aberta, em caso de 
+situação de incêndio – adotar PCF simples: 1,64 m². 
+7) Fator de segurança:  
+ 
+a) 15% para vazamentos em dutos metálicos  
+b) 25% para vazamentos em dutos de alvenaria ou mistos  
+c) 25% para vazamentos não identificados  
+8) Velocidade mínima de ar pressurizado escapando através de uma porta aberta: V = 1m/s  
+9) Fórmula para cálculo do escape de ar por meio das frestas das PCF:  
+Q = 0,827 x A x (P) (1/N)  
+Onde:  
+Q - é o fluxo de ar (m3 /s) A - é a área de restrição (m2) 
+P - é o diferencial de pressão (Pa), adotamos “50” (conforme Anexo A da IT).  
+N - é um índice que varia de 1 a 2, adotamos “2”. 
+II – Cálculo do suprimento de ar necessário para se obter o diferencial de pressão entre a 
+escada e os ambientes contíguos:  
+1) Condições:  
+a) situação de emergência (incêndio)  
+b) todas as PCF da escada pressurizada, consideradas fechadas.  
+c) diferencial de pressão entre o espaço pressurizado e os ambientes contíguos deve ser de 50 
+Pa
+
+--- PÁGINA 31 ---
+CBMMG IT 10 – Pressurização de escada de Segurança 
+1ª Edição  
+ 
+31/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+2) Cálculo das áreas de restrição - escape de ar por meio de frestas - (A):  
+a) Dados: 
+NPI = 17; área de vazamento por meio de frestas para PCF de ingresso = 0,03m²;  
+NPS = 01; área de vazamento por meio de frestas para PCF de saída = 0,04m²; 
+ 
+b)cálculo da área de escape de ar por meio das frestas das PCF de ingresso ao espaço 
+pressurizado (API): 
+ 
+API = 17 x 0,03 m² API = 0,51 m²  
+ 
+c) cálculo da área de escape de ar por meio das frestas das PCF de saída do espaço 
+pressurizado(APS): 
+ 
+APS = 01 x 0,04 m²  
+APS = 0,04 m²  
+ 
+d) cálculo da área total de restrição (A): 
+ 
+A = 0,51 m² + 0,04 m²  
+A = 0,55 m²  
+3) Cálculo do fluxo de ar necessário para o sistema de pressurização considerando as 
+PCF fechadas - (QPF) 
+Cálculo de QPF:  
+QPF = 0,827 x A x (P) (1/N)  
+Onde:  
+QPF=? 
+A = 0,55 m²  
+P = 50 Pa  
+N = 2  
+Portanto, QPF = 0,827 x 0,55 x (50)1/2 
+QPF = 3,22 m³/s  
+4) Cálculo da velocidade de ar para 1 porta aberta considerando a vazão de ar de 
+pressurização para portas fechadas  
+a) Dado: 
+● Área de passagem de ar por meio do vão de luz de uma porta corta-fogo aberta: AVL = 1,64 
+m²; 
+● Quantidade de PCF abertas a serem consideradas no cálculo para a situação de emergência 
+(incêndio): NPA = 02 (sendo 1 de ingresso e 1 de saída)  
+● Área de passagem de ar por meio das frestas de uma porta corta-fogo fechada: APF = 0,03 m²; 
+● Quantidade de PCF fechadas a serem consideradas no cálculo para a situação de emergência 
+(incêndio): NPF = 16 
+● Vazão de ar de pressurização para portas fechadas: QPF = 3,22 m³/s 
+● Velocidade mínima de ar pressurizado escapando através de uma porta aberta: VPA (min) = 
+1m/s
+
+--- PÁGINA 32 ---
+CBMMG IT 10 – Pressurização de escada de Segurança 
+1ª Edição  
+ 
+32/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+● Fórmulas utilizadas: 
+APA = AVL x NPA + APF x NPF 
+VPA = QPF / APA = ou > 1 m³/s  
+b) Cálculo da área de restrição por meio do vão de luz das PCF consideradas abertas (APA):  
+APA = AVL x NPA + APF x NPF  
+APA = 1,64 m² x 02 + 0,03 x 16  
+APA = 3,76 m²  
+ 
+c) Cálculo da velocidade de ar através do vão de luz das PCF consideradas abertas mais frestas 
+das PCF consideradas fechadas (VPA): 
+ 
+VPA = QPF / APA 
+VPA = 3,22 m³/s / 3,76 m²  
+VPA = 0,86 m/s  
+ 
+Como a velocidade encontrada é menor do que 1,0 m/s, a vazão de ar QPF deve se 
+aumentada até que se obtenha a referida velocidade mínima de passagem do ar 
+estipulada. 
+d) Cálculo da vazão de ar corrigida para se obter a velocidade mínima através do vão de 
+luz das PCF consideradas abertas mais frestas das PCF consideradas fechadas 
+(VPA).  
+QPFC = APA x VPA (min)  
+QPFC= 3,76 m² x 1,0 m/s  
+QPFC = 3,76 m³/s  
+5) Cálculo do fluxo de ar considerando os incrementos dos valores referenciais de perdas 
+em dutos e vazamentos não identificados – (QTPF)  
+a) Dado:  
+ 
+● Fator de segurança quanto ao tipo de duto: dutos metálicos: 15% = 1,15  
+● Fator de segurança para vazamentos não identificados: 25% = 1,25 
+ 
+b) Cálculo de QTPF:  
+ 
+QTPF = QPF x 1,15 + QPF x 1,25  
+QTPF = 3,76 x 1,15 + 3,76 x 1,25  
+QTPF = 5,26 m³/s  
+ 
+Transformando a vazão em m³/h:  
+ 
+QTPF = 5,26m³/s x 3.600s  
+QTPF = 18.936 m³/h  
+ 
+Portanto a vazão total requerida para o conjunto motoventilador é de 5,26 m³/s ou 18.936 m³/h. 
+ 
+III - Cálculo da vazão de ar em excesso para se manter o diferencial de pressão entre a 
+escada e os ambientes contíguos:
+
+--- PÁGINA 33 ---
+CBMMG IT 10 – Pressurização de escada de Segurança 
+1ª Edição  
+ 
+33/33 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+1) Condições:  
+a) situação de emergência (incêndio);  
+b) todas as PCF da escada pressurizada consideradas fechadas;  
+c) diferencial de pressão entre o espaço pressurizado e os ambientes contíguos deve ser de pelo 
+menos 50 Pa;  
+d) diferencial de pressão entre o espaço pressurizado e os ambientes contíguos não deve ser 
+superior a 60 Pa.  
+ 
+2) Cálculo da vazão de ar em excesso para dimensionamento do damper de alívio (QD):  
+ 
+QD = QTPF - QPF  
+QD = 5,26 m³/s - 3,22 m³/s  
+QD = 2,04 m³/s  
+ 
+Transformando a vazão em m³/h:  
+ 
+QD = 2,04 m³/s x 3600 s  
+QD = 7.344 m³/h  
+ 
+Portanto o damper de alívio deve ser capaz de manter a pressão interna no interior do espaço 
+pressurizado abaixo de 60 Pa, para uma vazão em excesso de 2,04 m³/s ou 7.344 m³/h.

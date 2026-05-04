@@ -1,0 +1,2617 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 12 
+2ª edição 
+BRIGADA DE INCÊNDIO 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Procedimentos 
+6 – Disposições finais  
+ 
+ 
+ANEXOS 
+A – Currículo mínimo do curso de 
+formação de brigada orgânica 
+B 
+– 
+Percentual 
+de 
+cálculo 
+para 
+composição da brigada de Incêndio 
+C – Exemplos de cálculo de brigada de 
+incêndio orgânica 
+D – Equipamentos mínimos para brigada 
+de incêndio 
+E – Vistoria de liberação e fiscalização 
+F 
+– 
+Formação 
+complementar 
+para 
+Arquitetos, Engenheiros e Técnicos em 
+Segurança do Trabalho – Instrutores de 
+brigada orgânica 
+G – Modelo de matriz curricular
+
+--- PÁGINA 2 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+2/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica (IT) estabelece os critérios mínimos a serem exigidos pelo Serviço de 
+Segurança Contra Incêndio e Pânico (SSCIP) referentes aos treinamentos, quantitativo e 
+composição da brigada de incêndio para atuação em edificações, áreas de risco e eventos no 
+Estado de Minas Gerais, quando for exigida essa medida de segurança contra incêndio e pânico.  
+2 APLICAÇÃO  
+2.1 Esta IT se aplica a todas as edificações e áreas de risco definidas no Regulamento de Segurança 
+Contra Incêndio e Pânico no Estado de Minas Gerais, no que trata da medida de segurança contra 
+incêndio e pânico “brigada de incêndio” prevista no art. 25 do Decreto Estadual 44.746/2008. 
+2.2 Esta IT não se aplica às brigadas de aeródromo, florestal, municipal, voluntária e de rodovias 
+previstas na Portaria n. 33/2018 publicada no DOE n. 083 de 30 de junho de 2018. 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Federal n. 11.901/2009 – Dispõe sobre a profissão de Bombeiro Civil e dá outras providências. 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Lei Estadual n. 22.839/2018 – Dispõe sobre a prática de atividades da área de competência do 
+Corpo de Bombeiros Militar de Minas Gerais por voluntários, profissionais e instituições civis e dá 
+outras providências. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Decreto Estadual n. 46.595/2014 – Altera o Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+Portaria n. 33/2018 do CBMMG – Regulamenta o art. 7º da Lei Estadual n.º 22.839, de 05 de janeiro 
+de 2018, que dispõe sobre a prática de atividades na área de competência do Corpo de Bombeiros 
+Militar de Minas Gerais por voluntários, profissionais e instituições civis e dá outras providências. 
+3.2 Normas 
+Instrução Técnica 01 – Procedimentos Administrativos, CBMMG. 
+Instrução Técnica 33 – Eventos Temporários, CBMMG. 
+NBR 9443 – Extintor de incêndio classe A – Ensaio de fogo em engradado de madeira.  
+NBR 9444 – Extintor de incêndio classe B – Ensaio de fogo em líquido inflamável.  
+NBR 13860 – Glossário de termos relacionados com a segurança contra incêndio.  
+NBR 14023 – Registro de atividades de bombeiros.
+
+--- PÁGINA 3 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+3/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+NBR 14096 – Viaturas de combate a incêndio.  
+NBR 14276 – Programa de brigada de incêndio.  
+NBR 14277 – Instalações e Equipamentos para treinamento de combate a incêndio - Requisitos.  
+NBR 14561 – Veículos para atendimento a emergências médicas e resgate.  
+NBR 14608 –  Bombeiro profissional civil. 
+NBR 15219 – Plano de emergência contra incêndio – requisitos. 
+NBR 16577 – Espaço confinado – prevenção de acidentes, procedimentos e medidas de proteção. 
+NBR 9077 – Saída de emergência em edifícios.  
+NR 23 – proteção Contra Incêndios. 
+4 DEFINIÇÕES  
+Para os efeitos desta instrução técnica, aplicam-se as seguintes definições além daquelas 
+previstas na IT 02 (Terminologia de proteção contra incêndio e pânico) e daquelas constantes na 
+Portaria 33/2018 – CBMMG. 
+4.1 Brigada de incêndio: medida preventiva prevista no Decreto Estadual que regulamenta a 
+segurança contra incêndio e pânico do Estado, exigida para edificações, eventos temporários e 
+áreas de risco, sendo composta por pessoas voluntárias ou não, treinadas e capacitadas para 
+atuar na prevenção, abandono da edificação, combate a um princípio de incêndio e prestar os 
+primeiros socorros, dentro de uma área preestabelecida. 
+4.2 Brigada orgânica: grupo organizado de pessoas que compõem a população do local em que 
+se desenvolvem as atividades da ocupação, com treinamento para conduzir abandono, combate 
+a princípio de incêndios e prestação de primeiros socorros, com atuação restrita aos limites da 
+propriedade, inclusive naquela em que seja realizado evento temporário. 
+4.3 Brigadista orgânico: pessoa que ordinariamente compõe a população do local em que se 
+desenvolvem as atividades da ocupação (funcionário/empregado que exerce qualquer atividade 
+ou pessoa que atue em eventos temporários), com treinamento para conduzir abandono, combate 
+a princípio de incêndios e prestação de primeiros socorros, com atuação restrita aos limites da 
+propriedade, local onde se realiza o evento ou área de risco.  
+4.4 Brigadista profissional: é o profissional bombeiro civil, assim definido pela Lei Federal n. 
+11.901, de 12 de janeiro de 2009, credenciado junto ao Corpo de Bombeiros e que exerce, através 
+de relação contratual, em caráter habitual, função remunerada e exclusiva de prevenção e 
+combate a incêndio com atuação restrita aos limites da propriedade a que estiver vinculado, 
+inclusive naquela em que seja realizado evento temporário. 
+4.5 Treinamento de formação: refere-se ao curso de formação do brigadista orgânico em que se 
+ministra os conteúdos previstos nesta IT de acordo com o nível de formação exigido, aplicam-se 
+avaliações formais e resulta na emissão de certificado ou similar que ateste a formação. 
+4.6 Treinamento periódico: refere-se aos treinamentos ocorridos no ambiente de trabalho, 
+simulados, estudos de caso, atividades realizadas pela Comissão Interna de prevenção de 
+acidentes (CIPA) entre outros.
+
+--- PÁGINA 4 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+4/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5 PROCEDIMENTOS  
+5.1 Composição da brigada de incêndio  
+5.1.1 A brigada orgânica deve ser composta por um percentual de pessoas de acordo com a 
+população e ocupação da edificação, conforme Anexos B e C. 
+5.1.2 Para eventos temporários a composição da brigada orgânica deverá ser dimensionada em 
+função do risco e público previsto para o evento, conforme Anexo B.2.  
+5.1.2.1 Para o dimensionamento e definição de parâmetros da brigada orgânica em eventos 
+temporários, além do contido nesta norma, deverá ser considerado o previsto na Instrução Técnica 
+específica de eventos temporários. 
+5.2 Critérios básicos para seleção de candidatos a brigadista  
+5.2.1 Os candidatos a brigadista orgânico devem atender aos seguintes critérios básicos:  
+a) permanecer na edificação durante seu turno de trabalho;  
+b) possuir experiência anterior como brigadista;  
+c) possuir boa condição física e boa saúde;  
+d) possuir bom conhecimento das instalações, devendo ser escolhidos preferencialmente os 
+funcionários/empregados da área de utilidades, elétrica, hidráulica e manutenção geral;  
+e) ter capacidade civil plena; 
+f) ser alfabetizado. 
+5.2.1.1 Caso nenhum candidato atenda à todos os critérios básicos relacionados, devem ser 
+selecionados aqueles que atendam ao maior número de critérios. 
+5.3 Organização da brigada orgânica 
+5.3.1 Brigada de incêndio  
+5.3.1.1 A brigada orgânica deve ser organizada funcionalmente como segue:  
+a) brigadista orgânico: membros da brigada que executam as atribuições previstas no item 5.4 
+desta IT;   
+b) líder: responsável pela coordenação e execução das ações de emergência em sua área de 
+atuação (pavimento/compartimento). É escolhido dentre os brigadistas;  
+c) chefe da brigada: responsável por uma edificação com mais de um pavimento/compartimento;  
+d) coordenador geral: responsável geral por todas as edificações que compõem uma planta.  
+5.3.1.2 
+As funções citadas nas alíneas “c” e “d” poderão ser escolhidas dentre os brigadistas ou pode 
+ser escolhido um profissional com habilitação ou especialização na área de segurança do trabalho.
+
+--- PÁGINA 5 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+5/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5.3.2 Organograma da brigada de incêndio 
+5.3.2.1 O organograma da brigada de incêndio varia de acordo com o número de edificações, o 
+número de pavimentos em cada edificação e o número de empregados em cada 
+pavimento/compartimento. 
+5.3.2.2 As empresas que possuem em sua planta somente uma edificação, com apenas um 
+pavimento/compartimento, devem ter um líder que deve coordenar a brigada. 
+5.3.2.3 As empresas que possuem em sua planta somente uma edificação, com mais de um 
+pavimento/compartimento, devem ter um líder para cada pavimento/compartimento que é 
+coordenado pelo chefe da brigada dessa edificação. 
+5.3.2.4 As empresas que possuem em sua planta mais de uma edificação, com mais de um 
+pavimento/compartimento, devem ter um líder por pavimento/compartimento e um chefe da 
+brigada para cada edificação, que devem ser coordenados pelo coordenador geral da brigada. 
+5.4 Atribuições da brigada de incêndio  
+5.4.1 Ações de prevenção:  
+a) avaliação dos riscos existentes; 
+b) inspeção geral dos equipamentos de combate a incêndio;  
+c) inspeção geral das rotas de fuga;  
+d) elaboração de relatório das irregularidades encontradas;  
+e) encaminhamento do relatório aos setores competentes;  
+f) orientação à população fixa e flutuante; 
+g) instrução de abandono de área com segurança;  
+h) exercícios simulados.  
+5.4.2 Ações de emergência:  
+a) identificação da situação;  
+b) alarme/abandono de área; 
+c) acionamento do Corpo de Bombeiros e/ou ajuda externa;  
+d) corte de energia – com verificação prévia de elevadores; e equipamentos de emergência e 
+preservação da vida que funcionem energizados;  
+e) primeiros socorros;  
+f) controle do pânico;  
+g) combate ao princípio de incêndio;  
+h) recepção e orientação ao Corpo de Bombeiros.
+
+--- PÁGINA 6 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+6/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5.5 Treinamento da brigada de incêndio 
+5.5.1 Os brigadistas orgânicos deverão possuir, no mínimo, a formação (nível de treinamento) 
+prevista no Anexo B (básica, intermediária ou avançada) de acordo com a ocupação/divisão da 
+edificação ou área de risco.  
+5.5.1.1 O treinamento de formação deve enfocar, principalmente, os riscos inerentes ao grupo de 
+ocupação, podendo ser exigido parte teórica e prática complementares, de acordo com o local de 
+atuação da brigada. 
+5.5.1.2 Para edificações tombadas pelo patrimônio histórico e museus, a brigada de incêndio 
+deverá ser treinada para, após execução dos procedimentos de preservação da vida, realizar 
+intervenções para remoção de acervo em caso de incêndio ou sinistro que possa comprometer a 
+integridade do acervo da edificação, conforme a IT 35 (Segurança Contra Incêndio em Edificações 
+que compõem o Patrimônio Cultural). 
+5.5.1.3 Em locais em que houver área de preservação florestal, é recomendado que os brigadistas 
+tenham formação complementar para combate a incêndio florestal. 
+5.5.1.4 A periodicidade do treinamento de formação do brigadista orgânico deve ser de no máximo 
+02 (dois) anos. Findo esse prazo, deverá ser realizado novo treinamento nos termos do item 5.5.1. 
+5.5.2 Independente do nível de treinamento exigido para a formação do brigadista orgânico, é 
+obrigatório o treinamento periódico da brigada de incêndio (recomenda-se mensal) no local de 
+atuação referente a: 
+a) evacuação segura da edificação/área de risco; 
+b) identificação de principais riscos da edificação/área de risco; 
+c) localização de registros e chaves de acionamento de medidas de segurança;  
+d) localização de painéis, chaves e disjuntores e dispositivos afetados pelo desligamento desses 
+dispositivos; 
+e) retirada de bens e obras protegidos pelo seu valor histórico e cultural em edificações e áreas 
+de exposição; 
+f) utilização de desfibrilador externo automático, quando for exigido este equipamento para a 
+edificação/ área de risco. 
+5.5.2.1 O treinamento periódico poderá ser conduzido por aqueles que exerçam as funções 
+previstas nas alíneas “b”, “c” e “d” do item 5.3.1.1. 
+5.5.3 A parte teórica do curso de formação poderá ser substituída por pré-avaliação para os 
+componentes da brigada de incêndio, aprovados em curso anterior, que obtiverem 70% de 
+aproveitamento no exame teórico atual. 
+5.5.4 O treinamento de formação da brigada orgânica deve ocorrer por intermédio de Centro de 
+Formação, devidamente credenciado pelo CBMMG, ou por profissional previsto no item 5.5.5 no 
+local de atuação da brigada de incêndio, em conformidade com o previsto na NBR 14.277. 
+5.5.4.1 A avaliação teórica é realizada na forma escrita, preferencialmente dissertativa, conforme 
+conteúdos previstos no Anexo A.1, e a avaliação prática é realizada de acordo com o desempenho 
+do aluno nos exercícios realizados.
+
+--- PÁGINA 7 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+7/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5.5.4.2 As instruções práticas devem acontecer, preferencialmente, nos campos de treinamento 
+dos centros de formação credenciados para esse fim, podendo ocorrer no local de atuação da 
+brigada de incêndio desde que não haja prejuízo das condições de segurança, preservação da 
+vida e meio ambiente do local. 
+5.5.4.3 Aqueles que concluírem o curso com aproveitamento mínimo de 70% na avaliação teórica 
+e prática receberão certificado de brigadista, expedido pelo centro de formação credenciado ou 
+por profissional previsto no item 5.5.5 desta IT.  
+5.5.5 Além do instrutor de brigadistas credenciado nos moldes da Portaria n. 33/2018 do CBMMG, 
+poderão ser instrutor do treinamento de formação da brigada orgânica, os seguintes profissionais: 
+a) técnico em segurança do trabalho com formação compatível com o treinamento a ser oferecido 
+e registro profissional junto ao respectivo Ministério; 
+b) engenheiro de segurança do trabalho, engenheiro ou arquiteto com especialização em segurança 
+do trabalho com qualificação e habilitação compatível com o treinamento a ser oferecido; 
+c) profissional da área de saúde: médico, técnico em enfermagem ou enfermeiro, todos com 
+especialização em APH, medicina ou enfermagem do trabalho ou outra área correlata; 
+d) militares das forças armadas e auxiliares (ativa ou reserva) que possuam no curso de 
+formação/capacitação ou especialização disciplinas relacionadas à prevenção e combate a incêndio, 
+com carga horária mínima de 60h/aula, e relacionada a emergências médicas, com carga horária 
+mínima de 40h/aula, poderão ser instrutores de treinamento de brigada de incêndio.  
+5.5.5.1 Os profissionais elencados nas alíneas “a” até “d” estão dispensados de credenciamento 
+junto ao CBMMG para atuarem como instrutores de brigada orgânica. 
+5.5.5.2 Os militares da ativa do CBMMG somente poderão atuar como instrutores de brigada de 
+incêndio orgânica quando designados por sua Unidade para tal finalidade. 
+5.5.5.3 Os militares da ativa de outras Organizações Militares poderão atuar como instrutores de 
+brigada de incêndio orgânica, desde que seja compatível com o regimento ou regulamento de sua 
+Organização Militar. 
+5.5.5.4 Os arquitetos e engenheiros referenciados na alínea “b” do item 5.5.5 deverão possuir 
+formação complementar para atuarem como instrutores de brigada orgânica, conforme Resolução 
+do CAU (para arquitetos) ou CONFEA/CREA (para engenheiros). Na ausência de Resolução do 
+CAU ou CONFEA/CREA que estabeleça os parâmetros dessa formação deverá ser atendido o 
+previsto no Anexo F. 
+5.5.5.5 Os técnicos em segurança do trabalho referenciados na alínea “a” do item 5.5.5 deverão 
+possuir formação complementar conforme Anexo F. 
+5.5.5.6 Os profissionais da área de saúde referenciados na alínea “c” do item 5.5.5 poderão atuar 
+somente como instrutores de brigada nas disciplinas relacionadas a primeiros socorros. 
+5.5.5.7 A formação complementar exigida no itens 5.5.5.4 e 5.5.5.5 poderá ser realizada pelo 
+Corpo de Bombeiros ou pelos Centro de Formação de brigadistas credenciados. 
+5.5.5.8 No treinamento de formação da brigada orgânica, é permitido que mais de um profissional 
+atue como instrutor dentro de sua área de especialização.
+
+--- PÁGINA 8 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+8/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5.5.5.9 Os profissionais elencados nas alíneas do item 5.5.5, que atuarem como instrutores de parte 
+teórica e prática complementares (previstas no Anexo A.2) para brigadista orgânico, níveis intermediário 
+e avançado, deverão possuir capacitação compatível com o conteúdo a ser ministrado. 
+5.6 Documento comprobatório de formação do brigadista orgânico 
+5.6.1 Para comprovação da formação do brigadista orgânico, serão válidos os certificados de 
+conclusão e equivalentes, identificados e assinados pelos instrutor(es) do treinamento. 
+5.6.2 No certificado do brigadista orgânico, devem constar os seguintes dados:  
+a) título contendo a expressão "Certificado de brigadista orgânico – nível (básico, intermediário ou 
+avançado)"; 
+b) nome completo do treinando com Registro Geral (RG);  
+c) data e local do treinamento;  
+d) formação complementar (para nível intermediário ou avançado); 
+e) nome, habilitação e registro do instrutor (CREA, CAU, MTE, nº de militar, ou nº de 
+credenciamento junto ao CBMMG);  
+f) número de credenciamento do Centro de Formação (quando houver). 
+5.7 Programa de atividades da brigada de incêndio  
+5.7.1 Reuniões ordinárias  
+5.7.1.1 Devem ser realizadas reuniões mensais com os membros da brigada, com registro em ata, 
+onde serão discutidos os seguintes assuntos:  
+a) funções de cada membro da brigada dentro do plano;  
+b) condições de uso dos equipamentos de combate a incêndio;  
+c) apresentação de problemas relacionados à prevenção de incêndios encontrados nas inspeções 
+para que sejam feitas propostas corretivas;  
+d) atualização das técnicas e táticas de combate a incêndio;  
+e) alterações ou mudanças do efetivo da brigada;  
+f) outros assuntos de interesse.  
+5.7.2 Reuniões extraordinárias  
+5.7.2.1 Após a ocorrência de um sinistro, exercício simulado, ou quando identificada uma situação 
+de risco iminente, fazer uma reunião extraordinária para discussão e providências a serem 
+tomadas. As decisões tomadas são registradas em ata e enviadas às áreas competentes para as 
+providências pertinentes.
+
+--- PÁGINA 9 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+9/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5.7.3 Exercícios simulados  
+5.7.3.1 Deve ser realizado, a cada 12 (doze) meses, no mínimo um exercício simulado no 
+estabelecimento ou local de trabalho com participação de toda a população. 
+5.7.3.2 Preferencialmente, após o simulado, deve ser realizada uma reunião extraordinária para 
+avaliação e correção das falhas ocorridas. 
+5.7.3.3 Deve ser elaborada ata na qual conste:  
+a) horário do evento;  
+b) tempo gasto no abandono;  
+c) tempo gasto no retorno;  
+d) tempo gasto no atendimento de primeiros socorros;  
+e) atuação da brigada;  
+f) comportamento da população;  
+g) participação do Corpo de Bombeiros e tempo gasto para sua chegada;  
+h) ajuda externa (PAM – Plano de Auxílio Mútuo);  
+i) falhas de equipamentos;  
+j) falhas operacionais;  
+l) demais problemas levantados na reunião.  
+5.7.3.4 Quando solicitado acompanhamento do simulado pelo Corpo de Bombeiros (CBMMG), o 
+pedido deverá ser apresentado com antecedência mínima de 30 (trinta) dias para avaliação.  
+5.8 Procedimentos complementares  
+5.8.1 Identificação da brigada orgânica 
+5.8.1.1 Devem ser distribuídos em locais visíveis e de grande circulação, quadros de aviso ou 
+similar, sinalizando a existência da brigada de incêndio e indicando seus integrantes com suas 
+respectivas localizações. 
+5.8.1.2 O brigadista deve utilizar constantemente, em lugar visível, um crachá, colete, braçadeira 
+ou outro item que o identifique claramente como membro da brigada. 
+5.8.1.3 No caso de uma situação real ou simulado de emergência, o brigadista orgânico deve usar 
+braçadeira, colete ou capacete para facilitar sua identificação e auxiliar na sua atuação. 
+5.8.1.4 É proibido o uso de insígnias, emblemas, denominações e símbolos de uso exclusivo 
+do CBMMG ou de outras instituições militares nos trajes, uniformes e elementos de 
+identificação dos brigadistas.
+
+--- PÁGINA 10 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+10/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5.8.2 Comunicação interna e externa  
+5.8.2.1 Nas plantas em que houver mais de um pavimento, setor, bloco ou edificação, deve ser 
+estabelecido previamente um sistema de comunicação entre os brigadistas, a fim de facilitar as 
+operações durante a ocorrência de uma situação real ou simulado de emergência. 
+5.8.2.2 Essa comunicação pode ser feita por meio de telefones, quadros sinópticos, interfones, 
+sistemas de alarme, rádios, alto-falantes, sistemas de som interno, etc.;  
+5.8.2.3 Deve-se estabelecer previamente um componente da brigada ou do grupo de apoio à brigada 
+de incêndio para realizar a comunicação com meios externos (Corpo de Bombeiros ou Plano de 
+Auxílio Mútuo) em casos de sinistros. 
+5.8.3 Ordem de abandono  
+5.8.3.1 O responsável máximo da brigada de incêndio (Coordenador geral, Chefe da brigada ou Líder, 
+conforme o caso) determinará o início do abandono, devendo priorizar o(s) local(is) sinistrado(s), o(s) 
+pavimento(s) superior(es) a este(s), o(s) setor(es) próximo(s) e o(s) local(is) de maior risco.  
+5.8.4 Ponto de encontro  
+5.8.4.1 Em simulados e durante a atuação da brigada em situação de emergência, devem ser previstos 
+um ou mais pontos de encontro dos brigadistas, para distribuição das tarefas conforme 5.4.  
+5.8.5 Grupo de apoio à brigada de incêndio 
+5.8.5.1 O grupo de apoio à brigada de incêndio é formado com a participação da Segurança 
+Patrimonial, de eletricistas, encanadores, telefonistas e técnicos especializados na natureza da 
+ocupação.  
+5.8.5.2 Poderá ser empregado quando da necessidade de ação conjunta, em que se exige 
+conhecimentos técnicos por parte da equipe, não sendo necessário que esse profissional faça 
+parte da brigada de incêndio. 
+5.9 Equipamentos da brigada de incêndio 
+5.9.1 Para que a brigada orgânica possa atuar, esta deverá dispor de equipamentos em 
+quantidades adequadas ao número de brigadistas e para o tipo de situações ou riscos que possam 
+ser encontrados no local. 
+5.9.2 Os equipamentos poderão estar acondicionados em locais como: baús de brigadistas, 
+armários para brigada de incêndio, cômodos ou salas, próprios para tal. 
+5.9.2.1 Esses locais de acondicionamento, preferencialmente, devem ser junto aos locais de 
+encontro da brigada, ou próximos das portas das saídas finais da edificação, ou em outros locais 
+de fácil acesso da brigada. 
+5.9.2.2 Poderá haver mais de um local de acondicionamento e a quantidade de equipamentos poderá 
+ser dividida, sempre para um mínimo de 02 (dois) brigadistas, podendo ser por setor ou andar. 
+5.9.2.3 Esses locais de acondicionamento poderão estar trancados, mas obrigatoriamente deverá 
+haver uma chave para cada brigadista e a mesma chave deverá permitir abrir qualquer local de 
+acondicionamento de equipamentos.
+
+--- PÁGINA 11 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+11/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+5.9.2.4 Os locais de acondicionamento deverão possuir placa de identificação, conforme a IT 15 
+(Sinalização de Emergência).  
+5.9.2.5 Em locais de acesso restrito a pessoas, recomenda-se que haja o acondicionamento de 
+equipamentos antes do acesso a esses locais. 
+5.9.2.6 Para áreas de preservação florestal, recomenda-se, conforme o Órgão responsável 
+pertinente e seus critérios, a criação de casamatas, com resistência ao fogo de 240min., providas 
+de equipamentos de combate a incêndios florestais, entre outros materiais, para, no mínimo, 4 
+(quatro) combatentes, inclusive para a acomodação destes. 
+5.9.2.7 Caso sejam usados baús ou armários, estes poderão estar nos corredores, halls ou saguões, 
+desde que não comprometam a largura mínima exigida nas rotas de fuga nesses locais. 
+5.9.2.8 Os locais de acondicionamento de equipamentos da brigada poderão abrigar outros 
+equipamentos, desde que sejam dimensionados para tal e que sejam esses equipamentos da 
+segurança contra incêndio e/ou de resgate e salvamento, como, por exemplo, ferramentas de 
+arrombamento, kits de primeiros socorros, líquidos geradores de espuma, extintores, mangueiras, 
+entre outros. 
+5.9.3 Os tipos de equipamentos e suas quantidades deverão ser determinadas em função do 
+número de brigadistas na edificação, conforme o Anexo D e alguns equipamentos só serão 
+exigidos quando definido em IT específica. 
+5.9.4 É de responsabilidade do Proprietário ou Responsável pelo uso da edificação a aquisição, 
+conservação, manutenção, o perfeito funcionamento e/ou a reposição, se for o caso, dentro das 
+datas recomendadas pelos fabricantes desses equipamentos da brigada de incêndio, com o auxílio 
+da brigada. 
+6 DISPOSIÇÕES FINAIS  
+6.1 O descumprimento dos requisitos estabelecidos por esta instrução técnica será motivo para o 
+Corpo de Bombeiros não fornecer ou cassar o Auto de Vistoria do Corpo de Bombeiros (AVCB).  
+6.2 Recomenda-se para as edificações isentas de brigada de incêndio a permanência de pessoas 
+capacitadas a operar os equipamentos de combate a incêndios existentes na edificação. 
+6.3 A edificação que possuir posto fixo de brigadistas, com efetivo mínimo de 5 (cinco) brigadistas 
+profissionais (por turno de 24 horas) e veículo de combate a incêndio devidamente equipado, nos 
+parâmetros da NBR 14096 (Viaturas de combate a incêndio), poderá ficar isenta da brigada de 
+incêndio. 
+6.4 O brigadista orgânico poderá ser formado pelas Unidades do CBMMG, desde que seja 
+oportuno e conveniente para a corporação, considerando o interesse público. 
+6.5 Os casos omissos relativos aos procedimentos administrativos do Serviço de Segurança 
+Contra Incêndio e Pânico serão solucionados pelo Diretor de Atividades Técnicas.
+
+--- PÁGINA 12 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+12/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+ 
+ANEXO A 
+ Currículo mínimo do curso de formação de brigada orgânica 
+OBJETIVO: Proporcionar aos alunos conhecimentos básicos sobre prevenção, isolamento e extinção 
+de princípios de incêndio, abandono de local com sinistro, além de técnicas de primeiros socorros.  
+INSTRUTORES E AVALIADORES: Profissionais habilitados.  
+TURMAS: Composta de no máximo 30 (trinta) alunos. 
+A.1 – CONTEÚDO PROGRAMÁTICO 
+ 
+N. Módulo  
+Assunto  
+Objetivos – Parte Teórica  
+Objetivos – Parte Prática  
+01 Introdução  
+Objetivos do curso e o 
+brigadista  
+Conhecer os objetivos gerais do 
+curso e comportamento do rigadista 
+― 
+02 Aspectos Legais  
+Responsabilidade do 
+brigadista  
+Conhecer os aspectos legais 
+relacionados a responsabilidade do 
+brigadista  
+― 
+03 Teoria do fogo  
+Combustão, seus 
+elementos e a reação 
+em cadeia  
+Conhecer a combustão, seus 
+elementos, funções, temperaturas 
+do fogo (por exemplo: ponto de 
+fulgor, ignição e combustão) e a 
+reação em cadeia  
+― 
+04 Propagação do 
+fogo  
+Condução, convecção e 
+irradiação 
+Conhecer as formas de propagação 
+do fogo  
+― 
+05 Classes de 
+incêndio  
+Classificação e 
+características  
+Identificar as classes de incêndio  
+Reconhecer as classes de 
+incêndio  
+06 Prevenção de 
+incêndio  
+Técnicas de prevenção  Conhecer as técnicas de prevenção 
+para avaliação dos riscos em 
+potencial  
+― 
+07 Métodos de 
+extinção  
+Isolamento, bafamento, 
+resfriamento e extinção 
+química  
+Conhecer os métodos e suas 
+aplicações  
+Aplicar os métodos 
+08 Agentes extintores  Água, Pós, CO2, 
+espumas e outros  
+Conhecer os agentes, suas 
+características e aplicações  
+Aplicar os agentes 
+09 EPI (equipamentos 
+de proteção 
+individual)  
+EPI  
+Conhecer os EPIs necessários 
+para proteção da cabeça, dos 
+olhos, do tronco, dos membros 
+superiores e inferiores e do  corpo 
+todo  
+Utilizar os EPIs corretamente 
+10 Equipamentos de 
+combate a incêndio 
+Extintores e acessórios  Conhecer os equipamentos suas 
+aplicações, manuseio e inspeções  
+Operar os equipamentos 
+11 Equipamentos de 
+combate a incêndio 
+Hidrantes, mangueiras 
+e acessórios 
+Conhecer os equipamentos suas 
+aplicações, manuseio e inspeções  
+Operar os equipamentos 
+12 Equipamentos de 
+detecção, alarme, 
+luz de emergência 
+e comunicações  
+Tipos e funcionamento  Conhecer os meios mais comuns de 
+sistemas e manuseio  
+Identificar as formas de 
+acionamento e desativação 
+dos equipamentos  
+13 Abandono de área  Conceitos  
+Conhecer as técnicas de abandono 
+de área, saída organizada, pontos 
+de encontro e chamada e controle 
+de pânico  
+― 
+14 Pessoas com 
+mobilidade 
+reduzida  
+Conceitos  
+Descrever as técnicas de 
+bordagem, cuidados e condução de 
+acordo com as peculiaridades da 
+planta  
+―
+
+--- PÁGINA 13 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+13/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+N. Módulo  
+Assunto  
+Objetivos – Parte Teórica  
+Objetivos – Parte Prática  
+15 Avaliação inicial  
+Avaliação do cenário, 
+mecanismo de lesão e 
+número de vítimas  
+Conhecer os riscos iminentes, os 
+mecanismos de lesão, número de 
+vítimas e o exame físico destas  
+Avaliar e reconhecer os riscos 
+iminentes, os mecanismos de 
+lesão, o número de vítimas e o 
+exame físico destas  
+16 Vias aéreas  
+Causas de obstrução e 
+liberação  
+Conhecer os sinais e sintomas de 
+obstruções em adultos, crianças e 
+bebês conscientes e inconscientes  
+Descrever os sinais e 
+sintomas de obstruções em 
+adultos, crianças e bebês 
+conscientes e inconscientes e 
+promover a desobstrução  
+17 RCP (reanimação 
+cardiopulmonar)  
+Ventilação artificial e 
+compressão cardíaca 
+externa  
+Conhecer as técnicas de RCP para 
+adultos, crianças e bebês 
+Praticar as técnicas de RCP  
+18 AED/DEA  
+Desfibrilação 
+semiautomática externa 
+Conhecer equipamentos 
+semiautomáticos para desfibrilação 
+externa precoce  
+Utilizar equipamentos 
+semiautomáticos para 
+desfibrilação externa precoce  
+19 Estado de choque  Classificação 
+prevenção e tratamento 
+Conhecer os sinais, sintomas e 
+técnicas de prevenção e tratamento  
+Aplicar as técnicas de 
+prevenção e tratamento do 
+estado de choque  
+20 Hemorragias  
+Classificação e 
+tratamento  
+Descrever as técnicas de 
+hemostasia  
+Aplicar as técnicas de 
+contenção de hemorragias  
+21 Fraturas  
+Classificação e 
+tratamento 
+Conhecer as fraturas abertas e 
+fechadas e técnicas de 
+imobilizações  
+Aplicar as técnicas de 
+imobilizações  
+22 Ferimentos  
+Classificação e 
+tratamento 
+Identificar os tipos de ferimentos 
+localizados  
+Aplicar os cuidados 
+específicos em ferimentos  
+23 Queimaduras  
+Classificação e 
+tratamento  
+Conhecer os tipos (térmicas, químicas 
+e elétricas) e os graus (primeiro, 
+segundo e terceiro) das queimaduras  
+Aplicar as técnicas e 
+procedimentos de socorro de 
+queimaduras  
+24 Emergências 
+clínicas  
+Reconhecimento e 
+tratamento  
+Conhecer síncope, convulsões, 
+AVC (acidente vascular cerebral), 
+dispneias, crises hiper e 
+hipotensiva, IAM (infarto agudo do 
+miocárdio), diabetes e hipoglicemia  
+Aplicar as técnicas de 
+atendimento  
+25 Movimentação, 
+remoção e 
+transporte de 
+vítimas  
+Avaliação e técnicas  
+Conhecer as técnicas de transporte 
+de vítimas clínicas e traumáticas 
+com suspeita de lesão na coluna 
+vertebral  
+Aplicar as técnicas de 
+movimentação, remoção e 
+transporte de vítima  
+26 Riscos específicos 
+da planta  
+Conhecimento  
+Discutir os riscos específicos de 
+combate a incêndio da planta  
+― 
+27 Psicologia em 
+emergências 
+Conceitos  
+Conhecer a reação das pessoas em 
+situações de emergência  
+― 
+28 Ferramentas de 
+salvamento  
+Corte, arrombamento, 
+remoção e iluminação  
+Conhecer as ferramentas de 
+salvamento  
+Utilizar as ferramentas de 
+salvamento  
+29 Sistema de controle 
+de incidentes  
+Conceitos e 
+procedimentos  
+Conhecer os conceitos e 
+procedimentos relacionados ao 
+sistema de controle de incidentes  
+― 
+30 Proteção 
+respiratória  
+Conceitos e 
+procedimentos 
+Conhecer os procedimentos para 
+utilização dos equipamentos 
+autônomos de proteção respiratória  
+Utilizar os EPRs  
+31 Resgate de vítimas 
+em espaços 
+confinados  
+Avaliação e técnicas  
+Conhecer as normas e 
+procedimentos para resgate de 
+vítimas em espaços confinados 
+Aplicar as técnicas e os 
+equipamentos para resgate de 
+vítimas em espaços confinados 
+32 Resgate de vítimas 
+em altura  
+Avaliação e técnicas  
+Conhecer as técnicas para resgate 
+de vítimas em altura  
+Aplicar as técnicas e utilizar os 
+equipamentos para resgate de 
+vítimas em altura  
+33 Emergências 
+químicas e 
+tecnológicas  
+Conceitos e 
+procedimentos  
+Conhecer as normas e procedimentos 
+relacionados às emergências 
+químicas e tecnológicas  
+Aplicar as técnicas para 
+emergências químicas e 
+tecnológicas
+
+--- PÁGINA 14 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+14/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+A.2 – MÓDULO E CARGA HORÁRIA MÍNIMA POR NÍVEL DE TREINAMENTO 
+ Nível de 
+treinamento 
+Módulo 
+Carga horária mínima (horas) 
+Básico 
+Parte teórica de combate a incêndio: 01 a 
+14 e 26 
+Parte teórica de primeiros socorros: 15 a 20 e 
+25 
+Parte prática de combate a incêndio: 5, 7 a 11 
+Parte prática de primeiros socorros: 15 a 20 
+e 25 (só retirada rápida da vítima) 
+Parte teórica de combate a incêndio: 2 
+Parte teórica de primeiros socorros: 2 
+Parte prática de combate a incêndio: 2 
+Parte prática de primeiros socorros: 2 
+Intermediário 
+Parte teórica de combate a incêndio: 01 a 
+14, 26 e 27 
+Parte teórica de primeiros socorros: 15 a 25 
+Parte prática de combate a incêndio: 5, 7 a 
+12 
+Parte prática de primeiros socorros: 15 a 25 
+Complementar (caso se aplique a planta): 
+29 a 33 
+Parte teórica de combate a incêndio: 4 
+Parte teórica de primeiros socorros: 8 
+Parte prática de combate a incêndio: 4 
+Parte prática de primeiros socorros: 4 
+Parte teórica complementar: 
+- Sistema de controle de incidentes: 1 
+- proteção respiratória: 1 
+- resgate de vitimas em altura: 8 
+- resgate de vitimas em espaços confinados 
+conforme ABNT NBR 16577: 4 
+- emergências químicas e tecnológicas: 4 
+Parte prática complementar: 
+- proteção respiratória: 2 
+- resgate de vitimas em altura: 8 
+- resgate de vitimas em espaços confinados 
+conforme ABNT NBR 16577: 4 
+- emergências químicas e tecnológicas: 8 
+Avançado 
+Parte teórica de combate a incêndio: 01 a 
+14, 26 a 29 
+Parte teórica de primeiros socorros: 15 a 25 
+Parte prática de combate a incêndio: 5, 7 a 
+12, e 28 
+Parte prática de primeiros socorros: 15 a 25 
+Parte prática de proteção respiratória: 30  
+Complementar (caso se aplique a planta): 
+29, 31 a 33 
+Parte teórica de combate a incêndio: 4 
+Parte teórica de primeiros socorros: 10 
+Parte teórica de proteção respiratória: 2 
+Parte prática de combate a incêndio: 8 
+Parte prática de primeiros socorros:8 
+Parte prática de proteção respiratória: 2 
+Parte teórica complementar: 
+- Sistema de controle de incidentes: 1 
+- resgate de vitimas em altura: 8 
+- resgate de vitimas em espaços confinados 
+conforme ABNT NBR 16577: 8 
+- emergências químicas e tecnológicas: 4 
+Parte prática complementar: 
+- resgate de vitimas em altura: 8 
+- resgate de vitimas em espaços confinados 
+conforme ABNT NBR 16577: 8 
+- emergências químicas e tecnológicas: 8 
+ 
+Nota: 
+ 
+A.1.1 Os conteúdos podem ser realizados separadamente, desde que não haja prejuízo na 
+continuidade do aprendizado e da sequência lógica do conteúdo programático. 
+A.1.2 Para fins de treinamentos complementares poderão ser aproveitadas as cargas horárias e 
+disciplinas de cursos formais previstos nas NR (Ministério da Economia) realizados com mesmo 
+objetivo daquele proposto para o treinamento complementar, e desde que realizados no intervalo 
+de validade do treinamento de formação do brigadista.
+
+--- PÁGINA 15 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+15/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+ANEXO B 
+PERCENTUAL DE CÁLCULO PARA COMPOSIÇÃO DA BRIGADA DE INCÊNDIO 
+B.1 – PERCENTUAL DE CÁLCULO PARA COMPOSIÇÃO DA BRIGADA DE INCÊNDIO 
+ORGÂNICA  
+(quando exigida a medida para a edificação ou área de risco) 
+ 
+Grupo 
+Divisão 
+Descrição 
+População fixa por 
+pavimento 
+Nível de 
+Treinamento 
+Até 10 
+Acima 
+de 10 
+A 
+Residencial 
+A-1 
+Habitação unifamiliar 
+Isento 
+Isento 
+A-2 
+Habitação multifamiliar 
+Conforme nota B.1.1 
+Básico 
+A-3 
+Habitação coletiva  
+50% 
+10% 
+Básico 
+B 
+Serviço de 
+Hospedagem 
+B-1 
+Hotel e assemelhado 
+50% 
+10% 
+Intermediário 
+B-2 
+Hotel residencial  
+50% 
+10% 
+Básico 
+C 
+Comercial 
+C-1 
+Comércio com baixa carga de incêndio 
+40% 
+5% 
+Básico 
+C-2 
+Comércio com média e alta carga de 
+incêndio 
+40% 
+5% 
+Intermediário 
+C-3 
+Shopping center 
+50% 
+20% 
+Intermediário 
+D 
+Serviço 
+profissional 
+D-1 
+Repartições públicas e local para 
+prestação de serviço profissional ou 
+condução de negócios 
+30% 
+10% 
+Intermediário 
+D-2 
+Agência bancária 
+40% 
+10% 
+Básico 
+D-3 
+Serviço 
+de 
+reparação 
+(exceto 
+os 
+classificados em G e I) 
+40% 
+10% 
+Intermediário 
+D-4 
+Laboratório 
+40% 
+10% 
+Intermediário 
+E 
+Educacional e 
+cultura física 
+E-1 
+Escola em geral  
+40% 
+20% 
+Intermediário 
+E-2 
+Escola especial 
+40% 
+20% 
+Intermediário 
+E-3 
+Espaço para cultura física 
+40% 
+20% 
+Intermediário 
+E-4 
+Centro de treinamento profissional 
+40% 
+20% 
+Intermediário 
+E-5 
+Pré-escola 
+80% 
+80% 
+Intermediário 
+E-6 
+Escola para portadores de deficiências 
+F 
+Local de Reunião 
+de Público 
+F-1 
+Local onde há objeto de valor 
+inestimável 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Intermediário 
+F-2 
+Local religioso e velório 
+F-3 
+Centro esportivo e de exibição 
+F-4 
+Estação e terminal de passageiro 
+60% 
+20% 
+Intermediário 
+F-5 
+Arte cênica 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Intermediário 
+F-6 
+Local de diversão 
+F-7  
+ Evento temporário 
+Aplica-se o previsto no 
+Anexo B.2 e Instrução 
+Técnica especifica. 
+Aplica-se o previsto 
+no 
+Anexo 
+B.2 
+e 
+Instrução 
+Técnica 
+especifica. 
+F-8 
+Local para refeição 
+60% 
+20% 
+Intermediário 
+F-9 
+Recreação 
+40% 
+10% 
+Intermediário 
+F-10 
+Exposição de objetos e animais 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Intermediário 
+F-11 
+Auditórios 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Básico 
+G 
+G-1 
+Garagem sem acesso de público 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Básico
+
+--- PÁGINA 16 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+16/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Grupo 
+Divisão 
+Descrição 
+População fixa por 
+pavimento 
+Nível de 
+Treinamento 
+Até 10 
+Acima 
+de 10 
+Serviço 
+automotivo e 
+assemelhados 
+G-2 
+Garagem com acesso de público 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Básico 
+G-3 
+Local dotado de abastecimento de 
+combustível 
+G-4 
+Serviço de conservação, manutenção 
+e reparos 
+50% 
+10% 
+Básico 
+G-5 
+Hangares 
+50% 
+20% 
+50% Básico 
+50% Intermediário 
+H 
+Serviço de saúde 
+e institucional 
+H-1 
+Hospital veterinário 
+50% 
+10% 
+Básico 
+H-2 
+Local 
+onde 
+pessoas 
+requerem 
+cuidados especiais por limitações 
+físicas ou mentais 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Intermediário 
+H-3 
+Hospital e assemelhado 
+60% 
+20% 
+Intermediário 
+H-4 
+Edificações das forças armadas e 
+policiais 
+30% 
+10% 
+Intermediário 
+H-5 
+Local onde a liberdade das pessoas 
+sofre restrições 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Intermediário 
+H-6 
+Clínicas médicas, odontológicas e 
+veterinárias 
+40% 
+10% 
+Intermediário 
+I 
+Indústria 
+I-1 
+Locais onde as atividades exercidas e os 
+materiais utilizados apresentam baixo 
+potencial de incêndio. Locais com carga 
+de incêndio até 300MJ/m² 
+40% 
+5% 
+Intermediário 
+I-2 
+Locais onde as atividades exercidas e 
+os materiais utilizados apresentam 
+médio potencial de incêndio. Locais 
+com carga de incêndio acima de 300 
+até 1.200MJ/m 
+50% 
+7% 
+Intermediário 
+I-3 
+Locais onde há alto risco de incêndio. 
+Locais com carga de incêndio superior a 
+1.200MJ/m² 
+60% 
+10% 
+50% Intermediário 
+50% Avançado 
+J 
+Depósito 
+J-1 
+Depósitos de material incombustível 
+Isento 
+Isento 
+- 
+J-2 
+Todo tipo de depósito (baixa carga 
+incêndio) 
+40% 
+10% 
+Intermediário 
+J-3 
+Todo tipo de depósito (média carga 
+incêndio) 
+50% 
+20% 
+Intermediário 
+J-4 
+Todo tipo de depósito (alta carga 
+incêndio) 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+50% Intermediário 
+50% Avançado 
+L 
+Explosivos 
+L-1 
+Comércio 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+L-1 Básico 
+L-2, L-3 Avançado 
+L-2 
+Indústria 
+L-3 
+Depósito 
+M 
+Especial 
+M-1 
+Túnel 
+Conforme nota 
+especifica B.1.9 
+Conforme nota 
+especifica B.1.9 
+M-2 
+Tanques ou Parque de Tanques 
+60% 
+10% 
+Avançado 
+M-3 
+Central de comunicação e energia 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Intermediário 
+M-4 
+Propriedade em transformação 
+30% 
+10% 
+Básico 
+M-5 
+Processamento de lixo 
+30% 
+10% 
+Básico 
+M-6 
+Terra selvagem 
+30% 
+10% 
+Básico 
+M-7 
+Pátio de Containers 
+40% 
+15% 
+Básico
+
+--- PÁGINA 17 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+17/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Notas: 
+B.1.1 Para a divisão A-2, todos os empregados da edificação deverão compor a brigada de 
+incêndio, e caso não haja empregados recomenda-se que haja treinamento da população para 
+evacuação e utilização dos equipamentos e medidas preventivas da edificação. 
+B.1.2 Para todas as divisões de ocupação dos grupos “F” e “L” e para as divisões “E-1, E-5, E-6, 
+H-2, H-3, H-5, I-2, I-3, J-3, J-4”; o número mínimo de brigadistas será 02 (dois) brigadistas.  
+B.1.3 Para edificações utilizadas para reunião de público (Grupo F) mediante locação, onde não 
+há população fixa (para dimensionamento da brigada de incêndio) e com população prevista no 
+PSCIP entre 200 e 1000 pessoas (obtida através do cálculo de população previsto nas IT 08, IT 
+37 ou IT 40), deverá haver a presença de no mínimo 02 (dois) brigadistas durante a utilização da 
+edificação, estando sujeito à fiscalização do CBMMG. 
+B.1.3.1 Quando a população prevista no PSCIP for superior a 1000 pessoas deverá ser 
+considerado 01 (um) brigadista para cada 500 pessoas. 
+B.1.4 Subestações elétricas e de telefonia remotas, em que não há presença humana permanente 
+e há monitoramento remoto das condições do equipamento e da edificação, estão dispensadas 
+de possuir brigada de incêndio, por não possuir população fixa. 
+B.1.5 Na divisão H-3, nos pavimentos onde houver UTIs e centros cirúrgicos, toda população fixa 
+desse pavimento deve fazer parte da brigada de incêndio. 
+B.1.6 Na divisão C-3, quando a área do pavimento for superior a 3000,0 m2, deverá haver no 
+mínimo 01 brigadista profissional por pavimento. Este poderá ser contado como parte do número 
+de brigadistas exigidos para a edificação. 
+B.1.7 Na divisão F-1, quando a área (utilizada como divisão F-1) for superior a 2000,0 m2 deverá 
+haver no mínimo 01 brigadista profissional por pavimento. Este poderá ser contado como parte do 
+número de brigadistas exigidos para a edificação. 
+B.1.8 Na divisão F-6, quando a área (utilizada como divisão F-6) for superior a 750,0 m² deverá 
+haver no mínimo 01 brigadista profissional por pavimento. Este poderá ser contado como parte do 
+número de brigadistas exigidos para a edificação. 
+B.1.9 Os túneis (M-1) deverão possuir brigada de incêndio quando identificado pelo responsável 
+técnico que há elevado risco de incêndio, conforme NBR específica. 
+B.1.10 As áreas de armazenamento de recipientes transportáveis de GLP, GN, líquidos 
+inflamáveis ou combustíveis  classificadas como (M-2), que dispuser de proteção por sistema 
+hidráulico de combate a incêndio deverão atender o percentual de cálculo para composição da 
+brigada de incêndio para M-2 conforme Anexo B.1 desta IT.  
+B.1.11 Para edificações com área inferior a 750,0 m2 e altura inferior a 12 (doze) metros, das 
+divisões E-5 e E-6, a carga horária total mínima poderá ser a básica, conforme Anexo A.2. 
+B.1.12 Para edificações térreas com carga incêndio inferior a 200,0 MJ/m2 da divisão I-1 a carga 
+horária total mínima será a básica, conforme Anexo A.2. 
+B.1.13 Nas edificações mistas serão adotados parâmetros distintos conforme a presença de 
+compartimentação.
+
+--- PÁGINA 18 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+18/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+B.1.13.1 Não havendo compartimentação entre as ocupações serão considerados os parâmetros 
+mais rigorosos da ocupação para toda a edificação ou área de risco. 
+B.1.13.2 Havendo compartimentação entre as ocupações serão considerados os parâmetros de 
+cada ocupação. 
+B.1.13.3 Havendo uso da edificação com divisões de atividade de um mesmo grupo, calcula-se o 
+número de brigadistas separadamente para cada divisão. 
+B.1.14 O brigadista orgânico pode ser substituído por brigadista profissional. 
+B.1.14.1 Cada brigadista profissional contratado contará em dobro para atendimento do número 
+mínimo de brigadistas orgânicos exigidos para a edificação.  
+B.1.14.2 O brigadista profissional será contado normalmente para atendimento do número de 
+brigadistas em eventos temporários.  
+ 
+B.2 – PERCENTUAL DE CÁLCULO PARA COMPOSIÇÃO DA BRIGADA DE INCÊNDIO EM 
+EVENTOS TEMPORÁRIOS 
+Grau de risco / 
+característica do evento 
+Número de brigadistas 
+Nível mínimo de treinamento da brigada 
+Eventos com população a 
+partir de 501 até 40.000 
+pessoas. 
+01 para cada 500 pessoas, 
+respeitado o mínimo de 2 
+brigadistas 
+100% dos brigadistas com nível Intermediário 
+Eventos com população 
+acima de 40.000 pessoas 
+01 para cada 500 pessoas 
+80% da brigada com nível Intermediário 
+20% da brigada composta por brigadistas 
+profissionais 
+ 
+Notas: 
+ 
+B.2.1 Eventos com classificação de risco mínimo e baixo estão isentos da medida brigada de 
+incêndio. 
+B.2.2 Eventos com população inferior a 500 pessoas estão isentos da medida brigada de incêndio. 
+B.2.3 Todos os locais de evento com previsão de população superior a 1500 pessoas deverão contar 
+com pessoa devidamente habilitada para operar o Desfibrilador Externo Automático (DEA). 
+B.2.4 Para todos eventos em que for exigida a medida brigada de incêndio deverá haver no mínimo 
+2 brigadistas.
+
+--- PÁGINA 19 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+19/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+ANEXO C 
+EXEMPLOS DE CÁLCULO DE BRIGADA DE INCÊNDIO ORGÂNICA 
+ 
+C.1 Conforme condições descritas a seguir:  
+1ª Condição: Determinar população fixa da edificação, ou seja, aquela que regularmente 
+permanece na edificação.  
+Obs: Há casos especiais para base de cálculo, o qual o número de brigadistas está descrito no Anexo 
+B.1. Exemplo: Prédios residenciais necessitam treinar todos empregados do condomínio.  
+2ª Condição: Se a população fixa (PF) for menor que 10 pessoas: 
+Número de brigadistas por pavimento ou compartimento = [população fixa por pavimento] x [% de 
+cálculo da coluna “Até 10” do Anexo B.1], ou seja:  
+Número de brigadistas = PF x % de cálculo da coluna “Até 10” do Anexo B.1.  
+3ª Condição: Se a população fixa for maior que 10 pessoas:  
+Número de brigadistas = [(população fixa por pavimento de 10 pessoas) x (% de cálculo da coluna 
+“Até 10” do Anexo B.1)] + [(população fixa por pavimento menos 10 pessoas) x (% de cálculo da 
+coluna “acima de 10” do Anexo B.1)], ou seja:  
+Número de brigadistas = [10 x % de cálculo da coluna “Até 10” do Anexo B.1] + [(PF – 10) x % de 
+cálculo da coluna “acima de 10” do Anexo B.1], onde:  
+Número de brigadistas = Número de brigadistas por pavimento ou compartimento.  
+PF (população fixa) = número de pessoas que permanecem regularmente na edificação, 
+considerando os turnos de trabalho.  
+Observação: 
+Portanto, para dimensionamento do número de brigadistas quando a população fixa for maior que 
+10 pessoas, deve-se proceder conforme exemplo: 
+ 
+Exemplo 1: Edificação com ocupação de agência bancária (D-2), térrea, tendo uma população 
+fixa de 60 pessoas.  
+1º Passo: Aplicar a porcentagem da coluna “Até 10” do Anexo B.1 para as primeiras 10 pessoas, 
+ou seja, 10 x 40% = 4.  
+2º Passo: Em seguida pegaremos a população fixa e subtraímos de 10 pessoas, ou seja, 60 – 10 
+= 50 pessoas.  
+3º Passo: Com o resultado obtido no 2º passo, multiplicamos este valor de porcentagem da coluna 
+“Acima de 10” do Anexo B.1, ou seja, 50 x 10% = 5.  
+4º Passo: Portanto, o número de brigadistas será a soma do valor obtido no 1º passo com o valor 
+obtido no 3º passo, ou seja, 4 + 5 = 9.  
+Número de brigadistas = [10 x 40%] + [(60 – 10) x 10%]  
+Número de brigadistas = 4 + (50 x 10%)  
+Número de brigadistas = 4 + 5 = 9 brigadistas  
+Para os números mínimos de brigadistas, deve-se prever os turnos, a natureza de trabalho e os 
+eventuais afastamentos.  
+Sempre que o resultado obtido do cálculo do número de brigadistas por pavimento for fracionário, 
+deve-se arredonda-lo para número inteiro superior.
+
+--- PÁGINA 20 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+20/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Exemplo 2: Loja: População fixa = 9 pessoas  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo da coluna “Até 
+10” do Anexo B.1]  
+Nº de brigadistas por pavimento = (9 x 40%) = 3,6  
+Nº de brigadistas por pavimento = 4 pessoas  
+ 
+Exemplo 3: planta com duas edificações, sendo a primeira uma área de escritórios com três 
+pavimentos e 19 pessoas por pavimento e a segunda uma indústria de médio potencial de risco 
+com um pavimento e 116 pessoas:  
+Edificações com pavimentos compartimentados ou riscos isolados, calcula-se o número de 
+brigadistas separadamente por grupo de ocupação:  
+Área administrativa (grupo D)  
+População fixa = 19 pessoas por pavimento (três pavimentos)  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo do Anexo B.1]  
+Nº de brigadistas por pavimento = 10 x 30% + (19-10) x 10% = 3 + 0,9 = 3,9  
+Nº de brigadistas por pavimento = 4 pessoas  
+Área industrial (grupo I) 
+População fixa = 116 pessoas  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo do Anexo B.1]  
+Nº de brigadistas por pavimento = 10 x 50% + (116 – 10) x 7% = 5 + 106 x 7% = 5 + 7,42 = 12,42  
+Nº de brigadistas por pavimento = 13 pessoas  
+Nº total de brigadistas (área administrativa + área industrial)  
+No total de brigadistas = (4 x 3) + 13 = 12 + 13 = 25  
+No total de brigadistas = 25 pessoas  
+ 
+Exemplo 4: Edificação mista, sendo uma das ocupações área de escritórios com três pavimentos 
+e 19 pessoas por pavimento e a segunda ocupação uma indústria de médio potencial de risco com 
+um pavimento e 116 pessoas: 
+Edificações sem compartimentação dos pavimentos e sem isolamento dos riscos, calcula-se o 
+número de brigadistas por meio do grupo de ocupação de maior risco:  
+No caso utiliza-se o grupo da área industrial  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo do Anexo B.1]  
+Área administrativa (grupo D) 
+População fixa = 19 pessoas por pavimento (três pavimentos)  
+Nº de brigadistas por pavimento = 10 x 50% + (19-10) x 7% = 5 + 9 x 7% = 5 + 0,63 = 5,63  
+Nº de brigadistas por pavimento = 6 pessoas  
+Área Industrial (grupo I)  
+População fixa = 116 pessoas  
+Nº de brigadistas por pavimento = 10 x 50% + (116 – 10) x 7% = 5 + 106 x 7% = 5 + 7,42 = 12,42
+
+--- PÁGINA 21 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+21/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Nº de brigadistas por pavimento = 13 pessoas  
+Nº total de brigadistas (área administrativa + área industrial)  
+No total de brigadistas = (6 x 3) + 13 = 18 + 13 = 31  
+Nº total de brigadistas = 31 pessoas 
+A composição da brigada de incêndio deve levar em conta a participação de pessoas de todos os setores.
+
+--- PÁGINA 22 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+22/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+ANEXO D  
+ EQUIPAMENTOS MÍNIMOS PARA BRIGADA DE INCÊNDIO 
+D.1 Em todos os casos a brigada de incêndio deve estar apta para utilizar os equipamentos de 
+prevenção e combate a incêndio existentes na edificação, além de conhecer os principais meios 
+de evacuação da edificação. 
+D.2 Para todos os locais de evento com previsão de população superior a 1500 pessoas é 
+obrigatório a existência de desfibrilador externo automático. 
+D.3 Para as edificações do grupo A, B, D e divisões G-1 e G-2, não é exigido material mínimo para 
+a brigada de incêndio. 
+D.4 Para as demais edificações deve haver material mínimo compatível com o risco a proteger, 
+seja relacionado a carga incêndio, existência de substâncias tóxicas, atividades em altura, retirada 
+de pessoas com dificuldade de locomoção, ficando a critério do responsável pela edificação e 
+responsável pela segurança ou segurança do trabalho, quando houver a identificação dos riscos 
+e definição dos materiais.
+
+--- PÁGINA 23 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+23/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+ANEXO E 
+VISTORIA DE LIBERAÇÃO E FISCALIZAÇÃO 
+E.1 No ato da vistoria de fiscalização, o Corpo de Bombeiros exigirá a apresentação dos seguintes 
+documentos:  
+a) Relação nominal e atualizada de brigadistas; 
+b) Atestado de brigada de incêndio conforme IT 01 ou certificados dos brigadistas;  
+E.1.1 Os atestados ou equivalentes emitidos na vigência da versão anterior desta IT serão válidos 
+respeitado o período previsto no item 5.5.1.4. 
+E.1.2 A edificação não utilizada será dispensada de apresentação do atestado de brigada de 
+incêndio e da relação nominal de brigadistas. 
+E.1.3 Na edificação que não possua população fixa definida deverá manter no local do evento os 
+documentos previstos no item E.1 para apresentação ao CBMMG em caso de fiscalização. 
+E.1.4 Quando for exigido brigadista profissional para a edificação/área de risco, deverá haver 
+registro no campo “observações” do quadro resumo de informações da brigada de incêndio 
+previsto na IT 01. 
+E.1.4.1 Em edificações/áreas de risco sem uso, o atendimento dessa exigência será verificado 
+oportunamente pelo CBMMG em vistoria de fiscalização.
+
+--- PÁGINA 24 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+24/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ANEXO F 
+FORMAÇÃO COMPLEMENTAR PARA ARQUITETOS, ENGENHEIROS E TÉCNICOS EM SEGURANÇA DO TRABALHO – INSTRUTORES DE 
+BRIGADA ORGÂNICA 
+ 
+F.1 – DISCIPLINA DE GERENCIAMENTO DE EMERGÊNCIAS 
+ 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o 
+aluno deverá: 
+C.H. 
+(horas) 
+Gerenciamento e análise de risco 
+- Conhecer os conceitos e ferramentas para melhorar a percepção de risco; 
+- Conhecer os procedimentos básicos para realização de inspeções em riscos 
+para minimizá-los ou eliminá-los; 
+02:00 
+― 
+― 
+Abandono de área 
+- Conhecer formas de controle de pessoal em casos de emergência; 
+- Conhecer as técnicas de abandono de área, saída organizada, pontos de 
+encontro e chamada; 
+01:00 
+― 
+― 
+Plano de emergência 
+- Conhecer os requisitos e normas referentes e confeccionar um plano de 
+emergência; 
+02:00 
+― 
+― 
+Comunicações 
+- Conhecer os equipamentos de comunicações, suas aplicações, manuseio, 
+manutenção e procedimentos para o acionamento do Corpo de Bombeiros 
+Militar; 
+02:00 
+― 
+― 
+Elaboração de relatórios 
+- Conhecer os procedimentos de elaboração de relatórios de estatística e 
+preenchimento de relatório de incidente; 
+02:00 
+― 
+― 
+Avaliação 
+- Ser aprovado em avaliação teórica do conteúdo ministrado na disciplina. 
+01:00 
+― 
+― 
+Carga horária 
+C.H. teórica 
+10:00 
+C.H. prática 
+― 
+Total: 10:00 
+ 
+Nota: 
+F.1.1 Para fins de treinamentos complementares poderão ser aproveitadas as cargas horárias e disciplinas de cursos formais previstos nas NR 
+(Ministério da Economia) realizados com mesmo objetivo daquele proposto para o treinamento complementar, e desde que realizados no intervalo de 
+validade do treinamento de formação do brigadista.
+
+--- PÁGINA 25 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+25/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+F.2 – DISCIPLINA DE PREVENÇÃO E COMBATE A INCÊNDIO 
+ 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Módulo 1 ― Físico-química dos Incêndios (10h) 
+Química/física 
+- Compreender a teoria do triângulo e tetraedro do fogo; 
+- Conhecer o conceito de calor, suas fontes, efeitos e métodos de 
+transmissão; 
+- Conhecer o conceito de comburente, a composição de gases da atmosfera, 
+limites de explosividade e o comportamento do incêndio com excesso ou 
+limitação de comburente; 
+- Saber o conceito de combustível e seus tipos; 
+- Conhecer os pontos notáveis de temperatura, tipos de combustão, produtos 
+da combustão e seus efeitos no corpo humano; 
+- Compreender os fenômenos boil over, slop over e BLEVE; 
+06:00 
+― 
+― 
+Fases do incêndio 
+- Compreender as fases do incêndio, curva de desenvolvimento do incêndio e 
+os comportamentos extremos do fogo; 
+02:00 
+― 
+― 
+Classificação de 
+incêndio 
+- Conhecer as classificações de incêndio e suas características; 
+01:00 
+― 
+― 
+Métodos de extinção 
+- Compreender os métodos de extinção do incêndio. 
+01:00 
+― 
+― 
+Módulo 2 ― Agentes Extintores e Equipamentos (17h) 
+Agentes extintores e 
+aparelhos extintores 
+- Conhecer os agentes extintores e as situações em que são empregados; 
+- Identificar os aparelhos extintores, seus tipos, composição, funcionamento e 
+aplicação. 
+02:00 
+- Realizar combate a princípios de incêndio em 
+combustíveis sólidos e líquidos inflamáveis, utilizando 
+extintores de incêndio. 
+02:00 
+Equipamentos 
+hidráulicos de combate 
+a incêndio 
+- Identificar as principais ferramentas e equipamentos utilizados no combate a 
+incêndio, incluindo: mangueira, mangotinhos, esguicho, divisor, adaptador, 
+redução, junta de união, chave de mangueira; 
+- Conhecer suas respectivas aplicações, manuseio e forma de conservação. 
+02:00 
+- Manusear os equipamentos hidráulicos de combate a 
+incêndio; 
+- Executar as formas de acondicionamento de 
+mangueiras. 
+03:00 
+Equipamentos de 
+proteção individual 
+- Conhecer os Equipamentos de Proteção Individual (EPIs), sua importância, 
+componentes, forma de utilização e conservação. 
+01:00 
+- Equipar-se com EPI de forma ágil e correta. 
+01:00 
+Equipamentos de 
+proteção respiratória 
+- Conhecer os tipos de Equipamento de Proteção Respiratória (EPR), 
+importância, componentes, forma de utilização e conservação. 
+01:00 
+-Realizar a montagem e equipagem com EPR autônomo, 
+de forma ágil e correta. 
+02:00 
+Materiais acessórios 
+- Conhecer os equipamentos, suas aplicações, manuseio e manutenção 
+(corte, arrombamento, remoção, escadas, iluminação). 
+01:00 
+-Identificar, manusear e manutenir os materiais 
+acessórios utilizados nas operações de incêndio. 
+02:00
+
+--- PÁGINA 26 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+26/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Módulo 3 ― Técnicas de Combate a Incêndio (11h) 
+Técnicas de 
+maneabilidade 
+― 
+― 
+- Realizar as técnicas de maneabilidade com mangueiras 
+de incêndio em plano horizontal, vertical e misto. 
+04:00 
+Técnicas de combate 
+a incêndio 
+- Conhecer as técnicas para combate a incêndios, incluindo: ataque direto, 
+indireto e ventilação. 
+01:00 
+-Executar as técnicas de combate a incêndios e de 
+ventilação natural e forçada em ambientes confinados. 
+04:00 
+Incêndios específicos 
+- Conhecer os riscos e técnicas para combate a incêndios específicos: 
+hospital, indústria, biblioteca, central de GLP, automóvel de transporte de 
+produtos perigosos, hotel, teatro, farmácia, caldeira, subestação elétrica, 
+depósito de cereais e veículo. 
+02:00 
+― 
+― 
+Módulo 4 ―  Medidas de Segurança Contra Incêndio e Pânico (12h) 
+Sistemas de proteção 
+contra incêndio e 
+pânico 
+- Conhecer e identificar os sistemas de proteção contra incêndio e pânico, 
+com base nas normas vigentes. 
+01:00 
+― 
+― 
+Sistema preventivo 
+- Conhecer os tipos, funcionamento e aplicação dos componentes do sistema 
+hidráulico preventivo, incluindo: hidrantes (de coluna, industrial, de parede e 
+de recalque), sprinklers, sistema de espuma e sistema de resfriamento; 
+- Identificar o sistema de iluminação de emergência, saídas de emergência e 
+sistema de detecção e alarme, seus tipos, composição, funcionamento e 
+aplicação. 
+02:00 
+- Realizar testes no sistema hidráulico de uma 
+edificação; 
+- Identificar “in loco” o sistema hidráulico preventivo, 
+sistema de iluminação de emergência, saídas de 
+emergência e sistema de detecção e alarme e 
+sprinklers. 
+04:00 
+Avaliação Teórica e Prática (05h) 
+Avaliação 
+- Ser aprovado em avaliação teórica de 30 questões contendo questões de 
+todos os módulos. 
+02:00 
+- Ser aprovado em avaliação prática do conteúdo 
+ministrado na disciplina. 
+03:00 
+Carga horária 
+C.H. teórica 
+25:00 
+C.H. prática 
+25:00 
+Total: 50:00 
+ 
+Nota: 
+F.2.1 Para fins de treinamentos complementares poderão ser aproveitadas as cargas horárias e disciplinas de cursos formais previstos nas NR 
+(Ministério da Economia) realizados com mesmo objetivo daquele proposto para o treinamento complementar, e desde que realizados no intervalo de 
+validade do treinamento de formação do brigadista.
+
+--- PÁGINA 27 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+27/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+F.3 – DISCIPLINA DE PRIMEIROS SOCORROS 
+ 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Módulo 1 – Introdutório (06h) 
+Legislação aplicada aos 
+primeiros socorros 
+- Conhecer os aspectos legais da atividade de primeiros socorros, os deveres 
+do socorrista e a ética no atendimento; 
+- Compreender a diferença entre o atendimento pré-hospitalar e os primeiros 
+socorros. 
+01:00 
+― 
+― 
+Avaliação da cena 
+- Conhecer os riscos na cena de emergência; 
+- Conhecer as medidas de segurança a serem adotadas no atendimento; 
+- Saber avaliar a necessidade de solicitar recursos adicionais e acionar outros 
+órgãos. 
+00:30 
+― 
+― 
+Avaliação do paciente 
+- Conhecer a sequência e as técnicas referentes à avaliação primária, 
+secundária e continuada em vítimas de agravos clínicos e traumáticos.  
+02:00 
+- Realizar a avaliação primária, secundária e 
+continuada em vítimas de agravos clínicos e 
+traumáticos. 
+02:30 
+Módulo 2 – Suporte Básico de Vida (07h) 
+Conceitos e definições 
+- Conhecer o conceito de parada cardiorrespiratória, obstrução de vias aéreas 
+por corpo estranho e corrente da sobrevivência. 
+00:30 
+― 
+― 
+Obstrução de vias aéreas por 
+corpo estranho 
+- Conhecer os sinais e os sintomas de obstruções e manobras de liberação 
+em adultos, crianças e bebês conscientes e inconscientes. 
+00:30 
+- Realizar a intervenção em vítimas que 
+apresentam obstrução de vias aéreas por 
+corpo estranho. 
+00:30 
+RCP (ressuscitação 
+cardiopulmonar) 
+- Conhecer as técnicas de ressuscitação cardiopulmonar (RCP) com 
+ventilação artificial e compressão cardíaca externa em adultos, crianças e 
+bebês, sozinho e em equipe. 
+01:00 
+- Realizar atendimento em vítimas com 
+parada cardiorrespiratória (PCR). 
+03:00 
+DEA (desfibrilador automático 
+externo) 
+- Conhecer os procedimentos e cuidados necessários para a utilização do 
+DEA. 
+00:30 
+- Realizar atendimento em vítimas com PCR 
+utilizando o DEA. 
+01:00 
+Módulo 3 – Traumas (10h) 
+Estado de choque 
+- Conhecer a classificação, reconhecimento dos sinais e sintomas e as 
+técnicas de prevenção e tratamento do estado de choque. 
+01:00 
+― 
+― 
+Hemorragias 
+- Conhecer a classificação e as técnicas de contenção de hemorragias. 
+00:30 
+- Saber classificar a hemorragia de acordo 
+com os sinais e sintomas da vítima; 
+- Realizar as técnicas de contenção de 
+hemorragias de acordo com a gravidade da 
+lesão. 
+00:30 
+Lesões musculoesqueléticas 
+- Conhecer a classificação e técnicas de imobilizações de fraturas, entorses e 
+luxações. 
+01:00 
+- Realizar as técnicas de imobilização de 
+fraturas, entorses e luxações em membros. 
+03:00
+
+--- PÁGINA 28 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+28/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ferimentos 
+- Saber identificar os tipos de ferimentos, incluindo: TCE (traumatismo 
+cranioencefálico), TRM (traumatismo raquimedular), queimadura, escoriação, 
+incisão, punção, laceração, objeto encravado e empalado e amputações 
+traumáticas; 
+- Conhecer as técnicas de tratamento relacionadas a cada tipo de trauma. 
+01:00 
+- Realizar a intervenção em vítimas que 
+apresentam os traumas abordados na 
+teoria. 
+03:00 
+Módulo 4 – Emergências Clínicas e Intoxicações (03h) 
+Emergências clínicas 
+- Conhecer os sintomas e tratamento em síncope, convulsão, AVC (acidente 
+vascular cerebral), dispneias, crises hipertensiva e hipotensiva, IAM (infarto 
+agudo do miocárdio), diabetes e hipoglicemia. 
+02:00 
+― 
+― 
+Intoxicações 
+- Conhecer os tipos de intoxicações (biológicas, químicas e radiológicas) e 
+condutas de emergências básicas. 
+01:00 
+― 
+― 
+Módulo 5 – Movimentação, Transporte de Vítimas e Triagem (08h) 
+Movimentação e transporte de 
+vítimas 
+- Conhecer as técnicas de utilização do colar cervical em caso de suspeita de 
+lesão na coluna; 
+- Conhecer as técnicas de imobilização de vítimas em prancha longa em caso 
+de suspeita de lesão na coluna e outros métodos quando não houver suspeita 
+de TRM; 
+- Conhecer as técnicas de retirada de emergência de vítimas em locais de alto 
+risco. 
+01:00 
+- Executar as técnicas de imobilização, 
+movimentação e transporte de vítimas. 
+03:00 
+Triagem de vítimas 
+- Conhecer o protocolo de atendimento a incidente com múltiplas vítimas; 
+02:00 
+- Realizar triagem de vítimas utilizando o 
+método START; 
+02:00 
+Avaliação Teórica e Prática (06h) 
+Avaliação 
+- Ser aprovado em avaliação teórica de 30 questões contendo questões de 
+todos os módulos. 
+02:00 
+- Ser aprovado em avaliação prática 
+envolvendo todo o conteúdo prático. 
+04:00 
+Carga horária 
+C.H. teórica 
+17:30 
+C.H. prática 
+22:30 
+Total: 40:00 
+ 
+Nota: 
+F.3.1 Para fins de treinamentos complementares poderão ser aproveitadas as cargas horárias e disciplinas de cursos formais previstos nas NR 
+(Ministério da Economia) realizados com mesmo objetivo daquele proposto para o treinamento complementar, e desde que realizados no intervalo de 
+validade do treinamento de formação do brigadista.
+
+--- PÁGINA 29 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+29/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ANEXO G 
+MODELO DE MATRIZ CURRICULAR 
+G.1 – BRIGADA DE INCÊNDIO – FORMAÇÃO NÍVEL BÁSICO 
+DISCIPLINA DE COMBATE A INCÊNDIO 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o 
+aluno deverá: 
+C.H. 
+(horas) 
+(1)Introdução 
+- Conhecer os objetivos e conceitos gerais do curso 
+2:00 
+― 
+― 
+(2)Responsabilidade do brigadista 
+Conhecer os aspectos legais relacionados a responsabilidade do 
+brigadista 
+― 
+― 
+(3)Teoria do Fogo: Combustão, seus elementos e a reação 
+em cadeia 
+Conhecer a combustão, seus elementos, funções, temperaturas 
+do fogo (por exemplo: ponto de fulgor, ignição e combustão) e a 
+reação em cadeia 
+― 
+― 
+(4)Propagação do fogo: 
+Condução, convecção e irradiação 
+Conhecer as formas de propagação do fogo 
+― 
+― 
+(5)Classes de incêndio: Classificação e características 
+Identificar as classes de incêndio 
+Reconhecer as classes de 
+incêndio 
+0:30 
+(6)Prevenção de incêndio: 
+Técnicas de prevenção 
+Conhecer as técnicas de prevenção para avaliação dos riscos em 
+potencial 
+― 
+― 
+(7)Métodos de extinção: 
+Isolamento, abafamento, resfriamento e extinção química 
+Conhecer os métodos e suas aplicações 
+Aplicar os métodos  
+1:30 
+(8)Agentes extintores: 
+Água, Pós, CO2, espumas e outros 
+Conhecer os agentes, suas características e aplicações 
+Aplicar os agentes 
+(9)EPI (equipamentos de proteção individual)  
+Conhecer os EPIs necessários para proteção da cabeça, dos olhos, 
+do tronco, dos membros superiores e inferiores e do corpo todo 
+Utilizar os EPIs corretamente  
+(10)Equipamentos de combate a incêndio: Extintores e 
+acessórios 
+Conhecer os equipamentos suas aplicações, manuseio e 
+inspeções 
+Operar os equipamentos  
+(11)Equipamentos de combate a incêndio: 
+Hidrantes, mangueiras e acessórios 
+Conhecer os equipamentos suas aplicações, manuseio e 
+inspeções 
+― 
+― 
+(12)Equipamentos de detecção, alarme, luz de emergência 
+e comunicações : Tipos e funcionamento 
+Conhecer os meios mais comuns de sistemas e manuseio 
+― 
+― 
+(13)Abandono de área  
+Conhecer as técnicas de abandono de área, saída organizada, 
+pontos de encontro e chamada e controle de pânico 
+― 
+― 
+(14)Pessoas com mobilidade reduzida  
+Descrever as técnicas de abordagem, cuidados e condução de 
+acordo com as  peculiaridades da planta 
+― 
+― 
+(26)Riscos específicos da planta: 
+Conhecimento 
+Discutir os riscos específicos de combate a incêndio da planta  
+― 
+― 
+Carga horária 
+C.H. teórica 
+2:00 
+C.H. prática 
+2:00 
+Total: 4:00
+
+--- PÁGINA 30 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+30/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+DISCIPLINA DE PRIMEIROS SOCORROS 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. (horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. (horas) 
+(15)Avaliação inicial: 
+Avaliação do cenário, mecanismo de lesão 
+e número de vítimas 
+Conhecer os riscos iminentes, os mecanismos de 
+lesão, número de vítimas e o exame físico destas 
+2:00 
+Avaliar e reconhecer os riscos iminentes, os 
+mecanismos de lesão, o número de vítimas  
+e o exame físico destas  
+2:00 
+(16)Vias aéreas: 
+Causas de obstrução e liberação 
+Conhecer os sinais e sintomas de obstruções em 
+adultos, crianças e bebês conscientes e 
+inconscientes 
+Descrever os sinais e sintomas de obstruções 
+em adultos, crianças e bebês conscientes e 
+inconscientes e promover a desobstrução 
+(17)RCP (reanimação cardiopulmonar): 
+Ventilação artificial e compressão cardíaca 
+externa 
+Conhecer as técnicas de RCP para adultos, 
+crianças e bebês 
+Praticar as técnicas de RCP 
+(18)AED/DEA: 
+Desfibrilação semiautomática externa 
+Conhecer equipamentos semiautomáticos para 
+desfibrilação externa precoce 
+Utilizar equipamentos semiautomáticos para 
+desfibrilação externa precoce 
+(19)Estado de choque: 
+Classificação prevenção e tratamento 
+Conhecer os sinais, sintomas e técnicas de 
+prevenção e tratamento 
+Aplicar as técnicas de prevenção e tratamento 
+do estado de choque  
+(20)Hemorragias: 
+Classificação e tratamento 
+Descrever as técnicas de hemostasia 
+Aplicar as técnicas de contenção de hemorragias 
+(25)Movimentação, remoção e transporte 
+de vítimas: 
+Avaliação e técnicas 
+Conhecer as técnicas de transporte de vítimas 
+clínicas e traumáticas com suspeita de lesão na 
+coluna vertebral 
+Aplicar a técnica de retirada rápida da vítima 
+Carga horária 
+C.H. teórica 
+2:00 
+C.H. prática 
+2:00 
+Total: 4:00
+
+--- PÁGINA 31 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+31/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+G.2 – BRIGADA DE INCÊNDIO – FORMAÇÃO NÍVEL INTERMEDIÁRIO 
+DISCIPLINA DE COMBATE A INCÊNDIO 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o 
+aluno deverá: 
+C.H. 
+(horas) 
+(1)Introdução 
+Conhecer os objetivos e conceitos gerais do curso; 
+4:00 
+― 
+― 
+(2)Responsabilidade do brigadista 
+Conhecer os aspectos legais relacionados a responsabilidade do brigadista 
+― 
+― 
+(3)Teoria do Fogo: Combustão, seus 
+elementos e a reação em cadeia 
+Conhecer a combustão, seus elementos, funções, temperaturas do fogo (por 
+exemplo: ponto de fulgor, ignição e combustão) e a reação em cadeia; 
+― 
+― 
+(4)Propagação do fogo: 
+Condução, convecção e irradiação 
+Conhecer as formas de propagação do fogo 
+― 
+― 
+(5)Classes de incêndio: Classificação e 
+características 
+Identificar as classes de incêndio 
+Reconhecer as classes de 
+incêndio 
+0:30 
+(6)Prevenção de incêndio: 
+Técnicas de prevenção 
+Conhecer as técnicas de prevenção para avaliação dos riscos em potencial 
+― 
+― 
+(7)Métodos de extinção: 
+Isolamento, abafamento, resfriamento e 
+extinção química 
+Conhecer os métodos e suas aplicações 
+Aplicar os métodos  
+3:30 
+(8)Agentes extintores: 
+Água, Pós, CO2, espumas e outros 
+Conhecer os agentes, suas características e aplicações 
+Aplicar os agentes 
+(9)EPI (equipamentos de proteção individual)  Conhecer os EPIs necessários para proteção da cabeça, dos olhos, do tronco, 
+dos membros superiores e inferiores e do  corpo todo 
+Utilizar os EPIs corretamente  
+(10)Equipamentos de combate a incêndio: 
+Extintores e acessórios 
+Conhecer os equipamentos suas aplicações, manuseio e inspeções 
+Operar os equipamentos  
+(11)Equipamentos de combate a incêndio: 
+Hidrantes, mangueiras e acessórios 
+Conhecer os equipamentos suas aplicações, manuseio e inspeções 
+Operar os equipamentos  
+(12)Equipamentos de detecção, alarme, luz 
+de emergência e comunicações : 
+Tipos e funcionamento 
+Conhecer os meios mais comuns de sistemas e manuseio 
+Identificar as formas de 
+acionamento e desativação 
+dos equipamentos  
+(13)Abandono de área  
+Conhecer as técnicas de abandono de área, saída organizada, pontos de 
+encontro e chamada e controle de pânico 
+― 
+― 
+(14)Pessoas com mobilidade reduzida  
+Descrever as técnicas de abordagem, cuidados e condução de acordo com 
+as  peculiaridades da planta 
+― 
+― 
+(26)Riscos específicos da planta: 
+Conhecimento 
+ 
+Discutir os riscos específicos de combate a incêndio da planta  
+― 
+― 
+(27)Psicologia em emergências: 
+Conceitos 
+Conhecer a reação das pessoas em situações de emergência 
+― 
+― 
+Carga horária 
+C.H. teórica 
+4:00 
+C.H. prática 
+4:00 
+Total: 8:00
+
+--- PÁGINA 32 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+32/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+DISCIPLINA DE PRIMEIROS SOCORROS 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+(15)Avaliação inicial: 
+Avaliação do cenário, mecanismo de lesão 
+e número de vítimas 
+Conhecer os riscos iminentes, os mecanismos de 
+lesão, número de vítimas e o exame físico destas 
+8:00 
+Avaliar e reconhecer os riscos iminentes, os mecanismos de 
+lesão, o número de vítimas e o exame físico destas  
+4:00 
+(16)Vias aéreas: 
+Causas de obstrução e liberação 
+Conhecer os sinais e sintomas de obstruções em 
+adultos, crianças e bebês conscientes e 
+inconscientes 
+Descrever os sinais e sintomas de obstruções em adultos, 
+crianças e bebês conscientes e inconscientes e promover a 
+desobstrução 
+(17)RCP (reanimação cardiopulmonar): 
+Ventilação artificial e compressão cardíaca 
+externa 
+Conhecer as técnicas de RCP para adultos, 
+crianças e bebês 
+Praticar as técnicas de RCP 
+(18)AED/DEA: 
+Desfibrilação semiautomática externa 
+Conhecer equipamentos semiautomáticos para 
+desfibrilação externa precoce 
+Utilizar equipamentos semiautomáticos para desfibrilação 
+externa precoce 
+(19)Estado de choque: 
+Classificação prevenção e tratamento 
+Conhecer os sinais, sintomas e técnicas de 
+prevenção e tratamento 
+Aplicar as técnicas de prevenção e tratamento do estado de 
+choque  
+(20)Hemorragias: 
+Classificação e tratamento 
+Descrever as técnicas de hemostasia 
+Aplicar as técnicas de contenção de hemorragias 
+(21)Fraturas: 
+Classificação e tratamento 
+Conhecer as fraturas abertas e fechadas e 
+técnicas de imobilizações 
+Aplicar as técnicas de imobilizações 
+ 
+(22)Ferimentos: 
+Classificação e tratamento 
+Identificar os tipos de ferimentos localizados 
+Aplicar os cuidados específicos em ferimentos 
+(23)Queimaduras: 
+Classificação e tratamento 
+Conhecer os tipos (térmicas, químicas e elétricas) 
+e os graus (primeiro, segundo e terceiro) das 
+queimaduras 
+Aplicar as técnicas e procedimentos de socorro de 
+queimaduras 
+(24)Emergências clínicas: 
+Reconhecimento e tratamento 
+Conhecer síncope, convulsões, AVC (acidente 
+vascular cerebral), dispneias, crises hiper e 
+hipotensiva, IAM (infarto agudo do miocárdio), 
+diabetes e hipoglicemia 
+Aplicar as técnicas de atendimento 
+(25)Movimentação, remoção e transporte 
+de vítimas: 
+Avaliação e técnicas 
+Conhecer as técnicas de transporte de vítimas 
+clínicas e traumáticas com suspeita de lesão na 
+coluna vertebral 
+Aplicar as técnicas de movimentação, remoção e transporte 
+de vítima 
+Carga horária 
+C.H. teórica 
+8:00 
+C.H. prática 
+4:00 
+Total: 12:00
+
+--- PÁGINA 33 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+33/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+CONTEÚDO COMPLEMENTAR 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+(29)Sistema de controle de incidentes: 
+Conceitos e procedimentos 
+Conhecer os conceitos e procedimentos relacionados 
+ao sistema de controle de incidentes 
+1:00 
+Aplicar os procedimentos relacionados ao sistema de 
+controle de incidentes 
+2:00 
+(30)Proteção respiratória: 
+Conceitos e procedimentos 
+Conhecer os procedimentos para utilização dos 
+equipamentos autônomos de proteção respiratória 
+1:00 
+Utilizar os EPRs 
+1:00 
+(31)Resgate de vítimas em espaços 
+confinados: 
+Avaliação e técnicas 
+Conhecer as normas e procedimentos para resgate 
+de vítimas em espaços confinados 
+conforme 
+ABNT NBR 
+16577 
+Aplicar as técnicas e os equipamentos para resgate de 
+vítimas em espaços confinados  
+conforme 
+ABNT 
+NBR 
+16577 
+(32)Resgate de vítimas em altura: 
+Avaliação e técnicas 
+Conhecer as técnicas para resgate de vítimas em 
+altura 
+8:00 
+Aplicar as técnicas e utilizar os equipamentos para 
+resgate de vítimas em altura 
+8:00 
+(33)Emergências químicas e tecnológicas: 
+Conceitos e procedimentos 
+Conhecer as normas e procedimentos relacionados 
+às emergências químicas e tecnológicas 
+4:00 
+Aplicar as técnicas para emergências químicas e 
+tecnológicas 
+8:00 
+Carga horária 
+C.H. teórica 
+14:00 
+C.H. prática 
+19:00 
+Total: 33:00
+
+--- PÁGINA 34 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+34/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+G.3 – BRIGADA DE INCÊNDIO – FORMAÇÃO NÍVEL AVANÇADO 
+DISCIPLINA DE COMBATE A INCÊNDIO 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno 
+deverá: 
+C.H. 
+(horas) 
+(1)Introdução 
+Conhecer os objetivos e conceitos gerais do curso; 
+4:00 
+― 
+― 
+(2)Responsabilidade do brigadista 
+Conhecer os aspectos legais relacionados a responsabilidade do brigadista 
+― 
+― 
+(3)Teoria do Fogo: Combustão, seus 
+elementos e a reação em cadeia 
+Conhecer a combustão, seus elementos, funções, temperaturas do fogo 
+(por exemplo: ponto de fulgor, ignição e combustão) e a reação em cadeia; 
+― 
+― 
+(4)Propagação do fogo: 
+Condução, convecção e irradiação 
+Conhecer as formas de propagação do fogo 
+― 
+― 
+(5)Classes de incêndio: Classificação e 
+características 
+Identificar as classes de incêndio 
+Reconhecer as classes de incêndio 
+0:30 
+(6)Prevenção de incêndio: 
+Técnicas de prevenção 
+Conhecer as técnicas de prevenção para avaliação dos riscos em potencial 
+― 
+― 
+(7)Métodos de extinção: 
+Isolamento, abafamento, resfriamento e 
+extinção química 
+Conhecer os métodos e suas aplicações 
+Aplicar os métodos  
+5:30 
+(8)Agentes extintores: 
+Água, Pós, CO2, espumas e outros 
+Conhecer os agentes, suas características e aplicações 
+Aplicar os agentes 
+(9)EPI (equipamentos de proteção 
+individual)  
+Conhecer os EPIs necessários para proteção da cabeça, dos olhos, do 
+tronco, dos membros superiores e inferiores e do corpo todo 
+Utilizar os EPIs corretamente  
+(10)Equipamentos de combate a incêndio: 
+Extintores e acessórios 
+Conhecer os equipamentos suas aplicações, manuseio e inspeções 
+Operar os equipamentos  
+(11)Equipamentos de combate a incêndio: 
+Hidrantes, mangueiras e acessórios 
+Conhecer os equipamentos suas aplicações, manuseio e inspeções 
+Operar os equipamentos  
+(12)Equipamentos de detecção, alarme, luz 
+de emergência e comunicações: 
+Tipos e funcionamento 
+Conhecer os meios mais comuns de sistemas e manuseio 
+Identificar as formas de acionamento 
+e desativação dos equipamentos  
+(13)Abandono de área  
+Conhecer as técnicas de abandono de área, saída organizada, pontos de 
+encontro e chamada e controle de pânico 
+― 
+― 
+(14)Pessoas com mobilidade reduzida  
+Descrever as técnicas de abordagem, cuidados e condução de acordo com 
+as peculiaridades da planta 
+― 
+― 
+(26)Riscos específicos da planta: 
+Conhecimento 
+Discutir os riscos específicos de combate a incêndio da planta  
+― 
+― 
+(27)Psicologia em emergências: Conceitos 
+Conhecer a reação das pessoas em situações de emergência 
+― 
+― 
+(28)Ferramentas de salvamento: 
+Corte, arrombamento, remoção e iluminação 
+Conhecer as ferramentas de salvamento 
+Utilizar as ferramentas de salvamento 
+2:00 
+Carga horária 
+C.H. teórica 
+4:00 
+C.H. prática 
+8:00 
+Total: 12:00
+
+--- PÁGINA 35 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+35/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+DISCIPLINA DE PRIMEIROS SOCORROS 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. 
+(horas) 
+(15)Avaliação inicial: 
+Avaliação do cenário, mecanismo de 
+lesão e número de vítimas 
+Conhecer os riscos iminentes, os mecanismos de lesão, 
+número de vítimas e o exame físico destas 
+10:00 
+Avaliar e reconhecer os riscos iminentes, os 
+mecanismos de lesão, o número de vítimas e o 
+exame físico destas  
+8:00 
+(16)Vias aéreas: 
+Causas de obstrução e liberação 
+Conhecer os sinais e sintomas de obstruções em adultos, 
+crianças e bebês conscientes e inconscientes 
+Descrever os sinais e sintomas de obstruções em 
+adultos, crianças e bebês conscientes e 
+inconscientes e promover a desobstrução 
+(17)RCP (reanimação cardiopulmonar): 
+Ventilação artificial e compressão 
+cardíaca externa 
+Conhecer as técnicas de RCP para adultos, crianças e 
+bebês 
+Praticar as técnicas de RCP 
+(18)AED/DEA: 
+Desfibrilação semiautomática externa 
+Conhecer equipamentos semiautomáticos para 
+desfibrilação externa precoce 
+Utilizar equipamentos semiautomáticos para 
+desfibrilação externa precoce 
+(19)Estado de choque: 
+Classificação prevenção e tratamento 
+Conhecer os sinais, sintomas e técnicas de prevenção e 
+tratamento 
+Aplicar as técnicas de prevenção e tratamento do 
+estado de choque  
+(20)Hemorragias: 
+Classificação e tratamento 
+Descrever as técnicas de hemostasia 
+Aplicar as técnicas de contenção de hemorragias 
+(21)Fraturas: 
+Classificação e tratamento 
+Conhecer as fraturas abertas e fechadas e técnicas de 
+imobilizações 
+Aplicar as técnicas de imobilizações 
+ 
+(22)Ferimentos: 
+Classificação e tratamento 
+Identificar os tipos de ferimentos localizados 
+Aplicar os cuidados específicos em ferimentos 
+(23)Queimaduras: 
+Classificação e tratamento 
+Conhecer os tipos (térmicas, químicas e elétricas) e os 
+graus (primeiro, segundo e terceiro) das queimaduras 
+Aplicar as técnicas e procedimentos de socorro de 
+queimaduras 
+(24)Emergências clínicas: 
+Reconhecimento e tratamento 
+Conhecer síncope, convulsões, AVC (acidente vascular 
+cerebral), dispneias, crises hiper e hipotensiva, IAM (infarto 
+agudo do miocárdio), diabetes e hipoglicemia 
+Aplicar as técnicas de atendimento 
+(25)Movimentação, remoção e transporte 
+de vítimas: 
+Avaliação e técnicas 
+Conhecer as técnicas de transporte de vítimas clínicas e 
+traumáticas com suspeita de lesão na coluna vertebral 
+Aplicar as técnicas de movimentação, remoção e 
+transporte de vítima 
+Carga horária 
+C.H. teórica 
+10:00 
+C.H. prática 
+08:00 
+Total: 18:00
+
+--- PÁGINA 36 ---
+CBMMG IT 12 – Brigada de Incêndio 
+2ª edição 
+36/36 
+Aprovada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+CONTEÚDO PROTEÇÃO RESPIRATÓRIA 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. (horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. (horas) 
+(30)Proteção respiratória: 
+Conceitos e procedimentos 
+Conhecer os procedimentos para utilização dos 
+equipamentos autônomos de proteção respiratória 
+― 
+Utilizar os EPRs 
+2:00 
+ 
+CONTEÚDO COMPLEMENTAR 
+Assunto 
+Parte teórica 
+Parte prática 
+Ao término da disciplina o aluno deverá: 
+C.H. (horas) 
+Ao término da disciplina o aluno deverá: 
+C.H. (horas) 
+(29)Sistema de controle de incidentes: 
+Conceitos e procedimentos 
+Conhecer 
+os 
+conceitos 
+e 
+procedimentos 
+relacionados ao sistema de controle de incidentes 
+1:00 
+Aplicar os procedimentos relacionados ao sistema 
+de controle de incidentes 
+2:00 
+(31)Resgate de vítimas em espaços 
+confinados: 
+Avaliação e técnicas 
+Conhecer as normas e procedimentos para resgate 
+de vítimas em espaços confinados 
+conforme 
+ABNT NBR 
+16577 
+Aplicar as técnicas e os equipamentos para 
+resgate de vítimas em espaços confinados  
+conforme ABNT 
+NBR 16577 
+(32)Resgate de vítimas em altura: 
+Avaliação e técnicas 
+Conhecer as técnicas para resgate de vítimas em 
+altura 
+8:00 
+Aplicar as técnicas e utilizar os equipamentos para 
+resgate de vítimas em altura 
+8:00 
+(33)Emergências químicas e 
+tecnológicas: 
+Conceitos e procedimentos 
+Conhecer as normas e procedimentos relacionados 
+às emergências químicas e tecnológicas 
+4:00 
+Aplicar as técnicas para emergências químicas e 
+tecnológicas 
+8:00 
+Carga horária 
+C.H. teórica 
+13:00 
+C.H. prática 
+20:00 
+Total: 33:00

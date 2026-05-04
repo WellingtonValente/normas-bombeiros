@@ -1,0 +1,529 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22256558 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26101077&infra_sist…
+1/5
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 25 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 20/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 10 – 1ª Edição (Pressurização de Escada de
+Segurança):
+ 
+1. ALTERAR o item 2
+Onde se lê: 
+"2 APLICAÇÃO
+Esta Instrução Técnica se aplica a todas as ediﬁcações de acordo com o descrito na NBR 9077."
+Leia-se:
+"2 APLICAÇÃO
+Esta Instrução Técnica aplica-se a todas as ediﬁcações onde for projetada escada pressurizada para ﬁns de atendimento à
+legislação de segurança contra incêndio e pânico do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 3.2
+Onde se lê: 
+"NBR 14.480 – Saídas de emergência em ediİcios – Escada de Segurança – Controle de fumaça por pressurização."
+Leia-se:
+"NBR 14.880 – Saídas de emergência em ediİcios – Escada de Segurança – Controle de fumaça por pressurização."
+ 
+3. ALTERAR a tabela do Anexo B - Resumo de Exigências para os Diversos Tipos de Ediﬁcações com Sistemas de Pressurização 
+Onde se lê: 
+Resumo de Exigências para os Diversos Tipos de Ediﬁcações com Sistemas de Pressurização
+G
+R
+U
+P
+O
+OCUPAÇÃO/
+USO
+(4)
+CRITÉRIO
+DE
+ALTURA
+(7)
+NÚMERO DE
+PCF
+CONSIDERADAS
+ABERTAS
+(8)
+GRUPO
+MOTOGERADOR
+AUTOMATIZADO
+(Autonomia de 4h)
+LOCAIS A SEREM SUPERVISIONADOS
+PELO SISTEMA DE DETECÇÃO
+AUTOMÁTICA DE FUMAÇA
+(1)
+A
+Residencial
+(2) (3)
+Até
+80 metros
+ 
+1
+NÃO
+(exceto Convento)
+I - Toda ediﬁcação dotada de sistema de
+pressurização de escada e/ou elevador de
+emergência deve possuir sistema de detecção
+automáƟca de fumaça nos seguintes locais:
+1) no hall comum ou privaƟvo de acesso à
+saída de emergência pressurizada; 
+2)em todos os corredores de circulação, em
+áreas comuns, uƟlizados como rota de fuga
+para 
+acesso 
+à 
+saída 
+de 
+emergência
+pressurizada;
+3)em todos os corredores de circulação
+privaƟvos, quando o acesso à saída de
+emergência pressurizada atender diretamente
+as áreas privaƟvas;
+4)em todos os ambientes com acesso direto à
+saída de emergência pressurizada;
+Acima de
+80 metros
+2
+SIM
+B
+Serviço de
+Hospedagem
+Até
+ 30 metros
+2
+SIM
+Acima de
+30 metros
+2
+SIM
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22256558 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26101077&infra_sist…
+2/5
+5)no comparƟmento desƟnado ao conjunto
+motovenƟlador (laço exclusivo e independente
+ou similar);
+6)no comparƟmento desƟnado ao grupo
+motogerador, quando este atender ao sistema
+de pressurização de escadas;
+7)na 
+antecâmara 
+de 
+segurança 
+do
+comparƟmento 
+desƟnado 
+ao 
+conjunto
+motovenƟlador, quando este esƟver localizado
+em pavimento subsolo;
+ 
+II – Todos os pavimentos que dão acesso à
+saída de emergência pressurizada devem ser
+supervisionados por, pelo menos, dois pontos
+de detecção de fumaça;
+III - A previsão de detecção automáƟca de
+fumaça nos locais descritos no item I acima
+não isenta a ediﬁcação da instalação desse
+mesmo 
+sistema 
+em 
+outros 
+locais 
+que
+porventura sejam exigidos pelo Regulamento
+de Segurança Contra Incêndio.
+ 
+ 
+C
+Comercial
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+D Serviço profissional
+(2)
+Até
+21 metros
+(5)
+1
+NÃO
+(Apav < 750 m²)
+Acima de
+21 metros
+(6)
+2
+SIM
+E
+Educacional e
+cultura física (2)
+Até
+30 metros
+2
+NÃO
+Acima de
+30 metros
+2
+SIM
+F
+Local de Reunião
+Pública
+Até
+12 metros
+3
+SIM
+Acima de
+12 metros
+4
+SIM
+G Serviço automotivo
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+H Serviço de saúde e
+institucional
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+I
+Indústria
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 22256558 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26101077&infra_sist…
+3/5
+J
+Depósito
+Até 12 metros
+2
+SIM
+Acima de 12
+metros
+2
+SIM
+L
+Explosivos
+Até 12 metros
+2
+SIM
+Acima de 12
+metros
+2
+SIM
+M
+Especial
+Até 12 metros
+2
+SIM
+Acima de 12
+metros
+2
+SIM
+ 
+Leia-se:
+Resumo de Exigências para os Diversos Tipos de Ediﬁcações com Sistemas de Pressurização
+G
+R
+U
+P
+O
+OCUPAÇÃO/ USO
+(4)
+CRITÉRIO
+DE
+ALTURA
+(7)
+NÚMERO DE PCF
+CONSIDERADAS
+ABERTAS
+(8)
+GRUPO
+MOTOGERADOR
+AUTOMATIZADO
+(Autonomia de 4h)
+LOCAIS A SEREM SUPERVISIONADOS PELO
+SISTEMA DE DETECÇÃO AUTOMÁTICA DE
+INCÊNDIO
+(1)
+A
+Residencial
+(2) (3)
+Até
+80 metros
+1
+NÃO
+(exceto Convento)
+I - Toda ediﬁcação dotada de sistema de
+pressurização de escada e/ou elevador de
+emergência deve possuir sistema de detecção
+automáƟca de incêndio nos seguintes locais:
+1) no hall comum ou privaƟvo de acesso à
+saída de emergência pressurizada;
+2) em todos os corredores de circulação, em
+áreas comuns, uƟlizados como rota de fuga
+para 
+acesso 
+à 
+saída 
+de 
+emergência
+pressurizada;
+3) em todos os corredores de circulação
+privaƟvos, quando o acesso à saída de
+emergência pressurizada atender diretamente
+as áreas privaƟvas;
+4) em todos os ambientes com acesso direto à
+saída de emergência pressurizada;
+5) no comparƟmento desƟnado ao conjunto
+motovenƟlador 
+(laço 
+exclusivo 
+e
+independente ou similar);
+6) no comparƟmento desƟnado ao grupo
+motogerador, quando este atender ao sistema
+de pressurização de escadas;
+7) 
+na 
+antecâmara 
+de 
+segurança 
+do
+comparƟmento 
+desƟnado 
+ao 
+conjunto
+motovenƟlador, quando este esƟver localizado
+em pavimento subsolo;
+ 
+II – Todos os pavimentos que dão acesso à
+saída de emergência pressurizada devem ser
+supervisionados por, pelo menos, dois pontos
+de detecção de incêndio;
+III - A previsão de detecção automáƟca de
+incêndio nos locais descritos no item I acima
+não isenta a ediﬁcação da instalação desse
+Acima de
+80 metros
+2
+SIM
+B
+Serviço de
+Hospedagem
+Até
+ 30 metros
+2
+SIM
+Acima de
+30 metros
+2
+SIM
+C
+Comercial
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+D
+Serviço proﬁssional
+(2)
+Até
+21 metros
+(5)
+1
+NÃO
+(Área do pav < 930 m²)
+Acima de
+21 metros
+(6)
+2
+SIM
+E
+Educacional e cultura
+İsica (2)
+Até
+30 metros
+2
+NÃO
+Acima de
+30 metros
+2
+SIM
+F
+Local de Reunião de
+ Público
+Até
+12 metros
+3
+SIM
+Acima de
+12 metros
+4
+SIM
+G
+Serviço automoƟvo e
+assemelhados
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+H
+Serviço de saúde e
+insƟtucional
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+I
+Indústria
+Até
+12 metros
+2
+SIM
+Acima de
+12 metros
+2
+SIM
+J
+Depósito
+Até 12
+2
+SIM
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 22256558 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26101077&infra_sist…
+4/5
+mesmo sistema em outros locais que
+porventura sejam exigidos pela legislação de
+segurança contra incêndio e pânico do Estado
+de Minas Gerais.
+ 
+metros
+Acima de 12
+metros
+2
+SIM
+L
+Explosivos
+Até 12
+metros
+2
+SIM
+Acima de 12
+metros
+2
+SIM
+M
+Especial
+Até 12
+metros
+2
+SIM
+Acima de 12
+metros
+2
+SIM
+ 
+4. ALTERAR as notas especíﬁcas da tabela do Anexo B - Resumo de Exigências para os Diversos Tipos de Ediﬁcações com
+Sistemas de Pressurização 
+Onde se lê: 
+(1) A exigência de sistema de detecção de fumaça para o sistema de pressurização não isenta a ediﬁcação das demais exigências previstas no
+Regulamento de Segurança Contra Incêndio.
+(2) Conforme item 5.3.1, alínea c: “Nos ediİcios residenciais e escritórios com até 60 metros de altura e nos ediİcios escolares com até 30
+(trinta) metros de altura, é permiƟdo o uso de somente um venƟlador com um motor. De forma subsƟtuƟva, podem ser uƟlizados 02 (dois)
+grupos motovenƟladores, sendo que cada grupo deve, no mínimo, garanƟr 50% da vazão total do sistema e 100% da pressão total requerida,
+para atuarem especiﬁcamente no estágio de emergência e em conjunto”.
+(3) Em ediﬁcações com altura superior a 12 metros, do Ɵpo Convento, é exigido grupo motogerador automaƟzado.
+(4) Devem ser pressurizadas as escadas dos subsolos que possuir as seguintes caracterísƟcas:
+a) que Ɵver uso disƟnto de estacionamento de veículos sem disƟnção de altura;
+b) que Ɵver uso de estacionamento de veículos com profundidade maior que 12 metros. Em ambos os casos a escada e o número de PCF
+calculadas seguem o mesmo critério de dimensionamento dos pavimentos superiores, devendo, a escada, ser desconơnua no piso de descarga.
+(5) Ediﬁcações isentas de uso do grupo motogerador desde que a área de cada pavimento seja inferior a 750 m2.
+(6) Somente é exigido antecâmara de segurança nos acessos à escada pressurizada, de acordo com item 5.1.6.7 desta IT, para ediﬁcações
+residenciais com altura igual ou superior a 80 metros e demais ocupações com altura igual ou superior a 60 metros.
+(7) Quando a ediﬁcação for dotada de elevador de emergência, seus acessos devem ser protegidos por antecâmara de segurança, conforme
+descrito no item 5.1.6.6 e 5.1.6.7 desta IT, em todos os pavimentos, inclusive para os pavimentos situados abaixo do piso de descarga; essa
+antecâmara pode ser dispensada apenas no nível térreo (piso de descarga) quando este não esƟver em local de risco de incêndio, ou seja, esse
+pavimento seja desƟnado única e exclusivamente a hall de recepção ou, caso possua loja ou dependências com carga-incêndio, estas devem
+possuir comparƟmentação do Ɵpo corta-fogo em relação a esse hall.
+ 
+Leia-se:
+NOTAS ESPECÍFICAS:
+(1) A exigência de sistema de detecção de incêndio para o sistema de pressurização não isenta a ediﬁcação das demais exigências previstas na
+legislação de segurança contra incêndio e pânico.
+(2) Conforme item 5.3.1, alínea c: “Nos ediİcios residenciais e escritórios com até 60 metros de altura e nos ediİcios escolares com até 30
+(trinta) metros de altura, é permiƟdo o uso de somente um venƟlador com um motor. De forma subsƟtuƟva, podem ser uƟlizados 02 (dois)
+grupos motovenƟladores, sendo que cada grupo deve, no mínimo, garanƟr 50% da vazão total do sistema e 100% da pressão total requerida,
+para atuarem especiﬁcamente no estágio de emergência e em conjunto”.
+(3) Em ediﬁcações com altura superior a 12 metros, do Ɵpo Convento, é exigido grupo motogerador automaƟzado.
+(4) Devem ser pressurizadas as escadas dos subsolos que possuir as seguintes caracterísƟcas:
+a) que Ɵver uso disƟnto de estacionamento de veículos sem disƟnção de altura;
+b) que Ɵver uso de estacionamento de veículos com profundidade maior que 12 metros. Em ambos os casos a escada e o número de PCF
+calculadas seguem o mesmo critério de dimensionamento dos pavimentos superiores, devendo, a escada, ser desconơnua no piso de descarga.
+(5) Ediﬁcações isentas de uso do grupo motogerador desde que a área de cada pavimento seja inferior a 930 m².
+(6) Somente é exigido antecâmara de segurança nos acessos à escada pressurizada, de acordo com item 5.1.6.7 desta IT, para ediﬁcações
+residenciais com altura igual ou superior a 80 metros e demais ocupações com altura igual ou superior a 60 metros.
+(7) Quando a ediﬁcação for dotada de elevador de emergência, seus acessos devem ser protegidos por antecâmara de segurança, conforme
+descrito no item 5.1.6.6 e 5.1.6.7 desta IT, em todos os pavimentos, inclusive para os pavimentos situados abaixo do piso de descarga; essa
+
+--- PÁGINA 5 ---
+04/01/2021
+SEI/GOVMG - 22256558 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26101077&infra_sist…
+5/5
+antecâmara pode ser dispensada apenas no nível térreo (piso de descarga) quando este não esƟver em local de risco de incêndio, ou seja, esse
+pavimento seja desƟnado única e exclusivamente a hall de recepção ou, caso possua loja ou dependências com carga-incêndio, estas devem
+possuir comparƟmentação do Ɵpo corta-fogo em relação a esse hall.
+(8) Caso o ediİcio possua local de reunião de público, adotar o item 5.1.6.5, alínea "f" desta IT.
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às 07:13, conforme horário oﬁcial de
+Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22256558 e o código CRC 5BE81640.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22256558

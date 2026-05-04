@@ -1,0 +1,2237 @@
+--- PÁGINA 1 ---
+IT - 17 
+SISTEMA DE HIDRANTES E MANGOTINHOS PARA COMBATE 
+ A INCÊNDIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ANEXOS 
+ 
+1 – Objetivo 
+ 
+ 
+A - Figura A.1 - Sistema de Mangotinho com ponto de 
+tomada de água para mangueira de incêndio de 40 mm 
+ 
+2 – Aplicação 
+ 
+ 
+B – Reservatórios 
+3 – Referências Bibliográficas 
+ 
+C - Bombas de incêndio 
+4 – Definições 
+D - Casos de isenção de sistemas de hidrantes e de 
+mangotinhos 
+5 – Procedimentos
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 17 
+ 
+   
+ 
+ 
+SISTEMA DE HIDRANTES E 
+MANGOTINHOS PARA COMBATE A 
+INCÊNDIO 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+Esta Instrução Técnica fixa as condições necessárias 
+exigíveis para dimensionamento, instalação, manutenção, 
+aceitação e manuseio, bem como as características dos 
+componentes de Sistemas de Hidrantes e de Mangotinhos 
+para uso exclusivo de Combate a Incêndio. 
+ 
+ 
+2 APLICAÇÃO 
+ 
+Aplica-se às edificações e áreas de risco em que sejam 
+necessárias as instalações de Sistemas de Hidrantes e 
+Mangotinhos para Combate a Incêndio, de acordo com o 
+previsto no Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais.  
+ 
+ 
+3 REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+NBR 5410 – Instalações elétricas de baixa tensão. 
+ 
+NBR 5580 – Tubos de aço-carbono para rosca Whitworth 
+gás para usos comuns na condução de fluídos – 
+Especificação. 
+ 
+NBR 5587 – Tubos de aço para condução, com rosca 
+ANSI/ASME 
+B1. 
+20.1 
+– 
+Dimensões 
+Básicas 
+– 
+Padronização. 
+ 
+NBR 5590 – Tubo de aço-carbono com ou sem costura, 
+pretos ou   galvanizados   por   imersão  a quente, para 
+condução de fluídos – Especificação. 
+ 
+NBR 5626 – Instalação predial de água fria. 
+ 
+NBR 5647-1 – Sistemas para adução distribuição de água 
+– Tubos e conexões de PVC 6,3 com junta elástica e com 
+diâmetros nominais até DN 100 – Parte 1: Requisitos 
+gerais. 
+ 
+NBR 5647-2 – Sistemas para adução distribuição de água 
+– Tubos e conexões de PVC 6,3 com junta elástica e com 
+diâmetros nominais até DN 100 – Parte 2: Requisitos 
+específicos para tubos com pressão nominal PN 1,0 Mpa. 
+ 
+NBR 5647-3 – Sistemas para adução distribuição de água 
+– Tubos e conexões de PVC 6,3 com junta elástica e com 
+diâmetros nominais até DN 100 – Parte 3: Requisitos 
+específicos para tubos com pressão nominal PN 0,75 Mpa. 
+ 
+NBR 5647-4 – Sistemas para adução distribuição de água 
+– Tubos e conexões de PVC 6,3 com junta elástica e com 
+diâmetros nominais até DN 100 – Parte 4: Requisitos 
+específicos para tubos com pressão nominal PN 0,60 Mpa. 
+ 
+NBR 5667 – Hidrantes urbanos de incêndio – 
+Especificações. 
+ 
+NBR 6414 – Rosca para tubos onde a vedação é feita pela 
+rosca 
+– 
+Designação, 
+dimensões 
+e 
+tolerâncias 
+– 
+Padronização. 
+ 
+NBR 6925 – Conexão de ferro fundido maleável, de 
+classes 150 e 300, com rosca NPT, para tubulação – 
+Especificação. 
+ 
+NBR 6943 – Conexão de ferro maleável para tubulações – 
+Classe 10 – Especificações. 
+ 
+NBR 10351 – Conexões injetadas de PVC rígido com 
+junta elástica para redes e adutoras de água – 
+Especificação. 
+NBR 10897 – Proteção contra incêndio por chuveiro 
+automático – Procedimento.
+
+--- PÁGINA 3 ---
+NBR 11720 – Conexão para unir tubos de cobre por 
+soldagem ou brasagem capilar – Especificações. 
+ 
+NBR 11861 – Mangueira de incêndio – Requisitos e 
+métodos de ensaio. 
+ 
+NBR 12779 – Mangueiras de Incêndio - Inspeção, 
+manutenção e cuidados. 
+ 
+NBR 12912 – Rosca NPT para tubos – Dimensões – 
+Padronização. 
+ 
+NBR 13206 – Tubo de cobre leve, médio e pesados sem 
+costura, para condução de água e outros fluídos – 
+Especificação. 
+ 
+NBR 13432 – Exigências de resistência ao fogo de 
+elementos construtivos de edificações – Procedimentos. 
+ 
+NBR 13434 – Parte 1 - Sinalização de segurança contra 
+incêndio e pânico – Princípios de projeto. 
+ 
+NBR 13434 – Parte 2 - Sinalização de segurança contra 
+incêndio e pânico – Símbolos e suas formas, dimensões e 
+cores. 
+ 
+NBR 13714 – Sistemas de Hidrantes e de Mangotinhos 
+para Combate a Incêndio, Associação Brasileira de 
+Normas Técnicas. 
+ 
+NBR 14105 – Manômetros com sensor de elemento 
+elástico – Recomendações de fabricação e uso. 
+ 
+NBR 14349 – União para mangueira de incêndio – 
+Requisitos e métodos de ensaio. 
+ 
+ANSI/ASME B1.20.7 NH – Hose coupling screw threads; 
+ 
+ASTM A 234 – Specification for piping fitting wrought 
+carbon steel and alloy steel for moderate and elevate 
+temperature. 
+ 
+ASTM B 30 – Specification for copper-base alloys in ingot 
+form 
+ 
+ASTM B 62 – Specification for composition bronze or 
+ounce metal castings. 
+ 
+ASTM B 283 – Specification for copper and copper – 
+Alloy die forgings (hot-pressed). 
+ 
+ASTM B 584/1998 – Standard specification for copper 
+alloy sand castings for general applications. 
+ 
+ASTM D 2000 – Classification system for rubber products 
+in automotive applications. 
+ 
+AWS A5.8 – Brazing filler metal (Classifications BcuP-3 
+or Bcup-4). 
+ 
+BS 5041 Part 1 – Specification for landing valves for wet 
+risers. 
+ 
+EN 694 – Fire-fighting hoses – Semi-rigid hoses for fixed 
+systems. 
+Instalações Hidráulicas e Sanitárias – Hélio Creder –  
+Livros Técnicos e Científicos Editora S.A – Rio de 
+Janeiro/RJ – 5º edição – 1.991. 
+ 
+Instalações Hidráulicas de Combate a Incêndio nas 
+Edificações – Telmo Brentano – EDIPUCS – Porto 
+Alegre, 2004. 
+ 
+Bombas e Instalações de Bombeamento – Archibald 
+Joseph Macintyre – Livros Técnicos e Científicos Editora 
+S. A – Rio de Janeiro/RJ – 2º edição – 1.997; 
+Hydraulics for Fire Protection – Harry E. Hickey – NFPA 
+– Boston/Massachussaets/EUA – 1980 
+ 
+Fire Protection Engineering – NFPA – 2ª edição  – 1.995. 
+ 
+IT 22 – Sistema de Hidrantes e de Mangotinhos para 
+Combate a Incêndio - Corpo de Bombeiros da Polícia 
+Militar de São Paulo. 
+  
+4   DEFINIÇÕES 
+ 
+4.1 Abrigo – Compartimento, embutido ou aparente, 
+dotado de porta, destinado a armazenar mangueiras, 
+esguichos, carretéis e outros equipamentos de combate a 
+incêndio, capaz de proteger contra intempéries e danos 
+diversos. 
+ 
+4.2 Altura da edificação – Medida, em metros, entre o 
+ponto que caracteriza a saída ao nível de descarga (de 
+pessoas), sob a projeção externa da parede do prédio, ao 
+ponto mais alto do piso do último pavimento. 
+ 
+4.3 Bombas de incêndio 
+ 
+4.3.1 Bomba principal – Bomba hidráulica centrífuga 
+destinada a recalcar a água para os sistemas de combate a 
+incêndio. 
+4.3.2 Bomba de pressurização (jockey) – bomba 
+hidráulica centrífuga destinada a manter o sistema 
+automaticamente 
+pressurizado 
+em 
+uma 
+faixa 
+preestabelecida 
+4.3.3 Bomba de reforço – Bomba hidráulica centrífuga 
+destinada a fornecer água aos hidrantes e/ou mangotinhos 
+mais desfavoráveis hidraulicamente, quando estes não 
+puderem ser abastecidos somente pelo reservatório 
+elevado. 
+ 
+4.4 Carretel axial – Dispositivo rígido destinado ao 
+enrolamento de mangueiras semi-rígidas. 
+ 
+4.5 Como construído – Documentos, desenhos ou plantas 
+do sistema, que correspondem exatamente ao que foi 
+executado pelo instalador. 
+  
+4.6 Dispositivo de recalque – Dispositivo para uso do 
+corpo de Bombeiros, que permite recalque de água para o 
+sistema, podendo ser dentro da propriedade quando o 
+acesso do Corpo de Bombeiros estiver garantido.
+
+--- PÁGINA 4 ---
+4.7 Esguicho – Dispositivo adaptado na extremidade das 
+mangueiras, destinado a dar forma, direção e controle ao 
+jato, podendo ser do tipo regulável (neblina ou compacto) 
+ou de jato compacto. 
+ 
+4.8 Hidrante – Ponto de tomada de água onde há uma 
+(simples) ou duas (duplo) saídas contendo válvulas 
+angulares com seus respectivos adaptadores, tampões, 
+mangueiras de incêndio e demais acessórios. 
+4.9 Inibidor de vórtice – Acessório da tubulação de 
+sucção da bomba destinado a eliminar o efeito do vórtice 
+(redemoinho) dentro de um reservatório. 
+ 
+4.10 Instalador – Pessoa física ou jurídica responsável 
+pela instalação do sistema de proteção contra incêndio em 
+uma edificação. 
+ 
+4.11 Jato compacto – Tipo de jato de água caracterizado 
+por linhas de corrente de escoamento paralelas, observado 
+na extremidade de descarga do esguicho. 
+ 
+4.12 Mangotinho – Ponto de tomada de água onde há uma 
+(simples) saída contendo válvula de abertura rápida, 
+adaptador (se necessário), mangueira semi-rígida, esguicho 
+regulável e demais acessórios. 
+ 
+4.13 Memorial – Conceitos, premissas e etapas utilizados 
+para definir, localizar, caracterizar e detalhar o projeto do 
+sistema de hidrantes e mangotinhos de uma edificação, 
+desde a concepção até a sua implantação e manutenção. É 
+composto de parte descritiva, cálculos, ábacos e tabelas. 
+ 
+4.14 Órgão competente – Órgão público federal, estadual, 
+municipal, ou ainda autarquias ou entidades por estes 
+designadas, capacitadas legalmente para determinar 
+aspectos relevantes dos sistemas de proteção contra 
+incêndio, segundo a Constituição Federal. 
+ 
+4.15 Poço de sucção – Aspecto construtivo do 
+reservatório, destinado a maximizar a utilização do volume 
+de água acumulado, bem como para evitar a entrada de 
+impurezas no interior das tubulações. 
+ 
+4.16 Profissional legalmente habilitado – Pessoa física 
+ou jurídica que goza do direito, segundo as leis vigentes, 
+de prestar serviços especializados de proteção contra 
+incêndio. 
+ 
+4.17 Projetista – Pessoa física ou jurídica responsável 
+pela elaboração de todos os documentos de um projeto, 
+assim como o memorial. 
+ 
+4.18 Projeto – Conjunto de peças gráficas ou escritas, 
+necessárias à definição das características principais do 
+sistema de hidrante ou mangotinho, composto de plantas, 
+seções, elevações, detalhes e perspectivas isométricas e, 
+inclusive, das especificações de materiais e equipamentos. 
+ 
+4.19 Recalque – Válvula angular diâmetro 2½”corpo em 
+latão, pressão mínima de trabalho 13,8 Kgf/cm2 (200PSI), 
+vedação em borracha (etileno-propileno), conexão de 
+entrada de 2½”, rosca interna 11FPP (BSTP), conexão de 
+saída rosca externa 5FPP, haste ascendente com castelo 
+quadrado para uso específico do CBMMG, com chave 
+especial.  
+4.20 Reserva de incêndio – Volume de água destinado 
+exclusivamente ao combate a incêndio. 
+ 
+4.21 Rota de fuga – Trajeto que deve ser percorrido pelos 
+ocupantes da edificação a partir de qualquer ponto, de 
+qualquer pavimento, até um local seguro completamente 
+livre dos efeitos de um incêndio. 
+ 
+4.22 Sistema de hidrantes ou de mangotinhos – Sistema 
+de combate a incêndio composto por reserva de incêndio, 
+bombas de incêndio (quando necessário), rede de 
+tubulação, hidrantes ou mangotinhos e outros acessórios 
+descritos nesta IT. 
+ 
+4.23 Tubulação – Conjunto de tubos, conexões e outros 
+acessórios destinados a conduzir a água, desde a reserva do 
+incêndio até os hidrantes ou mangotinhos. 
+ 
+4.24 Válvula – Acessório de tubulação destinado a 
+controlar ou bloquear o fluxo de água no interior das 
+tubulações.   
+     
+ 
+5 PROCEDIMENTOS 
+ 
+5.1 Requisitos Gerais 
+ 
+5.1.1 Os sistemas de combate a incêndio estão 
+classificados em sistema de mangotinho (tipo 1) e sistemas 
+de hidrantes (tipos 2, 3, 4 e 5), conforme especificado na 
+tabela 2. 
+5.1.2 Todos os parâmetros, ábacos, tabelas e outros 
+recursos utilizados no projeto e no dimensionamento 
+devem ser relacionados no memorial. Não é admitida a 
+referência a outro projeto para justificar a aplicação de 
+qualquer informação no memorial.  
+ 
+5.2 Projeto 
+ 
+5.2.1 O sistema a ser instalado deve corresponder um 
+memorial, constando cálculos, dimensionamentos e uma 
+perspectiva isométrica da tubulação (sem escala, com cotas 
+e com os hidrantes numerados), conforme prescrito na IT 
+01 – Procedimentos Administrativos. 
+5.2.2 O Corpo de Bombeiros pode solicitar documentos 
+relativos ao sistema, se houver necessidade.  
+ 
+5.3 Recalque 
+ 
+5.3.1 Todos os sistemas devem ser dotados de dispositivos 
+de recalque, consistindo em um prolongamento de 
+diâmetro no mínimo igual ao da tubulação principal, cujos 
+engates devem ser compatíveis com junta de união tipo 
+“engate rápido” de DN 65mm. 
+5.3.2 Quando a vazão do sistema for superior a 1000 LPM, 
+o dispositivo de recalque deve possuir um registro de 
+recalque adicional com as mesmas características definidas 
+em 5.3.1, sendo que o prolongamento da tubulação deve 
+ter diâmetro no mínimo igual ou superior ao existente na 
+tubulação de recalque do sistema.
+
+--- PÁGINA 5 ---
+5.3.3 Preferencialmente o dispositivo de recalque deve ser 
+instalado de fronte ao acesso principal da edificação. 
+5.3.4 Quando o dispositivo de recalque estiver situado no 
+passeio público, deve possuir as seguintes características, 
+conforme Figura 1: 
+a) ser enterrado em caixa de alvenaria, com fundo 
+permeável ou dreno; 
+b) a tampa deve ser articulada e requadro em ferro fundido 
+ou 
+material 
+similar, 
+identificada 
+pela 
+palavra 
+“INCÊNDIO”, com dimensões de 0,40 m x 0,60 m e 
+pintada da cor vermelha; 
+c) estar afastada a 0,50 m da guia do passeio; 
+d) a introdução voltada para cima em ângulo de 45º e 
+posicionada, no máximo, a 0,15 m de profundidade em 
+relação ao piso do passeio; 
+e) registro tipo globo angular 45º ∅ 63mm situado a no 
+máximo 0,50 m do nível do piso acabado, Classe 300. Esta 
+Válvula deve: 
+1) permitir o fluxo de água nos dois sentidos e instalada de 
+forma a garantir seu adequado manuseio; 
+2) vedação etileno propileno, com haste ascendente, com 
+castelo quadrado de uso específico do CBMMG. 
+5.3.5 O dispositivo de recalque pode ser instalado na 
+fachada principal da edificação, ou no muro da divisa com 
+a rua,  com a introdução voltada para a rua e para baixo  
+em um ângulo de 45º e a uma altura entre 0,60m e 1,00m 
+em relação ao piso do passeio da propriedade. A 
+localização do dispositivo de recalque sempre deve 
+permitir aproximação da viatura apropriada para  o 
+recalque da  água, a partir do logradouro público, para o 
+livre acesso dos bombeiros, devendo ser identificado e 
+pintado na cor vermelha. 
+5.3.6 O hidrante de recalque pode ser constituído de um 
+hidrante de coluna externo, localizado a uma distância 
+máxima de 10,0 metros até o local de estacionamento das 
+viaturas do Corpo de Bombeiros. 
+5.3.7 É vedada a instalação do dispositivo de recalque em 
+local que tenha circulação ou passagem de veículos.  
+ 
+ 
+ 
+Figura 1 – Dispositivo de recalque no passeio público 
+ 
+ 
+5.4 Abrigo 
+ 
+5.4.1 
+As 
+mangueiras 
+de 
+incêndio 
+devem 
+ser 
+acondicionadas dentro dos abrigos em ziguezague ou 
+aduchadas conforme especificado na NBR 12779, sendo 
+que as mangueiras de incêndio semi-rígidas podem ser 
+acondicionadas enroladas, com ou sem o uso de carretéis 
+axiais ou em forma de oito, permitindo sua utilização com 
+facilidade e rapidez. 
+5.4.2 No interior do abrigo pode ser instalada a válvula 
+angular, desde que o seu manuseio e manutenção estejam  
+garantidos. 
+5.4.3 Os abrigos podem ser construídos em alvenaria com 
+caixa interna metálica, em materiais metálicos, em madeira 
+em fibra ou em vidro laminado, desde que sinalizados de 
+acordo com a IT 15 – Sinalização de Emergência. 
+5.4.4 Os abrigos devem ser em cor vermelha, possuindo 
+apoio ou fixação própria, independente da tubulação que 
+abastece o hidrante ou mangotinho. 
+5.4.5 O abrigo deve ter utilização exclusiva conforme 
+estabelecido nesta Instrução Técnica. 
+5.4.6 Os abrigos dos sistemas de hidrantes ou de 
+mangotinhos não devem ser instalados a mais de 3,00 m da 
+válvula angular ou esferas, abertura rápida, devendo estar 
+em local visível e de fácil acesso. 
+5.4.7 A porta do abrigo não pode ser trancada, no entanto, 
+pode ser selada para evitar o uso indevido.   
+5.4.8 As mangueiras de incêndio, a tomada de água e a 
+botoeira de acionamento da bomba de incêndio podem ser 
+instaladas dentro do abrigo desde que não impeçam a 
+manobra ou a substituição de qualquer peça. 
+ 
+5.5 
+Válvulas 
+de 
+abertura 
+para 
+hidrantes 
+ou 
+mangotinhos 
+ 
+5.5.1 As válvulas dos hidrantes devem ser do tipo 
+angulares de diâmetro DN65 (2½”). 
+5.5.2 As válvulas para mangotinhos devem ser do tipo 
+abertura rápida, de passagem plena e diâmetro mínimo 
+DN25 (1”). 
+ 
+5.6 Requisitos específicos 
+ 
+5.6.1 Tipos de sistemas 
+5.6.1.1 Os tipos de sistemas previstos são dados na tabela 
+2. 
+5.6.1.2 As vazões da tabela 2 correspondem a: 
+a) esguicho regulável na posição de maior vazão para 
+sistema tipo 1; 
+b) jato compacto de 13 mm para sistema tipo 2; 
+c) jato compacto de 16 mm para sistema tipo 3; 
+d) jato compacto de 19 mm para sistema tipo 4; 
+e) jato compacto de 25 mm para sistema tipo 5. 
+5.6.1.3 As edificações, em que for instalado o sistema do 
+tipo 1 devem ser dotada de ponto de tomada de água de 
+engate rápido para mangueira de incêndio de diâmetro 40 
+mm (1½”), conforme Anexo A.  
+5.6.1.4 As vazões da tabela 2 devem ser obtidas no 
+requinte do esguicho acoplado à sua respectiva mangueira 
+de incêndio, sendo que para o sistema tipo 1 a mangueira 
+semi-rígida deve estar na posição enrolada. 
+5.6.1.5 Para cada ponto de hidrante ou de mangotinho são 
+obrigatórios os materiais descritos na tabela 3.
+
+--- PÁGINA 6 ---
+5.7 Distribuição dos Hidrantes e ou Mangotinhos 
+ 
+5.7.1 Os pontos de tomada de água devem ser 
+posicionados: 
+a) nas proximidades das portas externas, escadas e/ou 
+acesso principal a ser protegido, a não mais de 10 m; 
+b) em posições centrais nas áreas protegidas, devendo 
+atender a alínea a obrigatoriamente; 
+c)  fora das escadas ou antecâmaras de fumaça; e 
+d) de 1,0 a 1,5 m do piso. 
+5.7.2 No caso de projetos utilizando hidrantes externos, 
+deverá atender ao afastamento de no mínimo 15 m ou uma 
+vez e meia a altura da parede externa da edificação a ser 
+protegida, podendo ser utilizados até 60 m de mangueira 
+de incêndio (preferencialmente em lances de 15 m), desde 
+que devidamente dimensionados por cálculo hidraúlico. 
+Recomenda-se que sejam utilizadas mangueiras de 
+incêndio de 65 mm de diâmetro para redução da perda de 
+carga e o último lance de 40 mm para facilitar seu 
+manuseio, nesse caso deve haver uma redução de 
+mangueira de 2 ½” para 1 ½”. 
+5.7.3 A utilização do sistema não deve comprometer a 
+fuga dos ocupantes da edificação; portanto, deve ser 
+projetado de tal forma que dê proteção em toda a 
+edificação, sem que haja a necessidade de adentrar as 
+escadas, antecâmaras ou outros locais determinados 
+exclusivamente para servirem de rota de fuga dos 
+ocupantes. 
+5.7.4 Quando não for possível os afastamentos previstos 
+no item 5.7.2, os hidrantes externos devem ser localizados 
+onde a probabilidade de danos pela queda de paredes seja 
+pequena e impeça que o operador seja bloqueado pelo fogo 
+e fumaça. Usualmente, em locais congestionados devem 
+ser localizados ao lado de edifícios baixos, próximos a 
+torres de concreto ou alvenaria munidas de escadas ou 
+próximos aos cantos formados por paredes resistentes, de 
+alvenaria. 
+   
+5.8 Dimensionamento do sistema 
+ 
+5.8.1 O dimensionamento deve consistir na determinação 
+do caminhamento das tubulações, dos diâmetros dos 
+acessórios e dos suportes, necessários e suficientes para 
+garantir o funcionamento dos sistemas  previstos  nesta 
+Instrução Técnica. 
+5.8.2 Os hidrantes ou mangotinhos devem ser distribuídos 
+de tal forma que qualquer ponto da área a ser protegida  
+seja  alcançado por um esguicho (sistemas tipo 1, 2 e 3) ou 
+dois esguichos (sistema tipo 4 e 5), no plano horizontal, 
+considerando-se o comprimento da(s) mangueira(s)  de 
+incêndio através de seu trajeto real e desconsiderando-se o 
+alcance do jato de água. 
+5.8.3 Especificamente nas ocupações Residenciais (A2 e 
+A3), quando o trajeto real da mangueira de incêndio 
+ultrapassar a 30 metros, poderá ser admitido a utilização de 
+até 45 metros de mangueiras, desde que atenda os demais 
+parâmetros desta IT. 
+ 5.8.4 Para o dimensionamento, deve ser considerado o uso 
+simultâneo dos dois jatos de água mais desfavoráveis 
+considerados nos cálculos, para qualquer tipo de sistema 
+especificado, considerando-se, em cada jato de água, no 
+mínimo, as vazões obtidas conforme a tabela 2 e condições 
+de 5.6.1.4. 
+5.8.5 Independente do procedimento de dimensionamento 
+estabelecido, recomenda-se a utilização de esguichos 
+reguláveis em função da melhor efetividade no combate, 
+desde que seja atendida a vazão mínima para cada 
+esguicho prescrita na tabela 2 e alcance do jato, conforme 
+item 5.12.1.1 e 5.12.1.2. 
+5.8.6 O local mais desfavorável considerado nos cálculos 
+deve ser aquele que proporciona menor pressão dinâmica 
+no esguicho. 
+5.8.7 Nos casos de mais de um tipo de ocupação 
+(ocupações mistas) na edificação (que requeira proteção 
+por sistemas distintos), o dimensionamento dos sistemas 
+deve ser feito para cada tipo de sistema individualmente ou 
+dimensionado para atender o maior risco. 
+5.8.8 Cada sistema deve ser dimensionado de modo que as 
+pressões dinâmicas nas entradas dos esguichos não 
+ultrapassem o dobro daquela obtida no esguicho mais 
+desfavorável considerado no cálculo. Pode-se utilizar 
+quaisquer dispositivos para redução de pressão, desde que 
+comprovadas as suas adequações técnicas.  
+5.8.9 Recomenda-se que o sistema seja dimensionado de 
+forma que a pressão máxima de trabalho em qualquer 
+ponto não ultrapasse 100 mca (1000kPa). Situações que 
+requeiram pressões superiores à estipulada serão aceitas, 
+desde que comprovada a adequação técnica dos 
+componentes 
+empregados 
+e 
+atendido 
+o 
+requisito 
+especificado em 5.8.8. 
+5.8.10 O cálculo hidráulico da somatória de perda de carga 
+nas tubulações deve ser executado por métodos adequados 
+para este fim, sendo que os resultados alcançados têm que 
+satisfazer a uma das seguintes equações apresentadas: 
+a) Darcy-Weisbach (“formula universal”) e fórmula geral 
+para perdas de carga localizadas: 
+hf = 
+g
+v
+k
+g
+D
+v
+L
+f
+.
+2
+.
+.
+2
+.
+.
+.
+2
+2
++
+  
+onde: 
+hf - é a perda de carga, em metros de coluna d’água; 
+f - é o fator de atrito (diagramas de Moody e Hunter-
+Rouse); 
+L - é o comprimento da tubulação (tubos), em metros; 
+D - é o diâmetro interno, em metros; 
+v - é a velocidade do fluído, em metros por segundo; 
+g - é a aceleração da gravidade em metros por segundo, 
+por segundo; 
+k - é a somatória dos coeficientes de perda de carga das 
+singularidades (conexões). 
+ 
+b) Hazen-Williams  
+ 
+hf = J x L 
+J = 605 x Q1,85 x C-1,85 x D-4,87 x 104
+ 
+onde: 
+hf é a perda de carga em metros de coluna d’água; 
+Lt é o comprimento total, sendo a soma dos comprimentos 
+da tubulação e dos comprimentos equivalentes das 
+conexões; 
+J é a perda de carga por atrito em metros por metros; 
+Q é a vazão, em litros por minuto; 
+C é o fator de Hazem Willians (ver tabela 1)  
+D é o diâmetro interno do tubo em milímetros.
+
+--- PÁGINA 7 ---
+5.8.11 A velocidade da água no tubo de sucção das 
+bombas de incêndio não devem ser superior a 2 m/s 
+(sucção negativa) ou 3 m/s (sucção positiva), a qual  deve 
+ser  calculada  pela  equação: 
+V = Q/A 
+ 
+para o cálculo da área deve ser considerado o diâmetro  
+interno da tubulação. 
+ 
+Onde: 
+V - é a velocidade da água, em metros por segundo; 
+Q - é a vazão de água, em metros cúbicos por segundo; 
+A - é a área interna da tubulação, em metros quadrados. 
+ 
+                   Tabela 1 - Fator "C" de Hazen-Williams 
+Tipo de tubo 
+Fator "C" 
+Ferro fundido ou dúctil sem revestimento 
+interno 
+100 
+Aço preto (sistema de tubo seco) 
+100 
+Aço preto (sistema de tubo molhado) 
+120 
+Galvanizado 
+120 
+Plástico 
+150 
+Ferro fundido ou dúctil com revestimento 
+interno de cimento 
+140 
+Cobre 
+150 
+Nota - Os valores de "C" de Hazen Willians são válidos 
+para tubos novos 
+ 
+5.8.12 A velocidade máxima da água na tubulação não 
+deve ser superior a 5m/s, a qual deve ser calculada  
+conforme equação indicada em 5.8.11. 
+5.8.13 No sistema de malha ou anel fechado, deve existir 
+válvulas de paragem com aste ascendente, localizadas de 
+tal maneira que, pelo menos dois lados em uma malha que 
+envolva quadras de processamento ou armazenamento, 
+possam ficar em operação, no caso de rompimento ou 
+bloqueio dos outros dois. 
+5.8.14 Para efeito de equilíbrio de pressão nos pontos de 
+cálculos é admitida a variação máxima de para mais ou 
+para menos 0,50 mca (5,0 kPa). 
+ 
+5.9 Reservatório e Reserva de Incêndio 
+ 
+5.9.1 A reserva de incêndio deve ser prevista para permitir 
+o primeiro combate durante  determinado tempo.  
+5.9.2 O volume de água da reserva de incêndio encontra-se 
+na tabela 4. 
+5.9.3 Pode ser admitida a alimentação de outros sistemas 
+de proteção contra incêndio, sob comando ou automáticos, 
+através da interligação das tubulações, desde que atenda 
+aos parâmetros da IT 18 - Sistema de Chuveiros 
+Automáticos. 
+5.9.4 Deve ser previsto reservatório construído conforme o 
+anexo B (normativo). 
+5.9.5 O inibidor de vórtice e poço de sucção para 
+reservatório elevado deve ser conforme o anexo B. 
+5.9.6 O reservatório que também acumula água para 
+consumo normal da edificação deve ser adequado para 
+preservar a qualidade da água, conforme a NBR 5626. 
+5.9.7 As águas provenientes de fontes naturais tais como: 
+lagos, rios, açudes, etc., devem ser captadas conforme 
+descrito no anexo B. 
+5.9.8 O reservatório pode ser subdividido, desde que todas 
+unidades estejam ligadas diretamente a tubulação de 
+sucção da bomba de incêndio e tenha subdivisões em 
+unidades mínimas de 3 m³. 
+5.9.9 Não é permitida a utilização da reserva de incêndio  
+pelo emprego conjugado de reservatórios subterrâneos e 
+elevados. 
+5.9.10 Os reservatórios devem ser dotados de meios que 
+assegurem uma reserva efetiva e ofereçam condições 
+seguras para inspeção. 
+ 
+5.10 Bombas de incêndio 
+ 
+5.10.1 A bomba de incêndio deve ser do tipo centrífuga 
+acionada por motor elétrico ou combustão. Quando o 
+reservatório for elevado deverá ser instalado um sistema de 
+passagem secundária (by pass), garantindo sempre fluxo 
+de água na prumada, mesmo com a bomba impossibilitada 
+de funcionar. 
+5.10.2 As prescrições e recomendações encontram-se no 
+anexo C (normativo). 
+5.10.3 No caso de ocupações mistas com uma bomba de 
+incêndio principal, deve ser feito o dimensionamento de 
+vazão da bomba e de reservatório para o maior risco e os 
+esguichos e mangueiras podem ser previstos de acordo 
+com os riscos específicos. A altura manométrica total da 
+bomba deve ser calculada para o hidrante mais 
+desfavorável do sistema. 
+ 
+5.11 Componentes das instalações 
+ 
+5.11.1 Geral 
+5.11.1.1 Os componentes das instalações devem ser 
+previstos em normas, conforme aquelas descritas no item 3 
+- 
+referências 
+normativas, 
+ou 
+em 
+especificações 
+reconhecidas e aceitas pelos órgãos Oficiais. 
+5.11.1.2 Os componentes que não satisfaçam a todas as 
+especificações das normas existentes ou às exigências dos 
+órgãos competentes e entidades envolvidas devem ser 
+submetidos a ensaios e verificações, a fim de obterem 
+aceitação formal da utilização nas condições específicas da 
+instalação expedidas pelos órgãos competentes. 
+ 
+5.12 Esguichos 
+ 
+5.12.1 O alcance do jato compacto produzido por qualquer 
+sistema adotado conforme tabela 2 não deve ser inferior a 
+8 m, medido da saída do esguicho ao ponto de queda do 
+jato, com o jato paralelo ao solo. 
+5.12.1.1 O alcance do jato para esguicho regulável 
+produzido por qualquer sistema adotado conforme tabela 2 
+não deve ser inferior a 8 m, medido da saída do esguicho 
+ao ponto de queda do jato, com o jato paralelo ao solo com 
+o esguicho regulado para jato compacto. 
+5.12.1.2 Devem ser construídos em latão ligas C-37700, 
+C-46400 e C-48500 da ASMT B 283 para forjados ou C-
+83600, C-83800, C-84800 e C-86400 da ASMT B 584, 
+liga 864 da ASMT B 30 para fundidos, ou bronze ASMT 
+B 62, para fundidos. Outros materiais podem ser 
+utilizados, desde que comprovada a sua adequação técnica 
+e aprovado pelo órgão competente.   
+5.12.1.3 Os componentes de vedação devem ser em 
+borracha, quando necessários, conforme ASMT D 2000.
+
+--- PÁGINA 8 ---
+5.12.1.4 O acionador do esguicho regulável, de alavanca 
+ou de colar, deve permitir a modulação da conformação do 
+jato e o fechamento total do fluxo.  
+5.12.1.5 Cada esguicho instalado deve ser adequado aos 
+valores de pressão disponível e de vazão de água, no ponto 
+de hidrante considerado, para proporcionar o seu perfeito 
+funcionamento. 
+5.12.1.6 
+O 
+adaptador 
+tipo 
+“engate 
+rápido” 
+para 
+acoplamento das mangueiras deve obedecer a 5.14.1.   
+ 
+5.13 Mangueira de incêndio 
+ 
+5.13.1 A mangueira de incêndio para uso de hidrante deve 
+atender às condições da NBR 11861, selo de conformidade 
+e certificado de teste, conforme NBR 12779. 
+5.13.2 A mangueira de incêndio semi-rígida para uso de 
+mangotinho deve atender às condições da EN 694/96 para 
+o sistema tipo 1. 
+5.13.3 O comprimento total das mangueiras que servem 
+cada saída a um ponto de hidrante ou mangotinho deve ser 
+suficiente para vencer todos os desvios e obstáculos que 
+existem, considerando também toda a influência que a 
+ocupação final é capaz de exercer, não excedendo os 
+comprimentos máximos estabelecidos na tabela 2. Para 
+sistemas de hidrantes, deve-se preferencialmente utilizar 
+lances de mangueiras de 15 m, não sendo permitido lance 
+superior a 20 m (vinte metros). 
+ 
+5.14 Uniões / Engates 
+ 
+5.14.1 As uniões de engate rápido entre mangueiras de 
+incêndio devem ser conforme a NBR 14349. 
+5.14.2 As dimensões e os materiais para a confecção dos 
+adaptadores tipo engate rápido devem atender a NBR 
+14349. 
+ 
+5.15. Válvulas 
+ 
+5.15.1 Na ausência de normas brasileiras aplicáveis as 
+válvulas, é recomendável que atendam aos requisitos da 
+BS 5041 parte 1/87. 
+5.15.2 As roscas de entrada das vávulas devem ser de 
+acordo com a NBR 6414 ou NBR 12912. 
+5.15.3 As roscas de saída das válvulas para acoplamento 
+do engate rápido devem ser conforme a NBR 5667 ou 
+ANSI/ASME B1. 20.7 NH/98. 
+5.15.4 As válvulas devem satisfazer aos ensaios de 
+estanqueidade pertinentes, especificados em A 1.1 e A.1. 2  
+da BS 5041 PARTE 1/87. 
+5.15.5 É recomendada a instalação de válvulas de bloqueio 
+adequadamente 
+posicionadas, 
+com 
+objetivo 
+de 
+proporcionar manutenção em trechos da tubulação sem 
+desativação do sistema.  
+5.15.6 As válvulas que comprometem o abastecimento de 
+água a qualquer ponto do sistema, quando estiverem em 
+posição fechada, devem ser do tipo indicadoras. 
+Recomenda-se a utilização de dispositivos de travamento 
+para manter as válvulas na posição aberta. 
+ 
+5.16 Tubulações e conexões 
+ 
+5.16.1 A tubulação do sistema não deve ter diâmetro 
+nominal inferior a DN65 (2½”). 
+5.16.2 Para sistemas tipo 1 ou 2 pode ser utilizada 
+tubulação com diâmetro nominal DN50 (2”), desde que 
+comprovado tecnicamente o desempenho hidráulico dos 
+componentes e do sistema, através de Laudo de laboratório 
+oficial competente. 
+5.16.3 Outros tipos de tubos e conexões que utilizem 
+sistemas de acoplamento, ou materiais diferentes dos já 
+citados, somente poderão ser utilizados, se submetidos à 
+aprovação do CBMMG, após comprovado tecnicamente o 
+desempenho hidráulico dos componentes e do sistema, 
+através de laudo de laboratório oficial competente. Os 
+métodos de ensaios constantes no Laudo fornecido pelo 
+laboratório oficial deverão ser realizados através de 
+procedimento 
+no 
+mínimo 
+igual 
+ou 
+superior 
+aos 
+recomendados para as tubulações e conexões especificadas 
+na NBR 13714.  
+5.16.4 Os drenos, recursos para simulação e ensaios, 
+escorvas e outros dispositivos devem ser dimensionados 
+conforme a aplicação. 
+5.16.5 As tubulações aparentes do sistema devem ser em 
+cor vermelha. 
+5.16.6 Os trechos das tubulações do sistema, que passam 
+em dutos verticais ou horizontais e que sejam visíveis 
+através da porta de inspeção, devem ser em cor vermelha. 
+5.16.7 As tubulações destinadas à alimentação dos 
+hidrantes e de mangotinhos não podem passar pelos poços 
+de elevadores e/ou dutos de ventilação. 
+5.16.8 Todo e qualquer material previsto ou instalado deve 
+ser capaz de resistir ao efeito do calor e esforços 
+mecânicos, mantendo seu funcionamento normal. 
+5.16.9 O meio de ligação entre os tubos, conexões e 
+acessórios diversos deve garantir a estanqueidade e a 
+estabilidade mecânica da junta e não deve sofrer 
+comprometimento de desempenho, se for exposto ao fogo. 
+5.16.10 A tubulação deve ser fixada nos elementos 
+estruturais da edificação por meio de suportes metálicos, 
+conforme a NBR 10897, rígidos e espaçados em no 
+máximo 4 m, de modo que cada ponto de fixação resista a 
+cinco vezes a massa do tubo cheio de água mais a carga de 
+100 Kg. 
+5.16.11 Os materiais termoplásticos, na forma de tubos e 
+conexões, somente devem ser utilizados enterrados a 0,50 
+m e fora da projeção da planta da edificação satisfazendo a 
+todos os requisitos de resistência à pressão interna e a 
+esforços mecânicos necessários ao funcionamento da 
+instalação. 
+5.16.12 A tubulação enterrada com tipo de acoplamento 
+ponta e bolsa devem ser provida de blocos de ancoragem 
+nas mudanças de direção e abraçadeiras com tirantes nos 
+acoplamentos conforme especificado na NBR 10897/90. A 
+tubulação de aço quando enterrada deve ser protegida com 
+fita adesiva anticorrosiva ou outro processo de isolamento 
+tecnicamente adequado suficiente para evitar a corrosão 
+externa.  
+5.16.13 Os tubos de aço devem ser conforme as NBR 
+5580, NBR 5587 ou NBR 5590. 
+5.16.14 As conexões de ferro maleável devem ser 
+conforme a NBR 6925 ou NBR 6943. 
+5.16.15 As conexões de aço devem ser conforme ASTM A 
+234/97. 
+5.16.16 Os tubos de cobre devem ser conforme a NBR 
+13206.
+
+--- PÁGINA 9 ---
+5.18.2 O dimensionamento do sistema de hidrantes, de 
+acordo com o item 5.8, devem seguir os parâmetros 
+definidos pela tabela 4, conforme cada ocupação 
+respectiva.  
+5.16.17 As conexões de cobre devem ser conforme a NBR 
+11720, utilizando solda capilar com material de 
+enchimento BcuP-3, BcuP-4, de acordo com  AWS 
+A5.8/92 ou equivalentes. Outros tipos de solda podem ser 
+usados, desde que atendam o item 5.16.9. 
+5.18.3 Quando o conjunto do sistema hidraúlico de 
+combate a incêndio for único (bombas de incêndio e 
+tubulações), sendo utilizado para atender as condições do 
+item 5.8.7, as bombas de incêndio devem atender os 
+maiores valores de pressão e de vazão dos cálculos 
+obtidos, considerando a não simultaneidade de eventos. 
+ 5.16.18 Os tubos de PVC devem ser conforme as NBR 
+5647-1, NBR 5647-2, NBR 5647-3 e NBR 5647-4.  
+5.16.19 As conexões de PVC devem ser conforme a NBR 
+10351.  
+ 
+5.18.4 Nas áreas de edificações, tais como tanque ou 
+parque de tanques, onde seja necessária a proteção por 
+sistemas de resfriamento e/ou de proteção por espuma, a 
+rede de hidrantes pode possuir uma bomba de 
+pressurização para completar a altura manométrica 
+necessária, desde que alimentada por fonte alternativa de 
+energia. 
+5.17 Instrumentos do sistema 
+ 
+5.17.1 Os instrumentos devem ser adequados ao trabalho a 
+que se destinam, pelas suas características e localização no 
+sistema, sendo especificados pelo projetista. 
+5.17.2 
+Devem 
+ser 
+instalados 
+manômetros 
+na 
+instrumentação de partida da bomba de recalque. 
+5.18.5 Para fins de dimensionamento da reserva de 
+incêndio para os casos do sistema de hidrantes, de 
+resfriamento ou de espuma, o volume da reserva do 
+sistema de hidrantes calculado para as condições do item 
+5.8.7 não é somado ao volume da reserva de água dos 
+demais sistemas, caso as áreas de risco, tais como: tanques 
+isolados ou parques de tanques sejam separados das 
+demais construções de acordo com a IT 22 – 
+Armazenamento 
+de 
+Líquidos 
+Inflamáveis 
+ou 
+Combustíveis. 
+5.17.3 Os manômetros devem ser conforme a   NBR 
+14105/98, sendo, obrigatoriamente, precedidos por registro 
+esfera de abertura rápida. 
+5.17.4 A pressão de acionamento a que podem estar 
+submetidos os pressostatos corresponde a no máximo 70% 
+da sua maior pressão de funcionamento.  
+5.17.5 A chave de nível deve ser utilizada em tanque de 
+escorva, para garantia do nível de água e pode ser utilizada 
+no reservatório de água somente para supervisionar seu 
+nível. Tal dispositivo deve ser capaz de operar 
+normalmente após longos períodos de repouso ou falta de 
+uso (ver B.1.6 do anexo B).  
+5.18.6 O sistema deverá ser ensaiado sob pressão 
+hidrostática equivalente a 1,5 vez a pressão máxima de 
+trabalho, ou 1.500 kpa no mínimo, durante 2 horas. Não 
+são tolerados quaisquer vazamentos no sistema. 
+ 
+5.18 Considerações Gerais 
+5.18.7 A instalação e o ensaio deverão ser elaborados por 
+profissional legalmente habilitado, sendo confeccionada a 
+respectiva ART de Execução, que será apresentada durante 
+a vistoria final. 
+ 
+5.18.1 A proteção por sistemas de hidrantes para as áreas 
+de risco destinadas a parques de tanques ou tanques 
+isolados, devem atender as IT 19 - Sistemas de 
+resfriamento de líquidos e gases combustíveis ou 
+inflamáveis e IT 20 - Sistemas de proteção por espuma. 
+ 
+ 
+ 
+Tabela 2 - Tipos de Sistema de Proteção por Hidrantes ou Mangotinhos 
+Mangueiras de incêndio 
+Sistema 
+Tipo 
+Esguicho 
+Diâmetro 
+(mm) 
+Comprimento 
+Máximo 
+(m) 
+Número de 
+expedições 
+Vazão mínima ao 
+hidrante mais 
+desfavorável 
+(LPM)* 
+Mangotinho 
+1 
+Jato regulável 
+25 ou 32 
+45¹ 
+Simples 
+1002
+Hidrante 
+2 
+Jato compacto 
+Ø 13 mm ou regulável 
+40 
+303
+Simples 
+125 
+Hidrante 
+3 
+Jato compacto 
+Ø 16 mm ou regulável 
+40 
+30 
+Simples 
+250 
+Hidrante 
+4 
+Jato compacto 
+Ø 19 mm ou regulável 
+40 ou 65 
+30 
+Simples 
+400 
+Hidrante 
+5 
+Jato compacto 
+Ø 25 mm ou regulável 
+65 
+30 
+Duplo 
+650 
+* as vazões correspondem a cada saída. 
+ 
+Notas: 
+1) acima de 30 m de comprimento de mangueiras semi-rígidas é obrigatório o uso de carretéis axiais. 
+2) para edificações do Grupo A, será adotada a vazão mínima de 80 LPM. 
+3) para as edificações A2 e A3, poderá ser utilizado 45 m de mangueiras, caso o trajeto real a percorrer pelo operador ultrapasse 30 m.
+
+--- PÁGINA 10 ---
+Tabela 3 – Componentes para cada hidrante simples ou mangotinho 
+Tipos de Sistemas 
+Materiais 
+1 
+2 
+3 
+4 
+5 
+Abrigo(s) 
+Sim 
+Sim 
+Sim 
+Sim 
+Sim 
+Mangueira(s) de incêndio 
+Não 
+Sim 
+Sim 
+Sim 
+Sim 
+Chave(s) para hidrantes, engate rápido 
+Não 
+Sim 
+Sim 
+Sim 
+Sim 
+Esguicho 
+Sim 
+Sim 
+Sim 
+Sim 
+Sim 
+Mangueira semi-rígida 
+Sim 
+Não 
+Não 
+Não 
+Não 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabela 4 – Tipo de Sistema e Volume de Reserva de Incêndio mínima (m3) 
+Grupo/Divisão 
+Área das 
+edificações 
+e áreas de 
+risco 
+(m2) 
+A-2, A-3, C-1, D-2, E-1, E-2, E-
+3, E-4, E-5, E-6, F-2, F-3, F-4, 
+F-8, G-1, G-2, G-3, G-4, H1, 
+H-2, H-3, H-5, H-6; I-1, J-1, J-2  
+e M-3 
+-----------------------------------------
+Carga Incêndio até 300 MJ/m2
+D-1, D-3 , D-4 , F-1 
+B-1; B-2, C-3, F-5, F-6, F-7, 
+F-9 e H-4 
+--------------------------------------
+Carga Incêndio > 300 MJ/ m2
+D-1, D-3, D-4 
+--------------------------------------
+Carga Incêndio acima de 300 
+até 800 MJ/m2
+C-2, I-2 e J-3 
+F-10,  G-5, L-1 e 
+M-1 
+------------------------ 
+Carga Incêndio > 
+800 MJ/m2
+C-2, I-2, J-3 
+------------------------ 
+> 300 MJ/m² 
+F-1 
+I-3, J-4, 
+L-2 e  L-3  
+Até 3.000  
+Tipo 1  
+R.I. 6 m³ 
+Tipo 2 
+R.I. 8 m³ 
+Tipo 3 
+R.I. 12 m³ 
+Tipo 3 
+R.I. 20 m³ 
+Tipo 3 
+R.I. 20 m³ 
+De 3.001 
+até 6.000  
+Tipo 1  
+R.I. 8 m³ 
+Tipo 2 
+R.I. 12 m³ 
+Tipo 3 
+R.I. 18 m³ 
+Tipo 4 
+R.I. 20 m³ 
+Tipo 4 
+R.I. 30 m³ 
+De 6.001 
+até 10.000  
+Tipo 1  
+R.I. 12 m³ 
+Tipo 2 
+R.I. 16 m³ 
+Tipo 3 
+R.I. 25 m³ 
+Tipo 4 
+R.I. 30 m³ 
+Tipo 5 
+R.I. 50 m³ 
+De 10.001 
+até 15.000 
+Tipo 1  
+R.I. 16 m³ 
+Tipo 2 
+R.I. 20 m³ 
+Tipo 3 
+R.I. 30 m³ 
+Tipo 5 
+R.I. 45 m³ 
+Tipo 5 
+R.I. 80 m³ 
+De 15.001 
+até 30.000  
+Tipo 1  
+R.I. 25 m³ 
+Tipo 2 
+R.I. 35 m³ 
+Tipo 3 
+R.I. 40 m³ 
+Tipo 5 
+R.I. 50 m³ 
+Tipo 5 
+R.I. 110 m³
+Acima de 
+30.000 
+Tipo 1 
+R.I. 35 m³ 
+Tipo 2 
+R.I. 47 m³ 
+Tipo 3 
+R.I. 60 m³ 
+Tipo 5 
+R.I. 90 m³ 
+Tipo 5 
+R.I. 140 m³
+  
+Nota: 1) R.I. Reserva de Incêndio; 
+          2) Para a divisão M –2 adotar o item 5.18.1 desta I.T.
+
+--- PÁGINA 11 ---
+ANEXO A 
+(normativo) 
+Sistema de mangotinho com ponto de tomada de água para mangueira de incêndio de 40mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abrigo
+Válvula de abertura rápida
+Tomada de água
+para mangueira
+de 40 mm
+Mangueira semi-rígida
+Esguicho regulável
+ 
+ 
+ 
+ 
+* A tomada de água para mangueira de 40mm poderá ser instalada fora da caixa do mangotinho.
+
+--- PÁGINA 12 ---
+Anexo B 
+(normativo) 
+ 
+Reservatórios 
+ 
+B.1 Geral 
+ 
+B.1.1 
+Quando 
+o 
+reservatório 
+atender 
+a 
+outros 
+abastecimentos, as tomadas de água destes devem ser 
+instaladas de modo a  garantir o volume que reserve a 
+capacidade efetiva para o combate, devendo a saída de 
+incêndio ser pelo fundo e a de consumo pela lateral desse 
+reservatório. Na impossibilidade da saída de consumo ficar 
+na lateral do reservatório, o tubo d’água de consumo 
+deverá ser envelopado com concreto, no trecho da RTI. 
+B.1.2 A capacidade efetiva do reservatório deve ser 
+mantida permanentemente. 
+B.1.3 A construção do reservatório deve ser em concreto 
+armado ou metálico, obedecendo aos requisitos desta IT. 
+Podem ser utilizados reservatórios confeccionados com 
+outros materiais, desde que garanta-se as resistências: ao 
+fogo, mecânicas e intempéries.  
+B.1.3.1 Os reservatórios construídos em fibra, além dos 
+requisitos desta IT, deve ser totalmente protegido por 
+parede resistente ao fogo. 
+B.1.4 O reservatório deve ser provido de sistemas de 
+drenagem 
+e 
+ladrão 
+conveniente 
+dimensionados 
+e 
+independentes. Os drenos podem partir do fundo do 
+reservatório.  
+B.1.5 É recomendado que a reposição da capacidade 
+efetiva seja efetuada  à razão de 1LPM  por metro cúbico 
+de reserva. 
+B.1.6 O reservatório pode ser tanque de acumulação de 
+água para resfriamento de máquinas, refrigeração de ar 
+condicionado, ou até uma piscina da edificação a ser 
+protegida, desde que garantida a reserva efetiva 
+permanente. 
+ 
+B.2  Reservatório elevado (ação da gravidade)  
+ 
+B.2.1  Quando o abastecimento é feito somente pela ação  
+da gravidade, o reservatório elevado deve  estar à altura 
+suficiente  para fornecer as vazões e pressões mínimas 
+requeridas para cada sistema. Essa altura é considerada: 
+a) do fundo do reservatório (quando a adução for feita na 
+parte inferior do reservatório) até os hidrantes ou 
+mangotinhos mais desfavoráveis considerados no cálculo; 
+e 
+b) da face superior do tubo de adução (quando a adução 
+for feita nas paredes laterais dos reservatórios) até os 
+hidrantes ou mangotinhos mais desfavoráveis considerados 
+no cálculo.    
+B.2.2 Quando a altura do reservatório elevado não for 
+suficiente para fornecer as vazões e pressões requeridas, 
+para os pontos dos hidrantes ou mangotinhos mais 
+desfavoráveis considerados no cálculo, deve-se utilizar 
+uma bomba de reforço, em sistema “by pass”, para 
+garantir as pressões e vazões mínimas para aqueles pontos. 
+A instalação desta bomba deve atender ao Anexo C e 
+demais itens desta Instrução Técnica. 
+B.2.3 A tubulação de descida do reservatório elevado para 
+abastecer os sistemas de hidrantes ou de mangotinhos deve 
+ser provido de uma válvula de gaveta e uma válvula de 
+retenção, considerando-se o sentido reservatório–sistema.  
+A válvula de retenção deve ter passagem livre, sentido 
+reservatório–sistema. 
+ 
+B.3 Reservatório ao nível do solo, semi-enterrado ou 
+subterrâneo.  
+ 
+B.3.1 Nestas condições, o abastecimento dos sistemas de 
+hidrantes ou mangotinhos deve ser efetuado através de 
+bombas fixas. 
+B.3.2 O reservatório deve conter  uma capacidade efetiva, 
+com o ponto de tomada da sucção da bomba principal  
+localizado junto ao fundo deste, conforme ilustrado nas 
+figuras  B.1 a B.3 e tabela B.1. 
+B.3.3 Para o cálculo da capacidade efetiva, deve ser 
+considerada como  altura a distância  entre o nível normal 
+da água e o nível X da água, conforme as figuras B.1 a 
+B.3. 
+B.3.4 O nível X é calculado como o mais baixo nível, 
+antes de ser criado um vórtice com a bomba principal em 
+plena  carga, e deve ser determinado pela dimensão A da 
+tabela B.1 (ver tabela abaixo): 
+ 
+Tabela B.1 - Dimensões de poços de sucção 
+ 
+Diâmetro nominal do 
+tubo de sucção 
+(mm) 
+Dimensão A
+(mm) 
+Dimensão B
+(mm) 
+65 
+250 
+80 
+80 
+310 
+80 
+100 
+370 
+100 
+150 
+500 
+100 
+200 
+620 
+150 
+250 
+750 
+150 
+ 
+B.3.5 Quando o tubo de sucção D for dotado de um 
+dispositivo antivórtice, pode-se desconsiderar a dimensão 
+A da tabela B.1.  
+B.3.6 Não se deve utilizar o dispositivo antivórtice quando 
+a captação no reservatório de incêndio ocorrer em posição 
+horizontal, conforme exemplos das figuras B.1 e B.2. 
+B.3.7 Sempre que possível, o reservatório  deve dispor de 
+um poço de sucção como demonstrado nas figuras B.1 a  
+B.3, e com as dimensões  mínimas  A e B da tabela B.1, 
+respeitando-se  também as distâncias  mínimas com 
+relação  ao diâmetro D do  tubo de sucção. 
+B.3.8 Caso não seja previsto o poço de sucção, as 
+dimensões mínimas A e B da tabela B.1, ainda assim 
+deverão ser previstas, não computando-se como reserva de 
+incêndio, respeitando-se também as dimensões mínimas 
+com relação ao diâmetro D do tubo de sucção. 
+B.3.9 No caso de reservatório ao nível do solo, semi- 
+enterrado ou subterrâneo, deve-se atender aos requisitos de 
+B.1.1 a B.1.6.  
+B.3.10 O reservatório deve ter localização, dentro do 
+possível, de fácil acesso às viaturas do Corpo de 
+Bombeiros.
+
+--- PÁGINA 13 ---
+Figura B.1 - Tomada superior de sucção para bomba  principal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura B.2 - Tomada lateral de sucção para bomba principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura B.3 – Tomada Inferior de sucção para bomba principal
+
+--- PÁGINA 14 ---
+14
+B.4 Fontes naturais (lagos, rios, açudes, lagoas)  
+B.4.1 Para estes casos, suas dimensões devem ser 
+conforme as figuras B.4 e B.6, incluindo a tabela B.2. 
+B.4.2 Nos casos das figuras B.4 e B.6 a profundidade da 
+água em canais abertos ou adufas (incluindo a adufa entre 
+a câmara de decantação e a câmara de sucção), abaixo do 
+menor nível de água conhecido de fonte, não deve ser 
+inferior ao indicado na tabela B.2, para as correspondentes 
+larguras W e vazão Q. 
+B.4.3 A altura total dos canais abertos ou adufas deve ser 
+tal que  comporte o nível mais alto de água conhecido da 
+fonte. 
+B.4.4 Cada bomba principal deve possuir uma câmara de 
+sucção 
+com 
+respectiva 
+câmara 
+de 
+decantação, 
+independente. 
+B.4.5 As dimensões da câmara de sucção, a posição da 
+tubulação de sucção da bomba principal em relação às 
+paredes da câmara,  a parte  submersa da tubulação em 
+relação ao menor nível de água conhecido e a sua  
+distância em relação ao fundo, indicadas nas figuras B.4 a  
+B.6  são idênticas.  
+B.4.6 A câmara de decantação   deve  possuir  a mesma 
+largura e profundidade  da câmara  de sucção e o 
+comprimento mínimo igual a 4,4 x √h onde h é a 
+profundidade da câmara de decantação. 
+B.4.7 Antes de entrar na câmara de decantação, a água 
+deve passar através de uma grade de arame  ou uma placa 
+de metal perfurada, localizada abaixo do nível de água e 
+com uma área agregada de aberturas de no mínimo 15 cm²  
+para  cada dm³/min da vazão Q; a grade deve ser 
+suficientemente resistente para suportar a pressão exercida 
+pela água em caso de obstrução. 
+B.4.8 É recomendável que duas grades sejam previstas, 
+sendo que enquanto uma delas se encontra em operação, a  
+outra pode ser  suspensa  para limpeza.  
+B.4.9 Deve ser feita uma previsão para que as câmaras de 
+sucção 
+e 
+de 
+decantação 
+possam 
+ser 
+isoladas 
+periodicamente para a limpeza e manutenção. 
+B.4.10 Nos casos da figura B.6 o conduto de alimentação 
+deve possuir uma inclinação mínima constante de 0,8%, 
+no sentido da câmara de decantação, e um diâmetro que 
+obedeça à seguinte  equação: 
+ 
+D = 21,68 x Q 0.357 
+ 
+onde: 
+D - é o diâmetro interno do conduto, em milímetros; e 
+Q - é a máxima vazão da bomba principal, em decímetros 
+cúbicos por minuto.   
+ 
+B.4.11 Ainda nos casos da figura B.6, a entrada do 
+conduto de alimentação deve possuir um ralo, submerso no 
+mínimo  um diâmetro abaixo do nível de água  conhecido , 
+para o açude,  represa, rios, lagos ou lagoas; as aberturas 
+do ralo citado devem impedir a passagem de uma esfera de 
+25 mm de diâmetro. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura B 4 – Alimentação natural do reservatório de incêndio
+
+--- PÁGINA 15 ---
+Figura B.5 –Alimentação natural de reservatório por canal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura B.6 - Alimentação natural de reservatório por conduto
+
+--- PÁGINA 16 ---
+Tabela B.2 – Níveis de água e largura mínima para canais e adufa em função da vazão de alimentação 
+ 
+ 
+Profundidade do local 
+mm 
+250 
+500 
+1000 
+w 
+(mm) 
+Q  máx
+(dm³/min) 
+W 
+(mm) 
+Q máx
+Dm³/mim 
+W 
+(mm) 
+Q máx
+(dm³/min) 
+88 
+280 
+82 
+522 
+78 
+993 
+125 
+497 
+112 
+891 
+106 
+1687 
+167 
+807 
+143 
+1383 
+134 
+2593 
+215 
+1197 
+176 
+1960 
+163 
+3631 
+307 
+2064 
+235 
+3159 
+210 
+5647 
+334 
+2341 
+250 
+3506 
+223 
+6255 
+410 
+3157 
+291 
+4482 
+254 
+7825 
+500 
+4185 
+334 
+5592 
+286 
+9577 
+564 
+4953 
+361 
+6340 
+306 
+10749 
+750 
+7261 
+429 
+8307 
+353 
+13670 
+1113 
+12054 
+527 
+11415 
+417 
+18066 
+1167 
+12792 
+539 
+11816 
+425 
+18635 
+1500 
+17379 
+600 
+13903 
+462 
+21411 
+2000 
+24395 
+667 
+16273 
+500 
+24395 
+4500 
+60302 
+819 
+21949 
+581 
+31142 
+ 
+ 
+1000 
+29173 
+667 
+38916 
+ 
+ 
+ 
+ 
+2000 
+203320
+
+--- PÁGINA 17 ---
+Anexo  C 
+(normativo) 
+Bombas de Incêndio 
+ 
+ 
+C.1 Geral  
+ 
+C.1.1 Quando o abastecimento é feito por bomba de 
+incêndio, deve possuir pelo menos uma bomba elétrica ou 
+de combustão interna, devendo ser utilizada para este fim. 
+C.1.2  As dimensões das casas de bombas devem ser  tais 
+que permitam acesso em toda volta das bombas de 
+incêndio e espaço  suficiente para qualquer serviço de 
+manutenção local, nas bombas de incêndio e no painel de 
+comando, inclusive  viabilidade de remoção completa de 
+qualquer das bombas de incêndio. 
+C.1.2.1 As casas de bombas quando estiverem em 
+compartimento enterrado ou em barriletes, deverão possuir 
+acesso no mínimo através de escadas do tipo marinheiro, 
+sendo que o barrilete deve possuir no mínimo 1,5 m de pé 
+direito.   
+C.1.3 As bombas de incêndio devem, ser utilizadas 
+somente para este fim.   
+C.1.4 As bombas de incêndio devem ser protegidas contra 
+danos mecânicos, intempéries, agentes químicos, fogo ou 
+umidade. 
+C.1.5 As bombas principais devem ser diretamente 
+acopladas por meio de luva elástica, sem interposição de 
+correias e correntes, possuindo a montante uma válvula de 
+paragem e a jusante uma válvula de retenção e outra de 
+paragem. 
+C.1.6 A automatização da bomba principal ou de reforço 
+deve ser executada de maneira que, após a partida do 
+motor seu desligamento seja somente manual no seu 
+próprio painel de comando, localizado na casa de bombas. 
+C.1.7 Quando a(s) bomba(s) de incêndio for(em) 
+automatizada(s), deve ser previsto pelo menos um ponto 
+de acionamento manual para a(s) mesma(s), instalado em 
+local seguro da edificação e que permita fácil acesso, 
+podendo ser na própria casa de bomba. 
+C.1.8 O funcionamento automático é indicado pela 
+simples abertura de qualquer ponto de hidrante da 
+instalação. 
+C.1.9 As bombas de incêndio,  devem atingir pleno regime  
+em aproximadamente 30 segundos após a sua partida.  
+C.1.10 As bombas de incêndio, preferencialmente, devem 
+ser instaladas em condição de sucção positiva. Esta 
+condição é conseguida quando a linha do eixo da bomba se  
+situa abaixo do nível X de água. Admite-se que a linha de 
+centro do eixo da bomba se situe 2 m acima do nível X de 
+água, ou a 1/3 da capacidade efetiva do reservatório, o que 
+for menor, acima do que é considerada condição de sucção 
+negativa (ver figura C.1). 
+C.1.11 A capacidade das bombas principais, em vazão e 
+pressão, é suficiente para manter a demanda do sistema de 
+hidrantes e mangotinhos, de acordo com os critérios 
+adotados.  
+C.1.12 Não é recomendada  a instalação de bombas de 
+incêndio com pressões superiores a 100 mca (1Mpa).  
+C.1.13 Quando for necessário, manter a rede do sistema de 
+hidrantes ou de mangotinhos devidamente pressurizada em  
+uma faixa preestabelecida e, para compensar pequenas  
+perdas de pressão, uma bomba de pressurização (jockey) 
+deve  ser instalada; tal bomba deve ter vazão máxima de 
+20 LPM. 
+C.1.13.1 A pressão máxima de operação da bomba de 
+pressurização (jockey) instalada no sistema  deve ser igual 
+à pressão  da bomba principal , medida sem vazão (shut-
+off).  Recomenda-se que o diferencial de pressão entre os 
+acionamentos 
+seqüênciais 
+das 
+bombas 
+seja 
+de 
+aproximadamente 10 mca (100 kPa). 
+C.1.13.2 As automatizações da bomba de pressurização 
+(jockey) para ligá-la e desligá-la automaticamente e da 
+bomba principal para somente ligá-la automaticamente  
+devem ser feitos através de pressostatos instalados 
+conforme apresentado na figura C.2 e ligados nos painéis  
+de comando e chaves de partida dos motores de cada 
+bomba. 
+C.1.14 O painel de sinalização das bombas principal ou de 
+reforço, elétrica ou de combustão interna, deve ser dotado 
+de uma botoeira para ligar manualmente  tais bombas, 
+possuindo  sinalização ótica e acústica, indicando pelo 
+menos os seguintes eventos: 
+C.1.14.1 Bomba elétrica:  
+a) painel energizado; 
+b) bomba em funcionamento; 
+c) falta de fase;e  
+d) falta de energia no comando da partida . 
+C. 1.14.2 Bomba de combustão interna:  
+a) painel energizado; 
+b) bomba em funcionamento; 
+c) baixa carga da bateria; e 
+d) chave na posição manual ou painel desligado. 
+C.1.15 As bombas principais devem ser dotadas de 
+manômetro para determinação da pressão em sua descarga. 
+Nos casos em que foram instaladas em condição de sucção 
+negativa, deverão também ser dotadas de manovacuômetro 
+para determinação da pressão em sucção. 
+C.1.16 As edificações que tenham áreas de risco 
+destinadas a produção, manipulação, armazenamento, 
+transferência e distribuição de gases e líquidos inflamáveis 
+ou combustíveis, tendo a(s) bomba(s) de incêndio dos 
+hidrantes atendendo a sistemas de resfriamento de líquidos 
+e gases combustíveis ou inflamáveis e/ou sistemas de 
+proteção por espuma, conforme 5.9, é obrigatória a 
+instalação de duas bombas de incêndio, sendo uma elétrica 
+e a outra, movida com motor à explosão (não sujeita à 
+automatização); ambas as bombas deverão possuir as 
+mesmas características de vazão e pressão.
+
+--- PÁGINA 18 ---
+Figura C.1 – Condição positiva de sucção da bomba de incêndio 
+ 
+2
+∅ 15 mm (1/2") NA
+NF
+∅15 mm (1/2")
+Sistema de automatização 
+da bomba principal 
+Sistema de automatização 
+da bomba de 
+pressurização (Jockey) 
+Vai para hidrantes/mangotinhos 
+Vem das bombas
+NA
+NF
+1 
+3
+4
+5
+3 
+6 
+3
+2
+1
+4
+5
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C.2 Bombas de incêndio acopladas a motores elétricos  
+ 
+C.2.1 As bombas de incêndio dos sistemas de hidrantes e 
+de mangotinhos podem dispor de dispositivos para 
+acionamento automático ou manual. 
+C.2.2 Quando o acionamento for manual devem ser 
+previstas botoeiras do tipo “liga-desliga”, junto a cada 
+hidrante ou mangotinho. 
+C.2.3 Nos casos em que houver necessidade de instalação 
+de bomba de reforço, conforme especificado no item 
+B.2.2, sendo a bomba de reforço acionada por botoeira do 
+tipo “liga-desliga”, para os pontos de hidrantes ou 
+mangotinhos que atendam as pressões e vazões mínimas 
+requeridas em função da ação da gravidade, pode ser 
+dispensado as botoeiras junto a estes hidrantes ou 
+mangotinho, 
+devendo 
+ser 
+mostrado 
+nos 
+cálculos 
+hidráulicos e detalhe isométrico da rede. 
+C.2.4 Os condutores elétricos das botoeiras devem ser 
+protegidos contra danos físicos e mecânicos através de 
+eletrodutos rígidos embutidos nas paredes, ou quando 
+aparentes em eletrodutos metálicos, não devendo passar 
+em áreas de risco. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  C.2 – Cavalete de automação das bombas principal e de pressurização 
+ 
+C.2.5 As bombas de incêndio não podem ser instaladas em 
+salas que contenham qualquer outro tipo de máquina ou 
+motor, exceto quando estes últimos se destinem a sistemas 
+de proteção e combate a incêndio que utilizem a água 
+como agente de combate. 
+C.2.6 É permitida a instalação de bombas de incêndio com 
+as sucções acima do nível de água, desde que atenda os 
+seguintes requisitos (ver figura C.3): 
+a) ter a sua própria tubulação de sucção; 
+b) ter a válvula de pé com crivo no extremo da tubulação 
+de sucção; 
+c) ter meios adequados que mantenham a tubulação de 
+sucção sempre cheia de água; 
+d) o volume do reservatório de escorva e o diâmetro da 
+tubulação que abastece a bomba de incêndio devem ser 
+para sistemas do tipo 1 no mínimo de 100 litros e diâmetro 
+de 19 mm respectivamente e, para sistemas do tipo 2 e 3 
+no mínimo de 200 litros e diâmetro de 19mm; 
+e) o reservatório de escorva deve ter seu abastecimento por 
+outro reservatório elevado e possuir de forma alternativa 
+abastecimento pela rede pública de água da concessionária 
+local.
+
+--- PÁGINA 19 ---
+Reservatória de Escorva
+Manômetro
+Abastecimento
+direto da Rede
+Pública
+Bomba de Incêndio
+Válvula de Pé de Crivo
+Tubulação de Recalque
+Manovacuômetro
+Reserva de Incêndio
+VR=Válvula de Retenção
+VP=Válvula de Paragem
+VR
+VP
+VR
+VP
+Figura C.3 – Exemplo de afogamento de bomba de incêndio
+
+--- PÁGINA 20 ---
+C.2.7 A alimentação elétrica das bombas de incêndio  deve 
+ser independente do consumo geral, de forma a permitir o 
+desligamento 
+geral 
+da 
+energia, sem prejuízo do 
+funcionamento do motor da bomba de incêndio (ver figura 
+C.4). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura C.4 – Esquema de ligação elétrica para acionamento da 
+bomba de incêndio 
+ 
+C.2.8 Na falta de energia da concessionária, as bombas de 
+incêndio acionadas por motor elétrico podem ser 
+alimentadas por um gerador diesel, atendendo ao requisito 
+de C.2.9. 
+C.2.9 A entrada de força para a edificação a ser protegida 
+deve ser dimensionada para suportar o funcionamento das 
+bombas de incêndio em conjunto com os demais 
+componentes elétricos da edificação, a plena carga. 
+C.2.10 As chaves elétricas de alimentação  das bombas de 
+incêndio devem ser sinalizadas com a inscrição 
+“ALIMENTAÇÃO DA BOMBA DE INCÊNDIO –NÃO 
+DESLIGUE”. 
+C.2.11 Os fios elétricos de alimentação do motor das 
+bombas de incêndio, quando dentro da área protegida pelo 
+sistema de hidrantes devem ser protegidos contra danos 
+mecânicos e químicos, fogo e umidade. 
+C.2.12 Nos casos em que a bomba de reforço, conforme 
+especificado em B.2.2, for automatizada por chave de 
+fluxo, a instalação pode ser conforme esquematizado na 
+figura C.5. 
+C.2.13 A bomba de pressurização (jockey) pode ser 
+sinalizada apenas com recurso ótico, indicando bomba em 
+funcionamento.  
+ 
+Figura C.5 - Esquema de instalação de bomba de reforço 
+abastecendo os pontos de hidrantes mangotinhos mais 
+desfavoráveis considerados no cálculo 
+ 
+Legenda: 
+1 - Bomba de reforço 
+2 - Válvula –gaveta 
+3 - Válvula de retenção 
+4 - Chave de fluxo com retardo 
+5 - Pontos de hidrantes /mangotinhos 
+6 - Registro de recalque 
+Entrada 
+7 - Reservatório 
+ 
+Nota: 
+NA - Normalmente aberta 
+NF - Normalmente fechada 
+ 
+Chave Geral 
+Chave 
+para 
+Bomba 
+C.2.14 Cada bomba principal ou de reforço deve possuir 
+uma 
+placa 
+de 
+identificação 
+com 
+as 
+seguintes 
+características: 
+Consumo
+a) nome do fabricante; 
+b) número de série; 
+c) modelo da bomba; 
+d) vazão nominal; 
+e) pressão nominal; 
+f) rotações por minutos de regime;e 
+g) diâmetro do rotor.  
+C.2.15 Os motores elétricos também devem ser 
+caracterizados através de placa de identificação, exibindo:  
+a) nome do fabricante; 
+b) tipo; 
+c) modelo; 
+d) número de série; 
+e) potência, em CV; 
+f) rotações por minuto sob a tensão nominal; 
+g) tensão de entrada em volts; 
+h) corrente de funcionamento, ampéres;e 
+i) freqüência, em hertz. 
+C.2.16 O painel de comando para proteção  e partida 
+automática do motor da bomba de incêndio deve ser 
+selecionado de acordo  com a potência em CV do motor .  
+C.2.17 A partida do motor elétrico deve estar de acordo 
+com as recomendações da NBR 5410 ou da concessionária 
+local.   
+C.2.17.1 O sistema de partida deve ser do tipo magnético. 
+C.2.17.2 O período de aceleração do motor não deve 
+exceder 10 segundos. 
+C.2.18 O painel deve ser localizado o mais próximo 
+possível 
+do 
+motor 
+da 
+bomba 
+de 
+incêndio 
+e 
+convenientemente protegido contra respingos de água e 
+penetração de poeira. 
+C.2.19 O painel deve ser fornecido com os desenhos 
+dimensionais, leiaute, diagrama elétrico, régua de bornes, 
+diagrama elétrico interno e listagem dos materiais 
+aplicados. 
+C.2.20 Todos os fios devem ser anilhados, de acordo com 
+o diagrama elétrico correspondente.  
+C.2.21 O alarme acústico do painel deve ser tal que, uma 
+vez cancelado por botão de impulso, volte a funcionar 
+normalmente  quando  surgir  um novo evento. 
+C.2.22  O sistema de proteção  dos motores  elétricos deve 
+ser conforme a NBR  5410.
+
+--- PÁGINA 21 ---
+C.2.23 As bombas de incêndio com vazão nominal acima 
+de 600 LPM deverão dispor de um fluxo contínuo de água  
+através de uma tubulação de 6mm ou placa de orifício de 
+6mm, derivada da voluta da bomba e  com retorno 
+preferencialmente para o reservatório ou tanque  de 
+escorva (ver figura C.6), a fim de se evitar o 
+superaquecimento das mesmas. 
+ 
+C.3   Bombas acopladas a motores de combustão 
+interna   
+ 
+C.3.1 O motor a combustão deve ser instalado em 
+ambiente cuja temperatura não seja, em qualquer hipótese, 
+inferior à mínima recomendada pelo fabricante e dotado de 
+sistema de pré-aquecimento permanentemente ligado. 
+C.3.1.1 São dotados de injeção direta de combustível por 
+bomba injetora ou de ar comprimido, para a partida. 
+C.3.1.2 São dotados de sistema de arrefecimento por ar ou 
+água, não sendo permitido o emprego de ar comprimido. 
+C.3.1.3 A aspiração de ar para combustão pode ser natural 
+ou forçada (turbo). 
+C.3.1.4 Dispõe de controlador de rotação, o qual deve 
+manter a rotação nominal, tolerada uma faixa de  + 10% 
+seja qual for  a carga.  
+C.3.1.5 Dispõe de meios de operação manual, de 
+preferência no próprio motor, o qual volta sempre à 
+posição normal. 
+C.3.2 As bombas de incêndio devem ter condição de 
+operar a plena carga, no local onde forem instaladas, 
+durante 6 horas ininterruptas, sem apresentar quaisquer 
+avarias. 
+C.3.3 Os sistemas de refrigeração aceitáveis devem ser os 
+descritos em C.3.3.1 a C.3.3.4. 
+C.3.3.1 A injeção direta de água, da bomba para o bloco 
+do motor, de acordo com as especificações do fabricante. 
+A saída de água de resfriamento deve passar no mínimo 
+15cm acima do bloco do motor e terminar em um ponto  
+onde possa ser observada   sua descarga.  
+C.3.3.2 Por trocador de calor, vindo água fria diretamente  
+da bomba específica para este fim, com pressões limitadas 
+pelo fabricante do motor. A saída de água do trocador 
+também deve ser posicionada conforme C.3.3.1. 
+Vai para o reservatório ou tanque escorva 
+C.3.3.3 Por meio de radiador no próprio motor, sendo o 
+ventilador  acionado  diretamente pelo motor ou por  
+intermédio de correias, as quais devem ser múltiplas . 
+União assento plano 
+C.3.3.4 Por meio de ventoinhas ou ventilador, acionado 
+diretamente pelo motor ou por correias, as quais devem ser 
+múltiplas. 
+C.3.4 A entrada de ar para a combustão deve ser provida 
+de um filtro adequado. 
+C.3.5 O escapamento dos gases do motor deve ser provido 
+de silencioso, de acordo com as especificações do 
+fabricante, sendo direcionados para serem expelidos fora 
+da casa de bombas, sem chances de retornar ao seu 
+interior. 
+C.3.6 O tanque de combustível do motor deve ser montado 
+de acordo com as especificações do fabricante e deve  
+conter um volume de combustível suficiente para manter o 
+conjunto moto-bomba operando a plena carga durante o 
+tempo de no mínimo duas vezes  o tempo de 
+funcionamento dos abastecimentos de água, para cada 
+sistema  existente na edificação. Deve ser instalada sob o 
+tanque uma bacia  de contenção com volume mínimo  de 
+uma vez e meia a capacidade do tanque de combustível. 
+C.3.7 Existindo mais de um motor a explosão, cada um 
+deve ser dotado de seu próprio tanque de combustível, 
+com suas respectivas tubulações de alimentação para 
+bomba injetora. 
+C.3.8 O motor a explosão deve possuir uma placa de 
+identificação com as seguintes características:  
+a) nome do fabricante; 
+b) tipo; 
+c) modelo; 
+d) número de série; 
+e) potência em CV, considerando o regime contínuo de 
+funcionamento; e 
+f) rotações por minuto nominal.  
+C.3.9 Um painel de comando deve ser instalado no interior 
+da casa de bombas, indicando bomba em funcionamento e 
+sistema automático desligado (chave seletora na posição 
+manual).  
+C.3.10 As baterias do motor a explosão, localizadas na 
+casa de bombas, devem ser mantidas carregadas por um 
+sistema de flutuação automática, por meio  de um 
+carregador duplo de baterias. O sistema de flutuação deve 
+ser capaz de atender, independente, aos dois jogos de 
+baterias (principal e reserva). 
+C.3.11 O sistema de flutuação automática deve ser capaz 
+de carregar uma bateria descarregada em até 24 horas, sem 
+que haja danos às suas placas, determinando ainda, por 
+meio de amperímetros e voltímetros, o estado de carga de 
+cada  jogo de baterias.  
+C.3.12 Nos casos em que houver apenas uma bomba de 
+incêndio, por motor à explosão, o sistema de partida deve 
+ser sempre automático. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura C.6 – Arrefecimento da bomba principal elétrica
+
+--- PÁGINA 22 ---
+D.1 Podem ser considerados casos especiais de isenção de 
+sistemas de hidrantes e de mangotinhos as áreas das 
+edificações com as seguintes ocupações: 
+D.1.1 Áreas exclusivamente destinadas a processos 
+industriais com carga de incêndio igual ou inferior a 100 
+MJ/ m2; 
+D.1.2 Ginásios poliesportivos e piscinas cobertas, desde 
+que não utilizados para outros eventos que não atividades 
+esportivas e desde que as áreas de apoio não ultrapassem 
+750 m2;  
+D.1.3 Processos industriais com altos fornos onde o 
+emprego de água seja desaconselhável; 
+D.1.4 Nas áreas específicas de depósitos com materiais 
+combustíveis, sujeitos a reação com água. Neste caso deve  
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO D 
+(normativo) 
+Casos de isenção de sistemas de hidrantes e de mangotinhos. 
+ 
+ 
+ser protegido por agente extintor específico ou sistemas 
+especiais indicado para o risco; 
+D.1.5 Depósito de materiais incombustíveis, desde que 
+quando embalados a carga incêndio não ultrapasse 100 
+MJ/m2 . 
+D.2  Fica isenta a instalação de pontos de hidrantes ou de 
+mangotinhos em edículas, mezaninos, sobreloja, ou nos 
+pavimentos superiores de zeladoria com área até 70 m2 e 
+apartamentos “duplex” ou “triplex”, desde que o 
+caminhamento máximo adotado seja o comprimento 
+estabelecido na tabela 2 desta IT, e que o hidrante ou 
+mangotinho do pavimento mais próximo assegure  sua 
+proteção e o  acesso aos locais citados não seja através de 
+escada enclausurada. 
+D.2.1 Nestes casos o cálculo da vazão  deve atender a 
+tabela 2.

@@ -1,0 +1,1187 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 12 
+3ª edição 
+BRIGADA DE INCÊNDIO 
+Aprovada pela portaria n. 57, de 01jul2020, publicada no DOEMG n. 133, ano 128, p. 46. 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições 
+5 – Procedimentos 
+6 – Disposições finais  
+ANEXOS 
+A 
+– 
+Percentual 
+de 
+cálculo 
+para 
+composição da brigada de Incêndio 
+B – Exemplos de cálculo de brigada de 
+incêndio orgânica 
+C – Vistoria de liberação e fiscalização
+
+--- PÁGINA 2 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+2/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica (IT) estabelece os critérios mínimos a serem exigidos pelo Serviço de 
+Segurança Contra Incêndio e Pânico (SSCIP) referentes aos treinamentos, quantitativo e 
+composição da brigada de incêndio para atuação em edificações, espaços destinados a uso 
+coletivo e eventos no Estado de Minas Gerais. 
+2 APLICAÇÃO  
+2.1 Esta IT aplica-se a todas as edificações e espaços destinados a uso coletivo definidos no 
+Regulamento de Segurança Contra Incêndio e Pânico no Estado de Minas Gerais, no que diz 
+respeito à medida de segurança contra incêndio e pânico "Brigada de Incêndio" nele prevista. 
+2.2 Esta IT não se aplica às brigadas de aeródromo, florestal, municipal,voluntária e de rodovias. 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Federal n. 11.901/2009 – Dispõe sobre a profissão de Bombeiro Civil e dá outras 
+providências. 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Lei Estadual n. 22.839/2018 – Dispõe sobre a prática de atividades da área de competência do 
+Corpo de Bombeiros Militar de Minas Gerais por voluntários, profissionais e instituições civis e dá 
+outras providências. 
+Decreto Estadual n. 44.746/2008 e alterações – Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+Portaria n. 50/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de 
+2018, quanto à atuação, credenciamento, uniformes e veículos da brigada e do brigadista 
+profissional. 
+Portaria n. 51/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de 
+2018, quanto à atuação, credenciamento, uniformes e veículos da brigada e brigadista orgânico. 
+Portaria n. 54/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de 
+2018, quanto à atuação, credenciamento, uniformes e veículos do centro de formação, 
+instrutores e demais atores que atuam na formação de brigadistas e guarda-vidas civis. 
+3.2 Normas 
+Instrução Técnica 01 – Procedimentos Administrativos, CBMMG. 
+Instrução Técnica 33 – Eventos Temporários, CBMMG. 
+NBR 13860 – Glossário de termos relacionados com a segurança contra incêndio. NBR 14023 – 
+Registro de atividades de bombeiros. 
+NBR 14096 – Viaturas de combate a incêndio.
+
+--- PÁGINA 3 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+3/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+NBR 14276 – Programa de brigada de incêndio. 
+NBR 14277 – Instalações e Equipamentos para treinamento de combate a incêndio - Requisitos. 
+NBR 14561 – Veículos para atendimento a emergências médicas e resgate.  
+NBR 15219 – Plano de emergência – requisitos e procedimentos. 
+NBR15808 - Extintores de incêndio portáteis. 
+NBR15809 - Extintores de incêndio sobre rodas. 
+NBR 16577 – Espaço confinado – prevenção de acidentes, procedimentos e medidas de 
+proteção. 
+NR 23 – Proteção Contra Incêndios. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as seguintes definições, além daquelas 
+previstas na IT 02 (Terminologia de proteção contra incêndio e pânico) e daquelas constantes na 
+Portaria n. 50/2020, Portaria n. 51/2020 e Portaria n. 54/2020. 
+4.1 Brigada de incêndio: medida de segurança prevista no Regulamento de Segurança Contra 
+Incêndio e Pânico no Estado de Minas Gerais, que consiste em um grupo organizado de 
+pessoas treinadas e capacitadas para atuar na prevenção, abandono de edificação, combate a 
+princípio de incêndios e prestação de primeiros socorros, dentro de uma área preestabelecida, 
+podendo ser composta por: 
+4.1.1 Brigada orgânica: grupo organizado de brigadistas orgânicos que compõem a população 
+fixa da edificação ou espaço destinado a uso coletivo em que se desenvolvem as atividades da 
+ocupação, que, embora não sejam contratados para a execução de prevenção e combate a 
+incêndio, atuam de forma extraordinária no combate a princípio de incêndios, abandono da 
+edificação e prestação de primeiros socorros, nos limites da propriedade. 
+4.1.2 Brigada profissional: grupo organizado de pessoas contratadas para a execução de 
+atividades de prevenção e combate a incêndio, de forma exclusiva ou não, no âmbito da 
+propriedade ou em evento temporário, excluídos os membros das brigadas de aeródromo, 
+florestal, orgânica e municipal. 
+4.2 Brigadista orgânico: membro da população fixa da edificação ou espaço destinado a uso 
+coletivo em que se desenvolvem as atividades da ocupação, que embora não seja contratado 
+para a execução de prevenção e combate a incêndio, atua de forma extraordinária no combate a 
+princípio de incêndios, abandono da edificação e prestação de primeiros socorros, possuindo 
+atuação restrita aos limites da edificação, espaço destinado a uso coletivo ou evento temporário 
+para o qual houve o curso de formação. 
+4.3 Brigadista profissional: profissional que, habilitado nos termos da Portaria 50/2020, 
+exerce, em caráter habitual, função remunerada, exclusiva ou não de prevenção e combate a 
+incêndio no âmbito da brigada de incêndio da edificação, espaço destinado a uso coletivo ou 
+evento temporário. 
+4.4 Curso de formação: curso de formação do brigadista em que são ministrados os conteúdos 
+previstos na legislação específica, de acordo com o nível de formação exigido, e aplicadas 
+avaliações formais, resultando na emissão de certificado ou similar que ateste a formação. 
+4.5 Treinamento periódico: refere-se aos treinamentos ocorridos no ambiente de trabalho, 
+simulados, estudos de caso, atividades realizadas pela Comissão Interna de prevenção de 
+acidentes (CIPA), entre outros.
+
+--- PÁGINA 4 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+4/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+5 PROCEDIMENTOS  
+5.1 Composição da brigada de incêndio 
+5.1.1 A brigada de incêndio deve ser composta por um percentual de pessoas de acordo com a 
+população e ocupação da edificação, conforme Anexo A, observados os exemplos de cálculo 
+previstos no Anexo B.  
+5.1.2 Para eventos temporários, a composição da brigada de incêndio deverá se dar 
+exclusivamente por brigadista profissional. 
+5.1.2.1 Por até 01 (um) ano a partir da entrada em vigor desta IT, em caráter transitório, a 
+brigada de incêndio para eventos temporários poderá ser dimensionada conforme disposto na 
+Nota A.12.5 do Anexo A desta IT. 
+5.1.2.2 Para atuação da brigada de incêndio em eventos temporários, além do contido nesta 
+norma, deverá ser considerado o previsto na Instrução Técnica específica de eventos 
+temporários. 
+5.2 Organização da brigada de incêndio 
+5.2.1 Brigada de incêndio  
+5.2.1.1 A brigada de incêndio deve ser organizada funcionalmente como se segue:  
+a) brigadistas: membros da brigada de incêndio, conforme itens 4.2 e 4.3, que executam as 
+atribuições previstas no item 5.3 desta IT; 
+b) líder: responsável pela coordenação e execução das ações de emergência em sua área de 
+atuação (pavimento/compartimento). É escolhido dentre os brigadistas;  
+c) 
+chefe 
+da 
+brigada: 
+responsável 
+por 
+uma 
+edificação 
+com 
+mais 
+de 
+um 
+pavimento/compartimento; 
+d) coordenador geral: responsável geral por todas as edificações que compõem uma planta. 
+5.2.1.2 As funções citadas nas alíneas ‘c’ e ‘d’ poderão ser desempenhadas por brigadistas ou 
+designadas a um profissional com habilitação ou especialização na área de segurança do 
+trabalho. 
+5.2.2 Organograma da brigada de incêndio 
+5.2.2.1 O organograma da brigada de incêndio varia de acordo com o número de edificações, o 
+número de pavimentos em cada edificação e o número de empregados em cada 
+pavimento/compartimento.  
+5.2.2.2 As empresas que possuem em sua planta somente uma edificação, com apenas um 
+pavimento/compartimento, devem ter um líder para coordenar a brigada.  
+5.2.2.3 As empresas que possuem em sua planta somente uma edificação, com mais de um 
+pavimento/compartimento, devem ter um líder para cada pavimento/compartimento que é 
+coordenado pelo chefe da brigada dessa edificação.  
+5.2.2.4 As empresas que possuem em sua planta mais de uma edificação, com mais de um 
+pavimento/compartimento, devem ter um líder por pavimento/compartimento e um chefe da 
+brigada para cada edificação, que devem ser coordenados pelo coordenador geral da brigada.
+
+--- PÁGINA 5 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+5/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+5.3 Atribuições da brigada de incêndio  
+5.3.1 Ações de prevenção: 
+a) avaliação dos riscos existentes;  
+b) inspeção geral dos equipamentos de combate a incêndio;  
+c) inspeção geral das rotas de fuga; 
+d) elaboração de relatório das irregularidades encontradas; 
+e) encaminhamento do relatório aos setores competentes; 
+f) orientação à população fixa e flutuante; 
+g) instrução de abandono de área com segurança; 
+h) exercícios simulados. 
+5.3.2 Ações de emergência:  
+a) identificação da situação;  
+b) alarme/abandono de área; 
+c) acionamento do Corpo de Bombeiros e/ou ajuda externa;  
+d) corte de energia – com verificação prévia de elevadores; e equipamentos de emergência e 
+preservação da vida que funcionem energizados;  
+e) primeiros socorros;  
+f) controle do pânico;  
+g) combate ao princípio de incêndio;  
+h) recepção e orientação ao Corpo de Bombeiros. 
+5.4 Treinamento da brigada de incêndio 
+5.4.1 Os requisitos referentes ao curso de formação de brigadista orgânico e de brigadista 
+profissional (malha curricular, periodicidade, local do treinamento, profissionais aptos a 
+ministrarem o curso, dentre outros aspectos) serão estabelecidos em legislação específica 
+(Portaria n. 50/2020, Portaria n. 51/2020 e Portaria n. 54/2020). 
+5.4.2 Os brigadistas deverão possuir, obrigatoriamente, nível de treinamento básico, sendo 
+recomendada a formação intermediária ou avançada, de acordo com a ocupação/divisão da 
+edificação ou espaço destinado ao uso coletivo, conforme disposto no Anexo A desta IT. 
+5.4.2.1 O curso de formação (nível básico, intermediário ou avançado) será executado conforme 
+matriz curricular prevista na Portaria n. 54/2020 e deve enfocar, principalmente, os riscos 
+inerentes ao grupo da ocupação. 
+5.4.3 Para edificações tombadas pelo patrimônio histórico e museus, a brigada de incêndio 
+deverá ser treinada para, após execução dos procedimentos de preservação da vida, realizar 
+intervenções para remoção de acervo em caso de incêndio ou sinistro que possa comprometer a 
+integridade do acervo da edificação, conforme IT 35 (Segurança Contra Incêndio em Edificações 
+que compõem o Patrimônio Cultural).
+
+--- PÁGINA 6 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+6/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+5.4.4 Conteúdos complementares, de acordo com o local de atuação da brigada, poderão ser 
+ministrados a critério do proprietário/responsável pelo uso e do responsável técnico, não sendo 
+objeto de exigência e fiscalização do serviço de segurança contra incêndio e pânico (SSCIP), 
+conforme malha curricular prevista na Portaria n. 54/2020. 
+5.4.5 Independente do nível de treinamento exigido para a formação do brigadista, é obrigatórioo 
+treinamento periódico da brigada de incêndio (recomenda-se mensal) no local de atuação 
+referente a: 
+a) evacuação segura da edificação/área de risco; 
+b) identificação de principais riscos da edificação/área de risco; 
+c) localização de registros e chaves de acionamento de medidas de segurança;  
+d) localização de painéis, chaves e disjuntores e dispositivos afetados pelo desligamento desses 
+dispositivos; 
+e) retirada de bens e obras protegidos pelo seu valor histórico e cultural em edificações e áreas 
+de exposição; 
+f) utilização de desfibrilador externo automático, quando for exigido este equipamento para a 
+edificação/ área de risco. 
+5.4.5.1 O treinamento periódico poderá ser conduzido por aqueles que exerçam as funções 
+previstas nas alíneas ‘b’, ‘c’ e ‘d ’do item 5.2.1.1. 
+5.5 Programa de atividades da brigada de incêndio  
+5.5.1 Reuniões ordinárias 
+5.5.1.1 Devem ser realizadas reuniões mensais com os membros da brigada, com registro em 
+ata, onde serão discutidos os seguintes assuntos:  
+a) funções de cada membro da brigada dentro do plano;  
+b) condições de uso dos equipamentos de combate a incêndio;  
+c) apresentação de problemas relacionados à prevenção de incêndios encontrados nas 
+inspeções para que sejam feitas propostas corretivas;  
+d) atualização das técnicas e táticas de combate a incêndio;  
+e) alterações ou mudanças do efetivo da brigada;  
+f) outros assuntos de interesse. 
+5.5.2 Reuniões extraordinárias 
+5.5.2.1 Após a ocorrência de um sinistro, exercício simulado, ou quando identificada uma 
+situação de risco iminente, fazer uma reunião extraordinária para discussão e providências a 
+serem tomadas. As decisões tomadas são registradas em ata e enviadas às áreas competentes 
+para as providências pertinentes.  
+5.5.3 Exercícios simulados 
+5.5.3.1 Deve ser realizado, a cada 12 (doze) meses, no mínimo um exercício simulado no 
+estabelecimento ou local de trabalho com participação de toda a população.
+
+--- PÁGINA 7 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+7/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+5.5.3.2 Após o simulado, deve ser realizada uma reunião extraordinária para avaliação e 
+correção das falhas ocorridas. 
+5.5.3.3 Deve ser elaborada ata na qual conste:  
+a) horário do evento;  
+b) tempo gasto no abandono;  
+c) tempo gasto no retorno;  
+d) tempo gasto no atendimento de primeiros socorros;  
+e) atuação da brigada;  
+f) comportamento da população;  
+g) participação do Corpo de Bombeiros e tempo gasto para sua chegada;  
+h) ajuda externa (PAM – Plano de Auxílio Mútuo);  
+i) falhas de equipamentos;  
+j) falhas operacionais;  
+k) demais problemas levantados na reunião.  
+5.5.3.4 Quando solicitado acompanhamento do simulado pelo Corpo de Bombeiros (CBMMG), o 
+pedido deverá ser apresentado com antecedência mínima de 30 (trinta) dias para avaliação.  
+5.6 Procedimentos complementares  
+5.6.1 Identificação da brigada de incêndio 
+5.6.1.1 Devem ser distribuídos em locais visíveis e de grande circulação, quadros de aviso ou 
+similar, sinalizando a existência da brigada de incêndio e indicando seus integrantes com suas 
+respectivas localizações. 
+5.6.1.2 O brigadista deve utilizar constantemente, em lugar visível, um crachá, colete ou 
+braçadeira que o identifique claramente como membro da brigada. No caso de uma situação real 
+ou simulado de emergência, o brigadista também poderá usar capacete para facilitar sua 
+identificação e auxiliar na sua atuação. 
+5.6.1.3 É proibido o uso de insígnias, emblemas, denominações e símbolos de uso exclusivo 
+do CBMMG ou de outras instituições militares nos trajes, uniformes e elementos de 
+identificação dos brigadistas. 
+5.6.2 Comunicação interna e externa 
+5.6.2.1 Nas plantas em que houver mais de um pavimento, setor, bloco ou edificação, deve ser 
+estabelecido previamente um sistema de comunicação entre os brigadistas, a fim de facilitar as 
+operações durante a ocorrência de uma situação real ou simulado de emergência. 
+5.6.2.2 Essa comunicação pode ser feita por meio de telefones, quadros sinópticos, interfones, 
+sistemas de alarme, rádios, alto-falantes, sistemas de som interno, etc. 
+5.6.2.3 Deve-se estabelecer previamente um componente da brigada ou do grupo de apoio à 
+brigada de incêndio para realizar a comunicação com meios externos (Corpo de Bombeiros ou 
+Plano de Auxílio Mútuo) em casos de sinistros.
+
+--- PÁGINA 8 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+8/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+5.6.3 Ordem de abandono 
+5.6.3.1 O responsável máximo da brigada de incêndio (Coordenador geral, Chefe da brigada ou Líder, 
+conforme o caso) determinará o início do abandono, devendo priorizar o(s) local(is) sinistrado(s), o(s) 
+pavimento(s) superior(es) a este(s), o(s) setor(es) próximo(s) e o(s) local(is) de maior risco.  
+5.6.4 Ponto de encontro 
+5.6.4.1 Em simulados e durante a atuação da brigada em situação de emergência, devem ser 
+previstos um ou mais pontos de encontro dos brigadistas, para distribuição das tarefas conforme 
+item 5.4.  
+5.6.5 Grupo de apoio à brigada de incêndio 
+5.6.5.1 O grupo de apoio à brigada de incêndio é formado com a participação da Segurança 
+Patrimonial, de eletricistas, encanadores, telefonistas e técnicos especializados na natureza da 
+ocupação.  
+5.6.5.2 Poderá ser empregado quando da necessidade de ação conjunta, em que se exige 
+conhecimentos técnicos por parte da equipe, não sendo necessário que esse profissional faça 
+parte da brigada de incêndio. 
+5.7 Equipamentos da brigada de incêndio 
+5.7.1 Para que a brigada orgânica possa atuar, esta deverá dispor de equipamentos em 
+quantidades adequadas ao número de brigadistas e para o tipo de situações ou riscos que 
+possam ser encontrados no local. 
+5.7.1.1 Na edificação, espaço destinado a uso coletivo ou evento temporário, deve haver, a 
+critério do proprietário/responsável pelo uso, responsável técnico e responsável pela segurança, 
+material compatível com o risco a proteger, seja relacionado à carga incêndio, existência de 
+substâncias tóxicas, atividades em altura, retirada de pessoas com dificuldade de locomoção ou 
+outros riscos identificados no local. 
+5.7.2 Os equipamentos poderão estar acondicionados em locais como: baús de brigadistas, 
+armários para brigada de incêndio, cômodos ou salas, próprios para tal. 
+5.7.2.1 Esses locais de acondicionamento, preferencialmente, devem ser junto aos locais de 
+encontro da brigada, próximos das portas das saídas finais da edificação ou em outros locais de 
+fácil acesso da brigada. 
+5.7.2.2 Poderá haver mais de um local de acondicionamento e a quantidade de equipamentos 
+poderáser dividida, por setor ou andar, sempre para um mínimo de 02 (dois) brigadistas. 
+5.7.2.3 Esses locais de acondicionamento poderão estar trancados, mas, obrigatoriamente, 
+deverá haver uma chave para cada brigadista e a mesma chave deverá permitir abrir qualquer 
+local de acondicionamento de equipamentos. 
+5.7.2.4 Os locais de acondicionamento deverão possuir placa de identificação, conforme a IT15 
+(Sinalização de Emergência). 
+5.7.2.5 Em locais de acesso restrito a pessoas, recomenda-se que haja o acondicionamento de 
+equipamentos antes do ingresso a esses locais.
+
+--- PÁGINA 9 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+9/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+5.7.2.6 Caso sejam usados baús ou armários, ambos poderão estar nos corredores, halls ou 
+saguões, desde que não comprometam a largura mínima exigida nas rotas de fuga desses 
+locais. 
+5.7.2.7 Os locais de acondicionamento de equipamentos da brigada poderão abrigar outros 
+equipamentos, desde que sejam dimensionados para tal e que sejam esses equipamentos de 
+segurança contra incêndio e/ou de resgate e salvamento, como, por exemplo, ferramentas de 
+arrombamento, kits de primeiros socorros, líquidos geradores de espuma, extintores, 
+mangueiras, entre outros.  
+5.7.2.8 Para áreas de preservação florestal, recomenda-se, conforme legislação do órgão 
+responsável e seus critérios, a criação de casamatas, com resistência ao fogo de 240 minutos, 
+providas de equipamentos de combate a incêndios florestais, entre outros materiais, para, no 
+mínimo, 4 (quatro) combatentes, inclusive para a acomodação destes.  
+5.7.3 Os tipos de equipamentos e suas quantidades deverão ser determinados em função do 
+risco a proteger e do número de brigadistas na edificação.  
+5.7.4 É de responsabilidade do Proprietário ou Responsável pelo uso da edificação a aquisição, 
+conservação, manutenção, o perfeito funcionamento e/ou a reposição, se for o caso, dentro das 
+datas recomendadas pelos fabricantes desses equipamentos da brigada de incêndio, com o 
+auxílio da brigada. 
+6 DISPOSIÇÕES FINAIS  
+6.1 O descumprimento dos requisitos estabelecidos por esta Instrução Técnica será motivo para 
+o Corpo de Bombeiros não fornecer ou cassar o Auto de Vistoria do Corpo de Bombeiros 
+(AVCB). 
+6.2 Recomenda-se para as edificações isentas de brigada de incêndio a permanência de 
+pessoas capacitadas a operar os equipamentos de combate a incêndios existentes na 
+edificação. 
+6.3 A edificação que possuir posto fixo de brigadistas, com efetivo mínimo de 5 (cinco) 
+brigadistas profissionais (por turno de 24 horas) e veículo de combate a incêndio devidamente 
+equipado, nos parâmetros da NBR 14096 (Viaturas de combate a incêndio — Requisitos de 
+desempenho, fabricação e métodos de ensaio), poderá ficar isenta da brigada de incêndio, 
+desde que o brigadista profissional ministre treinamento periódico aos demais funcionários, nos 
+parâmetros desta IT. 
+6.3.1 No caso de edificações verticais onde a existência de veículo de combate a incêndio seja 
+inviável, poderá ser aplicado o disposto no item 6.3 mesmo na sua ausência, desde que a 
+edificação possua Sistema de Hidrantes com bomba de pressurização e Reserva Técnica de 
+Incêndio com, no mínimo, 25 m³ de água, além dos demais equipamentos previstos na 
+NBR14096, excetuando-se aqueles cuja utilização dependa ou se dê exclusivamente em razão 
+do veículo. 
+6.4 Os casos omissos relativos aos procedimentos administrativos do Serviço de Segurança 
+contra Incêndio e Pânico serão solucionados pelo Diretor de Atividades Técnicas.
+
+--- PÁGINA 10 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+10/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+ANEXO A 
+PERCENTUAL DE CÁLCULO PARA COMPOSIÇÃO DA BRIGADA DE INCÊNDIO 
+(quando exigida a medida para a edificação ou área de risco) 
+ 
+Grupo 
+Divisão 
+Descrição 
+População fixa 
+por pavimento 
+Nível de 
+Treinamento 
+Exigido 
+Nível de 
+Treinamento 
+Recomendado 
+Até 10 
+Acima 
+de 10 
+A 
+Residencial 
+A-1 
+Habitação unifamiliar 
+Isento 
+A-2 
+Habitação multifamiliar 
+Conforme nota A.1 
+Básico 
+Básico 
+A-3 
+Habitação coletiva  
+50% 
+10% 
+Básico 
+Básico 
+B 
+Serviço de 
+Hospedagem 
+B-1 
+Hotel e assemelhado 
+50% 
+10% 
+Básico 
+Intermediário 
+B-2 
+Hotel residencial  
+50% 
+10% 
+Básico 
+Básico 
+C 
+Comercial 
+C-1 
+Comércio 
+com 
+baixa 
+carga de incêndio 
+40% 
+5% 
+Básico 
+Básico 
+C-2 
+Comércio com média e 
+alta carga de incêndio 
+40% 
+5% 
+Básico 
+Intermediário 
+C-3 
+Shopping center 
+50% 
+20% 
+Básico 
+Intermediário 
+D 
+Serviço 
+profissional 
+D-1 
+Repartições 
+públicas 
+e 
+locais para prestação de 
+serviço 
+profissional 
+ou 
+condução de negócios 
+30% 
+10% 
+Básico 
+Intermediário 
+D-2 
+Agência bancária 
+40% 
+10% 
+Básico 
+Básico 
+D-3 
+Serviço 
+de 
+reparação 
+(exceto os classificados em 
+G-4) 
+40% 
+10% 
+Básico 
+Intermediário 
+D-4 
+Laboratório 
+E 
+Educacional e 
+cultura física 
+E-1 
+Escola em geral 
+40% 
+20% 
+Básico 
+Intermediário 
+E-2 
+Escola especial 
+E-3 
+Espaço para cultura física 
+E-4 
+Centro 
+de 
+treinamento 
+profissional 
+E-5 
+Pré-escola 
+80% 
+80% 
+Básico 
+Intermediário 
+E-6 
+Escola para portadores de 
+deficiências
+
+--- PÁGINA 11 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+11/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+Grupo 
+Divisão 
+Descrição 
+População fixa 
+por pavimento 
+Nível de 
+Treinamento 
+Exigido 
+Nível de 
+Treinamento 
+Recomendado 
+Até 10 
+Acima 
+de 10 
+F 
+Local de 
+Reunião de 
+Público 
+F-1 
+Local onde há objeto de 
+valor inestimável 
+Faz 
+parte 
+da 
+brigada 
+de 
+incêndio 
+toda 
+a 
+população fixa 
+Básico 
+Intermediário 
+F-2 
+Local religioso e velório 
+F-3 
+Centro esportivo e de 
+exibição 
+F-4 
+Estação e terminal de 
+passageiro 
+60% 
+20% 
+Básico 
+Intermediário 
+F-5 
+Arte cênica 
+Faz 
+parte 
+da 
+brigada 
+de 
+incêndio 
+toda 
+a 
+população fixa 
+Básico 
+Intermediário 
+F-6 
+Local de diversão 
+F-7  
+ Evento temporário 
+01 brigadista a cada 
+500 
+pessoas, 
+respeitado o mínimo 
+de 2 brigadistas 
+Profissional 
+Profissional 
+F-8 
+Local para refeição 
+60% 
+20% 
+Básico 
+Intermediário 
+F-9 
+Recreação 
+40% 
+10% 
+Básico 
+Intermediário 
+F-10 
+Exposição de objetos e 
+animais 
+Faz 
+parte 
+da 
+brigada 
+de 
+incêndio 
+toda 
+a 
+população fixa 
+Básico 
+Intermediário 
+F-11 
+Auditórios 
+40% 
+10% 
+Básico 
+Básico 
+G 
+Serviço 
+automotivo e 
+assemelhados 
+G-1 
+Garagem sem acesso de 
+público 
+Faz 
+parte 
+da 
+brigada 
+de 
+incêndio 
+toda 
+a 
+população fixa 
+Básico 
+Básico 
+G-2 
+Garagem com acesso de 
+público 
+G-3 
+Local 
+dotado 
+de 
+abastecimento 
+de 
+combustível 
+G-4 
+Serviço de conservação, 
+manutenção e reparos 
+50% 
+10% 
+Básico 
+Básico 
+G-5 
+Hangares 
+50% 
+20% 
+Básico 
+50% Básico 
+50% Intermediário 
+H 
+Serviço de 
+saúde e 
+institucional 
+H-1 
+Hospital veterinário  
+50% 
+10% 
+Básico 
+Básico 
+H-2 
+Locais 
+onde 
+pessoas 
+requerem 
+cuidados 
+especiais por limitações 
+Faz 
+parte 
+da 
+brigada 
+de 
+incêndio 
+toda 
+a 
+Básico 
+Intermediário
+
+--- PÁGINA 12 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+12/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+Grupo 
+Divisão 
+Descrição 
+População fixa 
+por pavimento 
+Nível de 
+Treinamento 
+Exigido 
+Nível de 
+Treinamento 
+Recomendado 
+Até 10 
+Acima 
+de 10 
+físicas ou mentais 
+população fixa 
+H-3 
+Hospital e assemelhado 
+60% 
+20% 
+Básico 
+Intermediário 
+H-4 
+Edificações 
+das 
+forças 
+armadas e policiais 
+30% 
+10% 
+Básico 
+Intermediário 
+H-5 
+Local onde a liberdade 
+das 
+pessoas 
+sofre 
+restrições 
+Faz 
+parte 
+da 
+brigada 
+de 
+incêndio 
+toda 
+a 
+população fixa 
+Básico 
+Intermediário 
+H-6 
+Clínicas 
+médicas, 
+odontológicas 
+e 
+veterinárias. 
+40% 
+10% 
+Básico 
+Intermediário 
+I 
+Indústria 
+I-1 
+Locais onde as atividades 
+exercidas e os materiais 
+utilizados 
+apresentam 
+baixo 
+potencial 
+de 
+incêndio. 
+Locais 
+com 
+carga de incêndio até 
+300MJ/m² 
+40% 
+5% 
+Básico 
+Intermediário 
+I-2 
+Locais onde as atividades 
+exercidas e os materiais 
+utilizados 
+apresentam 
+médio 
+potencial 
+de 
+incêndio. 
+Locais 
+com 
+carga de incêndio acima 
+de 300 até 1.200MJ/m 
+50% 
+7% 
+Básico 
+Intermediário 
+I-3 
+Locais onde há alto risco 
+de incêndio. Locais com 
+carga 
+de 
+incêndio 
+superior a 1.200MJ/m² 
+60% 
+10% 
+Básico 
+50% Intermediário 
+50% Avançado 
+J 
+Depósito 
+J-1 
+Depósitos 
+de 
+material 
+incombustível 
+Isento 
+J-2 
+Todo tipo de depósito 
+(baixa carga incêndio) 
+40% 
+10% 
+Básico 
+Intermediário 
+J-3 
+Todo tipo de depósito 
+(média carga incêndio) 
+50% 
+20% 
+Básico 
+Intermediário 
+J-4 
+Todo tipo de depósito 
+(alta carga incêndio) 
+60% 
+30% 
+Básico 
+50% Intermediário 
+50% Avançado 
+L 
+Explosivos 
+L-1 
+Comércio 
+Faz parte da brigada 
+de incêndio toda a 
+população fixa 
+Básico 
+L-1:Básico 
+L-2, L-3: Avançado 
+L-2 
+Indústria 
+L-3 
+Depósito
+
+--- PÁGINA 13 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+13/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+Grupo 
+Divisão 
+Descrição 
+População fixa 
+por pavimento 
+Nível de 
+Treinamento 
+Exigido 
+Nível de 
+Treinamento 
+Recomendado 
+Até 10 
+Acima 
+de 10 
+M 
+Especial 
+M-1 
+Túnel 
+Conforme nota especifica A.9 
+M-2 
+Tanques ou Parque de 
+Tanques 
+60% 
+10% 
+Básico 
+Avançado 
+M-3 
+Central de comunicação e 
+energia 
+Faz parte da 
+brigada de 
+incêndio toda a 
+população fixa 
+Básico 
+Intermediário 
+M-4 
+Propriedade 
+em 
+transformação 
+30% 
+10% 
+Básico 
+Básico 
+M-5 
+Processamento de lixo 
+M-6 
+Terra selvagem 
+M-7 
+Pátio de Containers 
+40% 
+15% 
+Básico 
+Básico 
+Notas: 
+A.1 Para a divisão A-2, todos os empregados da edificação deverão compor a brigada de 
+incêndio e, caso não haja empregados, recomenda-se que haja treinamento da população para 
+evacuação e utilização dos equipamentos e medidas preventivas da edificação. 
+A.2 Para todas as divisões de ocupação dos grupos "F" e "L" e para as divisões "E-1, E-5, E-6, 
+H-2, H-3, H-5, I-2, I-3, J-3 e J-4", será necessário o número mínimo de 02 (dois) brigadistas. 
+A.3 Para edificações utilizadas para reunião de público (Grupo F) mediante locação, onde não 
+há população fixa (para dimensionamento da brigada de incêndio) e com população prevista no 
+Processo de Segurança Contra Incêndio e Pânico (PSCIP) entre 200 (duzentas) e 1.000 (mil) 
+pessoas (obtida através do cálculo de população previsto nas IT 08, IT 37 ou IT 40), deverá 
+haver a presença de no mínimo 02 (dois) brigadistas durante a utilização da edificação, estando 
+sujeito à fiscalização do CBMMG. 
+A.3.1 Quando a população prevista no PSCIP for superior a 1.000 (mil) pessoas, deverá ser 
+previsto 01 (um) brigadista para cada 500 (quinhentas) pessoas. 
+A.4 Subestações elétricas e de telefonia remotas, em que não há presença humana permanente 
+e há monitoramento remoto das condições do equipamento e da edificação, estão dispensadas 
+de possuir brigada de incêndio, por não possuir população fixa. 
+A.5 Na divisão H-3, nos pavimentos onde houver UTIs e centros cirúrgicos, 100% da população 
+fixa desse pavimento deve fazer parte da brigada de incêndio, salvo os plantonistas e 
+funcionários temporários não considerados como parte fixa da população. 
+A.6 Na divisão C-3, quando a área do pavimento for superior a 3.000,0 m², deverá haver no 
+mínimo 01 (um) brigadista profissional por pavimento, que será contado normalmente como 
+parte do número de brigadistas exigidos para a edificação.
+
+--- PÁGINA 14 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+14/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+A.7 Na divisão F-1, quando a área (utilizada como divisão F-1) for superior a 2.000,0 m², deverá 
+haver no mínimo 01 (um) brigadista profissional por pavimento, que será contado normalmente 
+como parte do número de brigadistas exigidos para a edificação. 
+A.8 Na divisão F-6, quando a área (utilizada como divisão F-6) for superior a 750,0 m², deverá 
+haver no mínimo 01 (um) brigadista profissional por pavimento, que será contado normalmente 
+como parte do número de brigadistas exigidos para a edificação. 
+A.9 Os túneis (M-1) deverão possuir brigada de incêndio quando identificado pelo responsável 
+técnico que há elevado risco de incêndio, conforme NBR específica. 
+A.10 Nas edificações mistas, serão adotados parâmetros distintos conforme a presença de 
+compartimentação. 
+A.10.1 Não havendo compartimentação entre as ocupações, serão considerados os parâmetros 
+mais rigorosos da ocupação para toda a edificação ou espaço destinado ao uso coletivo. 
+A.10.2 Havendo compartimentação entre as ocupações, serão considerados os parâmetros de 
+cada ocupação. 
+A.10.3 Havendo uso da edificação com divisões de atividade de um mesmo grupo, calcula-se o 
+número de brigadistas separadamente para cada divisão. 
+A.11 O brigadista orgânico pode ser substituído por brigadista profissional. 
+A.11.1 Cada brigadista profissional contratado poderá substituir até 04 (quatro) brigadistas 
+orgânicos exigidos para a edificação, devendo haver no mínimo 01 (um) brigadista (profissional 
+ou orgânico) por pavimento. 
+A.11.2 O brigadista profissional será contado normalmente para atendimento do número de 
+brigadistas em eventos temporários e para fins de aplicação das notas A.6, A.7 e A.8. 
+A.12 Eventos Temporários 
+A.12.1 Eventos com classificação de risco mínimo e baixo estão isentos da medida brigada de 
+incêndio. 
+A.12.2 Eventos com população inferior a 500 (quinhentas) pessoas estão isentos da medida 
+brigada de incêndio. 
+A.12.3 Todos os locais de evento com previsão de população superior a 1.500 (mil e quinhentas) 
+pessoas deverão contar com pessoa devidamente habilitada para operar o Desfibrilador Externo 
+Automático (DEA). 
+A.12.4 Para todos os eventos em que for exigida a medida brigada de incêndio, deverá haver no 
+mínimo 2 (dois) brigadistas. 
+A.12.5 Por até 01 (um) ano a partir da entrada em vigor desta IT, em caráter transitório, o nível 
+de treinamento da brigada de incêndio para atuação em evento temporário poderá se dar, no 
+mínimo, da seguinte forma: 
+A.12.5.1 Eventos com população a partir de 500 (quinhentas) até 40.000 (quarenta mil) pessoas: 
+100% dos brigadistas com nível básico.
+
+--- PÁGINA 15 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+15/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+A.12.5.2 Eventos com população acima de 40.000 (quarenta mil) pessoas: 80% da brigada com 
+nível 
+básico 
+e 
+20% 
+da 
+brigada 
+composta 
+por 
+brigadistas 
+profissionais.
+
+--- PÁGINA 16 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+16/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+ANEXO B 
+EXEMPLOS DE CÁLCULO DE BRIGADA DE INCÊNDIO ORGÂNICA 
+B.1 Conforme condições descritas a seguir:  
+1ª Condição: Determinar população fixa da edificação, ou seja, aquela que regularmente 
+permanece na edificação. 
+Obs.: Há casos especiais para base de cálculo, o qual o número de brigadistas está descrito no  
+Anexo A. 
+Exemplo: Prédios residenciais necessitam treinar todos empregados do condomínio. 
+2ª Condição: Se a população fixa (PF) for menor que 10 pessoas:  
+Número de brigadistas por pavimento ou compartimento = [população fixa por pavimento] x [% 
+de cálculo da coluna “Até 10” do Anexo A], ou seja:  
+Número de brigadistas = PF x % de cálculo da coluna “Até 10” do Anexo A.  
+3ª Condição: Se a população fixa for maior que 10 pessoas:  
+Número de brigadistas = [(população fixa por pavimento de 10 pessoas) x (% de cálculo da 
+coluna “Até 10” do Anexo A)] + [(população fixa por pavimento menos 10 pessoas) x (% de 
+cálculo da coluna “acima de 10” do Anexo A)], ou seja:  
+Número de brigadistas = [10 x % de cálculo da coluna “Até 10” do Anexo A] + [(PF – 10) x % de 
+cálculo da coluna “acima de 10” do Anexo A], onde:  
+Número de brigadistas = Número de brigadistas por pavimento ou compartimento.  
+PF (população fixa) = Número de pessoas que permanecem regularmente na edificação, 
+considerando os turnos de trabalho.  
+Observação: 
+Portanto, para dimensionamento do número de brigadistas quando a população fixa for maior 
+que 10 pessoas, deve-se proceder conforme exemplo:  
+Exemplo 1: Edificação com ocupação de agência bancária (D-2), térrea, tendo uma população 
+fixa de 60 pessoas.  
+1º Passo: Aplicar a porcentagem da coluna “Até 10” do Anexo A para as primeiras 10 pessoas, 
+ou seja, 10 x 40% = 4.  
+2º Passo: Em seguida pegaremos a população fixa e subtraímos de 10 pessoas, ou seja, 60–10 
+= 50 pessoas.  
+3º Passo: Com o resultado obtido no 2º passo, multiplicamos este valor de porcentagem da 
+coluna “Acima de 10” do Anexo A, ou seja, 50 x 10% = 5.  
+4º Passo: Portanto, o número de brigadistas será a soma do valor obtido no 1º passo com o 
+valor obtido no 3º passo, ou seja, 4 + 5 = 9.  
+Número de brigadistas = [10 x 40%] + [(60 – 10) x 10%]  
+Número de brigadistas = 4 + [50 x 10%]  
+Número de brigadistas = 4 + 5 = 9 brigadistas  
+Para os números mínimos de brigadistas, deve-se prever os turnos, a natureza de trabalho e os 
+eventuais afastamentos.
+
+--- PÁGINA 17 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+17/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+Sempre que o resultado obtido do cálculo do número de brigadistas por pavimento for 
+fracionário, deve-se arredondá-lo para número inteiro superior.  
+Exemplo 2: Loja: População fixa = 9 pessoas  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo da coluna “Até 
+10” do Anexo A]  
+Nº de brigadistas por pavimento = (9 x 40%) = 3,6  
+Nº de brigadistas por pavimento = 4 pessoas 
+Exemplo 3: planta com duas edificações, sendo a primeira uma área de escritórios com três 
+pavimentos e 19 pessoas por pavimento e a segunda uma indústria de médio potencial de risco 
+com um pavimento e 116 pessoas:  
+Edificações com pavimentos compartimentados ou riscos isolados, calcula-se o número de 
+brigadistas separadamente por grupo de ocupação:  
+Área administrativa (grupo D) 
+População fixa = 19 pessoas por pavimento (três pavimentos)  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo do Anexo A]  
+Nº de brigadistas por pavimento = [10 x 30%] + [(19-10) x 10%] = 3 + 0,9 = 3,9  
+Nº de brigadistas por pavimento = 4 pessoas 
+Área industrial (grupo I) 
+População fixa = 116 pessoas  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo do Anexo A]  
+Nº de brigadistas por pavimento = [10 x 50%] + [(116 – 10) x 7%] = 5 + [106 x 7%] = 5 + 7,42 = 
+12,42  
+Nº de brigadistas por pavimento = 13 pessoas 
+Nº total de brigadistas (área administrativa + área industrial)  
+No total de brigadistas = (4 x 3) + 13 = 12 + 13 = 25  
+No total de brigadistas = 25 pessoas  
+Exemplo 4: Edificação mista, sendo uma das ocupações área de escritórios com três 
+pavimentos e 19 pessoas por pavimento e a segunda ocupação uma indústria de médio 
+potencial de risco com um pavimento e 116 pessoas: 
+Edificações sem compartimentação dos pavimentos e sem isolamento dos riscos, calcula-se o 
+número de brigadistas por meio do grupo de ocupação de maior risco:  
+No caso utiliza-se o grupo da área industrial  
+Nº de brigadistas por pavimento = [população fixa por pavimento] x [% de cálculo do Anexo A]  
+Área administrativa (grupo D) 
+População fixa = 19 pessoas por pavimento (três pavimentos)  
+Nº de brigadistas por pavimento = [10 x 50%] + [(19-10) x 7%] = 5 + 9 x 7% = 5 + 0,63 = 5,63  
+Nº de brigadistas por pavimento = 6 pessoas
+
+--- PÁGINA 18 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+18/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+Área Industrial (grupo I) 
+População fixa = 116 pessoas  
+Nº de brigadistas por pavimento = [10 x 50%] + [(116 – 10) x 7%] = 5 + 106 x 7% = 5 + 7,42 = 
+12,42  
+Nº de brigadistas por pavimento = 13 pessoas  
+Nº total de brigadistas (área administrativa + área industrial)  
+No total de brigadistas = (6 x 3) + 13 = 18 + 13 = 31  
+Nº total de brigadistas = 31 pessoas 
+A composição da brigada de incêndio deve levar em conta a participação de pessoas de todos os 
+setores.
+
+--- PÁGINA 19 ---
+CBMMG IT 12 – Brigada de Incêndio 
+ 
+ 
+3ª edição 
+19/19 
+Alterada pela portaria n. 60, de 09out2020, publicada no DOEMG n. 209, ano 128, p. 6. 
+ 
+ANEXO C 
+VISTORIA DE LIBERAÇÃO E FISCALIZAÇÃO 
+C.1 Para a vistoria de liberação, o Corpo de Bombeiros exigirá a apresentação dos seguintes 
+documentos:  
+a) Atestado de formação de brigada de incêndio conforme previsto em Instrução Técnica 
+específica; ou  
+b) Certificados dos brigadistas. 
+C.1.1 Na vistoria de fiscalização, poderá ser exigida, além dos documentos previstos em C.1, a 
+relação nominal e atualizada de brigadistas.  
+C.2 A edificação não utilizada será dispensada de apresentação dos documentos supracitados.  
+C.3 Na edificação que não possua população fixa definida, nos termos da Nota A.3, deverão ser 
+mantidos no local do evento os documentos previstos no item C.1 para apresentação ao 
+CBMMG em caso de fiscalização. 
+C.4 Quando for exigido brigadista profissional para a edificação/espaço destinado a uso coletivo, 
+deverá haver registro no campo “observações” do quadro resumo de informações da brigada 
+de incêndio previsto em Instrução Técnica específica.  
+C.4.1 Em edificações/espaços destinados a uso coletivo sem uso, o atendimento dessa 
+exigência será verificado oportunamente pelo CBMMG em vistoria de fiscalização.

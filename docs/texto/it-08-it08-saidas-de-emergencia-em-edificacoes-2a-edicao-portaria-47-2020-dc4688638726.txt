@@ -1,0 +1,2447 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 08 
+2ª edição 
+SAÍDAS DE EMERGÊNCIA EM 
+EDIFICAÇÕES 
+ 
+Aprovada pela portaria n. 26, de 31jan2017, publicada no DOEMG n.24, ano 125, p. 33. 
+Alterada pela portaria n.30, de 17jul2017, publicada no DOEMG n. 45, ano 125, p.27. 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+SUMÁRIO 
+1– Objetivo  
+2– Aplicação  
+3– Referências 
+4– Definições  
+5– Procedimentos 
+ 
+ANEXOS 
+Tabelas
+
+--- PÁGINA 2 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+2/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+1 OBJETIVO 
+1.1 Estabelecer critérios mínimos necessários para o dimensionamento das “Saídas de 
+Emergência em Edificações”, para que sua população possa abandoná-las, em caso de incêndio 
+ou pânico, protegida em sua integridade física e permitir o acesso de guarnições de bombeiros 
+para o combate ao fogo ou retirada de pessoas. 
+1.2 Padronizar critérios para análise de projetos de Segurança Contra Incêndio e pânico e 
+vistoria de edificações em Minas Gerais. 
+1.3 Orientar os profissionais que atuam na elaboração de projetos e execução de obras 
+submetidas à aprovação do Corpo de Bombeiros Militar de Minas Gerais. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica (IT) se aplica a todas as edificações, podendo, entretanto, servir 
+como exemplo de situação ideal que deve ser buscada em adaptações de edificações 
+existentes, consideradas suas devidaslimitações. 
+2.2 Esta Instrução Técnica não seaplica: 
+a) às áreas externas descobertas não destinadas a saídas de emergência de edificações; 
+b) às unidades autônomas de edificações residenciais; 
+c) aos equipamentos industriais e suas áreas de inspeção e manutenção, plataformas, torres de 
+comunicação, silos, tanques esimilares; 
+d) às escadas do tipo marinheiro, escadas móveis e outras de acesso exclusivo a áreas de 
+manutenção onde não haja permanência de pessoas. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 9050 – Adequação das edificações e do imobiliário urbano à pessoa deficiente. 
+NBR 9077 – Saídas de Emergência em Edifícios. 
+NBR 11742 – Porta corta-fogo para saída de emergência. 
+NBR 11785 – Barra antipânico – Requisitos. 
+NBR 13434 – Sinalização de segurança contra incêndio e pânico – 3 partes. ABNT NBR 10898 –
+
+--- PÁGINA 3 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+3/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+Sistemas de iluminação de emergência. 
+NBR 13768 – Acessórios destinados a Porta corta-fogo para saída de emergência – Requisitos. 
+NBR 14718 – Guarda-corpos para edificação. 
+NBR 17240 – Sistemas de detecção e alarme de incêndio – Projeto, instalação, 
+comissionamento e manutenção de sistemas de detecção e alarme de incêndio – Requisitos. 
+NBR NM 207 – Elevadores elétricos de passageiros – Requisitos de segurança para construção 
+einstalação. 
+BS 5588 – Fire precaution in the design and construction of buildings. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica aplicam-se as definições constantes nas referências 
+normativas e IT 02 (Terminologia de Proteção Contra Incêndio e Pânico). 
+5 PROCEDIMENTOS 
+5.1 Classificação das edificações 
+5.1.1 Para os efeitos desta Instrução Técnica, as edificações sãoclassificadas: 
+a) quanto à ocupação, de acordo com o anexo do Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais; 
+b) quanto à altura, dimensões em planta e características construtivas, de acordo, 
+respectivamente, com as Tabelas 1, 2 e 3 desta InstruçãoTécnica. 
+5.2 Componentes da saída de emergência 
+5.2.1 A saída de emergência compreende o seguinte: 
+a) acesso; 
+b) rotas de saídas horizontais, quando houver, e respectivas portas ou ao espaço livre exterior, 
+nas edificaçõestérreas; 
+c) escadas ou rampas; 
+d) descarga; 
+e) elevadores de emergência. 
+5.3 Cálculo da população 
+5.3.1 As saídas de emergência são dimensionadas em função da população da edificação. 
+5.3.2 O cálculo da população de cada pavimento da edificação é de acordo com os coeficientes 
+da Tabela 4, considerando sua ocupação, dada no anexo do Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+5.3.3 Devem ser incluídas nas áreas de pavimento exclusivamente para o cálculo da população: 
+a) as áreas de terraços, sacadas e assemelhadas, excetuadas aquelas pertencentes às
+
+--- PÁGINA 4 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+4/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+edificações dos grupos de ocupação A, B e H; 
+b) as áreas totais cobertas das edificações F-3 e F-6 inclusive canchas e assemelhados; 
+c) as áreas de escadas, rampas e assemelhados, no caso de edificações dos grupos F-3, F-6 e 
+F-7, quando em razão de sua disposição em planta, esses lugares puderem, eventualmente, ser 
+utilizados como arquibancadas. 
+5.3.4 Exclusivamente para o cálculo da população, as áreas de sanitários, corredores e 
+elevadores nas ocupações C, D, E e F, são excluídas das áreas depavimento. 
+5.4 Dimensionamento das saídas de emergência 
+5.4.1 Largura dassaídas 
+5.4.1.1 A largura das saídas deve ser dimensionada em função do número de pessoas que por 
+elas deva transitar, observando os seguintes critérios: 
+a) os acessos são dimensionados em função dos pavimentos que sirvam à população; 
+b) as escadas, rampas e descargas são dimensionadas em função do pavimento de maior 
+população, o qual determinam as larguras mínimas para os lanços correspondentes aos demais 
+pavimentos, considerando-se o sentido dasaída. 
+5.4.1.2 A largura das saídas, isto é, dos acessos, escadas, descargas, e outros, é dada pela 
+seguinte fórmula: 
+ 
+Onde: 
+N = Número de unidades de passagem, arredondado para número inteiro maior. 
+P = População, conforme coeficiente da tabela 4 do anexo e critérios das seções 5.3 e 5.4.1.1. 
+C = Capacidade da unidade de passagem conforme tabela 4 do anexo. 
+5.4.2 Larguras mínimas a serem adotadas 
+5.4.2.1 As larguras mínimas das saídas de emergência, em qualquer caso, devem ser as 
+seguintes: 
+a) 1,10 m, correspondente a duas unidades de passagem de 55,0 cm, para as ocupações em 
+geral, ressalvando o disposto a seguir; 
+b) 1,65 m, correspondente a três unidades de passagem de 55,0 cm, para as escadas, os 
+acessos (corredores e passagens) e descarga, nas ocupações do grupo H, divisão H-2 e H-3; 
+c) 1,65 m, correspondente a três unidades de passagem de 55,0 cm, para as rampas, acessos 
+(corredores e passagens) e descarga, nas ocupações do grupo H, divisão H-2; 
+d) 2,20 m, correspondente a quatro unidades de passagem de 55,0 cm, para as rampas, 
+acessos às rampas (corredores e passagens) e descarga das rampas, nas ocupações do grupo 
+H, divisão H-3.
+
+--- PÁGINA 5 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+5/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.4.3 Exigências adicionais sobre largura desaídas 
+5.4.3.1 A largura das saídas deve ser medida em sua parte mais estreita, não sendo admitidas 
+saliências de alizares, pilares e outros, com dimensões maiores que as indicadas na Figura 1, e 
+estas somente em saídas com largura superior a 1,10m. 
+ 
+Figura 1 – Medida da largura em corredores e passagens 
+ 
+5.4.3.2 As portas que abrem para dentro de rotas de saída, em ângulo de 180º, em seu 
+movimento de abrir, no sentido do trânsito de saída, não podem diminuir a largura efetiva destas 
+em valor menor que a metade (ver figura 2), sempre mantendo uma largura mínima livre de 1,10 
+m para as ocupações em geral e de 1,65 m para as divisões H-2 e H-3. 
+5.4.3.3 As portas que abrem no sentido do trânsito de saída, para dentro de rotas de saída, em 
+ângulo de 90º, devem ficar em recessos de paredes, de forma a não reduzir a largura efetiva em 
+valor maior que 10,0 cm (ver figura 2). 
+ 
+ 
+Figura 2 – Abertura das portas no sentido do trânsito de saída. 
+5.5 Acessos 
+5.5.1 Generalidades 
+5.5.1.1 Os acessos devem satisfazer às seguintes condições: 
+a) permitir o escoamento fácil de todos os ocupantes da edificação; 
+b) permanecer desobstruídos em todos os pavimentos; 
+c) ter larguras de acordo com o estabelecido no item 5.4 desta IT; 
+d) ter pé direito mínimo de 2,50 m, com exceção de obstáculos representados por vigas, vergas
+
+--- PÁGINA 6 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+6/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+de portas, e outros, cuja altura mínima livre deve ser de 2,0m; 
+e) serem sinalizados com indicação clara do sentido da saída, de acordo com o estabelecido na 
+IT 15 (Sinalização de Emergência) e iluminados, de acordo com o estabelecido na IT 13 
+(Iluminação de Emergência). 
+5.5.1.2 Os acessos devem permanecer livres de quaisquer obstáculos, tais como móveis, 
+divisórias móveis, locais para exposição de mercadorias, e outros, de forma permanente, mesmo 
+quando o prédio esteja supostamente fora de uso. 
+5.5.2 Distâncias máximas a serempercorridas 
+5.5.2.1 As distâncias máximas a serem percorridas para atingir um local seguro (espaço livre 
+exterior, área de refúgio, escada comum de saída de emergência, protegida ou à prova de 
+fumaça), tendo em vista o risco à vida humana decorrente do fogo e da fumaça, devem 
+considerar: 
+a) o acréscimo de risco quando a fuga é possível em apenas um sentido; 
+b) o acréscimo de risco em função das características construtivas da edificação; 
+c) a redução de risco em caso de proteção por chuveiros automáticos ou detectores; 
+d) a redução de risco pela facilidade de saídas em edificações térreas. 
+5.5.2.2 As distâncias máximas a serem percorridas para atingir as portas de acesso às 
+edificações e o acesso às escadas ou às portas das escadas (nos pavimentos) constam da 
+tabela 5, devendo ser contadas a partir do ponto mais distante da edificação, com exceção dos 
+edifícios de apartamentos em geral (A-2), que deve ser medida a partir da porta de entrada das 
+unidades autônomas. 
+5.5.2.3 No caso das distâncias máximas a percorrer para as rotas de fuga que não forem 
+definidas no projeto arquitetônico, como, por exemplo, escritório de plano espacial aberto e 
+galpão sem o arranjo físico interno (leiaute), devem ser consideradas as distâncias diretas 
+comparadas aos limites da tabela 5, nota “a”, reduzidas em 30% (trinta porcento). 
+5.5.2.4 Para uso da tabela 5 devem ser consideradas as características construtivas da 
+edificação, constante da tabela 3, edificações classes X, Y e Z. 
+5.5.2.5 Em edificações térreas, pode ser considerada como saída, para efeito da distância 
+máxima a ser percorrida, qualquer abertura, sem grades fixas, com peitoril, tanto interna como 
+externamente, com altura máxima de 1,20 m, vão livre com área mínima de 1,20 m² e nenhuma 
+dimensão inferior a 1,0m. 
+5.5.3 Número de saídas nos pavimentos 
+5.5.3.1 O número de saídas exigido para os diversos tipos de ocupação, em função da altura, 
+dimensões em planta e características construtivas de cada edificação, encontra- se na tabela 6. 
+5.5.3.2 Quando houver a exigência de 2 (duas) ou mais saídas, a distância mínima entre elas 
+deve ser de 10,0 m, exceto quando: 
+a) as escadas estiverem na área central do pavimento e com acessos em lados opostos; ou 
+b) a edificação não possuir largura de fachada suficiente para as saídas no térreo, caso em que 
+as portas deverão ser dispostas em extremidades ou lados opostos. 
+5.5.3.3 Havendo necessidade de acrescer escadas, estas devem ser do tipo que a exigida por
+
+--- PÁGINA 7 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+7/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+esta Instrução Técnica (Tabela 6). 
+5.5.4 
+Portas de saídas de emergência 
+5.5.4.1 As portas das rotas de saída e aquelas das salas com capacidade acima de 50 pessoas, 
+em comunicação com os acessos e descargas devem abrir no sentido do trânsito de saída (ver 
+figura 2). 
+5.5.4.2 Nas edificações do grupo A (divisão A-1 e A-2), as portas de acesso ao logradouro 
+público e que não se comunicam diretamente com as caixas de escada estão isentas da 
+exigência do item 5.5.4.1 desta IT. 
+5.5.4.3 A largura, vão livre ou “luz” das portas, comuns ou corta-fogo, utilizadas nas rotas de 
+saída, deve ser dimensionada como estabelecido em 5.4, admitindo-se asdimensões mínimas de 
+luz especificadas abaixo, considerando o resultado do cálculo das unidades de passagem: 
+a) 0,80m valendo por uma unidade de passagem, com N ≤1; 
+b) 1,0 m, valendo por duas unidades de passagem, com 1 <N ≤2; 
+c) 1,5 m, em duas folhas, valendo por 3 unidades de passagem, com 2 <N ≤3; 
+d) 2,0 m, em duas folhas, valendo por 4 unidades de passagem, com 3 <N≤4. 
+Nota: 
+1) Porta com dimensão maior ou igual a 2,20 m, exige-se coluna central. 
+2) Porta com dimensão maior que 1,20 m deverá ter duas folhas. 
+5.5.4.4 As portas das antecâmaras das escadas à prova de fumaça e das paredes corta-fogo 
+devem ser do tipo corta-fogo (PCF), obedecendo a NBR 11742, no que lhe for aplicável. 
+5.5.4.5 As portas das antecâmaras, escadas e outros, devem ser providas de dispositivos 
+mecânicos e automáticos, de modo a permanecerem fechadas, porém, destrancadas, no sentido 
+do fluxo de saída, sendo admissível que se mantenham abertas, desde que disponham de 
+dispositivo de fechamento, quando necessário, conforme estabelecido na NBR11742. 
+5.5.4.6 Se as portas dividem corredores que constituem rotas de saída, devem: 
+a) ter condições de reter a fumaça, ou seja, devem ser corta-fogo e a prova de fumaça conforme 
+estabelecido na NBR 11742 e ser providas de visor transparente de área mínima de 0,07 m², 
+com altura mínima de 25,0 cm; 
+b) abrir no sentido do fluxo de saída; 
+c) abrir nos dois sentidos, caso o corredor possibilite saída nos dois sentidos. 
+5.5.4.7 Para as ocupações do grupo F com capacidade acima de 200 pessoas será obrigatória a 
+instalação de barra antipânico nas portas de saídas de emergência, conforme NBR 11785, das 
+salas das rotas de saída, das portas de comunicação com os acessos às escadas e descargas. 
+5.5.4.7.1 As ocupações de Divisão F-2, térreas (com ou sem mezaninos), com área máxima 
+construída de 1.500 m², podem ser dispensadas da exigência anterior, desde que haja placa 
+indicativa, conforme IT 15, de que as portas permanecerão abertas durante a realização dos 
+eventos, atentando para o item 5.5.4.1 desta IT.
+
+--- PÁGINA 8 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+8/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.5.4.8 Nas rotas de fuga não se admite portas de enrolar ou de correr, exceto quando esta for 
+utilizada somente como porta de segurança da edificação (em comunicação com logradouro), 
+devendo permanecer aberta durante todo o horário de funcionamento, desde que haja placa 
+indicativa, conforme IT15, de que as portas permanecerão abertas durante o funcionamento, 
+atentando para o item 5.5.4.1 desta IT. 
+5.5.4.9 É vedado o uso de peças plásticas em fechaduras, espelhos, maçanetas, dobradiças e 
+outros, em portas de: 
+a) rotas de saídas; 
+b) entrada em unidades autônomas; e 
+c) salas com capacidade acima de 50 (cinquenta) pessoas. 
+5.5.4.10 A colocação de fechaduras nas portas do pavimento de descarga, onde houver 
+necessidade de se garantir segurança aos usuários da edificação contra invasão de intrusos, é 
+permitida, a critério do responsável técnico, desde que seja possível a abertura pelo lado interno, 
+sem necessidade de chave, admitindo-se que a abertura pelo lado externo seja feita apenas por 
+meio de chave, dispensando-se maçanetas, etc. 
+5.5.4.10.1 A colocação de fechaduras nas portas de rota de fuga deve ser precedida de 
+avaliação criteriosa do responsável técnico pela elaboração do projeto, de forma a avaliar não 
+somente a saída dos usuários da edificação, mas a entrada de guarnições do Corpo de 
+Bombeiros Militar para ações de salvamento e combate a incêndio. 
+5.5.4.10.2 Em situação de emergência, as chaves para acesso à edificação pelo lado externo por 
+guarnições do Corpo de Bombeiros Militar deverão estar disponíveis na entrada principal da 
+edificação, preferencialmente, com integrante da brigada de incêndio (quando houver). 
+5.5.4.10.3 Deverá constar nota em planta prevendo a instalação de fechaduras nas portas de 
+saída de emergência e durante as vistorias deverá ser verificada a disponibilidade de chaves 
+para abertura pelo lado externo. 
+5.5.4.10.4 Não será admitida a instalação de fechaduras nas portas das caixas de escada e nas 
+portas dos acessos das rotas de fuga dos pavimentos das divisões de ocupação E- 5, E-6, H-2, 
+H-3, F-2, F-3, F-6 e em eventos temporários, que impeçam a entrada em sentido contrário ao 
+fluxo de saída dos usuários. Nestes casos será admitida somente na porta de descarga ou porta 
+de segurança da edificação (em comunicação com logradouro). 
+5.5.4.10.5 Havendo motivo justificado, poderão ser propostas soluções alternativas, como, por 
+exemplo, o destravamento automático em situação de emergência, que permitam o uso de 
+fechaduras sem comprometer o acesso à edificação, desde que submetidas a avaliação do 
+chefe do serviço de segurança contra incêndio e pânico (SSCIP) da Unidade. 
+5.6 Rampas 
+5.6.1 Obrigatoriedade 
+5.6.1.1 O uso de rampas é obrigatório nos seguintes casos: 
+a) para unir dois pavimentos de diferentes níveis em acesso a áreas de refúgio em edificações 
+com ocupações dos grupos H-2 e H-3; 
+b) na descarga e acesso de elevadores de emergência; 
+c) quando a altura a ser vencida não permitir o dimensionamento equilibrado dos degraus de
+
+--- PÁGINA 9 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+9/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+uma escada; 
+d) para unir o nível externo ao nível do saguão térreo das edificações em que houver usuários 
+de cadeiras de rodas (conforme NBR 9050). 
+5.6.2 Condições deatendimento 
+5.6.2.1 O dimensionamento das rampas deve obedecer ao estabelecido em 5.4. 
+5.6.2.2 As rampas não podem terminar em degraus ou soleiras, devendo ser precedidas e 
+sucedidas sempre por patamares planos. 
+5.6.2.3 Os patamares das rampas devem ser sempre em nível, tendo comprimento mínimo de 
+1,10 m, medidos na direção do trânsito, sendo obrigatórios sempre que houver mudança de 
+direção ou quando a altura a ser vencida ultrapassar 3,70 m. 
+5.6.2.4 As rampas podem suceder um lanço de escada, no sentido descendente de saída, mas 
+não podem precedê-lo. 
+5.6.2.4.1 No caso de edificações dos grupos H-2 e H-3 as rampas não poderão suceder ao lanço 
+de escada evice-versa. 
+5.6.2.5 Não é permitida a colocação de portas em rampas; estas devem estar situadas sempre 
+em patamares planos, com largura não inferior à da folha da porta de cada lado do vão. 
+5.6.2.6 O piso das rampas deve apresentar condições antiderrapante e permanecerem 
+antiderrapante com o uso. 
+5.6.2.7 As rampas devem ser dotadas de guardas e corrimãos de forma análoga ao especificado 
+em 5.8. 
+5.6.2.8 As exigências de sinalização de emergência, iluminação de emergência, ausência de 
+obstáculos, e outros, dos acessos aplicam-se, com as devidas alterações, às rampas. 
+5.6.2.9 Devem atender as condições estabelecidas nas alíneas “a”, “b”, “c”, “d”, “e”, “f”, “g”, “h” e 
+“i” do item 5.7.1 destaIT. 
+5.6.2.10 Devem ser classificadas, a exemplo das escadas, como NE, EP, PF, seguindo para isso 
+as condições específicas e cada uma delas estabelecidas nos itens 5.7.7, 5.7.8, 5.7.9, 5.7.10, 
+5.7.11, 5.7.12 e 5.7.13 desta IT. 
+5.6.3 Declividade 
+5.6.3.1 A declividade máxima das rampas externas à edificação deve ser de 10% (1:10). 
+5.6.3.2 As declividades máximas das rampas internas devem ser de: 
+a) 10%, isto é, 1:10, nas edificações de ocupações: A, B, E, F eH; 
+b) 12,5%, isto é, 1:8, quando o sentido de saída é na descida, nas edificações de ocupações D e 
+G; sendo a saída em rampa ascendente, a inclinação máxima é de10%; 
+c) 12,5%, isto é, 1:8 nas ocupações C, I e J. 
+5.6.3.3 Quando, em ocupações em que sejam admitidas rampas de mais de 10% em ambos os 
+sentidos, o sentido da saída for ascendente, deve ser dado um acréscimo de 25% na largura 
+calculada conforme 5.4.
+
+--- PÁGINA 10 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+10/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.6.3.4 Pisos com declividade inferior ou igual a 5% (1:20), não são considerados como rampas. 
+5.7 Escadas 
+5.7.1 Generalidades 
+5.7.1.1 Em qualquer edificação, os pavimentos sem saída em nível para o espaço livre exterior 
+devem ser dotados de escadas, enclausuradas ou não, as quais devem: 
+a) ser constituída com material estrutural e de compartimentação incombustível; 
+b) oferecer resistência ao fogo nos elementos estruturais além da incombustibilidade, conforme a 
+IT 06 (Segurança Estrutural nas Edificações); 
+c) ser dotadas de guarda-corpos em seus lados abertos conforme item 5.8 desta IT; 
+d) ser dotadas de corrimãos em todos os lados; 
+e) atender a todos os pavimentos, acima e abaixo da descarga, mas terminando 
+obrigatoriamente no piso da descarga, não podendo ter comunicação direta com outro lanço na 
+mesma prumada (ver Figura 3), devendo ter compartimentação, conforme a IT 07 
+(Compartimentação Horizontal e Compartimentação Vertical) na divisão entre os lanços 
+ascendentes e descendentes em relação ao piso de descarga, exceto para escadas tipo NE 
+(escada comum), onde devem ser acrescidas de sinalização iluminação de emergência e de 
+sinalização de balizamento (IT 13 e IT 15), indicando a rota de fuga e descarga; 
+ 
+Figura 3 – Segmentação das escadas no piso da descarga 
+f) ter os pisos com condições antiderrapantes e permanecerem antiderrapantes com o uso; 
+g) quando houver exigência de duas ou mais escadas de emergência e estas ocuparem a 
+mesma caixa de escada (volume), não será aceita comunicação entre si, devendo haver 
+compartimentação entre ambas, de acordo com a IT 07. Quando houver exigência de uma 
+escada e for utilizado o recurso arquitetônico de construir duas escadas em um único corpo, 
+estas serão consideradas como uma única escada, quanto aos critérios de acesso, ventilação 
+eiluminação; 
+h) atender ao item 5.5.1.2 desta IT; 
+i) ter pé direito mínimo de 2,0 m (ver Figura 4), medido verticalmente da parte inferior do teto ou 
+similar a uma linha que una as pontas dos bocéis ou quinas dos degraus.
+
+--- PÁGINA 11 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+11/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+Figura 4 – Altura mínima de pé direito 
+5.7.2 Largura 
+5.7.2.1 As larguras das escadas devem atender aos seguintes requisitos: 
+a) ser proporcionais ao número de pessoas que por elas devam transitar em caso de 
+emergência, conforme 5.4; 
+b) ser medidas no ponto mais estreito da escada ou patamar, excluindo os corrimãos (mas não 
+os guarda-corpos ou balaustradas), que se podem projetar até 10,0 cm de cada lado, sem 
+obrigatoriedade de aumento na largura das escadas; 
+c) ter, quando se desenvolver em lanços paralelos, espaço mínimo de 10,0 cm entre lanços, 
+para permitir localização de guarda-corpo ou fixação do corrimão. 
+5.7.3 Dimensionamento de degraus e patamares 
+5.7.3.1Os degrausdevem: 
+a) ter altura h (ver figura 5) compreendida entre 16,0 cm e 18,0 cm, com tolerância de 0,5 cm; 
+b) ter largura b (ver figura 5) dimensionada pela fórmula de Blondel: 
+ 
+ 
+Figura 5 – Altura e largura dos degraus (escada com ou sem bocel) 
+c) ser balanceados quando o lanço da escada for misto (escada em leque, com degraus retos e 
+ingrauxidos), caso em que a medida do degrau (largura do degrau “b”) será feita segundo a linha 
+de percurso (a 55,0 cm) e a parte mais estreita destes degraus ingrauxidos não tenham menos 
+de 15,0 cm (ver figura6);
+
+--- PÁGINA 12 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+12/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+Figura 6 – Escada com lanço misto e degraus balanceados 
+d) ter, num mesmo lanço, larguras e alturas iguais e, em lanços sucessivos de uma mesma 
+escada, diferenças entre as alturas de degraus de, no máximo 0,5 cm; 
+e) ter bocel (nariz) de 1,5 cm, no mínimo, ou, quando este inexistir, balanço da quina do degrau 
+sobre o imediatamente inferior com este mesmo valor mínimo (ver figura 5). 
+5.7.3.2 O lanço mínimo deve ser de três degraus e o lanço máximo, entre dois patamares 
+consecutivos, não deve ultrapassar 3,70 m de altura. 
+5.7.3.3 O comprimento dos patamares deve ser (ver figura7): 
+a) dado pela fórmula: 
+ 
+Onde n é um número inteiro (1, 2 ou 3), quando se tratar de escada reta, medido na direção do 
+trânsito; 
+b) no mínimo, igual à largura da escada quando há mudança de direção da escada sem degraus 
+ingrauxidos, não se aplicando neste caso, a fórmula anterior. 
+5.7.3.4 Em ambos os lados de vão da porta, deve haver patamares com comprimento mínimo 
+igual à largura da folha da porta. 
+ 
+Figura 7 – Lanço mínimo e comprimento dos patamares 
+5.7.4 Caixas das escadas 
+5.7.4.1 As paredes das caixas de escadas, das guardas, dos acessos e das descargas devem 
+ter acabamento liso ou com texturas que não sejam abrasivas. 
+5.7.4.2 As caixas de escadas não podem ser utilizadas como depósitos, mesmo por curto 
+espaço de tempo, nem para a localização de quaisquer móveis ou equipamentos, exceto os 
+expressamente previstos nesta Instrução Técnica e em Instrução Técnica específica.
+
+--- PÁGINA 13 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+13/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.7.4.3 Nas caixas de escadas, não podem existir aberturas para tubulações de lixo, para 
+passagem para rede elétrica, centros de distribuição elétrica, armários para medidores de gás, 
+dutos e assemelhados, excetuadas as escadas não enclausuradas em edificações com altura 
+menor ou igual a 12,0 m. 
+5.7.4.4 Os pontos de fixação das escadas metálicas na caixa de escada devem possuir Tempo 
+Requerido de Resistência ao Fogo (TRRF) de 120 minutos. 
+5.7.5 Escadas de acesso restrito 
+5.7.5.1 As escadas em leque, em espiral e de lanços retos, que atendam aos mezaninos e áreas 
+privativas de qualquer edificação, desde que a população seja menor ou igual a 20 pessoas 
+consideradas como escadas de acesso restrito, devem: 
+a) ter altura da escada não superior a 3,70 m; 
+b) ter a largura mínima de 80,0 cm; 
+c) ter os pisos em condições antiderrapantes e permaneçam antiderrapantes com o uso; 
+d) ser dotadas de corrimãos, atendendo ao prescrito em 5.8, bastando, porém, apenas um 
+corrimão nas escadas com até 1,10 m de largura e dispensando-se corrimãos intermediários; 
+e) ser dotadas de guardas em seus lados abertos, conforme 5.8; 
+f) atender ao prescrito em 5.7.3 (dimensionamento dos degraus, conforme lei de Blondel, 
+balanceamento e outros), admitindo-se, porém, nas escadas mistas ou curvas (escadas em 
+leque ou espiral) que a parte mais estreita dos degraus ingrauxidos chegue a um mínimo de 7,0 
+cm e dispensando-se à aplicação da fórmula dos patamares (5.7.3.3), bastando que o patamar 
+tenha um mínimo de 80,0 cm; 
+g) as escadas de acesso restrito podem ser constituídas de material combustível. 
+5.7.5.2 Admite-se nas escadas de acesso restrito, as seguintes alturas máximas h dos degraus, 
+respeitando-se, porém, sempre a lei de Blondel: 
+a) ocupações A até G: h = 20,0 cm; 
+b) ocupações H: h = 19,0 cm; 
+c) ocupações I até M: h = 23,0 cm. 
+5.7.6 Escadas em edificações em construção 
+5.7.6.1 Em edificações em construção, as escadas devem ser construídas concomitantemente 
+com a execução da estrutura, permitindo a fácil evacuação da obra e o acesso dos bombeiros. 
+5.7.7 Escadas não enclausuradas ou escada comum 
+5.7.7.1 A escada comum (NE) deve atender aos requisitos de 5.7.1 a 5.7.4. 
+5.7.7.2 Nas edificações cuja somatória da população a ser atendida por escada seja igual ou 
+inferior a 50 (cinquenta) pessoas será admitido qualquer tipo de escada de emergência, com 
+largura de 90,0 cm e degraus ingrauxidos, respeitadas as demais exigências para escadas de 
+saídas de emergência, quando se enquadrar em uma das seguintes situações: 
+a) pertencerem ao grupo de ocupação A, B, D, G e J-1 com altura menor ou igual a 6,0 m;
+
+--- PÁGINA 14 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+14/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+b) a escada for exigida como segunda saída, desde que haja outra escada que atenda a toda 
+população que não pode ultrapassar 50 (cinquenta) pessoas, nos mesmos grupos de ocupação 
+citados na alínea“a”. 
+5.7.7.3 Nas edificações com altura menor ou igual a 12,0 m as escadas não enclausuradas 
+utilizadas para saídas de emergências poderão ser construídas com lanços totalmente curvos, 
+exceto no caso de ocupações da divisão F-3 (Centro Esportivo e de Exibição). 
+5.7.7.3.1 Os lanços curvos deverão ser constituídos de degraus ingrauxidos iguais, as linhas de 
+bocéis convergindo em um ponto (centro da circunferência), havendo, pois bomba ou escaparate 
+com diâmetro mínimo de 0,97 m (escada com degraus b=32,0 cm) a 1,375 m (para b=27,0 cm), 
+ver figura 8. 
+ 
+Figura 8 – Escada NE curva admissível como saída de emergência 
+5.7.7.3.2 A largura das escadas deverá ser entre 1,10 m e 1,65 m, sem corrimão intermediário. 
+5.7.8 Escadas enclausuradas protegidas (EP) 
+5.7.8.1 As escadas enclausuradas protegidas (ver figura 9) devem atender aos requisitos de 
+5.7.1 a 5.7.4, e: 
+a) ter suas caixas isoladas por paredes resistentes a 2 (duas) horas de fogo, no mínimo; 
+b) ter as portas de acesso a esta caixa de escada do tipo Corta-fogo (PCF), com resistência de 
+60 (sessenta) minutos de fogo; 
+c) ser dotadas, em todos os pavimentos (exceto no da descarga, onde isto é facultativo), de 
+janelas abrindo para o espaço livre exterior, atendendo ao previsto em 5.7.8.2; 
+d) ser dotadas de janela que permita a ventilação em seu término superior, com área mínima de 
+0,80 m², devendo estar localizada na parede junto ao teto ou no máximo a 15,0 cm deste; 
+e) os pavimentos de garagem localizados acima do nível de descarga podem ser dispensados 
+de ventilação conforme alínea “c” de 5.7.8.1, 5.7.8.2 e 5.7.8.3, limitado a dois pavimentos; 
+f) não são admitidos lanços mistos nas escadas EP de edificações que contenham ocupações 
+dos grupos F e/ou H.
+
+--- PÁGINA 15 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+15/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+Figura 9 – Escada enclausurada protegida, caso normal 5.7.8.1. 
+ 
+Nota: PCF = Porta Corta-fogo por 60 (sessenta) minutos. 
+5.7.8.2 As janelas das escadas protegidas devem: 
+a) estar situadas junto ao teto ou, no máximo, a 15,0 cm deste, estando o peitoril, no mínimo, a 
+1,10 m acima do piso do patamar ou degrau adjacente e tendo largura mínima de 80,0 cm, 
+podendo ser aceita quando centralizada acima dos lances de degraus, devendo pelo menos uma 
+das faces da janela estar a no máximo 15,0 cm do teto; 
+b) ter área de ventilação efetiva mínima de 0,80 m², em cada pavimento (ver figura 10); 
+ 
+Figura 10 – Ventilação da escada enclausurada protegida e seu acesso 
+c) ser dotadas de venezianas ou outro material que assegure a ventilação permanente, devendo 
+distar pelo menos 3,0 m, em projeção horizontal, de qualquer outra abertura, no mesmo nível ou 
+em nível inferior ao seu ou à divisa do lote, podendo esta distância ser reduzida para 2,0 m, para 
+caso de aberturas instaladas em banheiros, vestiários ou área de serviço; 
+d) ser construídas em perfis metálicos reforçados, com espessura mínima de 3,0 mm, sendo 
+vedado o uso de perfis ocos, chapa dobrada, madeira, plástico e outros; 
+e) os caixilhos poderão ser do tipo basculante, junto ao teto, sendo vedados os tipos de abrir 
+com o eixo vertical e “maxiar”.
+
+--- PÁGINA 16 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+16/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+ 
+ 
+ 
+Figura 11 – Exemplos de distância entre janelas de escadas protegidas e outras aberturas 
+ 
+5.7.8.3 Na impossibilidade de colocação de janela na caixa da escada enclausurada protegida, 
+conforme alínea “c” de 5.7.8.1, os corredores de acesso devem: 
+a) ser ventilados por janelas abrindo para o espaço livre exterior, com área mínima de 0,80 m², 
+largura mínima de 0,80 m, situadas junto ao teto ou, no máximo, a 15,0 cm deste; ou, 
+b) ter sua ligação com a caixa da escada por meio de antecâmaras ventiladas, executadas nos 
+moldes do especificado em 5.7.10 ou 5.7.12; ou 
+c) possuir dois dutos de ventilação conforme especificado no item 5.7.11 desta IT, sem 
+antecâmara. 
+5.7.8.4 A escada enclausurada protegida deve possuir ventilação permanente inferior, com área 
+de 1,20 m² no mínimo, devendo ficar junto ao solo da caixa da escada podendo ser no piso do 
+pavimento térreo ou no patamar intermediário entre o pavimento térreo e o pavimento 
+imediatamente superior, que permita a entrada de ar puro, em condições análogas à tomada de 
+ar dos dutos de ventilação (ver 5.7.11). Poderá esta ventilação ser por veneziana na própria 
+porta de saída térrea ou em local conveniente da caixa da escada ou corredor da descarga, que 
+permita a entrada de ar puro. 
+5.7.8.4.1 A captação de ar deve ser feita do exterior da edificação.
+
+--- PÁGINA 17 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+17/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.7.8.4.2 Quando a tomada da ventilação se der através do corredor de descarga, deverá haver 
+outra abertura junto à caixa de escada (analogia à tomada dos dutos de ventilação), podendo ser 
+na própria porta da caixa de escada. 
+5.7.9 Escadas enclausuradas à prova de fumaça 
+5.7.9.1 As escadas enclausuradas à prova de fumaça (ver figuras 12, 13, 14 e 15) devem 
+atender ao estabelecido em 5.7.1 a 5.7.4, e: 
+a) ter suas caixas enclausuradas por paredes resistentes a 4 (quatro) h de fogo; 
+b) ter ingresso por antecâmaras ventiladas, balcões, varandas ou terraços, atendendo ao 
+prescrito nos itens 5.7.10 e 5.7.12; 
+c) ser providas de portas corta-fogo (PCF) com resistência de 60 (sessenta) minutos ao fogo; 
+d) não são admissíveis lanços mistos. 
+ 
+Figura 12 – Escada enclausurada à prova de fumaça, com elevador de emergência (posição 
+exemplificativa) na antecâmara. 
+5.7.9.2 A iluminação natural das caixas de escadas enclausuradas, recomendáveis, mas não 
+indispensável, quando houver, deve obedecer aos seguintes requisitos: 
+a) ser obtida por abertura provida de caixilho de perfil metálico reforçado, com fecho acionável 
+por chave ou ferramenta especial, devendo ser aberto somente para fins de manutenção ou 
+emergências; 
+b) este caixilho deve ser guarnecido com vidro aramado, transparente ou não, malha de 12,5 
+mm, com espessura mínima de 6,5 mm; 
+c) em paredes dando para o exterior, sua área máxima não pode ultrapassar 0,50 m²; em 
+parede dando para antecâmara ou varanda, pode ser de até 1,0 m²; 
+d) havendo mais de uma abertura de iluminação, a distância entre elas não pode ser inferior a 
+0,50 m e a soma de suas áreas não deve ultrapassar 10% da área da parede em que estiverem 
+situadas.
+
+--- PÁGINA 18 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+18/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+Figura 13 – Antecâmaras e Duto de ar – Desenho esquemático 
+5.7.10 Antecâmaras 
+5.7.10.1 As antecâmaras, para ingressos nas escadas enclausuradas (ver figuras12, 13 e 14), 
+devem: 
+a) ter comprimento mínimo de 1,80 m, medido no sentido de saída; 
+b) ter pé-direito mínimo de 2,50 m; 
+c) ser dotadas de porta corta-fogo (PCF) na entrada e na comunicação da caixa da escada, com 
+resistência de 60 minutos de fogo cada; 
+d) ser ventiladas por dutos de entrada e saída de ar, de acordo com 5.7.11.2 a 5.7.11.4; 
+e) ter a abertura de entrada de ar do duto respectivo situada junto ao piso ou, no máximo, a 15,0 
+cm deste, com área mínima de 0,84 m² e, quando retangular, obedecendo à proporção máxima 
+de 1:4 entre suas dimensões; 
+f) terá abertura de saída de ar do duto respectivo situada junto ao teto ou no máximo, a 15,0 cm 
+deste, com área mínima de 0,84 m² e, quando retangular, obedecendo à proporção máxima de 
+1:4 entre suas dimensões; 
+g) ter, entre as aberturas de entrada e de saída de ar, a distância vertical mínima de 2,0 m, 
+medida eixo a eixo; 
+h) ter a abertura de saída de ar situada, no máximo, a uma distância horizontal de 3,0 m, medida 
+em planta, da porta de entrada da antecâmara e a abertura de entrada de ar situada, no máximo, 
+a uma distância horizontal de 3,0 m, medida em planta, da porta de entrada da escada; 
+i) ter paredes resistentes ao fogo por no mínimo 120 minutos; 
+j) as aberturas dos dutos de entrada e saída de ar das antecâmaras deverão ser guarnecidas 
+por telas de arame, com espessura dos fios superior ou igual a 3,0 mm e malha com dimensões 
+mínimas de 2,5 cm por 2,5 cm; 
+k) as antecâmaras poderão dispor de mais de uma entrada para acesso a caixa de escada, 
+desde que a saída de ar mantenha a distância máxima de 3,0 m das portas de entrada a 
+antecâmara, podendo ser projetadas quantas saídas de ar forem necessárias para cumprimento 
+do parâmetro.
+
+--- PÁGINA 19 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+19/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+Figura 14 – Antecâmaras e Duto de ar – Desenho esquemático 
+5.7.11 Dutos de ventilaçãonatural 
+5.7.11.1 Os dutos de ventilação natural devem formar um sistema integrado: o duto de entrada 
+de ar (DE) e o duto de saída de ar (DS). 
+5.7.11.2 Os dutos de saída de ar (gases e fumaça) devem: 
+a) ter aberturas somente nas paredes que dão para as antecâmaras; 
+b) ter secção mínima calculada pela seguinte fórmula: 
+ 
+onde: 
+s = secção mínima, em m²; 
+n = número de antecâmaras ventiladas pelo duto; 
+c) ter, em qualquer caso, área não-inferior a 0,84 m² e, quando de secção retangular, obedecer 
+à proporção máxima de 1:4 entre suas dimensões; 
+d) elevar-se no mínimo a 3,0 m acima do eixo da abertura da antecâmara do último pavimento 
+servido pelo duto, devendo seu topo situar-se a 1,0 m acima de qualquer elemento construtivo 
+existente sobre a cobertura; 
+e) ter, quando não forem totalmente abertos no topo, aberturas de saída de ar com área efetiva 
+superior ou igual a 1,5 vezes a área da secção do duto, guarnecidas ou não por venezianas ou 
+equivalente, devendo estas aberturas serem dispostas em, pelo menos, duas faces opostas com 
+área nunca inferior a 1,0 m² cada uma, e se situarem em nível superior a qualquer elemento 
+construtivo do prédio (reservatórios, casas de máquinas, cumeeiras, muretas e outros); 
+f) não serem utilizados para a instalação de quaisquer equipamentos ou canalizações; 
+g) ser fechados na base. 
+5.7.11.3 As paredes dos dutos de saídas de ar devem: 
+a) ser resistentes, no mínimo, a 2 (duas) horas de fogo;
+
+--- PÁGINA 20 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+20/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+b) ter isolamento térmico e inércia térmica equivalente, no mínimo, a uma parede de  tijolos 
+maciços, rebocada, de 15,0 cm de espessura, quando atenderem a até 15 (quinze) 
+antecâmaras, e de 23,0 cm de espessura, quando atenderem a mais de 15 (quinze) 
+antecâmaras; 
+c) ter revestimento interno liso. 
+5.7.11.4 Os dutos de entrada de ar devem: 
+a) ter paredes resistentes ao fogo por 2 horas, no mínimo; 
+b) ter revestimento interno liso; 
+c) atender às condições das alíneas “a”, “b”, “c” e “f ” de 5.7.11.2; 
+d) ser totalmente fechados em sua extremidade superior; 
+e) ter abertura em sua extremidade inferior ou junto ao teto do 1º pavimento, possuindo acesso 
+direto ao exterior; que assegure a captação de ar fresco respirável, devendo esta abertura ser 
+guarnecidas por telas de arame, com espessura dos fios superior ou igual a 3 mm e malha com 
+dimensões mínimas de 2,5 cm por 2,5 cm; que não diminua a área efetiva de ventilação, isto é, 
+sua secção deve ser aumentada para compensar a redução. 
+Nota: A abertura exigida na alínea “e” poderá ser projetada junto ao teto do primeiro pavimento 
+que possua acesso direto ao exterior (Exemplo: piso térreo). 
+5.7.11.5 A secção da parte horizontal inferior do duto de entrada de ar deve: 
+a) ser, no mínimo, igual à do duto, em edificações com altura igual ou inferior a 30,0 m; 
+b) ser igual a 1,5 (uma vez e meia) a área da secção do trecho vertical do duto de entrada de ar, 
+no caso de edificações com mais de 30,0 m de altura. 
+5.7.11.6 A tomada de ar do duto de entrada de ar deve ficar, de preferência, ao nível do solo ou 
+abaixo deste, longe de qualquer eventual fonte de fumaça em caso deincêndio. 
+5.7.11.7 As dimensões dos dutos dadas em 5.7.11.2 são as mínimas absolutas, aceitando-se 
+mesmo recomendando o cálculo exato pela mecânica dos fluídos destas secções, em especial 
+no caso da existência de subsolos e em prédios de excepcional altura ou em locais sujeitos a 
+ventos excepcionais. 
+5.7.12 Acesso em escada enclausurada por balcões, varandas e terraços 
+5.7.12.1 Os balcões, varandas, terraços e assemelhados, para ingresso em escadas 
+enclausuradas, devem atender aos seguintes requisitos: 
+a) ser dotados de portas corta-fogo na entrada e na saída com resistência mínima de 60 
+(sessenta) minutos; 
+b) ter guarda-corpo de material incombustível e não vazado com altura mínima de 1,30 m; 
+c) ter piso praticamente em nível e desnível máximo de 3,0 cm dos compartimentos internos do 
+prédio e da caixa de escada enclausurada; 
+d) em se tratando de terraço a céu aberto, não situado no último pavimento, o acesso deve ser 
+protegido por marquise com largura mínima de 1,20 m.
+
+--- PÁGINA 21 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+21/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.7.12.2 A distância horizontal entre o paramento externo dos guarda-corpos dos balcões, 
+varandas e terraços que sirvam para ingresso às escadas enclausuradas à prova de fumaça e 
+qualquer outra abertura desprotegida do próprio prédio ou das divisas do lote deve ser, no 
+mínimo, igual a um terço da altura da edificação, ressalvada o estabelecido em 5.7.12.3, mas 
+nunca a menos de 3,0 m. 
+5.7.12.3 A distância estabelecida em 5.7.12.2 pode ser reduzida à metade, isto é, a um sexto da 
+altura, mas nunca a menos de 3,00m, quando: 
+a) o prédio for dotado de chuveiros automáticos; 
+b) o somatório das áreas das aberturas da parede fronteira à edificação considerada não 
+ultrapassar um décimo da área total desta parede; 
+c) na edificação considerada não houver ocupações pertencentes aos grupos C ou I. 
+5.7.12.4 Será aceita uma distância de 1,20 m, para qualquer altura da edificação, entre a 
+abertura desprotegida do próprio prédio até o paramento externo do balcão, varanda ou terraço 
+para o ingresso na escada enclausurada à prova de fumaça (PF), desde que entre elas seja 
+interposta uma parede com TRRF mínimo de 02 (duas) horas (ver figura 15). 
+ 
+Figura 15– Escada enclausurada do tipo PF ventilada por balcão 
+5.7.12.5 Será aceita a ventilação no balcão da escada à prova de fumaça, através de janela com 
+ventilação permanente, desde que: 
+a) área efetiva mínima de ventilação seja de 1,5 m²; 
+b) as distâncias entre as aletas das aberturas das janelas tenham espaçamentos de no mínimo 
+15,0 cm; 
+c) as aletas possuam um ângulo de no mínimo 45 graus em relação ao plano vertical da janela; 
+d) as antecâmaras deverão atender o item 5.7.10.1, alíneas “a”, “b” e “c”, desta IT; 
+e) ter altura de peitoril de 1,30 m; 
+f) ter distância de no mínimo 3,0 m de outras aberturas. 
+5.7.13 Escadas à prova de fumaça pressurizada (PFP)
+
+--- PÁGINA 22 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+22/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.7.13.1 As escadas à prova de fumaça pressurizadas ou escadas pressurizadas podem sempre 
+substituir as escadas enclausuradas protegidas (EP) e as escadas enclausuradas à prova de 
+fumaça (PF), devendo atender a todas as exigências da IT 10 (Pressurização de Escada de 
+Segurança). 
+5.7.14 Escada Aberta Externa (AE): 
+5.7.14.1 As escadas abertas externas (ver figuras 16 e 17) podem substituir os demais tipos de 
+escadas e devem atender aos requisitos de 5.7.1 a 5.7.3, 5.8.1.3, 5.8.2 e: 
+a) ter seu acesso provido de porta corta-fogo com resistência mínima de 60 (sessenta) minutos; 
+b) manter raio mínimo de escoamento exigido em função da largura daescada; 
+c) atender tão somente aos pavimentos acima do piso de descarga, terminando 
+obrigatoriamente neste, atendendo ao prescrito no item 5.11 desta IT; 
+d) possuir parede com TRRF de 120 min na face da edificação em que se situa a escada aberta 
+externa; 
+e) toda abertura desprotegida do próprio prédio até escada deverá ser mantida distância mínima 
+de 3,0 (três) m quando a altura da edificação for inferior ou igual a 12,0 m e de 8,0 m quando a 
+altura da edificação for superior a 12,0 m; 
+f) a distância do paramento externo da escada aberta até o limite de outra edificação no mesmo 
+terreno ou limite da propriedade deverá atender aos critérios adotados na IT 05 (Separação entre 
+Edificações); 
+g) a estrutura, portanto da escada aberta externa deverá ser construída em material 
+incombustível, atendendo os critérios estabelecidos na IT 06 (Segurança Estrutural nas 
+Edificações) com TRRF de 02 (duas) horas; 
+h) na existência de shafts, dutos ou outras aberturas verticais que tangenciam a projeção da 
+escada aberta externa, tais aberturas deverão ser delimitadas por paredes estanques nos termos 
+da IT06; 
+i) será admitido este tipo de escada em edificações com altura até 30m. 
+ 
+Figura 16 – Escada aberta externa
+
+--- PÁGINA 23 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+23/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+ 
+Figura 17 – Escada aberta externa 
+5.8 Guardas e corrimãos 
+5.8.1 Guarda-corpos e balaustradas 
+5.8.1.1 Toda saída de emergência, corredores, balcões, terraços, mezaninos, galerias, 
+patamares, escadas, rampas e outros, devem ser protegidos de ambos os lados por paredes ou 
+guarda-corpos contínuos, sempre que houver qualquer desnível maior de 19,0 cm, para evitar 
+quedas. 
+5.8.1.2 A altura dos guarda-corpos, medida internamente, deve ser, no mínimo, de 1,05 m ao 
+longo dos patamares, escadas, corredores, mezaninos e outros (ver figura 18), podendo ser 
+reduzida para até 92,0 cm nas escadas internas, quando medida verticalmente do topo da 
+guarda a uma linha que una as pontas dos bocéis ou quinas dos degraus. 
+ 
+Figura 18 – Dimensões de guardas e corrimãos 
+5.8.1.3 A altura dos guarda-corpos em escadas abertas externas (AE), de seus patamares, de 
+balcões e assemelhados, deve ser de no mínimo, 1,30 m, medido como especificado em 5.8.1.2. 
+5.8.1.4 As guardas constituídas por balaustradas, grades, telas e assemelhados, isto é, as 
+guardas vazadas, devem: 
+a) ter balaústres verticais, longarinas intermediárias, grades, telas, vidros de segurança 
+laminados ou aramados e outros, de modo que uma esfera de 15,0 cm de diâmetro não possa 
+passar por nenhuma abertura; 
+b) ser isentas de aberturas, saliências, reentrâncias ou quaisquer elementos que possam 
+enganchar em roupas; 
+c) ser constituídas por materiais não estilhaçáveis, exigindo-se o uso de vidros aramados ou de 
+segurança laminados, exceto para as ocupações do grupo I e J para as escadas e saídas não 
+emergenciais.
+
+--- PÁGINA 24 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+24/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.8.2 Corrimãos 
+5.8.2.1 Os corrimãos deverão ser adotados em ambos os lados das escadas ou rampas, 
+devendo estar situados entre 80,0 cm e 92,0 cm acima do nível do piso, sendo em escadas, esta 
+medida tomada verticalmente da forma especificada em 5.8.1.2 (ver figura 18). 
+5.8.2.2 Uma escada pode ter corrimãos em diversas alturas, além do corrimão principal na altura 
+normal exigida. Em escolas, jardins-de-infância e assemelhados, se for o caso, deve haver 
+corrimãos nas alturas indicadas para os respectivos usuários, além do corrimão principal. 
+5.8.2.3 Os corrimãos devem ser projetados de forma a poderem ser agarrado fácil e 
+confortavelmente, permitindo um contínuo deslocamento da mão ao longo de toda a sua 
+extensão, sem encontrar quaisquer obstruções, arestas ou soluções de continuidade. No caso 
+de secção circular, seu diâmetro varia entre 38,0 mm e 60,0 mm (ver figura 19). 
+ 
+Figura 19 – Pormenores de corrimãos 
+5.8.2.4 Os corrimãos devem estar afastados 40,0 mm no mínimo, das paredes ou guardas às 
+quais forem fixados. 
+5.8.2.5 Não são aceitáveis, em saídas de emergência, corrimãos construídos por elementos com 
+arestas vivas, tábuas largas na horizontal e outros. 
+5.8.2.6 Para auxílio dos deficientes visuais, os corrimãos das escadas deverão ser contínuos, 
+sem interrupção nos patamares, prolongando-se, sempre que for possível, pelo menos 20,0 cm 
+do início e término da escada com suas extremidades voltadas para a parede ou com solução 
+alternativa. 
+5.8.3 Exigências estruturais 
+5.8.3.1 Os guarda-corpos de alvenaria ou concreto, as grades de balaustradas, as paredes, as 
+esquadrias, as divisórias leves e outros elementos de construção que envolva as saídas de 
+emergência devem ser projetados de forma a: 
+a) resistir a cargas transmitidas por corrimãos nelas fixados ou calculadas para resistir a uma 
+força horizontal de 730 N/m aplicada a 1,05 m de altura, adotando-se a condição que conduzir a 
+maiores tensões (ver figura20); 
+b) ter seus painéis, longarinas, balaústres e assemelhados calculados para resistir a uma carga 
+horizontal de 1,20 kPa aplicada à área bruta da guarda ou equivalente da qual façam parte; as 
+reações devidas a este carregamento não precisam ser adicionadas às cargas especificadas na 
+alínea precedente (ver figura 20). 
+5.8.3.2 Os corrimãos devem ser calculados para resistirem a uma carga de 900 N, aplicada em 
+qualquer ponto deles, verticalmente de cima para baixo e horizontalmente em ambos os 
+sentidos.
+
+--- PÁGINA 25 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+25/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.8.3.3 Nas escadas tipo NE, pode-se dispensar o corrimão, desde que o guarda-corpo atenda 
+também os preceitos do corrimão, conforme itens 5.8.2.3., 5.8.2.4 e 5.8.2.5 desta IT. 
+Figura 20 – Pormenores construtivos de instalação de guardas e cargas a que elas devem 
+resistir 
+5.8.4 Corrimãos intermediários 
+5.8.4.1 Escadas com mais de 2,20 m de largura devem ter corrimão intermediário, no máximo, a 
+cada 1,80 m. Os lanços determinados pelos corrimãos intermediários devem ter, no mínimo, 1,10 
+m de largura, ressalvado o caso de escadas em ocupações dos tipos H-2 e H-3, utilizadas por 
+pessoas muito idosas e deficientes físicos, que exijam máximo apoio com ambas às mãos em 
+corrimãos, onde pode ser prevista, em escadas largas, uma unidade de passagem especial com 
+69,0 cm entre corrimãos. 
+5.8.4.2 As extremidades dos corrimãos intermediários devem ser dotadas de balaústres ou 
+outros dispositivos para evitar acidentes. 
+5.8.4.3 Escadas externas de caráter monumental podem, excepcionalmente, ter apenas dois 
+corrimãos laterais, independentemente de sua largura, quando forem utilizadas por grandes 
+multidões. 
+5.9 Elevadores de emergência 
+5.9.1 Obrigatoriedade 
+5.9.1.1 É obrigatória a instalação de elevadores de emergência: 
+a) em todas as edificações residenciais A-2 e A-3 com altura superior a 80,0 m e nas demais 
+ocupações com altura superior a 60 (sessenta) m, exceto nas de ocupação G-1 e em torres 
+exclusivamente monumentais de ocupação F-2; 
+b) nas ocupações institucionais H-2 e H-3, sempre que sua altura ultrapassar 12,0m. 
+5.9.2 Exigências 
+5.9.2.1 Enquanto não houver norma específica referente a elevadores de emergência, estes 
+devem atender a todas as normas gerais de segurança previstas nas NBR 5410 e NBR NM 207, 
+e ao seguinte (ver figura12): 
+a) ter sua caixa enclausurada por paredes resistentes a 4 (quatro) horas de fogo, 
+independentemente dos elevadores de uso comum; 
+b) ter suas portas metálicas abrindo para antecâmara ventilada, nos termos de 5.7.10, para
+
+--- PÁGINA 26 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+26/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+varanda conforme 5.7.12, para hall enclausurado e pressurizado, para patamar de escada 
+pressurizada ou local análogo do ponto de vista de segurança contra fogo e fumaça; 
+c) ter circuito de alimentação de energia elétrica com chave própria independente da chave geral 
+do edifício, possuindo este circuito chave reversível no piso da descarga, que possibilite que ele 
+seja ligado a um gerador externo na falta de energia elétrica na rede pública; 
+d) deve estar ligado a um grupo motogerador (GMG) de emergência. 
+5.9.2.2 O painel de comando deve atender, ainda, às seguintes condições: 
+a) estar localizado no pavimento da descarga; 
+b) possuir chave de comando de reversão para permitir a volta do elevador a este piso, em caso 
+de emergência; 
+c) possuir dispositivo de retorno e bloqueio do carro no pavimento da descarga, anulando as 
+chamas existentes, de modo que as respectivas portas permaneçam abertas, sem prejuízo do 
+fechamento do vão do poço nos demais pavimentos; 
+d) possuir duplo comando automático e manual reversível, mediante chamada apropriada. 
+5.9.2.3 Nas ocupações institucionais H-2 e H-3, o elevador de emergência deve ter cabine com 
+dimensões apropriadas para o transporte de maca. 
+5.9.2.4 As caixas de corrida (poço) e casas de máquinas dos elevadores de emergência devem 
+ser enclausuradas e totalmente isoladas das caixas de corrida e casa de máquinas dos demais 
+elevadores. A caixa de corrida (poço) deve ter abertura de ventilação permanente em sua parte 
+superior, atendendo as condições estabelecidas na alínea “d” do item 5.7.8.1 desta IT. 
+5.10 Área de refúgio  
+5.10.1 Conceituação e exigências 
+5.10.1.1 Área de refúgio é a parte de um pavimento separada do restante por paredes corta-fogo 
+e portas corta-fogo, tendo acesso direto, cada uma delas, a uma escada/rampa de emergência 
+(ver figura 21). 
+ 
+ 
+Figura 21 – Desenho esquemático da área de refúgio
+
+--- PÁGINA 27 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+27/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.10.1.2 A estrutura dos prédios dotados de áreas de refúgio deve ter resistência conforme IT 06 
+(Segurança Estrutural das Edificações), as paredes que definem as áreas de refúgio devem 
+apresentar resistência ao fogo conforme a IT 06 e as condições estabelecidas na IT07. 
+5.10.1.3 Em edificações dotadas de áreas de refúgio, as larguras das saídas de emergência 
+podem ser reduzidas em até 50%, desde que cada local compartimentado tenha acesso direto às 
+saídas, com larguras correspondentes às suas respectivas áreas e não menores que as mínimas 
+absolutas de 1,10 m para as edificações em geral, e 2,20 m para as ocupações H-2 e H-3. 
+5.10.2 Obrigatoriedade 
+5.10.2.1 É obrigatória a existência de áreas de refúgio nos seguintes casos: 
+a) em edificações institucionais de ocupação E-5, E-6, H-2 e H-3 com altura superior a 12,0 m. 
+Nesses casos a área mínima de refúgio de cada pavimento ficará restrita a 30% dos leitos 
+existentes naquele pavimento; 
+b) a existência de compartimentação de área no pavimento será aceita como área de refúgio, 
+desde que tenha acesso direto às saídas de emergência (escadas ou rampas). 
+5.10.3 Hospitais e assemelhados 
+5.10.3.1 Em ocupações em H-2 e H-3, as áreas de refúgio não devem ter áreas superiores a 
+2.000,0 m². 
+5.10.3.2 Nestas ocupações H-1 e H-2, bem como nas ocupações E-6, a comunicação entre as 
+áreas de refúgio e/ou entre estas áreas e saídas deve ser em nível ou caso haja desnível, em 
+rampas, como especificado em 5.6. 
+5.11 Descarga 
+5.11.1 Tipos 
+5.11.1.1 A descarga, parte da saída de emergência de uma edificação, que fica entre a escada e 
+a via pública ou área externa em comunicação com a via pública, pode ser constituída por: 
+a) corredor ou átrio enclausurado; 
+b) área em pilotis; 
+c) corredor a céu aberto. 
+5.11.1.2 O corredor ou átrio enclausurado que for utilizado como descarga deve: 
+a) ter paredes resistentes ao fogo por tempo equivalente ao das paredes das escadas que a ele 
+conduzirem, conforme IT06; 
+b) ter pisos e paredes revestidos com materiais resistentes ao fogo; 
+c) ter portas corta-fogo com resistência de 60 (sessenta) minutos de fogo, quando a escada for à 
+prova de fumaça ou enclausurada protegida; isolando-o de todo compartimento que com ele se 
+comunique, tais com apartamentos, salas de medidores, restaurantes e outros. 
+5.11.1.3 Admite-se que a descarga seja feita por meio de saguão ou hall térreo não 
+enclausurado, desde que entre o final da descarga e a fachada ou alinhamento predial (passeio) 
+mantenha-se um espaço livre para acesso ao exterior, atendendo-se às dimensões exigidas em 
+5.11.2, sendo admitido nesse saguão ou hall elevadores, portaria, recepção, sala de espera, sala
+
+--- PÁGINA 28 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+28/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+de estar e salão de festas (ver figura 22). 
+ 
+ 
+Figura 22 – Descarga através de hall térreo não enclausurado 
+5.11.1.4 A parte da área em pilotis que servir como descarga deve: 
+a) não ser utilizável como estacionamento de veículos de qualquer natureza, sendo, quando 
+necessário, dotada de divisores físicos que impeçam tal utilização; 
+b) ser mantida livre e desimpedida, não podendo ser utilizada como depósito de qualquer 
+natureza. 
+5.11.1.4.1 Não será exigida a alínea “a” nas edificações onde as escadas exigidas forem do tipo 
+NE – escadas não enclausuradas e altura até 12,0 m, desde que entre o acesso à escada e a 
+área externa (fachada ou alinhamento predial) possua um espaço reservado e desimpedido, no 
+mínimo com largura de 2,20 m. Quando houver divisores físicos, separando o espaço reservado 
+e os locais de estacionamento, será aceita a largura de 1,10 m. 
+5.11.1.4.2 Nas edificações com escada do tipo enclausurada protegida (EP), do tipo à prova de 
+fumaça (PF), pressurizada ou não, bem como do tipo aberta externa, o pilotis somente poderá 
+ser utilizado como descarga quando não for utilizado como estacionamento de veículo de 
+qualquer natureza, devendo ser observado o item 5.11.1.4 desta IT. 
+5.11.1.4.3 Quando houver área no nível de descarga utilizada como estacionamento de veículos, 
+apartamentos ou outro tipo de compartimento, exceto aqueles admitidos no item 5.11.1.3 desta 
+IT, a descarga da escada de emergência (exceto NE) deverá ser compartimentada, e deverá 
+ocorrer por meio de corredor ou átrio enclausurado, observando os requisitos estabelecidos no 
+item 5.11.1.2 desta IT. 
+5.11.1.5 A compartimentação de ambientes em comunicação com a descarga (como garagens, 
+apartamentos, etc.) deverá ser feita de forma que o uso do sistema de hidrantes, durante o 
+combate ao incêndio, não permita a passagem de fumaça e calor destes ambientes para o 
+interior da descarga. 
+5.11.1.6 O elevador de emergência pode estar ligado ao hall de descarga, desde que seja 
+agregado à largura desta uma unidade de passagem (55,0 cm).
+
+--- PÁGINA 29 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+29/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.11.2 Dimensionamento 
+5.11.2.1 No dimensionamento da descarga, devem ser consideradas todas as saídas horizontais 
+e verticais que para ela convergirem. 
+5.11.2.2A largura das descargas não pode ser inferior: 
+a) a 1,10 m, nos prédios em geral, e a 1,65 e 2,20 m, nas edificações classificadas com H-2 e H-
+3 por sua ocupação; 
+b) a largura calculada conforme 5.4, considerando-se esta largura para cada segmento de 
+descarga entre saídas de escadas (ver figura 23), não sendo necessário que a descarga tenha, 
+em toda a sua extensão, a soma das larguras das escadas que a ela concorrem. 
+ 
+Figura 23 – Dimensionamento de corredores de descarga 
+5.11.3 Outros ambientes com acesso 
+5.11.3.1 Galerias comerciais (galerias de lojas) podem ter acesso à descarga desde que a 
+ligação seja feita por meio de antecâmara enclausurada e ventilada, nos termos de 5.7.10 (ver 
+figura 24). 
+ 
+Figura 24 – Acesso de galeria comercial à descarga
+
+--- PÁGINA 30 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+30/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+5.12 Iluminação de emergência e sinalização de saída 
+5.12.1 Iluminação das rotas de saída 
+5.12.1.1 As rotas de saída devem ter iluminação natural e/ou artificial em nível suficiente, de 
+acordo com a NBR 5413. Mesmo nos casos de edificações destinadas a uso unicamente durante 
+o dia, é indispensável à iluminação artificial noturna. 
+5.12.2 Iluminação de emergência 
+5.12.2.1 A iluminação de emergência deve ser executada obedecendo à IT13. 
+5.12.3 Sinalização de saída 
+5.12.3.1 A sinalização de saída deve ser executada obedecendo à IT15. 
+5.13 Acesso sem obstáculos 
+5.13.1 As rotas de saída destinadas ao uso de doentes e deficientes físicos, inclusive usuários 
+de cadeiras de rodas, devem possuir rampas e elevadores de segurança ou outros dispositivos 
+onde houver diferença de nível entre pavimentos. 
+5.13.2 Estas rotas devem permanecer livres de quaisquer obstáculos ou saliências nas paredes 
+(móveis, extintores de incêndio, e outros) e ter as larguras exigidas pela NBR 9050. 
+5.14 Construções subterrâneas, subsolo e edificações sem janelas – Generalidades e 
+Conceituação 
+5.14.1 Construções subterrâneas ou subsolos 
+5.14.1.1 Para os efeitos desta Instrução Técnica, considera-se construção subterrânea ou 
+subsolo a edificação, ou parte dela, na qual o piso se ache abaixo do pavimento da descarga, 
+ressalvando o especificado em 5.14.1.2. 
+5.14.1.2 Não são considerados subsolos, para efeito de saídas de emergência, os pavimentos 
+nas condiçõesseguintes: 
+a) o pavimento que for provido, em pelo menos dois lados de, no mínimo, 2,0 m² de aberturas 
+inteiramente acima do solo a cada 15,0 m lineares de parede periférica; 
+b) estas aberturas tenham peitoril à não mais de 1,20 m acima do piso interno e que não tenham 
+medida alguma menor que 60,0 cm (luz), de forma a permitir operações de salvamento 
+provenientes do exterior; 
+c) estas aberturas sejam de fácil manuseio, tanto do lado interno como do externo, sendo 
+facilmente identificáveis, interna e externamente. 
+5.14.2 Edificações semjanelas 
+5.14.2.1 As edificações sem janelas são aquelas edificações, ou parte delas, que não possuem 
+meios de acesso direto ao exterior através de suas paredes periféricas ou aberturas para 
+ventilação ou salvamento através das janelas ou grades fixas existentes, ressalvados os casos 
+descritos em 5.14.2.2 e 5.14.2.3. 
+5.14.2.2 Uma edificação térrea ou porção dela não é considerada sem janelasquando: 
+a) o pavimento tem portas ao nível do solo, painel de acesso ou janelas espaçadas a não mais
+
+--- PÁGINA 31 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+31/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+de 50,0 m nas paredes exteriores; 
+b) estas aberturas têm dimensões mínimas de 60,0 cm x 60,0 cm, obedecendo às alíneas “a”, 
+“b” e “c” de 5.14.1.2. 
+5.14.2.3 Uma edificação não-térrea não é considerada sem janelas quando: 
+a) existem acessos conforme a alínea “a” de 5.14.2.2; 
+b) todos os pavimentos acima do térreo tiverem aberturas de acesso ou janelas em dois lados 
+do prédio, pelo menos, espaçados, no mínimo, 15,0 m nestas paredes, obedecendo às alíneas 
+“b” e “c” de 5.14.1.2, com no mínimo 60,0 cm de largura livre por 1,10 m de altura livre. 
+5.14.3 Exigências especiais para construções subterrâneas, subsolos e edificações sem 
+janelas. 
+5.14.3.1 As construções subterrâneas, subsolos e as edificações sem janelas, além das demais 
+exigências desta Instrução Técnica que lhes forem aplicáveis, considerando que, em áreas sem 
+acesso direto ao exterior e sem janelas para permitir ventilação e auxílio de bombeiros, qualquer 
+incêndio ou fumaça tende a provocar pânico, devem, permitir a saída conveniente de seus 
+usuários e atender as exigências abaixo: 
+a) para subsolos com áreas de construção superior a 500,0 m² ou população total superior a 100 
+(cem) pessoas, ter no mínimo duas saídas de emergência, em lados opostos, com distância 
+mínima de 10,0 m entre elas, exceto para subsolos destinados a estacionamento de veículos; 
+b) quando, com excesso de público ou população superior a 50 (cinquenta) pessoas, ter ao 
+menos uma das saídas direta ao exterior, sem passagem pela descarga térrea, no caso de 
+subsolo; 
+c) é obrigatório à adoção de áreas de refúgio em subsolo com área superior a 500,0 m², não 
+destinada à garagem. Nesse caso a área de refúgio fica restrita a 30 % no mínimo, da área de 
+cada pavimento. A existência de compartimentação de área no pavimento será aceita com área 
+de refúgio, desde que tenha acesso direto à saída de emergência (escadas ou rampas); 
+d) nos subsolos das edificações com exigência de escada tipo EP ou PF, com altura ascendente 
+de até 12,0 m, exige-se escada simplesmente enclausurada com PCF P-60. Alturas superiores a 
+12,0 m exige-se pressurização da escada (ver IT10). 
+5.15 Exigências para edificações ou áreas de risco em que sejam feitas modificações 
+quanto ao tipo de ocupação 
+5.15.1 As edificações e/ou áreas de risco que, por qualquer motivo, vierem a ser, em parte, ou 
+totalmente, modificadas quanto ao seu tipo de ocupação deverão atender as exigências desta 
+Instrução Técnica. 
+5.15.2 Nos casos em que for comprovada tecnicamente a inviabilidade da adaptação, o 
+interessado deverá propor medidas alternativas a ser avaliada pelo Corpo Técnico.
+
+--- PÁGINA 32 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+32/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+ANEXOS – Tabelas 
+Tabela 1: Classificação das edificações quanto à altura 
+Tipo 
+Denominação 
+Altura 
+I 
+Edificação Baixa 
+H  12,0 m 
+II 
+Edificação de Média Altura 
+12,0 m <H  30,0 m 
+III 
+Edificação Mediamente Alta 
+30,0 m <H  54,0 m 
+IV 
+Edificação Alta 
+Acima de 54,0 m 
+Tabela 2: Classificação das edificações quanto às suas dimensões em planta 
+Natureza do Enfoque 
+Código 
+Classe da edificação 
+Parâmetros de área 
+Quanto à área do maior Pavimento 
+(Sp) 
+N 
+De pequeno pavimento 
+Sp< 750 m² 
+O 
+De grande pavimento 
+Sp> 750 m² 
+Quanto à área dos pavimentos 
+situados abaixo da soleira de 
+Entrada (Ss) 
+P 
+Com pequeno subsolo 
+Ss< 500 m² 
+Q 
+Com grande subsolo 
+Ss> 500 m² 
+Quanto à área total St (soma das 
+áreas de todos os Pavimentos da 
+edificação) 
+R 
+Edificações pequenas 
+St< 750 m² 
+S 
+Edificações médias 
+750 m <St< 1500 m² 
+T 
+Edificações grandes 
+1500 m² < St< 5000 m² 
+U 
+Edificações muito grandes 
+At > 5000 m² 
+Tabela 3: Classificação das edificações quanto às suas características construtivas 
+Código 
+Tipo 
+Especificação 
+X 
+Edificações em que o crescimento e a 
+propagação do incêndio podem ser 
+fáceis e onde a estabilidade pode ser 
+ameaçada pelo incêndio 
+Edifícios em que estão presentes as seguintes condições: 
+a) Não possuam TRRF, mesmo que existam condições de 
+isenção na IT06; 
+b) Não possuam compartimentação vertical completa, de 
+acordo com a IT 07, mesmo que existam condições de 
+isenção no Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco do Estado de Minas 
+Gerais. 
+Y 
+Edificações onde um dos três eventos 
+é provável: 
+a) rápido crescimento do incêndio; 
+b) propagação vertical do incêndio; 
+c) colapso estrutural. 
+Edifícios onde apenas uma das duas condições está 
+presente: 
+a) Possuam TRRF, mesmo que existam condições de 
+isenção na IT06; 
+b) Possuam compartimentação vertical completa, de acordo 
+com a IT 07, mesmo que existam condições de isenção no 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco do Estado de Minas Gerais. 
+Z 
+Edificações concebidas para limitar: 
+a) o rápido crescimento do incêndio; 
+b) propagação vertical do incêndio; 
+c) colapso estrutural. 
+Edifícios onde as duas condições abaixo estão presentes: 
+a) Possuam TRRF, mesmo que existam condições de 
+isenção na IT06; 
+b) Possuam compartimentação vertical completa, de acordo 
+com a IT 07, mesmo que existam condições de isenção no 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco do Estado de Minas Gerais. 
+Nota: Os prédios devem, preferencialmente, ser sempre projetados e executados dentro do tipo “Z”.
+
+--- PÁGINA 33 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+33/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+Tabela 4: Dados para o dimensionamento das saídas 
+Ocupação 
+População (A) 
+Capacidade da U de passagem(B) 
+Grupo 
+Divisão 
+Acesso e 
+descargas 
+Escadas 
+e rampas 
+Portas 
+A 
+A-1 e A-2 
+Duas pessoas por dormitório (C) 
+60 
+45 
+100 
+A-3 
+Duas pessoas por dormitório e uma pessoa por 
+4 m² de área de alojamento (D) 
+B 
+- 
+Uma pessoa por 15,0 m² de área (E) (G) 
+C 
+- 
+Uma pessoa por 3,0 m² de área (E) (J) 
+100 
+60 
+100 
+D 
+- 
+Uma pessoa por 7,0 m² de área (E) (L) 
+E 
+E-1 a E-4 
+Uma pessoa por 1,50 m² de área de sala de 
+aula (F) 
+E-5 e E-6 
+Uma pessoa por 1,50 m² de área de sala de 
+aula (F) 
+30 
+22 
+30 
+F 
+F-1 e F-10 
+Uma pessoa por 3,0 m²de área 
+100 
+75 
+100 
+F-2, F-5, F-8, F-9 e F-
+11 
+Uma pessoa por m² de área (E) (G) 
+F-3, F-6 e F-7 
+Duas pessoas por m² de área (E) (G)  (1:0,5 m²) 
+F-4 
+Uma pessoa por 3,0 m² de área 
+G 
+G-1 e G-6 
+Uma pessoa por 40 vagas de veículo 
+100 
+60 
+100 
+G2, G-3, G-4 e G-5 
+Uma pessoa por 20 m² de área (E) 
+H 
+H-1 e H-6 
+Uma pessoa por 7 m² de área (E) 
+60 
+45 
+100 
+H-2 
+Duas pessoas por dormitório (C) e uma pessoa 
+por 4 m² de área de alojamento (E) 
+30 
+22 
+30 
+H-3 
+Uma pessoa e meia por leito + uma pessoa por 
+7,0 m² de área de ambulatório (H) 
+H-4 
+Uma pessoa por 7,0 m² de área (E) (L) (M) 
+100 
+60 
+100 
+H-5 
++ (I)  (N) 
+60 
+45 
+100 
+I 
+- 
+Uma pessoa por 10,0 m² de área 
+100 
+60 
+100 
+J 
+- 
+Uma pessoa por 30,0 m² de área(J) 
+L 
+L-1 
+Uma pessoa por 3,0 m² de área 
+100 
+60 
+100 
+L-2 e L-3 
+Uma pessoa por 10,0 m² de área 
+M 
+M-1e M-6 
++ (I)  
+100 
+75 
+100 
+M-3, M-5 e M-7 
+Uma pessoa por 10,0 m² de área 
+100 
+60 
+100 
+M-4 
+Uma pessoa por 4,0 m² de área 
+60 
+45 
+100 
+Notas: 
+(A) Os parâmetros dados nesta Tabela são os mínimos aceitáveis para o cálculo da população. 
+Em projetos específicos, devem ser cotejados com os obtidos em função da localização de 
+assentos, máquinas, arquibancadas e outros, e adotados os mais exigentes, para maior 
+segurança. 
+(B) As capacidades das unidades de passagem (número de pessoas que passa em 1 minuto) 
+em escadas e rampas estendem-se para lanços retos e saída descendente. Nos demais casos 
+devem sofrer redução como abaixo especificado. Estas percentagens de redução são 
+cumulativas, quando for o caso. 
+(B.1) Lanços ascendentes de escadas, com degraus até 17,0 cm de altura: redução de 10%. 
+(B.2) Lanços ascendentes de escada com degraus até 17,5 cm de altura: redução de 15%. 
+(B.3) Lanços ascendentes de escadas com degraus até 18,0 cm de altura: redução de 20%. 
+(B.4) Rampas ascendentes, declividade até 10%: redução de 1% por grau percentual de 
+inclinação (1% a10%). 
+(B.5) Rampas ascendentes de mais de 10% (máximo: 12,5%): redução de20%. 
+(C) Em apartamentos de até dois dormitórios, a sala deve ser considerada como dormitório; em
+
+--- PÁGINA 34 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+34/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+apartamentos maiores (três e mais dormitórios), as salas de costura, gabinetes e outras 
+dependências que possam ser usadas como dormitórios (inclusive para empregadas) são 
+considerados como tais. Em apartamentos mínimos, sem divisões em planta, considera-se uma 
+pessoa para cada 6,0 m² de área de pavimento. 
+(D) Alojamento = dormitório coletivo, com mais de 10,0m². 
+(E) Por “Área” entende-se a “Área do pavimento” que abriga a população em foco, exceto as 
+áreas de sanitários, escadas, rampas e corredores; quando discriminado o tipo de área (por ex.: 
+área do alojamento), é a área útil interna da dependência emquestão. 
+(F) Auditórios e assemelhados, em escolas, bem como salões de festas e centros de 
+convenções em hotéis são considerados nos grupos de ocupação F-2, F-6 e outros, conforme 
+ocaso. 
+(G) As cozinhas e suas áreas de apoio, nas ocupações F-6 e F-8, têm sua ocupação admitida 
+como no grupo D, isto é, uma pessoa por 7,0 m² de área. 
+(H) Em hospitais e clínicas com internamento (H-3), que tenham pacientes ambulatoriais, 
+acresce-se à área calculada por leito, a área de pavimento correspondente ao ambulatório, na 
+base de uma pessoa por 7,0 m². 
+(I) O símbolo “+” indica necessidade de consultar normas e regulamentos específicos (não 
+cobertos por esta Instrução Técnica). 
+(J) A parte de atendimento ao público de comércio atacadista deve ser considerada como do 
+grupoC. 
+(L) Em edificações com áreas destinadas aos serviços de tele atendimento e similares deverá 
+ser levado em consideração o leiaute da edificação e a previsão do número de funcionários que 
+permanecerão no ambiente. Quando não for possível a apresentação do leiaute, deverá ser 
+considerada a proporção de 2 (duas) pessoas/m². 
+(L.1) Para as demais áreas da edificação deverão ser aplicados os critérios estabelecidos na 
+tabela 
+. 
+(M) Havendo ocupações secundárias tais como depósitos, fábricas, locais de reunião de público, 
+dentre outras, no PSCIP referente à divisão principal H-4, deverão ser adotados os parâmetros 
+específicos para cada ocupação secundária para cálculo de população. 
+(N) O dimensionamento das saídas de emergência em divisões H-5 deverá ser feito com base 
+na população informada pelo responsável pela edificação, sendo este cálculo de 
+responsabilidade do Responsável Técnico. Neste caso, deverá constar no PSCIP declaração 
+informando que o dimensionamento atende às normas específicas do sistema prisional. 
+(O) Quanto à densidade populacional, as edificações poderão apresentar coeficientes superiores 
+ao previsto, desde que seja observado o limite de 02 (duas) pessoas por m² e as saídas sejam 
+dimensionadas em quantidade e largura suficientes para atender à populaçãoprevista. 
+(P) Para salões de festa, caracterizados como ocupação secundária, pertencentes a edifícios 
+residenciais, poderá ser admitida a limitação de público para fins de dimensionamento das 
+saídas de emergência, com redução de, no máximo, 02 UP, respeitando-se a largura mínima 
+prevista em 5.4.2 desta IT.
+
+--- PÁGINA 35 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+35/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+Tabela 5: Distâncias máximas a serem percorridas 
+Tipo de 
+edificação 
+Grupo e 
+divisão de 
+ocupação 
+Sem chuveiros automáticos 
+Com chuveiros automáticos 
+Saída única 
+Mais de uma saída 
+Saída única 
+Mais de uma saída 
+Detecção 
+automática de 
+fumaça 
+Detecção automática 
+de fumaça 
+Detecção automática 
+de fumaça 
+Detecção automática 
+de fumaça 
+SEM 
+COM 
+SEM 
+COM 
+SEM 
+COM 
+SEM 
+COM 
+X 
+Qualquer 
+25,0 m 
+40,0 m 
+35,0 m 
+50,0 m 
+40,0 m 
+55,0 m 
+50,0 m 
+65,0 m 
+Y 
+Qualquer 
+35,0 m 
+50,0 m 
+45,0 m 
+60,0 m 
+50,0 m 
+65,0 m 
+60,0 m 
+75,0 m 
+Z 
+C, D, E, F, 
+G-3, G-4, H, 
+I, L e M 
+50,0 m 
+65,0 m 
+60,0 m 
+75,0 m 
+65,0 m 
+80,0 m 
+75,0 m 
+90,0 m 
+A, B, G-1, 
+G-2 e J 
+55,0 m 
+70,0 m 
+65,0 m 
+80,0 m 
+70,0 m 
+85,0 m 
+80,0 m 
+95,0 m 
+Notas: 
+Para que ocorram as distâncias previstas na tabela 5, é necessária a apresentação de 
+leiaute definido em planta baixa (de salão aberto, sala de eventos, escritório panorâmico e 
+outros). Do contrário, as distâncias definidas acima serão reduzidas a 30% (trinta por cento).
+
+--- PÁGINA 36 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+36/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+Tabela 6: Número de saídas e tipos de escada 
+Dimensão 
+N (área de pavimentos < ou igual a 750 m²) 
+O (área de pavimento> 750 m²) 
+Altura 
+(metros) 
+H  12 
+12  H 30 
+30  H 54 Acima de 54 
+H  12 
+12  H 30 30  H 54 Acima de 54 
+Ocupação 
+Nº Tipo 
+Esc 
+Nº 
+Tipo 
+Esc 
+Nº 
+Tipo 
+Esc 
+Nº 
+Tipo 
+Esc 
+Nº 
+Tipo 
+Esc 
+Nº 
+Tipo 
+Esc 
+Nº 
+Tipo 
+Esc 
+Nº 
+Tipo 
+Esc 
+Gr. 
+Div. 
+ 
+A 
+A-2* 
+A-3 
+1 
+1 
+NE 
+NE 
+1 
+1 
+EP 
+EP 
+1 
+2 
+PF 
+PF 
+1 
+2 
+PF 
+PF 
+1 
+1 
+NE 
+NE 
+2* 
+2 
+EP 
+EP 
+2* 
+2 
+PF 
+PF 
+2* 
+2 
+PF 
+PF 
+B 
+B-1 
+B-2 
+1 
+1 
+NE 
+NE 
+1 
+1 
+PF 
+PF 
+2 
+2 
+PF 
+PF 
+2 
+2 
+PF 
+PF 
+2 
+2 
+NE 
+NE 
+2 
+2 
+PF 
+PF 
+2 
+2 
+PF 
+PF 
+2 
+2 
+PF 
+PF 
+C 
+C-1 
+C-2 
+C-3 
+1 
+1 
+1 
+NE 
+NE 
+NE 
+1 
+1 
+2 
+EP 
+EP 
+PF 
+2 
+2 
+2 
+EP 
+PF 
+PF 
+2 
+2 
+2 
+EP 
+PF 
+PF 
+2 
+2 
+2 
+NE 
+NE 
+NE 
+2 
+2 
+3 
+PF 
+PF 
+PF 
+2 
+3 
+3 
+PF 
+PF 
+PF 
+2 
+3 
+3 
+PF 
+PF 
+PF 
+D 
+- 
+1 
+NE 
+1 
+EP 
+1 
+PF 
+1 
+PF 
+2 
+NE 
+2 
+PF 
+2 
+PF 
+2 
+PF 
+E 
+E-1 
+E-2 
+E-3 
+E-4 
+E-5 
+E-6 
+1 
+1 
+1 
+1 
+1 
+2 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+1 
+1 
+1 
+1 
+1 
+2 
+EP 
+EP 
+EP 
+EP 
+EP 
+EP 
+2 
+2 
+2 
+3 
+2 
+2 
+PF 
+PF 
+PF 
+PF 
+PF 
+PF 
+2 
+2 
+2 
+3 
+2 
+2 
+PF 
+PF 
+PF 
+PF 
+PF 
+PF 
+2 
+2 
+2 
+2 
+2 
+2 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+2 
+2 
+2 
+2 
+2 
+2 
+PF 
+PF 
+PF 
+PF 
+PF 
+PF 
+3 
+3 
+3 
+3 
+3 
+3 
+PF 
+PF 
+PF 
+PF 
+PF 
+PF 
+3 
+3 
+3 
+3 
+3 
+3 
+PF 
+PF 
+PF 
+PF 
+PF 
+PF 
+F 
+F-1 
+F-2 
+F-3 
+F-4 
+F-5 
+F-6 
+F-7 
+F-8 
+F-9 
+F-10 
+F-11 
+1 
+1 
+2 
+2 
+2 
+2 
+2 
+1 
+2 
+1 
+1 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+2 
+2 
+2 
++ 
+2 
+2 
+- 
+2 
+2 
+2 
+2 
+EP 
+PF 
+NE 
++ 
+PF 
+PF 
+- 
+PF 
+EP 
+EP 
+EP 
+2 
+2 
+2 
++ 
+2 
+2 
+- 
+2 
+2 
+2 
+2 
+PF 
+PF 
+PF 
++ 
+PF 
+PF 
+- 
+PF 
+PF 
+PF 
+PF 
+2 
+2 
+2 
++ 
+2 
+2 
+- 
+2 
+2 
+2 
+2 
+PF 
+PF 
+PF 
++ 
+PF 
+PF 
+- 
+PF 
+PF 
+PF 
+PF 
+2 
+2 
+2 
+2 
+2 
+2 
+3 
+2 
+2 
+2 
+2 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+2 
+2 
+2 
++ 
+2 
+2 
+- 
+2 
+2 
+2 
+2 
+PF 
+PF 
+PF 
++ 
+PF 
+PF 
+- 
+PF 
+PF 
+PF 
+EP 
+2 
+2 
+2 
++ 
+3 
+2 
+- 
+2 
+2 
+2 
+2 
+PF 
+PF 
+PF 
++ 
+PF 
+PF 
+- 
+PF 
+PF 
+PF 
+PF 
+2 
+2 
+2 
++ 
+3 
+2 
+- 
+2 
+2 
+2 
+2 
+PF 
+PF 
+PF 
++ 
+PF 
+PF 
+- 
+PF 
+PF 
+PF 
+PF 
+ 
+G 
+G-1 
+G-2 
+G-3 
+G-4 
+G-5 
+1 
+1 
+1 
+1 
+1 
+NE 
+NE 
+NE 
+NE 
+NE 
+1 
+1 
+1 
+1 
+1 
+NE 
+EP 
+PF 
+EP 
+NE 
+1 
+1 
+1 
+1 
+- 
+EP 
+EP 
+PF 
+PF 
+- 
+1 
+1 
+1 
+1 
+- 
+EP 
+EP 
+PF 
+PF 
+- 
+2 
+2 
+2 
+2 
+2 
+NE 
+NE 
+NE 
+NE 
+NE 
+2 
+2 
+2 
+2 
+2 
+NE 
+EP 
+PF 
+PF 
+EP 
+2 
+2 
+2 
+2 
+2 
+EP 
+PF 
+PF 
+PF 
+PF 
+2 
+2 
+2 
+2 
+2 
+EP 
+PF 
+PF 
+PF 
+PF 
+H 
+H-1 
+H-2 
+H-3 
+H-4 
+H-5 
+H-6 
+1 
+1 
+2 
+2 
+2 
+1 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+1 
+1 
+2 
+2 
++ 
+1 
+EP 
+PF 
+PF 
+EP 
++ 
+PF 
+- 
+1 
+2 
+2 
++ 
+1 
+- 
+PF 
+PF 
+PF 
++ 
+PF 
+- 
+1 
+2 
+2 
++ 
+1 
+- 
+PF 
+PF 
+PF 
++ 
+PF 
+2 
+2 
+2 
+2 
+2 
+2 
+NE 
+NE 
+NE 
+NE 
+NE 
+NE 
+2 
+2 
+2 
+2 
++ 
+2 
+EP 
+PF 
+PF 
+PF 
++ 
+PF 
+- 
+2 
+3 
+2 
++ 
+2 
+- 
+PF 
+PF 
+PF 
++ 
+PF 
+- 
+2 
+3 
+2 
++ 
+2 
+- 
+PF 
+PF 
+PF 
++ 
+PF 
+I 
+I-1 
+I-2 
+I-3 
+2 
+2 
+2 
+NE 
+NE 
+NE 
+1 
+1 
+1 
+EP 
+EP 
+PF 
+2 
+2 
+2 
+EP 
+PF 
+PF 
+2 
+2 
+2 
+EP 
+PF 
+PF 
+2 
+2 
+2 
+NE 
+NE 
+NE 
+2 
+2 
+3 
+PF 
+PF 
+PF 
+2 
+2 
+3 
+PF 
+PF 
+PF 
+2 
+2 
+3 
+PF 
+PF 
+PF 
+J 
+- 
+1 
+NE 
+1 
+NE 
+1 
+NE 
+1 
+NE 
+2 
+NE 
+2 
+PF 
+2 
+PF 
+2 
+PF 
+L 
+L-1 
+L-2 
+L-3 
+1 
+2 
+2 
+- 
+NE 
+NE 
+- 
+2 
+2 
+- 
+PF 
+PF 
+- 
+3 
+3 
+- 
+PF 
+PF 
+- 
+3 
+3 
+- 
+PF 
+PF 
+- 
+2 
+2 
+- 
+NE 
+NE 
+- 
+3 
+3 
+- 
+PF 
+PF 
+- 
+3 
+3 
+- 
+PF 
+PF 
+- 
+3 
+3 
+- 
+PF 
+PF 
+M 
+M-1 
+M-2 
+M-3 
+M-4 
+M-5 
+1 
+2 
+2 
+1 
+2 
+NE 
+EP 
+NE 
+NE 
+NE 
++ 
+2 
+2 
+1 
+2 
++ 
+PF 
+PF 
+NE 
+PF 
++ 
+3 
+2 
+1 
+2 
++ 
+PF 
+PF 
+NE 
+PF 
++ 
+3 
+2 
+1 
+2 
++ 
+PF 
+PF 
+NE 
+PF 
+2 
+2 
+2 
+1 
+2 
+NE 
+NE 
+NE 
+NE 
+NE 
++ 
+3 
+2 
+2 
+2 
++ 
+PF 
+PF 
+NE 
+PF 
++ 
+3 
+2 
+2 
+2 
++ 
+PF 
+PF 
+NE 
+PF 
++ 
+3 
+2 
+2 
+2 
++ 
+PF 
+PF 
+NE 
+PF 
+NOTAS: 
+(A) Para o uso desta tabela, devem ser consultadas as tabelas anteriores, onde são dadas as 
+significações dos códigos alfabéticos e alfanuméricos utilizados. 
+(B) Abreviatura dos tipos deescada: 
+NE = Escada não enclausurada (escada comum);
+
+--- PÁGINA 37 ---
+CBMMG IT08 – Saídas de Emergência em Edificações  
+2ª edição  
+37/37 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+EP = Escada enclausurada protegida (escada protegida); 
+PF = Escada à prova de fumaça. 
+(C) Outros símbolos e abreviaturas usados nesta tabela: 
+Nºs = Números de saídas mínimos obrigatórios, em qualquer caso; 
+Tipo esc. = Tipo de escada; 
+Gr.= Grupo de ocupação (uso)-conforme a  t abela de classificação das edificações e áreas de 
+risco quanto à ocupação do Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco do Estado de Minas Gerais. 
+Div. = Subdivisão do grupo de ocupação - conforme a  t abela de classificação das edificações e 
+áreas de risco quanto à ocupação do Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco do Estado de Minas Gerais. 
+*= Admite saída única nas habitações multifamiliares (A-2), não havendo mais de quatro 
+unidades autônomas por pavimento. 
+- = Não se aplica. 
++ =Símbolo que indica necessidade de consultar normas e regulamentos específicos (ocupação 
+não coberta por esta IT); 
+(D) Grupo H-2 e H-3: 
+(D.1) Altura até 12,0 m = havendo exigência de mais de uma saída para emergência, no mínimo 
+uma deve ser por rampa. 
+(D.2) Altura superior a 12,0 m = além das saídas de emergências por escadas (tabela 6), deve 
+possuir elevador de emergência (ver figura 12) e áreas de refúgio (ver figura 21). As áreas de 
+refúgio quando situada somente em alguns pavimentos de níveis diferentes deve ter seus 
+acessos ligados por rampa (5.6.1 alíneas “a”). As edificações que possuam área de refúgio em 
+todos os pavimentos (exceto pavimento térreo) não há necessidade de rampa interligando os 
+diferentes níveis em acessos às áreas de refúgio. 
+(E) Havendo necessidade de 2 (duas) ou mais escadas de segurança, uma delas poderá ser do 
+tipo Aberta Externa, atendendo ao item 5.7.14 desta Instrução Técnica. 
+(F) A quantidade mínima de saídas (escadas e/ou portas) previstas nesta tabela pode ser 
+desconsiderada, exceto para edificações das divisões F-6, H-2 e H-3, desde que a edificação 
+possua até 36,0 m de altura e sejam atendidos os parâmetros de distância máxima a percorrer 
+(tabela 5) e quantidade mínima de unidades de passagem para a lotação prevista na tabela 4. 
+(G) O número de saídas de emergência depende também do dimensionamento pelo cálculo da 
+população e das distâncias a serem percorridas.

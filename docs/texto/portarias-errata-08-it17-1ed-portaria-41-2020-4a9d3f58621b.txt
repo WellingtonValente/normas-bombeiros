@@ -1,0 +1,148 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 12546371 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14585075&infra…
+1/4
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 19 de março de 2020.
+  
+ERRATA CBMMG/DAT Nº. 8/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 17 – 1ª Edição
+(Sistema de Hidrantes e MangoƟnhos para Combate a Incêndio): 
+ 
+1. ALTERAR o item 5.1.2 
+Onde se lê: 
+5.1.2 Todos os parâmetros, ábacos, tabelas e outros recursos uƟlizados no projeto e no dimensionamento
+devem ser relacionados no memorial. Não é admiƟda a referência a outro projeto para jusƟﬁcar a
+aplicação de qualquer informação no memorial. 
+Leia-se:  
+5.1.2 Os procedimentos de cálculo e seu conteúdo são de responsabilidade exclusiva do Responsável
+Técnico. 
+ 
+2. ALTERAR o item 5.2.1 
+Onde se lê: 
+5.2.1 O sistema a ser instalado deve corresponder um memorial, constando cálculos, dimensionamentos
+e uma perspecƟva isométrica da tubulação (sem escala, com cotas e com os hidrantes numerados),
+conforme prescrito na IT 01 (Procedimentos AdministraƟvos). 
+Leia-se: 
+5.2.1 O sistema de Hidrantes e MangoƟnhos para combate a incêndio deve ser apresentado seguindo os
+critérios deﬁnidos em instrução técnica especíﬁca. 
+ 
+3. ALTERAR o item 5.6.1.2 
+Onde se lê: 
+5.6.1.2 As vazões da tabela 2 correspondem a: 
+a) esguicho regulável na posição de maior vazão para sistema Ɵpo 1; 
+b) jato compacto de 13 mm para sistema Ɵpo 2; 
+c) jato compacto de 16 mm para sistema Ɵpo 3; 
+d) jato compacto de 19 mm para sistema Ɵpo 4; 
+e) jato compacto de 25 mm para sistema Ɵpo 
+Leia-se: 
+5.6.1.2 As vazões da tabela 2 correspondem a: 
+a) esguicho regulável na posição de maior vazão para sistema Ɵpo 1; 
+b) jato compacto de 13 mm para sistema Ɵpo 2;
+
+--- PÁGINA 2 ---
+09/10/2020
+SEI/GOVMG - 12546371 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14585075&infra…
+2/4
+c) jato compacto de 16 mm para sistema Ɵpo 3; 
+d) jato compacto de 19 mm para sistema Ɵpo 4; 
+e) jato compacto de 25 mm para sistema Ɵpo 5. 
+ 
+4. ALTERAR o item 5.5.6.1.3 
+Onde se lê: 
+5.5.6.1.3 As ediﬁcações, em que for instalado o sistema do Ɵpo 1 devem ser dotada de ponto de tomada
+de água de engate rápido para mangueira de incêndio de diâmetro 40 mm (1½”), conforme Anexo A. 
+Leia-se: 
+5.6.1.3 As ediﬁcações em que for instalado o sistema do Ɵpo 1 devem ser dotadas de ponto de tomada
+de água de engate rápido para mangueira de incêndio de diâmetro 40 mm (1½”), conforme Anexo A. 
+ 
+5. ALTERAR o item 5.18.1 
+Onde se lê: 
+5.18.1 A proteção por sistemas de hidrantes para as áreas de risco desƟnadas a parques de tanques ou
+tanques isolados, devem atender as IT 19 (Sistemas de resfriamento de líquidos e gases combusơveis ou
+inﬂamáveis) e IT 20 (Sistemas de proteção por espuma). 
+Leia-se:
+5.18.1 A proteção por sistemas de hidrantes para as áreas de risco desƟnadas a parques de tanques ou
+tanques isolados deve atender à NBR 17.505 - Armazenamento de líquidos inﬂamáveis e combusơveis. 
+ 
+6. ALTERAR o item 5.18.5 
+Onde se lê: 
+5.18.5 Para ﬁns de dimensionamento da reserva de incêndio para os casos do sistema de hidrantes, de
+resfriamento ou de espuma, o volume da reserva do sistema de hidrantes calculado para as condições do
+item 5.8.7 não é somado ao volume da reserva de água dos demais sistemas, caso as áreas de risco, tais
+como: tanques isolados ou parques de tanques sejam separados das demais construções de acordo com
+a IT 22 (Armazenamento de Líquidos Inﬂamáveis ou Combusơveis). 
+Leia-se:
+5.18.5 Para ﬁns de dimensionamento da reserva de incêndio para os casos do sistema de hidrantes, de
+resfriamento ou de espuma, o volume da reserva do sistema de hidrantes calculado para as condições do
+item 5.8.7 não é somado ao volume da reserva de água dos demais sistemas, caso as áreas de risco, tais
+como: tanques isolados ou parques de tanques sejam separados das demais construções.
+ 
+7. ALTERAR o item B.4 Fontes naturais (lagos, rios, açudes, lagoas) 
+Onde se lê: 
+B.4.6 Antes de entrar na câmara de decantação, a água deve passar através de uma grade de arame ou
+uma placa de metal perfurada, localizada abaixo do nível de água e com uma área agregada de aberturas
+de no mínimo 15 cm² para cada dm³/min da vazão Q; a grade deve ser suﬁcientemente resistente para
+suportar a pressão exercida pela água em caso de obstrução. 
+B.4.7 É recomendável que duas grades sejam previstas, sendo que enquanto uma delas se encontra em
+operação, a outra pode ser suspensa para limpeza. 
+B.4.8 Deve ser feita uma previsão para que as câmaras de sucção e de decantação possam ser isoladas
+periodicamente para a limpeza e manutenção.
+
+--- PÁGINA 3 ---
+09/10/2020
+SEI/GOVMG - 12546371 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14585075&infra…
+3/4
+B.4.9 Nos casos da ﬁgura B.6 o conduto de alimentação deve possuir uma inclinação mínima constante
+de 0,8%, no senƟdo da câmara de decantação, e um diâmetro que obedeça à seguinte equação: 
+𝐃= 𝟐𝟏,𝟔𝟖 × 𝐐 𝟎,𝟑𝟓𝟕
+Onde:
+D – é o diâmetro interno do conduto, em milímetros; e
+Q – é a máxima vazão da bomba principal, em decímetros cúbicos por minuto.
+B.4.10 Ainda nos casos da ﬁgura B.6, a entrada do conduto de alimentação deve possuir um ralo,
+submerso no mínimo um diâmetro abaixo do nível de água conhecido, para o açude, represa, rios, lagos
+ou lagoas; as aberturas do ralo citado devem impedir a passagem de uma esfera de 25 mm de diâmetro.
+ 
+Leia-se:
+B.4.7 Antes de entrar na câmara de decantação, a água deve passar através de uma grade de arame ou
+uma placa de metal perfurada, localizada abaixo do nível de água e com uma área agregada de aberturas
+de no mínimo 15 cm² para cada dm³/min da vazão Q; a grade deve ser suﬁcientemente resistente para
+suportar a pressão exercida pela água em caso de obstrução.
+B.4.8 É recomendável que duas grades sejam previstas, sendo que enquanto uma delas se encontra em
+operação, a outra pode ser suspensa para limpeza.
+B.4.9 Deve ser feita uma previsão para que as câmaras de sucção e de decantação possam ser isoladas
+periodicamente para a limpeza e manutenção.
+B.4.10 Nos casos da ﬁgura B.6 o conduto de alimentação deve possuir uma inclinação mínima constante
+de 0,8%, no senƟdo da câmara de decantação, e um diâmetro que obedeça à seguinte equação:
+𝐃= 𝟐𝟏,𝟔𝟖 × 𝐐 𝟎,𝟑𝟓𝟕
+Onde:  
+D – é o diâmetro interno do conduto, em milímetros; e 
+Q – é a máxima vazão da bomba principal, em decímetros cúbicos por minuto. 
+B.4.11 Ainda nos casos da ﬁgura B.6, a entrada do conduto de alimentação deve possuir um ralo,
+submerso no mínimo um diâmetro abaixo do nível de água conhecido, para o açude, represa, rios, lagos
+ou lagoas; as aberturas do ralo citado devem impedir a passagem de uma esfera de 25 mm de diâmetro.
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de AƟvidades Técnicas
+ 
+ 
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 20/03/2020, às
+16:27, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 12546371
+e o código CRC F6A8E44F.
+Referência: Processo nº 1400.01.0016459/2020-51
+SEI nº 12546371
+
+--- PÁGINA 4 ---
+09/10/2020
+SEI/GOVMG - 12546371 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14585075&infra…
+4/4

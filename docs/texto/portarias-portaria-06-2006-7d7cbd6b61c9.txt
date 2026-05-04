@@ -1,0 +1,1737 @@
+--- PÁGINA 1 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+404 
+ 
+ 
+PORTARIA Nº 06 DE 12 DE MAIO DE 2006. 
+ 
+Aprova as erratas e alterações das Instruções Técnicas enumeradas de 01 a 36, em virtude da entrada em vigor 
+d o Decreto Estadual nº 44.270/06 – Regulamento de Segurança Contra Incêndio e Pânico em Edificações e 
+Áreas de Risco no Estado de Minas Gerais, que revogou o Decreto 43.805/04. 
+ 
+ 
+O CORONEL BM COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS, no uso de suas atribuições legais e na forma do 
+Inciso II, do artigo 142, da Constituição Estadual, da Lei Complementar nº 54/99 e da Lei nº 14.130, de 19 de dezembro de 2001 e Decreto 44.270/06, 01 de abril 
+de 2006, que trata do Regulamento de Segurança Contra Incêndios e Pânico das Edificações e Áreas de Risco no Estado de Minas Gerais: 
+ 
+ 
+RESOLVE, 
+ 
+ 
+Art. 1º Ficam aprovadas, as erratas e alterações das instruções técnicas, enumeradas de 01 a 36, que regulamentam medidas e procedimentos de 
+segurança contra incêndio e pânico nas edificações e áreas de risco, previstas no decreto 44.270/06, vigorando seus efeitos a partir de sua publicação, 
+observando-se o artigo 2º desta Portaria. 
+ 
+ 
+Art. 2º Os Processo de Segurança Contra Incêndio e Pânico protocolados no CBMMG até 19 de maio de 2006, poderão atender os parâmetros 
+normativos prescritos nas Instruções Técnicas em vigor até a publicação desta Portaria. 
+ 
+ 
+Art. 3º Revogam-se as disposições em contrário. 
+  
+ 
+Comando Geral, em Belo Horizonte, 12 de maio de 2006. 
+ 
+ 
+JOSÉ HONORATO AMENO, CEL BM 
+COMANDANTE GERAL 
+ 
+ 
+ERRATA DAS INSTRUÇÕES TÉCNICAS DO REGULAMENTO DE SEGURANÇA CONTRA INCÊNDIO DAS EDIFICAÇÕES E ÁREAS DE RISCO DO ESTADO 
+DE MINAS GERAIS. 
+ 
+Instruções Técnicas 
+Itens a Regularizar
+
+--- PÁGINA 2 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+405 
+ 
+ 
+1 – Procedimentos administrativos 
+A letra D dos anexos da capa da IT passa a ter a seguinte redação:  
+D – Planta das medidas de Segurança Contra Incêndio e Pânico 
+O item 1 que trata do objetivo da norma passa a ter a seguinte redação: 
+Estabelecer os critérios para apresentação de processo de segurança contra incêndio e pânico, nas 
+edificações ou áreas de risco no Estado de Minas Gerais, atendendo ao Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 2. 1 que trata da aplicação da norma passa a ter a seguinte redação: 
+2.1 A presente Instrução Técnica aplica-se aos processos de segurança contra incêndio e pânico no Corpo de 
+Bombeiros Militar de Minas Gerais (CBMMG). 
+O item 3 passa a ter o acréscimo das seguintes redações: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe sobre a prevenção contra incêndio e pânico no Estado 
+de Minas Gerais. 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+Lei estadual nº 15.778, de 26 de outubro de 2005. 
+O item 4 passa a ter a seguinte redação: 
+Para os efeitos desta Instrução Técnica aplicam-se as definições constantes da IT 02 - Terminologia de 
+Proteção Contra Incêndio e pânico. 
+No item 5.1.1 Projeto Técnico acrescentar as seguintes alíneas: 
+d) locais de reunião de público com população acima de 100 (cem) pessoas; e 
+e) onde a edificação e área de risco haja necessidade de comprovação da situação de separação entre 
+edificações e área de risco, conforme Instrução Técnica 05; 
+O item 5.1.1.2 alínea j passa a ter a seguinte redação: 
+j) memorial de cálculos de sistema fixo de combate a incêndio (hidrante, sprinkler e resfriamento) e rotas de 
+fuga e outros, especificados em Instruções Técnicas, quando for o caso; 
+No item 5.1.1.2.1 Cartão de identificação passa a ter a seguinte redação: 
+Ficha elaborada em papel cartão ou equivalente, na cor branca, nas dimensões de 21(largura) cm x 15 cm 
+(comprimento), que contém os dados básicos da edificação e área de risco, com finalidade de controle do 
+Projeto técnico no CBMMG (anexo A). 
+ No item 5.1.1.2.3 passa a ter a seguinte redação: 
+Documento que contém os dados básicos da edificação e áreas de risco, signatários, medidas de segurança 
+contra incêndio e pânico previstos, devendo: 
+ 
+O item 5.1.1.2.5 alínea b passa a ter a seguinte redação: 
+ b) os campos devem ser preenchidos, exceção feita ao campo denominado Descrição complementar que 
+ficará a critério do RT; no campo “descrição das atividades profissionais contratadas” deve estar especificado o 
+serviço pelo qual o profissional se responsabiliza; 
+ 
+No item 5.1.1.2.6.15 Memorial de cálculo de pressurização da escada foi acrescentada a seguinte redação: 
+M
+ó i
+d
+ál
+l
+d
+ã
+d
+d
+i
+d
+i
+ã
+d
+d
+
+--- PÁGINA 3 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+406 
+ 
+ 
+ 
+ 
+2 – Terminologia de Proteção Contra 
+incêdio e Pânico 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe sobre a prevenção contra incêndio e pânico no 
+Estado de Minas Gerais. 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4.50 passa a ter a seguinte redação: 
+4.50 Auto de Vistoria do Corpo de Bombeiros (AVCB): Documento emitido pelo CBMMG, certificando 
+que a edificação possui as condições de segurança contra incêndio e pânico, previstas na legislação, 
+estabelecendo um período de revalidação. 
+O item 4.85 passa a ter a seguinte redação: 
+b) Classe II: até 1.080 kg ou 2,0 m3 de GLP (equivalente a 83 botijões de 13 k g ou 24 de 45 kg); 
+Neste mesmo item onde se lê alínea (f) 
+Leia-se alínea (e) 
+O item 4.92 passa a ter a seguinte redação: 
+4.92 Compartimentação vertical e horizontal: Medidas de proteção passiva, constituída de elementos 
+de construção resistentes ao fogo, destinados a evitar ou minimizar a propagação do fogo, calor e 
+gases, interna ou externamente ao edifício, no mesmo pavimento ou para pavimentos elevados 
+consecutivos.  Incluem-se neste conceito os elementos de vedação abaixo descritos: 
+Os item abaixo passam a ter a seguinte redação: 
+4.95 compartimentação vertical: Medida de proteção, constituída de elementos construtivos resistentes 
+ao fogo, separando pavimentos consecutivos, de tal modo que o incêndio fique contido no local de 
+origem e dificulte a sua propagação no plano vertical. 
+4.103 Corpo técnico: Grupo de estudos formado por profissionais qualificados do CBMMG, legalmente 
+habilitado no âmbito de segurança contra incêndio e pânico, tendo como objetivos propor normas de 
+prevenção contra incêndio e pânico (PCIP), analisar, avaliar e emitir pareceres relativos aos casos que 
+necessitarem de soluções técnicas complexas ou apresentarem dúvidas quanto às exigências 
+previstas no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco d o 
+Estado de Minas Gerais. 
+4.156 Espuma mecânica: Agente extintor constituído por um aglomerado de bolhas produzidas por 
+agitação da água com Líquido Gerador de Espuma (LGE) e ar. 
+4.188 Grelha de insuflamento: Dispositivo utilizado nas redes de distribuição de ar, posicionado no final
+
+--- PÁGINA 4 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+407 
+ 
+ 
+de cada trecho.  Este elemento terminal é utilizado para direcionar e/ou distribuir de modo adequado o 
+fluxo de ar em determinado ambiente 
+4.209 Iluminação de balizamento ou de sinalização: Iluminação de sinalização com símbolos e/ou 
+letras que indicam a rota de saída que pode ser utilizada em caso de emergência. 
+4.227 Instrução técnica: Documento elaborado pelo Corpo de Bombeiros Militar de Minas Gerais com 
+objetivo de normalizar medidas e procedimentos de segurança, prevenção e proteção contra incêndio e 
+pânico  nas edificações e áreas de risco. 
+4.246 Líquido combustível: Líquido que possui ponto de fulgor igual ou superior a 37,8ºC, subdividido 
+como segue: 
+a) classe II: líquidos que possuem ponto de fulgor igual ou superior a 37,8ºC e inferior a 60ºC – todos 
+os tipos de óleo diesel, aguarrás e querosene (iluminante e de aviação). 
+b) classe IIIA: líquidos que possuem ponto de fulgor igual ou superior a 60º C e inferior a 93,4º C - 
+todos os tipos de óleo combustível. 
+c) classe IIIB: Líquidos que possuem ponto de fulgor igual ou superior a 93,4ºC - todos os tipos de 
+lubrificantes. 
+4.247 Líquido inflamável: Líquido que possui ponto de fulgor inferior a 37,8ºC, também conhecido 
+como líquido Classe I, subdividindo-se em: 
+a) classe IA: líquido com ponto de fulgor abaixo de 22,8ºC e ponto de ebulição abaixo de 37,8ºC – 
+todos os tipos de gasolina (incluindo gasolina de aviação). 
+b) classe IB: líquido com ponto de fulgor abaixo de 22,8ºC e ponto de ebulição igual ou acima de 
+37,8ºC – todos os tipos de álcool. 
+c) classe IC: líquido com ponto de fulgor igual ou acima de 22,8ºC e ponto de ebulição abaixo de 
+37,8ºC. – solventes (conforme ficha de segurança do produto). 
+No item 4 (definições) foi inserido o conceito abaixo, alterando toda a numeração para os demais 
+conceitos que se seguem a partir desse item, sendo que após este os demais ficam na mesma ordem 
+porém com numeração subseqüente até  a definição de população flutuante sendo que este passa a 
+ter a numeração 4.326.  
+4.248 Líquidos instáveis ou reativos: Líquidos que, no estado puro ou nas especificações comerciais, 
+por efeito de variação de temperatura e pressão, ou de choque mecânico, na estocagem ou no 
+transporte, se tornem auto-reativos e, em conseqüência, se decomponham, polimerizem ou venham a 
+explodir. 
+Os conceitos que se seguem passam a ter a seguinte redação: 
+Medidas de proteção contra incêndio e pânico: Conjunto de ações e dispositivo a serem instalados nas 
+edificações e áreas de risco necessário a evitar o surgimento de incêndio e pânico, limitar sua 
+propagação, possibilitar sua extinção e ainda propiciar a proteção à incolumidade das pessoas, ao
+
+--- PÁGINA 5 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+408 
+ 
+ 
+meio ambiente e ao patrimônio. 
+Mudança de ocupação: Consiste na alteração de uso da edificação que motive a mudança de 
+classificação na tabela 1, prevista no Regulamento de Prevenção Contra Incêndio e Pânico. 
+No conceito nível de acesso onde se lê: parâmetro  
+Leia-se: paramento. 
+Os conceitos abaixo passam a ter a seguinte redação: 
+Pânico: Susto ou pavor repentino, que provoca nas pessoas, reação desordenada, individual ou 
+coletiva, de propagação rápida; 
+Perícia técnica: Consiste no levantamento e apuração efetuado por profissional do CBMMG, 
+legalmente habilitado, para emissão de parecer técnico quanto aos sinistros e exigências de proteção  
+contra incêndio e pânico nas edificações, mediante exame circunstanciado e descrição minuciosa dos 
+elementos que o constituem, bem como das causas do desenvolvimento e conseqüências dos 
+incêndios, através do exame técnico das edificações, materiais e equipamentos, no local ou em 
+laboratório especializado, apontando as causas que o motivaram. 
+Pilotis: Local edificado de uso comum, aberto em pelo menos três lados.  Considera-se, também, como 
+tal, o local coberto, aberto em pelo menos duas faces opostas, cujo perímetro aberto tenha, no 
+mínimo, 70% do perímetro total. Também se inclui nesta categoria, o nível de transição das estruturas 
+da edificação, onde os pilares se encontram com os elementos de fundação ou onde os pilares mudam 
+de forma e ficam aparentes, em atendimento ao projeto arquitetônico.  
+Planta: Desenho onde estão situadas uma ou mais empresas, com uma única ou mais edificações.  
+O conceito porta corta-fogo passa a ter a seguinte redação suprimindo as definições anteriores para 
+este item. 
+Porta corta-fogo (PCF): Dispositivo construtivo (Conjunto de folha(s) de porta, marco e acessórios), 
+com tempo mínimo de resistência ao fogo, instalado nas aberturas da parede de compartimentação, 
+destinadas à circulação de pessoas e de equipamentos. É um dispositivo móvel que, vedando 
+aberturas em paredes, retarda a propagação do incêndio de um ambiente para outro. Quando 
+instaladas nas escadas de segurança, possibilitam que os ocupantes das edificações atinjam os pisos 
+de descarga com as suas integridades físicas garantidas.Deve atender as exigências de resistência 
+mecânica, estanqueidade e isolamento térmico. 
+A partir do item 4.328 a numeração passa a ser alterada  para as definições, sendo que este item 
+passa a ser 4.327 e assim sucessivamente para os demais itens subseqüentes. 
+ 
+Os conceitos abaixo passam a ter a seguinte redação: 
+Procedimento sumário: Constitui-se na ação de análise e vistoria do CBMMG em edificações de uso 
+coletivo, com área de até 750 m2 (setecentos e cinqüenta metros quadrados) regulados por me ios de
+
+--- PÁGINA 6 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+409 
+ 
+ 
+instrução técnica. 
+Produtos Perigosos: Todas as substâncias cuja liberação ou ameaça de liberação cause risco ao ser 
+humano, ao meio ambiente e às propriedades. Ou ainda, conforme o Manual de Defesa Civil Estudos 
+de Riscos e Medicina de Desastres, aqueles produtos cujo manuseio e tráfego apresentam risco à 
+vida, ao meio ambiente e ao patrimônio individual ou público.  
+Profissional legalmente habilitado: Pessoa física ou jurídica que goza do direito, segundo as leis 
+vigentes, de prestar serviços especializados de proteção contra incêndio. 
+Risco iminente: É a constatação de situação atual e iminente de exposição ao perigo e a probabilidade 
+de ocorrência de um sinistro que deve ser fundamentada pelo bombeiro militar durante a realização de 
+vistoria levando se em consideração a exposição ao perigo potencial e as medidas de proteção 
+adotadas no local.  
+Risco isolado: Risco separado dos demais por paredes ou espaços desocupados, suficientes para 
+evitar a propagação de incêndio de uma edificacão para a outra. 
+Na definição Saída ou rota de fuga onde se lê apresentando-se: 
+Leia-se: proporcionado 
+A definições abaixo passam a ter a seguinte redação: 
+Serviço de segurança contra incêndio e pânico: 
+Compreende a Diretoria de Atividades Técnicas, Batalhões, Companhias e Pelotões do CBMMG que 
+têm por finalidade desenvolver as atividades relacionadas à prevenção e proteção contra incêndio e 
+pânico nas edificações e áreas de risco, observando-se o cumprimento das exigências estabelecidas 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de 
+Minas Gerais. 
+Vistoria: É o ato de certificar o cumprimento das exigências das medidas de proteção contra incêndio e 
+pânico nas edificações e áreas de risco por meio de exame no local. 
+3- Símbolos Gráficos para projetos de 
+segurança Contra Incêndio  
+A IT 03 passa a ter a seguinte redação: 
+Símbolos Gráficos para Projetos de Segurança Contra Incêndio e Pânico. 
+O item 1 Objetivo passa a ter a seguinte redação: 
+Esta instrução técnica estabelece os símbolos gráficos a serem utilizados nos projetos de segurança contra 
+incêndio das edificações e áreas de risco, atendendo ao previsto no Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+O item 4 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais.
+
+--- PÁGINA 7 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+410 
+ 
+ 
+4- Acesso de Viaturas nas Edificações 
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica fixa condições mínimas exigíveis para o acesso e estacionamento de viaturas 
+de bombeiros nas edificações e áreas de risco, visando disciplinar o seu emprego operacional na 
+busca e salvamento de vítimas e no combate a incêndios, atendendo ao previsto no Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las.Decreto Estadual nº 44.270, de 01 
+de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no 
+Estado de Minas Gerais. 
+5-Separação entre edificações 
+(isolamento de risco) 
+O item 2 passa a ter a seguinte redação: 
+2.3 As edificações situadas no mesmo lote que não atenderem as exigências de isolamento de risco 
+serão consideradas como uma única edificação para o dimensionamento das medidas de proteção 
+previstas no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco do 
+Estado de Minas Gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4.1 passa a ter a seguinte redação: 
+Para os efeitos desta Instrução Técnica aplicam-se as definições constantes da Instrução Técnica nº 02 – 
+Terminologia de proteção contra incêndio e artigo 3º do Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+ Em observações da tabela 2 onde se lê: tem e poder-se-á 
+Leia-se: tenha e pode-se. 
+O item 6.1.1.3.1 1º Passo passa a ter a seguinte redação: 
+Relacionar as dimensões (largura/altura ou altura/largura) do setor da fachada a ser considerado na edificação 
+conforme Tabela 1, dividindo-se sempre o maior parâmetro pelo menor (largura e altura) para obter o valor x; 
+No anexo C item 2 onde se lê: tendo 
+Leia-se: de 
+6-Segurança Estrutural das 
+Edificações 
+Os itens abaixo passam a ter a seguinte redação: 
+1 objetivo: 
+Esta Instrução Técnica estabelece as condições a serem atendidas pelos elementos estruturais e de 
+compartimentação que integram as edificações para que, em situação de incêndio, seja evitado o
+
+--- PÁGINA 8 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+411 
+ 
+ 
+colapso estrutural por tempo suficiente para possibilitar o atendimento das prescrições contidas nas 
+disposições preliminares do Regulamento de Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco do Estado de Minas Gerais. 
+2.1 Esta Instrução Técnica se aplica a todas edificações e áreas de risco onde for exigida a segurança 
+estrutural contra incêndio, conforme exigências do Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+No item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+5.8.1 Os mezaninos que não atendam aos requisitos de isenção do Anexo A, devem ter os TRRF 
+conforme estabelecido nesta Instrução Técnica, de acordo com a respectiva ocupação. 
+A Tabela A passa a ter a seguinte redação no cabeçalho: 
+Tabela A – Tempos requeridos de resistência ao fogo (TRRF) 
+Para a classificação detalhada das ocupações (grupo e divisão) consultar Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+ 7-Compartimentação 
+horizontal e 
+Compartimentação vertical 
+Na capa da it foi inserido os anexos A e B: 
+A – Compartimentação horizontal e vertical 
+B – Tabela de área máxima de Compartimentação 
+O itens abaixo passam a ter a seguinte redação: 
+1 Objetivo: 
+1.1.Esta 
+Instrução 
+Técnica 
+estabelece 
+os 
+parâmetros 
+da 
+compartimentação 
+horizontal 
+e 
+compartimentação vertical, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+2 Aplicação 
+Esta Instrução Técnica se aplica a todas as edificações onde são exigidas a compartimentação 
+horizontal e vertical, conforme previsto nas tabelas 7A a 7M do Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais, estabelecendo 
+detalhamentos técnicos relativos à área de compartimentação. 
+3 Referências Normativas 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 31 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais.
+
+--- PÁGINA 9 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+412 
+ 
+ 
+4 Definições 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes na IT 02 (Terminologia de 
+proteção contra incêndio e pânico)  
+No item 5.1.3.1 Portas corta-fogo alínea c onde se lê: compartimentadas providas 
+Leia-se: compartimentados providos. 
+No item 5.2.2.3.2 alínea a e d onde se lê letra: 
+Leia-se: alínea; 
+No item 5.2.2.3.3 a alínea d passa a ter a seguinte redação: 
+d) alternativamente às portas pára-chamas do monta-carga, os “halls” de acesso aos elevadores devem ser 
+enclausurados conforme as condições estabelecidas das alíneas c, d, e, f e g do item 5.2.2.3.2. 
+O item 5.2.2.3.5.1 passa a ter a seguinte redação: 
+(...) Neste caso, as derivações existentes nos pavimentos devem ser protegidas por registros corta-fogo, em 
+caso de acionamento, deverá atender ás condições estabelecidas nas alíneas a, b, c, d e e constantes no item 
+5.1.3.4. 
+No item 5.2.2.3.7.1 alínea c onde se lê: letras 
+Leia-se: alíneas. 
+No item 5.2.2.3.7.1 alínea d onde se lê: quando 
+Leia-se: quanto 
+No item 5.2.2.3.8 onde se lê letras: 
+Leia-se: alíneas 
+Em Notas Genéricas a alínea b passa a ter a seguinte redação: 
+b) Os locais assinalados com traço (–) estão dispensados da compartimentação horizontal, mantendo-se a 
+compartimentação vertical, de acordo com as tabelas de exigências do Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+8- Saídas de emergência 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+No item 5.1.1 a alínea a passa a ter a seguinte redação: 
+a) quanto à ocupação, de acordo com a Tabela 1 do Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco do Estado de Minas Gerais; 
+O item 5..3.2 passa a ter a seguinte redação: 
+5.3.2 O cálculo da população de cada pavimento da edificação é de acordo com os coeficientes da tabela 4, 
+considerando sua ocupação, dada na Tabela 1 do Regulamento de Segurança Contra Incêndio e Pânico nas
+
+--- PÁGINA 10 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+413 
+ 
+ 
+edificações e áreas de risco do Estado de Minas Gerais. 
+No item 5.7.1 Generalidades a alínea e passa a ter a seguinte redação: 
+e) atender a todos os pavimentos, acima e abaixo da descarga, mas terminando obrigatoriamente no piso da 
+descarga, não podendo ter comunicação direta com outro lanço na mesma prumada (ver figura 3), devendo ter 
+compartimentação, conforme a IT 07 na divisão entre os lanços ascendentes e descendentes em relação ao 
+piso de descarga, exceto para escadas tipo NE (escada comum), onde devem ser acrescidas de sinalização 
+iluminação de emergência e de sinalização de balizamento (IT 13 e 15), indicando a rota de fuga e descarga; 
+No item 5.7.8 onde se lê figura 7: 
+Leia-se: figura 8 
+No item 5.7.8.3 alínea a onde se lê ventiladas: 
+Leia-se: ventilados 
+No item 5.7.14.1 substituir (ver figuras 12 e 14) por (ver figuras 13 e 14) 
+No item 5.10.1.1 substituir ver figura 17 por (ver figura 18). 
+Tabela 3  
+código x alterar as especificações para seguinte redação: 
+Edifícios em que estão presentes as seguintes condições:  
+b) Não possuam compartimentação vertical completa, de acordo com a IT 07, mesmo que existam 
+condições de isenção no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas 
+de risco do Estado de Minas Gerais. 
+Código y alterar as especificações para a seguinte redação: 
+Edifícios onde apenas uma das duas condições está presente: 
+b) Não possuam compartimentação vertical completa, de acordo com a IT 07, mesmo que existam 
+condições de isenção no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas 
+de risco do Estado de Minas Gerais. 
+Código z alterar as especificações para a seguinte redação: 
+b) Não possuam compartimentação vertical completa, de acordo com a IT 07, mesmo que existam 
+condições de isenção no Regulamento de Segurança Contra Incêndio e Pânico nas edificaçõ es e áreas 
+de risco do Estado de Minas Gerais. 
+Tabela 6 divisão A-2 tipo de escada onde consta: EP 
+Alterar para PF 
+Em notas da tabela 6 a alínea (c) passa a ter a seguinte redação: 
+Gr.  =  Grupo de ocupação (uso) - conforme Tabela 1 do Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+Div. =  Subdivisão do grupo de ocupação - conforme Tabela 1 do Regulamento de Segurança Contra  
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais.
+
+--- PÁGINA 11 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+414 
+ 
+ 
+Na alínea d número 2 onde consta (ver figura 9) e (ver figura 17) alterar para (ver figura 10) e (ver figura 
+18) 
+9-Carga incêndio nas edificações e 
+áreas de risco 
+O item 2.1 passa ater a seguinte redação: 
+2.1 As densidades de carga de incêndio constantes do anexo A desta instrução aplicam-se às edificações e 
+áreas de riscos para classificação do risco e determinação do nível de exigência das medidas de segurança 
+contra incêndio, conforme prescreve o contido no Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais, nas situações em que há uma aceitável uniformidade 
+na sua distribuição espacial, a critério do responsável técnico do projeto de segurança contra incêndio.  
+O item 3 passa a ter  o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 5.4 passa a ter a seguinte redação: 
+5.4 Para determinação do risco de incêndio a que se refere à tabela 3 e 4 do Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais, as edificações e áreas 
+de risco quanto à Carga Incêndio se classificam em: 
+No anexo A cabeçalho da tabela de cargas de incêndios específicas por ocupação passa a ter a seguinte 
+redação: 
+Para a classificação detalhada das ocupações (Divisão) consultar a Tabela 1 do Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+10-Pressurização de Escada de 
+Segurança 
+No item 3 acrescentar a seguinte redação: 
+ Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las:  
+Nste mesmo item onde se lê Lei 43.805 de 17 de maio de 2004: 
+Leia-se:Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco do Estado de Minas Gerais.Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+No item 5.1.6.6 onde consta Tabela 1 alterar para Tabela do Anexo B. 
+No item 5.1.6.7 alínea (a) número (1) onde consta tabela do anexo A alterar para Tabela do Anexo B. 
+No item 5.1.6.8 alínea (c) onde se lê: item a 
+Leia-se: alínea a 
+Neste mesmo item alínea (d) onde se lê: itens a ou c 
+Leia-se: alínea a ou c 
+11- Plano de intervenção de Incêndio 
+O item 2 Aplicação passa a ter a seguinte redação:
+
+--- PÁGINA 12 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+415 
+ 
+ 
+Esta Instrução Técnica aplica-se às edificações e áreas de risco onde, de acordo com as tabelas de 
+exigências do  Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco 
+do Estado de Minas Gerais é necessária a elaboração de um Plano de Intervenção de Incêndio.  
+No item 3 Referências Normativas e Bibliográficas acrescentar  a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las:  
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 5.3.6 alínea c passa a ter a seguinte redação: 
+c) uma via em arquivo digitalizado em CD não regrávavel .  
+ O item 5.3.9 passa a ter a seguinte redação: 
+5.3.9 O plano de intervenção deverá ser apresentado ao CBMMG, no segundo ano consecutivo, na primeira 
+renovação do AVCB da edificação ou área de risco. 
+O anexo B passa a ter a seguinte redação no fluxograma: 
+Preencher a planilha de levantamento de dados a partir da primeira renovação do AVCB 
+12-Brigada de Incêndio 
+O item 2 aplicação passa a ter a seguinte redação: 
+Esta instrução técnica se aplica a todas as edificações e áreas de risco enquadradas na tabela 1 do 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas 
+Gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 5.1.1 3ª Condição onde se lê: quanto  
+Leia-se: quando 
+O item 5.3.2 nas alíneas b, c e d retirar a referência de anexo e constar somente ver exemplo 1, 2 e 3 
+respectivamente em cada alínea. 
+O item 5.6.11 passa a ter a seguinte redação: 
+Para a elaboração dos procedimentos básicos de emergência deve-se consultar o fluxograma constante no 
+Exemplo 4 do Organogramas de brigadas de incêndio.  
+O item 5.10.2 passa a ter a seguinte redação: 
+Ficam isentas da exigência de brigada de incêndio, as edificações especificadas nas disposições constantes 
+no anexo A e nas subdivisões da tabela 7, do Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco do Estado de Minas Gerais.
+
+--- PÁGINA 13 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+416 
+ 
+ 
+Na tabela do anexo B- objetivos onde consta a referência do item 5.4.6 substituir por 5.4.7. 
+13-Iluminação de Emergência 
+O item 1 Objetivo passa ater a seguinte redação: 
+Esta Instrução Técnica fixa as condições necessárias para o projeto e instalação do sistema de iluminação de 
+emergência em edificações e áreas de risco, atendendo ao previsto no Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – regulamento de segurança contra incêndio e pânico nas 
+edificações e áreas de risco no estado de Minas Gerais. 
+14-Sistema de detecção e alarme de 
+incêndio 
+1.  O item abaixo passa a ter a seguinte redação: 
+1.2 Adequar o texto da NBR 9441/98 - Execução de sistemas de detecção e alarme de incêndio, para 
+aplicação na análise e vistoria dos projetos técnicos de proteção contra incêndio submetidos ao Corpo de 
+Bombeiros Militar do Estado de Minas Gerais (CBMMG), atendendo ao previsto no Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+2 Aplicação 
+Aplica-se a todas as edificações onde se exigem os sistemas de detecção e alarme de incêndio, conforme 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas 
+Gerais. 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril 2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Neste mesmo item onde se lê 11836/92: 
+Leia-se: NBR 11863 
+Os itens abaixo passam a ter as seguintes redações: 
+4 Definições 
+Para os efeitos desta Instrução são adotadas as definições da NBR 9441/98, do Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais e da it 02 - Terminologia 
+de Proteção Contra Incêndio e Pânico. 
+5.10 Nas edificações já construídas que não existir norma brasileira específica, os sistemas de alarme poderão 
+seguir normas internacionais aceitas, mediante apresentação de cópia da norma adotada (traduzida) e ART 
+(Anotação de Responsabilidade Técnica). Casos não contemplados por esta instrução e que não contrariem o 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas
+
+--- PÁGINA 14 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+417 
+ 
+ 
+Gerais. 
+ 5.11 Onde houver sistema de detecção instalado, será obrigatória a instalação de acionadores manuais, 
+exceto para ocupação da divisão  F6 da tabela 1, do Anexo I do Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco do Estado de Minas Gerais, onde o acionador manual é opcional.  
+15-Sinalização de Emergência 
+O item 1 objetivo passa a ter a seguinte redação: 
+Esta Instrução Técnica fixa as condições exigíveis que devem satisfazer o sistema de sinalização de 
+emergência em edificações e áreas de risco, atendendo ao previsto no Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais. 
+No item 3 referências normativas e bibliográficas acrescentar  as seguintes redações: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+No item 6.5.2 acrescentar as alíneas para os seguintes itens: 
+c) Sinalização complementar de indicação continuada de rotas de saída; 
+d) Sinalização complementar de indicação de obstáculos e de riscos na circulação de rotas 
+de saída.  
+16-Sistema de proteção por extintores 
+de incêndio 
+Na capa da it passa a ter a seguinte redação: 
+7 – certificação e validade/garantia 
+O item 1 passa a ter a seguinte redação: 
+Esta instrução técnica estabelece critérios para proteção contra incêndio em edificações e/ou áreas de risco 
+por meio de extintores de incêndio (portáteis ou sobre rodas), atendendo ao previsto no regulamento de 
+segurança contra incêndio e pânico no estado De Minas Gerais. 
+Acrescentar no item 3 as seguintes redações: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+17- Sistema De Hidrantes e 
+Mangotinhos para Combate a Incêndio 
+ O item 2 aplicação passa a ter a seguinte redação: 
+Aplica-se às edificações e áreas de risco em que sejam necessárias as instalações de Sistemas de Hidrantes e 
+Mangotinhos para Combate a Incêndio, de acordo com o previsto no Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais.  
+Acrescentar no item 3 as seguintes redações:
+
+--- PÁGINA 15 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+418 
+ 
+ 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+No item 5.3.4 alínea e) acrescentar a numeração para os itens abaixo: 
+1) permitir o fluxo de água nos dois sentidos e instalada de forma a garantir seu adequado manuseio; 
+2) vedação etileno propileno, com haste ascendente, com castelo quadrado de uso específico do 
+CBMMG. 
+No item 5.7.1 alínea b onde se lê: item a 
+Leia-se: alínea a. 
+No item 5.16.7 onde se lê 5.17.9 
+Leia-se: 5.16.9 
+No item 5.17.5 acrescentar na redação:  
+ (ver B.1.6 do anexo B).  
+18-sistema de chuveiros automáticos 
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica visa a adequar o texto da norma NBR 10.897 – Proteção contra incêndio por chuveiro 
+automático para aplicação na análise e vistoria de processos submetidos ao Corpo de Bombeiros, atendendo 
+ao previsto no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no 
+Estado de Minas Gerais. 
+O item 2.1 passa a ter a seguinte redação: 
+2.1 Esta Instrução Técnica se aplica a todas as edificações onde é exigida a instalação de chuveiros 
+automáticos, de acordo com o Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas 
+de risco no Estado de Minas Gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe sobre a prevenção contra incêndio e pânico no Estado 
+de Minas Gerais. 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+No item 4 onde se lê Terminologia de proteção contra incêndio: 
+Leia-se: Terminologia de proteção contra incêndio e pânico 
+19- Sistema de Resfriamento para 
+Líquidos e Gases inflamáveis e 
+Combustíveis 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las:
+
+--- PÁGINA 16 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+419 
+ 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4.8 passa a ter a seguinte redação: 
+4.8 Risco isolado: é o risco separado dos demais por paredes ou espaços desocupados, suficientes para evitar 
+a propagação de incêndio de uma edificacão para a outra. 
+No item 5.6.1.1 onde se lê no item 5.6 letras a,b e c. 
+Leia-se: nas alíneas a, b e c do item 5.6 
+No item 5.7.11 passa a ter a seguinte redação: 
+5.7.11 Cada ponto da área de risco ou dos tanques e cilindros a serem protegidos devem ser atendidos pelo 
+menos por uma linha manual de resfriamento. 
+No item 5.10.4.2  alínea b acrescentar a numeração para redação abaixo: 
+1) utilizando aspersores 2 LPM/m2 da área determinada na tabela 1; ou 
+2) utilizando canhões monitores ou linhas manuais: conforme a tabela 2. 
+O item 5.12.1.1 passa a ter a seguinte redação: 
+ 5.12.1.1 Quando o volume armazenado for superior a 6.240 Kg e inferior a 49.920 kg será exigida a proteção 
+por linhas manuais de resfriamento, calculadas conforme os itens 5.7.10 e 5.7.11 com autonomia mínima de 
+30 minutos para o reservatório de incêndio. 
+No item 5.12.2.5 substituir o item 5.12.4.2 por 5.12.2.4.2. 
+No item 5.12.3.1 alínea b após a palavra determinado acrescentar a seguinte redação: 
+Na alínea a. 
+20- Sistema de Proteção por Espuma 
+No sumário acrescentar a seguinte redação: 
+6 – Condições específicas 
+onde se lê anexo na capa da IT: 
+leia-se anexos. 
+Os itens abaixo passa a ter a seguinte redação: 
+1 Objetivo 
+Esta Instrução Técnica tem como objetivo adequar o texto da NBR 12.615 – Sistema de combate a incêndio 
+por espuma da ABNT, para aplicação na análise e vistoria de projetos/processos submetidos ao Corpo de 
+Bombeiros de Minas Gerais, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+2 Aplicação 
+Aplica-se às edificações e áreas de risco em que sejam necessárias a existência de produção, manipulação, 
+armazenamento e distribuição de líquidos combustíveis ou inflamáveis localizadas no interior de edificações ou 
+a céu aberto para Combate a Incêndio, de acordo com o previsto na Tabela 7M.2 do Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco  no Estado de Minas Gerais.
+
+--- PÁGINA 17 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+420 
+ 
+ 
+O item 3 passa a ter o acréscimo da seguinter redação: 
+Para maior entendimento desta Instrução Técnica, é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+No item 4 onde se lê Terminologia de proteção contra incêndio: 
+Leia-se: Terminologia de proteção contra incêndio e pânico 
+No item  5.4.2 substituir a numeração 5.16.1 e 5.16.2 por 5.15.6.1 e 5.15.2 
+No  item 6.1.3.1 substituir a os termos ½ min e 1 min por 30 e 60 segundos. 
+O item 6.3.9.3 Taxas  passa a ter a seguinte redação: 
+A taxa mínima deve ser conforme indicado na alínea a do item 6.3.2.1 
+No item 6.3.11.2 onde se lê preterivelmente, 
+Leia-se: preferencialmente 
+O item 6.3.12.2 passa a ter a seguinte redação: 
+ 6.3.12.2 As válvulas de controle remoto podem ser permitidas à distância menor que as prescritas nas alíneas 
+a e b do item 6.3.12.1, quando estiverem adequadamente protegidas. Onde dois ou mais proporcionadores de 
+espuma estiverem instalados em paralelo, descarregando para um mesmo equipamento, deve haver válvulas 
+entre a descarga de cada proporcionador e o coletor de descarga. A linha de água para cada proporcionador 
+deve ter válvula separada. 
+No item 6.4.1 nota 1) onde se lê preterível,  
+Leia-se: preferencial 
+ 
+21- Sistema Fixo de Gases para 
+Combate a Incêndio  
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica estabelece as exigências técnicas e operacionais para as instalações de sistema fixo 
+de gases para combate a incêndio, a fim de garantir o correto funcionamento dos equipamentos e a segurança 
+das pessoas, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico nas edificações 
+e áreas de risco no Estado de Minas Gerais 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+22-Armazenagem de Líquidos 
+Inflamáveis e Combustíveis 
+O item 1 passa a ter a seguinte redação: 
+ Esta Instrução Técnica estabelece as condições mínimas necessárias para as instalações de armazenagem
+
+--- PÁGINA 18 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+421 
+ 
+ 
+de líquidos inflamáveis e combustíveis, no tocante a afastamentos e controle de vazamentos, atendendo ao 
+previsto no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado 
+de Minas Gerais. 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4.1 passa a ter a seguinte redação: 
+4.1 Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 - Terminologia de 
+proteção contra incêndio e pânico e Art 3o do Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4.1.8 passa a ter a seguinte redação: 
+4.1.8 Risco isolado: Risco separado dos demais por paredes ou espaços desocupados, suficientes para evitar 
+a propagação de incêndio de uma edificacão para a outra. 
+No item 5.2 em seus subitens após a referência de Tabela acrescentar o termo anexo A. 
+No item 5.7.1 acrescentar o termo normas anterior à palavra técnicas. 
+ O item 6.7.1  passa a ter a seguinte redação: 
+6.7.1 A ocupação com presença de produtos perigosos em estado líquido deve ser contornada por canaleta de 
+contenção, que interligadas entre si, conduzem a um tanque de contenção. Para o líquido classe IIIB, não há 
+necessidade do tanque de contenção. As canaletas de drenagem devem ser revestidas com material 
+impermeável, compatível com os produtos, com as dimensões mínimas de 0,2 m de largura por 0,15 metros de 
+profundidade, com inclinação de acordo com o item 6.6 alínea b. 
+Na tabela 7 da IT onde houver o termo 20BC substituir por 40BC. 
+Abaixo das tabelas 1, 2,3,4 e 5 do anexo A substituir a redação anterior pela seguinte redação: 
+(*) Tanques que, de acordo com a definição constante na Tabela 7M.2 do Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais, só é exigido proteção por 
+extintores.
+
+--- PÁGINA 19 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+422 
+ 
+ 
+23-Manipulação,armazenamento, 
+comercialização e utilização de gás 
+liquefeito de petróleo (glp) 
+O sumário da IT passa a ter o acréscimo da seguinte redação: 
+6 - Condições de segurança para cerca elétrica nas proximidades de centrais prediais de GLP. 
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica estabelece as condições necessárias  
+para a proteção contra incêndio nos locais de manipulação, armazenamento, comercialização, utilização, 
+central GLP, instalação interna e sistema de abastecimento a granel de Gás Liquefeito de Petróleo (GLP), 
+atendendo o prescrito no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de 
+risco no Estado de Minas Gerais. 
+ O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+A tabela 2 passa a ter redação conforme tabela abaixo: 
+Tabela 2 - Unidade e capacidade extintora de pó BC para armazenamento de recipientes transportáveis de 
+GLP. 
+ 
+Armazenamento 
+Extintor 
+Classe Quantidade 
+de GLP 
+Quantidade Capacidade 
+I 
+Até 520 Kg 
+ou 40 
+botijões 
+2 
+40 B 
+II 
+Até 1560 
+Kg ou 120 
+botijões 
+3 
+40 B 
+III 
+( * ) 
+Até 6240 
+Kg ou 480 
+botijões 
+4 
+40 B
+
+--- PÁGINA 20 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+423 
+ 
+ 
+IV 
+Até 24960 
+Kg ou 1920 
+botijões 
+8 
+40 B 
+V 
+Até 49920 
+Kg ou 3840 
+botijões 
+8 
+40 B 
+VI 
+Até 99840 
+Kg 
+10 
+40 B 
+(*) Prever sistema de proteção por hidrantes 
+para área de armazenamento acima de 6240 
+Kg ou 480 botijões. 
+ 
+A tabela 5 passa a ter a seguinte redação: 
+Tabela 5 - Afastamentos de recipientes Estacionários em relação à projeção das edificações: 
+ 
+Capacidade Volumétrica do tanque
+(m³) 
+Afastamento 
+(m) 
+Até 1,0(1) 
+0 
+De 1,1 até 2,0 
+1,5 
+De 2,1 até 5,5 
+3,0 
+De 5,6 até 8,0 
+7,5
+
+--- PÁGINA 21 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+424 
+ 
+ 
+Acima de 8,0 
+Adotar tabela 1 
+ 
+O item 5.3.6.1 alínea e passa a ter a seguinte redação: 
+e) os recipientes devem ser instalados em áreas que permitam a circulação de ar e com os distanciamentos 
+abaixo relacionados (os ralos e fontes de ignição devem estar localizados fora do limite das muretas citadas na 
+alínea c do item 5.3.6.1: 
+   1) 1,5 metros de ralos; 
+   2) 3,0 metros de fontes de ignição; 
+   3) 6,0 metros de entrada de ar condicionado e poços de ventilação. 
+O item 5.5.1 passa a ter a seguinte redação: 
+5.5.1 O caminhamento máximo da mangueira flexível deve ser de 55 (cinqüenta e cinco) metros, entre o ponto 
+de estacionamento do veículo abastecedor e a central de GLP. O caminhamento deve ser feito de forma 
+adequada, não transpondo muros, grades ou em outros condições inadequadas, que coloquem em risco a 
+integridade dos equipamentos, a segurança dos operadores ou dificultem o contato visual e a manobra das 
+mangueiras, sendo vedado o içamento ou lançamento de mangueiras por cordas com resistência a tração 
+inferior a 1.000 Kgf ou outros métodos inadequados. 
+24-Comercialização, 
+Distribuição 
+e 
+Utilização De Gás Natural 
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica estabelece as condições necessárias para a proteção contra incêndio nos locais de 
+comercialização, distribuição e utilização de GÁS NATURAL (Gás Combustível Comprimido), conforme as 
+exigências do Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no 
+Estado de Minas Gerais. 
+ O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4 passa a ter redação: 
+Para efeito desta Instrução aplicam-se as definições constantes da IT 02 - Terminologia de proteção contra
+
+--- PÁGINA 22 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+425 
+ 
+ 
+incêndio e pânico. 
+25-Fogos de Artifício e Pirotecnia 
+O item 2 passa a ter a seguinte redação: 
+2.1 Aplica-se às edificações novas destinadas ao comércio varejista de fogos de artifício, até 100 m2 conforme 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais.  
+ 2.2 Aplica-se também às edificações existentes e de uso misto, com as necessárias adaptações previstas no 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006– Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Código Civil Brasileiro – Lei n° 10.406, de 10 de janeiro de 2002; 
+O item 5.1 passa a ter o acréscimo da seguinte redação: 
+a) Classe A 
+1) fogos de vista, sem estampido; 
+2) fogos de estampido que contenham até 0,2 gramas de pólvora por peça. 
+b) Classe B 
+1) os fogos de estampido que contenham até 0,25g de pólvora, por peça; 
+2) foguetes com ou sem flecha, de apito ou de lágrimas, sem bomba; 
+3) “pots-à-feu”, “morteirinhos de jardim”, “serpentes voadoras” e outros equiparáveis. 
+c) Classe C 
+1) fogos de estampido que contenham acima de 25 (vinte cinco) centigramas de pólvora, por peça; e 
+2) foguetes, com ou sem flecha, cujas bombas contenham até 6 (seis) gramas de pólvora, por peça. 
+d) Classe D 
+1) fogos de estampido, com mais de 2,50 (dois vírgula cinqüenta) gramas de pólvora, por peça; 
+2) foguetes, com ou sem flecha, cujas bombas contenham mais de 6 (seis) gramas de pólvora; 
+3) baterias; 
+4) morteiros com tubos de ferro; e 
+5) demais fogos de artifício. 
+O item 5.5.1 
+5.5.1 As edificações de que trata esta Instrução técnica deverão dispor das seguintes medidas de proteção 
+contra incêndio, conforme previsto no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais:
+
+--- PÁGINA 23 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+426 
+ 
+ 
+26- Heliponto e Heliporto 
+O item 1 passa a ter a seguinte redação: 
+Esta instrução técnica estabelece as condições necessárias para proteção contra incêndio de helipontos e 
+heliportos, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta instrução técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – regulamento de segurança contra incêndio e pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4 passa a ter a seguinte redação: 
+Para efeito desta instrução técnica, aplicam-se as definições constantes da it 02 - terminologia de proteção 
+contra incêndio e pânico. 
+O item 5.5.2  passa a ter a seguinte redação:  
+5.5.2Projeto estrutural 
+27-Medidas de Segurança para 
+Produtos Perigosos 
+O item 1 passa a ter a seguinte redação: 
+Esta instrução técnica estabelece os parâmetros de segurança à edificação e área que contenha produtos 
+perigosos, atendendo ao previsto no regulamento de segurança contra incêndio e pânico nas edificações e 
+áreas de risco no estado de minas gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las:  
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+Decreto Federal nº 3.665, de 21 de novembro de 2000. Da nova redação ao Regulamento para Fiscalização de 
+Produtos Controlados (R-105). 
+Portaria nº 204/1997-MT. Aprova as Instruções Complementares aos Regulamentos dos transportes 
+Rodoviários e Ferroviários de Produtos Perigosos (Suplemento ao Diário Oficial da União de nº 98, de 26 de 
+maio de 1997). 
+O item 5.6.1 passa a ter a seguinte redação: 
+5.6.1 Estas instalações devem obedecer ao Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais no que couber, além das exigências específicas das 
+normas do CNEN. 
+O item 5.9 passa a ter a seguinte redação: 
+a) luvas para produtos perigosos em cano longo;  
+b) capacetes de boa resistência;
+
+--- PÁGINA 24 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+427 
+ 
+ 
+c) máscara panorâmica com filtro para o produto ou polivalente ou EPR, de acordo com o tipo de proteção 
+exigido; 
+d) roupas para ações de controle de vazamentos (nível A, B ou C), conforme casos mais extremos, com alto 
+grau de risco de contaminação de pele e respiratória; 
+e) botas para uso em produtos perigosos.  
+O item 6.1 passa a ter a seguinte redação nas alíneas abaixo: 
+c) saída de emergência bem localizada e sinalizada;  
+d) sistema de exaustão, ao nível do teto para retirada de vapores leves e ao nível do solo para retirada dos 
+vapores mais pesados; 
+6.2 Os cilindros de gases devem ser armazenados em locais específicos: 
+a) área coberta e bem ventilada; 
+b) na posição vertical e amarrados com corrente; e 
+c) deve-se observar a compatibilidade dos gases a serem armazenados no mesmo local.  
+A IT passa a ter o acréscimo do seguinte item: 
+6.4 É vedado a presença de animais, alimentos e medicamentos de consumo humano e animal junto com 
+produtos perigosos, salvo se houver compatibilidade entre os produtos. 
+28- Cobertura de Sapé, Piaçava e 
+Similares 
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica estabelece condições mínimas de segurança para edificações que tenham suas 
+coberturas construídas com fibras de sapé, piaçava e similares, atendendo ao previsto no Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta instrução técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+decreto estadual nº 44.270, de 01 de abril de 2006 – regulamento de segurança contra incêndio e pânico nas 
+edificações e áreas de risco no estado de Minas Gerais. 
+O item 4 passa a ter  a seguinte redação: 
+Para os efeitos desta instrução técnica, aplicam-se as definições constantes da IT 02 – Terminologia de 
+proteção contra incêndio e pânico. 
+No item 5.7.1 onde se lê it; 
+Leia-se instrução técnica. 
+No item 5.7.3 onde se lê 900 m2 ; 
+Leia-se 750m2. 
+29- Hidrante Público 
+O item 3 passa a ter o acréscimo das seguintes redações: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las:
+
+--- PÁGINA 25 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+428 
+ 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 5.5.1 passa a ter a seguinte redação: 
+5.5.1 Os hidrantes em operação antes da vigência do Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais, continuam a operar com as atuais pressões e 
+vazões.  
+30-Subestações Elétricas 
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica estabelece as medidas de segurança contra incêndio em subestações elétricas, 
+atendendo ao prescrito no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de 
+risco no Estado de Minas Gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4 passa a ter a seguinte redação: 
+Para efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 Terminologia de Proteção 
+Contra Incêndio e Pânico. 
+O item 5.1.1 passa a ter a seguinte redação: 
+5.1.1 Os ambientes da casa de controle e das edificações de apoio operacional devem ser protegidos contra 
+risco de incêndio de acordo com sua área atendendo-se às especificações contidas no Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais e Instruções 
+Técnicas do CBMMG. 
+31-Pátio de Cotéineres 
+O item 1 passa a ter a seguinte redação: 
+Esta Instrução Técnica estabelece as medidas de segurança contra incêndios nas áreas não cobertas dos 
+pátios e terminais de contêineres, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+Portaria nº 204/1997-MT. Aprova as Instruções Complementares aos Regulamentos dos transportes 
+Rodoviários e Ferroviários de Produtos Perigosos (Suplemento ao Diário Oficial da União de nº 98, de 26 de 
+maio de 1997).
+
+--- PÁGINA 26 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+429 
+ 
+ 
+O item 4 passa a ter a seguinte redação: 
+Para efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 – Terminologia de proteção 
+contra incêndio e Pânico.                                                                  
+O item 5.2 passa a ter a seguinte redação: 
+5.2 No caso dos pátios ou terminais que utilizam o contêiner como módulo habitável, independentemente do 
+tipo de ocupação, devem ser observadas as medidas de segurança contra incêndio previstas no Regulamento 
+de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais.  
+32-Proteção Contra Incêndio em 
+Cozinhas Profissionais 
+O item 3 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 4 passa a ter o acréscimo da seguinte redação: 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da  IT 02 - Terminologia de 
+proteção contra incêndio e Pânico, e as definições contidas na NBR 14518. 
+Neste mesmo item foi retirado o conceito de Proteção Passiva e Proteção Ativa,  onde consta alíneas de a) até 
+g) passa a constar subitem de 4.5 a 4.9 conforme redação abaixo: 
+4.5 Damper: Acessório tipo registro, para regular vazão do ar. 
+4.6 Descompartimentação de cozinha: primeiro ponto de travessia dos dutos de exaustão pela parede, piso ou 
+teto do compartimento da cozinha. 
+4.7 Efluente: Emanação de substâncias líquidas ou gasosas oriundas do processo de cocção, por ação térmica 
+ou não. 
+4.8 Selagem de travessia: Material estrutural e de acabamento, que ao ser utilizado na travessia de um duto 
+por uma parede, piso ou teto assegura no mínimo a mesma classificação do elemento penetrado. 
+4.9 Sistema de ventilação: Conjunto de elementos harmonicamente integrados, de maneira a garantir a 
+movimentação controlada do ar. 
+O item 6.5 passa a ter a seguinte redação: 
+Este requisito só é aplicado nos sistemas de ventilação das edificações que necessitem de proteção contra 
+incêndio por chuveiros automáticos, conforme Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Na tabela 1 onde se lê cornos combinados; 
+Leia-se Fornos combinados. 
+33-Eventos Temporários 
+O item 3 passa a ter o acréscimo da seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las:
+
+--- PÁGINA 27 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+430 
+ 
+ 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+NBR 9077 – saídas de emergências em Edifícios. 
+Os itens abaixo passam a ter as seguintes redações: 
+5.1.2 A edificação e área de risco permanente deve atender todas as exigências de segurança contra incêndio 
+previstas no Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado 
+de Minas Gerais, juntamente com as exigências para a atividade temporária que se pretende nela desenvolver. 
+5.1.3 A edificação permanente ou área de risco deverá atender as alineas b ou c do item 5.1.4 da IT 01 para 
+atividade temporária. que se pretende nela desenvolver. 
+5.1.7 Para todo evento público é obrigatória a presença de um responsável técnico pela segurança do evento e 
+dos sistemas preventivos existentes ou projetados, que conheça o projeto de segurança, o plano de 
+emergência e que esteja pronto para atender o Corpo de Bombeiros durante fiscalização e responder em caso 
+de emergência. 
+5.1.17 Os vãos (espelhos) entre os assentos das arquibancadas que possuam alturas superiores a 0,30 m 
+devem ser fechados com materiais de resistência mecânica de forma que impeça a passagem de pessoas 
+5.2.3. Para evento de médio impacto 
+O RT deverá apresentar o Projeto Técnico para Instalação e Ocupação Temporária atendendo as alíneas a, d, 
+e, f, g, h, i, j e l do item 5.2.1.1.
+
+--- PÁGINA 28 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+431 
+ 
+ 
+34-Credenciamento de empresas e 
+responsáveis técnicos 
+Foi retirado do apêndice a seguinte redação: 
+D- Certificado de Cadastramento de Pessoa Jurídica  
+E- Certificado de Cadastramento de Pessoa Física 
+O item 1 passa a ter a seguinte redação: 
+Fixar critérios para cadastramento e credenciamento de pessoas físicas e jurídicas: 
+O item 2 passa a ter  o acréscimo da  seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 5.3 passa a ter o acréscimo da seguinte redação: 
+5.3 O Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de 
+Minas Gerais em seu artigo 11 estabelece que a pessoa física e jurídica especificadas no item 5.2 deve 
+cadastrar-se no Corpo de Bombeiros para o exercício dessas atividades. 
+Nos itens onde se lê certidão negativa do crea, 
+Leia-se: g) certidão de registro e quitação junto ao CREA 
+No item 6.1.1.3 foi suprimido as alíneas m e n 
+ Os itens abaixo passam a ter a seguinte redação: 
+6.2.4 Conferida a documentação será feito o cadastro e credenciamento do RT. 
+6.2.5 O cadastramento terá a validade do ano em exercício, porém, estendida a renovação até 31 de março, 
+conforme Lei 14.938 e Decreto 43.779. 
+6.2.6 A DAT atualizará e disponibilizará diariamente no endereço eletrônico oficial do CBMMG a lista de pessoa 
+física e jurídica credenciadas.  
+6.2.7 A pessoa física ou jurídica estará em condições de executar as atividades de prevenção contra incêndio e 
+pânico definidas nesta IT no prazo de 02 (dois) dias úteis, após recebimento e conferência da documentação 
+pela DAT. 
+6.2.8 A qualquer tempo, o CBMMG poderá realizar diligências para verificação da documentação apresentada 
+para o cadastro. 
+O item 7.1 passa a ter a seguinte redação: 
+7.1 Para renovação anual do Credenciamento para pessoas físicas e jurídicas deverão ser apresentados 
+apenas os seguintes documentos: 
+10. 
+pessoa física 
+10. 
+primeira via da guia de recolhimento da taxa de segurança através do Documento de 
+Arrecadação Estadual (DAE); 
+2) comprovante de endereço;
+
+--- PÁGINA 29 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+432 
+ 
+ 
+3) certidão de registro e quitação junto ao CREA. 
+b) pessoa jurídica 
+10. 
+primeira via da guia de recolhimento da taxa de segurança através do Documento de 
+Arrecadação Estadual (DAE); 
+2) cópia do Alvará de funcionamento emitido pela Prefeitura Municipal; 
+3) cópia autenticada do Registro de Cadastro Nacional de Pessoa Jurídica; 
+4) certificado de regularidade para com o FGTS expedido pela Caixa Econômica Federal; 
+5) certidão negativa de débito para com o INSS; 
+6) prova de regularidade com a Fazenda Estadual e Municipal do domicílio ou sede da empresa; 
+7) comprovante de endereço da empresa; 
+8) declaração do RT, que presta serviço a empresa a qual está sendo cadastrado; 
+8.3 Decorrido o prazo regulamentar de 30 (trinta) dias e não sanada a irregularidade o CBMMG suspenderá o 
+credenciamento, mediante comunicando ao interessado. 
+8.4 A suspensão do credenciamento impedirá a pessoa física ou jurídica de desenvolver as atividades até que 
+sejam sanadas as irregularidades. 
+8.6 O cancelamento/suspensão do cadastro determinados através de ordem judicial suspendem 
+imediatamente o credenciamento. 
+9.2 A não obsevância do item 9.1 será motivo de notificação do projeto em vistoria, cabendo inteira 
+responsabilidade do proprietário ou responsável técnico pela contratação e aquisição de equipamentos, 
+aparelhos e de serviços especificados nesta Instrução Técnica, não cadastrado ou credenciados pelo CBMMG.   
+10.5 O recurso não tem efeito suspensivo sobre o ato de suspensão ou cancelamento do cadastramento.  
+ O item 11 passa ter a seguinte redação: 
+Os casos omissos serão tratados junto ao Serviço de Segurança Contra Incêndio e Pânico do Corpo de 
+Bombeiros 
+No apêndice A passa a ter a seguinte redação: 
+requer a Vossa Senhoria o registro no cadastro de Pessoa Jurídica para realizar as atividades de:
+
+--- PÁGINA 30 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+433 
+ 
+ 
+35-Segurança Contra Incêndio em 
+Edificações Históricas 
+O item 2 passa a ter a seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 3 passa a ter a seguinte redação: 
+A indicação das medidas de proteção contra incêndio e pânico nas edificações deverá atender a IT 03.- 
+Símbolos gráficos para projeto de segurança contra incêndio e pânico.  
+No item 4.1 passa a ter a seguinte redação: 
+4.1 As medidas de segurança estabelecidas nessa Instrução Técnica devem obedecer a projetos específicos 
+elaborados segundo a regulamentação técnica do CBMMG.  
+O item 4.4 passa a ter a seguinte redação: 
+4.4 O risco máximo admissível de incêndio corresponde à exigência de implantação na edificação de medidas 
+de segurança ativas e passivas em certo número, admitida como suficientemente seguras e economicamente 
+viáveis, as quais se sobrepõem aos parâmetros que favorecem a ocorrência de um incêndio de severidade 
+máxima provável admissível.  
+O item 5.5.1 passa a ter a seguinte redação:  
+5.5.1 Para os fins de atendimento do item anterior, as ocupações principais de uma edificação são 
+classificadas segundo a Tabela 1 do Regulamento de Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais. 
+O item 6.1.2 passa a ter a seguinte redação: 
+6.1.2 Edificação do tipo C é a edificação dividida em unidades de ocupação que, por suas características 
+construtivas, não permite, ou pelo menos, dificulta significativamente a propagação do incêndio nas direções 
+horizontal e vertical. Nesse caso as unidades de ocupação devem ter piso máximo de 200 m², elementos de 
+vedação (paredes, pisos e forros) que as limitam das demais unidades com referência ao fogo igual ou 
+superior a 120 minutos, empregando-se os diversos meios e separação de riscos (portas corta-fogo,vidros 
+resistentes ao fogo, dampers e outros) nas conexões com unidades vizinhas. 
+O item 6.1.4 passa a ter a seguinte redação: 
+6.1.4 Edificação tipo V é a edificação que não se classifica nos tipos C ou H, isto é, é aquela cujas paredes 
+externas, divisórias internas, pisos e forros possuem resistência ao fogo inferior a 120 minutos e um volume 
+interno não inferior a 900 m³. 
+O item 6.2.2 
+6.2.2 Um conjunto arquitetônico se caracteriza por pelo menos uma das seguintes situações: 
+O item 6.2.2 passa a ter o acréscimo da seguinte redação: 
+f) em qualquer outra situação em que não se posa considerar a separação de riscos, a critério do profissional
+
+--- PÁGINA 31 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+434 
+ 
+ 
+responsável pelo projeto técnico. 
+O item 6.2.3.4 foi substituído pelo item 6.2.3.3. 
+O item passa 6.3.1.5 a ter a seguinte redação: 
+6.3.1.5 O fator de risco devido à densidade de carga de incêndio deve ser determinado conforme a Tabela 2. 
+A tabela 2 passa a ter a seguinte redação no cabeçalho: 
+Tabela 2 – Fatores de risco associados à grandeza da carga incêndio – f1 
+A tabela 3 foi alterada passando a ter o seguinte formato: 
+Tabela 3 – Fatores de risco associados à posição da carga incêndio – f2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A tabela 4 foi alterada 
+passando 
+a 
+ter 
+o 
+seguinte formato: 
+Tabela 4 – Classificação das edificações quanto à distância do Corpo de Bombeiros – f3 
+Denominação 
+Distância 
+(km) 
+f3 
+1- muito próximo 
+D < 16 
+1,0 
+2 – próximo 
+1 < D < 6 
+1,25 
+3 - Medianamente 
+distante 
+6 < D < 11 
+1,6 
+4 – Distante 
+6 < D < 16 
+1,8 
+5 – Muito distante 
+ou inexistente  
+D > 16 
+4,0 
+  
+O item 6.3.4.1 passa a ter a seguinte redação: 
+6.3.4.1 A uma edificação associa-se um fator de risco, considerando as condições de acesso dos 
+equipamentos e da equipe de combate a incêndio, conforme a Tabela 5. 
+Foi inserido no item 6.3.4 o item abaixo: 
+Tipo 
+da 
+Edificação 
+Profundidade do Subsolo 
+(M) 
+Altura do Piso Mais Elevado 
+(M) 
+S 
+>4 
+4<S<8 
+8<S<12 
+H<6 
+6<H<12 
+6<H<12 
+C 
+1,0 
+1,9 
+3,0 
+1,0 
+1,3 
+1,5 
+H 
+1,3 
+2,4 
+4,0 
+1,3 
+1,6 
+2,0 
+V 
+1,5 
+3,0 
+4,5 
+1,5 
+2,0 
+2,3
+
+--- PÁGINA 32 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+435 
+ 
+ 
+6.3.4.2 O Corpo de Bombeiros Militar de Minas Gerais poderá determinar o emprego de outros fatores de risco 
+para situações especiais. 
+A Tabela 5 passa a ter  seguinte formato: 
+Tabela 5 – Classificação das edificações quanto às condições de acesso - f4 
+Denominação 
+ do Acesso 
+Condições 
+ da Edificação 
+f4 
+Fácil 
+Acesso da viatura pelo menos a duas fachadas da edificação, quando a 
+edificação e do tipo C ou H ou a três fachadas,, quando a edificação é do tipo 
+V; hidrante público a até 75 m da edificação ou instalação de hidrante interno 
+ou externo na edificação. 
+1,0 
+Restrito 
+Acesso a uma das fachadas, quando a edificação é do tipo C ou H ou a duas 
+fachadas quando a edificação é do tipo V; hidrante público a até 75 m da 
+edificação ou instalação de hidrante interno ou externo na edificação.    
+1,25 
+Difícil 
+Acesso a uma só fachada da edificação; hidrante público a mais de 75 m da 
+edificação ou instalação de hidrante interno ou externo na edificação. 
+1,6 
+Muito difícil 
+Acesso a uma só fachada da edificação; hidrante público a mais de 75 m da 
+edificação. 
+1,9
+
+--- PÁGINA 33 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+436 
+ 
+ 
+A tabela 6 passa a ter a seguinte redação: 
+Tabela 6 – Fator de risco de generalização 
+Denominaçãod
+a Situação 
+ de Perigo 
+ 
+Descrição 
+f 5 
+ 
+ 
+ 
+I 
+Paredes 
+Resistência 
+ao 
+fogo 
+de 
+120minutos, 
+sem 
+aberturas ou com aberturas de acordo com a 
+Tabela 1 
+ 
+ 
+ 
+ 
+1,0 
+Fachadas Incombustível 
+com 
+aberturas 
+obedecendo 
+a 
+Tabela 1 
+Empenas Incombustível 
+com 
+resistência 
+ao 
+fogo 
+de 
+120minutos, sem aberturas 
+Cobertura Incombustível ou combustível protegida em uma 
+faixa de pelo menos 1,5m a partir das bordas 
+ 
+ 
+ 
+ 
+ 
+II 
+Paredes Resistência 
+ao 
+fogo 
+de 
+120 
+minutos, 
+sem 
+aberturas ou com aberturas de acordo com a 
+Tabela 1 
+ 
+ 
+ 
+ 
+ 
+1,5 
+Fachadas Incombustível 
+com 
+aberturas 
+obedecendo 
+a 
+Tabela 1 
+Empenas Combustíveis ou incombustível com resistência 
+ao fogo inferior a 120minutos ou com aberturas 
+acima dos limites da Tabela 1 
+Cobertura Combustível sem a faixa de proteção de largura 
+1,5m a partir das bordas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III 
+Paredes Resistência 
+ao 
+fogo 
+de 
+120minutos, 
+sem 
+aberturas ou com aberturas de acordo com a 
+Tabela 1 
+ 
+ 
+ 
+ 
+2,0 
+Fachadas Combustíveis ou com aberturas acima dos limites 
+da Tabela 1
+
+--- PÁGINA 34 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+437 
+ 
+ 
+36-Sistema de Proteção Contra 
+Descargas Atmosféricas 
+O item 2 passa a ter seguinte redação: 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+O item 3.1 alínea b passa a ter a seguinte redação 
+b) às estruturas especiais, como: 
+1) chaminés de grande porte. Considera-se chaminés de grande porte quando a seção transversal de seu topo 
+for maior que 0,30 m2 e/ou sua altura exceder 20 m; 
+2) estruturas contendo líquidos ou gases inflamáveis e antenas externas de televisão. 
+No item 3 aplicação foi suprimido os itens  3.3 , 3.2 e a tabela.  
+O item 4 passa ter acréscimo do seguinte item: 
+4.13 Para edificações mistas, caberá análise do Corpo Técnico. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) JOSE HONORATO AMENO – CEL BM 
+COMANDANTE GERAL 
+ 
+ 
+Confere com o Original, 
+ 
+ 
+EDSON ALVES FRANCO – MAJ BM 
+AJUDANTE GERAL
+
+--- PÁGINA 35 ---
+Visto: 
+ 
+(- SEPARATA DO B G B M Nº 022 DE 01 DE JUNHO DE 2006 -) 
+ 
+ 
+ 
+438

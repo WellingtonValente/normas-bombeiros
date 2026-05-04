@@ -1,0 +1,1718 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 15 
+1ª edição 
+SINALIZAÇÃO DE EMERGÊNCIA 
+Aprovada pela portaria n. 05, de 25out2005. 
+Alterada pela portaria n. 30, de 17jul2017, publicada no DOEMG n. 135, ano 125, p. 27. 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Procedimentos gerais 
+6 – Procedimentos específicos 
+ 
+ANEXOS 
+A – Formas geométricas e dimensões para a 
+sinalização de emergência 
+B 
+– 
+Simbologia 
+para 
+sinalização 
+de 
+emergência 
+C – Exemplos de instalação de sinalização
+
+--- PÁGINA 2 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+2/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica fixa as condições exigíveis que devem satisfazer o sistema de 
+sinalização de emergência em edificações e áreas de risco, atendendo ao previsto no 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no 
+Estado de MinasGerais. 
+2 APLICAÇÃO 
+Esta Instrução Técnica se aplica a todas as edificações e áreas de risco, exceto residências 
+unifamiliares. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 7500 – Símbolos de risco e manuseio para o transporte e armazenamento demateriais. 
+NBR 13434 – Sinalização de segurança contra incêndio e pânico – Parte 1: Princípios de projeto 
+– Parte 2: Símbolos e suas formas, dimensões e cores –2004. 
+Portaria n. 204 do Ministério dos transportes – Instruções complementares ao Regulamento do 
+Transporte Rodoviário de ProdutosPerigosos. 
+ISO 6309 –Fire protection – safety signs. Norma ISO 3864 –Safety colours and safetysigns. 
+BS 5378-1 – Safety signs and colours. Specifications for colour anddesign. 
+BS 5499-1 – Fire safety signs, notices and graphic symbols. Specification for fire safetysigns. 
+Directive 92/58/EEC (OJ L 245) Minimum requirements for the provision of safety and/or health 
+signs at work Germany, Spain,Italy. 
+4 DEFINIÇÕES 
+Para efeito desta Instrução Técnica aplicam-se as definições constantes da IT 02 (Terminologia 
+de Proteção Contra Incêndio e Pânico). 
+5 PROCEDIMENTOS GERAIS 
+5.1 Finalidade 
+A sinalização de emergência tem como finalidade reduzir o risco de ocorrência de incêndio, 
+alertando para os riscos existentes e garantir que sejam adotadas ações adequadas à situação
+
+--- PÁGINA 3 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+3/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+de risco, que orientem as ações de combate e facilitem a localização dos equipamentos e das 
+rotas de saída para abandono seguro da edificação em caso de incêndio. 
+5.2 Características da sinalização deemergência. 
+5.2.1 Característicasbásicas 
+A sinalização de emergência faz uso de símbolos, mensagens e cores, definidos nesta Instrução 
+Técnica, que devem ser alocados convenientemente no interior da edificação e áreas derisco. 
+5.2.2 Característicasespecíficas 
+a) as formas geométricas e as dimensões das sinalizações de emergência são as constantes do 
+Anexo A; 
+b) as simbologias das sinalizações de emergência são as constantes do Anexo B. 
+5.3 Tipos de sinalização: 
+A sinalização de emergência divide-se em sinalização básica e sinalização complementar, 
+conforme segue: 
+5.3.1 Sinalização básica 
+A sinalização básica é o conjunto mínimo de sinalização que uma edificação deve apresentar, 
+constituído por quatro categorias, de acordo com suafunção: 
+5.3.1.1 Proibição 
+Visa proibir e coibir ações capazes de conduzir ao início do incêndio ou ao seu agravamento. 
+5.3.1.2 Alerta 
+Visa alertar para áreas e materiais com potencial de risco de incêndio, explosão, choques 
+elétricos e contaminação por produtosperigosos. 
+5.3.1.3 Orientação e Salvamento 
+Visa indicar as rotas de saída e as ações necessárias para o seu acesso e uso. 
+5.3.1.4 Equipamentos 
+Visa indicar a localização e os tipos de equipamentos de combate a incêndios e alarme 
+disponíveis no local. 
+5.3.2 Sinalização complementar 
+A sinalização complementar é o conjunto de sinalização composto por faixas de cor ou 
+mensagens complementares à sinalização básica, porém, das quais esta última não é 
+dependente. 
+A sinalização complementar tem a finalidade de: 
+1) Complementar, através de um conjunto de faixas de cor, símbolos ou mensagens escritas, a 
+sinalização básica, nas seguintes situações:
+
+--- PÁGINA 4 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+4/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+a) indicação continuada de rotas de saída; 
+b) indicação de obstáculos e riscos de utilização das rotas de saída; 
+c) mensagens escritas que acompanham a sinalização básica, onde for necessária a 
+complementação da mensagem dada pelo símbolo. 
+2) informar circunstâncias específicas em uma edificação ou áreas de risco, através de 
+mensagens escritas; 
+3) demarcar áreas para assegurar corredores de circulação destinados às rotas de saídas e 
+acesso a equipamentos de combate a incêndio e alarme; 
+4) identificar sistemas hidráulicos fixos de combate a incêndio. 
+5.3.2.1 Rotas de saída 
+Visa indicar o trajeto completo das rotas de fuga até uma saída de emergência (indicação 
+continuada). 
+5.3.2.2 Obstáculos 
+Visa indicar a existência de obstáculos nas rotas de fuga, tais como: pilares, arestas de paredes 
+e vigas, desníveis de piso, fechamento de vãos com vidros ou outros materiais translúcidos e 
+transparentes,etc. 
+5.3.2.3 Mensagens escritas 
+Visa informar o público sobre: 
+a) uma sinalização básica, quando for necessária a complementação da mensagem dada pelo 
+símbolo; 
+b) as medidas de proteção contra incêndio existentes na edificação ou áreas de risco; 
+c) as circunstâncias específicas de uma edificação e áreas de risco; 
+d) a lotação admitida em recintos destinados à reunião de público. 
+5.3.2.4 Demarcações de áreas 
+Visa definir um layout no piso, que garanta acesso do público às rotas de saída e aos 
+equipamentos de combate a incêndio e alarme, em áreas utilizadas para depósito de materiais, 
+instalações de máquinas ou equipamentos industriais e em locais destinados a estacionamento 
+de veículos. 
+5.3.2.5 Identificação de sistemas hidráulicos fixos de combate a incêndio 
+Visa identificar, através de pintura diferenciada, as tubulações e acessórios utilizados para 
+sistemas de hidrantes e chuveiros automáticos quando aparentes.
+
+--- PÁGINA 5 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+5/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+6 PROCEDIMENTOS ESPECÍFICOS 
+6.1 Implantação da sinalização básica 
+Os diversos tipos de sinalização de emergência devem ser implantados em função de 
+características específicas de uso e dos riscos, bem como em função de necessidades básicas 
+para a garantia da segurança contra incêndio na edificação (ver exemplos no Anexo C). 
+6.1.1 Sinalização de proibição 
+A sinalização de proibição própria de segurança contra incêndio e pânico deve ser instalada em 
+local visível e a uma altura de 1,80 m medida do piso acabado à base da sinalização, distribuída em 
+mais de um ponto dentro da área de risco, de modo que pelo menos uma delas possa ser 
+claramente visível de qualquer posição dentro da área, distanciadas em no máximo 15,0 m entre si. 
+6.1.2 Sinalização de alerta 
+A sinalização de alerta própria de segurança contra incêndio e pânico deve ser instalada em 
+local visível e a uma altura de 1,80 m medida do piso acabado à base da sinalização, próxima ao 
+risco isolado ou distribuída ao longo da área de risco generalizadas, distanciadas entre si em, no 
+máximo, 15m. 
+6.1.3 Sinalização de orientação e salvamento 
+A sinalização de saída de emergência própria de segurança contra incêndio e pânico deve 
+assinalar todas as mudanças de direção, saídas, escadas, etc. e ser instalada segundo sua 
+função, a saber: 
+a) a sinalização de portas de saída de emergência deve ser localizada imediatamente acima das 
+portas, no máximo a 0,10 m da verga, ou diretamente na folha da porta, centralizada a uma 
+altura de 1,80 m medida do piso acabado à base da sinalização;  
+b)  a sinalização de orientação das rotas de saída deve ser localizada de modo que à distância 
+de percurso de qualquer ponto da rota de saída até a sinalização seja de, no máximo, 15,0 m; 
+c) a sinalização de identificação dos pavimentos no interior da caixa de escada de emergência 
+deve estar a uma altura de 1,80 m medido do piso acabado à base da sinalização, instalada 
+junto à parede, sobre o patamar de acesso de cada pavimento, de tal forma a ser visualizada em 
+ambos os sentidos da escada (subida e descida). 
+6.1.3.1 A sinalização de orientação também deve ser instalada, de forma que na direção de 
+saída de qualquer ponto seja possível visualizar o ponto seguinte, respeitado o limite máximo de 
+30,0 m, instalada de modo que a sua base esteja a 1,80 m do piso acabado. 
+6.1.3.2 A mensagem escrita “SAÍDA” deve estar sempre grafada no idioma português. Caso 
+exista a necessidade de utilização de outros idiomas, devem ser aplicados textos adicionais.  
+6.1.3.3 Em escadas contínuas, além da identificação do pavimento de descarga no interior da 
+caixa de escada de emergência, deve-se incluir uma sinalização de saída de emergência com 
+seta indicativa da direção do fluxo através dos símbolos (Anexo B – código S3 ou S4 na parede 
+frontal aos lances de escadas e S5 acima da porta de saída, de forma a evidenciar o piso de 
+descarga).  
+6.1.3.4 A abertura das portas em escadas não deve obstruir a visualização de qualquer 
+sinalização.
+
+--- PÁGINA 6 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+6/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+6.1.3.5 A sinalização de orientação e salvamento não será obrigatória nas edificações ou áreas 
+compartimentadas que se encontrem no pavimento térreo com saída de emergência direta para 
+logradouro público onde a saída seja visualizada de todos os pontos do pavimento e a distância 
+máxima a percorrer seja inferior a 15 m.  
+6.1.3.5.1 A isenção da instalação da sinalização de orientação não se aplica nas áreas de 
+sobrelojas, mezaninos e outras estruturas semelhantes. 
+6.1.4 Sinalização de equipamentos de combate a incêndio 
+A sinalização apropriada de equipamentos de combate a incêndios deve estar a uma altura de 
+1,80 m, medida do piso acabado à base da sinalização, e imediatamente acima do equipamento 
+sinalizado. Ainda: 
+a) quando houver, na área de risco, obstáculos que dificultem ou impeçam a visualização direta 
+da sinalização básica no plano vertical, a mesma sinalização deve ser repetida a uma altura 
+suficiente para a sua visualização; 
+b) quando a visualização direta do equipamento ou sua sinalização não for possível no plano 
+horizontal, a sua localização deve ser indicada a partir do ponto de boa visibilidade mais 
+próxima. A sinalização deve incluir o símbolo do equipamento em questão e uma seta indicativa, 
+sendo que o conjunto não deve distar mais que 7,5 m do equipamento; 
+c) quando o equipamento encontrar-se instalado em pilar, devem ser sinalizadas todas as faces 
+do pilar que estiverem voltadas para os corredores de circulação de pessoas ou veículos; 
+d) quando se tratar de hidrante e extintor de incêndio, instalados em garagem, área de 
+fabricação, depósito e locais utilizados para movimentação de mercadorias e de grande varejo, 
+deve ser implantada também a sinalização de piso. 
+6.2 Implantação da sinalização complementar 
+6.2.1 A sinalização complementar de indicação continuada das rotas de saída é facultativa e, 
+quando utilizada, deve ser aplicada sobre o piso acabado ou sobre as paredes de corredores e 
+escadas destinadas a saídas de emergência, indicando a direção do fluxo, atendendo os 
+seguintes critérios: (ver exemplos no Anexo C). 
+a) o espaçamento entre cada uma delas deve ser de até 3,0 m na linha horizontal, medidas a 
+partir das extremidades internamente consideradas; 
+b) independente do critério anterior, deve ser aplicada à sinalização a cada mudança de direção; 
+c) quando aplicada sobre o piso, à sinalização deve estar centralizada em relação à largura da 
+rota de saída; 
+d) quando aplicada nas paredes, a sinalização deve estar a uma altura constante entre 0,25 m e 
+0,50 m do piso acabado à base da sinalização, podendo ser aplicada, alternadamente, à parede 
+direita e esquerda da rota de saída. 
+6.2.2 
+A sinalização complementar de indicação de obstáculos ou de riscos nas circulações das 
+rotas de saída deve ser implantada toda vez que houver uma das seguintes condições: 
+a) desnível de piso; 
+b) rebaixo de teto;
+
+--- PÁGINA 7 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+7/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+c) outras saliências resultantes de elementos construtivos ou equipamentos que reduzam a 
+largura das rotas de saída, prejudicando a sua utilização; 
+d) elementos translúcidos e transparentes, tais como vidros, utilizados em esquadrias 
+destinadas a portas e painéis (com função de divisórias ou de fachadas, desde que não 
+assentadas sobre muretas com altura mínima de 1,0 m de altura). 
+6.2.2.1 A sinalização complementar de indicação de obstáculos e riscos na circulação de rotas 
+de saída deve ser instalada de acordo com os seguintes critérios: 
+1) faixa zebrada, conforme Anexo B: 
+a) nas situações previstas nas alíneas a e c do item anterior, devem ser aplicadas, 
+verticalmente, a uma altura de 0,50 m do piso acabado, com comprimento mínimo de 1,0m; 
+b) nas situações previstas na alínea c do item anterior, devem ser aplicadas, horizontalmente, 
+por toda a extensão dos obstáculos, em todas as faces, com largura mínima de 0,10 m em cada 
+face. 
+2) nas situações previstas na alínea d do item anterior, devem ser aplicadas tarjas, em cor 
+contrastante com o ambiente, com largura mínima de 50 mm, aplicada horizontalmente em toda 
+sua extensão, na altura constante compreendida entre 1,0 m e 1,40 m do piso acabado. 
+6.2.3 As mensagens escritas específicas que acompanham a sinalização básica devem se situar 
+imediatamente adjacente à sinalização complementar, e devem ser escritas na língua 
+portuguesa. 
+6.2.3.1 Quando houver necessidade de mensagens em um ou mais idiomas, essas podem ser 
+adicionadas, sem no entanto, substituir a mensagem na língua portuguesa. 
+6.2.4 As mensagens que indicam circunstâncias específicas de uma edificação e área de risco 
+devem ser utilizadas em placas a serem instaladas nas seguintes situações: 
+1) no acesso principal da edificação, informando o público sobre: 
+a) os sistemas de proteção contra incêndio (ativos e passivos) instalados na edificação; 
+b) a característica estrutural da edificação (metálica, protendida, concreto armado, 
+madeira,etc.); 
+c) o número do telefone de emergência para acionamento de socorro público – Corpo de 
+Bombeiros (193) - ou, na falta de Posto de Bombeiros no Município, o número de telefone da 
+Polícia Militar (190). 
+2) no acesso principal dos recintos destinados a reunião de público, indicando a lotação máxima 
+admitida, regularizada em projeto aprovado no CBMMG. 
+3) no acesso principal da área de risco, informando o público sobre: 
+a) os sistemas de proteção contra incêndio (ativos e passivos) instalados na área de risco; 
+b) os produtos líquidos combustíveis armazenados, indicando a quantidade total de recipientes 
+transportáveis ou tanques, bem como a capacidade máxima individual de cada tipo, em litros ou 
+metros cúbicos, regularizados em projeto aprovado no CBMMG;
+
+--- PÁGINA 8 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+8/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+c) os gases combustíveis armazenados em tanques fixos, indicando a quantidade total de 
+tanques, bem como a capacidade máxima individual dos tanques, em litros ou metros cúbicos e 
+em quilogramas, regularizados em projeto aprovado no CBMMG; 
+d) os gases combustíveis armazenados em recipientes transportáveis, indicando a quantidade 
+total de recipientes de acordo com a capacidade máxima individual de cada tipo, em 
+quilogramas, regularizados em projeto aprovado no CBMMG; 
+e) outros produtos perigosos armazenados, indicando o tipo, a quantidade e os perigos que 
+oferecem às pessoas e meio-ambiente. 
+4) próximo aos produtos armazenados, separados por categoria, indicando o nome comercial e 
+científico do produto. 
+6.2.4.1 Além das sinalizações previstas nesta Instrução Técnica, as áreas de armazenamento de 
+produtos perigosos devem ser sinalizadas de acordo com a NBR7500. 
+6.2.5 As sinalizações complementares destinadas à demarcação de áreas devem ser 
+implantadas no piso acabado, através de faixas contínuas com largura entre 0,05 m e 0,20 m, 
+nas seguintes situações: 
+1) na cor branca ou amarela, em todo o perímetro das áreas destinadas a depósito de 
+mercadorias, máquinas e equipamentos industriais, etc., a fim de indicar uma separação entre os 
+locais desses materiais e os corredores de circulação de pessoas eveículos. 
+2) na cor branca ou amarela, para indicar as vagas de estacionamento de veículos em garagens 
+ou locais de  carga e descarga. 
+3) na cor branca, paralelas entre si e com o espaçamento variando entre uma e duas vezes a 
+largura da faixa adotada, dispostas perpendicularmente ao sentido de fluxo de pedestres (faixa 
+de pedestres), com comprimento mínimo de 1,20m, formando um retângulo ou quadrado, sem 
+bordas laterais, nos acessos às saídas de emergência, a fim de identificar o corredor de acesso 
+para pedestres localizado junto a: 
+a) vagas de estacionamento de veículos; e 
+b) depósitos de mercadorias. 
+6.2.6 As sinalizações complementares destinadas à identificação de sistemas hidráulicos fixos 
+de combate a incêndio devem ser implantadas da seguinte forma: 
+6.2.6.1 Para o sistema de proteção por hidrantes e chuveiros automáticos as tubulações 
+aparentes, não embutidas na alvenaria (parede e piso), devem ter pintura na cor vermelha. 
+6.2.6.2 As portas dos abrigos dos hidrantes: 
+a) devem ser pintadas na cor vermelha devidamente identificadas com o dístico “incêndio” – 
+fundo vermelho com inscrição na cor branca ou amarela. 
+6.2.6.3 Podem possuir abertura no centro com área mínima de 0,04 m², fechada com material 
+transparente (vidro, acrílico, etc.), identificado com o dístico “incêndio” – fundo vermelho com 
+inscrição na cor branca ou amarela. Os acessórios hidráulicos (válvulas de retenção, registros de 
+paragem, válvulas de governo e alarme) devem receber pintura na cor vermelha. 
+6.2.6.4 A tampa de abrigo do registro de recalque deve ser pintada na cor vermelha.
+
+--- PÁGINA 9 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+9/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+6.2.6.5 Quando houver dois ou mais registros de recalque na edificação, tratando-se de sistemas 
+diferenciados de proteção contra incêndio (sistema de hidrantes e sistema de chuveiros 
+automáticos), deve haver indicação específica no interior dos respectivos abrigos: inscrição “H” 
+para hidrantes e “CA” ou “SPK” para chuveiros automáticos. 
+6.3 Requisitos 
+São requisitos básicos para que a sinalização de emergência possa ser visualizada e 
+compreendida no interior da edificação ou área de risco: 
+a) a sinalização de emergência deve destacar-se em relação à comunicação visual adotada para 
+outros fins; 
+b) a sinalização de emergência não deve ser neutralizada pelas cores de paredes e 
+acabamentos, dificultando a sua visualização; 
+c) a sinalização de emergência deve ser instalada perpendicularmente aos corredores de 
+circulação de pessoas e veículos, permitindo-se condições de fácil visualização; 
+d) as expressões escritas utilizadas nas sinalizações de emergência devem seguir as regras, 
+termos e vocábulos da língua portuguesa, podendo, complementarmente e, nunca 
+exclusivamente, ser adotada outro idioma; 
+e) as sinalizações básicas de emergência destinadas à orientação e salvamento, alarme de 
+incêndio e equipamentos de combate a incêndio devem possuir efeito fotoluminescente; 
+f) as sinalizações complementares de indicação continuada das rotas de saída e de indicação 
+de obstáculos devem possuir efeito fotoluminescente; 
+g) os recintos destinados à reunião de público, cujas atividades se desenvolvem sem 
+aclaramento natural ou artificial suficientes para permitir o acúmulo de energia no elemento 
+fotoluminescente das sinalizações de saídas, devem possuir luminária de balizamento com a 
+indicação de saída (mensagem escrita e/ou símbolo correspondente), sem prejuízo do sistema 
+de iluminação de emergência, em substituição à sinalização apropriada de saída com o efeito 
+fotoluminescente; 
+h) os equipamentos de origem estrangeira, instalados na edificação, utilizados na segurança 
+contra incêndio, devem possuir as orientações necessárias à sua operação na língua 
+portuguesa. 
+6.4 Projeto de sinalização de emergência 
+Para fins de apresentação junto ao Corpo de Bombeiros, deve ser indicada uma nota no projeto 
+técnico de segurança contra incêndio e pânico referente ao atendimento das exigências contidas 
+nesta IT, conforme abaixo: 
+Nota: O sistema de sinalização de emergência atenderá ao contido na IT15 do CBMMG. 
+6.4.1 Nos detalhes de sistemas a serem apresentados em projeto técnico, a simbologia 
+indicativa da sinalização deve ser a prevista por esta IT. 
+6.4.2 É recomendada a elaboração de projeto executivo do sistema de sinalização de 
+emergência, de forma a adequar tecnicamente a edificação aos parâmetros desta IT, entretanto 
+tal projeto não necessita ser encaminhado para análise do Corpo de Bombeiros.
+
+--- PÁGINA 10 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+10/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+6.4.3 O projeto executivo de sinalização de emergência, quando elaborado, deve ser constituído 
+de memoriais descritivos do sistema de sinalização e de plantas-baixa da edificação onde 
+constem os tipos e dimensões das sinalizações apropriadas à edificação, indicadas através de 
+um círculo dividido ao meio na posição a serem instaladas, conforme indicado na Tabela 4 do 
+Anexo A, onde: 
+a) na parte superior do círculo deve constar o código do símbolo, conforme Anexo B; 
+b) naparte inferior do círculo devem constar as dimensões (diâmetro, altura e/ou largura) da 
+placa (em milímetros), conforme Tabela 1 do Anexo A. 
+6.4.3.1 Quando as sinalizações utilizarem-se de mensagens escritas, devem constar a altura 
+mínima de letras (conforme Tabela 2 do Anexo A) para cada placa indicando-se através de linha 
+fina de chamada. 
+6.4.3.2 Deve ainda constar do projeto uma legenda contendo todos os símbolos adotados em 
+conformidade com o Anexo B desta IT, bem como o quadro de quantidades de placas de 
+sinalização discriminados por tipo e dimensões. 
+6.5 Material 
+Os seguintes materiais podem ser utilizados para a confecção das sinalizações de emergência: 
+a) placas em materiais plásticos; 
+b) chapas metálicas; 
+c) outros materiais semelhantes. 
+6.5.1 Os materiais utilizados para a confecção das sinalizações de emergência devem atender 
+às seguintes características: 
+a) possuir resistência mecânica; 
+b) possuir espessura suficiente para que não sejam transferidas para a superfície da placa 
+possíveis irregularidades das superfícies onde forem aplicadas. 
+6.5.2 
+Devem utilizar elemento fotoluminescente para as cores branca e amarela dos símbolos, 
+faixas e outros elementos empregados para indicar: 
+a) sinalizações de orientação e salvamento; 
+b) equipamentos de combate a incêndio e alarme de incêndio; 
+c) sinalização complementar de indicação continuada de rotas de saída; 
+d) sinalização complementar de indicação de obstáculos e de riscos na circulação de rotas de 
+saída. 
+6.5.2.1 Os materiais que constituem a pintura das placas e películas devem ser atóxicos e não-
+radioativos, devendo atender as propriedades calorimétricas, de resistência à luz e resistência 
+mecânica. 
+6.5.3 O material fotoluminescente deve atender a norma DIN 67510 ou outra norma 
+internacionalmente aceita, até a edição de norma nacional.
+
+--- PÁGINA 11 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+11/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+6.5.4 As sinalizações de emergência complementar de rotas de saída aplicadas nos pisos 
+acabados devem atender os mesmos padrões exigidos para os materiais empregados na 
+sinalização aérea do mesmo tipo. 
+6.5.4.1 As demais sinalizações aplicadas em pisos acabados podem ser executadas em tinta 
+que resista a desgaste, por um período de tempo considerável, decorrente de tráfego de 
+pessoas, veículos e utilização de produtos e materiais utilizados para limpeza de pisos. 
+6.5.5 As placas utilizadas na sinalização podem ser do tipo plana ou angular; quando angular, 
+devem seguir as especificações conforme demonstrado na figura abaixo: 
+ 
+Figura 1 – Instalação de placa angular 
+6.6 Manutenção 
+A sinalização de emergência utilizada na edificação e áreas de risco deve ser objeto de inspeção 
+periódica para efeito de manutenção, desde a simples limpeza até a substituição por outra nova, 
+quando suas propriedades físicas e químicas deixarem de produzir o efeito visual para as quais 
+foram confeccionadas.
+
+--- PÁGINA 12 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+12/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ANEXO A 
+FORMAS GEOMÉTRICAS E DIMENSÕES PARA A SINALIZAÇÃO DE EMERGÊNCIA 
+ 
+Tabela 1 – Formas geométricas e dimensões das placas de sinalização 
+Sinal 
+Forma geométrica 
+Cota 
+(mm) 
+Distância máxima de visibilidade 
+(m) 
+4 
+6 
+8 
+10 
+12 
+14 
+16 
+18 
+20 
+24 
+28 
+30 
+Proibição 
+ 
+D 
+101 151 202 252 
+303 353 404 454 505 
+606 706 757 
+Alerta 
+ 
+L 
+136 204 272 340 
+408 476 544 612 680 816 951 1019 
+Orientação, 
+salvamento e 
+equipamentos 
+ 
+L 
+89 
+134 179 224 
+268 313 358 402 447 537 626 671 
+ 
+H 
+(L=2,0H) 
+63 
+95 
+126 158 
+190 221 253 285 316 379 443 474 
+Notas: 
+1. Dimensões básicas da sinalização 
+  
+  
+     
+onde: 
+A = área da placa, em m². 
+L = Distância do observador à placa, em metros. Esta relação é válida para L < 50 m, sendo que 
+deve ser observada a distância mínima de 4,0 m, conforme Tabela 1.
+
+--- PÁGINA 13 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+13/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+2. A Tabela 1 apresenta valores referenciais para algumas distâncias pré-definidas. 
+3. Formas da sinalização: 
+a) Circular – utilizada para implantar símbolos de proibição e ação de comando (ver forma 
+geométrica da Tabela 1); 
+b) Triangular – utilizada para implantar símbolos de alerta (ver forma geométrica da Tabela 1); 
+c) Quadrada e retangular – utilizadas para implantar símbolos de orientação, socorro, 
+emergência, identificação de equipamentos utilizados no combatea incêndio,alarme e 
+mensagens escritas (ver forma geométrica da Tabela 1). 
+4. Sinalização de proibição: 
+a) forma:circular; 
+b) cor de contraste: branca; 
+c) barra diametral e faixa circular (cor de segurança): vermelha; 
+d) cor do símbolo:preta; 
+e) margem (opcional):branca. 
+5. Sinalização de alerta: 
+a) forma:triangular; 
+b) cor do fundo (cor de contraste): amarela; 
+c) moldura:preta; 
+d) cor do símbolo (cor de segurança):preta; 
+e) margem (opcional):amarelo. 
+6. Sinalização de orientação e salvamento: 
+a) forma: quadrada ou retangular; 
+b) cor do fundo (cor de segurança):verde; 
+c) cor do símbolo (cor de contraste): fotoluminescente; 
+d) margem (opcional): fotoluminescente. 
+7. Sinalização de equipamentos: 
+a) forma: quadrada ou retangular; 
+b) cor de fundo (cor de segurança): vermelha; 
+c) cor do símbolo (cor de contraste): fotoluminescente; 
+d) margem (opcional): fotoluminescente.
+
+--- PÁGINA 14 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+14/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+Tabela 2 – Altura mínima das letras em placas de sinalização em função da distância de leitura 
+Altura mínima 
+(mm) 
+Distância de leitura com 
+maior impacto 
+(m) 
+Altura mínima 
+(mm) 
+Distância de leitura com 
+maior impacto 
+(m) 
+30 
+4 
+300 
+36 
+50 
+6 
+350 
+42 
+65 
+8 
+400 
+48 
+75 
+9 
+500 
+60 
+85 
+10 
+600 
+72 
+100 
+12 
+700 
+84 
+135 
+16 
+750 
+90 
+150 
+18 
+800 
+96 
+200 
+24 
+900 
+108 
+210 
+25 
+1000 
+120 
+225 
+27 
+1500 
+180 
+250 
+30 
+1500 
+180 
+Notas: 
+1. No caso de emprego de letras, elas devem ser grafadas obedecendo à relação: 
+  
+ 
+    
+Onde: 
+h = altura da letra, em m 
+L = distância do observador à placa, em metros. 
+2. A Tabela 2 apresenta valores de altura de letra para distâncias pré-definidas. Todas as 
+palavras e sentenças devem apresentar letras em caixa alta, fonte Universo 65 ou Helvetica 
+Bold. 
+Tabela 3 – Cores de segurança e contraste 
+Referência 
+Denominação dasCores: 
+Vermelho 
+Amarelo 
+Verde 
+Preto 
+Branco 
+Munsell Book of 
+Colors®(1) 
+5R4/14 
+5Y8/12 
+2.5G¾ 
+N 1.0/ 
+N 9.5/ 
+Pantone®(2) 
+485C 
+108C 
+350C 
+419C 
+- 
+CMYK(3) 
+C0 M100 Y91K0 
+C0 M9 Y94K0 
+C79 M0 Y87K76 
+C0 M0 Y0K100 
+- 
+RGB 
+R255 G0B23 
+R255 G255B0 
+R0 G61B0 
+R0 G0B0 
+- 
+(1) O padrão de cores básico é o Munsell Book of Colors®. 
+(2) As cores Pantone® foram convertidas do sistema Munsell Book of Colors®. 
+(3) Os valores das tabelas CMYK e RGB para impressão gráfica foram convertidos do sistema 
+Pantone®. 
+Notas: 
+1. Cores de sinalização - as cores de segurança e cores de contraste são apresentadas na 
+tabela 3.
+
+--- PÁGINA 15 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+15/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+2. Cores de segurança - a cor de segurança deve cobrir, no mínimo, 50% da área do símbolo, 
+exceto no símbolo de proibição, onde este valor deve ser, no mínimo, de 35%. A essa cor é 
+atribuída uma finalidade ou um significado específico de segurança. 
+3. Aplicação das cores de segurança: 
+a) Vermelha – utilizada para símbolos de proibição, emergência, identificação de equipamentos 
+de combate a incêndio e alarme; 
+b) Verde – utilizada para símbolos de orientação e salvamento; 
+c) Preta – utilizadas para símbolos de alerta e sinais de perigo. 
+4. Cores de contraste – as cores de contraste são a branca ou amarela, conforme especificado 
+na tabela 3, para sinalização de proibição e alerta, respectivamente. Essas cores têm a 
+finalidade de contrastar com a cor de segurança, de modo a fazer com que está sesobressaia. 
+5. As cores de contraste devem ser fotoluminescentes, para a sinalização de orientação e 
+salvamento e de equipamentos. 
+Tabela 4 – Símbolos para identificação de placas em planta baixa de projeto executivo: 
+Sinalização retangular 
+Sinalização quadrada 
+Sinalização triangular 
+Sinalização circular
+
+--- PÁGINA 16 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+16/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ANEXO B 
+SIMBOLOGIA PARA A SINALIZAÇÃO DEEMERGÊNCIA 
+I - Símbolos da sinalizaçãobásica 
+Os símbolos adotados por esta norma para sinalização de emergência são apresentados a 
+seguir, 
+acompanhados 
+deexemplosdeaplicação.Aespecificaçãodecadacordesignadaabaixoéapresentadanatabela3
+doanexoA. 
+1. Sinalização deProibição 
+Código 
+Símbolo 
+Significado 
+Forma ecor 
+Aplicação 
+P1 
+ 
+Proibido fumar 
+Símbolo: circular 
+Fundo:branca 
+Pictograma: cigarro, em 
+cor preta 
+Faixa circular e barra 
+diametral:vermelha 
+Todo local onde 
+fumar pode aumentar 
+o risco de incêndio 
+P2 
+ 
+Proibido produzir 
+chama 
+Símbolo: circular 
+Fundo: branca 
+Pictograma: fósforo 
+com chama, em cor 
+preta 
+Faixa circular e barra 
+diametral: vermelha 
+Todo o local onde a 
+utilização de chama 
+pode aumentar o risco 
+de incêndio 
+P3 
+ 
+Proibido utilizar água 
+para apagar ofogo 
+Símbolo: circular 
+Fundo: branca 
+Pictograma: balde 
+de água sobre o 
+fogo, em cor preta 
+Faixa circular e barra 
+diametral: vermelha 
+Toda situação onde o 
+uso de água for 
+impróprio para 
+extinguir o fogo. 
+P4 
+ 
+Proibido utilizar 
+elevador em caso de 
+incêndio 
+Símbolo: circular 
+Fundo: branca 
+Pictograma: elevador e 
+chama, em cor preta 
+Faixa circular e barra 
+diametral: vermelha 
+Nos locais de acesso 
+aos elevadores 
+comuns e monta-
+cargas 
+P5 
+ 
+Proibido obstruir este 
+local 
+Símbolo:circular 
+Fundo: branca 
+Pictograma: símbolo 
+de pallet, em cor preta 
+Faixa circular e barra 
+diametral: vermelha 
+Em locais sujeitos a 
+depósito de 
+mercadorias onde a 
+obstrução pode 
+apresentar perigo de 
+acesso às saídas de 
+emergência, rotas de 
+fuga, equipamentos de 
+combate a incêndio, 
+etc.)
+
+--- PÁGINA 17 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+17/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+2. Sinalização de Alerta 
+ 
+Código 
+Símbolo 
+Significado 
+Forma ecor 
+Aplicação 
+A1 
+ 
+Alerta geral 
+Símbolo: triangular 
+Fundo:amarela 
+Pictograma: ponto de 
+exclamação, em cor preta 
+Faixa triangular:preta 
+Toda vez que não 
+houver símbolo 
+específico de alerta, 
+deve sempre estar 
+acompanhado de 
+mensagem escrita 
+específica. 
+A2 
+ 
+Cuidado, risco de 
+incêndio 
+Símbolo: triangular 
+Fundo:amarela 
+Pictograma: chama, em 
+corpreta 
+Faixa triangular:preta 
+Próximo a locais onde 
+houver presença de 
+materiais altamente 
+inflamáveis. 
+A3 
+ 
+Cuidado, risco de 
+explosão 
+Símbolo: triangular 
+Fundo:amarela 
+Pictograma: explosão, em 
+corpreta 
+Faixa triangular:preta 
+Próximo a locais onde 
+houver presença de 
+materiais ou gases que 
+oferecem risco de 
+explosão. 
+A4 
+ 
+Cuidado, risco de 
+corrosão 
+Símbolo:triangular 
+Fundo:amarela 
+Pictograma: Mão corroída, 
+em corpreta 
+Faixa triangular:preta 
+Próximo a locais onde 
+houver presença de 
+materiais corrosivos. 
+A5 
+ 
+Cuidado, risco de 
+choqueelétrico 
+Símbolo: triangular 
+Fundo:amarela 
+Pictograma: raio, em 
+corpreta 
+Faixa triangular:preta 
+Próximo a instalações 
+elétricas que oferecem 
+risco de choque. 
+A6 
+ 
+Cuidado, risco de 
+radiação 
+Símbolo: triangular 
+Fundo:amarela 
+Pictograma: símbolo 
+radioativo, em corpreta 
+Faixa triangular:preta 
+Próximo a locais onde 
+houver presença de 
+materiais radioativos. 
+A7 
+Cuidado, risco de 
+exposição a 
+produtos tóxicos 
+Símbolo:triangular 
+Fundo:amarela 
+Pictograma: produto 
+tóxico, em corpreta 
+Faixa triangular:preta 
+Próximo a locais onde 
+houver presença de 
+produtos tóxicos.
+
+--- PÁGINA 18 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+18/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+3. Sinalização de Orientação e Salvamento 
+ 
+Código 
+Símbolo 
+Significado 
+Forma e cor 
+Aplicação 
+S1 
+ 
+Saída 
+de 
+emergência 
+Símbolo: retangular 
+ 
+ Fundo:verde 
+ 
+Pictograma: 
+fotoluminescente 
+Indicação do sentido 
+(esquerda ou direita) de uma 
+saída de emergência, 
+especialmente para ser fixado 
+em colunasDimensões 
+mínimas: L = 1,5 H. 
+S2 
+ 
+Indicação do sentido 
+(esquerda ou direita) de 
+uma saída de emergência 
+Dimensões mínimas: 
+L = 2,0H 
+S3 
+ 
+Indicação de uma saída 
+de emergência a ser 
+afixada acima da porta, 
+para indicar o seu acesso 
+S4 
+ 
+a) Indicaçãodo sentido 
+do acesso a uma saída 
+que não esteja aparente 
+b) Indicação do sentido 
+do uma saída por 
+rampas 
+c) Indicação do sentido 
+da saída na direção 
+vertical (subindo ou 
+descendo) 
+NOTA- A seta indicativa 
+deve ser posicionada de 
+acordo como sentido a 
+ser sinalizado 
+S5 
+ 
+S6 
+ 
+S7 
+ 
+S8 
+ 
+Escada 
+de 
+emergência 
+Símbolo:retangular 
+ 
+Fundo:verde 
+ 
+Pictograma: 
+fotoluminescente 
+Indicação do sentido de 
+fuga no interior das 
+escadas 
+Indica direita ou 
+esquerda, descendo ou 
+subindo 
+O desenho indicativo deve 
+ser posicionado de acordo 
+com o sentido a ser 
+sinalizado 
+S9 
+ 
+S10 
+ 
+S11
+
+--- PÁGINA 19 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+19/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+Código 
+Símbolo 
+Significado 
+Forma e cor 
+Aplicação 
+S12 
+ 
+Saída 
+de 
+emergência 
+ 
+Símbolo: retangular Fundo: 
+verde Mensagem“SAÍDA” 
+ou Mensagem “SAÍDA” e/ou 
+pictograma e/ou seta 
+direcional: 
+fotoluminescente, com 
+altura de letra sempre 
+>50mm 
+Indicação da saída de 
+emergência, com ou sem 
+complementação 
+do 
+pictograma 
+fotoluminescente 
+(seta 
+ou imagem, ouambos) 
+S13 
+ 
+S14 
+ 
+S15 
+ 
+ 
+Saídade 
+emergência 
+ 
+Símbolo: retangular 
+Fundo:verde 
+Mensagem “SAÍDA”: 
+fotoluminescente, com 
+altura de letra sempre 
+>50mm 
+Indicação da saída de 
+emergência, 
+utilizada 
+como complementação do 
+pictograma 
+fotoluminescentes 
+(seta 
+ou imagem, ouambos) 
+S16 
+ 
+S17 
+ 
+Exemplos 
+ 
+ 
+Número 
+dopavimento 
+Símbolo: retangular ou 
+quadrada 
+Fundo:verde 
+Mensagem indicando 
+número do pavimento. 
+Pode se formar pela 
+associação de duas placas. 
+Por exemplo: 
+1o+ SS = 1oSS, que 
+significa 1ºSubsolo. 
+Indicação do pavimento, 
+no interior da escada 
+(patamar) 
+S18 
+ 
+Instrução de 
+abertura da 
+porta corta-
+fogo por 
+barraantipânic
+o 
+Símbolo: quadrado ou 
+retangular 
+ 
+Fundo:verde 
+ 
+Pictograma: 
+fotoluminescente. 
+Indicação da forma de 
+acionamento 
+da 
+barra 
+antipânico 
+instalada 
+sobre a porta corta-fogo. 
+Pode ser complementada 
+pela mensagem “aperte e 
+empurre”, quando for o 
+caso 
+S19 
+ 
+S20 
+ 
+S21 
+ 
+Acesso a um 
+dispositivo para 
+abertura de uma 
+porta de saída 
+Símbolo: Quadrada 
+Fundo:verde 
+Pictograma: mão com uma 
+ferramenta quebrando um 
+painel de 
+vidro,fotoluminescente. 
+Orienta uma providência 
+para obter acesso a uma 
+chave ou um modo de 
+abertura 
+da 
+saída 
+de 
+emergência
+
+--- PÁGINA 20 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+20/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+4. Sinalização de Equipamentos de Combate a Incêndio eAlarme 
+ 
+Código 
+Símbolo 
+Significado 
+Forma e cor 
+Aplicação 
+E1 
+Alarme sonoro 
+Símbolo:quadrada 
+ 
+Fundo:vermelha 
+ 
+Pictograma: 
+fotoluminescente 
+Indicação 
+do 
+local 
+de 
+instalação 
+do 
+alarme 
+de 
+incêndio 
+E2 
+Comando manual 
+de alarme ou 
+bomba de 
+incêndio 
+Ponto de acionamento de 
+alarme 
+de 
+incêndio 
+ou 
+bomba de incêndio. Deve vir 
+sempre 
+acompanhado 
+de 
+uma 
+mensagem 
+escrita, 
+designando o equipamento 
+acionado por aquele ponto 
+E3 
+E4 
+ 
+Telefone ou 
+interfone de 
+emergência 
+Indicação 
+da 
+posição 
+do 
+interfone para comunicação 
+de situações de emergência a 
+uma central 
+E5 
+ 
+Extintor de 
+incêndio 
+Indicação 
+de 
+localização 
+dos extintores deincêndio 
+E6 
+ 
+Extintor de 
+incêndio 
+Indicação 
+de 
+localização 
+dos extintores de incêndio 
+com 
+informações 
+complementares 
+(exemplo 
+de 
+numeração 
+para 
+controle) 
+E7 
+Mangotinho 
+Indicaçãode localização do 
+mangotinho 
+E8 
+ 
+Abrigo de 
+mangueira e 
+hidrante 
+Símbolo:quadrada 
+ 
+Fundo:vermelha 
+ 
+Pictograma: 
+fotoluminescente 
+Indicação 
+do 
+abrigo 
+da 
+mangueira de incêndio com 
+ou sem hidrante no seu 
+interior 
+E9 
+ 
+Hidrante de 
+incêndio 
+Indicação da localização do 
+hidrante 
+quando 
+instalado 
+fora do abrigo de mangueiras
+
+--- PÁGINA 21 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+21/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+Código 
+Símbolo 
+Significado 
+Forma e cor 
+Aplicação 
+E10 
+ 
+Coleção de 
+equipamentos 
+de combate a 
+incêndio 
+Símbolo: Quadrado  
+ 
+Fundo:vermelho 
+ 
+Pictograma: 
+semicírculo 
+fotoluminescente 
+Indica a localização de um 
+conjunto de equipamentos de 
+combate a incêndio (hidrante, 
+alarme 
+de 
+incêndio 
+e 
+extintores), 
+para 
+evitar 
+a 
+proliferação de sinalizações 
+correlatas. 
+E11 
+ 
+Válvula de 
+controle do 
+sistema de 
+chuveiros 
+automáticos 
+Símbolo: Quadrado  
+Fundo:vermelho 
+ 
+Pictograma: 
+chuveiro automático 
+fotoluminescente 
+Indicação da localização da 
+válvula 
+de 
+controle 
+do 
+sistema 
+de 
+chuveiros 
+automáticos 
+E12 
+ 
+Sinalização de solo 
+para equipamentos 
+de combate a 
+incêndio (hidrantes e 
+extintores) 
+Símbolo: quadrada 
+ (1,00 m x 1,00 m) 
+Fundo: vermelha  
+(0,70 m x 0,70 m) 
+Pictograma: borda 
+amarela 
+(largura = 0,15m) 
+Usado para indicar a localização 
+dos equipamentos de combate a 
+incêndio e alarme, para evitar a 
+sua obstrução 
+E13 
+ 
+Seta à esquerda, 
+indicativa de 
+localização dos 
+equipamentos de 
+combate a incêndio 
+ou alarme 
+Símbolo: quadrada 
+ 
+Fundo: vermelha 
+ 
+Pictograma: seta indicativa 
+fotoluminescente 
+Indicação da localização dos 
+equipamentos de combate a 
+incêndio ou alarme. 
+Deve 
+sempre 
+ser 
+acompanhado 
+do 
+símbolo 
+do(s) 
+equipamento(s) 
+que 
+estiver(em) oculto(s). 
+E14 
+ 
+Seta à direita, 
+indicativa de 
+localização dos 
+equipamentos de 
+combate a incêndio 
+ou alarme 
+Símbolo: quadrada 
+ 
+Fundo: vermelha 
+ 
+Pictograma: seta indicativa 
+fotoluminescente 
+Indicação da localização dos 
+equipamentos de combate a 
+incêndio ou alarme. 
+Deve sempre ser 
+acompanhado do símbolo do 
+(s) equipamento (s) que estiver 
+(em) oculto (s). 
+E15 
+ 
+Seta diagonal à 
+esquerda, indicativa 
+de localização dos 
+equipamentos de 
+combate a incêndio 
+ou alarme 
+E16 
+ 
+Seta diagonal à 
+direita, indicativa de 
+localização dos 
+equipamentos de 
+combate a incêndio 
+ou alarme 
+NOTAS: 
+1. Sinalizações básicas
+
+--- PÁGINA 22 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+22/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+As formas geométricas e as cores de segurança e de contraste devem ser utilizadas somente 
+nas combinações descritas a seguir, a fim de obter quatro tipos básicos de sinalização de 
+segurança, observando-se os requisitos da tabela 1 do anexo A para proporcionalidades 
+paramétricas e tabela 3 do anexo A para as cores. 
+1.1 Sinalização de proibição - a sinalização de proibição deve obedecer a: 
+a) forma:circular; 
+b) cor de contraste:branca; 
+c) barra diametral e faixa circular (cor de segurança):vermelha; 
+d) cor do símbolo:preta; 
+e) margem (opcional):branca; 
+f) proporcionalidades paramétricas. 
+1.2 Sinalização de alerta - a sinalização de alerta deve obedecer a: 
+a) forma:triangular; 
+b) cor do fundo (cor de contraste):amarela; 
+c) moldura:preta; 
+d) cor do símbolo (cor de segurança):preta; 
+e) margem (opcional):branca; 
+f) proporcionalidadesparamétricas. 
+1.3 Sinalização de orientação e salvamento - a sinalização de orientação deve obedecer a: 
+a) forma: quadrada ou retangular; 
+b) cor do fundo (cor de segurança):verde; 
+c) cor do símbolo (cor de contraste):fotoluminescente; 
+d) margem (opcional):foto luminescente; 
+e) proporcionalidades paramétricas. 
+1.4 Sinalização de equipamentos - a sinalização de equipamentos de combate a incêndio 
+deve obedecer: 
+a) forma: quadrada ou retangular; 
+b) cor de fundo (cor de segurança): vermelha; 
+c) cor do símbolo (cor de contraste): fotoluminescente; 
+d) margem (opcional): fotoluminescente;
+
+--- PÁGINA 23 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+23/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+e) proporcionalidadesparamétricas. 
+II – Sinalização Complementar 
+A padronização de formas, dimensões e cores da sinalização complementar é estabelecida 
+neste capítulo. 
+1. Mensagens Escritas 
+A complementação da sinalização básica por sinalização complementar composta por 
+mensagem escrita deve atender aos requisitos de dimensionamento apresentados nas 
+Tabelas 1 e 2 do Anexo A. 
+Código 
+Símbolo 
+Significado 
+Forma ecor 
+Aplicação 
+M1 
+Ver figura 1 
+Indicação dos 
+sistemas de 
+proteção contra 
+incêndio existentes 
+na edificação. 
+Símbolo: quadrado ou 
+retangular 
+Fundo: cor contrastante 
+com a mensagem 
+Pictograma: mensagem 
+escrita referente aos 
+sistemas de proteção 
+contra incêndio existentes 
+na edificação, o tipo de 
+estrutura e os telefones de 
+emergência. 
+Na entrada 
+principal da 
+edificação. 
+M2 
+ 
+ 
+Indicação da 
+lotação máxima 
+admitida no 
+recinto de 
+reunião de 
+público. 
+Símbolo: retangular  
+ 
+Fundo:verde 
+ 
+Pictograma: mensagem 
+escrita “Lotação Máxima 
+admitida: xx pessoas 
+sentadas xy pessoas em 
+pé”. 
+Nas entradas 
+principais dos 
+recintos de reunião 
+de público. 
+M3 
+ 
+ 
+Aperte e empurre o 
+dispositivo de 
+abertura da porta. 
+ 
+Símbolo: retangular 
+ 
+Fundo:verde 
+ 
+Pictograma: mensagem 
+escrita “aperte e 
+empurre”, 
+fotoluminescente 
+Nas portas de 
+saídas de 
+emergência com 
+dispositivo 
+antipânico. 
+M4 
+ 
+Manter a porta 
+corta-fogo da saída 
+de emergência 
+fechada. 
+Símbolo: retangular  
+ 
+Fundo:verde 
+ 
+Pictograma: mensagem 
+escrita “porta corta-fogo 
+mantenha fechada”, 
+fotoluminescente. 
+Nas portas corta-
+fogo instaladas nas 
+saídas de 
+emergência. 
+M5 
+ 
+ 
+Indicação da saída 
+de emergência e a 
+rota de fuga 
+específica. 
+Símbolo: retangular 
+ 
+Fundo: verde 
+ 
+Pictograma: 
+fotoluminescente com 
+mensagem adjacente 
+escrita “rota de fuga” 
+Indicação da rota de 
+fuga específica para 
+organizar o fluxo de 
+pessoas, conforme 
+plano de abandono.
+
+--- PÁGINA 24 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+24/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 1 – modelo de sinalização tipo M1 
+2. Indicação continuada de rotas de fuga 
+A indicação continuada de rotas de fuga deve ser realizada por meio de setas 
+indicativas, de acordo com os critérios especificados no texto desta norma, instaladas 
+no sentido das saídas, com as seguintes especificações abaixo: 
+Código 
+Símbolo 
+Significado 
+Forma ecor 
+Aplicação 
+C1 
+Ver figura2 
+Direção da rota 
+de saída 
+Símbolo: retangular  
+Fundo:verde 
+Pictograma: seta indicativa 
+prolongada, 
+fotoluminescente. 
+Nas paredes, próximo 
+ao piso, e/ou nos pisos 
+de rotas de saída. 
+C2 
+Direção da rota 
+desaída 
+Símbolo: quadrado  
+ 
+Fundo:verde 
+ 
+Pictograma: seta, 
+fotoluminescente. 
+Complementa uma 
+sinalização básica de 
+orientação esalvamento 
+C3 
+C4 
+C5 
+C6 
+C7
+
+--- PÁGINA 25 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição  
+25/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 2 – Detalhe da sinalização tipo C-1 
+3. Indicação de obstáculos 
+Obstáculos nas rotas de saídas devem ser sinalizados por meio de uma faixa zebrada, 
+conforme símbolosabaixo, com largura mínima de100,0 mm. 
+As listas amarelas e pretas ou brancas fotoluminescentes e vermelhas devem ser 
+inclinadas a 45o e com largura mínima de 50,0 mm cada. 
+Código 
+Símbolo 
+Significado 
+Forma ecor 
+Aplicação 
+O1 
+ 
+ 
+Obstáculo 
+Símbolo: retangular ou 
+quadrado 
+Fundo:amarelo 
+Pictograma: listas 
+pretas inclinadas a45º 
+Nas paredes, pilares, vigas, 
+cancelas, muretas e outros 
+elementos que podem constituir 
+um obstáculo à circulação de 
+pessoas eveículos. 
+Utilizada quando o ambiente 
+interno ou externo possui 
+sistema de iluminação de 
+emergência. 
+O2 
+ 
+ 
+Obstáculo 
+Símbolo: retangular ou 
+quadrado 
+Fundo: branco 
+fotoluminescente 
+Pictograma: listas 
+vermelhas 
+inclinadasa45º 
+Nas paredes, pilares, vigas, 
+cancelas, muretas e outros 
+elementos que podem constituir 
+um obstáculo à circulação de 
+pessoas eveículos. 
+Utilizada quando o ambiente 
+possui iluminação artificial em 
+situação normal, porém não 
+possui sistema de iluminação de 
+emergência.
+
+--- PÁGINA 26 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição 
+26/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ANEXO C 
+EXEMPLOS DE INSTALAÇÃO DE SINALIZAÇÃO 
+ 
+Figura 1 Sinalização de Porta                                 Figura 2 – Sinalização de porta      
+Corta-fogo (vista da escada)                                   Corta-fogo (vista do hall)
+
+--- PÁGINA 27 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição 
+27/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 3 – Sinalização de porta corta-fogo 
+do térreo 
+(vista da escada) 
+Figura 4 – Sinalização de levadores 
+ 
+Figura 5 – Sinalização de portas com barras antipânico (modelos 1 e 2)
+
+--- PÁGINA 28 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição 
+28/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 6 – Sinalização de extintores               Figura 7 – Sinalização de hidrante 
+ 
+ 
+Figura 8 – Sinalização complementar. Exemplo de rodapé.
+
+--- PÁGINA 29 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição 
+29/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 9 – Sinalização de saída sobre verga de portas, sinalização complementar de saídas e 
+obstáculos. 
+Figura 10 – Sinalização de saída sobre porta corta-fogo, sinalização complementar de saída e 
+obstáculos.
+
+--- PÁGINA 30 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição 
+30/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 11 – Sinalização de saída sobre paredes e 
+vergas deportas 
+Figura 12 – Sinalização de saída sobre porta corta-fogo
+
+--- PÁGINA 31 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição 
+31/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 13 – Sinalização de saída perpendicular ao sentido da 
+fuga, em dupla face. 
+Figura 14 – Sinalização de saída no sentido da fuga, em dupla face.
+
+--- PÁGINA 32 ---
+CBMMG IT 15 – Sinalização de Emergência  
+1ª edição 
+32/32 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+Figura 15 – Sinalização de saída em rampa

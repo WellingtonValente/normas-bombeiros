@@ -1,0 +1,474 @@
+--- PÁGINA 1 ---
+IT - 11 
+PLANO DE INTERVENÇAO DE INCÊNDIO 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ANEXOS 
+ 
+1 – Objetivo 
+ 
+ 
+A – Planilha de levantamento de dados 
+ 
+2 – Aplicação 
+ 
+B – Fluxograma do Plano de Intervenção de 
+Incêndio 
+ 
+3 – Referências Normativas e Bibliográficas 
+ 
+ 
+4 – Definições e conceitos 
+ 
+ 
+5 – Procedimentos
+
+--- PÁGINA 2 ---
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+1 OBJETIVO 
+ 
+Esta Instrução Técnica estabelece princípios gerais para: 
+a) o levantamento de riscos de incêndios; 
+b) a elaboração de Planos de Intervenção Incêndio; 
+c) padronização das formas de intervenção operacional 
+nos locais de risco. 
+ 
+ 
+2 APLICAÇÃO 
+ 
+Esta Instrução Técnica aplica-se às edificações e 
+áreas de risco onde, de acordo com as tabelas de 
+exigências do  Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco 
+no Estado de Minas Gerais é necessária a 
+elaboração de um Plano de Intervenção de 
+Incêndio.  
+ 
+ 
+3 
+REFERÊNCIAS 
+NORMATIVAS 
+E 
+BIBLIOGRÁFICAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las:  
+ 
+Lei Estadual Complementar nr. 54. 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que 
+dispõe sobre a prevenção contra incêndio e pânico 
+no Estado de Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 
+– Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado 
+de Minas Gerais. 
+ 
+Instituto de Pesquisas Tecnológicas de São Paulo, 
+“Manual de Regulamentação de Segurança contra 
+Incêndios”, 1992. 
+ 
+FUNDACENTRO, 
+Ministério 
+do 
+Trabalho, 
+“Introdução à Engenharia de Segurança de Sistemas”, 
+4ª edição, 1994. 
+ 
+INSTRUÇÃO TÉCNICA – 11 
+ 
+   
+ 
+ 
+PLANO DE INTERVENÇÃO DE INCÊNDIO 
+ 
+ 
+NR 23 – Proteção Contra Incêndio. 
+ 
+FireEx Internacional de Proteção Industrial Ltda, 
+“Introdução à Análise de Risco – sistemática e 
+métodos”, 1ª edição, 1997. 
+ 
+Sellie, Maj. Gerald, “Seminário sobre a Intervenção 
+dos Bombeiros no Meio Industrial" - Instituto de 
+Engenharia de São Paulo, 1997. 
+ 
+NBR 14023 – Registro de Atividades de Bombeiros. 
+ 
+NBR 14276 – Programa de Brigada de Incêndio. 
+ 
+NBR 14608 – Bombeiro Profissional, Civil. 
+ 
+Society of Fire Protection Engeniering, “The SFPE 
+Handbook of Fire Protection Engeniering, National 
+Fire Protection Association, 2nd edition. 
+ 
+National Fire Protection Association, “Handbook”, 
+18th edition. 
+ 
+ 
+4 DEFINIÇÕES E CONCEITOS 
+ 
+Para efeito desta Instrução Técnica aplicam-se as 
+definições constantes da IT 02 – Terminologia de 
+proteção contra incêndio e pânico. 
+ 
+ 
+5. PROCEDIMENTOS 
+ 
+5.1 As edificações relacionadas no item 2 desta IT 
+devem possuir um Plano de Intervenção de Incêndio. 
+ 
+5.2 Análise preliminar de riscos: 
+5.2.1 Para a elaboração de um Plano de Intervenção 
+de Incêndio é necessário realizar uma análise 
+preliminar de riscos, buscando identificá-los.
+
+--- PÁGINA 3 ---
+5.2.2 A Análise preliminar de riscos é o estudo prévio 
+sobre a existência de riscos, elaborado durante a 
+concepção e o desenvolvimento de um projeto ou 
+sistema. 
+ 5.2.3 O levantamento do risco de incêndios é elaborado 
+pelo Responsável Técnico, juntamente com responsável 
+pelo uso da edificação, por meio do preenchimento da 
+planilha de levantamento de dados contida no anexo A. 
+5.2.4 Em conjunto com a planilha de levantamento de 
+dados da edificação deve ser apresentada uma Planta de 
+Risco, 
+cujo 
+modelo 
+encontra-se 
+na 
+IT 01 – 
+Procedimentos Administrativos. 
+5.2.4.1 A Planta de Risco acima citada é a mesma 
+elaborada no processo de segurança contra incêndio e 
+pânico, aprovado no Corpo de Bombeiros.  
+5.2.4.2 A Planta de Risco deve ser elaborada no formato 
+A2, A3 ou A4, em escala padronizada, podendo ser em 
+mais de uma folha, indicando: 
+a) principais riscos; 
+b) paredes corta-fogo e de compartimentação; 
+c) hidrantes internos e externos; 
+d) número de pavimentos; 
+e) hidrante de recalque; 
+f) reserva de incêndio; 
+g) armazenamento de produtos perigosos, tipo e 
+quantidade; 
+h) vias de acesso às Viaturas do Corpo de Bombeiros; 
+i) hidrantes públicos próximos da edificação (se 
+houver); 
+j) acrescentar tipo de escada. 
+ 
+5.2.4.3 Uma cópia da Planta de Risco deve permanecer 
+num local como portaria, acesso principal ou recepção, 
+de forma que seja acessível às guarnições do Corpo de 
+Bombeiros, em caso de emergências.  
+5.2.5 Conforme a complexidade dos riscos existentes, o 
+levantamento deve ser elaborado por profissionais de 
+um grupo multidisciplinar (engenheiros, técnicos, 
+especialistas em gerenciamento de emergências). 
+5.2.6 A partir do Levantamento de Dados e do 
+mapeamento das áreas de risco, é elaborado o Plano de 
+Intervenção de Incêndio. 
+ 
+5.3 Plano de Intervenção de Incêndio 
+ 
+5.3.1 O Plano de Intervenção de Incêndio consiste num 
+planejamento prévio para a provável ocorrência de uma 
+emergência e visa facilitar o reconhecimento da 
+edificação por parte da população e das equipes de 
+emergência, 
+proporcionando 
+sua 
+utilização 
+em 
+simulados e treinamentos; 
+5.3.2 Por meio do plano de intervenção de incêndio, 
+busca-se garantir: 
+a) a segurança da população fixa e flutuante do edifício; 
+b) a segurança da população das edificações vizinhas; 
+c) a segurança dos profissionais responsáveis pelo 
+socorro, no caso de ocorrer um incêndio/sinistro; 
+d) o controle da propagação de incêndios; 
+e) a proteção do meio ambiente; 
+f) facilidade de encontrar os meios e rotas para retirada 
+da população. 
+5.3.3  O Plano de intervenção de incêndio de uma 
+edificação contém os seguintes dados: 
+a) planilha de Levantamento de Dados, conforme 
+item 5.2.2; 
+b) descrição das possíveis causas de incêndio; 
+c) as ações a serem tomadas pelos responsáveis pelo 
+uso e funcionários; 
+d) a orientação aos usuários temporários; 
+e) os itinerários mais indicados para as viaturas do 
+Corpo de Bombeiros; 
+f) outros dados julgados necessários, a critério do 
+Corpo de Bombeiros. 
+5.3.4 O Plano deverá ser confeccionado pelo 
+Responsável Técnico habilitado com Assessoria do 
+Corpo de Bombeiros. 
+5.3.5 O Plano de intervenção de incêndio será 
+avaliado por um Oficial do Serviço de Segurança 
+Contra Incêndio e Pânico das Unidades e Frações de 
+Bombeiros, responsável pela área da edificação. 
+5.3.6 Uma vez elaborado e ratificado pelo Corpo de 
+Bombeiros, o plano é arquivado em três vias: 
+a) uma via anexa ao Processo de Segurança Contra 
+Incêndio e Pânico (Pscip); 
+b) uma via no acesso principal da edificação; 
+c) uma via em arquivo digitalizado em CD não 
+regrávavel .   
+5.3.7 O Plano de Intervenção de Incêndio deverá ser 
+de conhecimento da população permanente da 
+edificação. 
+5.3.8 O responsável pelo uso da edificação deverá 
+entregar ao Corpo de Bombeiros responsável pela 
+área da edificação o Plano de Intervenção para 
+análise e aprovação. 
+5.3.9 O plano de intervenção deverá ser apresentado 
+ao CBMMG, no segundo ano consecutivo, na 
+primeira renovação do AVCB da edificação ou área 
+de risco. 
+5.3.10 Durante o período de validade do Auto de 
+Vistoria do Corpo de Bombeiros, recomenda-se que 
+se realize, no mínimo, um simulado com a 
+participação integrada da brigada de emergências da 
+edificação e do Corpo de Bombeiros. Este Plano de 
+Intervenção de Incêndio deve ser objeto de uso 
+freqüentes em treinamentos e simulados. 
+5.3.11 As edificações e projetos já aprovados e 
+liberados pelas leis municipais deverão adequar-se no 
+contido desta Instrução Técnica.
+
+--- PÁGINA 4 ---
+OCUPAÇÃO:................................................................. 
+ENDEREÇO:................................................................. 
+BAIRRO:....................................................................... 
+PROPRIETÁRIO:........................................................... 
+Nº DE FUNCIONÁRIOS:................................................ 
+HORÁRIO DE FUNCIONAMENTO:............................. 
+POPULAÇÃO FIXA E FLUTUANTE:.......................... 
+Vias de acesso e pontos de referência: 
+..........................................................................................
+.......................................................................................... 
+Anexar planta baixa do prédio. 
+O prédio possibilita, junto ao leito carroçável ou no seu 
+interior a utilização de viaturas ou equipamentos de 
+Bombeiro: 
+(   ) sim   
+(   ) não 
+ 
+1. DADOS RELATIVOS A CONSTRUÇÃO DO 
+IMÓVEL: 
+Área do terreno:..............m2
+Área construída:..............m2 
+Altura da edificação:..................m 
+Distância em relação às edificações vizinhas: 
+Direita.................m                 Esquerda....................m 
+Frente.................m                  Atrás..........................m 
+Tipo de estrutura: 
+(  ) concreto   (  ) metálica    (   ) madeira  (   ) outras  
+especificar:.................................................................. 
+Nº de Pavimentos:...................................................... 
+Material de acabamento das paredes:........................ 
+Material de acabamento dos pisos:........................ 
+Material da cobertura:........................ 
+ 
+2. EQUIPAMENTOS E SISTEMA DE COMBATE 
+A INCÊNDIO: 
+ 
+2.1 Hidrantes: 
+(   )  simples 
+(   ) duplo 
+(   )  interno 
+(   ) externo      (    ) não possui 
+quantidade:............................................................. 
+Localização:............................................................ 
+Tipo (s) de mangueira (s): 
+(   ) 38 mm 
+ 
+(   ) 63 mm 
+ 
+Obs.: colocar a quantidade entre os parênteses 
+Hidrante de recalque: (   ) Sim  (    ) Não     
+Hidrante público mais próximo da edificação:.............m 
+ 
+2.2 Instalações Automáticas: 
+Chuveiros automáticos 
+(   ) sim   
+(   ) não 
+Gás carbônico (CO2): 
+(   ) sim   
+(   ) não 
+Gases especiais: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 ANEXO A 
+PLANILHA DE LEVANTAMENTO DE DADOS 
+ 
+ 
+(   ) sim   
+(   ) não 
+Sistema de detecção de incêndio e alarme: 
+(   ) sim   
+(   ) não 
+ 
+ 
+ 
+ 
+ 
+2.3 Bombas de recalque: 
+(   ) elétrica   (   ) óleo   (   ) gasolina (   ) vapor 
+Sendo elétrica, há gerador para emergência: 
+(   ) sim   
+(   ) não 
+Localização do hidrante de recalque:....................... 
+Qual o hidrante público mais próximo: 
+.............................................................................. 
+ 
+2.4 Reservatório de água para incêndio: 
+(   ) subterrâneo   
+(   ) elevado 
+Capacidade:.........................m3 
+Capacidade Reservada para Incêndio:................m3 
+Manancial natural ou artificial nas proximidades: 
+.............................................................................. 
+ 
+2.5 Pessoal treinado: 
+(   ) Bombeiros profissionais 
+(   ) Brigada de Incêndio 
+(   ) Socorristas 
+ Responsável pela brigada:.................................. 
+ Quantidade de brigadistas.................................... 
+ Período em que estão na edificação:................. 
+............................................................................... 
+ 
+2.6 Socorros externos: localização e tempo / 
+resposta: 
+Obs: medir o deslocamento em velocidade moderada 
+em situação normal de trânsito. 
+ Corpo de Bombeiros (193): 
+End.:.............................................................................
+Tempo-resposta:..........min. 
+ Policiamento (190): 
+End.:.............................................................................
+Tempo-resposta:..........min. 
+ Pronto Socorro (192): 
+End.:.............................................................................
+Tempo-resposta:..........min. 
+ 
+3. PONTOS CRÍTICOS DA EDIFICAÇÃO: 
+Assinalar  na implantação: central de GLP, casa de 
+bomba, outras que oferecer um risco maior. 
+ 
+4. DADOS SOBRE O ABANDONO DE ÁREA 
+Quais as saídas de emergências? 
+Há área de refúgio? 
+Há comunicação com outras edificações? 
+Há pessoas com dificuldade para locomoção? 
+Há pontos fixos para ancoragem de cordas? 
+Há escada mecânica disponível na Fração de 
+Bombeiros 
+mais 
+próxima 
+alcança 
+todos 
+os 
+pavimentos?  
+Há rotas de fuga com iluminação de emergência?
+
+--- PÁGINA 5 ---
+Há rotas de fuga sinalizadas? 
+ 
+5. TIPO DE VIZINHANÇA: 
+..................................................................... 
+Abastecimento de gás:  (   ) GLP    (   ) GN  
+ 
+ 
+ 
+6. POSSIBILIDADE DE ENCHENTE: 
+ (    )   sim                 (    ) não     
+ (    )  Córrego          (    )  Lagoa        (   ) Outros   
+ 
+7. RESPONSÁVEL TÉCNICO 
+Nome:........................................................................... 
+Capacitação técnica (CREA) :........................................ 
+Telefone de contato:...................................................... 
+ 
+8. Sentido do vento predominante:................................  
+ 
+9. Fração de Bombeiros mais próxima: 
+End.:............................................................................. 
+Telefone:....................................................................... 
+Comandante:................................................................. 
+ 
+10. Esta planilha está sujeita a alterações de acordo 
+com as peculiaridades de cada plano de intervenção 
+de incêndio.
+
+--- PÁGINA 6 ---
+ANEXO B  
+ Fluxograma do Plano de Intervenção de Incêndio 
+ 
+ 
+ 
+ Preencher a planilha de levantamento de dados 
+a partir da primeira renovação do AVCB 
+ 
+ 
+Ð 
+ 
+ 
+ 
+Análise   dos riscos e  
+elaboração da planta de risco 
+ 
+ 
+Ð 
+ 
+ 
+Elaboração do  plano 
+de intervenção de incêndio 
+ 
+ 
+Ð 
+ 
+ 
+ 
+                                                Avaliação do Plano de Intervenção  
+ pelo proprietário ou responsável pela 
+                                                  elaboração   em conjunto com o  
+                                              Comandante da Fração de Bombeiros 
+                                                                mais próxima. 
+ 
+ 
+Ð 
+ 
+ 
+ 
+Exercícios simulados 
+envolvendo os Órgãos Públicos 
+de emergência e Planos de 
+auxílio mútuo

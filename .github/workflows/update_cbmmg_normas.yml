@@ -1,4 +1,4 @@
-﻿name: Atualizar normas CBMMG
+name: Atualizar normas CBMMG
 
 on:
   workflow_dispatch:

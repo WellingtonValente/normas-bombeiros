@@ -1,0 +1,174 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+CIRCULAR – 10/2010 – Div. Pesquisa – DAT     
+ 
+ESTABELECE ORIENTAÇÕES NA APLICAÇÃO 
+DA INSTRUÇÃO TÉCNICA – IT 23 SOBRE 
+CONDIÇÕES 
+DE 
+SEGURANÇA 
+DAS 
+INSTALAÇÕES 
+DE 
+ARMAZENAMENTO 
+DE 
+RECIPIENTES TRANSPORTÁVEIS DE GLP E 
+POSTOS DE REVENDA. 
+ 
+O Tenente Coronel Diretor de Atividades Técnicas no uso de suas atribuições legais, 
+consoante ao diposto no inciso I, Art 6º da Resolução 169/05, que trata da competência e estrutura da 
+Diretoria de Atividades Técnicas. 
+Considerando que: 
+1. Após a adoção da IT-23 em 2006, o SSCIP continuou a permitir com base na Portaria 
+027/96-DNC-ANP, a interposição de parede corta fogo para a redução das distâncias de 
+segurança previstas no seu § 4º item III letra D1; 
+ 
+2. Na IT-23, em sua referencia bibliográfica2, há a recepção da Portaria 27/96, o que 
+vinha sendo praticado em todas as instancias do SSCIP conforme descrito no item anterior; 
+ 
+3. A Resolução ANP nº 5, de 26/02/08 revoga a Portaria DNC 27 /96 e adota a Norma 
+NBR 15.514 /07 - ABNT e à Portaria nº 297 /03 - ANP; 
+ 
+4. A NBR 15.514 não foi recepcionada pelo CBMMG, face ao exposto na Circular 02/09-
+DAT3; 
+ 
+ 
+5. Reina dúvida no SSCIP quanto às medidas a serem exigidas em PSCIP e vistorias em 
+instalações de armazenamento e comércio de recipientes transportáveis de GLP e Postos de 
+Revenda; 
+                                                          
+1 Portaria 027/96-DNC-ANP § 4o As distâncias constantes do quadro indicado no inciso III deste artigo poderão ser reduzidas em cinqüenta por cento, 
+limitadas ao mínimo de 1,00 m, quando existir parede corta fogo, com altura superior a 1,50 m, em relação ao topo da pilha de recipientes transportáveis 
+de GLP mais alta, admitida nesta Portaria. 
+ 
+ 
+2 Instrução Técnica – 23 – Item 3 REFERÊNCIAS NORMATIVAS E BIBLIOGRÁFICAS  Para compreensão desta Instrução Técnica é necessário consultar as 
+seguintes normas, levando em consideração todas as suas atualizações e outras que vierem substituí-las: (...) Portaria 27 de 16 de setembro de 1996, do 
+Departamento Nacional de Combustíveis, (condições de proteção contra incêndio nos postos de revendas e depósitos de GLP). 
+ 
+3 CIRCULAR 02/09- DAT Estabelece orientações para emissão de AVCB para posto de revenda de GLP frente ao cadastramento da ANP Face ao 
+cadastramento dos postos de revenda de GLP, no Estado de Minas Gerais, pela ANP, e diante do acolhimento da NBR 15.514 pela Portaria 297 de 
+18/11/03 esclarecemos o seguinte: 1. Para fins de aplicação das medidas de prevenção contra incêndio e pânico nas edificações de revenda de GLP, 
+prevalece a aplicação da I.T 23 (...)
+
+--- PÁGINA 2 ---
+6. Gerou-se conflito normativo pela revogação da Portaria 27/96 e edição da NBR 
+15.514/07. 
+ 
+Resolve: 
+ 
+1 - Estabelecer orientações na aplicação da Instrução Técnica – IT 23 sobre condições de segurança 
+das instalações de armazenamento de recipientes transportáveis de GLP, e postos de revenda. 
+ 
+2 -  Para efeito desta Circular são estabelecidas as seguintes definições: 
+ 
+I - ÁREA DE ARMAZENAMENTO - espaço contínuo, destinado ao armazenamento de recipientes 
+transportáveis de GLP, cheios, parcialmente utilizados e vazios, compreendendo os corredores de 
+inspeção, quando existirem, conforme denominações e características definidas nesta Circular; 
+ 
+II - BOTIJÃO PORTÁTIL - recipiente transportável de GLP, com capacidade nominal de até 5 kg de 
+GLP; 
+ 
+III - BOTIJÃO - recipiente transportável de GLP, com capacidade nominal de 13 kg de GLP; 
+ 
+IV - CAPACIDADE NOMINAL - capacidade de acondicionamento do recipiente transportável de GLP, 
+em kg, estabelecida em norma específica; 
+ 
+V - CILINDRO - recipiente transportável de GLP, com capacidade nominal de 20, 45 e 90 kg de GLP; 
+ 
+VI - CORREDOR DE INSPEÇÃO - espaço físico, de livre acesso, entre lotes de armazenamento 
+contíguos de recipientes de GLP e entre estes e os limites da área de armazenamento, nas larguras 
+mínimas estabelecidas nesta Portaria; 
+ 
+VII - DISTÂNCIA MÍNIMA DE SEGURANÇA - distância mínima entre a área de armazenamento de 
+recipientes transportáveis de GLP e outra instalação, necessária para segurança do usuário, do 
+manipulador, de edificação e do público em geral, estabelecida a partir do limite de área de 
+armazenamento; 
+ 
+VIII - EMPILHAMENTO - colocação, em posição vertical, de um recipiente transportável de GLP sobre 
+outro de mesma capacidade nominal; 
+ 
+IX - FILEIRA - disposição em linha de recipientes transportáveis de GLP, de mesma capacidade 
+nominal , um ao lado do outro e na posição vertical, empilhados ou não; 
+ 
+X - INSTALAÇÃO DE ARMAZENAMENTO - instalação compreendendo uma área de armazenamento 
+e sua proteção acrescida de distâncias mínimas, conforme especificado nesta Portaria, para 
+determinada quantidade de recipientes transportáveis de GLP; 
+ 
+XI - LIMITE DE ÁREA DE ARMAZENAMENTO - linha fixada pela fileira externa de recipientes 
+transportáveis de GLP, em um lote de recipientes, acrescida da largura do corredor de inspeção, 
+quando este for exigido;
+
+--- PÁGINA 3 ---
+XII - LIMITE DO LOTE DE RECIPIENTES - linha fixada pela fileira externa de recipientes 
+transportáveis de GLP, em um lote de recipientes; 
+ 
+XIII - LOTE DE RECIPIENTES - conjunto de recipientes transportáveis de GLP, sem que haja corredor 
+de inspeção entre estes; 
+ 
+XIV – PAREDE CORTA FOGO – Muros ou paredes interpostas entre a área de armazenamento e as 
+construções vizinhas, com vistas à redução das distância mínimas de seguranca, devem ser 
+totalmente fechados (sem aberturas) e construidos em alvenaria, concretos ou construção similar, com 
+tempo requerido de resistência ao fogo ( TRRF) mínimo de 2 horas conforme  ABNT  NBR 10636. 
+ 
+XV - RECIPIENTES TRANSPORTÁVEIS DE GLP - recipientes para acondicionar GLP, fabricado 
+segundo normas técnicas da Associação Brasileira de Normas Técnicas - ABNT, com capacidade 
+nominal limitada a 190 kg de GLP, nos seguintes estados: 
+a) novos - quando ainda não receberam nenhuma carga de GLP; 
+b) cheios - quando contém a quantidade em kg de GLP prevista na regulamentação de sua 
+comercialização; 
+c) parcialmente utilizados - quando, já tendo recebido uma primeira carga de GLP, apresentem 
+qualquer quantidade desse produto diversa da prevista na regulamentação de sua comercialização; 
+d) vazios - quando os recipientes após utilizados não contém qualquer quantidade de GLP em 
+condições de sair do mesmo por pressão interna; 
+e) em uso - quando apresentem em seu bocal de saída qualquer conexão diferente do lacre da 
+distribuidora, tampão, plugue ou protetor de rosca; 
+3 - O armazenamento de qualquer quantidade de GLP superior àquela prevista no item 5.2.4 da IT 23 
+necessitará de instalação compatível com a quantidade de GLP e será limitado pela capacidade 
+nominal total dos recipientes transportáveis, cheios, parcialmente utilizados ou vazios, com as 
+denominações e características previstas nos itens 5.2.5 a 5.2.13 da IT 23. 
+I - condições específicas: 
+a) exibir placas em lugares visíveis com os seguintes dizeres ou convenção gráfica que os reproduza: 
+"PERIGO - INFLAMÁVEL" e "É EXPRESSAMENTE PROIBIDO O USO DE FOGO E DE QUAISQUER 
+INSTRUMENTOS QUE PRODUZAM FAÍSCAS", nas seguintes quantidades: 
+1. uma placa, quando tratar-se de Área de Armazenamento Classe I ou II; 
+2. duas placas, quando tratar-se de Área de Armazenamento Classe III ou IV; 
+3. quatro placas, quando tratar-se de Área de Armazenamento Classe V; 
+4. seis placas, quando tratar-se de Área de Armazenamento Classe VI.
+
+--- PÁGINA 4 ---
+II – para os afastamentos de segurança previstos na Tabela do anexo A da IT 23:  
+ 
+a) Quando os vasilhames estiverem acondicionados em estrados apropriados, a altura de 
+empilhamento poderá ser acrescida em até cinqüenta por cento, desde que no local esteja disponível 
+equipamento apropriado para tal empilhamento. 
+ 
+b) No caso de vazamento de GLP, o recipiente defeituoso deverá ser afastado dos demais e 
+retirado para local aberto, distante de qualquer ponto de chama, ignição ou aquecimento. 
+ 
+c) As distâncias constantes do quadro indicado na Tabela do anexo A da IT 23 poderão ser 
+reduzidas em cinqüenta por cento, limitadas ao mínimo de 1,00 m, quando existir parede corta fogo, 
+com altura superior a 1,50 m, em relação ao topo da pilha de recipientes transportáveis de GLP mais 
+alta. 
+ 
+d) Para que as áreas de armazenamento sejam consideradas separadas, para efeito de aplicação 
+dos limites de distâncias previstos na Tabela do anexo A da IT 23, estas devem estar afastadas entre 
+si da soma das distâncias mínimas de segurança, previstas para os limites da propriedade. 
+ 
+e) O atendimento dos itens 5.2.11.3 e 5.2.11.4 da IT 23, será dispensado quando o 
+armazenamento de recipientes transportáveis de GLP ocorrer na forma dos itens 5.2.11.5 e 5.2.11.6 
+da mesma IT 23. 
+ 
+f) Cabe à Distribuidora de GLP orientar os revendedores e consumidores em geral, quanto às 
+condições mínimas de segurança para armazenamento de recipientes transportáveis de GLP, 
+fornecendo-lhes cópias de manuais, contendo os requisitos técnicos adequados ao armazenamento 
+dos referidos recipientes. 
+ 
+ 
+Quartel em Belo Horizonte, 22 de outubro de 2010. 
+ 
+ 
+ 
+ 
+Altamir Penido da Silva, Tenente Coronel BM 
+***Diretor de Atividades Técnicas***

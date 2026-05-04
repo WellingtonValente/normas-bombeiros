@@ -1,0 +1,558 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA Nº 43 
+1ª edição 
+ARMAZENAGEM EM SILOS  
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições 
+5 – Requisitos de Segurança 
+6 – Prescrições diversas
+
+--- PÁGINA 2 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+2/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+1 OBJETIVO  
+1.1 Estabelecer critérios de aplicação e parâmetros das medidas de segurança contra incêndio e 
+pânico nas edificações e/ou instalações enquadradas na divisão M-5 (Silos), atendendo ao 
+previsto na Legislação de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais. 
+2 APLICAÇÃO  
+2.1 A presente Instrução Técnica (IT) aplica-se aos silos destinados à armazenagem de cereais e 
+seus derivados, sementes oleaginosas, sementes agrícolas, legumes, açúcar, farinhas, entre 
+outros produtos. 
+2.2 Esta IT não se aplica: 
+a) aos silos tipo bolsa, carancho ou trincheira; 
+b) aos silos do tipo granjeiro, que possuam finalidade de armazenamento de ração animal, e aos 
+silos utilizados por propriedade de agricultura familiar, ambos com capacidade de até 50 toneladas; 
+c) aos silos que armazenem produtos incombustíveis e que não possuam risco de explosão; 
+d) aos galpões de armazenagem, pertencentes à ocupação J. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las:  
+3.1 Legislação 
+Lei Estadual nº 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Lei Federal nº 13.425/2017 - Estabelece diretrizes gerais sobre medidas de prevenção e combate 
+a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de público e dá 
+outras providências. 
+Decreto Estadual nº 47.998/2020 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+Instrução Técnica nº 08 – Saídas de Emergência em Edificações, CBMMG. 
+Instrução Técnica nº 12 – Brigada de Incêndio, CBMMG.  
+Instrução Técnica nº 13 – Iluminação de Emergência, CBMMG. 
+Instrução Técnica nº 14 – Sistemas de Detecção e Alarme de Incêndio, CBMMG.  
+Instrução Técnica nº 15 – Sinalização de Emergência, CBMMG.  
+Instrução Técnica nº 16 – Sistema de Proteção por Extintores de Incêndio, CBMMG.
+
+--- PÁGINA 3 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+3/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+Instrução Técnica nº 17 – Sistema de hidrantes e mangotinhos para combate a incêndios, 
+CBMMG. 
+Instrução Técnica nº 18 – Sistema de Chuveiros Automáticos, CBMMG. 
+Instrução Técnica nº 23 – Manipulação, Armazenamento, Comercialização e Utilização de Gás 
+Liquefeito de Petróleo (GLP), CBMMG. 
+Norma Técnica nº 27 - Silos, CBMMS.  
+Instrução Técnica nº 27 – Armazenamento em silos, CB-PMESP. 
+Instrução Normativa nº 34 – Atividades Agropastoris e Silos, CBMSC. 
+Resolução Técnica nº 22 – Silos e Armazéns, CBMRS 
+NBR IEC 60079-2 – Atmosferas Explosivas - Parte 10 – 2: Classificação de áreas – Atmosferas 
+de poeiras explosivas.  
+NBR IEC 60079-14 – Atmosferas Explosivas – parte 14: Projeto, seleção e montagem de 
+instalações elétricas. 
+NBR 5410 – Instalações elétricas de baixa tensão.  
+NBR 5419 – Proteção de estruturas contra descargas atmosféricas.  
+NBR 10897 – Sistemas de proteção contra incêndio por chuveiro automático.  
+NBR 16385 – Sistemas de prevenção e de proteção contra explosão - Fabricação, processamento 
+e manuseio de partículas sólidas combustíveis – Requisitos.  
+NBR 16577 – Espaço confinado – Prevenção de acidentes, procedimentos e medidas de proteção. 
+NBR ISO 6184-1 – Sistemas de proteção contra explosão parte 1: Determinação dos índices de 
+explosão dos pós combustíveis no ar.  
+NBR ISO 6184-4 – Sistema de proteção contra explosões parte 4: Determinação de eficácia dos 
+sistemas de supressão de explosões.  
+NBR ISO/IEC 31010 – Gestão de riscos – Técnicas para o processo de avaliação de riscos.  
+NBR 17240: Sistemas de detecção e alarme de incêndio – Projeto, instalação, comissionamento 
+e manutenção de sistemas de detecção e alarme de incêndio – Requisitos. 
+NR 12 – Segurança no Trabalho em Máquinas e Equipamentos. 
+NFPA nº 61 – Standard for the Prevention of Fires and Dust Explosions in Agricultural and Food 
+Products Facilities.  
+NFPA nº 68 – Standard on Explosion Protection by Deflagration Venting.  
+NFPA nº 69 – Standard on Explosion Prevention Systems.
+
+--- PÁGINA 4 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+4/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+NFPA nº 654 – Standard for the Prevention of Fire and Dust Explosions from the Manufacturing, 
+Processing, and Handling of Combustible Particulate Solids.  
+Data Sheet 7-11 – Belt Conveyors, FM Global. 
+4 DEFINIÇÕES 
+Para compreensão desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção contra Incêndio e Pânico), além das seguintes: 
+4.1 Alívio de explosão: dispositivo destinado ao alívio de pressão/chama decorrente de uma 
+explosão.  
+4.2 Área classificada: área na qual uma atmosfera explosiva está presente ou pode estar 
+presente em quantidades tais que necessitem precauções especiais para a construção, instalação 
+e utilização de equipamentos. 
+4.3 Área técnica: área na qual se espera a permanência humana apenas para manutenção de 
+equipamentos ou operações de curto prazo, como topo de elevadores de caçamba, topo de silos, 
+plataformas acopladas a máquinas e equipamentos transportadores diversos.  
+4.4 Áreas de apoio: guaritas, escritórios, plataformas de pesagem, almoxarifados, refeitórios, 
+alojamentos, casa de ferramentas, oficinas, garagens, moradias, tendas, depósitos de agrotóxicos, 
+depósitos de lenha e outras edificações que não estejam envolvidas diretamente no manejo dos 
+produtos agrícolas.  
+4.5 Balança de fluxo: trata-se de um sistema de pesagem por bateladas automáticas e 
+intermitentes. Seu projeto de três camadas consiste de silo pulmão, silo e silo receptor.  
+4.6 Esteira transportadora: são correias apoiadas em estrutura metálica, fixada nos pisos por 
+cavaletes, com a finalidade de transportar produtos no sentido horizontal ou inclinado, a grandes 
+distâncias.  
+ 
+Figura 1: Esteira transportadora 
+4.7 Escada do tipo marinheiro: meio permanente de acesso com um ângulo de lance de 75° 
+(setenta e cinco graus) a 90° (noventa graus), cujos elementos horizontais são barras ou 
+travessas.
+
+--- PÁGINA 5 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+5/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+4.8 Espaço confinado: qualquer área ou ambiente não projetado para ocupação humana 
+contínua, que possua meios limitados de entrada e saída, com ventilação insuficiente para remover 
+contaminantes ou onde possa existir deficiência ou enriquecimento de oxigênio. 
+4.9 Fornalha: equipamento destinado à queima de combustíveis para a formação do calor 
+necessário ao processo de secagem de grãos no interior dos secadores.  
+4.10 Máquina de limpeza: equipamento com sistema de peneiramento oscilatório que efetua a 
+limpeza e a pré-limpeza, retirando o máximo de impurezas dos produtos. 
+ 
+Figura 2: Máquina de limpeza 
+4.11 Mícron: medida correspondente a um milésimo do milímetro (mm). É representado pela letra 
+grega μ.  
+4.12 Moega: construção da unidade armazenadora que recebe os grãos. 
+ 
+Figura 3: Moega 
+4.13 Poeiras: partículas com diâmetro entre 1 a 100 mícrons. São produzidas geralmente pelo 
+rompimento mecânico de partícula inorgânica ou orgânica, seja pelo simples manuseio de 
+materiais ou em consequência do processo de moagem, trituração, peneiramento e outros; o 
+mesmo que pó.
+
+--- PÁGINA 6 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+6/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+4.14 Poeira agrícola: qualquer material agrícola sólido, finamente dividido em partículas de 420 
+mícrons ou menos de diâmetro, que apresente um risco de incêndio, quando disperso e inflamado 
+no ar. 
+4.15 Posto de trabalho: qualquer local de instalações, máquinas ou equipamentos em que seja 
+requerida a presença contínua do trabalhador.  
+4.16 Redler: tipo de transportador que utiliza uma corrente para o transporte dos grãos. 
+4.17 Secador: equipamento que reduz a umidade dos grãos. 
+ 
+Figura 4: Secador 
+4.18 Silo: estrutura destinada ao armazenamento de cereais e seus derivados, sementes 
+oleaginosas, sementes agrícolas, legumes, açúcar, farinhas, entre outros produtos que gerem 
+ambiente explosivo, sem estarem ensacados. Em silos, não há presença humana no seu interior 
+para manuseio direto e constante com os produtos. Os silos podem ser horizontais, semiesféricos 
+ou verticais. 
+4.19 Silo bolsa: é um sistema de armazenamento horizontal, também conhecido como “silo bag”, 
+que consiste em um tubo flexível de polietileno de baixa densidade e de longo comprimento. 
+ 
+Figura 5: Silos bolsa
+
+--- PÁGINA 7 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+7/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+4.20 Silo carancho: é um sistema de armazenamento vertical, similar ao silo bolsa, cujo formato 
+é um “carancho”: base cilíndrica e topo cônico. 
+ 
+Figura 6: Silo carancho 
+4.21 Silo Trincheira: possui a forma trapezoidal, tendo como principal característica a vala no 
+chão, e cobertura feita com lona plástica.  
+ 
+Figura 7: Silo trincheira 
+4.22 Silos horizontais: é um grande depósito horizontal, onde prevalece a relação da base maior 
+que a altura. O piso e parte da construção lateral podem situar-se abaixo do nível do solo para 
+aproveitar o talude como reforço. A deposição do material a granel é feita ao longo do cume da 
+cobertura e o material é acumulado em forma de pirâmide. 
+ 
+Figura 8: Silo horizontal
+
+--- PÁGINA 8 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+8/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+4.23 Silos semiesféricos: são grandes depósitos horizontais cobertos no formato de calota. O 
+piso e parte da construção lateral podem situar-se abaixo do nível do solo para aproveitar o talude 
+como reforço. 
+ 
+Figura 9: Silo semiesférico 
+4.24 Silos verticais: são silos cilíndricos, construídos em concreto ou em chapas de aço. 
+Prevalece a relação da altura maior que a base. 
+ 
+Figura 10: Silos verticais 
+4.25 Supressão de explosão: sistema destinado à supressão da explosão por agente químico 
+não combustível.  
+4.26 Transportador de correia do tipo enclausurado: são correias de estrutura metálica 
+totalmente enclausurada/fechada, com rolamentos fixados do lado externo, com a finalidade de 
+transportar grãos no sentido horizontal a grandes distâncias. Possuem como característica a não 
+emissão de pó para o ambiente e sistema de recarga e autolimpeza, e consequente eliminação 
+de risco de explosão.
+
+--- PÁGINA 9 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+9/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+ 
+Figuras 11 e 12: Transportador de correia do tipo enclausurado 
+4.27 Transportador de corrente: tipo de transportador que utiliza uma corrente para o transporte 
+dos grãos.  
+ 
+Figura 13: Transportador de corrente 
+4.28 Transportador de parafuso (rosca sem fim/ helicoidal): equipamento destinado ao 
+transporte horizontal/inclinado de carga e descarga de grãos nos silos, máquinas de limpeza, 
+secadores e outros equipamentos, podendo descarregar em mais de um ponto ao mesmo tempo. 
+É recomendado para pequenas distâncias. 
+ 
+Figura 14: Transportador de parafuso (rosca sem fim/ helicoidal)
+
+--- PÁGINA 10 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+10/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5 REQUISITOS DE SEGURANÇA  
+5.1 Das medidas de segurança contra incêndio e pânico 
+5.1.1 As medidas de segurança contra incêndio e pânico exigidas para silos são as dispostas nesta 
+seção, aplicando-se os parâmetros especificados abaixo. 
+5.1.2 Saídas de Emergência 
+5.1.2.1 As escadas de acesso a locais onde há permanência humana devem ser do tipo 
+enclausurada, sem janela de ventilação, possuir largura mínima de 1 m e acesso por meio de porta 
+corta-fogo com resistência de 90 min (PCF P-90), independentemente da altura do silo. 
+5.1.2.1.1 O disposto em 5.1.2.1 não se aplica às escadas de acesso às áreas técnicas onde não 
+há permanência de pessoas. 
+5.1.2.2 Elevadores internos devem ser fechados em poços estanques com paredes resistentes ao 
+fogo por 2 h e dotados de portas corta-fogo (PCF) do tipo P-90, com fecho automático em todas 
+as aberturas.  
+5.1.2.3 As escadas, passarelas, plataformas, rampas e demais meios de acesso às áreas técnicas 
+de inspeção e manutenção, onde não há permanência humana, deverão atender à NR-12, não 
+sendo objeto de análise e vistoria pelo CBMMG.  
+5.1.2.4 Nos locais onde haja postos fixos de trabalho, a distância máxima a ser percorrida não 
+deverá ultrapassar 100 m, devendo haver no mínimo duas saídas, sendo que a escada da saída 
+secundária poderá ser do tipo marinheiro. 
+5.1.2.5 Exceto para as áreas de apoio, o cálculo populacional, para fins de dimensionamento das 
+saídas de emergência, poderá ser efetuado considerando a quantidade máxima de pessoal 
+prevista para a operação e manutenção da atividade, devendo constar no Processo de Segurança 
+Contra Incêndio e Pânico – PSCIP – a memória de cálculo da população. 
+5.1.2.6 Os demais parâmetros de saídas de emergência deverão atender ao previsto na IT 08. 
+5.1.3 Brigada de incêndio 
+5.1.3.1 Atenderá aos requisitos da IT 12, complementado pelas recomendações desta seção. 
+5.1.3.2 É recomendado que os brigadistas recebam treinamento específico, além daquele previsto 
+na IT 12, quanto à correta operação e funcionamento de equipamentos existentes nas instalações, 
+tais como: esteiras transportadoras, fornalhas, ventiladores, exaustores e outros equipamentos 
+onde possam ocorrer incêndios ou contribuir para sua propagação. 
+5.1.3.3 O treinamento a que se refere o item anterior deverá ser providenciado pelo responsável 
+pela edificação e ser ministrado por profissional habilitado, preferencialmente, nas dependências 
+do empreendimento. 
+5.1.3.4 A critério do responsável pela edificação, poderão ser ministrados aos brigadistas outros 
+treinamentos relacionados a procedimentos internos da empresa em casos emergenciais.
+
+--- PÁGINA 11 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+11/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.1.4 Sistema de iluminação de emergência 
+5.1.4.1 Atenderá aos requisitos da IT 13, devendo ser exigido nas áreas de apoio e nos locais 
+onde houver permanência humana, sendo que todas as luminárias das áreas classificadas, 
+inclusive as de emergência, devem ser à prova de explosão e de pó. 
+5.1.5 Sistema de alarme  
+5.1.5.1 Atenderá aos requisitos da IT 14, sendo que as botoeiras de acionamento e os avisadores 
+sonoros deverão ser instalados nas áreas externas aos silos, próximas aos acessos e saídas, e 
+onde houver permanência humana. 
+5.1.5.1.1 Havendo mais de um silo formando um conjunto de silos, os acionadores manuais 
+poderão ser posicionados de forma que o caminhamento máximo seja de 60m, sendo instalados 
+junto aos extintores e/ou hidrantes. 
+5.1.6 Sinalização de Emergência 
+5.1.6.1 Atenderá aos requisitos da IT 15, devendo ser exigida nas áreas de apoio e nos locais 
+onde houver permanência humana, sendo que no caso de utilização de dispositivos elétricos para 
+visualização da sinalização nas áreas classificadas, estes deverão possuir proteção adequada 
+para evitar ignição ou explosão. 
+5.1.7 Sistema de Proteção por extintores 
+5.1.7.1 Atenderá aos requisitos da IT 16, complementado pelas recomendações abaixo. 
+5.1.7.2 Os espaços confinados com possível acumulação de poeiras não deverão possuir 
+extintores de incêndio. 
+5.1.7.3 Caso não haja pontos adequados de fixação, os extintores de incêndio poderão ser 
+instalados em suporte fixo ao solo ou em baterias com distância máxima a percorrer para alcance 
+de 60 m, devendo existir a adequada sinalização dos equipamentos. 
+5.1.8 Sistema de proteção por hidrantes 
+5.1.8.1 Deverá ser previsto sistema de hidrantes para combate a incêndio, independentemente 
+das áreas de construção e de apoio serem inferiores a 930 m².  
+5.1.8.2 O sistema de hidrantes para qualquer tipo e tamanho de silo, observado o disposto nas 
+alíneas “a”, “b” e “c” do item 2.2 desta IT, será do Tipo 4, conforme previsão da IT 17, 
+obrigatoriamente com esguicho regulável. 
+5.1.8.3 A reserva de incêndio será proporcional às áreas de apoio construídas, devendo seguir os 
+valores de referência para as indicações do grupo J-4. 
+5.1.8.4 Para as áreas de apoio inferiores a 930 m², deve ser adotado sempre o valor mínimo 
+previsto para o grupo J-4 (até 3.000 m²), conforme tabela específica da IT 17.
+
+--- PÁGINA 12 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+12/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.1.8.5 Os pontos de hidrantes devem ser posicionados de acordo com o dimensionamento para 
+hidrantes externos, exceto aqueles instalados no interior das edificações de apoio. 
+5.1.8.6 É vedada a instalação de sistema de hidrantes no interior dos silos. 
+5.1.9 Sistema de Chuveiros Automáticos 
+5.1.9.1 Deve haver proteção por sistema de chuveiros automáticos do tipo dilúvio sobre as correias 
+transportadoras que estejam enclausuradas ou que tenham a sua maior altura superior a 12 m, 
+atendendo às seguintes condições: 
+a) Deverá ser calculada a densidade mínima de 12 L/min/m²; 
+b) Reserva técnica de incêndio para, no mínimo, 30 minutos de operação. 
+5.1.9.2 A quantidade de chuveiros tipo dilúvio a ser considerado no cálculo será a soma de 
+chuveiros instalados a cada duas chaves seccionadoras (mínimo de 7 por chave), ou conforme 
+especificação do fabricante do bico. 
+5.1.9.3 Caso não haja chave seccionadora instalada, o cálculo deverá levar em consideração todo 
+o sistema acionado ao mesmo tempo, ou conforme especificação do fabricante do bico. 
+5.1.9.4 O acionamento do sistema poderá ser automático ou manual. 
+5.1.9.5 Os demais parâmetros de elaboração do sistema não estipulados nesta IT devem seguir 
+os parâmetros da IT 18, NBR 10897 ou NFPA pertinente. 
+5.1.9.6 O RT que utilizar especificação do fabricante do bico para dimensionamento do sistema 
+deverá juntar ao PSCIP a referida documentação que subsidie o cálculo realizado. 
+5.2 Medidas de segurança complementares  
+5.2.1 Integridade Estrutural 
+5.2.1.1 O material de construção do silo deve ser incombustível.  
+5.2.1.1.1 Silos metálicos devem ser construídos com parafusos ou solda enfraquecida entre a 
+cobertura e o corpo, de forma a permitir a separação neste ponto, em caso de explosão no seu 
+interior. 
+5.2.1.2 A cobertura do silo deve ser dotada de vedação contra escape de pó e contra água. 
+5.2.1.3 Não deve haver nenhuma abertura entre silos. 
+5.2.1.4 Cada silo deve possuir respiros na cobertura, sendo que a quantidade e dimensões devem 
+ser definidas por dimensionamento adequado, para atender a sua finalidade.
+
+--- PÁGINA 13 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+13/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.2.1.4.1 O respiro deve ser curvado ou inclinado para evitar a entrada de água e a cobertura deve 
+ser vedada contra poeira e água.  
+5.2.2 Proteção contra Explosão 
+5.2.2.1 Todas as edificações, estruturas, equipamentos, dutos, silos de pó e coletores no interior 
+dos quais a poeira fica confinada devem ser dotados de dispositivos de proteção contra explosão, 
+devidamente dimensionados, de acordo com as normas técnicas específicas. 
+5.2.2.2 Os dispositivos de proteção contra explosão devem ser indicados em planta e devidamente 
+destacados nos locais de instalação com a cor distinta da estrutura para a visualização do 
+vistoriador. 
+5.2.2.3 São medidas de proteção contra explosão:  
+a) alívio de explosão; 
+b) supressão de explosão; e 
+c) isolamento de explosão. 
+5.2.2.4 Quando o produto armazenado não gerar atmosfera explosiva, devem ser apresentados 
+por empresa especializada laudos e documentações comprovando essa situação. Para esses 
+casos, não há necessidade de medidas de proteção contra explosão. 
+5.2.3 Controle de poeira 
+5.2.3.1 A poeira deve ser coletada em todos os pontos de produção de pó dentro da unidade 
+armazenadora e em instalações de movimentação, como: na admissão ou descarga de 
+transportadores, redler ou chute, despoeiramento ao longo dos túneis, balanças de fluxo, 
+elevadores, máquinas de limpeza e, sobretudo, nos pontos de transferência de grãos, nas moegas 
+rodoviárias assim como no carregamento em caminhões. 
+5.2.3.2 A poeira coletada deve ser filtrada e armazenada em silo situado fora do local de risco, 
+devendo ser equipado com dispositivo corta-fogo no duto de conexão e provido de dispositivos de 
+alívio de explosão. 
+5.2.3.3 Os dutos de transporte de poeira devem ser dotados de sistema de detecção e de extinção 
+de faísca. 
+5.2.3.4 Todos os locais confinados devem ser providos de ventiladores à prova de explosão, com 
+acionamento manual ou automático, devidamente dimensionados para permitir a retirada de 
+poeira, gases e a renovação do ar. 
+5.2.3.5 O sistema de exaustão para controle de poeira deverá garantir circulação de ar suficiente 
+para que não haja concentração de poeira maior que 20 g/m³ de ar. O sistema deverá prover, no 
+mínimo, a taxa de 30 renovações do ar por hora.
+
+--- PÁGINA 14 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+14/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.2.4 Proteção para instalações elétricas 
+5.2.4.1 As instalações elétricas devem atender à ABNT - NBR 5410 e ABNT - NBR IEC 60079-14 
+ou outras que venham a substituí-las. 
+5.2.4.2 Na solicitação de vistoria, deverá ser apresentada a ART de execução ou de manutenção 
+das instalações elétricas. 
+5.2.5 Proteção contra descargas atmosféricas 
+5.2.5.1 As unidades armazenadoras devem dispor de proteção contra descargas elétricas 
+atmosféricas, dimensionadas e instaladas de acordo com as normas técnicas. 
+5.2.5.2 Os silos e estruturas metálicas devem ser convenientemente aterrados. 
+5.2.5.3 O projeto e dimensionamento do SPDA dos silos não será objeto de análise e vistoria pelo 
+CBMMG.  
+5.2.6 Sensor de temperatura 
+5.2.6.1 No interior dos túneis de serviço, passarelas técnicas fechadas em todos os lados, 
+subsolos e ambientes confinados que apresentarem dispositivos que possam provocar ignição por 
+atrito mecânico, como roletes de suporte dos transportadores de correia e mancais de motores, 
+deverão ser instalados dispositivos para controle de temperatura adequados a cada equipamento 
+e interligados à central de alarme. 
+5.2.6.2 Os secadores devem ter sensores de temperatura regulados para manter a massa de grãos a uma 
+temperatura segura, prevenindo incêndios. Tal controle deve cortar todo calor que esteja sendo fornecido ao 
+secador e deve permitir a continuação do movimento de ar não aquecido através do secador. 
+5.2.6.3 O número e a localização dos sensores devem estar de acordo com as especificações do fabricante. 
+5.2.6.4 Deve haver sistema de detecção de calor em toda extensão da correia e, em caso de acionamento do 
+sistema, deverá desligá-la automaticamente. 
+5.2.6.5 Deve ser previsto comando manual alternativo (botão de emergência) em local de fácil visualização, 
+identificação e acesso, para desligamento da correia transportadora em caso de incêndio, que também poderá 
+ser desligada à distância por uma central de monitoramento. 
+5.2.7 Outras medidas de proteção contra incêndio e explosão 
+5.2.7.1 Secadores de grãos que utilizem combustível sólido devem ter as fornalhas instaladas 
+isoladamente do secador, ligando-se a esse exclusivamente por duto fechado, o qual deve possuir 
+sistema de quebra de fagulhas, de forma a reduzir o risco de passagem destas para o secador. 
+5.2.7.2 Os transportadores verticais e horizontais devem ser dotados de correias antichamas para 
+impedir a propagação de incêndio, além de possuir sensores automáticos de movimento, que 
+desligam automaticamente os motores ao ser detectado o escorregamento da correia ou corrente.
+
+--- PÁGINA 15 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+15/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.2.7.3 Transportadores de parafuso (rosca sem fim) devem ser completamente fechados em 
+carcaças metálicas, com tampas de abertura livre na extremidade de descarga e no acoplamento 
+do eixo. 
+5.2.7.4 Sempre que necessário, os grãos devem ser aerados a fim de se evitar sua decomposição 
+e consequente emissão e acúmulo de vapores inflamáveis. 
+5.2.7.5 Para o processo de secagem de grãos, deverá ser previsto um sistema de fechamento das 
+entradas de ar dos secadores, visando à extinção de princípios de incêndio através do 
+abafamento. 
+5.2.7.6 Os secadores devem estar localizados de forma a minimizar a exposição de outras 
+edificações (inclusive outros secadores) ao fogo em caso de incêndio, a fim de se evitar sua 
+propagação através da irradiação. 
+5.2.7.7 Os secadores devem ser constituídos de material incombustível, dotados de dispositivos 
+(dampers de emergência) que permitam seu rápido descarregamento por via alternativa em local 
+seguro e que não cause danos a outras edificações devido à exposição ao calor proveniente da 
+queima do produto em caso de incêndios. 
+5.2.7.8 O combustível (líquido ou gasoso) utilizado pelo secador de grãos deve atender às medidas 
+de segurança exigidas nas Instruções Técnicas ou normas específicas. 
+5.2.7.9 A eletricidade estática deve ser removida dos silos, das máquinas e equipamentos que 
+acumulam carga elétrica, por meio de aterramento instalado de acordo com as normas técnicas. 
+5.2.7.10 A instalação deve contar com um constante programa de limpeza, para evitar a formação 
+de acúmulos de pó sobre equipamentos, estruturas e demais locais sujeitos a tal fenômeno, para 
+evitar explosões. 
+5.2.7.11 Recomenda-se que os silos que se encontrarem próximos de áreas de mata ou 
+plantações possuam aceiros com largura mínima de 1,5 vezes a altura média da vegetação 
+adjacente. 
+5.2.7.11.1 Na impossibilidade de cumprimento do disposto em 5.2.7.11, recomenda-se que os 
+aceiros tenham largura mínima de 6 metros. 
+6 PRESCRIÇÕES DIVERSAS  
+6.1 O proprietário e/ou responsável pelo uso deve promover a manutenção e a proteção proativa 
+das máquinas e equipamentos presentes na edificação ou instalação, a fim de reduzir a 
+probabilidade de incêndios e explosões. 
+6.2 Os dispositivos de proteção contra explosão, controle de poeira, sensor de calor, proteção 
+contra descarga atmosférica, dentre outros requisitos previstos no item 5.2 e subitens desta IT 
+devem ser apresentados por meio de indicação dos equipamentos em planta ou através de nota
+
+--- PÁGINA 16 ---
+IT43 – Armazenagem em Silos 
+1ª Edição 
+ 
+ 
+16/16 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+e, se necessário, por meio de memorial descritivo, sendo o seu dimensionamento e execução de 
+inteira responsabilidade do RT, não sendo objeto de análise e vistoria pelo CBMMG. 
+6.2.1 Na solicitação da vistoria, deverá ser apresentado o comprovante de responsabilidade 
+técnica de execução dos citados dispositivos. 
+6.3 Havendo a presença de risco especial diverso (central, armazenamento ou distribuição de gás 
+liquefeito de petróleo – GLP – ou gás natural – GN –, subestação elétrica, armazenamento de 
+líquido inflamável, dentre outros riscos especiais), deverá ser prevista medida de segurança 
+conforme norma específica. 
+6.4 As medidas de segurança das áreas de apoio às edificações/instalações de que trata esta IT 
+(fins administrativos, comerciais, laboratoriais, de industrialização, de refeitórios, dentre outras 
+atividades) deverão ser aplicadas conforme a classificação de ocupação, área e altura prevista na 
+IT 01, sendo dimensionadas conforme as instruções técnicas específicas do Corpo de Bombeiros 
+Militar de Minas Gerais (CBMMG). 
+6.5 As exigências constantes na IT 43 são requisitos mínimos de segurança a serem adotados, 
+podendo o responsável técnico, mediante avaliação, determinar a adoção de medidas adicionais 
+para mitigação de riscos conforme as peculiaridades de seu empreendimento. 
+6.6 As edificações existentes/construídas e aprovadas com base em norma vigente à época ou 
+aprovadas mediante deliberação de Corpo Técnico, desde que mantidas os critérios de aprovação, 
+seguirão as exigências do projeto aprovado. 
+6.7 Para os silos existentes que apresentem impossibilidade técnica de adequação das medidas 
+de segurança dispostas nesta IT, poderá ser apresentado laudo técnico, conforme IT 40, 
+devidamente assinado e acompanhado da respectiva ART/RRT, onde o Responsável Técnico 
+ateste e justifique as impossibilidades de adaptação, propondo medidas mitigadoras aos riscos. 
+6.8 Os casos omissos relativos aos procedimentos administrativos do serviço de segurança contra 
+incêndio e pânico serão solucionados pelo Diretor de Atividades Técnicas.

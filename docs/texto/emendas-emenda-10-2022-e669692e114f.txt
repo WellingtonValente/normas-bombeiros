@@ -1,0 +1,99 @@
+--- PÁGINA 1 ---
+01/09/22, 15:56
+SEI/GOVMG - 50903299 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58350520&infra…
+1/5
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 04 de agosto de 2022.
+  
+EMENDA CBMMG/DAT Nº. 10/2022
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 10 - 1ª Edição
+(Pressurização de escada de segurança):
+ 
+1. ALTERAR as alíneas ‘a’ e ‘k’ do item 5.2.1, que passam a vigorar com a seguinte redação:
+a) cuidados especiais devem ser avaliados para dimensionamento do sistema de pressurização de escada
+de segurança para edificação com altura superior a 90 m, principalmente quanto a velocidade máxima
+nos dutos, vazão e perdas;
+k) caso exista algum sistema, equipamento ou compartimento que, direta ou indiretamente, possa gerar
+interferência no sistema de pressurização, como, por exemplo, sistema de controle de fumaça, deverá
+haver especial atenção nos respectivos dimensionamentos, de forma que não haja prejuízo da
+efetividade dos sistemas.
+ 
+2. ALTERAR a alínea ‘c’ do item 5.2.2, que passa a vigorar com a seguinte redação:
+c) como regra geral, deve ser evitado o uso de escadas de segurança pressurizadas e escadas simples ou
+enclausuradas sem pressurização, quando ocuparem o mesmo espaço (mesmo ambiente – por exemplo:
+mesmo corredor de acesso). Casos específicos poderão ser aceitos, a critério do RT, desde que as
+ventilações do ambiente (por exemplo: ventilações permanentes nas fachadas, nos corredores de acesso
+e outras) garantam a não interferência da escada pressurizada sobre as demais.
+ 
+3. ALTERAR a alínea ‘c’ do item 5.2.3, que passa a vigorar com a seguinte redação:
+c) sistemas de exaustão podem ser mantidos ligados, a critério do RT, desde que promovam um fluxo
+favorável ao sentido do escape de ar do sistema de pressurização da escada;
+ 
+4. ALTERAR a alínea ‘c’ do item 5.3.2, que passa a vigorar com a seguinte redação:
+c) em edificações existentes e construídas, quando não houver condições técnicas de se cumprir o
+estabelecido no item 5.3.2, alínea ‘b’ desta IT, deverá ser observado o disposto no item 6.15.3 e subitens
+da IT 40.
+ 
+5. REVOGAR as alíneas ‘d’, ‘e’, ‘e.1’, ‘e.2’ e ‘f’ do item 5.3.2.
+ 
+6. ALTERAR a alínea ‘a’ do item 5.3.3, que passa a vigorar com a seguinte redação:
+a) nos edifícios com vários pavimentos, a disposição preferida para um sistema de distribuição de ar para
+pressurização consiste em um duto vertical que corre adjacente aos espaços pressurizados, sendo que,
+para edificações existentes e construídas, havendo impossibilidade técnica justificada de execução desse
+
+--- PÁGINA 2 ---
+01/09/22, 15:56
+SEI/GOVMG - 50903299 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58350520&infra…
+2/5
+duto, pode ser aceita a distribuição de ar através de duto plenum, conforme disposto no item 6.15.4 da IT
+40.
+ 
+7. ACRESCENTAR a alínea ‘f’ no item 5.3.5:
+f) quando a edificação for isenta de grupo motogerador, deverá ser prevista uma alimentação
+independente do consumo geral, de forma a permitir o desligamento geral da energia, sem prejuízo do
+funcionamento do sistema de pressurização da escada.
+ 
+8. ACRESCENTAR o item 6:
+6 DOCUMENTAÇÃO
+6.1 O responsável técnico pela instalação e/ou manutenção do sistema de pressurização de escada de
+segurança deverá anexar o Laudo de comissionamento/inspeção do sistema, conforme previsto na IT 03,
+nas solicitações de emissão e renovação de AVCB.
+ 
+9. ALTERAR o ANEXO B, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 3 ---
+01/09/22, 15:56
+SEI/GOVMG - 50903299 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58350520&infra…
+3/5
+
+--- PÁGINA 4 ---
+01/09/22, 15:56
+SEI/GOVMG - 50903299 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58350520&infra…
+4/5
+ 
+10. REVOGAR o Anexo C da IT 10.
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Diretor(a), em 29/08/2022,
+às 15:49, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+47.222, de 26 de julho de 2017.
+
+--- PÁGINA 5 ---
+01/09/22, 15:56
+SEI/GOVMG - 50903299 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58350520&infra…
+5/5
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 50903299
+e o código CRC AB96C17B.
+Referência: Processo nº 1400.01.0045935/2022-78
+SEI nº 50903299

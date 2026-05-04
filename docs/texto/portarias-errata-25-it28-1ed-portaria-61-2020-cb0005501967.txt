@@ -1,0 +1,65 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22391707 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26254425&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 27 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 25/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 28 – 1ª
+Edição (Cobertura de sapé, piaçava e similares):
+ 
+1. ALTERAR o item 1
+Onde se lê: 
+"1 OBJETIVO
+Esta Instrução Técnica estabelece condições mínimas de segurança para ediﬁcações que
+tenham suas coberturas construídas com ﬁbras de sapé, piaçava e similares, atendendo ao previsto no
+Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco no Estado de Minas
+Gerais."
+Leia-se:
+"1 OBJETIVO 
+Esta Instrução Técnica estabelece condições mínimas de segurança para ediﬁcações que
+tenham suas coberturas construídas com ﬁbras de sapé, piaçava e similares, atendendo ao previsto no
+Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 5.6.3
+Onde se lê: 
+"5.6.3 Ediﬁcações de área superior a 750 m² devem, além das medidas de segurança exigidas
+em 5.6.2, deverão ainda contar com sistema de hidrantes e alarme manual, sendo dispensados os exƟntores
+sobre rodas. A proteção estrutural deve atender a IT 06 (Segurança Estrutural em Ediİcios)."
+Leia-se:
+"5.6.3 Ediﬁcações com área superior a 930 m², além das medidas de segurança exigidas em
+5.6.2, deverão ainda contar com sistema de hidrantes e alarme manual, sendo dispensados os exƟntores
+sobre rodas. A proteção estrutural deve atender à IT 06 (Segurança Estrutural em Ediİcios)."
+ 
+3. ALTERAR o item 5.7.3
+Onde se lê: 
+"5.7.3 Esta Instrução Técnica aplica-se a ediﬁcações com cobertura de até 750 m². A
+viabilidade de instalação de tais coberturas em ediﬁcações com área superior a este valor deverão ser
+submeƟdas à apreciação prévia do Corpo Técnico do CBMMG para decisão."
+Leia-se:
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22391707 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26254425&infra_sist…
+2/2
+"5.7.3 Esta Instrução Técnica aplica-se a ediﬁcações com cobertura de até 930 m². A
+viabilidade de instalação de tais coberturas em ediﬁcações com área superior a este valor deverão ser
+submeƟdas à apreciação prévia do Corpo Técnico do CBMMG para decisão."
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:16, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22391707 e o
+código CRC 654A4CA7.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22391707

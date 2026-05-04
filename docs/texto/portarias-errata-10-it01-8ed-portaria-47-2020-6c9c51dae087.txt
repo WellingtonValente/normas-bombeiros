@@ -1,0 +1,64 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 13480983 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=15619376&infra…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 16 de abril de 2020.
+  
+ERRATA CBMMG/DAT Nº. 10/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 01 – 8ª Edição
+(Procedimentos AdministraƟvos): 
+ 
+1. ALTERAR o item 5.3.3.7 
+Onde se lê: 
+5.3.3.7 Para os circos e parques iƟnerantes não haverá necessidade apresentação de novo projeto (PET),
+desde que não haja modiﬁcações no evento ou no PET que comprometam a segurança dos usuários.
+5.3.3.7.1 Caso não haja modiﬁcações no evento, que comprometam a segurança dos usuários do evento,
+deverão ser adotados os seguintes procedimentos para solicitação das vistorias subsequentes:
+a) apresentar cópia do PET aprovado no CBMMG nas próximas localidades de desƟno;
+b) solicitação da vistoria;
+c) pagamento de TSP;
+d) apresentação da ART/RRT de montagem das estruturas. 
+Leia-se: 
+5.3.3.7 Para os eventos iƟnerantes (circos, parques e outros de qualquer natureza), deverão ser
+observados os procedimentos previstos na IT 33 (Eventos Temporários).
+ 
+2. ALTERAR a Nota Genérica 'E' da Tabela 19 do Anexo A
+Onde se lê: 
+E – Para as subestações elétricas deve-se observar também os critérios da Instrução Técnica especíﬁca.
+Leia-se:
+E – Para as subestações elétricas deve-se observar também os critérios da NBR 13.231.
+ 
+3. ALTERAR o ơtulo do Anexo F.18
+Onde se lê: 
+F.18 – QUADRO RESUMO REFERENTES À LÍQUIDOS E GASES INFLAMÁVEIS E COMBUSTÍVEIS (IT 19, 20 E
+22)
+Leia-se:
+F.18 – QUADRO RESUMO REFERENTES A LÍQUIDOS E GASES INFLAMÁVEIS E COMBUSTÍVEIS (NBR 17.505)
+ 
+4. ALTERAR o item 1 do Quadro Resumo do Anexo F.18
+Onde se lê:
+
+--- PÁGINA 2 ---
+09/10/2020
+SEI/GOVMG - 13480983 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=15619376&infra…
+2/2
+1 Classe do líquido (conforme IT 19)
+Leia-se:
+1 Classe do líquido (conforme NBR 17.505)
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 23/04/2020, às
+16:41, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 13480983
+e o código CRC 7893268F.
+Referência: Processo nº 1400.01.0021409/2020-67
+SEI nº 13480983

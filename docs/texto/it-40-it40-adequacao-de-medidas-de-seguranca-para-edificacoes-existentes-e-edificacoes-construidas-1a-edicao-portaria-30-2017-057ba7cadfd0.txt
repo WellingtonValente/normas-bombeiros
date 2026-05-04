@@ -1,0 +1,733 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 40 
+1ª edição 
+ADEQUAÇÃO DE MEDIDAS DE 
+SEGURANÇA PARA EDIFICAÇÕES 
+EXISTENTES E EDIFICAÇÕES 
+CONSTRUÍDAS 
+ 
+Aprovada pela portaria n. 25, de 25dez2016, publicada no DOEMG n. 45, ano 127, p. 27. 
+Alterada pela portaria n. 30, de 17jul2017, publicada no DOEMG, n. 135, ano 125, p. 34 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências  
+4 – Terminologia  
+5 – Geral 
+6 – Procedimentos 
+ 
+ 
+ANEXOS 
+A – Declaração de comprovação de 
+existência 
+B – Declaração de comprovação de 
+construção  
+C – Modelo de laudo técnico
+
+--- PÁGINA 2 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+2/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+1 OBJETIVO 
+1.1 Esclarecer quanto à adaptação de medidas de segurança contra incêndio e pânico para 
+edificações existentes e edificações construídas. 
+1.2 Disciplinar a solução, no âmbito da análise (Projeto Técnico – PT) ou vistoria (Projeto 
+Técnico Simplificado – PTS), das impossibilidades técnicas de adaptação de edificações 
+comprovadamente existentes ou construídas através da apreciação de medidas mitigadoras de 
+risco. 
+1.3 Possibilitar a adequação da edificação o mais próximo possível às exigências atuais de 
+proteção contra incêndio e pânico de modo a dar condições mínimas de segurança às 
+edificações existentes considerando as respectivas limitações. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica (IT) aplica-se às edificações existentes com deficiência em medidas 
+de segurança perante a legislação atual e consequente impossibilidade técnica de execução, 
+justificadas por laudo técnico de profissional habilitado acompanhada da respectiva ART/RRT. 
+2.1.1 Esta IT poderá ser aplicada a edificações cujos projetos tenham sido aprovados e liberados 
+pelo Corpo de Bombeiros Militar de Minas Gerais (CBMMG), quando solicitado pelo 
+Proprietário/Responsável Técnico. 
+2.2 Esta IT aplica-se às edificações construídas nos casos de deficiência em medidas de 
+segurança passivas com interferência nas saídas de emergência. 
+2.3 Esta IT aplica-se às edificações construídas para as situações de impossibilidade técnica de 
+execução no sistema de hidrantes e mangotinhos listados nesta IT. 
+2.4 Esta IT não se aplica a edificações tombadas pelo Patrimônio Histórico. 
+2.5 Os casos não abrangidos por esta IT poderão ser encaminhados para análise e parecer pelo 
+Corpo Técnico (CT), nos casos de impossibilidade técnica de execução de medidas após 
+esgotadas as possibilidades de intervenção para adequação à legislação atual, bem como as 
+soluções indicadas nesta IT. 
+2.6 A Diretoria de Atividades Técnicas (DAT) disciplinará os novos casos de impossibilidade que 
+incorporar-se-ão a esta IT. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes referências, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las. 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Lei Municipal n. 2.060/1972 – Estabelece normas de prevenção e combate a incêndios em 
+edificações destinadas ao uso coletivo, no município de Belo Horizonte.
+
+--- PÁGINA 3 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+3/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+Decreto Municipal n. 2.912/1976 – Regulamenta a lei n. 2.060 de 27 de abril de 1972. 
+3.2 Normas 
+NBR 9.077 – Saídas de Emergências em Edifícios. 
+BRASIL. Secretaria Nacional de Segurança Pública, Curso de Segurança Contra Incêndio 2015. 
+4 TERMINOLOGIA 
+4.1 Medidas ativas: conjunto de medidas de acionamento imediato após o início do princípio de 
+incêndio (Ex.: chuveiros automáticos, hidrantes e mangotinhos, alarme de incêndio, detecção de 
+incêndio etc.). 
+4.2 Medidas passivas: conjunto de medidas incorporadas ao sistema construtivo do edifício, 
+sendo funcional durante o uso normal da edificação e que reage passivamente ao 
+desenvolvimento e propagação do incêndio não estabelecendo condições propícias para o seu 
+desenvolvimento e propagação. Garante a resistência ao fogo, facilita a fuga dos usuários, a 
+aproximação e o ingresso no edifício para o desenvolvimento das ações de combate ao incêndio. 
+(Ex.: paredes resistentes ao fogo, compartimentação vertical e horizontal, segurança estrutural, 
+saídas de emergência etc.). 
+4.3 Área de apoio: áreas destinadas a atividades secundárias com fins de subsidiar a ocupação 
+principal ou para alocação de equipamentos. 
+4.4 Edificações existentes: são aquelas cuja construção, em data anterior a 02 de julho de 
+2005, é possível comprovar através de documentos oficiais. 
+4.5 Edificações construídas: são aquelas onde seja possível comprovar a construção dos 
+elementos estruturais da edificação em data entre 02 de julho de 2005 e 31 de dezembro de 
+2016. 
+4.6 Sinalização complementar de bocéis e pisos: sinalização que visa indicar os limites dos 
+pisos dos degraus por meio de elemento fotoluminescente na linha dos bocéis e nas linhas 
+laterais dos degraus. Deverá estar visível no sentido de fluxo de saída das rotas de fuga. 
+4.7 Cálculo inverso: modalidade de cálculo que permite estabelecer a população máxima em 
+um recinto ou pavimento com base na largura das saídas de emergência existentes. Leva o 
+nome de inverso por considerar a notação P = N x C. 
+4.8 Hidrante de coluna seca: sistema de tubulação destinado a conduzir água quando 
+abastecido e pressurizado por veículo próprio ou pela rede pública de hidrantes. 
+4.9 Escadas não destinadas a saídas de emergência: para fins desta instrução técnica as 
+escadas não destinadas a saídas de emergência são aquelas que atendem as áreas de apoio, 
+mezanino, jiraus, áreas privativas, casas de máquinas, cuja população seja de até 20 pessoas. 
+5 GERAL 
+5.1 As edificações existentes devem se adaptar no que couber às exigências de proteção contra 
+incêndio e pânico. O previsto nas instruções técnicas atuais forma um conjunto ideal de medidas 
+preventivas que deve ser buscado em adaptações nas edificações existentes e/ou construídas. 
+5.2 A comprovação da existência ou construção da edificação ocorrerá através de documentos 
+comprobatórios emitidos pela administração pública (processos no CBMMG, prefeituras,
+
+--- PÁGINA 4 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+4/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+secretarias, empresas e/ou outros órgãos públicos, autarquias, etc.) ou cartórios (registro do 
+imóvel, atas de condomínio, etc.) desde que informe ocupação, área construída e data da 
+edificação. 
+5.2.1 Poderá ser apresentado laudo técnico utilizando imagem fotogramétrica para comprovação 
+de edificação existente ou construída, devendo ser emitido por profissional devidamente 
+habilitado, acompanhada da respectiva ART/RRT. 
+5.2.2 Na impossibilidade de apresentar documentos oficiais a comprovação poderá ser feita 
+através de declaração, conforme anexo, depois de consultados os órgãos citados em 5.2, 
+justificando-se, assim, a utilização de declaração. 
+5.2.3 A aceitação dos documentos comprobatórios caberá ao Analista/Vistoriador e deverá 
+compor o Processo de Segurança Contra Incêndio e Pânico (PSCIP). 
+5.3 A análise das saídas de emergência em edificações existentes poderá atender a Norma 
+Brasileira vigente à época da construção. 
+5.4 Em edificações construídas as medidas de segurança passivas contra incêndio e pânico que 
+não puderem ser substituídas pela exigência atual serão adaptadas sob os critérios desta IT. 
+5.5 As impossibilidades técnicas foram organizadas no item 6, Procedimentos, com a seguinte 
+dinâmica: caput do item traz a problemática, o primeiro subitem e respectivas alíneas indicam as 
+condições a serem atendidas, as soluções aceitas estão indicadas subitens finais. 
+5.6 As adaptações, tanto em edificações existentes quanto construídas, devem primar por 
+proporcionar o abandono seguro do público, minimizar os riscos de eventuais propagações do 
+fogo, proporcionar meios de controle e extinção do incêndio, dar condições de acesso para 
+operações do CBMMG e garantir as intervenções de socorros de urgência. 
+5.7 A aceitação de adaptações previstas nesta IT, quando no projeto, se dará no âmbito da 
+análise. 
+5.8 Nos casos em que a tramitação do processo de regularização não envolva análise de projeto 
+a avaliação das adaptações será verificada no momento da vistoria. 
+5.8.1 As adaptações que se fizerem necessárias deverão estar construídas e em funcionamento 
+no momento da vistoria. 
+5.9 O Analista/Vistoriador quando notificar a irregularidade deverá informar ao RT sobre 
+possibilidade de adoção de medida mitigadora que se enquadre no previsto nesta IT. 
+5.10 Somente serão elucidados na fase de análise, ou vistoria, os casos de deficiências nas 
+medidas de segurança citados nesta IT. Os demais casos devem ser encaminhados para 
+apreciação pelo CT acompanhada de argumentação onde se relate a necessidade de 
+encaminhar ao CT, justificando e capitulando esta ação com base nas instruções técnicas 
+vigentes e Normas Brasileiras Regulamentadoras (NBR) relacionadas. 
+5.11 As medidas passivas, referidas no item 4.2 desta IT, são aquelas cuja adaptação afete os 
+elementos estruturais e de compartimentação da edificação e sejam casos de impossibilidade 
+técnica, como a adaptação de rotas de fuga que impliquem em retirada de componentes 
+estruturais (colunas, vigas, lajes etc.) ou acréscimo de volume de RTI elevada sobre a estrutura 
+da edificação, em situações onde de fato a intervenção não é possível.
+
+--- PÁGINA 5 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+5/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+5.12 Os casos autorizados para adaptação em edificações construídas estão indicados com o 
+texto: “Aplica-se também a edificações construídas”. 
+5.13 Quando a medida mitigadora de risco indicada nesta IT coincidir com uma medida de 
+segurança já prevista para a edificação a medida não será cobrada cumulativamente. 
+5.14 A edificação existente que se apresentar sem as medidas “brigada de incêndio”, “iluminação 
+de emergência” ou “sinalização de emergência” deverá ser notificada a adotar tais medidas caso 
+haja exigência das mesmas na legislação atual (Art. 21, Dec. 46.595/2014). 
+5.15 Todas as impossibilidades técnicas, inclusive as de execução de alguma medida mitigadora 
+indicada por esta IT, deverão ser justificadas por laudo técnico de profissional habilitado 
+acompanhada da respectiva ART/RRT. 
+6 PROCEDIMENTOS 
+6.1 Distância máxima a ser percorrida 
+6.1.1 As distâncias máximas a percorrer superiores ao estabelecido na legislação atual serão 
+aceitas considerando o que se segue: 
+a) não haja ocupações das divisões F-2, F-3, F-5, F-6, F-7, H-2, H-3, E-5 e E-6 no pavimento a 
+utilizar rota de fuga com deficiência na distância máxima a percorrer; 
+b) não sejam edificações que tenham suas coberturas construídas com fibras de sapé, piaçava 
+e similares. 
+6.1.2 Uma vez atendido o especificado em 6.1.1 e subitens a distância de referência prevista na 
+IT08 será acrescida em 10% se adotada as medidas “Sistema de alarme de incêndio” e “Sistema 
+de detecção de incêndio”. 
+6.2 Acessos (Aplica-se também a edificações construídas) 
+6.2.1 Os acessos em comunicação com escada ou descarga, com largura mínima de até 0,80 m, 
+serão aceitos considerando o que se segue: 
+a) não haja ocupações das divisões F-2, F-3, F-5, F-6, F-7, H-2, H-3, E-5 e E-6 no pavimento; 
+b) o cálculo para dimensionamento dos acessos resulte em uma unidade de passagem (1UP), 
+conforme cálculo previsto na IT 08; 
+c) poderá ser utilizada a limitação de público prevista em 6.4 desta IT para definição da 
+população e subsequente cálculo de número de unidades de passagem; 
+d) atenda ao limite de distância máxima a ser percorrida, incluído o previsto em 6.1 desta IT 
+(somente para edificações existentes); 
+e) o raio de porta que estreita a largura efetiva do acesso seja máximo de 0,40 m, desde que o 
+restante da largura do acesso mantenha o número de unidades de passagem definido em 
+cálculo (sem a condicionante de larguras mínimas a serem adotadas) (Figura 1). 
+6.2.2 Caso atenda ao previsto em 6.2.1 e subitens a largura mínima de 0,80 m será aceita, 
+devendo ser instalada sinalização complementar por mensagem escrita (Placa M2) informando a 
+lotação máxima admitida por pavimento.
+
+--- PÁGINA 6 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+6/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+6.2.3 Para o caso de porta estreitando acesso adotar sinalização complementar de obstáculos 
+(faixa zebrada). 
+ 
+Figura 1 - Estreitamento aceitável da rota de fuga em edificações existentes ou construídas 
+6.3 Sentido de abertura das portas (Aplica-se também a edificações construídas) 
+6.3.1 Poderá ser aceita a abertura de porta em sentido contrário a rota de fuga quando aquela 
+atender os critérios abaixo: 
+a) não se trate de porta corta-fogo (exceto em unidades autônomas em residenciais); 
+b) o resultado do cálculo da largura do acesso que contém a porta seja menor ou igual a uma 
+unidade de passagem (N≤1UP);  
+c) ceder raio de abertura a outra porta que atenda a uma população maior (Figura 2); 
+d) tratar-se de porta de área de apoio; 
+e) limitar-se a uma porta com sentido contrário de abertura por rota de fuga. 
+6.3.2 Atendido o previsto em 6.3.1 e subitens adotar sinalização complementar por mensagens 
+escritas. 
+ 
+Figura 2 - Porta cedendo raio de abertura a outra que atende a ambiente com população maior 
+6.4 Limitação de público (Aplica-se também a edificações construídas) 
+6.4.1 A limitação de público previsto em cada pavimento para fins de cálculo da largura da saída 
+de emergência será admitida considerando o que se segue: 
+a) quando houver ocupações das divisões F-2, F-3, F-5, F-6, F-7, E-5 e E-6 no pavimento 
+deverá haver pelo menos 2UP disponíveis para acessos, descarga e escadas/rampas;
+
+--- PÁGINA 7 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+7/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+b) quando houver ocupações da divisão H-2 no pavimento deverá haver pelo menos 3UP para 
+acessos, descarga e escadas/rampas; 
+c) quando houver ocupações da divisão H-3 no pavimento deverá haver pelo menos 3UP para 
+acessos, descarga e escadas e 4UP para rampas, acesso às rampas e descarga das rampas; 
+d) para as demais ocupações poderá ser considerado o previsto nesta IT para largura dos 
+acessos (item 6.2.1) e 1,0 m como largura mínima de escada/rampas; 
+e) quando houver a previsão de ambientes adaptados para utilização por pessoa em cadeira de 
+rodas deverá haver pelo menos 2UP disponíveis para acessos, descarga e escadas/rampas. 
+6.4.2 Atendido o previsto em 6.4.1 e subitens será admitido a utilização de cálculo inverso de 
+modo a definir a população tendo por base as unidades de passagem disponíveis na(s) saída (s) 
+de emergência existente(s), podendo desconsiderar o número de saídas previsto na tabela 6 da 
+IT 08. Deverá haver sinalização complementar por mensagens escritas (placa M2) informando a 
+lotação máxima permitida para cada recinto atendido pelo cálculo inverso. 
+6.5 Escadas não destinadas à saída de emergência 
+6.5.1 Adaptações em escadas não destinadas à saída de emergência serão aceitas 
+considerando o que se segue: 
+a) nos locais acessados por escada não destinada à saída de emergência somente serão 
+aceitas atividades secundárias das ocupações dos grupos D e J; 
+b) redução de público em até 33% (arredondado para o número inteiro menor) do total calculado 
+em relação a área para limitação em 20 (vinte) pessoas (P≤20); 
+c) escada com até 1UP, sem dimensionamento de degraus, quando houver população de até 5 
+(cinco) pessoas (considerar uma pessoa para cada 7,0 m² de área para o cálculo de população). 
+6.5.2 Atendido o previsto em 6.5.1 e subitens adotar sinalização complementar por mensagem 
+escrita (placa M2) informando a lotação máxima admitida; os degraus da escada devem possuir 
+permanente condição antiderrapante e serem sinalizados com elemento fotoluminescente 
+sinalizando linha de bocéis e pisos, a ser verificado no momento da vistoria. Deverá haver 
+representação em planta do detalhe construtivo da sinalização da linha de bocéis e pisos. 
+6.5.3 Áreas de apoio em qualquer pavimento, poderão ser acessadas por escada de marinheiro 
+ou similar quando destinada a alocação de equipamento, podendo haver permanência de 
+pessoa nestes locais pelo tempo necessário à manutenção. 
+6.6 Degraus e patamares (Aplica-se também a edificações construídas) 
+6.6.1 A aceitação de ausência de balanceamento e dimensionamento de degraus e patamares 
+serão aceitas quando: 
+a) sejam, para as escadas de lanços retos, as alturas máximas dos espelhos (h) e largura do 
+degrau (b) as seguintes condições:  
+a.1) ocupações A até G (exceto condição a.2): h = 20cm, b = 27 a 32cm; 
+a.2) ocupações H, F-2, F-3, F-5, F-6, F-7, E-5 e E-6: h = 19 cm, b = 27 a 30cm;  
+a.3) ocupações I até M: h = 23 cm, b = 40 a 45cm.
+
+--- PÁGINA 8 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+8/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+b) a linha de percurso estiver a até 0,55 m do corrimão, nas escadas de lanços curvos; 
+c) o lanço curvo estiver presente apenas em edificações de até 12,0 m de altura; 
+d) houver lanço curvo em substituição ao patamar em escada de lanço reto (escadas de lanço 
+misto) (Figura 3); 
+e) houver lanço mínimo inferior a 03 (três) degraus sem a possibilidade de substituição por 
+rampa (inclusive considerando o previsto nesta IT); 
+f) na impossibilidade técnica de executar patamares, o lanço não deve ultrapassar 4,0 m de 
+altura. 
+6.6.2 Atendido o previsto em 6.6.1 e subitens adotar sinalização complementar de piso e linha de 
+bocéis. As escadas de lances mistos e/ou lances curvos serão aceitas mediante redução de 30% 
+no valor referente à Capacidade da Unidade de Passagem. 
+ 
+Figura 3 - Indicação de degraus mistos 
+6.7 Escada não enclausurada (Aplica-se também a edificações construídas) 
+6.7.1 Nas ocupações dos grupos B, D, G, I, J e divisões A-1, A-2, E-1 a E-4, ainda que mistas 
+entre si, de altura até 12,0 m e população a ser atendida por escada igual ou inferior 50 
+(cinquenta) a pessoas, serão aceitas escadas NE com largura mínima de 90,0 cm, quando: 
+a) seja a edificação classificada como código N ou P; 
+b) área total (St) inferior a 1.500,0 m²; 
+c) atender aos critérios de dimensionamento de degraus e patamares (inclusive os previstos 
+nesta IT); 
+d) atender aos critérios de balanceamento de degraus quando a escada tiver lanço curvo 
+(inclusive os previstos nesta IT); 
+e) a largura da escada pode ser estreitada em até 0,15 m por pilar ou coluna desde que o 
+comprimento destes elementos não seja superior a 0,50 m (Figura 4). 
+6.7.2 Atendido o previsto em 6.7.1 e subitens adotar sinalização complementar para rotas de 
+saída e para obstáculos. 
+6.7.3 Os hotéis que tiverem quartos adaptados para pessoa em cadeira de rodas deverão 
+possuir brigadistas conforme IT 12.
+
+--- PÁGINA 9 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+9/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+              
+ 
+Figura 4 - Indicação de estreitamento de lanço de escada por pilar ou coluna em um dos lados 
+6.8 Adaptação de escada não enclausurada em escada enclausurada protegida (Aplica-se 
+também a edificações construídas) 
+6.8.1 A adaptação da escada ocorrerá se forem atendidas as seguintes condições: 
+a) não haver utilização da escada por ocupação das divisões F-2, F-3, F-5, F-6, F-7, H-2, H-3,E-5 
+e E-6, considerando o sentido da saída; 
+b) ter mínimo de 1,0 m de largura, com N≤2 (admite-se limitação de público conforme previsto 
+nesta IT); 
+c) ter degraus e patamares dimensionados, ou degraus balanceados quando se tratar de 
+escada curva para ocupação do Grupo A, inclusive lanço misto (considerando o definido nesta 
+IT); 
+d) ter interrupção da prumada de escada no pavimento de descarga; 
+e) ter janelas, corredores, balcões, varandas ou terraços com as características exigidas para 
+ventilação de escada protegida. 
+6.8.2 Se atendidas as condições previstas em 6.8.1 e subitens, adotar a medida “brigada de 
+incêndio” e porta corta-fogo P-60 para as portas de acesso a escada. 
+6.8.3 Na impossibilidade de execução de porta corta-fogo nas portas de acesso a escada adotar-
+se-á o enclausuramento do hall de acesso à escada por porta corta-fogo P-60 (P-30 para as 
+unidades autônomas de A-2) (Figura 5). 
+6.8.3.1 Na impossibilidade de enclausuramento do hall de acesso à escada por porta corta-fogo 
+P-60 (P-30 para as unidades autônomas de A-2), poderá ser aceita a aplicação de produtos 
+intumescentes (tintas, vernizes, tiras) nas portas, com a apresentação de laudo do responsável 
+técnico e certificado de atendimento ao TRRF.
+
+--- PÁGINA 10 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+10/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+Figura 5 - Enclausuramento do hall por porta corta-fogo nas unidades autônomas devido a 
+impossibilidade de adaptação de porta na caixa de escada 
+6.8.4 Em caso de impossibilidade técnica de execução da interrupção da prumada adotar 
+sinalização completar do trajeto da rota de fuga (indicação continuada) orientado a evacuação 
+para o pavimento de descarga. 
+6.8.5 Em caso de impossibilidade técnica de execução de janelas, corredores ou balcões com as 
+características exigidas para ventilação de escada protegida adotar exaustão natural no término 
+superior da escada com área mínima de 1 m² combinada com ventilação permanente inferior de 
+1,20 m². Cumulativamente adotar as medidas “brigada de incêndio”, “sistema de detecção de 
+incêndio” e “sistema de alarme de incêndio”. 
+6.8.5.1 Caso haja na caixa da escada janelas passíveis de adaptação estas poderão atender aos 
+critérios previstos na NBR vigente à época da comprovação de edificação construída ou 
+existente, ou versão mais moderna da mesma NBR. 
+6.8.6 Em caso de impossibilidade técnica de execução da exaustão natural no término superior 
+da escada, combinada como ventilação permanente inferior, adotar a pressurização da escada 
+conforme IT10. 
+6.9 Adaptação de escada não enclausurada para escada à prova de fumaça (Aplica-se 
+também a edificações construídas) 
+6.9.1 A adaptação da escada ocorrerá se forem atendidas as seguintes condições: 
+a) não haver utilização da escada por ocupação das divisões F-2, F-3, F-5, F-6, F-7, H-2, H-3, E-5 
+e E-6, considerando o sentido da saída; 
+b) ter mínimo de 1,0 m de largura, com N≤2 (admite-se limitação de público conforme previsto 
+nesta IT); 
+c) ter degraus e patamares dimensionados, ou degraus balanceados quando se tratar de 
+escada curva para ocupação do Grupo A, inclusive lanço misto (considerando o definido nesta 
+IT); 
+d) ter interrupção da prumada de escada no pavimento de descarga.
+
+--- PÁGINA 11 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+11/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+6.9.2 Se atendidas as condições previstas em 6.9.1 e subitens, adotar a medida “brigada de 
+incêndio” e antecâmaras ventiladas, ou acesso por terraços ou balcões com características 
+exigíveis para acesso à escada à prova de fumaça; 
+6.9.3 Em caso de impossibilidade técnica de execução de antecâmaras ventiladas ou acesso por 
+terraço ou balcão adotar o enclausuramento do hall de acesso à escada por porta corta-fogo P-
+60 à prova de fumaça (P-30 para as unidades autônomas de A-2) (figura 5). Cumulativamente 
+adotar as medidas “brigada de incêndio”, “sistema de detecção de incêndio”, “sistema de alarme 
+de incêndio”, selagem em shafts, elevadores e dutos de instalações e janelas abrindo para o 
+espaço livre exterior idênticas às exigidas para escadas enclausuradas protegidas nos halls de 
+todos os pavimentos. 
+6.9.3.1 As janelas abrindo para o espaço livre exterior poderão atender aos critérios previstos na 
+NBR vigente à época da comprovação de edificação construída ou existente, ou versão mais 
+moderna da mesma NBR. 
+6.9.4 Em caso de impossibilidade técnica de execução do previsto no item 6.9.3 adotar a 
+pressurização da escada conforme IT 10; 
+6.10 Adaptação de escada enclausurada protegida para escada à prova de fumaça (Aplica-
+se também a edificações construídas) 
+6.10.1 A adaptação da escada ocorrerá se forem atendidas as seguintes condições: 
+a) não haver utilização da escada por ocupação das divisões F-2, F-3, F-5, F-6, F-7, H-2, H-3, E-5 
+e E-6, considerando o sentido da saída; 
+b) ter mínimo de 1,0 m de largura com N≤2 (admite-se limitação de público conforme previsto 
+nesta IT); 
+c) ter degraus e patamares dimensionados, (admite-se lanço misto quando considerando o 
+definido nesta IT); 
+d) ter interrupção da prumada de escada no pavimento de descarga; 
+e) ser enclausurada com porta corta-fogo P-60, no mínimo. 
+6.10.2 Se atendidas as condições previstas em 6.10.1 e subitens, adotar a medida “brigada de 
+incêndio” e antecâmaras ventiladas, ou acesso por terraço ou balcão com características 
+exigíveis para acesso à escada à prova de fumaça. 
+6.10.3 Em caso de impossibilidade técnica de execução de antecâmaras ventiladas ou acesso 
+por terraço ou balcão adotar o enclausuramento do hall de acesso à escada por porta corta-fogo 
+P-60 à prova de fumaça (P-30 para as unidades autônomas de A-2) (figura 5). Cumulativamente 
+adotar as medidas “brigada de incêndio”, “sistema de detecção de incêndio”, “sistema de alarme 
+de incêndio”. 
+6.10.4 Em caso de impossibilidade técnica de execução do previsto no item 6.10.3 adotar a 
+pressurização da escada conforme IT10. 
+6.10.5 As janelas da escada enclausurada protegida que se pretenda adaptar em escada à 
+prova de fumaça deverá abrir para o espaço livre exterior podendo atender aos critérios previstos 
+na NBR vigente à época da comprovação de edificação construída ou existente, ou versão mais 
+moderna da mesma NBR.
+
+--- PÁGINA 12 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+12/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+6.11 Rampas (Aplica-se também a edificações construídas) 
+6.11.1 A aceitação das rampas com declividade superior à declividade prevista na IT 08 ocorrerá 
+se: 
+a) atender aos mesmos critérios exigidos para largura de escadas, inclusive os previstos nesta 
+IT; 
+b) atender aos critérios exigidos para guarda-corpo e corrimão de escadas, inclusive os 
+previstos nesta IT; 
+c) sejam as rampas no sentido descendentes da rota de fuga; 
+d) seja mantida a constante condição de piso antiderrapante. 
+6.11.2 Se atendidas as condições previstas em 6.11.1 e subitens adotar 12,5% em todas as 
+ocupações para as rampas internas e externas (exclusivamente os grupos C, I e J adotam 15%). 
+6.12 Reserva técnica de incêndio (RTI) complementada por reserva de consumo 
+6.12.1 A aceitação de utilização da reserva de consumo para complementação da RTI com 
+volume inferior às exigências atuais ocorrerá se atendias as seguintes condições: 
+a) haja impossibilidade técnica de execução de complementação da RTI para atendimento à 
+exigência atual; 
+b) o volume da RTI existente corresponda a pelo menos 50% do volume total da exigência atual; 
+c) o sistema de hidrantes seja do tipo 1 ou tipo 2 (classificação atual da IT 17); 
+d) o resultado da soma dos volumes (RTI mais volume consumo) seja suficiente para uma 
+autonomia mínima de 30 (trinta) min de uso do sistema de hidrantes. 
+6.12.2 Se atendidas as condições previstas em 6.12.1 e subitens, será aceita a complementação 
+da RTI pelo volume da reserva de consumo. Cumulativamente serão adotadas as medidas 
+“brigada de incêndio” e “sistema de alarme de incêndio” para as divisões A-2, G-1 a G-4; e as 
+medidas “brigada de incêndio”, “sistema de alarme de incêndio” e “plano de intervenção de 
+incêndio” para os demais grupos. 
+6.13 Distribuição dos hidrantes ou mangotinhos 
+6.13.1 Será aceita existência de abrigo de hidrante ou mangotinho dentro da caixa de escada 
+não enclausurada quando atendidas as seguintes condições: 
+a) ter a edificação a altura máxima de 12,0 m; 
+b) ter a escada largura mínima de 1,0 m, com N≤2 (admite-se limitação de público conforme 
+previsto nesta IT); 
+c) ter a escada largura mínima conforme cálculo para edificação (admite-se limitação de público) 
+quando abrigar as divisões F-2, F-3, F-6, F-7, H-2, H-3, E-5 e E-6 em qualquer pavimento que 
+necessite utilizar a escada em cuja caixa haja hidrante ou mangotinho instalado; 
+d) a projeção máxima do abrigo do hidrante ou mangotinho, que reduz a largura da escada, seja 
+de até 0,20 m;
+
+--- PÁGINA 13 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+13/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+e) o hidrante ou mangotinho atenda às condições mínimas de vazão e pressão; 
+f) o hidrante ou mangotinho seja necessário para prover a proteção do pavimento onde se 
+encontra (se em patamar deverá optar pelo pavimento imediatamente acima). 
+6.13.2 Atendido o previsto em 6.13.1 e subitens, adotar sinalização complementar de obstáculos. 
+6.13.3 O corrimão poderá ser seccionado no local do abrigo de hidrante ou mangotinho desde 
+que do outro lado da escada haja corrimão contínuo; 
+6.13.4 Os locais como previsão de uso por pessoa em cadeira de rodas deverão possuir 
+brigadistas conforme IT 12. 
+6.14 Dimensionamento do sistema de hidrantes 
+6.14.1 O alcance do jato de água poderá ser somado ao comprimento da mangueira para fins de 
+definição de alcance da área a ser protegida quando atendidas as seguintes condições: 
+a) a distribuição dos hidrantes seja no plano horizontal; 
+b) o sistema de hidrantes instalado seja do tipo 2 ou 3 (classificação atual da IT 17); 
+c) haja indicação no “Quadro Resumo do Sistema de Hidrantes e Mangotinhos para Combate a 
+Incêndio” que houve teste prático no sistema de hidrantes para mensuração do alcance do jato; 
+d) a distância alcançada pelo jato de água no teste prático deve ser mínima de 10,0 m; 
+e) o alcance do jato d’água em teste prático pode ter uma redução para 4,0 e 7,0 m, 
+respectivamente, nos dois hidrantes mais desfavoráveis; 
+f) os hidrantes que tiverem o alcance aumentado pelo jato de água deverão estar indicados em 
+planta; 
+g) a distância acrescida pelo jato de água será somente em sentido linear; 
+h) admite-se a complementação da RTI pela reserva de consumo (conforme critérios desta IT); 
+i) admite-se abrigo de hidrante ou mangotinho dentro da caixa de escada (conforme critérios 
+desta IT). 
+6.14.2 Atendido o previsto em 6.14.1 e subitens, o alcance do lance poderá ser acrescido em até 
+10,0 m, relativo ao alcance do jato de água (exceto pelos dois hidrantes mais desfavoráveis que 
+adotam, respectivamente, 4,0 e 7,0 m). Cumulativamente adotar a medida “brigada de incêndio”. 
+6.15 Hidrante de coluna seca 
+6.15.1 Será aceita a utilização de rede de hidrantes de coluna seca quando: 
+a) a edificação esteja em município que possui Corpo de Bombeiros Militar com viaturas para 
+combate a incêndios; 
+b) houver impossibilidade técnica de construção do sistema conforme IT 17;
+
+--- PÁGINA 14 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+14/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+c) a tubulação do hidrante de coluna seca atender aos mesmos requisitos previstos na IT 17 
+(recalque, abrigo, válvulas de abertura, distribuição, componentes das instalações, esguichos, 
+mangueiras de incêndio, uniões/engates, tubulações e conexões); 
+d) possuir dreno (figura 6) para retirada de ar da tubulação seca quando ela for pressurizada;  
+e) possuir abrigo, mangueiras e esguichos idênticos ao exigido pela IT 17. 
+6.15.2 Se atendido o previsto em 6.15.1 e subitens o hidrante de coluna seca poderá substituir o 
+sistema de hidrantes e mangotinhos. A adoção de “Plano de intervenção” e “sistema de alarme 
+de incêndio” é obrigatória. 
+6.15.3 Indicar no “Quadro Resumo do Sistema de Hidrantes e Mangotinhos para Combate a 
+Incêndio” o volume de água necessário para alagamento de toda a coluna seca 
+(preferencialmente inferior a 500 litros). 
+6.15.4 Indicar em planta que se trata de hidrantes de coluna seca. 
+6.15.5 Instalar sinalização complementar nos abrigos de hidrantes informando que se trata de 
+hidrantes de coluna seca (a ser verificado em vistoria).  
+6.15.6 O sistema será testado em oportuna vistoria de fiscalização durante o desenvolvimento do 
+plano de intervenção. 
+ 
+Figura 6 – Esquema de funcionamento do hidrante de coluna seca
+
+--- PÁGINA 15 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+15/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+ANEXO A 
+DECLARAÇÃO DE COMPROVAÇÃO DE EXISTÊNCIA 
+ 
+ 
+DECLARAÇÃO DE COMPROVAÇÃO DE CONSTRUÇÃO 
+EU, 
+___________________________________________________, 
+CPF 
+Nº 
+_____________________________, RG Nº ________________________________, PROPRIETÁRIO DA 
+EDIFICAÇÃO 
+SITUADA 
+À 
+________________________________________________________ 
+BAIRRO______________________, CIDADE DE ___________________________, MINAS GERAIS, E 
+DEMAIS TESTEMUNHAS, DECLARAMOS PARA FINS DE COMPROVAÇÃO JUNTO AO CBMMG QUE NÃO 
+HÁ DOCUMENTOS COMPROBATÓRIOS NA ADMINISTRAÇÃO PÚBLICA OU CARTÓRIOS QUE 
+COMPROVEM A CONCLUSÃO DA CONSTRUÇÃO DA EDIFICAÇÃO EM EPÍGRAFE EM DATA ANTERIOR A 
+02 DE JULHO DE 2005.  
+DESTA FORMA NOS UTILIZAMOS DESTE INSTRUMENTO PARA DECLARAR A CONCLUSÃO DA 
+CONSTRUÇÃO EM DATA ANTERIOR A 02 DE JULHO DE 2005 COM AS SEGUINTES CARACTERÍSTICAS:  
+1) ÁREA TOTAL: ______________________ m²  
+2) OCUPAÇÃO: _______________________ (CONFORME DECRETO Nº 44.746/2008)  
+DECLARAMOS ESTAR CIENTES DA RESPONSABILIDADE PELA VERACIDADE DAS 
+INFORMAÇÕES PRESTADAS, SOB PENA DE INCORRER NO ARTIGO 299¹ DA LEI 2.848 DE 07 DE 
+DEZEMBRO DE 1940 (CÓDIGO PENAL BRASILEIRO). 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______ 
+______________________________________________ 
+PROPRIETÁRIO DA EDIFICAÇÃO 
+______________________________________________ 
+TESTEMUNHA 
+CPF: 
+______________________________________________ 
+TESTEMUNHA 
+CPF: 
+OBS.: A ASSINATURA DEVERÁ TER RECONHECIMENTO DE FIRMA EM CARTÓRIO. 
+_________________________ 
+1 Falsidade ideológica 
+Art. 299 – Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer 
+inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a 
+verdade sobre fato juridicamente relevante: 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 16 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+16/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+ 
+ANEXO B 
+DECLARAÇÃO DE COMPROVAÇÃO DE CONSTRUÇÃO 
+ 
+DECLARAÇÃO DE COMPROVAÇÃO DE CONSTRUÇÃO 
+ 
+EU, _________________________________________, CPF Nº __________________________, RG Nº 
+________________________________, 
+PROPRIETÁRIO 
+DA 
+EDIFICAÇÃO 
+SITUADA 
+À 
+_______________________________________________________ BAIRRO______________________, CIDADE DE 
+___________________________, MINAS GERAIS, DECLARO, PARA FINS DE COMPROVAÇÃO JUNTO AO 
+CBMMG, QUE A EDIFICAÇÃO EM EPÍGRAFE TEVE OS ELEMENTOS ESTRUTURAIS CONSTRUÍDOS EM DATA 
+ENTRE 
+02 
+DE 
+JULHO 
+DE 
+2005 
+E 
+31 
+DE 
+DEZEMBRO 
+2016, 
+CONFORME 
+ART/RRT 
+Nº 
+_____________________________, ANEXA A ESTA DECLARAÇÃO. 
+ 
+DECLARO ESTAR CIENTE DA RESPONSABILIDADE PELA VERACIDADE DAS INFORMAÇÕES 
+PRESTADAS, SOB PENA DE INCORRER NO ARTIGO 299¹ DA LEI 2.848 DE 07 DE DEZEMBRO DE 1940 (CÓDIGO 
+PENAL BRASILEIRO). 
+ 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______ 
+ 
+ 
+ 
+ 
+______________________________________________ 
+PROPRIETÁRIO DA EDIFICAÇÃO 
+ 
+ 
+ 
+OBS.: A ASSINATURA DEVERÁ TER RECONHECIMENTO DE FIRMA EM CARTÓRIO. 
+_________________________ 
+1 Falsidade ideológica 
+ 
+Art. 299 – Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer 
+inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a 
+verdade sobre fato juridicamente relevante: 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 17 ---
+IT 40 – Adequação de medidas de segurança para edificações existentes e edificações construídas 
+1ª edição 
+ 
+17/17 
+Alterada pela portaria n. 30, de 17jul2017. publicada no DOEMG n. 135, ano125, p. 34. 
+ 
+ANEXO C 
+MODELO DE LAUDO TÉCNICO 
+ 
+LAUDO TÉCNICO DE SEGURANÇA CONTRA 
+INCÊNDIO E PÂNICO 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ÁREA DE RISCO 
+Razão social: 
+CNJP: 
+Logradouro: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+Proprietário: 
+CPF/CNPJ: 
+Resp. pelo uso: 
+CPF/CNPJ: 
+Uso, divisão e descrição: 
+Nº PSCIP: 
+2. IDENTIFICAÇÃO DO RESPONSÁVEL PELO LAUDO TÉCNICO 
+Nome: 
+CREA/CAU: 
+Endereço: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+E-mail: 
+Fone: 
+Nº da ART/RRT: 
+3. FUNDAMENTAÇÃO TÉCNICA 
+ 
+4. DECLARAÇÃO 
+Eu declaro, sob pena de incorrer no Art. 299¹ da Lei 2.848 de 07 de dezembro de 1940 (Código Penal Brasileiro) que 
+vistoriei a edificação/área de risco em lide e que as informações por mim prestadas neste laudo são verídicas. 
+ 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______ 
+  
+_____________________________________________________ 
+Assinatura 
+_____________________________ 
+1 Falsidade ideológica 
+ 
+Art. 299 – Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir 
+declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade 
+sobre fato juridicamente relevante: 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.

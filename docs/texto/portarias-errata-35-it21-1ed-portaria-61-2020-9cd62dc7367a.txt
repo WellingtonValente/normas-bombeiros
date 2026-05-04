@@ -1,0 +1,94 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23395609 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27377835&infra_sist…
+1/3
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 18 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 35/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 21 – 1ª
+Edição (Sistema ﬁxo de gases para combate a incêndio):
+ 
+1. ALTERAR o item 1
+Onde se lê: 
+"1 OBJETIVO
+Esta Instrução Técnica estabelece as exigências técnicas e operacionais para as instalações de
+sistema ﬁxo de gases para combate a incêndio, a ﬁm de garanƟr o correto funcionamento dos equipamentos
+e a segurança das pessoas, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico
+nas ediﬁcações e áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"1 OBJETIVO
+Esta Instrução Técnica estabelece as exigências técnicas e operacionais para as instalações de
+sistema ﬁxo de gases para combate a incêndio, a ﬁm de garanƟr o correto funcionamento dos equipamentos
+e a segurança das pessoas, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico
+do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 5.3
+Onde se lê: 
+"5.3 No projeto técnico de proteção contra incêndios devem ser apresentadas as seguintes
+informações:
+a) norma adotada;
+b) Ɵpo de sistema ﬁxo (inundação total ou aplicação local);
+c) agente exƟntor empregado;
+d) forma de acionamento (manual ou automáƟco);
+e) se automáƟco, indicar em planta a localização do ponto de acionamento alternaƟvo do
+sistema;
+f) localização em planta do ponto de desaƟvação do sistema;
+g) indicar o tempo de retardo para evacuação do local protegido antes do acionamento do
+sistema ﬁxo;
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23395609 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27377835&infra_sist…
+2/3
+h) indicar em planta o local ou equipamento a ser protegido, localização da central de alarme
+e baterias do sistema de detecção uƟlizado no acionamento do sistema ﬁxo, os pontos de detecção e a
+localização do (s) cilindro (s) do sistema ﬁxo;
+i) apresentar especiﬁcações do agente uƟlizado, como: nível de concentração onde não se
+observam efeitos adversos às pessoas, nível mais baixo de concentração onde se observam efeitos adversos
+às pessoas, concentração de projeto em percentagem e em volume, volume total armazenado nos cilindros e
+outras, conforme seja necessário."
+Leia-se:
+"5.3 No projeto técnico devem ser apresentadas as informações previstas no item A.17 da IT
+03 (Composição do Processo de Segurança Contra Incêndio e Pânico)."
+ 
+3. ALTERAR o item 5.7
+Onde se lê: 
+"5.7 Deve ser adotada a simbologia gráﬁca conforme dispõe a IT 03 (Símbolos Gráﬁcos para
+Projeto de Segurança Contra Incêndio)."
+Leia-se:
+"5.7 Deve ser adotada a simbologia gráﬁca conforme dispõe a IT 03 (Composição do Processo
+de Segurança Contra Incêndio e Pânico)."
+ 
+4. ALTERAR o item 5.11
+Onde se lê: 
+"5.11 Devem ser apresentados os seguintes laudos:
+a) laudo de funcionamento do sistema ﬁxo e respecƟva ART do Responsável Técnico;
+b) laudo técnico do agente exƟntor (gás) que declare a não toxidade à saúde humana e a não
+agressividade ao meio ambiente na concentração de projeto.
+Leia-se:
+"5.11 Devem ser apresentados laudos e quadro resumo conforme exigência do item A.17.2 da
+IT 03 (Composição do Processo de Segurança Contra Incêndio e Pânico)."
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 28/12/2020, às
+21:31, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23395609 e o
+código CRC 1F3E4A7A.
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 23395609 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27377835&infra_sist…
+3/3
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23395609

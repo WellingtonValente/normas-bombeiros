@@ -1,0 +1,229 @@
+--- PÁGINA 1 ---
+IT - 36 
+SISTEMA DE PROTEÇÃO CONTRA DESCARGAS 
+ATMOSFÉRICAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+1 - Objetivo 
+ 
+ 
+2 - Referências normativas 
+ 
+ 
+3 - Aplicação 
+ 
+ 
+4 - Exigências 
+ 
+ 
+5 - Métodos de dimensionamento 
+ 
+ 
+6 – Inspeção
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 36 
+ 
+   
+ 
+SISTEMA DE PROTEÇÃO CONTRA 
+DESCARGAS ATMOSFÉRICAS 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro. 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.b  r
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+1.1 Esta instrução técnica fixa as condições exigíveis ao 
+projeto, instalação e manutenção de sistemas de proteção 
+contra descargas atmosféricas (SPDA) de estruturas. O 
+projeto e instalação não assegura a proteção absoluta de 
+uma estrutura, de pessoas e de bens, entretanto reduz de 
+forma significativa os riscos de danos devido às descargas 
+atmosféricas. 
+  
+1.2 Esta instrução técnica não será aplicada aos sistemas 
+ferroviários, 
+sistemas 
+de 
+geração, 
+transmissão 
+e 
+distribuição de energia elétrica externos às estruturas, 
+sistemas de telecomunicação externos às estruturas, 
+veículos, aeronaves, navios.  
+ 
+1.3 Esta instrução não contempla a proteção de 
+equipamentos elétricos e eletrônicos contra interferências 
+eletromagnéticas causadas pelas descargas atmosféricas. 
+ 
+1.4 Adota-se as definições da NBR 5419, com as 
+inclusões e adequações de exigências constante nesta IT.  
+ 
+ 
+2 REFERÊNCIAS NORMATIVAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+NBR 5419 - Proteção de estruturas contra descargas 
+atmosféricas – Procedimento. 
+ 
+NBR 5410 - Instalações elétricas de baixa tensão – 
+Procedimento. 
+ 
+NBR 6323 - Produto de aço ou ferro fundido revestido de 
+zinco por imersão a quente – Especificação. 
+ 
+NBR 9518 - Equipamentos elétricos para atmosferas 
+explosivas - Requisitos gerais – Especificação. 
+ 
+NBR 13571 - Hastes de aterramento em aço cobreado e 
+acessórios – Especificação. 
+ 
+Resolução 04 – CNEN (Comissão Nacional de Energia 
+Nuclear). 
+ 
+ 
+ 
+3 APLICAÇÃO 
+ 
+3.1 Esta instrução técnica aplica-se: 
+a) às estruturas comuns, utilizadas para fins comerciais, 
+industriais, agrícolas, administrativos ou residenciais; 
+b) às estruturas especiais, como: 
+1) chaminés de grande porte. Considera-se chaminés de 
+grande porte quando a seção transversal de seu topo for 
+maior que 0,30 m2 e/ou sua altura exceder 20 m; 
+2) estruturas contendo líquidos ou gases inflamáveis e 
+antenas externas de televisão. 
+ 
+ 
+4 EXIGÊNCIAS 
+ 
+4.1 O projeto de SPDA deverá ser elaborado de acordo 
+com o prescrito na NBR 5419 e inserido no Processo de 
+Segurança Contra Incêndio e Pânico, constando: 
+a) Anotação de Responsabilidade Técnica (ART) junto ao 
+CREA;
+
+--- PÁGINA 3 ---
+b) plantas baixas e cortes da edificação mostrando o 
+encaminhamento dos condutores e transição entre níveis; 
+c) detalhes de pontos importantes da instalação como 
+conexões e pontos de medição e aterramento; 
+d) memorial descritivo contendo todos os dados técnicos 
+da instalação, tais como: nível de proteção, método 
+aplicado, número de descidas, espaçamento médio das 
+descidas, pontos de equalização de potenciais e 
+aterramento e bitola dos condutores. 
+ 
+4.2 Por ocasião da vistoria final do serviço de segurança 
+contra incêndio e pânico deverá ser apresentado os 
+seguintes documentos: 
+a) ART da instalação; 
+b) Relatório Técnico da instalação; 
+c) Para SPDA estruturais deverá ser apresentado o teste 
+de continuidade elétrica da estrutura de acordo com a 
+NBR 5419. 
+ 
+4.3 Nos projetos deverão constar os captores, as descidas, 
+a localização do aterramento, todas as ligações efetuadas, 
+as características dos materiais a empregar, bem como, as 
+áreas de proteção estabelecidas em plano vertical e 
+horizontal. 
+ 
+4.4 Nenhum ponto das edificações, equipamentos e 
+aparelhos a serem protegidos poderão ficar fora do campo 
+de proteção. 
+ 
+4.5 Na execução das instalações de SPDA, além dos 
+pontos mais elevados das edificações, deverão ser 
+consideradas também as distribuições das massas 
+metálicas, bem como as condições do solo e do sub-solo. 
+ 
+ 
+4.6 As interligações entre massas metálicas e o SPDA, 
+devem ser tão curtas quanto possível. 
+ 
+4.7 Nas partes superiores das edificações, que servirem de 
+terraço ou passagem, as instalações do SPDA deverão ser 
+protegidas para segurança de usuários e possíveis 
+depredações. 
+ 
+4.8 Todas as instalações do SPDA deverão ter os captores 
+e cabos de descida firmemente ligados às edificações, 
+formando com a terra um conjunto eletro-mecânico 
+satisfatório. 
+ 
+4.9 Nas edificações com coberturas ou revestimento de 
+metal, as instalações do SPDA deverão obedecer às 
+mesmas especificações indicadas para as demais 
+edificações, porém as partes metálicas deverão ser ligadas 
+aos eletrodos de terra. 
+ 
+4.10 Onde houver gases corrosivos na atmosfera, o uso de 
+cobre será obrigatório nas instalações. 
+ 
+4.11 Em qualquer vistoria técnica ou de constatação 
+realizada pelo Corpo de Bombeiros, deverá ser 
+apresentado pelo responsável da edificação o relatório de 
+inspeção acompanhado da Anotação de Responsabilidade 
+Técnica (ART). 
+ 
+4.12 É proibido o uso de captores radioativos ou outros 
+sistemas que tenham como objetivo o aumento da área de 
+proteção prescrita pelos métodos da NBR 5419. As 
+edificações existentes que utilizam este modelo deverão  
+substituí-los, atendendo às recomendações do CNEN 
+(Comissão Nacional de Energia Nuclear) 
+ 
+4.13 Para edificações mistas, caberá análise do Corpo 
+Técnico.    
+  
+5 MÉTODOS DE DIMENSIONAMENTO 
+ 
+5.1 Para o projeto de um SPDA, pode-se utilizar os 
+seguintes métodos, separadamente, ou de alguma forma 
+combinada: 
+a) Ângulo de proteção (Franklin); 
+b) Esfera rolante (eletrogeométrico); 
+c) Condutores em malha ou Gaiola (Método Faraday). 
+ 
+6 INSPEÇÃO 
+ 
+As 
+inspeções 
+deverão 
+ser 
+realizadas, 
+conforme 
+estabelecido na NBR 5419, devendo ser mantida no local 
+pelo proprietário ou responsável a seguinte documentação 
+para acesso do CBMMG, quando em vistoria: 
+a) Projeto, conforme especificado no item 4.1; 
+b) Relatório de inspeções com a devida ART.

@@ -1,0 +1,198 @@
+--- PÁGINA 1 ---
+01/09/22, 15:56
+SEI/GOVMG - 50897343 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58343950&infra…
+1/5
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 04 de agosto de 2022.
+  
+EMENDA CBMMG/DAT Nº. 9/2022
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 08 - 2ª Edição (Saídas de emergência em
+edificações):
+1. ALTERAR a alínea ‘c’ do item 5.5.1.1, que passa a vigorar com a seguinte redação:
+c) ter larguras de acordo com o estabelecido no item 5.4 desta IT, ressalvados os corredores e passagens de acesso restrito, cuja
+população atendida seja menor ou igual a 20 pessoas, que poderão ter largura mínima de 80,0 cm.
+ 
+2. ALTERAR o item 5.5.2 e subitens 5.5.2.1, 5.5.2.2, 5.5.2.3 e 5.5.2.5, que passam a vigorar com a seguinte redação:
+5.5.2 Distâncias máximas horizontais de caminhamento
+5.5.2.1 As distâncias máximas horizontais de caminhamento para atingir um local seguro (espaço livre exterior, área de refúgio,
+escada comum de saída de emergência, protegida ou à prova de fumaça), tendo em vista o risco à vida humana decorrente do
+fogo e da fumaça, devem considerar:
+5.5.2.2 As distâncias máximas horizontais de caminhamento para atingir as portas de acesso às edificações e o acesso às escadas
+ou às portas das escadas (nos pavimentos) constam da tabela 5, devendo ser contadas a partir do ponto mais distante da
+edificação, com exceção dos edifícios de apartamentos em geral (A-2), que deve ser medida a partir da porta de entrada das
+unidades autônomas.
+5.5.2.3 No caso das distâncias máximas horizontais de caminhamento para as rotas de fuga que não forem definidas no projeto
+arquitetônico, como, por exemplo, escritório de plano espacial aberto e galpão sem o arranjo físico interno (leiaute), devem ser
+consideradas as distâncias diretas comparadas aos limites da tabela 5, reduzidas em 30% (trinta por cento).
+5.5.2.5 Em edificações térreas, pode ser considerada como saída, para efeito da distância máxima horizontal de caminhamento,
+qualquer abertura, sem grades fixas, com peitoril, tanto interna como externamente, com altura máxima de 1,20 m, vão livre com
+área mínima de 1,20 m² e nenhuma dimensão inferior a 1,0 m.
+ 
+3. ALTERAR o item 5.5.4.10, que passa a vigorar com a seguinte redação:
+5.5.4.10 A colocação de fechaduras nas portas de rota de fuga, onde houver necessidade de se garantir segurança aos usuários da
+edificação contra invasão de intrusos, é permitida, a critério do responsável técnico, desde que seja possível a abertura no sentido
+da rota de fuga, sem necessidade de chave, admitindo-se que a abertura pelo lado oposto seja feita apenas por meio de chave,
+dispensando-se maçanetas, etc.
+ 
+4. ALTERAR o item 5.5.4.10.5, que passa a vigorar com a seguinte redação:
+5.5.4.10.5 Havendo motivo justificado, poderão ser propostas soluções alternativas, como, por exemplo, o destravamento
+automático em situação de emergência, que permitam o uso de fechaduras sem comprometer o acesso à edificação, desde que
+devidamente demonstradas no PSCIP.
+ 
+5. ACRESCENTAR a alínea 'e' no item 5.6.1.1:
+e) H-2 e H-3 com mais de um pavimento e altura igual ou inferior a 12 metros, quando forem exigidas mais de uma saída de
+emergência.
+ 
+6. ALTERAR o item 5.6.2.10, que passa a vigorar com a seguinte redação:
+5.6.2.10 Devem ser classificadas, a exemplo das escadas, como de acesso restrito, NE, EP, PF, seguindo para isso as condições
+específicas e cada uma delas estabelecidas nos itens 5.7.5, 5.7.7, 5.7.8, 5.7.9, 5.7.10, 5.7.11, 5.7.12 e 5.7.13 desta IT.
+ 
+7. ALTERAR o item 5.7.3.3, que passa a vigorar com a seguinte redação:
+5.7.3.3 O comprimento dos patamares deve ser (ver figura 7):
+a) dado pela fórmula:
+p = (2h + b)n + b
+
+--- PÁGINA 2 ---
+01/09/22, 15:56
+SEI/GOVMG - 50897343 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58343950&infra…
+2/5
+Onde:
+p = comprimento (base) do patamar;
+n = é um número inteiro (1, 2 ou 3), quando se tratar de escada reta, medido na direção do trânsito;
+h = altura do degrau da escada;
+b = base do degrau da escada.
+b) no mínimo, igual à largura da escada quando há mudança de direção da escada sem degraus ingrauxidos, não se aplicando
+neste caso, a fórmula anterior.
+ 
+ 
+8. RENUMERAR a Figura 10 – Ventilação da escada enclausurada protegida e seu acesso, que passa a vigorar como Figura 10.a –
+Ventilação da escada enclausurada protegida e seu acesso.
+ 
+ 
+ 
+9. ACRESCENTAR a figura 10.b – Janela da escada enclausurada protegida:
+ 
+ 
+10. ALTERAR a alínea ‘c’ do item 5.7.8.2, que passa a vigorar com a seguinte redação:
+c) ser dotadas de venezianas ou outro material que assegure a ventilação permanente, devendo distar:
+c.1) no mínimo 1,40 m, de qualquer outra abertura, desde que esteja em planos verticais coincidentes ou paralelos em qualquer
+nível, sendo que dever ser adotada a distância horizontal entre aberturas levando em consideração a projeção de uma delas
+(figuras 11.a, 11.b e 11.c).
+c.2) no mínimo 2 m de qualquer outra abertura que esteja em planos verticais não paralelos e em qualquer nível, sendo que deve
+ser adotada a distância horizontal entre as aberturas levando em consideração a projeção de uma delas (figuras 11.d, 11.e, 11.f
+e 11.g), podendo essa distância ser reduzida para 1,4 m em aberturas instaladas em banheiros ou vestiários; 
+ 
+11. ALTERAR a figura 11 – Exemplos de distância entre janelas de escadas protegidas e outras aberturas:
+Figura 11.a – Distância entre a veneziana da escada EP e
+qualquer outro tipo de abertura no mesmo plano.
+Figura 11.b – Distância entre a veneziana da escada EP e
+qualquer outro tipo de abertura em plano vertical paralelo.
+Figura 11.c – Distância entre a veneziana da escada EP e
+qualquer outro tipo de abertura em plano vertical paralelo.
+ 
+Figura 11.d – Distância entre a veneziana da escada EP e
+qualquer outro tipo de abertura em planos distintos.
+
+--- PÁGINA 3 ---
+01/09/22, 15:56
+SEI/GOVMG - 50897343 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58343950&infra…
+3/5
+Figura 11.e – Distância entre a veneziana da escada EP e
+qualquer outro tipo de abertura em planos distintos.
+Figura 11.f - Distância entre a veneziana da escada EP e
+qualquer outro tipo de abertura em planos distintos.
+Figura 11.g - Distância entre a veneziana da escada EP e
+qualquer outro tipo de abertura em planos distintos.
+ 
+ 
+ 
+ 
+12. ALTERAR a alínea ‘a’ do item 5.7.8.3, que passa a vigorar com a seguinte redação:
+a) ser ventilados por janelas, tipo veneziana ou outro material que assegure a ventilação permanente, abrindo para o espaço livre
+exterior, com área de ventilação efetiva mínima de 0,80 m², largura mínima de 0,80 m, situadas junto ao teto ou, no máximo, a
+15,0 cm deste, observando o previsto na alínea ‘d’ do item 5.7.8.2; ou
+ 
+13. ACRESCENTAR o item 5.7.8.3.1:
+5.7.8.3.1 No caso de aplicação da alínea ‘a’ do item 5.7.8.3, deverá ser prevista, no topo da caixa de escada, uma janela de
+ventilação ou alçapão para saída da fumaça.
+ 
+14. ALTERAR o item 5.7.11.7, que passa a vigorar com a seguinte redação:
+5.7.11.7 As dimensões dos dutos dadas em 5.7.11.2 são as mínimas absolutas, recomendando-se o cálculo exato dessas
+dimensões pela mecânica dos fluídos, em especial no caso da existência de subsolos e em prédios de elevada altura ou em locais
+sujeitos a ventos excepcionais.
+ 
+15. ACRESCENTAR o item 5.7.13.2:
+5.7.13.2 As demais características da escada à prova de fumaça pressurizada (TRRF, por exemplo), quando não expressamente
+definidas na IT 10, seguirão as características exigidas nesta IT para escadas EP ou PF, de acordo com o tipo de escada que está
+sendo substituída.
+ 
+16. ACRESCENTAR o item 5.8.2.7:
+5.8.2.7 As escadas centrais que servem os assentos de cinemas, auditórios e assemelhados devem ser dotadas de corrimão central
+com barra dupla de apoio para as mãos e descontinuidade (intervalo) nos patamares, se houver, ou no mínimo a cada 2 fileiras e
+no máximo a cada 5 (cinco) fileiras de assentos, visando facilitar o acesso aos mesmos e permitir a passagem de um lado para o
+outro. 
+ 
+17. ALTERAR os itens 5.13 e 5.13.1, que passam a vigorar com a seguinte redação:
+
+--- PÁGINA 4 ---
+01/09/22, 15:56
+SEI/GOVMG - 50897343 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58343950&infra…
+4/5
+5.13 Área de resgate para pessoas com deficiência (Pcd)
+5.13.1 Deve ser prevista uma área de resgate, com espaço reservado para o posicionamento de pessoas com deficiência, dentro
+do corpo da escada de emergência ou dentro da antecâmara da escada. 
+ 
+18. ACRESCENTAR o item 5.13.1.1:
+5.13.1.1 Fica dispensada a área de resgate para pessoas com deficiência:
+a) em escadas não enclausuradas;
+b) no pavimento de descarga da escada; ou
+c) em pavimento ou local onde não existe a ocupação permanente por pessoas, como: casa de máquinas, barrilete, área técnica e
+similares.
+ 
+19. ALTERAR o item 5.13.2, que passa a vigorar com a seguinte redação:
+5.13.2 A área de resgate para pessoas com deficiência deve:
+a) estar localizada dentro da escada ou da antecâmara, mas fora da área de circulação da escada, do patamar ou da antecâmara;
+b) ter dimensões mínimas de 80 x 120 cm, pintada no piso na cor azul;
+c) ter o símbolo internacional de acesso nas dimensões de 30 x 40 cm (que consiste em um pictograma branco sobre fundo azul),
+pintado no piso da área de resgate, conforme NBR 9050;
+d) observar a área para manobra conforme NBR 9050; e
+e) ser provida de dispositivo de emergência ou intercomunicador conforme NBR 9050.
+ 
+20. ALTERAR a Nota da Tabela 3, que passa a vigorar com a seguinte redação:
+Notas:
+a) Os prédios devem, preferencialmente, ser sempre projetados e executados dentro do tipo “Z”.
+b) Edificações térreas serão classificadas, no mínimo, com o código “Y”, uma vez que a medida de “compartimentação vertical”
+não é aplicável a esse tipo de construção.
+ 
+21. ALTERAR a Tabela 5, que passa a vigorar com a seguinte redação:
+ 
+22. ALTERAR a Nota da Tabela 5, que passa a vigorar com a seguinte redação:
+Notas:
+a) Para que ocorram as distâncias previstas na tabela 5, é necessária a apresentação de leiaute definido em planta baixa (de salão
+aberto, sala de eventos, escritório panorâmico e outros). Do contrário, as distâncias definidas acima serão reduzidas em 30%
+(trinta por cento);
+b) Para edificações com a medida de segurança “Controle de Fumaça”, admite-se acrescentar 50 % nos valores acima;
+c) Para o aumento da distância máxima a ser percorrida, os sistemas de detecção de incêndio (IT 14), controle de fumaça (IT 41) e
+chuveiros automáticos (IT 18) podem ser previstos apenas na área compartimentada que apresentar esta necessidade. Quando a
+
+--- PÁGINA 5 ---
+01/09/22, 15:56
+SEI/GOVMG - 50897343 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58343950&infra…
+5/5
+edificação não for compartimentada, os sistemas citados deverão ser previstos em toda a edificação.
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Diretor(a), em 29/08/2022, às 15:49, conforme horário
+oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 50897343 e o código CRC BA436E86.
+Referência: Processo nº 1400.01.0045935/2022-78
+SEI nº 50897343

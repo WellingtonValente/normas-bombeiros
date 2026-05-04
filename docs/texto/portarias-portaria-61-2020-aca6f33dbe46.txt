@@ -1,0 +1,193 @@
+--- PÁGINA 1 ---
+30/12/2020
+SEI/GOVMG - 21312490 - Portaria
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=25032064&infra…
+1/4
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Comando-Geral
+ PORTARIA Nº 61, DE 28 DE DEZEMBRO DE 2020
+                                                                                                                                                                                                      
+  
+Aprova a Instrução Técnica nº 01/9ª Edição - Procedimentos AdministraƟvos;  Aprova a Instrução Técnica nº
+03/2ª Edição - Composição do Processo de Segurança Contra Incêndio e Pânico (PSCIP); Aprova a Instrução
+Técnica nº 09/ 2ª Edição - Carga de Incêndio nas ediﬁcações e espaços desƟnados ao uso coleƟvo; Aprova a
+Instrução Técnica nº 43/1ª Edição - Armazenagem em silos; Aprova a Instrução Técnica nº 44/1ª Edição -
+Ediﬁcações e instalações de agronegócio; Aprova a emenda nº 08/2020, que altera a IT 12/3ª
+Edição; Incorpora a ERRATA CBMMG/DAT Nº 16/2020, que corrige o conteúdo da IT 04/2ª Edição; Incorpora a
+ERRATA CBMMG/DAT Nº 17/2020, que corrige o conteúdo da IT 05/1ª Edição; Incorpora a ERRATA
+CBMMG/DAT Nº 18/2020, que corrige o conteúdo da IT 06/1ª Edição; Incorpora a ERRATA CBMMG/DAT
+Nº 19/2020, que corrige o conteúdo da IT 07/1ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 20/2020, que
+corrige o conteúdo da IT 10/1ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 21/2020, que corrige o
+conteúdo da IT 08/2ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 22/2020, que corrige o conteúdo da IT
+14/2ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 23/2020, que corrige o conteúdo da IT 17/1ª Edição;
+Incorpora a ERRATA CBMMG/DAT Nº 24/2020, que corrige o conteúdo da IT 18/1ª Edição; Incorpora a ERRATA
+CBMMG/DAT Nº 25/2020, que corrige o conteúdo da IT 28/1ª Edição; Incorpora a ERRATA CBMMG/DAT
+Nº 26/2020, que corrige o conteúdo da IT 31/1ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 27/2020, que
+corrige o conteúdo da IT 32/1ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 28/2020, que corrige o conteúdo
+da IT 35/2ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 29/2020, que corrige o conteúdo da IT 40/2ª
+Edição; Incorpora a ERRATA CBMMG/DAT Nº 30/2020, que corrige o conteúdo da IT 41/1ª Edição; Incorpora a
+ERRATA CBMMG/DAT Nº 31/2020, que corrige o conteúdo da IT 42/1ª Edição; Incorpora a ERRATA
+CBMMG/DAT Nº 32/2020, que corrige o conteúdo da IT 11/1ª Edição; Incorpora a ERRATA CBMMG/DAT
+Nº 33/2020, que corrige o conteúdo da IT 15/1ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 34/2020, que
+corrige o conteúdo da IT 02/2ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 35/2020, que corrige o conteúdo
+da IT 21/1ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 36/2020, que corrige o conteúdo da IT 23/2ª
+Edição; Incorpora a ERRATA CBMMG/DAT Nº 37/2020, que corrige o conteúdo da IT 38/1ª Edição; Incorpora a
+ERRATA CBMMG/DAT Nº 39/2020, que corrige o conteúdo da IT 16/3ª Edição; Incorpora a ERRATA
+CBMMG/DAT Nº 40/2020, que corrige o conteúdo da IT 25/2ª Edição; Incorpora a ERRATA CBMMG/DAT
+Nº 41/2020, que corrige o conteúdo da IT 27/1ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 42/2020, que
+corrige o conteúdo da IT 33/3ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 43/2020, que corrige o conteúdo
+da IT 34/3ª Edição; Incorpora a ERRATA CBMMG/DAT Nº 44/2020, que corrige o conteúdo da IT 37/2ª Edição;
+Revoga a Circular Nº 001/06 – S.N.– DAT; Revoga a Circular Nº 006/06 – S.N - DAT; Revoga a Circular Nº 02
+/2012 – DAT;  e Revoga a Circular Nº 01 /2015 – DAT. 
+O CORONEL BM COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS, no uso das
+atribuições que lhe são conferidas pelo art. 6º e § 1º do art. 12, ambos da Lei Complementar nº 54, de 13 de
+dezembro de 1999, e considerando: 
+I - o previsto no art. 2º, inciso III da Lei Estadual nº 14.130, de 19 de dezembro de 2001, que dispõe sobre a
+prevenção contra incêndio e pânico no Estado de Minas Gerais;
+II - a competência atribuída ao Corpo de Bombeiros Militar de Minas Gerais pelo Decreto Estadual nº 47.998, de
+1º de julho de 2020, que regulamenta a Lei Estadual nº 14.130, de 19 de dezembro de 2001; 
+III - a necessidade de atualização da legislação de prevenção contra incêndio e pânico, visando acompanhar o
+desenvolvimento da sociedade mineira. 
+ 
+RESOLVE:
+
+--- PÁGINA 2 ---
+30/12/2020
+SEI/GOVMG - 21312490 - Portaria
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=25032064&infra…
+2/4
+Art. 1º - Aprovar a Instrução Técnica Nº 01/ 9ª Edição - Procedimentos AdministraƟvos.
+Art. 2º - Aprovar a Instrução Técnica Nº 03/ 2ª Edição - Composição do Processo de Segurança Contra Incêndio
+e Pânico (PSCIP).
+Art. 3º - Aprovar a Instrução Técnica Nº 09/ 2ª Edição - Carga de Incêndio nas Ediﬁcações e Espaços DesƟnados
+ao Uso ColeƟvo.
+Art. 4º - Aprovar a Instrução Técnica Nº 43/ 1ª Edição - Armazenagem em Silos.
+Art. 5º - Aprovar a Instrução Técnica Nº 44/ 1ª Edição - Ediﬁcações e Instalações de Agronegócio.
+Art. 6º - Aprovar a EMENDA CBMMG/DAT Nº 08/2020, que altera a Instrução Técnica 12 – 3ª Edição (Brigada de
+Incêndio), acrescentando as notas A.13 e A.14 no Anexo A e alterando o conteúdo do item 3.1, item 3.2, item
+5.4.5 e suas alíneas 'a', 'b' e 'f', item 5.6.4.1, Tabela do Anexo A, Nota A.8 do Anexo A e 2ª Condição do item B.1
+do Anexo B.
+Art. 7º - Incorporar a ERRATA CBMMG/DAT Nº 16/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 04 – 2ª Edição (Acesso de Viaturas nas Ediﬁcações e Áreas de Risco): item 1, item 2 e ﬁgura 2.
+Art. 8º - Incorporar a ERRATA CBMMG/DAT Nº 17/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 05 – 1ª Edição (Separação entre Ediﬁcações - Isolamento de Risco): item 2.3, item 4.1 e item
+6.1.7.1. 
+Art. 9º - Incorporar a ERRATA CBMMG/DAT Nº 18/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 06 – 1ª Edição (Segurança Estrutural das Ediﬁcações): item 1, item 2.1, alínea 'b' do item 5.3.4,
+item 5.3.5, alínea 'e' do item 5.18, item A1 do Anexo A, alínea 'c' do item A2.2 do Anexo A, item A2.3.1 do
+Anexo A, item A2.3.5 do Anexo A, Tabela A e Tabela C3. 
+Art. 10 - Incorporar a ERRATA CBMMG/DAT Nº 19/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 07 – 1ª Edição (ComparƟmentação Horizontal e ComparƟmentação VerƟcal): item 1.1, item
+2, alínea "b" do item 5.1.3.2, alínea "b" do item 5.1.3.4, alínea "c" do item 5.1.3.4, item 5.1.5.2, alínea "d" do
+item 5.2.2.1.1, alínea "d" do item 5.2.2.3.1, alínea "e" do item 5.2.2.3.2, alínea "d" do item 5.2.2.3.7.1, alínea
+"c" do item 5.2.3.3, Tabela de Área Máxima de ComparƟmentação (m²) do Anexo B, Notas Especíﬁcas e Notas
+Genéricas da Tabela de Área Máxima de ComparƟmentação (m²) do Anexo B.   
+Art. 11 - Incorporar a ERRATA CBMMG/DAT Nº 20/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 10 – 1ª Edição (Pressurização de Escada de Segurança): item 2, item 3.2, Tabela do Anexo B -
+Resumo de Exigências para os Diversos Tipos de Ediﬁcações com Sistemas de Pressurização e Notas Especíﬁcas
+da Tabela do Anexo B - Resumo de Exigências para os Diversos Tipos de Ediﬁcações com Sistemas de
+Pressurização.
+Art. 12 - Incorporar a ERRATA CBMMG/DAT Nº 21/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 08 – 2ª Edição (Saídas de Emergência em Ediﬁcações ): alínea 'a' do item 5.1.1, item 5.3.2,
+item 5.5.2.3, item 5.5.3.1, item 5.15, item 5.15.1, Tabela 2, Tabela 3, Tabela 4, Notas da Tabela 4, Tabela 5, Nota
+da Tabela 5, Tabela 6 e Notas da Tabela 6.
+Art. 13 - Incorporar a ERRATA CBMMG/DAT Nº 22/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 14 – 2ª Edição (Sistemas de detecção e alarme de incêndio):  item 1.2, item 2.1, item 4, item
+5.2, item 5.7.3, item 5.19, item 5.19.1,  item 5.19.2 e item 5.20.
+Art. 14 - Incorporar a ERRATA CBMMG/DAT Nº 23/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 17 – 1ª Edição (Sistema de Hidrantes e MangoƟnhos para Combate a Incêndio): item 2, item
+4.2, item 5.4.4, item 5.18.1, item 5.18.4 , item 5.18.5,  Tabela 4, Nota da Tabela 4, item C.2.3 do Anexo C, item
+D.1.2 do Anexo D e item D.2 do Anexo D.
+Art. 15 - Incorporar a ERRATA CBMMG/DAT Nº 24/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 18 – 1ª Edição (Sistema de Chuveiros AutomáƟcos): item 1, item 2.1 e item 5.4.
+Art. 16 - Incorporar a ERRATA CBMMG/DAT Nº 25/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 28 – 1ª Edição (Cobertura de sapé, piaçava e similares): item 1, item 5.6.3 e item 5.7.3.
+Art. 17 - Incorporar a ERRATA CBMMG/DAT Nº 26/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 31 – 1ª Edição (PáƟo de contêineres): item 1 e item 5.2. 
+Art. 18 - Incorporar a ERRATA CBMMG/DAT Nº 27/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 32 – 1ª Edição (Proteção Contra Incêndio em Cozinhas Proﬁssionais): item 2.1 e item 6.5.
+
+--- PÁGINA 3 ---
+30/12/2020
+SEI/GOVMG - 21312490 - Portaria
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=25032064&infra…
+3/4
+Art. 19 - Incorporar a ERRATA CBMMG/DAT Nº 28/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 35 – 2ª Edição (Segurança Contra Incêndio em Ediﬁcações que compõem o Patrimônio
+Cultural): alínea "h" do item 7.5.3, Nota Especíﬁca 6 da Tabela 1 – Exigências para ediﬁcações com altura menor
+ou igual a 12 metros e Notas 1 e 2 da Tabela 4 – Fatores de risco associados à grandeza da carga incêndio (f2).
+Art. 20 - Incorporar a ERRATA CBMMG/DAT Nº 29/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 40 – 2ª Edição (Adequação de medidas de segurança para ediﬁcações): item 2.2, item
+5.1.1, item 6.11.2.1 e item 6.22.3.  
+Art. 21 - Incorporar a ERRATA CBMMG/DAT Nº 30/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 41 – 1ª Edição (Controle de fumaça): item 1.1, item 7.2, item 7.2.1, Tabela 6 - Classiﬁcação
+de risco para as demais ocupações e Figura 18. 
+Art. 22 - Incorporar a ERRATA CBMMG/DAT Nº 31/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 42 – 1ª Edição (Estabelecimentos desƟnados à restrição de liberdade): item 3.1 e item
+5.6.4.
+Art. 23 - Incorporar a ERRATA CBMMG/DAT Nº 32/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 11– 1ª Edição (Plano de intervenção de incêndio): item 2, item 5.2.4, item 5.2.4.1 e item
+5.2.4.2.
+Art. 24 - Incorporar a ERRATA CBMMG/DAT Nº 33/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 15 – 1ª Edição (Sinalização de Emergência): item 1, item 2, item 5.2.1, número '2' do item
+5.3.2,  alíneas 'b' e 'c' do item 5.3.2.3, item 6.1.1, item 6.1.4, item 6.2.4, número '3' do item 6.2.4, alínea 'a' do
+número '3' do item 6.2.4, item 6.2.6.2, item 6.2.6.3, item 6.3, item 6.4 e item 6.6.
+Art. 25 - Incorporar a ERRATA CBMMG/DAT Nº 34/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 02 – 2ª Edição (Terminologia de Proteção Contra Incêndio e Pânico): item 4.13, item 4.15,
+item 4.16, item 4.23, item 4.24, item 4.27, item 4.46, item 4.49, item 4.59, item 4.85, item 4.99, item 4.100,
+item 4.127, item 4.130, item 4.155, item 4.180, item 4.181, item 4.233, item 4.279, item 4.295, item 4.328, item
+4.331, item 4.337, item 4.343, item 4.349, item 4.350, item 4.351, item 4.362, item 4.368, item 4.372, item
+4.374, item 4.401, item 4.402, item 4.405, item 4.417, item 4.422, item 4.432, item 4.446, item 4.450, item
+4.451, item 4.452, item 4.460, item 4.466, item 4.472, item 4.526, item 4.545 e item 4.550; e revoga os itens
+4.26 e 4.148.
+Art. 26 - Incorporar a ERRATA CBMMG/DAT Nº 35/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 21 – 1ª Edição (Sistema ﬁxo de gases para combate a incêndio): item 1, item 5.3, item 5.7
+e item 5.11.
+Art. 27 - Incorporar a ERRATA CBMMG/DAT Nº 36/2020, que corrige o conteúdo dos seguintes itens
+da Instrução Técnica 23 – 2ª Edição (Manipulação, armazenamento, comercialização e uƟlização de gás
+liquefeito de petróleo - GLP): item 1, item 5.2.2, item 5.2.8.9, ơtulo do ANEXO D (cont.) REVENDEDOR CLASSE II
+E RESIDÊNCIA COM ENTRADA INDEPENDENTE – CAPACIDADE 6.240 kg(informaƟvo) e nota 'B' do ANEXO D
+(cont.) Instalação de recipientes em teto e lajes de cobertura de ediﬁcações (informaƟvo); e altera a numeração
+dos seguintes itens: item 5.5.6.3, item 5.5.6.4, item 5.5.7, item 5.5.7.1, item 5.5.7.2, item 5.5.8, item 5.5.8.1,
+item 5.5.8.2, item 5.5.9, item 6.5.5, item 6.5.5.1, item 6.5.5.2, item 6.5.5.2.1, item 6.5.5.3, item 6.5.5.4 e item
+6.5.5.5.
+Art. 28 - Incorporar a ERRATA CBMMG/DAT Nº 37/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 38 – 1ª Edição (Controle de Materiais de Acabamento e RevesƟmento): item 1, item 6.1 e
+Quadro Resumo de Controle de Materiais de Acabamento do Anexo B .
+Art. 29 - Incorporar a ERRATA CBMMG/DAT Nº 39/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 16 – 3ª Edição (Sistema de proteção por exƟntores de incêndio): item 1, item 2.1, item
+5.2.2.5, item 5.2.2.9, item 5.2.3.2 e item 6.2.2.
+Art. 30 - Incorporar a ERRATA CBMMG/DAT Nº 40/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 25 – 2ª Edição (Fogos de arƟİcio e pirotecnia): item 2.1, item 2.4 e item 5.1.
+Art. 31 - Incorporar a ERRATA CBMMG/DAT Nº 41/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 27 – 1ª Edição (Medidas de segurança para produtos perigosos): item 1, item 2.1, item 5.6.1 e
+item 5.7.3.
+Art. 32 - Incorporar a ERRATA CBMMG/DAT Nº 42/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 33 – 3ª Edição (Eventos temporários): item A.2.10.1 e item K.1.1.
+
+--- PÁGINA 4 ---
+30/12/2020
+SEI/GOVMG - 21312490 - Portaria
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=25032064&infra…
+4/4
+Art. 33 - Incorporar a ERRATA CBMMG/DAT Nº 43/2020, que corrige o conteúdo do seguinte item da Instrução
+Técnica 34 – 3ª Edição (Cadastramento de empresas e responsáveis técnicos): item 6.3.7.
+Art. 34 - Incorporar a ERRATA CBMMG/DAT Nº 44/2020, que corrige o conteúdo dos seguintes itens da
+Instrução Técnica 37 – 2ª Edição (Centros EsporƟvos e de Exibição: Requisitos de Segurança Contra Incêndio e
+Pânico): item 2.1 e item 5.8.1.2.
+Art. 35 - Revogar a Circular Nº 001/06 – S.N.– DAT, a Circular Nº 006/06 – S.N - DAT, a Circular Nº 02/2012 – S.N
+- DAT e a Circular Nº 01 /2015 – DAT. 
+Art. 36 - Esta Portaria entra em vigor em 1º de janeiro de 2021. 
+ 
+Edgard Estevo da Silva, Coronel BM
+Comandante-Geral
+ 
+Documento assinado eletronicamente por Edgard Estevo da Silva, Comandante-Geral do Corpo de
+Bombeiros Militar do Estado de Minas Gerais, em 29/12/2020, às 15:20, conforme horário oﬁcial de
+Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0,
+informando o código veriﬁcador 21312490 e o código CRC 8A89F574.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 21312490

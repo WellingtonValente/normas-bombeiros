@@ -1,0 +1,304 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+ 
+ 
+CIRCULAR Nº 02/2010 – Div. Pesquisa - DAT 
+ 
+ 
+Estabelece procedimentos a serem adotados para 
+análise de PSCIP e vistorias em Galerias Comerciais 
+e Centros de Compras (Shopping Centers). 
+ 
+ 
+As ocupações do grupo C-2 e C-3, especificamente os edifícios de lojas de 
+departamentos, galerias comerciais e Centros de compras em geral, possuem 
+peculiaridades decorrentes da legislação vigente sobre condomínios1, as quais têm sido 
+objeto de constantes justificativas pelos proprietários para o não atendimento ao item 
+6.2.2.7 da Instrução Técnica2 nº 01, o qual impede a realização de vistoria parcial para 
+áreas onde não haja a caracterização de risco isolado ou área parcialmente construída.  
+Tais justificativas são apresentadas em decorrência de solicitações feitas por 
+proprietários ou responsáveis por condomínios, com o objetivo de realização de vistoria 
+para fins de emissão de AVCB apenas nas áreas comuns, excluindo-se as áreas das 
+lojas. 
+Face ao exposto, os procedimentos de análise e vistoria e emissão de AVCB em 
+edificações C2 e C3 (edifícios de lojas de departamentos, galerias comerciais, centros de 
+compras em geral), deverão atender, além do previsto nas Instruções Técnicas em vigor, 
+aos procedimentos previstos nesta Circular, observando os seguintes conceitos: 
+ PSCIP Geral/Principal – Processo de Segurança Contra Incêndio e Pânico que 
+contempla toda a edificação onde se encontram os estabelecimentos; 
+ Lojas âncoras – são estabelecimentos onde a abrangência e cobertura do sistema de 
+hidrantes previsto e instalado na área comum da edificação se apresentam insuficientes, 
+havendo necessidade de instalação de sistema de hidrante em seu interior, a serem 
+                                                     
+1 Lei nº 10.406/2002 (Código Civil) 
+Art. 1.331. Pode haver, em edificações, partes que são propriedade exclusiva, e partes que são propriedade comum 
+dos condôminos. 
+ 
+2 Instrução Técnica nº 01 
+6.2.2.7 É permitida a vistoria para áreas parcialmente construídas, desde que atendam aos critérios de risco isolado 
+previstos na IT- 05 (Separação entre edificações).
+
+--- PÁGINA 2 ---
+dimensionados através do PSCIP Geral. Será considerado também como loja âncora, o 
+estabelecimento que não possua sistema de hidrante em seu interior, em razão de estar 
+protegido por mais de um ponto de tomada de água localizado na área comum. A 
+apresentação de PSCIP específico para loja âncora será obrigatória, exceto se todas as 
+medidas estiverem projetadas no PSCIP Geral;  
+ Lojas satélites – são estabelecimentos  onde não há necessidade de instalação de  
+sistema de hidrantes em sua área privativa, devido ao fato de estarem protegidas pela 
+medida instalada na  área comum da edificação. Não deverá ser apresentado PSCIP 
+específico para sua área privativa; 
+ Área privativa – adotar-se-á este conceito, para fins de aplicação desta circular, como 
+sendo a área específica de propriedade do estabelecimento, delimitada pela área 
+comum e divisas com demais estabelecimentos; 
+ Área comum – área destinada ao uso comum do condomínio, representada por 
+corredores, átrios, hall, saguão, acessos, descargas, escadas, praça de alimentação, 
+etc; 
+ CBMMG – Corpo de Bombeiros Militar de Minas Gerais; 
+ SSCIP – serviço de segurança contra incêndio e pânico, corresponde ao setor do 
+CBMMG responsável pela cidade ou bairro onde se encontra a edificação; 
+ 
+ PROCEDIMENTOS PARA GALERIAS COMERCIAIS E SHOPPING CENTER 
+ 
+1. APRESENTAÇÃO DO PSCIP GERAL/PRINCIPAL NOVO PARA ANÁLISE: 
+1.1. Constar a área de toda a edificação (área comum e privativa das lojas); 
+1.2. Ser apresentado em pasta do tipo “AZ” transparente, nos termos da IT - 01; 
+1.3. Indicar a localização de todas as lojas, em planta separada, em forma de 
+implantação, constando numeração seqüencial para identificação de cada loja; 
+1.4. Caso o responsável técnico não apresente PSCIP específico para a área privativa da 
+loja âncora, todas as medidas exigidas pela legislação para a referida loja deverão estar 
+projetadas no PSCIP geral da edificação;  
+1.5.  Conter medidas de segurança de acordo com Tabela A ou B da IT 01, conforme o 
+caso,  devendo observar a área total para dimensionamento das medidas de segurança; 
+1.6. Constar extintores na área comum, atendendo ao caminhamento previsto na IT 16, 
+de forma a proteger as áreas privativas das lojas satélites; 
+1.7. Em caso de previsão de sistema de hidrantes, a instalação da medida na área 
+comum deverá ser projetada de forma a cobrir a área das lojas satélites da edificação e,
+
+--- PÁGINA 3 ---
+no caso das lojas âncoras, a medida deverá estar projetada e instalada em sua área 
+privativa, atendendo ao dimensionamento e caminhamento previstos na IT 17; 
+1.8.  Em caso de previsão de chuveiro automático, dimensionar o sistema de forma a 
+atender a área total da edificação, observando o ponto mais desfavorável para o cálculo; 
+1.8.1. Deverá constar, em planta separada, a rede com os respectivos bicos, abrangendo 
+a edificação, além de esquema isométrico conforme previsto na IT01;  
+1.8.2.  Não será necessário prever a localização dos bicos de chuveiros automáticos nas 
+lojas satélites, tão somente a entrada da tubulação com o diâmetro proporcional e a 
+indicação da quantidade máxima de bicos a ser instalada em seu interior; 
+1.8.3. Estando a loja âncora incluída dentro do PSCIP Geral, deverá ser prevista a 
+localização dos bicos em sua área privativa. Caso contrário o PSCIP Geral deverá conter 
+apenas a entrada da tubulação com diâmetro proporcional e a indicação da quantidade 
+máxima de bicos a ser instalada em seu interior; 
+1.9. Havendo previsão de iluminação de emergência por grupo moto-gerador ou 
+alimentação centralizada, o seu dimensionamento deverá abranger a área total da 
+edificação (área comum e áreas privativas).  
+ 
+2. APRESENTAÇÃO DO PSCIP DA LOJA ÂNCORA PARA ANÁLISE: 
+2.1. Apresentar somente após a aprovação do PSCIP Geral, conforme composição de 
+projeto técnico prevista na IT 01; 
+2.2. Constar a área total da loja com respectivas medidas de segurança, constando 
+também o corredor de acesso da rota de fuga da área comum da edificação; 
+2.3. Indicar a localização da loja âncora e seu pavimento, em planta separada, através de 
+implantação, constando sua numeração e demais estabelecimentos do pavimento com 
+hachura e numeração; 
+2.4. Deverá constar o dimensionamento das medidas de segurança, inclusive dos 
+sistemas hidráulicos;  
+2.5. A taxa a ser cobrada neste caso será referente à modificação de PSCIP sem 
+acréscimo de área (15 UFEMG). 
+ 
+3. VISTORIA PARA FINS DE EMISSÃO DE AVCB 
+3.1. 
+A vistoria deverá ser realizada em toda a área da edificação (área comum e áreas 
+privativas das lojas), mediante pagamento da taxa sobre a área total a qual deverá estar 
+em conformidade com o PSCIP geral aprovado;
+
+--- PÁGINA 4 ---
+3.2. Durante a vistoria deverá ser observado se as medidas instaladas na área comum 
+atendem às lojas satélites; 
+3.3. Tendo o responsável técnico apresentado as medidas de segurança da loja âncora 
+juntamente com o PSCIP geral, a vistoria deverá ser realizada conforme PSCIP geral 
+aprovado, devendo-se verificar a instalação de todas as medidas projetadas, inclusive na 
+loja âncora. Neste caso, deverá ser conferida também a localização dos bicos do chuveiro 
+automático dentro da loja âncora;  
+3.4. A instalação da iluminação de emergência das lojas âncoras será verificada somente 
+na vistoria referente à sua área privativa, após a aprovação de seu respectivo PSCIP, 
+exceto se as medidas da loja âncora tiverem sido projetadas juntamente com o PSCIP 
+geral; 
+3.5. Sendo constatada irregularidade em qualquer parte da edificação, no momento da 
+vistoria para fins de emissão de AVCB referente à área total, o SSCIP deverá notificar o 
+responsável pela edificação, devendo emitir o AVCB somente após toda a edificação 
+estar conforme PSCIP Geral aprovado; 
+3.5.1. Caso a loja âncora possua PSCIP aprovado separadamente do PSICP geral, após 
+a emissão do AVCB referente à área total da edificação, o responsável pela loja deverá 
+solicitar a vistoria, devendo recolher a taxa correspondente à área da loja; 
+3.5.2. Durante a vistoria, o SSCIP deverá verificar apenas a conformidade do PSCIP 
+específico da loja âncora e, havendo irregularidades nas demais áreas da edificação, 
+deverá ser acionada fiscalização posterior e imediata, não impedindo que seja emitido o 
+AVCB específico da loja; 
+3.5.3. Caso as medidas de segurança da loja âncora não estejam contempladas no 
+PSCIP Geral e, no momento da vistoria, seja constatada a existência de empreendimento 
+em sua área, o SSCIP deverá notificar a edificação, devendo o proprietário modificar o 
+PSCIP Geral, incluindo todas as medidas da loja âncora; 
+3.5.4. Se no momento da vistoria para fins de emissão de AVCB para a área total da 
+edificação for verificada a existência de empreendimento nas lojas satélites, o vistoriador 
+deverá conferir a quantidade de bicos instaladas em seu interior, caso haja previsão;  
+3.6. 
+Havendo a aprovação em vistoria, será emitido o AVCB referente à área total da 
+edificação, não podendo ser emitido AVCB específico para a área comum da edificação.   
+ 
+4. EMISSÃO DE AVCB APÓS APROVAÇÃO EM VISTORIA
+
+--- PÁGINA 5 ---
+4.1. 
+Após a emissão do AVCB referente ao PSCIP geral, as lojas satélites da edificação 
+poderão funcionar regularmente sem que, necessariamente, possuam AVCB específico 
+para suas áreas privativas; 
+4.2. 
+As lojas âncoras que possuem PSCIP específico para sua área privativa, para que 
+funcionem de forma regularizada junto ao CBMMG, deverão, obrigatoriamente, possuir 
+AVCB, devendo ser aplicadas ao proprietário ou responsável pelo uso as sanções 
+previstas no Decreto Estadual nº 44.746/2008, caso seja constatado seu funcionamento 
+sem o respectivo AVCB; 
+4.2.1. Caso todas as medidas da loja âncora estejam contempladas no PSCIP geral, não 
+será exigido AVCB específico para sua área privativa;  
+4.3. O nome do profissional que constará no AVCB das lojas âncoras será o responsável 
+técnico pela instalação das medidas de segurança em sua área privativa e sua validade 
+deverá ser sempre a mesma do AVCB emitido para a área total da edificação; 
+4.4.  Os estabelecimentos com ocupação referente à reunião de público, deverão 
+obrigatoriamente possuir AVCB, cuja validade será de 03 anos, com exceção dos 
+estabelecimentos destinados a refeição que se enquadrem como lojas satélites; 
+4.5. O AVCB das lojas âncoras deverá possuir a informação do número do PSCIP Geral 
+e o número da loja para identificação, devendo constar no campo “observação” que se 
+trata de loja âncora.  
+ 
+5. CASOS EM QUE SERÁ OBRIGATÓRIA A MODIFICAÇÂO DO PSCIP GERAL DA 
+EDIFICAÇÃO E/OU DA LOJA ÂNCORA: 
+5.1. Acréscimo 
+de 
+área 
+e 
+outras 
+alterações 
+na 
+edificação 
+que 
+impliquem 
+redimensionamento ou acréscimo de medidas de segurança na edificação; 
+5.2.  As mudanças de leiaute e interligação de duas ou mais lojas que resultem em 
+modificação do PSCIP geral, devido à alteração na rota de fuga ou na área comum da 
+edificação; 
+5.3.  Sempre que a mudança de leiaute, divisão e interligação de estabelecimentos altere 
+as características das lojas, de forma a necessitar de sistema de hidrante em seu interior 
+ou de proteção por dois pontos ou mais de tomada de água de hidrantes instalados na 
+área comum.  
+ 
+6. SUBSTITUIÇÃO DE PSCIP GERAL 
+6.1. Substituição Total
+
+--- PÁGINA 6 ---
+6.1.1. Será considerada substituição total do PSCIP Geral, somente se houver mudança 
+de todo o PSCIP das lojas âncoras existentes na edificação; 
+6.1.2. Deverá ser protocolado adotando-se os mesmos procedimentos para sua 
+aprovação inicial, tanto para análise quanto vistoria. Deverá ainda ser observada a 
+legislação específica para cobrança das taxas para modificação de PSCIP; 
+6.1.3. No caso de substituição total, o PSCIP Geral deverá conter todas as medidas de 
+segurança das lojas âncoras. Caso não haja empreendimento em atividade na área 
+privativa da loja âncora, poderá ser apresentado PSCIP específico posteriormente à 
+aprovação da substituição total do PSCIP Geral, devendo-se observar o item 4.2 desta 
+circular; 
+6.1.4. Após a aprovação em vistoria decorrente de substituição total do PSCIP geral, 
+deverá ser emitido novo AVCB referente à área total da edificação com nova validade.  
+6.2. Substituição Parcial  
+6.2.1. A modificação de todas as plantas do PSCIP Geral será considerada substituição 
+parcial, desde que não enseje alteração de todas as plantas de todas lojas âncoras. Neste 
+caso será considerada como substituição total; 
+6.2.1.1. Caso o PSCIP Geral tenha alteração em todas as plantas e não haja alterações 
+nos PSCIP das lojas âncoras, os PSCIP das lojas âncoras não precisam ser modificados, 
+desde que o responsável técnico conste nota em planta com esta informação; 
+6.2.2. A documentação deverá ser apresentada referente à área modificada na 
+edificação. Após a aprovação em análise, a área modificada da edificação será vistoriada 
+para fins de emissão de AVCB; 
+6.2.3. Caso seja verificada a conformidade da área modificada com o respectivo PSCIP, 
+e, durante a vistoria, for constatada qualquer irregularidade na área restante da 
+edificação, a equipe deverá acionar fiscalização posterior e imediata na edificação, não 
+impedindo que o SSCIP emita o AVCB referente à modificação. Neste caso, será emitido 
+AVCB para a área total da edificação com mesma validade do AVCB anterior; 
+6.2.4. Havendo irregularidades na área modificada, após as correções o solicitante 
+deverá recolher a taxa proporcional a área irregular verificada na área modificada, 
+observando-se o valor mínimo da taxa de vistoria; 
+ 
+ 
+7. SUBSTITUIÇÃO DE PSCIP DAS LOJAS ÂNCORAS 
+7.1. Caso a modificação no PSCIP da loja decorra de alteração que afete a área comum 
+da edificação ou transforme lojas satélites em âncoras, o PSCIP geral da edificação deve 
+ser modificado antes da aprovação do PSCIP da loja âncora;
+
+--- PÁGINA 7 ---
+7.1.1. Neste caso, deverá ser apresentada uma substituição do PSCIP geral que 
+englobará a área e medidas de segurança dos estabelecimentos alterados; 
+7.2.  Para a substituição total deverão ser adotados os mesmos procedimentos para sua 
+aprovação inicial, tanto para análise quanto vistoria, inclusive cobrança de taxas;  
+7.3.  Para substituição parcial, após sua aprovação, o SSCIP realizará vistoria apenas na 
+área modificada da loja. Havendo irregularidade no restante da área, deverá ser acionada 
+fiscalização posterior e imediata, não impedindo a emissão do AVCB referente à 
+modificação; 
+7.4. O AVCB decorrente da modificação de PSCIP de loja deverá ter sua validade 
+vinculada à validade do AVCB da edificação, devendo-se observar os prazos dos AVCB 
+dos estabelecimentos destinados a reunião de público. 
+ 
+8. ORGANIZAÇÃO E ARQUIVAMENTO DOS PSCIP 
+8.1. O SSCIP deverá destinar, preferencialmente, armários de aço de gaveta, para 
+acondicionar os PSCIP de galerias comerciais e shopping center, devendo o PSCIP geral 
+estar em gaveta separada dos PSCIP das lojas âncoras;  
+8.2. Para os PSCIP das lojas âncoras, deverá ser dado o mesmo número do PSCIP geral 
+com a informação complementar do número da loja; 
+8.3. No caso de substituição parcial de PSCIP, a documentação (inclusive plantas) 
+substituída deverá ser removida e colocada ao término do PSCIP, devendo conter a 
+informação “SUBSTITUÍDO EM __/__/__” sobre cada folha. A nova documentação deverá 
+ser colocada no lugar das folhas substituídas, sendo necessário, desta forma, realizar 
+nova autuação do PSCIP; 
+8.4. Quando se tratar de substituição total, o PSCIP substituído deverá conter a 
+informação “SUBSTITUÍDO EM __/__/__” sobre cada folha e ser acondicionado na 
+mesma gaveta do novo PSCIP, sendo que no caso dos PSCIP das lojas âncoras os 
+PSCIP devem ser grampeados um ao outro, sempre que possível; 
+8.5. Havendo necessidade, o SSCIP poderá solicitar pasta AZ para acondicionar todos os 
+documentos e plantas substituídas do PSICP geral, assim como para o PSCIP das lojas 
+âncoras. Estas pastas AZ serão arquivadas juntamente com os respectivos PSCIP 
+modificados.  
+9. DISPOSIÇÕES GERAIS 
+9.1. Para os mezaninos dos estabelecimentos destinados à atividade com presença de 
+público externo (não caracterizado como uso restrito), deverão estar projetados no PSCIP 
+Geral e instalados para verificação em vistoria: extintores, sinalização e iluminação de
+
+--- PÁGINA 8 ---
+emergência. O sistema de hidrantes instalado na área comum deverá atender ao 
+caminhamento até o ponto mais distante do mezanino; 
+9.2. Não sendo possível instalar as medidas de segurança na área comum, de forma a 
+proteger as lojas satélites, deverá ser projetada e instalada cada medida dentro das 
+respectivas lojas. Neste caso não poderá ser apresentado PSCIP específico para cada 
+loja, somente um único PSCIP Geral abrangendo toda a área da edificação; 
+9.3. Para as ocupações mistas deverão ser adotados os procedimentos previstos nesta 
+circular apenas em relação às ocupações C2 e C3, não sendo permitida a aprovação 
+parcial das áreas, tanto em análise quanto em vistoria; 
+9.4. Para as edificações com análise e vistoria em andamento, poderão ser adotados os 
+procedimentos previstos na IT 01, não sendo permitida a vistoria apenas para a área 
+comum, nem apresentação de PSCIP para cada loja, devendo o PSCIP geral prever 
+todas as medidas da edificação; 
+9.5. Serão considerados como lojas âncoras os estabelecimentos destinados às 
+ocupações destinadas a local de reunião de público, ainda que não possuam sistema de 
+hidrantes em seu interior;  
+9.5.1. Para estes estabelecimentos deverá ser apresentado, obrigatoriamente, PSCIP 
+específico e a validade de seu AVCB será de 03 anos; 
+9.5.2. Os estabelecimentos destinados a refeições somente serão considerados loja 
+âncora se houver necessidade de instalação de sistema de hidrante em seu interior ou se 
+for protegido por mais de um ponto de tomada de água localizados na área comum. Para 
+estes estabelecimentos o AVCB terá a mesma validade do AVCB da edificação; 
+9.6. Para o funcionamento dos estabelecimentos que possuem AVCB específico, 
+independentemente de sua validade, o AVCB da edificação deverá estar regular. 
+ 
+Belo Horizonte, 07 de Maio de 2010 
+ 
+ 
+ALTAMIR PENIDO DA SILVA, TENENTE CORONEL 
+DIRETOR DE ATIVIDADES TÉCNICAS

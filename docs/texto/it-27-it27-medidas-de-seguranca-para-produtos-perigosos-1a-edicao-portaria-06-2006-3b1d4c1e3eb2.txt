@@ -1,0 +1,746 @@
+--- PÁGINA 1 ---
+IT - 27 
+MEDIDAS  DE SEGURANÇA PARA PRODUTOS PERIGOSOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ANEXOS 
+1 – Objetivo 
+ 
+A - Tabela de incompatibilidade entre 
+produtos 
+2 – Aplicação 
+ 
+B - Programa de matérias 
+3 – Referências normativas e bibliográficas 
+ 
+ 
+4 – Definições 
+ 
+ 
+5 – Procedimentos 
+ 
+ 
+6 – Exigências complementares
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 27 
+ 
+   
+ 
+ 
+MEDIDAS DE SEGURANÇA PARA 
+PRODUTOS PERIGOSOS 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.b  r
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+Esta Instrução Técnica estabelece os parâmetros de 
+segurança à edificação e área que contenha Produtos 
+Perigosos, atendendo ao previsto no Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais. 
+ 
+ 
+2  APLICAÇÃO 
+ 
+2.1 Esta Instrução Técnica aplica-se às edificações e/ou 
+áreas de risco que produzam, manipulam ou armazenem 
+Produtos 
+Perigosos, 
+sendo 
+que 
+prevalecerão 
+as 
+disposições das Instruções Técnicas 24, 25 e 26.   
+ 
+ 
+3 
+REFERÊNCIAS 
+NORMATIVAS 
+E 
+BIBLIOGRÁFICAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las:  
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+Decreto Federal nº 3.665, de 21 de novembro de 2000. Da 
+nova redação ao Regulamento para Fiscalização de 
+Produtos Controlados (R-105). 
+ 
+Decreto nº 96.044, 18Maio88, Regulamento Federal para 
+o Transporte Rodoviário de Produtos Perigosos. 
+ 
+Resolução CONTRAN nº 38/98, dispõe sobre a 
+Identificação de entradas e saídas de postos de 
+abastecimento de combustíveis, oficinas, estacionamentos 
+e garagens. 
+ 
+Portaria nº 27 de 19 de setembro de 1996 do 
+Departamento Nacional de Combustíveis (atual ANP – 
+Agência Nacional do Petróleo) – Gás Liquefeito de 
+Petróleo. 
+ 
+Portaria 
+nº 
+204/1997-MT. 
+Aprova 
+as 
+Instruções 
+Complementares aos Regulamentos dos transportes 
+Rodoviários e Ferroviários de Produtos Perigosos 
+(Suplemento ao Diário Oficial da União de nº 98, de 26 
+de maio de 1997). 
+ 
+Resolução Nº 420 – Agência Nacional de Transportes 
+Terrestres - ANTT – de 12 de fevereiro de 2.004. 
+Instruções 
+complementares 
+ao 
+Regulamento 
+do 
+Transporte terrestre de Produtos Perigosos, no que se 
+referem à identificação de embalagens, acondicionamento 
+e compatibilidade entre produtos; 
+ 
+Resolução Nº 701- Agência Nacional de Transportes 
+Terrestres – ANTT - de 25 de agosto de 2.004, que altera 
+a Resolução N.º 420, de 12 de fevereiro de 2004 em 
+alguns itens específicos. 
+ 
+Norma Regulamentadora nº 5 – Ministério do Trabalho – 
+alterada pela Portaria nº 25, 29 de dezembro de 1994 – 
+Comissão Interna de Prevenção de Acidentes –CIPA. 
+ 
+Norma Regulamentadora nº 6 – Ministério do Trabalho – 
+Equipamentos de Proteção Individual - EPI. 
+ 
+Norma Regulamentadora nº 9 - Ministério do Trabalho - 
+Programa de Prevenção de Riscos Ambientais.   
+ 
+Norma Regulamentadora nº 15 – Ministério do Trabalho 
+– Atividades e operações insalubres. 
+ 
+Norma Regulamentadora nº 16 – Ministério do Trabalho 
+– alterada pelas Portarias nº 026 de 02 de agosto de 2000 
+e nº 545 de 10 de julho de 2000 – Atividades e Operações 
+Perigosas. 
+ 
+Norma Regulamentadora nº 19 – Ministério do Trabalho 
+– Explosivos.  
+ 
+Norma Regulamentadora n.º 20 – Ministério do Trabalho 
+– Líquidos combustíveis e inflamáveis.
+
+--- PÁGINA 3 ---
+Norma Regulamentadora nº 23 – Ministério do Trabalho 
+– Proteção contra incêndios. 
+ 
+Norma Regulamentadora nº 26 – Ministério do Trabalho 
+– Sinalização de segurança, 
+ 
+NBR 5382 – Verificação de Iluminância de Interiores. 
+ 
+NBR 5413 – Iluminância de Interiores.  
+ 
+NBR 12235 – Armazenamento de resíduos sólidos. 
+ 
+NBR 6493 – Emprego de cores para identificação de 
+tubulações. 
+ 
+NBR 7195 – Cores de segurança. 
+ 
+NBR 10898 – Sistema de Iluminação de emergência. 
+ 
+NBR 9734 – Conjunto de Equipamentos para avaliação 
+de emergência e fuga no transporte rodoviário de 
+produtos perigosos. 
+ 
+NBR 12710 – Proteção contra incêndio por extintores no 
+transporte de produtos perigosos. 
+ 
+NBR 7501 – Transporte Terrestre de Produtos Perigosos 
+– Terminologia. 
+ 
+NBR 14064 – Atendimento a emergência no transporte 
+terrestre de produtos perigosos. 
+ 
+NBR 14.619 – Transporte Terrestre de Produtos 
+Perigosos – Incompatibilidade química. 
+ 
+NBR 14095 - Área de estacionamento para veículo 
+rodoviário de transporte de produtos perigosos. 
+ 
+NBR 7500 – Identificação para o transporte terrestre, 
+manuseio, movimentação e armazenamento de produtos. 
+ 
+NBR 7503 - Ficha de Emergência e envelope para o 
+transporte 
+terrestre 
+de 
+Produtos 
+Perigosos 
+– 
+Características, dimensões e preenchimento. 
+ 
+NBR 
+9735 
+– 
+Conjunto 
+de 
+Equipamentos 
+para 
+emergências no transporte terrestre de produtos perigosos. 
+ 
+NBR 10004 – Resíduos Sólidos – Classificação. 
+ 
+CNEN-NE 
+6.02 
+– 
+Licenciamento 
+de 
+Instalações 
+radiativas. 
+ 
+CNEN-NE 
+1.04 
+– 
+Licenciamento 
+de 
+instalações 
+nucleares. 
+ 
+CNEN-NN 6.04 – Funcionamento de serviços de 
+radiografia Industrial. 
+ 
+CNEN-NE 2.04 – Proteção contra incêndio em 
+instalações nucleares do ciclo do combustível. 
+ 
+CNEN-NN 2.03 – Proteção contra incêndio em Usinas 
+Nucleoelétricas. 
+ 
+National Fire Protection Association, NFPA 801 ,  Fire 
+Protection for Facilities Handling Radioativite Materials, 
+1998 edition.  
+ 
+FUNDACENTRO (Fundação Jorge Duprat Figueiredo de 
+Segurança e Medicina do Trabalho) - Ministério do 
+Trabalho - Introdução à Engenharia de Segurança de 
+Sistemas, 4ª edição, 1994. 
+ 
+National Fire Protection Association, Fire Protection 
+Handbook, 18th  edition, 1997. 
+ 
+ 
+4 DEFINIÇÕES 
+ 
+Para efeito desta Instrução Técnica, aplicam-se as 
+definições constantes da IT 02 - Terminologia de proteção 
+contra incêndio e Pânico e os glossários das normas 
+CNEN-NN 2.03 e CNEN-NE 2.04. 
+ 
+ 
+5 PROCEDIMENTOS 
+ 
+5.1 Características Gerais 
+ 
+5.1.1 O funcionamento das edificações com áreas 
+reservadas para manipulação, estoque e movimentação 
+interna de produtos perigosos fica condicionado à 
+autorização e fiscalização dos órgãos competentes para 
+expedição do alvará de funcionamento, após o Processo 
+de Proteção Contra Incêndio ter sido aprovado pelo Corpo 
+de Bombeiros Militar do Estado de Minas Gerais. 
+ 
+5.2 Distância internas  
+ 
+Deve ser mantida uma distância mínima entre as áreas 
+com a presença de produtos perigosos de pelo menos 
+quatro metros das demais edificações. Deve haver a 
+construção de canaletas de coleta e contenção em número 
+suficiente para garantir o abandono das pessoas e a 
+intervenção das guarnições do Corpo de Bombeiros. 
+5.2.1 A canaleta de coleta e contenção deve ser executada 
+de forma a não permitir a mistura de produtos 
+incompatíveis. 
+5.2.2 Para o armazenamento de produtos perigosos deve-
+se observar o contido no anexo A (Tabela de 
+incompatibilidade entre produtos). Neste caso os produtos 
+deverão ser armazenados em locais diferentes ou a 
+distâncias seguras, admitindo-se ainda, a utilização de 
+dispositivos que impeçam que um produto entre em 
+contato com outro, tais como baias e bacias de contenção. 
+5.2.3 Para substâncias não descritas na tabela A, será 
+analisado cada caso específico. 
+5.3 Instalação 
+ 
+Para todas as classes de produtos perigosos devem ser 
+previstas guaritas externas à edificação em área mais 
+afastada junto ao perímetro externo, de fácil acesso, com 
+Equipamentos de Proteção Individual (EPI), conforme
+
+--- PÁGINA 4 ---
+classificação e utilização previstas na NBR 9734 para 
+atuação em caso de emergência. Além de indicação do 
+tipo de EPI mais adequado, deverá haver as fichas de 
+emergências (NBR 7503) dos produtos manipulados na 
+edificação. 
+5.3.1 Nas edificações que recebem caminhões-tanque ou 
+contêineres-tanque em seus pátios internos devem ser 
+previstos pelo menos uma vaga para estacionamento de 
+veículo com vazamento para controle e contenção do 
+produto transportado, conforme previsto na NBR 14095. 
+ 
+5.4 Área identificada 
+ 
+A área da edificação que contenha Produtos Perigosos 
+deve ser restrita de tal forma que impeça o acesso de 
+pessoas não autorizadas. 
+5.4.1 A brigada de incêndio deve também ser treinada nas 
+primeiras ações emergenciais envolvendo produtos 
+perigosos, tendo como base o currículo do curso constante 
+no Anexo B, com o mínimo de 06 horas/aula teóricas e 
+práticas sobre produtos perigosos, acrescidas no programa 
+de treinamento de brigada de combate a incêndio.  
+ 
+5.5 Condições específicas para gases perigosos 
+ 
+5.5.1 As classes de armazenagem de gases perigosos 
+devem possuir as mesmas proteções ativa e passiva 
+determinadas pela IT 23 - Manipulação, Armazenamento, 
+comercialização e utilização de gás liquefeito de petróleo 
+(GLP), desde que tenham riscos primário ou subsidiário 
+de inflamabilidade. 
+5.5.2 A classificação de áreas de armazenagem obedecem 
+ao mesmo critério da IT 23. 
+5.5.3 Os locais que armazenem no mínimo 250 kg de 
+gases infectantes, tóxicos ou corrosivos devem ser 
+observados os seguintes requisitos: 
+a) possuir ventilação natural; 
+b) estar o recipiente protegido do sol, da chuva e da 
+umidade; 
+c) estar o recipiente afastado de outros gases envasados, 
+no mínimo 20 metros, caso haja incompatibilidade entre 
+os mesmos; 
+d) estar afastado, no mínimo, de 1,5 m de ralos, caixas de 
+gordura e de esgotos, bem como de galerias subterrâneas 
+e similares, quando possuírem peso específico maior que 
+“1”. 
+5.5.4 Os locais de armazenamento classificados, de 
+acordo com a IT 23, devem estar afastados no mínimo 
+150 metros de locais de reunião de público, escolas, 
+hospitais e habitações unifamiliares, no caso de gases 
+infectantes, tóxicos e corrosivos com limite de tolerância 
+abaixo de 500 mg/kg. 
+5.5.5 Em todas as classes de instalações fixas de gases 
+deve-se adotar o painel de segurança e rótulo de risco, 
+especificados por meio da NBR 7500. 
+ 
+5.6 Instalações nucleares ou radiativas 
+5.6.1 Estas instalações devem obedecer ao Regulamento 
+de Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais no que couber, 
+além das exigências específicas das normas do CNEN. 
+5.6.2 Na solicitação de vistoria para emissão do AVCB, 
+deverá ser apresentado a autorização de funcionamento 
+expedida pelo CNEN, de acordo com as normas CNEN-
+NE 1.04, 6.02 e CNEN-NN 6.04. 
+ 
+5.7 Sistema de contenção e drenagem 
+ 
+5.7.1 A ocupação com a presença de produtos perigosos 
+em estado líquido deve ser contornada por uma canaleta 
+de contenção, que, interligadas entre si, conduzem a um 
+tanque de contenção. As canaletas de drenagem devem 
+ser revestidas com material impermeável, compatível com 
+os produtos, com as dimensões mínimas de 0,2 m de 
+largura por 0,15 m de profundidade, com inclinação para 
+o tanque de contenção de modo a permitir um rápido 
+escoamento do líquido ou das águas residuais de combate 
+a incêndio ou rescaldo. 
+5.7.2 No caso de acúmulo de líquido, a mistura só pode 
+ser retirada do tanque por meio de bomba a ar 
+comprimido, antiexplosão e corrosão, e compatível com o 
+produto a ser bombeado. 
+5.7.3 A canaleta de contenção deve ser construída em 
+nível com caixa sifonada, de forma a impedir que o 
+produto contido escoe para outras canaletas, evitando, em 
+caso de incêndio ou contaminação que os riscos se 
+propaguem para outra edificação e/ou áreas de risco.  
+5.7.4 A canaleta deve receber grade, de forma a impedir o 
+assoreamento e resistir à passagem de veículos em 
+harmonia com a IT 04 - Acesso de viaturas na edificação 
+e área de risco. 
+5.7.5 A bacia de contenção deve possuir um volume que 
+possa abrigar o líquido e o agente extintor durante 30 
+minutos de combate ao sinistro, demonstrado em planílha 
+de cálculos, levando-se em consideração as taxas de 
+aplicação de espuma especifica para o produto. 
+ 
+5.8 Iluminação 
+ 
+O sistema elétrico deve ser todo blindado e garantir uma 
+boa visibilidade em toda a área, inclusive quando for 
+acionada a iluminação de emergência, privilegiando-se os 
+locais de guarda dos equipamentos de proteção 
+individual, materiais de controle de vazamentos e rotas de 
+fuga ( NBR 5413, 5382 e 10898 ). 
+ 
+5.9 Equipamentos de proteção individual (EPI) 
+ 
+O número de conjuntos EPI deve ser igual ao número de 
+pessoas habilitadas e credenciadas a lidar com os 
+produtos. O conjunto EPI consiste em: 
+a) luvas para produtos perigosos em cano longo;  
+b) capacetes de boa resistência; 
+c) máscara panorâmica com filtro para o produto ou 
+polivalente ou EPR, de acordo com o tipo de proteção 
+exigido; 
+d) roupas para ações de controle de vazamentos (nível A, 
+B ou C), conforme casos mais extremos, com alto grau de 
+risco de contaminação de pele e respiratória; 
+e) botas para uso em produtos perigosos.  
+ 
+Nota. O fabricante dos produtos perigosos deverá indicar 
+o tecido e/ou o material do EPI compatível com os 
+produtos, para melhor segurança dos usuários. Os EPI 
+deverão ser certificados com fé pública por órgão de 
+certificação nacional.
+
+--- PÁGINA 5 ---
+Deve-se observar o contido na NBR 9734 para a seleção 
+de EPI a ser utilizado em caso de acidentes conforme 
+cada tipo de produto envolvido. Em caso de se ter mais de 
+um produto armazenado ou manipulado no local, deverão 
+ser observadas as características daquele que oferecer 
+maior risco. 
+ 
+5.10 Sinalização 
+ 
+Além da sinalização de paredes e pilares para a fácil 
+localização dos sistemas ativo e passivo de prevenção e 
+combate a incêndios, o gerente de logística de produtos 
+perigosos deve reunir todas as informações necessárias 
+para estabelecer o diagnóstico da situação, para serem 
+expressas em um Plano de Intervenção de Incêndio, 
+conforme IT 11, sob a orientação do Comandante da 
+Unidade e/ou Fração de Bombeiros responsável pela área 
+da edificação, contemplando: 
+a) identificação dos riscos existentes conforme mapa de 
+riscos físicos, químicos e biológicos expressos na Portaria 
+nº 25, de 29dez94 do Ministério do Trabalho; 
+b) identificar com círculos coloridos os riscos físicos, 
+químicos e biológicos de acordo com sua grandeza; 
+c) indicar o número de trabalhadores expostos aos riscos, 
+e o tempo de evasão da edificação; 
+d) anexar ao PPI os nomes técnicos e comerciais dos 
+produtos perigosos, com suas respectivas Fichas de 
+Emergência (NBR 7503) e seu local de armazenamento e 
+estoque; 
+e) seguir as orientações sobre sinalização e rotulagem de 
+embalagens externas e internas para acondicionamento de 
+produtos, conforme o capítulo 8, da Portaria 204 do 
+Ministério dos Transportes, com seus respectivos ensaios 
+de manuseio; e 
+f) pintar todas tubulações externas na edificação de 
+acordo com o produto na qual ela é utilizada (NBR6493). 
+ 
+ 
+6. EXIGÊNCIAS COMPLEMENTARES 
+ 
+6.1 O armazenamento de produtos perigosos deve ocorrer 
+em local com características de segurança específicas tais 
+como: 
+a)  construído com pelo menos uma de suas paredes 
+voltadas para o exterior da edificação; 
+b) possuir janelas na parede voltada para o exterior, além 
+de porta para o acesso do Corpo de Bombeiros de houver 
+necessidade;  
+c) saída de emergência bem localizada e sinalizada;  
+d) sistema de exaustão, ao nível do teto para retirada de 
+vapores leves e ao nível do solo para retirada dos vapores 
+mais pesados; 
+e) refrigeração ambiental caso a temperatura ambiente 
+ultrapasse a 38 ºC; e 
+f) iluminação feita com lâmpadas à prova de explosão. 
+ 
+6.2 Os cilindros de gases devem ser armazenados em 
+locais específicos: 
+a) área coberta e bem ventilada; 
+b) na posição vertical e amarrados com corrente; e 
+c) deve-se observar a compatibilidade dos gases a serem 
+armazenados no mesmo local.  
+ 
+6.3 O armazenamento de produtos químicos em 
+laboratório só é permitido em pequenas quantidades, 
+portanto deve ser: 
+a)  somente para quantidades limitadas; 
+b) os armários devem ser confeccionados em materiais 
+não combustíveis, com portas em vidro para possibilitar a 
+visão de seu conteúdo; 
+c)  refrigeração ambiental caso a temperatura ambiente 
+ultrapasse a 38 ºC; 
+d) o laboratório deve possuir um sistema de identificação 
+das substâncias armazenadas, como por exemplo, um 
+sistema de fichas contendo informações a respeito da 
+natureza das substâncias, volume, incompatibilidade 
+química, dentre outras. 
+ 
+6.4 É vedado a presença de animais, alimentos e 
+medicamentos de consumo humano e animal junto com 
+produtos perigosos, salvo se houver compatibilidade entre 
+os produtos.
+
+--- PÁGINA 6 ---
+ANEXO A 
+Tabela de incompatibilidade entre produtos 
+ 
+  Substâncias 
+                                      Incompatível com 
+Acetileno 
+Cloro, bromo, flúor, cobre, prata, mercúrio. 
+Acetona 
+Bromo, cloro, ácido nítrico e ácido sulfúrico. 
+Ácido Acético 
+Etileno glicol, compostos contendo hidroxilas, óxido de cromo IV, ácido nítrico, ácido 
+perclórico, peróxidios, permanganatos e peróxidos, permanganatos e peroxídos, ácido 
+acético, anilina, líquidos e gases combustíveis. 
+Ácido Cianídrico 
+Álcalis e ácido nítrico. 
+Ácido Crômico [Cr (VI)] 
+Ácido acético glacial, anidrido acético, álcoois, matéria combustível, líquidos, glicerina, 
+naftaleno, ácido nítrico, éter de petróleo, hidrazina.  
+Ácido Fluorídrico 
+Amônia, (anidra ou aquosa). 
+Ácido Fórmico 
+Metais em pó, agentes oxidantes. 
+Ácido Nítrico (concentrado) 
+Ácido acético, anilina, ácido crômico, líquido e gases inflamáveis, gás cianídrico, 
+substâncias nitráveis. 
+Ácido Nítrico 
+Álcoois e outras substâncias orgânicas oxidáveis, ácido iodídrico, magnésio e outros 
+metais, fósforo e etilfeno, ácido acético, anilina óxido Cr(IV), ácido cianídrico. 
+Ácido Oxálico 
+Prata, sais de mercúrio prata, agentes oxidantes. 
+Ácido Perclórico 
+Anidrido acético, álcoois, bismuto e suas ligas, papel, graxas, madeira, óleos ou qualquer 
+matéria orgânica, clorato de potássio, perclorato de potássio, agentes redutores. 
+Ácido Pícrico 
+Amônia aquecida com óxidos ou sais de metais pesados e fricção com agentes oxidantes.
+Ácido Sulfídrico 
+Ácido nítrico fumegante ou ácidos oxidantes, cloratos, percloratos e permanganatos de 
+potássio. 
+Água 
+Cloreto de acetilo, metais alcalinos terrosos seus hidretos e óxidos, peróxido de bário, 
+carbonetos, ácido crômico, oxicloreto de fósforo, pentacloreto de fósforo, pentóxido de 
+fósforo, ácido sulfúrico e trióxido de enxofre, etc. 
+Alumínio e suas ligas 
+(principalmente em pó) 
+Soluções ácidas ou alcalinas, persulfato de amônio e água, cloratos, compostos clorados 
+nitratos, Hg, Cl, hipoclorito de Ca, I2, Br2 HF.  
+Amônia 
+Bromo, hipoclorito de cálcio, cloro, ácido fluorídrico, iodo, mercúrio e prata, metais em 
+pó, ácido fluorídrico. 
+Amônio Nitrato 
+Ácidos, metais em pó, substâncias orgânicas ou combustíveis finamente divididos. 
+Anilina 
+Ácido nítrico, peróxido de hidrogênio, nitrometano e agentes oxidantes. 
+Bismuto e suas ligas 
+Ácido perclórico. 
+Bromo 
+ Acetileno, amônia, butadieno, butano e outros gases de petróleo, hidrogênio, metais 
+finamente divididos, carbetos de sódio e terebentina.  
+Carbeto de Cálcio ou de Sódio 
+Umidade (no ar ou água).
+
+--- PÁGINA 7 ---
+Carvão Ativo 
+Hipoclorito de cálcio, oxidantes. 
+Cianetos 
+Ácidos e álcalis, agentes oxidante, nitritos Hg (IV) nitratos. 
+Cloratos e Percloratos 
+Ácidos, alumínio, sais de amônio, cianetos, ácidos, metais em pó, enxofre,fósforo, 
+substâncias orgânicas oxidáveis ou combustíveis, açúcar e sulfetos. 
+Cloratos 
+ou 
+Percloratos 
+de 
+Potássio 
+Ácidos ou seus vapores, matéria combustível, (especialmente solventes orgânicos), 
+fósforo e enxofre. 
+Cloratos de Sódio 
+Ácidos, sais de amônio, matéria oxidável, metais em pó, anidrido acético, bismuto, 
+álcool pentóxido, de fósforo, papel, madeira. 
+Cloreto de Zinco 
+Ácidos ou matéria orgânica. 
+Cloro 
+Acetona, acetileno, amônia, benzeno, butadieno, butano e outros gases de petróleo, 
+hidrogênio, metais em pó, carboneto de sódio e terebentina. 
+Cobre 
+Acetileno, peróxido de hidrogênio. 
+Cromo IV Óxido 
+Ácido acético, naftaleno, glicerina, líquidos combustíveis. 
+Dióxido de Cloro 
+Amônia, sulfeto de hidrogênio, metano e fosfina. 
+Flúor 
+Maioria das substâncias (armazenar separado). 
+Enxofre 
+Qualquer matéria oxidante. 
+Fósforo 
+Cloratos e percloratos, nitratos e ácido nítrico, enxofre. 
+Fósforo Branco 
+Ar (oxigênio) ou qualquer matéria oxidante. 
+Fósforo vermelho 
+Matéria oxidante. 
+Hidreto de Lítio e Alumínio 
+Ar, hidrocarbonetos cloráveis, dióxido de carbono, acetato de etila e água. 
+Hidrocarbonetos (benzeno, butano, 
+gasolina, propano, terebentina, etc) Flúor, cloro, bromo, peróxido de sódio, ácido crômico, peróxido de hidrogênio. 
+Hidrogênio Peróxido 
+Cobre, cromo, ferro, álcoois, acetonas, substâncias combustíveis. 
+Hidroperóxido de Cumeno 
+Ácidos (minerais ou orgânicos). 
+Hipoclorito de Cálcio 
+Amônia ou carvão ativo. 
+Iodo 
+Acetileno, amônia, (anidra ou aquosa) e hidrogênio. 
+Líquidos inflamáveis 
+Nitrato de amônio, peróxido de hidrogênio, ácido nítrico, peróxido de sódio, halogênios.
+Lítio 
+Ácidos, umidade no ar e água.
+Magnésio (principal/em pó) 
+Carbonatos, cloratos, óxidos ou oxalatos de metais pesados (nitratos, percloratos, 
+peróxidos fosfatos e sulfatos). 
+Mercúrio 
+Acetileno, amônia, metais alcalinos, ácido nítrico com etanol, ácido oxálico.
+
+--- PÁGINA 8 ---
+Metais Alcalinos e Alcalinos 
+Terrosos (Ca, Ce, Li, Mg, K, Na) 
+Dióxido de carbono, tetracloreto de carbono, halogênios, hidrocarbonetos clorados e 
+Água. 
+Nitrato 
+Matéria combustível, ésteres, fósforo, acetato de sódio, cloreto estagnoso, água e zinco 
+em pó. 
+Nitrato de amônio 
+Ácidos, cloratos, cloretos, chumbo, nitratos metálicos, metais em pó, compostos 
+orgânicos, metais em pó, compostos orgânicos combustíveis finamente divididos, 
+enxofre e zinco.  
+Nitrito 
+Cianeto de sódio ou potássio. 
+Nitrito de Sódio 
+Compostos de amônio, nitratos de amônio ou outros sais de amônio. 
+Nitro-parafinas 
+Álcoois inorgânicos. 
+Óxido de Mercúrio 
+Enxofre. 
+Oxigênio 
+(líquido 
+ou 
+ar 
+enriquecido com O2) 
+Gases inflamáveis, líquidos ou sólidos como acetona, acetileno, graxas, hidrogênio, 
+óleos, fósforo. 
+Pentóxido de Fósforo 
+Compostos orgânicos, água. 
+Perclorato 
+de 
+Amônio, 
+Permanganato ou Persulfato 
+Materiais combustíveis, materiais oxidantes tais como ácidos, cloratos e nitratos. 
+Permanganato de Potássio 
+Benzaldeído, 
+glicerina, 
+etilenoglicol, 
+ácido 
+sulfúrico, 
+enxofre, 
+piridina, 
+dimetilformamida, ácido clorídrico, substâncias oxidáveis. 
+Peróxidos 
+Metais pesados, substâncias oxidáveis, carvão ativado, amoníaco, aminas, hidrazina, 
+metais alcalinos. 
+Peróxidos (orgânicos) 
+Ácido (mineral ou orgânico). 
+Peróxido de Bário 
+Compostos orgânicos combustíveis, matéria oxidável e água. 
+Peróxido de Hidrogênio 3% 
+Crômio, cobre, ferro, com a maioria dos metais ou seus sais, álcoois, acetona, substância 
+orgânica. 
+Peróxido de Sódio 
+Ácido acético glacial, anidrido acético, álcoois benzaldeído, dissulfeto de carbono, 
+acetato de etila, etileno glicol, furfural, glicerina, acetato de etila e outras substâncias 
+oxidáveis, metanol, etanol. 
+Potássio 
+Ar (unidade e/ou oxigênio) ou água. 
+Prata 
+Acetileno, compostos de amônia, ácido nítrico com etanol, ácido oxálico e tartárico. 
+Zinco em pó 
+Ácidos ou água. 
+Zircônio (principal/em pó) 
+Tetracloreto de carbono e outros carbetos, pralogenados, peróxidos, bicarbonato de sódio 
+e água.
+
+--- PÁGINA 9 ---
+Programa de Matérias 
+ 
+1. IDENTIFICAÇÃO E CLASSIFICAÇÃO DOS PRODUTOS PERIGOSOS 
+1.1 Rótulos de Risco 
+1.2 Painéis de segurança 
+1.3 Fichas de Emergências 
+1.4 Manual da ABIQUIM 
+ 
+2. TOXICOLOGIA 
+2.1 Exposições agudas e crônicas 
+2.2 Rotas de exposição 
+2.3 Efeitos das substâncias no organismo  
+ 
+3. EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL 
+3.1 Equipamentos de proteção respiratória 
+3.2 Roupas de proteção 
+3.3 Níveis de proteção 
+ 
+4. AÇÕES EMERGENCIAIS 
+4.1 Identificação 
+4.2 Isolamento 
+4.3 Salvamento 
+4.4 Contenção 
+4.5 Descontaminação

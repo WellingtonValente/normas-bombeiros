@@ -1,0 +1,1862 @@
+--- PÁGINA 1 ---
+[Ano] 
+ 
+ 
+INSTRUÇÃO TÉCNICA Nº 33/2013 – 2ª EDIÇÃO 
+ 
+EVENTOS TEMPORÁRIOS 
+SUMÁRIO 
+1 – Objetivo 
+ 
+ 
+ 
+2 – Aplicação 
+ 
+ 
+ 
+3 – Referências Normativas e Bibliográficas 
+4 – Definições   
+5 – Classificação dos eventos temporários 
+6 – Responsabilidades 
+7 – Planejamento do evento 
+8 – Gerenciamento de público 
+9 – Saídas de emergência 
+10 – Estruturas temporárias 
+11 – Sinalização de emergência 
+12 – Iluminação de emergência 
+13 – Instalações elétricas 
+14 – Espetáculos pirotécnicos e efeitos especiais  
+15 - Trios elétricos  
+16 – Parques de diversões 
+17 – Brigada de incêndio 
+18 – Plano de intervenção 
+19 – Atendimento pré-hospitalar 
+20 – Procedimentos  
+21 – Prescrições diversas 
+ANEXOS 
+ANEXO A - Declaração para evento de risco mínimo 
+ANEXO B - Laudo Técnico de Segurança contra Incêndio e Pânico – Evento de Risco Baixo 
+ANEXO C - Modelos de ofício-resposta  
+ 
+ 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+Av. Augusto de Lima, 355 - Centro, Belo Horizonte - MG, CEP 30.190-000 
+www.bombeiros.mg.gov.br
+
+--- PÁGINA 2 ---
+[Ano] 
+1 
+OBJETIVO 
+ 
+Esta Instrução Técnica tem por objetivo estabelecer os requisitos mínimos de segurança necessários para a 
+realização de eventos temporários em áreas públicas ou privadas, edificadas ou não, visando à proteção da 
+vida humana e do patrimônio quanto ao risco de incêndio e pânico. 
+ 
+2 
+APLICAÇÃO 
+ 
+A presente Instrução Técnica aplica-se a todos os recintos situados em edificações permanentes ou 
+construções provisórias, fechados, cobertos ou ao ar livre, onde sejam realizados eventos temporários.  
+2.1 Esta instrução técnica não se aplica: 
+a) aos eventos com previsão de público de até 250 pessoas. 
+b) aos eventos em edificações permanentes que sejam atividades secundárias, sem modificações que 
+alterem a eficiência das medidas de segurança contra incêndio e pânico. 
+c) a feiras e assemelhados, ao ar livre, com previsão de público de até 1.000 pessoas. 
+d) a passeatas e manifestações.  
+2.2 
+Não serão consideradas como eventos temporários as atividades destinadas a confraternizações, festas 
+religiosas, comemorações de datas festivas, festas juninas, competições esportivas, apresentações artístico-
+culturais, artes cênicas, lutas de exibição, artes plásticas, apresentação de música, poesia, literatura e 
+assemelhados, realizadas em edificações permanentes com previsão de público restrito aos seus ocupantes e 
+convidados, em que não há especial interesse público. 
+ 
+3 
+REFERÊNCIAS  
+ 
+3.1 Normativas 
+ 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando-se em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+Lei nº 6.839, de 30 de outubro de 1980 – Dispõe sobre o registro de empresas nas entidades fiscalizadoras do 
+exercício de profissões. 
+Lei nº 10.671, de 15 de maio de 2003 – Estatuto de Defesa do Torcedor. 
+Lei nº 15.778, de 26 de outubro de 2005 – Uso Obrigatório de Aparelho Desfibrilador Cardíaco. 
+Decreto nº 6.795, de 16 de março de 2009 – Regulamenta o art. 23 do Estatuto de Defesa do Torcedor. 
+Instrução Técnica nº 08 – Saída de Emergência em Edificações.  
+Instrução Técnica nº 11 – Plano de Intervenção de Incêndio.  
+Instrução Técnica nº 12 – Brigada de Incêndio.  
+Instrução Técnica nº 13 – Iluminação de Emergência. 
+Instrução Técnica nº 15 – Sinalização de Emergência.  
+Instrução Técnica nº 23 – Manipulação, Armazenamento, Comercialização e Utilização de Gás Liquefeito 
+de Petróleo (GLP) 
+Instrução Técnica nº 25 – Fogos de Artifício e Pirotecnia. 
+Instrução Técnica nº 37 – Centros Esportivos e de Exibição: Requisitos de Segurança Contra Incêndio e 
+Pânico. 
+NBR 9050 – Acessibilidade a Edificações, Mobiliário, Espaços e Equipamentos Urbanos. 
+NBR 9077 – Saídas de Emergências em Edifícios. 
+NBR 10.898 – Sistema de Iluminação de Emergência. 
+NBR 13.434-1 – Sinalização de Segurança Contra Incêndio e Pânico. 
+NBR 13.434-2 – Símbolos Gráficos para Sinalização Contra Incêndio e Antipânico. 
+NBR 13570 – Instalações elétricas em locais de afluência de público – Requisitos específicos. 
+NBR 14.276 – Programa de Brigadas de Incêndios. 
+NBR 14.561 – Veículos para Atendimento a Emergências Médicas e Resgate. 
+NBR 15.219 – Plano de Emergência contra Incêndio – Requisitos.
+
+--- PÁGINA 3 ---
+[Ano] 
+NBR 15.926 – Equipamentos de Parques de Diversão. 
+R-105 – Exército Brasileiro – Regulamento  para a Fiscalização de Produtos Controlados. 
+REG/T 02 – Exército Brasileiro – Fogos de Artifício, Pirotécnicos, Artifícios Pirotécnicos e Artifícios Similares. 
+REG/T 03 – Exército Brasileiro – Espetáculos Pirotécnicos. 
+Resolução nº 232 – CONTRAN, de 30 de março de 2007 - Estabelece procedimentos para a prestação de 
+serviços por Instituição Técnica Licenciada - ITL e Entidade Técnica Pública ou Paraestatal – ETP, para 
+emissão do Certificado de Segurança Veicular - CSV, de que trata o art.106 do Código de Trânsito Brasileiro. 
+Resolução nº 80/2007 – Secretaria de Estado de Saúde e Defesa Civil / RJ – SESDEC – Dispõe sobre as 
+normas gerais de ação para a análise do projeto de atendimento médico e demais procedimentos para 
+obtenção de autorização para realização de eventos especiais com estimativa de público superior a 1 (um) mil 
+pessoas. 
+Portaria nº 2.048, de 05 de novembro de 2002 – Ministério da Saúde – Aprova o Regulamento Técnico dos 
+Sistemas Estaduais de Urgência e Emergência. 
+Portaria nº 1.014/2012 – Secretaria Municipal de Saúde de São Paulo – Estabelece as normas para a 
+elaboração de planos de atenção médica em eventos temporários públicos privados ou mistos na cidade de 
+São Paulo. 
+Resolução nº 1.671/2003 – Conselho Federal de Medicina – CFM – Dispõe sobre a regulamentação do 
+atendimento pré-hospitalar e dá outras providências. 
+Resolução nº 1.980/2011 – Conselho Federal de Medicina – CFM – Fixa regras para cadastro, registro, 
+responsabilidade técnica e cancelamento para as pessoas jurídicas.  
+Decisão normativa nº 52, de 25 de agosto de 1994 – Conselho Federal de Engenharia e Agronomia – Dispõe 
+sobre a obrigatoriedade de Responsável técnico pelas instalações das empresas que exploram parques de 
+diversões. 
+Nota Técnica de Referência em Prevenção Contra Incêndio e Pânico em Estádios e Áreas Afins – Secretaria 
+Nacional de Segurança Pública – 2010. 
+Deliberação Normativa nº 49/2003 do Conselho Municipal do Meio Ambiente – Belo Horizonte. 
+ 
+3.2 
+Referências Bibliográficas  
+ 
+Além das normas e legislações nacionais, foram utilizados como fontes os seguintes trabalhos científicos e 
+normas técnicas internacionais pertinentes ao tema: 
+Code of Practice for Safety at Outdoor Pop Concerts and other outdoor musical event, Statonery Office, 
+Government of Ireland, 1996. 
+Code of Practice for Safety at Indoor Concerts, Statonery Office, Government of Ireland, 1998.  
+Guide to Safety at Sports Grounds (Green Guide), fifth edition, United kingdom, 2008. 
+Static and Dynamic Crowd Densities at Major Public Events. Vereinigung zur FÄrderung des Deutschen 
+Brandschutzes (German Fire Protection Association). Technical Report. 1st Edition. Altenberge, Germany, 
+2012. 
+Managing crowds safely. A guide for organisers at events and venues, second edition. Health Safety Executive 
+(HSE), United Kingdom, 2000.  
+Temporary Demountable Structures. Guidance on procurement, design and use. Third edition, The Institution of 
+Structural Engineers, United Kingdom, 2007.  
+The Causes and Prevention of Crowd Disasters. Fruin, J.. Paper to International Conference on Engineering for 
+Crowd Safety,London, 1993.    
+The Event Saftey Guide, Second edition, Health Safety Executive (HSE), United Kingdom, 1999.  
+The Event Safety Guide. Swedish Civil Contingencies Agency, Sweden, 2011. 
+ 
+4 DEFINIÇÕES  
+ 
+Para entendimento desta Instrução Técnica, aplicam-se as definições abaixo, além daquelas contidas nas 
+referências normativas e na Instrução Técnica nº 02 – Terminologia de proteção contra incêndio e pânico: 
+4.1 Acesso: caminho a ser percorrido pelos usuários do pavimento ou do setor, constituindo a rota de saída
+
+--- PÁGINA 4 ---
+[Ano] 
+para se alcançar uma escada, uma rampa, ou descarga para saída do recinto para um local de segurança ou 
+de relativa segurança. Os acessos podem ser constituídos por corredores, passagens, vestíbulos, balcões, 
+varandas, terraços e similares. 
+4.2 Acesso lateral: é um corredor de circulação paralelo às filas (fileiras) de assentos ou arquibancadas, 
+geralmente possui piso plano ou levemente inclinado (rampa). 
+4.3 Acesso radial: é um corredor de circulação que dá acesso direto na área de acomodação dos 
+espectadores (patamares das arquibancadas), podendo ser inclinado (rampa) ou com degraus. Deve ter 
+largura mínima de 1,20 m.  
+4.4 Assento rebatível: mobiliário que apresenta duas peças principais, encosto e assento. A peça do assento 
+possui características retráteis, seja através de contrapeso ou mola, permanecendo na posição recolhida 
+quando desocupada. 
+4.5 Arquibancada: série de assentos em filas sucessivas, cada uma em plano mais elevado que a outra, em 
+forma de degraus, e que se destina a dar melhor visibilidade aos espectadores, em estádios, anfiteatros, circos, 
+auditórios, etc. Podem ser providas de assentos (cadeiras ou poltronas) ou não.  
+4.6 Barreiras: estruturas físicas destinadas a impedir ou dificultar a livre circulação de pessoas. 
+4.7 Barreiras antiesmagamento: barreiras ou barricadas destinadas a evitar esmagamentos dos 
+espectadores, devido à pressão da multidão aglomerada nas áreas de acomodação de público em pé. 
+4.8 Bloco: agrupamento de assentos preferencialmente localizados entre dois acessos radiais ou entre um 
+acesso radial e uma barreira. 
+4.9 Brigadista: integrante de grupo organizado de pessoas, treinado e capacitado para atuar, 
+preliminarmente, na prevenção de incidentes e pânico, abandono dos ocupantes, combate a princípio de 
+incêndio e prestar primeiros socorros às vítimas.  
+4.10 Descarga: parte da saída de emergência que fica entre a escada ou a rampa e a via pública ou área 
+externa em comunicação com a via pública. Pode ser constituída por corredores ou átrios cobertos ou a céu 
+aberto. 
+4.11 Evento temporário: acontecimento de especial interesse público, ocorrendo em período limitado, com 
+aglomeração de pessoas em determinado espaço físico construído ou preparado, com finalidade artística, 
+religiosa, esportiva, festiva, de carnaval, de espetáculos musicais, de feiras e exposições, de entretenimento, 
+diversão e lazer, classificados como ocupação de divisão F-7 pela tabela 1 do Decreto nº 44.746/2008, 
+podendo ser momentâneo, quando realizado em horas, e continuado, quando realizado em dias. 
+4.12 Local de relativa segurança: local dentro de uma edificação ou estrutura onde, por um período limitado 
+de tempo, as pessoas têm alguma proteção contra os efeitos do fogo e da fumaça. Este local deve possuir 
+resistência ao fogo e elementos construtivos, de acabamento e de revestimento incombustíveis, 
+proporcionando às pessoas continuarem sua saída para um local de segurança. Exemplos: escadas de 
+segurança, escadas abertas externas, corredores de circulação (saída) ventilados (mínimo de 1/3 da lateral 
+com ventilação permanente), áreas abertas e extensas ao ar livre em comunicação com a via pública. 
+4.13 Local de segurança: local fora da edificação ou fora do perímetro do evento, no qual as pessoas estão 
+sem perigo imediato dos efeitos do fogo e fumaça. 
+4.14 Plano de intervenção: documento estabelecido em função dos riscos do local do evento, que encerra um 
+conjunto de ações e procedimentos a serem adotados, visando à segurança das pessoas contra incêndio e 
+pânico, bem como à redução das conseqüências de sinistros. 
+4.15 Responsável técnico pelo evento temporário: profissional legalmente habilitado perante o órgão de 
+fiscalização profissional, responsável pela segurança contra incêndio e pânico no evento. 
+4.16 Responsável pelo evento: pessoa física ou jurídica responsável pela organização e realização do 
+evento, respondendo diretamente perante os órgãos públicos, podendo ser denominado organizador de 
+evento.     
+4.17 Risco: exposição ao perigo e à probabilidade da ocorrência de um sinistro. 
+4.18 Saída de emergência: caminho contínuo, devidamente protegido e sinalizado, proporcionado por portas, 
+corredores, halls, passagens externas, balcões, vestíbulos, escadas, rampas ou outros dispositivos de saída ou 
+combinações destes, a ser percorrido pelos usuários em caso de um incêndio e pânico, que os conduzam de 
+qualquer ponto da edificação e área de risco até atingir a via pública ou espaço aberto, protegido do incêndio 
+ou pânico (local de segurança), em comunicação com o logradouro. 
+4.19 Setor: espaço delimitado para acomodação dos espectadores, permitindo a ocupação ordenada do 
+recinto. 
+4.20 Taxa de fluxo (F): número de pessoas que passam por minuto, por determinada largura de saída 
+(pessoas/minuto). 
+4.21 Tempo de saída: é o tempo no qual todos os espectadores, em condições normais, conseguem deixar a 
+respectiva área de acomodação (setor) e adentrarem em um local seguro ou de relativa segurança. 
+ 
+5 CLASSIFICAÇÃO DOS EVENTOS TEMPORÁRIOS 
+ 
+Os eventos são classificados em níveis de risco aos espectadores, considerando o público estimado e as 
+características específicas do evento, além da capacidade de resposta e atendimento às vítimas em eventual 
+sinistro.
+
+--- PÁGINA 5 ---
+[Ano] 
+5.1 Eventos de risco mínimo 
+ 
+5.1.1 Eventos com público entre 251 e 1.000 pessoas, que atendam a todos os seguintes requisitos: 
+a) Local do evento seja ao ar livre, sem delimitação por barreiras que impeçam o trânsito livre de pessoas. 
+b) Não haja utilização de trios elétricos e/ou similares. 
+c) Não haja previsão de público sobre estruturas provisórias como arquibancadas, camarotes e similares, 
+sendo admitida a montagem de estruturas temporárias como palco e similares, para uso específico da 
+coordenação do evento e apresentações artísticas e culturais. 
+d) Não haja espetáculo pirotécnico ou utilização de brinquedos mecânicos. 
+e) Não haja público sob tendas com área total superior a 150 m². 
+f) Não haja prática de esportes radicais que impliquem em risco para os espectadores, tais como rodeio, 
+competição/exibição automobilística, motociclística, de aeronaves ou similares. 
+g) A atração artística ou motivo de reunião de pessoas seja compatível ao público estimado. 
+ 
+ 
+5.2 Eventos de risco baixo 
+ 
+5.2.1 Eventos que não se enquadram como de risco mínimo e eventos com público entre 1.001 e 3.000 
+pessoas. Devem atender a todos os seguintes requisitos: 
+a) Local do evento seja ao ar livre ou em área externa à edificação, sendo admitida delimitação por 
+barreiras. 
+b) Não haja utilização de trios elétricos e/ou similares. 
+c) 
+Não haja previsão de público sobre estruturas provisórias como arquibancadas, camarotes e similares, 
+sendo admitida a montagem de estruturas temporárias como palco e similares, para uso específico da 
+coordenação do evento e apresentações artísticas e culturais. 
+d) Não haja espetáculo pirotécnico ou utilização de brinquedos mecânicos. 
+e) Não haja prática de esportes radicais que impliquem em risco para os espectadores, tais como rodeio, 
+competição/exibição automobilística, motociclística, de aeronaves ou similares. 
+ 
+5.3 Eventos de risco médio 
+ 
+5.3.1 Eventos que não se enquadram como risco baixo e eventos com público entre 3.001 e 10.000 pessoas.  
+ 
+5.4 
+Eventos de risco alto 
+ 
+5.4.1 Eventos com público entre 10.001 e 40.000 pessoas.  
+ 
+5.5 Eventos de risco especial 
+ 
+5.5.1 
+Eventos com público acima de 40.000 pessoas. 
+ 
+6 
+RESPONSABILIDADES 
+ 
+6.1 Organizador do evento 
+ 
+6.1.1 
+Ao organizador do evento, independentemente da sua classificação, caberá a adoção de todas as 
+exigências necessárias previstas nesta Instrução Técnica, devendo contratar serviços técnicos profissionais 
+específicos e garantir sua efetiva atuação durante o evento, sob pena de incorrer nas sanções administrativas 
+previstas na legislação estadual, além das sanções previstas na Lei Federal nº 8.078/1990 – Código de defesa 
+do consumidor.  
+6.1.2 
+O organizador deverá planejar previamente seu evento, com antecedência suficiente que permita sua 
+regularização nos órgãos responsáveis, observando os prazos limites estabelecidos nesta Instrução Técnica. 
+6.1.3 
+Caberá ao organizador do evento garantir que o local destinado a receber os espectadores ofereça as 
+condições mínimas de segurança contra incêndio e pânico, devendo, para isso, contratar profissional habilitado 
+para assumir a responsabilidade técnica relativa ao evento. 
+6.1.4 
+Para eventos classificados como risco mínimo e risco baixo, é dispensada a contratação de profissional 
+habilitado como responsável técnico pela segurança contra incêndio e pânico, cabendo ao organizador do 
+evento atender as exigências de segurança previstas nesta Instrução Técnica. 
+6.1.5 
+Deverá disponibilizar aos espectadores, exceto em eventos de risco mínimo, serviço de atendimento 
+médico pré-hospitalar, conforme legislação específica. 
+6.1.6 
+Havendo aplicação da sanção de interdição, antes do início do evento, caberá a seu organizador 
+providenciar divulgação aos espectadores sobre a não realização do evento, em tempo hábil, para evitar 
+aglomeração de pessoas próximas ao local do evento.  
+6.1.7 
+Sempre que houver notificação para correção de irregularidades, caberá ao organizador do evento
+
+--- PÁGINA 6 ---
+[Ano] 
+providenciar as adequações necessárias, em tempo hábil, para garantir a segurança do público.  
+6.1.8 
+Quando houver controle de público, deverá garantir e manter controle sobre a quantidade de público no 
+local do evento, respeitando o limite máximo estabelecido. 
+ 
+6.2 Proprietário de edificação permanente  
+ 
+6.2.1 O proprietário não poderá permitir a realização de evento temporário no interior de edificação 
+permanente sob sua responsabilidade, sem que tenha sido emitido o Auto de Vistoria do Corpo de Bombeiros 
+(AVCB) para a edificação. 
+6.2.2 Quando a edificação permanente possuir AVCB, porém não for destinada à realização de eventos, o 
+proprietário deverá exigir do organizador a regularização prévia do evento no Corpo de Bombeiros Militar. 
+6.2.3 O proprietário que permitir a realização irregular de evento temporário no interior de edificação sob sua 
+responsabilidade estará sujeito a sanções administrativas e penais previstas em lei.   
+ 
+6.3 Profissional responsável técnico pelo evento  
+ 
+6.3.1 
+O Responsável Técnico pelo evento é o profissional habilitado pelo respectivo Conselho Profissional, 
+incumbido de garantir a eficiência das medidas de segurança executadas para o evento, de coordenar a 
+atuação da brigada de incêndio, além de adotar outras providências necessárias para a segurança do evento e 
+prevenção de sinistros.  
+6.3.2 
+Ao Responsável Técnico pelo evento cabe operacionalizar o plano de intervenção (quando exigido), 
+atender prontamente ao Corpo de Bombeiros Militar e adotar as medidas necessárias em caso de emergência.  
+6.3.3 
+O Responsável Técnico, quando da necessidade de evacuação em decorrência de sinistro, será o 
+responsável por coordenar a orientação do público. Esta orientação deve ser feita por sistema de som e deve 
+permitir ao público saber o motivo da evacuação, além de indicar as saídas de emergência mais próximas.  
+6.3.4 
+Deverá atender às determinações do Corpo de Bombeiros Militar em razão de notificações em vistoria, 
+visando adequações imediatas das medidas de segurança e eliminação de eventuais situações de risco.  
+ 
+7 PLANEJAMENTO DO EVENTO  
+ 
+7.1 A realização de qualquer evento temporário exige de seu organizador planejamento prévio, com 
+antecedência suficiente para garantir o cumprimento das exigências de segurança contra incêndio e pânico. 
+Para grandes eventos, com público superior a 10.000 pessoas, é recomendado que o planejamento seja 
+iniciado com pelo menos 09 meses de antecedência. 
+7.2 Quanto maior o evento, maior será a importância de seu planejamento. Para orientar e facilitar o trabalho 
+dos organizadores e profissionais quanto à elaboração e execução do planejamento, pode-se considerar o 
+evento dividido nas seguintes fases: 
+a) Pré-evento: fase de escolha do local e de empresas, profissionais e projetos a serem contratados, 
+além de definição dos recursos, estruturas e licenças necessárias. 
+b) Montagem: fase de instalação de equipamentos e construções provisórias, como palco, 
+arquibancadas, sistemas de som, execução das medidas de segurança, etc. 
+c) Evento (propriamente dito): fase que se inicia com abertura dos portões ou início das atividades e 
+entrada de público espectador no local. Nesta fase as medidas previstas para o evento devem estar 
+efetivamente implementadas, sendo indispensável o controle e monitoramento das condições de 
+segurança do local. 
+d) Encerramento: Nesta fase ocorre o término do evento e a saída do público, além de remoção e 
+desmontagem das estruturas do evento. 
+e) Pós-evento: nesta fase é feita a compilação das informações e relatórios das ocorrências e 
+intervenções no evento e avaliação com profissionais responsáveis técnicos para aperfeiçoamento de 
+próximos eventos. 
+7.3 O planejamento do evento temporário deve ser efetivo e voltado, sobretudo, para a prevenção de 
+sinistros, através de identificação, controle e eliminação dos riscos existentes. Para isso, visando evitar a 
+ocorrência de incidentes e sinistros, organizadores e profissionais envolvidos devem observar os seguintes 
+passos no planejamento e em todas as fases do evento:  
+a) 1º passo – Identificar os perigos associados às atividades ou características do evento. 
+b) 2º passo – Identificar as pessoas que podem ser afetadas e como seriam afetadas. 
+c) 3º passo – Identificar se há regras e precauções estabelecidas relativas àquela situação de perigo, 
+como plano de intervenção, projeto técnico aprovado, procedimento operacional padrão, etc. 
+d) 4º passo – Avaliar os riscos – mensurar a probabilidade de ocorrência do dano resultante do perigo 
+identificado após a adoção das exigências previstas. 
+e) 5º passo – Decidir quais as ações serão necessárias para eliminar o risco, como adequação do 
+leiaute, retirada de fontes de ignição, remoção de material combustível, mudança de construção 
+provisória, distância de segurança, etc.
+
+--- PÁGINA 7 ---
+[Ano] 
+7.4 As características do evento também devem ser avaliadas no planejamento, pois podem interferir, de 
+forma específica, em cada fase e ainda determinar tanto a classe de risco como as medidas de segurança 
+exigidas, além dos procedimentos necessários para sua regularização. Desta forma, é importante que o 
+organizador do evento e responsável técnico contratado avaliem, previamente, aspectos importantes do 
+evento, tais como: 
+a) Finalidade – Show musical, feira, rodeio, competição esportiva, circo, etc. 
+b) Público – Número estimativo de espectadores e sua concentração (densidade). 
+c) Perfil de público – Faixa etária predominante, pessoas com deficiência, rivalidade, etc. 
+d) Tipo de local – Ao ar livre, dentro de edificação, no interior de construção provisória. 
+e) Capacidade de atendimento do município – Existência de hospitais, equipes de urgência e emergência, 
+Corpo de Bombeiros Militar no município. 
+f) 
+Impacto no município – Relação entre o público do evento e a população local. 
+g) Estruturas provisórias – Arquibancadas, palcos, camarotes, tendas. 
+h) Riscos especiais – Espetáculo pirotécnico, gás liquefeito de petróleo (GLP), efeitos especiais. 
+i) 
+Período – Diurno e/ou noturno. 
+j) 
+Tempo de duração – Em horas, dias, semanas, meses. 
+k) Acomodação de público – Sentado, em pé, misto. 
+l) 
+Consumo de bebida alcoólica. 
+m) Circunvizinhança – Espaço para dispersão de público, tráfego de veículos, etc. 
+n) Condições climáticas. 
+7.5 A contratação de profissional habilitado para os eventos é uma das principais providências a ser adotada 
+pelo organizador para viabilizar o planejamento do evento e atender, em tempo hábil, aos requisitos de 
+segurança contra incêndio e pânico.  
+7.6 Dependendo do evento, será necessário que o organizador contrate profissional habilitado para elaborar o 
+planejamento e para assumir as demais responsabilidades previstas nesta Instrução Técnica. Não há 
+obrigatoriedade de que este profissional seja o mesmo profissional responsável técnico pela elaboração do 
+Projeto Técnico para Evento Temporário.  
+ 
+8 
+GERENCIAMENTO DE PÚBLICO  
+ 
+8.1 Nas últimas décadas, dezenas de tragédias envolvendo grandes concentrações de público em eventos 
+resultaram em milhares de mortes em diversos países.  
+8.2 Para se evitar tragédias, é importante implementar gerenciamento e controle de público eficientes, que 
+permitem minimizar o risco de superlotação do local do evento e de deflagração de rápido movimento de grupo 
+de pessoas dentro do público.   
+8.2.1 
+Gerenciamento de público pode ser compreendido como o conjunto de ações envolvendo 
+planejamento e supervisão sistemática, visando garantir o movimento e a reunião do público de maneira 
+ordenada. 
+8.2.2 
+O controle de público é a restrição ou limitação do público e de seu comportamento, podendo fazer 
+parte do gerenciamento ou ocorrer sem planejamento, como resposta a um problema.  
+8.3 O dimensionamento correto das saídas de emergência tem importância fundamental no gerenciamento de 
+público durante a ocorrência de sinistro. 
+8.4 O gerenciamento de público deve, sempre que possível, considerar o histórico e experiências em eventos 
+anteriores.  
+ 
+8.5 Comportamento do público 
+ 
+Para que o gerenciamento de público seja eficiente é necessário considerar o comportamento do público, 
+principalmente quando se espera grande concentração ou elevada densidade de pessoas. 
+8.5.1 O comportamento individual das pessoas em uma multidão pode ser influenciado por ações não 
+autorizadas de um pequeno grupo, podendo resultar em riscos para a segurança. Como exemplo, cita-se o 
+acesso de indivíduos através de passagens bloqueadas, gerando um comportamento coletivo, que pode 
+acarretar em superlotação de determinadas áreas, dentre outros riscos. 
+8.5.2 Nos momentos iniciais de uma emergência, o comportamento do público pode ser influenciado por 
+pessoas que aparentam ser especialistas em segurança ou ter conhecimento da situação, o que justifica a 
+presença de brigadistas para orientar a evacuação. 
+8.5.3 A ausência de informações claras dificulta as decisões das pessoas e influencia sua reação em situação 
+de emergência, permitindo que assumam decisões próprias e individuais, aumentando a sensação de 
+insegurança e a possibilidade de incidentes. Portanto, é de vital importância que o público receba informações 
+visuais e de áudio (sistema de som, sinalização, telões, profissionais bem uniformizados, etc.) em eventual 
+situação de emergência, de forma a permitir a orientação e o movimento ordenado do público.    
+8.5.4 O estado emocional e psicológico do público (rivalidade, histeria, agressividade, excitação, insatisfação) 
+pode afetar seu comportamento, gerando movimentos e concentração (densidade) de público indesejáveis.
+
+--- PÁGINA 8 ---
+[Ano] 
+8.5.5 As pessoas tendem a frequentar eventos em grupos de amigos ou familiares e, normalmente, se 
+deslocam juntos no interior do evento, o que pode favorecer o acúmulo de pessoas em locais como sanitários, 
+bares, postos de informação, etc. Em situação de emergência também é esperado que o tempo de reação 
+destas pessoas seja maior, devido ao tempo gasto para localização das pessoas de seu próprio grupo. 
+8.5.6 Pessoas que não estão familiarizadas com o local do evento, geralmente necessitam de maior 
+assistência e direção para se deslocar. Por este motivo, tendem seguir a multidão, usar as rotas de fuga 
+principais e procurar as mesmas áreas de acomodação de público.   
+8.5.7 A visibilidade é um fator importante para o controle do público dentro do evento, uma vez que as pessoas 
+tendem a migrar para pontos que oferecem visão adequada da apresentação (palco). Este comportamento 
+pode resultar em aumento da densidade do público em determinadas áreas e pressão excessiva nos 
+espectadores. 
+8.5.8 A pressão exercida por um grupo de pessoas aglomeradas, combinada com os efeitos da “onda de 
+choque”, que se transmite em densidades críticas de público, produz forças impossíveis de serem resistidas 
+por indivíduos, ainda que em pequenos grupos, o que reforça a necessidade de monitoramento constante do 
+público e adoção de medidas que previnam esse fenômeno.  
+8.5.9 Quando a densidade de público equivale à área ocupada pelo corpo, o controle individual é perdido e as 
+pessoas passam a se comportar como parte da massa, movimentando-se de forma involuntária.  
+8.5.10 Em densidades de 7 pessoas por m², a multidão passa a se comportar quase como um fluido, podendo 
+acarretar em ondas de choque, levantando pessoas e deslocando-as por distâncias superiores a 3 m. 
+8.5.11 As condições do piso/terreno podem influenciar na evacuação do público, reduzindo a velocidade das 
+pessoas e ocasionando quedas, gerando o risco de pisoteamento e asfixia por compressão toráxica, 
+dependendo da concentração do público. 
+8.5.12 Em locais com alta concentração de pessoas, como próximo a palcos, local de passagem de artistas e 
+outros, a densidade do público naturalmente é mais elevada. A partir de uma certa densidade, cerca de 8 
+pessoas por m², existe o risco de asfixia por compressão toráxica, fenômeno que pode resultar em mortes.   
+8.5.13 A velocidade de deslocamento do público reduz à medida que sua densidade se eleva.  
+8.5.14 A mudança de comportamento do público deve ser monitorada, sendo alguns indicadores úteis para a 
+identificação de problemas que necessitam de intervenção por equipes de segurança, tais como: 
+a) Sinais de sofrimento. 
+b) Movimentos indesejados, como empurrões e afluência. 
+c) Gritos ou indicadores similares de mau humor ou excitação.  
+ 
+8.6 Requisitos de segurança para gerenciamento de público 
+ 
+8.6.1 
+O leiaute do espaço destinado ao evento deve ser elaborado considerando os requisitos de segurança 
+dos espectadores quanto à entrada e acomodação, bem como saída e dispersão.  
+8.6.1.1 A capacidade máxima de público em um evento deve ser determinada de forma a impedir a 
+superlotação, garantir entrada e saída seguras em condições normais, e evacuação com segurança em caso 
+de emergência. 
+8.6.2 Em áreas de eventos com grande concentração de público, é importante considerar as seguintes 
+situações, que representam risco ou perigo ao público: 
+a)  Esmagamento entre pessoas. 
+b)  Esmagamento de pessoas contra estruturas fixas. 
+c)  Pisoteamento. 
+d)  Correria desordenada e ondas de movimentos na área de concentração de público. 
+e)  Deslocamento em locais íngremes. 
+f) 
+ Piso mal iluminado ou em condições inadequadas. 
+g)  Movimento do público obstruído por filas ou acúmulo de pessoas. 
+h)  Movimento de veículos no mesmo espaço destinado a pedestres. 
+i) 
+ Colapso de barreiras e estruturas provisórias. 
+j) 
+ Cruzamento entre fluxo de pessoas em direção a instalações auxiliares (sanitários, bares, etc.) e 
+movimento da multidão. 
+k)  Falha de equipamentos, como catracas, sistema de iluminação, etc. 
+l) 
+ Superlotação (no evento como um todo ou em locais específicos). 
+8.6.3 
+Quando o evento ocorrer em via pública ou em locais sem delimitação por barreiras, com acesso 
+franco, o controle de entradas poderá ser dispensado, devendo, entretanto, serem avaliadas as condições do 
+local, a fim de se evitar superlotação e garantir a evacuação do público em caso de emergência.  
+8.6.3.1 Para ser dispensado do controle de acesso, deverá haver escape em pelo menos duas direções 
+distintas. 
+8.6.4 Nos eventos realizados em locais delimitados por barreiras deverão ser instalados mecanismos de 
+controle de acesso de público, de forma a se garantir a lotação prevista em projeto. 
+8.6.4.1 É vedada a realização de eventos com acesso franco em locais delimitados por barreiras sem o devido 
+controle de acesso e lotação máxima.
+
+--- PÁGINA 9 ---
+[Ano] 
+8.6.4.2 A entrada das pessoas no evento, quando houver delimitação do local, deve ser organizada por meio 
+de filas, com utilização de barreiras e emprego de pessoas responsáveis pelo controle do público. 
+8.6.4.3 As filas não podem obstruir o fluxo de pessoas nem impedir a saída do público do interior do evento em 
+situação de emergência.  
+8.6.4.4 Para evitar aglomeração excessiva de pessoas na entrada do evento, as entradas devem ser 
+dimensionadas para permitir o acesso de todo o público previsto em um tempo máximo de 1 hora, com a 
+devida agilidade e atendimento aos procedimentos de segurança. 
+8.6.4.5 Para este cálculo, deve ser considerada uma capacidade máxima de 660 espectadores por mecanismo 
+de controle de acesso de público por hora. 
+8.6.4.6 Nos acessos à área do evento devem ser planejadas áreas de acúmulo de público, suficientemente 
+dimensionadas para conter o público com segurança, organizado em filas antes de passar pelos mecanismos 
+de controle de público. 
+8.6.4.7 Para garantir a eficiência dos acessos ao local do evento, tanto para ingresso de espectadores como 
+para saída, devem existir:  
+a) Rotas diretas para deslocamento do público, em uma única direção, para evitar que pessoas adotem 
+atalhos por áreas não autorizadas e evitar o fluxo de pessoas em mais de uma direção. 
+b) Distribuição de fluxos de pessoas tanto para a entrada no local do evento quanto para a saída, 
+proporcional à sua respectiva capacidade.  
+c) Rotas sem estreitamento e sem divisão de fluxo. Os grupos de pessoas podem se separar e causar 
+congestionamento em outros pontos. 
+d) Rotas acessíveis a pessoas com dificuldade de locomoção. 
+8.6.5 
+É recomendável a distribuição ou venda antecipada de ingressos, para se evitar tumulto próximo às 
+entradas.  
+8.6.6 
+Quando da ocorrência de tumultos na área externa ou pressão para entrada em eventos, não deve ser 
+adotado o procedimente de abertura dos portões sem contole de público. 
+8.6.7 
+Estacionamento de veículos, área de manobras ou carga e descarga, venda de ingressos, estruturas 
+provisórias e postos de informação não devem ser localizados a menos de 5 metros das entradas e saídas do 
+evento, a fim de se reduzir o risco de congestionamento do público.  
+8.6.8 
+Os locais destinados às rotas de fuga não devem ser usados para tráfego de veículos. As rotas de 
+saída de veículos de emergência devem permanecer desobstruídas.  
+8.6.9 
+Deve ser evitado que a rota de entrada do público passe por pontos estratégicos do evento (como 
+próximo ao palco ou outro tipo de atração), fazendo com que ocorra acúmulo de pessoas  e, 
+consequentemente, bloqueio da entrada do público restante. 
+8.6.10 É necessário prever movimentos e comportamentos indesejáveis de grupos no local de concentração 
+de público, podendo ser utilizadas barreiras para criar desvios, permitir aos brigadistas direcionar o 
+deslocamento do público e acessar pessoas na multidão, além de evitar pressão excessiva nas pessoas 
+próximas às áreas de maior concentração. 
+8.6.11 Em eventos com público superior a 10.000 pessoas, é recomendável a instalação de telas de projeção 
+que permitam ao público visualizar a apresentação, a fim de evitar o aumento da densidade de público próximo 
+ao palco e risco de tumulto e asfixia dos espectadores. 
+8.6.12 Os responsáveis pelo controle de entrada de público devem estar, aptos a informar  aos responsáveis 
+pela segurança do evento quanto ao número de pessoas no interior do mesmo, além de garantir que não seja 
+permitida a entrada de público acima do limite estipulado para a área, de forma a evitar alocação de público em 
+locais ou setores com a capacidade máxima já atingida.    
+8.6.13 As estruturas provisórias, como estandes, palco, camarotes, torres, barracas e outras devem possuir 
+espaço suficiente que permita o fluxo de pessoas em sua proximidade. 
+8.6.14 Todos os envolvidos na segurança do evento devem estar familiarizados com os procedimentos e suas 
+respectivas atribuições em situação normal e em caso de emergência. Para isso, o responsável técnico pelo 
+evento deve reunir os profissionais para instrução e orientações necessárias antes do início das atividades. 
+8.6.15 Em eventos ao ar livre, com previsão de público sentado (exceto em arquibancadas), é recomendável 
+haver distância suficiente entre as fileiras que permita o movimento livre dos espectadores.  
+8.6.16 Um monitoramento eficiente do público pode evitar problemas de superlotação e permitir corrigir falhas 
+na disposição da estrutura do evento e de seu gerenciamento. Devem ser monitorados: 
+a) O número total de pessoas, de forma a não ultrapassar o limite estabelecido.  
+b) Espaço disponível entre as pessoas.  
+c)  Contagem estimada de pessoas em uma área mensurável e ampliação em escala proporcional à área 
+do evento. 
+d) Taxa de fluxo de pessoas que entram e saem de determinada área (ex.: número de pessoas que passam 
+por um ponto definido). 
+e) A distribuição das pessoas, para que não ocorra a superlotação em áreas específicas.  
+f) 
+Problemas potenciais relacionados ao público como desordem, acesso a áreas não autorizadas, 
+movimentos de grupo de pessoas dentro do público, etc. 
+8.6.17 Algumas áreas também devem permanecer constantemente monitoradas:  
+a) Entradas e saídas;
+
+--- PÁGINA 10 ---
+[Ano] 
+b) Áreas com alta densidade de público; 
+c) Áreas com filas; 
+d) Áreas confinadas ou fechadas; 
+e) Áreas com gargalos (escadas, rampas, portas, estreitamentos e outras).   
+8.6.18 O sistema de controle da entrada de público pode ter os seguintes mecanismos: 
+a) Catracas/roletas reversíveis associadas ou não a sistema de contagem automática. 
+b) Sistema computadorizado associado a sensores nos pontos de entrada.  
+c) Distribuição de pulseiras, ingressos ou similares para permitir o acesso ao evento e/ou setores 
+específicos, aliados a sistema de contagem manual ou aos abaixo discrimanados.  
+8.6.18.1 Por ocasião de fiscalização do Corpo de Bombeiros Militar, o organizador do evento deve 
+disponibilizar documento que ateste o público existente. 
+8.6.19  As arenas destinadas às apresentações musicais, localizadas no interior de grandes áreas de eventos, 
+como o caso dos parques de exposição, quando não for feito o controle interno de migração de público, devem 
+possuir dimensões suficientes para comportar no mínimo 70 % de todo o público previsto para o evento. 
+8.6.20 As áreas destinadas às pessoas portadoras de necessidades especiais devem possuir acesso rápido e 
+desobstruído até a saída mais próxima, sendo importante a presença de brigadistas para auxiliar na 
+evacuação. 
+8.6.21 Ao término do evento, a iluminação deve ser mantida até a saída total do público. 
+8.6.22 Em eventos de risco alto e especial, durante a fase de planejamento, deve ser considerada a 
+possibilidade de que a quantidade de espectadores seja superior ao público total estimado. Nestes casos, o 
+organizador do evento deve: 
+a) efetuar o acesso à área do evento somente por ingressos ou similares, mesmo que seja gratuito; 
+b) divulgar a informação de que a entrada ao local do evento somente ocorrerá com ingressos ou similares; 
+c) planejar, em conjunto com os órgãos responsáveis pelo trânsito, o transporte urbano para o evento; 
+d) manter monitoramento da quantidade de pessoas que chega ao local do evento; 
+e) providenciar divulgação na mídia, nas centrais de transporte e nas proximidades do local do evento de 
+que já se encontra com público máximo. 
+ 
+8.7 Setorização de público  
+ 
+8.7.1 Em eventos que envolvam apresentação ou exibição, com concentração de pessoas na mesma direção, 
+com público superior a 10.000 pessoas, será necessário setorizar o público em zonas de segurança, através de 
+barreiras, a fim de se evitar superlotação e movimentos simultâneos de grande quantidade de pessoas. A 
+capacidade máxima de cada zona de segurança será de 10.000 pessoas. 
+ 
+Figura nº 01: Setorização de público 
+ 
+Fonte: www.eps.net 
+ 
+8.7.2 Quando o público estiver sentado, as fileiras deverão possuir quantidade máxima de 60 assentos, exceto 
+quando houver corredor em apenas um dos lados, situação em que a capacidade será reduzida para 30 
+assentos. Deverá ser adotada a quantidade máxima de 50 fileiras por setor, formando blocos de no máximo 
+3.000 pessoas.  
+8.7.2.1 Os corredores dos setores de público sentado, entre os blocos, deverão ser proporcionais à quantidade 
+de pessoas que passará por eles, respeitando a largura mínima de 1,20 m.
+
+--- PÁGINA 11 ---
+[Ano] 
+Figura nº 02: Setorização de público assentado. 
+  
+Fonte: Institution of Structural Engineers (United Kingdom, 2007) 
+ 
+8.7.3 A instalação de barreiras antiesmagamento para setorização de público em pé deve formar corredores de 
+segurança com largura mínima de 2,50 m, para permitir atuação de socorristas e da brigada de incêndio, além 
+do Corpo de Bombeiros Militar. 
+ 
+Figura nº 03: Corredor de segurança entre setores de público 
+ 
+Fonte: http://www.wecross.nl/ 
+ 
+8.7.4 Em eventos especiais, a setorização do público por barreiras e a instalação de corredores de segurança 
+deverá ser definida durante a fase de planejamento com o envolvimento do Corpo de Bombeiros Militar e 
+demais órgãos de segurança. 
+8.7.5 Em eventos com exibição ou apresentação classificados como risco alto ou especial, quando houver 
+previsão de público próximo ao palco, deverão ser instaladas barreiras antiesmagamento, criando corredor de 
+segurança junto ao palco com largura mínima de 2,50 m. 
+8.7.5.1 Quando o público total for superior a 10.000 pessoas, a separação entre os setores próximos ao palco 
+e os demais deve ser feita utilizando-se barreiras antiesmagamento paralelas ou convexas (nunca côncava), 
+conforme figura abaixo.
+
+--- PÁGINA 12 ---
+[Ano] 
+Figura nº 04: Setorização com barreiras antiesmagamento dentro de edificação 
+ 
+ 
+Fonte: Code of practice at indoor events (Ireland, 1998) 
+ 
+Figura nº 05: Setorização com barreiras antiesmagamento próximas ao palco 
+ 
+Fonte: Institution of Structural Engineers (United Kingdom, 2007) 
+ 
+8.8 
+Barreiras antiesmagamento 
+ 
+8.8.1 Barreiras antiesmagamentos devem possuir as seguintes características: 
+a) Ter alturas entre 1,05 m e 1,22 m. 
+b) Não possuir pontas ou bordas agudas. 
+c) Ter resistência mecânica e funcionalidade atestadas por profissional habilitado. 
+d) Suportar carga de no mínimo 3 kN/m. 
+e) Possuir plataforma de apoio mais alta que o piso, para atuação de brigadistas. 
+8.8.2 Para setorização de público e instalação de corredores de segurança não devem ser utilizados 
+fechamentos com grades, gradis ou outra estrutura que não suporte o esforço horizontal do público. 
+ 
+ 
+ 
+ 
+ 
+Barreira secundária 
+Limite de visibilidade 
+Barreira frente ao palco 
+Palco 
+2,50 m 
+2,50 m 
+Limite de visibilidade 
+Limite de visibilidade
+
+--- PÁGINA 13 ---
+[Ano] 
+Figuras nº 06 e 07: Modelos de barreiras antiesmagamento com plataformas de apoio 
+ 
+ 
+ 
+Fonte: http://www.productionworks.com.au 
+ 
+9 SAÍDAS DE EMERGÊNCIA 
+ 
+9.1 O dimensionamento das saídas de emergência em eventos temporários ao ar livre deverá atender a esta 
+Instrução Técnica. 
+9.2 Quando o evento ocorrer em local coberto (circos, camarotes, tendas e outros) ou no interior de 
+edificações (exceto arquibancadas) deverão ser atendidas as exigências da Instrução Técnica nº 08. 
+9.3 As arquibancadas pertencentes a edificações permanentes devem atender ao disposto na Instrução 
+Técnica nº 37, exceto para as arquibancadas utilizadas como ocupação secundária, como ginásios de escolas 
+e clubes, que devem atender aos requisitos do PSCIP aprovado. 
+ 
+9.4 Acomodação de público 
+ 
+9.4.1 Em todos os recintos e setores destinados ao público deve haver saídas suficientes, em função da 
+população existente. 
+9.4.2 Quando houver mais de um local para acesso ao evento, os ingressos disponibilizados deverão conter as 
+informações necessárias para facilitar o direcionamento correto do público. 
+ 
+9.5 Generalidades 
+ 
+9.5.1 As saídas de emergência podem ser constituídas por: 
+a) Acessos. 
+b) Circulações de saídas horizontais e verticais e respectivas portas, quando houver. 
+c) Descarga. 
+d) Espaços livres no exterior. 
+9.5.2 
+ É importante que se forneça, nos locais de grande aglomeração de pessoas, circulações de saída 
+capazes de comportar, de forma segura, a passagem das pessoas dentro de um período de tempo aceitável, e 
+evitar o congestionamento das saídas. 
+9.5.3  Os responsáveis pela edificação e pela organização do evento devem garantir a permanência de 
+equipes habilitadas para assegurar que as vias de saída permitam aos espectadores uma circulação livre e 
+desimpedida até que se consiga atingir a área externa da edificação. 
+9.5.4 
+Para o dimensionamento das saídas de emergência, deve-se assegurar que: 
+a) Haja número suficiente de saídas em posições adequadas (distribuídas uniformemente).
+
+--- PÁGINA 14 ---
+[Ano] 
+b) Todas as áreas de circulações de saída tenham larguras adequadas à respectiva população. 
+c) As pessoas não tenham que percorrer distâncias excessivas para sair do local de acomodação, 
+devendo ser adotadas as rotas mais diretas possíveis. 
+d) Haja dispositivos que direcionem o fluxo de pessoas que irão adentrar em uma rota de fuga, conforme 
+dimensionamento da capacidade das saídas e caminhamentos máximos. 
+e) Todas as saídas tenham sinalização e identificação adequadas, tanto em condições normais como em 
+emergência. 
+9.5.5 As circulações não podem sofrer estreitamento em suas larguras, no sentido da saída do recinto, 
+devendo, no mínimo, ser mantida a mesma largura ou, no caso de aumento de fluxo na circulação, deve-se 
+dimensionar para o novo número de pessoas.  
+9.5.5.1 Quando em um evento houver previsão de utilização simultânea de áreas internas cobertas e área 
+externa ao ar livre, deve ser garantido que as descargas destinadas às áreas internas não sejam obstruídas 
+pelo público localizado na área externa.  
+9.5.5.1.1 Neste caso, o dimensionamento das saídas da área externa (quando delimitada por barreira) para o 
+logradouro deverá considerar o público total do evento (áreas fechadas e ao ar livre), observando o tempo de 
+evacuação e a taxa de fluxo previstos nesta Instrução Técnica. 
+9.5.6 Nenhuma saída deve ser fechada de modo que não possa ser fácil e imediatamente aberta em caso de 
+emergência.   
+9.5.7 As saídas finais devem ser monitoradas pessoalmente pela segurança ou brigada de incêndio, enquanto 
+o recinto for utilizado pelo público.  
+9.5.8 Toda rota de fuga deve estar livre de obstáculos e permitir o acesso rápido e seguro do público às saídas 
+verticais e/ou áreas de descarga.  
+9.5.9 Elevadores, elevadores de emergência e escadas rolantes não podem ser considerados como saídas de 
+emergência.  
+9.5.10 Deve ser previsto acesso adequado aos espaços destinados a pessoas com deficiência, atendendo 
+aos critérios descritos nas normas técnicas pertinentes.  
+9.5.11 As rotas de fuga não poderão ser utilizadas como depósito de qualquer natureza. 
+9.5.12 As descargas devem ser distribuídas de maneira a atender o fluxo a elas destinado e ao 
+caminhamento máximo.  
+ 
+9.6 Requisitos das saídas 
+ 
+9.6.1 As saídas de emergência devem ser dimensionadas para o abandono seguro da população. 
+9.6.2 Os desníveis existentes nas saídas horizontais, quando não for possível o dimensionamento de escada 
+com no mínimo 3 degraus, devem ser vencidos por rampas. 
+9.6.3 As rampas devem possuir inclinação não superior a 10%, com patamar horizontal a cada 15 m lineares, 
+sendo obrigatória a adoção nas saídas dos setores com acomodação de pessoas portadoras de necessidades 
+especiais. 
+9.6.4 As portas e os portões de saída do público devem abrir sempre no sentido de fuga das pessoas.  
+9.6.5 As portas e portões de saída final devem ser mantidos na posição totalmente aberta, antes do fim do 
+evento. Ao abrir, não devem obstruir qualquer tipo de circulação (corredores, escadas, descarga etc.). 
+9.6.6 O responsável pela segurança deve verificar ou ser informado quando todas as portas e portões das 
+saídas finais estiverem seguramente na posição aberta, com prazo suficiente para garantir a saída segura do 
+público.  
+9.6.7 As catracas de acesso não poderão ser computadas no cálculo das saídas de emergência. 
+9.6.8 Ao lado das entradas devem ser previstas portas ou portões destinados à saída dos espectadores, 
+dimensionados de acordo com o estabelecido nesta Instrução Técnica, com as respectivas sinalizações, não 
+podendo ser obstruídos pela movimentação de entrada do público ao recinto, devendo permanecer sempre 
+livres e prontos para utilização. Estas saídas devem ser monitoradas pessoalmente pelo serviço de segurança 
+ou pela brigada de incêndio. 
+9.6.9 As portas e passagens nas circulações devem ter altura mínima de 2,10 m. 
+9.6.10 As escadas e rampas (exceto aquelas com acesso restrito à organização do evento e ao palco) 
+utilizadas como saídas de emergência deverão possuir: 
+a) 
+Largura mínima de 1,20 m. 
+b) 
+Piso antiderrapante. 
+c) 
+Corrimãos contínuos em ambos os lados, com altura entre 0,80 m e 0,92 m. 
+d) 
+Guarda-corpos com altura mínima de 1,05 m. 
+e) 
+Corrimãos intermediários no máximo a cada 1,80 m e no mínimo a cada 1,20 m, para escadas e rampas 
+com largura igual ou superior a 2,40 m. 
+f) 
+Lanço mínimo de 3 degraus para escadas, devendo ser adotada rampa quando da impossibilidade de 
+atender a esse limite mínimo. 
+9.6.11  Os degraus das escadas (exceto dos acessos radiais de arquibancadas) devem atender aos seguintes 
+requisitos: 
+a) 
+Altura dos espelhos (h) entre 15 cm e 19 cm.
+
+--- PÁGINA 15 ---
+[Ano] 
+b) 
+Variação máxima de 0,5 com entre espelhos de uma mesma escada. 
+c) 
+Largura mínima da base (b): 27 cm. 
+d) 
+Balanceamento dos degraus observando a seguinte fórmula: 62 ≤ (2h + b) ≤ 65 (cm). 
+9.6.12 As descargas devem estar afastadas de no mínimo 5 m de locais que possam gerar aglomeração de 
+pessoas como bares, sanitários, lojas, pista de dança, similares. 
+9.6.13  No dimensionamento da área de descarga, devem ser consideradas todas as saídas horizontais e 
+verticais que para ela convergirem. 
+9.6.14 Quando nas rotas de saída houver desnível com altura superior a 30 cm, deverá haver proteção por 
+guarda-corpo. 
+9.6.15 A altura dos guarda-corpos, internamente, deve ser, no mínimo, de 1,05 m, com resistência mecânica 
+variando de acordo com a função e o posicionamento. 
+9.6.16 O fechamento dos guarda-corpos deve ser, preferencialmente, por meio de balaústres (barras 
+verticais), com vão máximo de 0,15 m.  
+9.6.16.1 Nos locais de acomodação de público, somente poderão ser utilizadas longarinas (barras horizontais) 
+quando for inviável a utilização de balaústres. 
+9.6.17 Os corrimãos deverão ser instalados em ambos os lados das escadas e rampas, devendo estar 
+situados entre 0,80 m e 0,92 m acima do nível do piso, prolongando-se no mínimo 0,20 m nas extremidades, as 
+quais deverão ser voltadas para a parede ou outra solução alternativa, não possuindo quinas vivas ou 
+aberturas, reentrâncias e saliências que permitam agarramento de roupas.   
+ 
+9.7 Dimensionamento das saídas 
+ 
+9.7.1 Cálculo de população 
+ 
+9.7.1.1 A quantidade máxima de pessoas em um evento deverá ser determinada pelo organizador do evento, 
+não podendo ser superior à capacidade útil de acomodação do local (observando os limites de densidade) nem 
+à capacidade de evacuação das saídas. 
+9.7.1.2 Nos locais cobertos é admitida a redução do público em função das saídas existentes, desde que haja 
+controle efetivo do público. 
+9.7.1.3 As saídas de emergência devem ser dimensionadas em função da população máxima no recinto e/ou 
+setor do evento, calculada obedecendo-se aos critérios desta Instrução Técnica. 
+9.7.1.4 Para os setores de público com cadeiras ou poltronas (rebatíveis ou não), deverá ser considerado o 
+número total de assentos demarcados. 
+9.7.1.5 Arquibancadas sem cadeiras ou poltronas: na proporção de 0,5 m linear de arquibancada por pessoa. 
+Para cálculo da capacidade de público do setor, nessas condições, deverá ser adotada a fórmula: P = (2.x).n, 
+onde “P” é a população máxima, “x” é a extensão da arquibancada em metros e “n” o número de degraus da 
+arquibancada. 
+9.7.1.6 Os setores ao ar livre (ou áreas) de público em pé devem possuir densidade (D) máxima de 2,5 
+pessoas/m². 
+9.7.1.7 A organização dos setores, com as respectivas lotações, deve ser devidamente comprovada pelo 
+responsável técnico, por meio de memória de cálculo, sendo tais informações essenciais para o 
+dimensionamento das rotas de fuga. 
+ 
+9.7.2 Tempo limite de evacuação 
+ 
+9.7.2.1 O tempo máximo de saída é usado, em conjunto com a taxa de fluxo (F), para determinar a capacidade 
+do sistema de saída da área de acomodação do público para um local de segurança ou de relativa segurança. 
+9.7.2.2 Nas áreas de eventos temporários em local aberto (ao ar livre), o tempo máximo de evacuação deverá 
+ser de 6 minutos. 
+9.7.2.3 Nas áreas internas destinadas a usos diversos, deve ser atendido o item 9.2. 
+9.7.2.4 Quando houver risco específico no evento, devido ao comportamento do público, histórico de eventos 
+anteriores, localização ou outros riscos, a critério dos órgãos de segurança ou do próprio responsável técnico, 
+é aconselhável a aplicação de tempo menor que o estipulado no item 9.7.2.2, para garantir a segurança dos 
+espectadores. 
+9.7.2.5 Para diminuir o tempo de saída, podem ser adotadas medidas como limitar a lotação no setor ou 
+aumentar as saídas. 
+ 
+9.7.3 Taxa de fluxo 
+ 
+9.7.3.1 Para dimensionar o abandono de uma edificação, deve ser utilizada a taxa de fluxo (F), que é o 
+indicativo do número de pessoas que passam por minuto por determinada largura de saída (pessoas/minuto). 
+9.7.3.2 Siglas adotadas para o dimensionamento das saídas: 
+P = população (pessoas) 
+E = capacidade de escoamento (pessoas/m)
+
+--- PÁGINA 16 ---
+[Ano] 
+D = densidade (pessoas/m²) 
+F = taxa de fluxo (pessoas/min/m) 
+T = tempo (min) 
+L = largura (m) 
+9.7.3.3 O dimensionamento das saídas será em função da taxa de fluxo (F) referente à abertura considerada. 
+Para fins de aplicação desta Instrução Técnica, as taxas de fluxo máximas a serem consideradas são as 
+seguintes: 
+a) Nas escadas e circulações com degraus: 66 pessoas/min/m (ou 79 pessoas por minuto, para uma 
+largura de 1,20 m).  
+b) Nas saídas horizontais (portas, corredores) e rampas: 83 pessoas/min/m (ou 100 pessoas por minuto, 
+para uma largura de 1,20 m). 
+ 
+9.7.4 Cálculo de largura das saídas 
+ 
+9.7.4.1 Para dimensionar a largura mínima das saídas é necessário definir a capacidade de escoamento, 
+considerando o tempo de 6 minutos para evacuação e a taxa de fluxo de acordo com o tipo de saída.  
+9.7.4.2 Caso o cálculo resulte em valor fracionado, adota-se o número múltiplo de 0,60 m imediatamente 
+superior ou inferior em cada saída, considerando sempre o arredondamento em função da segurança, 
+aumentando a largura das saídas ou reduzindo o público.  
+9.7.4.3 Exemplo nº 1: Definição da largura em função da população. 
+a) 1º passo: 
+ (Ex.: considerando descarga, E = 83 pessoas/min/m x 6 min = 498 pessoas/m)  
+b) 2º passo:  
+ (Ex.: considerando um público de 8.300 pessoas, L = 8300/ 498 = 16,67 metros. 
+Adotando o arredondamento: L = 16,80 metros; ou L = 16,20 metro e P = 8067 pessoas.  
+9.7.4.4 Exemplo nº 2: Definição da população em função das saídas. 
+a) 1º passo: 3 portões com largura de 2,0 m. Largura considerada: L = 3 x 1,8 m = 5,40 m. 
+b) 2º passo 
+ (Ex.: considerando descarga, E = 83 pessoas/min/m x 6 min = 498 pessoas/m)  
+c)  3º passo:  
+ >>> P = L x E = 5,40 x 498 >>> P = 2.689,2 (deve ser sempre arrdondado para o 
+número inteiro inferior) >>> P = 2.689 pessoas.   
+ 
+9.7.5 Distância máxima a percorrer 
+ 
+9.7.5.1 Os critérios para se determinar as distâncias máximas de percurso para o espectador, partindo de seu 
+assento ou posição, tendo em vista o tempo máximo de saída e o risco à vida humana decorrente da 
+emergência, são os seguintes: 
+a) Em arquibancadas a distância máxima de percurso para se alcançar um local de segurança ou de 
+relativa segurança não pode ser superior a 60 metros (incluindo a distância percorrida na fila de assentos e nos 
+acessos – radiais e laterais); 
+b) A distância máxima a ser percorrida pelo espectador em setores de arquibancadas para alcançar um 
+acesso radial (corredor) não pode ser superior a 7 metros, nas arquibancadas de estrutura provisória, e a 10 
+metros nas demais; 
+c) Em eventos temporários ao ar livre, a distância máxima a ser percorrida por um espectador até atingir 
+uma saída do local de acomodação de público não poderá ser superior a 100 metros.  
+9.7.5.2 Em construções provisórias fechadas lateralmente (tendas, barracas, circos, etc.) a distância máxima a 
+ser percorrida até a saída para o exterior não poderá ser superior a 35 m. 
+9.7.5.3 Para eventos no interior de edificações permanentes, a distância máxima a ser percorrida será aquela 
+aprovada no PSCIP da edificação.  
+ 
+9.7.6 Número de saídas  
+ 
+9.7.6.1  As saídas devem estar separadas entre si e dispostas de forma a minimizar a possibilidade de seu 
+bloqueio em situação de emergência. 
+9.7.6.2 Deve haver, no mínimo, duas opções (alternativas) de fuga, incluindo área de concentração e 
+setorização de público do evento.  
+9.7.6.3 As saídas devem ser localizadas em lados distintos ou formando ângulo mínimo de 45º entre si, 
+considerando qualquer ponto da área do evento, de forma que o fluxo de pessoas não obstrua as opções de 
+fuga.
+
+--- PÁGINA 17 ---
+[Ano] 
+Figura nº 08: distância entre aberturas de saídas de emergência 
+ 
+Fonte: Open air events and venues (United Kingdom, 2007) 
+ 
+10 ESTRUTURAS PROVISÓRIAS 
+ 
+10.1 Generalidades 
+ 
+10.1.1 Os espaços vazios abaixo das estruturas temporárias destinadas ao público, tais como arquibancadas, 
+camarotes e instalações similares deverão atender às seguintes prescrições:  
+a) Deverão ser mantidos limpos, livres de material combustível, sendo proibida qualquer forma de cocção 
+naquele espaço. 
+b) Não poderão ser utilizados como áreas úteis, depósitos de materiais combustíveis e não combustíveis, 
+comércio, instalações sanitárias e outros, devendo permanecer com isolamento e ser acessado somente por 
+pessoas autorizadas.  
+c) Os vãos (espelhos) entre os assentos das arquibancadas que possuam alturas superiores a 0,15 m 
+deverão ser fechados com materiais de resistência mecânica compatível, de forma que impeçam a passagem 
+de pessoas. 
+d) Não poderão ser utilizados como rota de fuga do público do evento. 
+10.1.2 Nas estruturas provisórias (desmontáveis) poderá ser aceito piso em madeira, desde que possua 
+resistência mecânica compatível, característica antiderrapante, seja fixado de forma que não permita sua 
+remoção sem o auxílio de ferramentas ou que permitam desprendimento das partes, bem como mantenham a 
+superfície plana, sem ressaltos ou aberturas. Se montados por intermédio de placas, estas devem ser afixadas 
+de forma a permanecerem alinhadas em um mesmo plano. 
+10.1.3 Nas barreiras ou alambrados que separam a arena de outros locais acessíveis ao público deverão ser 
+previstos acessos e/ou passagens que permitam aos espectadores sua utilização em caso de emergência, 
+mediante sistema de abertura acionado pelos componentes do serviço de segurança ou da brigada de 
+incêndio. 
+10.1.4 Os elementos estruturais deverão apresentar resistência mecânica compatível com as ações e 
+solicitações a que estão sujeitos, levando-se em consideração a resistência e comportamento do solo que 
+receberá as cargas, prevendo-se inclusive as ações das intempéries, especialmente do vento. Atenção 
+especial deve ser dada às estruturas provisórias que possuam fechamento lateral, devido ao acréscimo na 
+carga horizontal gerado pelo vento.  
+10.1.5 Os elementos de suporte estrutural das tendas ou outras coberturas flexíveis deverão possuir 
+características de resistência ao fogo, de forma a garantir a necessária eficiência na evacuação do público. 
+10.1.6 Os elementos estruturais devem apresentar resistência mecânica compatível com as ações e 
+solicitações a que são sujeitos (conforme normas da ABNT), considerando inclusive cargas dinâmicas. 
+10.1.7 A estabilidade estrutural das construções provisórias em que haja previsão de público sobre estruturas 
+(arquibancadas, camarotes e similares) deve ser comprovada em laudo técnico específico, emitido por 
+profissional capacitado e habilitado, constando materiais empregados e norma técnica de referência. 
+10.1.8 A montagem das arquibancadas e demais estruturas provisórias deverá ser acompanhada pelo 
+responsável técnico da execução, devendo ser emitida a Anotação de Responsabilidade Técnica. 
+10.1.9 Os materiais utilizados em acabamentos e revestimentos, elementos de decoração e coberturas 
+flexíveis (lonas) de recintos cobertos destinados a receber público devem atender aos requisitos da Instrução 
+Técnica específica.  
+10.1.10 Maiores detalhes para dimensionamento e requisito de segurança das estruturas temporárias podem 
+ser obtidos em Temporary demountable structures. Guidance on procurement, design and use, Third edition. 
+ 
+10.2  Arquibancadas provisórias 
+ 
+10.2.1 As arquibancadas provisórias (desmontáveis) utilizadas em eventos temporários deverão atender aos 
+requisitos desta Instrução Técnica. 
+10.2.1.1 
+O comprimento máximo da fileira de assentos deve ser de 14 m, quando houver acessos nas duas 
+extremidades da fila, e de 7 m, quando houver apenas um corredor de acesso.
+
+--- PÁGINA 18 ---
+[Ano] 
+10.2.1.2 
+As arquibancadas utilizadas em eventos temporários devem possuir estrutura para comportar o 
+público sentado, não sendo admitida a utilização de arquibancadas provisórias para público em pé.  
+10.2.1.3 Os patamares (degraus) das arquibancadas devem possuir as seguintes dimensões: 
+a) Largura mínima 0,60 m. 
+b) Altura máxima de 0,55 m. 
+ 
+Figura nº 9: Arquibancada provisória 
+ 
+Fonte: Nota Técnica de referência (SENASP, 2010)  
+ 
+10.2.2 A altura máxima de espelho, em degraus de acessos radiais, deverá ser de 0,19 m, sendo a largura 
+mínima da base de 0,25 m. 
+10.2.3 É admitido o uso dos patamares da arquibancada como degraus, desde que atendam aos requisitos do 
+item 10.2.2.  
+10.2.4 Os degraus dos acessos radiais, nas arquibancadas, devem ser balanceados em função da inclinação 
+da arquibancada e das dimensões dos patamares. 
+10.2.5 Quando houver cadeiras individuais, deve haver espaçamento mínimo de 0,30 m para circulação nas 
+filas, entre a projeção dianteira de um assento de uma fila e as costas do assento em frente. 
+10.2.5.1 À frente das primeiras fileiras de assentos, a distância mínima deve ser de 0,45 m, para circulação. 
+10.2.6 A altura mínima do guarda-corpo frontal da arquibancada deverá ser de 1,10 m. 
+10.2.6.1 Caso o desnível entre a primeira fileira e o piso à frente seja inferior a 0,55 m, não será exigido 
+guarda corpo. 
+10.2.7 As arquibancadas devem possuir fechamento lateral e dos encostos (guarda-costas) do último nível 
+superior de assentos, de forma idêntica aos guarda-corpos. Quando a altura da última fileira em relação ao 
+nível do terreno for superior a 2,10 m, o guarda-costas deverá possuir altura mínima de 1,80 m. 
+10.2.8 A inclinação máxima da arquibancada provisória deve ser de 37 graus. 
+10.2.9 Quando houver barreiras ou alambrados que separam a área do evento (arena, campo, quadra, pista 
+dentre outros) dos locais acessíveis ao público devem ser previstas passagens que permitam aos 
+espectadores sua utilização em caso de emergência, mediante sistema de abertura nos dois sentidos, 
+acionado pelos componentes do serviço de segurança ou da brigada de incêndio. Estas passagens devem ser 
+instaladas ao final de todos os acessos radiais.  
+10.2.10 Recomenda-se que os acessos radiais sejam instalados em cor amarela ou sinalizados com faixas 
+amarelas nas extremidades laterais, contrastantes com a cor do piso. 
+10.2.11  As saídas verticais (não inclui acessos radiais) devem ainda satisfazer as exigências descritas a 
+seguir: 
+10.2.11.1 Serem contínuas desde o piso ou nível que atendem até o piso de descarga ou nível de saída do 
+recinto ou setor. 
+10.2.11.2 O lanço máximo entre dois patamares consecutivos não deve ultrapassar 3,20 m de altura (rampas 
+e escadas). 
+10.2.11.3 Devem ser construídas em lances retos e sua mudança de direção deve ocorrer em patamar 
+intermediário e plano. 
+10.2.11.4 Os patamares devem ter largura igual à da escada ou da rampa e comprimento conforme regras 
+descritas abaixo: 
+7 m 
+14 m
+
+--- PÁGINA 19 ---
+[Ano] 
+a) Quando houver mudança de direção na escada ou na rampa, o comprimento mínimo dos patamares deve 
+ser igual à largura da respectiva escada ou rampa. 
+b) Caso não haja mudança de direção, o comprimento mínimo deve ser igual a 1,20m (exemplo: patamar 
+entre dois lanços na mesma direção). 
+10.2.12 As inclinações das rampas não deverão exceder a 10% (1:10).  
+10.2.13 Não é permitida a colocação de portas em rampas e escadas, devendo estar situadas sempre em 
+patamares planos, com comprimento não inferior ao da folha da porta de cada lado do vão. 
+10.2.14 As rampas devem ser dotadas de guarda-corpos e corrimãos de forma análoga às escadas, sendo 
+obrigatórias para acessibilidade aos locais destinados a pessoas com necessidades especiais, conforme 
+normas pertinentes. 
+10.2.15 As rotas de fuga dos setores de público de arquibancadas provisórias não devem passar sob a 
+estrutura destinada a receber o público. Os acessos radiais e laterais devem conduzir o público para fora da 
+projeção da arquibancada. 
+ 
+Figura nº 10: Resistência mecânica das barreiras da arquibancada 
+ 
+ 
+ 
+Fonte: Nota Técnica de referência (SENASP, 2010) 
+ 
+10.2.16 Nos acessos radiais das arquibancadas, quando houver acomodações ou assentos em ambos os 
+lados, os corrimãos podem ser laterais (individuais por fila) ou centrais, com altura entre 0,80 m e 0,92 m e 
+resistência mínima de 1 kN/m e força de 900 N aplicada verticalmente de cima para baixo e horizontalmente 
+em ambos os sentidos. 
+10.2.16.1 Quando os corrimãos forem centrais, estes deverão ter descontinuidades (intervalos) no mínimo a 
+cada 2 fileiras e no máximo a cada 4 fileiras de assentos, visando facilitar o acesso aos mesmos e permitir a 
+passagem de um lado para o outro. 
+10.2.16.2 Estes intervalos (aberturas) devem possuir uma largura livre correspondente à largura do patamar.
+
+--- PÁGINA 20 ---
+[Ano] 
+Figura nº 11: Corrimãos e acessos radiais em arquibancadas provisórias 
+ 
+ 
+ 
+Fonte: Nota Técnica de referência (SENASP, 2010) 
+ 
+10.2.17 As arquibancadas provisórias deverão ser dimensionadas para suportar a carga produzida pelos 
+esforços estáticos e dinâmicos decorrentes da presença do público espectador e ação do vento. 
+10.2.17.1 As arquibancadas devem suportar, no mínimo, as seguintes cargas verticais, considerando os 
+esforços uniformemente distribuídos: 
+a) 4 kN/m², quando houver disposição de assentos fixos; 
+b) 5 kN/m², não houver disposição assentos fixos. 
+10.2.17.2 A carga horizontal a ser considerada no dimensionamento da resistência mecânica da arquibancada 
+deve ser de no mínimo 10 % da carga vertical prevista, para fins de segurança. 
+ 
+10.3  Tendas  
+ 
+10.3.1 As tendas e demais estruturas tensionadas destinadas ao público do evento, com área total superior a 
+150 m², devem atender aos requisitos desta Instrução Técnica. 
+10.3.2 Devem ser instaladas sob supervisão de profissional habilitado, com o devido dimensionamento de 
+estabilidade, devendo ser considerados os seguintes requisitos para a garantia da segurança das pessoas: 
+a)  Ancoragem. 
+b) Ação do vento. 
+c) Característica retardante dos materiais. 
+d) Inspeção da estrutura no local. 
+10.3.3 É vedada a utilização e armazenamento de produtos inflamáveis e fogos de artifício no interior de 
+tendas.  
+10.3.4 A utilização de GLP para cocção de alimentos deve ser feita fora das tendas destinadas ao público. 
+10.3.5 O material utilizado na cobertura, paredes, carpetes e materiais decorativos utilizados internamente 
+deverão possuir característica retardante de propagação de chamas, comprovadas através de laudo de ensaio 
+em laboratório técnico reconhecido.   
+10.3.6 Nenhuma estrutura deve ser suspensa sobre ou através de tendas sem a aprovação do responsável 
+técnico por sua instalação. 
+10.3.7 As áreas externas próximas à área destinada à descarga do público devem ser mantidas 
+desobstruídas. Quando possuir portas, as mesmas devem abrir no sentido de fluxo de saída e permanecerem 
+destrancadas e desobstruídas. 
+10.3.8 Quando a tenda não possuir portas, aberturas na própria tenda devem ser demarcadas para fácil 
+identificação visual, devendo ser abertas por componentes da brigada de incêndio ou responsável pela 
+segurança. 
+10.3.9 Em caso de emergência, deve ser mantido nível de iluminância suficiente para evacuação segura (3 a 
+5 lux, conforme o caso), através de iluminação de emergência. 
+10.3.10 As rotas de fuga devem possuir condições mínimas de luminosidade permanente, de forma a garantir o 
+deslocamento seguro das pessoas, sendo necessária a adoção de sinalização de emergência, conforme IT 15.
+
+--- PÁGINA 21 ---
+[Ano] 
+Figura nº 12: Tenda  
+ 
+Fonte: Institution of Structural Engineers (United Kingdom, 2007) 
+ 
+11 Sinalização de emergência 
+ 
+11.1 Para as construções provisórias cobertas, como camarotes, circos e tendas, com área superior a 50 m², 
+deve ser observado na íntegra a Instrução Técnica 15. 
+11.2   A sinalização eficiente garante rápida orientação aos espectadores em situação de emergência, 
+auxiliando no direcionamento do fluxo do público durante a evacuação, sendo necessária em todos eventos.  
+11.3 As sinalizações devem estar claramente visíveis e facilmente compreendidas, mantendo padronização em 
+sua forma, devendo ser adotada a Instrução Técnica nº 15 – Sinalização de emergência. 
+11.4 Para os eventos realizados ao ar livre poderá ser utilizada a sinalização de saída através de faixas, que 
+deverão atender as seguintes exigências: 
+a) Atender as dimensões mínimas conforme Instrução Técnica nº 15. 
+b) Em eventos que ocorram em período noturno, possuir iluminação garantida em caso de emergência. 
+c) Serem instaladas em alturas que garantam visibilidade aos espectadores e fixadas de forma a não ter 
+sua visualização prejudicada em função de intempéries (chuva e vento). 
+11.5 Em eventos de risco alto e especial, a demarcação e identificação de pontos estratégicos e de setores de 
+público são necessárias para o gerenciamento da segurança e para rápida resposta dos brigadistas e demais 
+envolvidos na segurança, em situação de emergência. 
+ 
+Figura nº 14: Placa de sinalização de emergência 
+ 
+ 
+ 
+ 
+11.6 
+Em palcos com apresentação artística, recomenda-se que haja sinalização indicativa no piso, com 
+largura mínima de 2,5 cm, ou outro dispositivo, de forma a evitar queda durante apresentação.
+
+--- PÁGINA 22 ---
+[Ano] 
+12 
+Iluminação de emergência 
+ 
+12.1 Todo evento realizado em recintos fechados no interior de edificações permanentes e provisórias cobertas, 
+com área superior a 50 m², deve possuir sistema de iluminação de emergência que garanta nível de mínimo de 
+iluminância suficiente para evacuação segura do público, observando a Instrução Técnica 13. 
+12.2 No caso de eventos realizados ao ar livre, a exigência de iluminação de emergência será feita somente 
+quando sua duração abranger, mesmo que parcialmente, o período noturno. Ficam isentos dessa exigência os 
+eventos de risco mínimo e risco baixo. 
+12.3 O sistema de iluminação deve abranger todo evento e garantir a visibilidade em locais importantes para 
+segurança como:  
+a) Rotas de fuga, inclusive portas e portões; 
+b) Postos médicos; 
+c) Qualquer local que ofereça risco durante a evacuação, como desníveis, obstáculos, geradores, etc.; 
+d)  Placas de sinalização; 
+e) Recintos fechados, como camarotes, camarins, etc. 
+12.3.1 Nos eventos realizados ao ar livre em vias públicas, a iluminação de emergência será obrigatória 
+apenas para as estruturas provisórias e locais de acesso, devendo ser avaliada a instalação em pontos 
+sensíveis.   
+12.4 A iluminação do ambiente dos eventos deverá ser mantida acesa até a saída total do público, devendo 
+seu desligamento ser efetuado apenas após consulta aos responsáveis pela segurança do evento.   
+12.5 O nível de iluminância em eventos deverá atender aos requisitos da IT 13. 
+ 
+13 
+Instalações elétricas 
+ 
+13.1 As instalações elétricas devem atender aos requisitos previstos na NBR 5410. Deverá ser observada em 
+locais de eventos temporários a NBR 13570 (Instalações elétricas em locais de afluência de público - 
+Requisitos específicos). 
+13.2 Quando houver sistema de proteção contra descargas atmosféricas, devem ser atendidas a IT 36 e a 
+NBR 5419.  
+13.3 Os disjuntores não podem ser afixados sobre materiais combustíveis, devendo ser instalados em local 
+adequado e fora do alcance do público. 
+13.4 Nos locais destinados aos espectadores e rotas de fuga todas as fiações e os circuitos elétricos deverão 
+estar devidamente isolados e protegidos do público, conforme normas pertinentes. 
+13.5 As instalações elétricas não podem constituir obstáculos nas rotas de fuga. 
+13.6 Para eventos com público superior ou igual a 3.000 pessoas, é obrigatória a instalação de um grupo 
+moto gerador de energia para a manutenção de todos os sistemas elétricos do evento, inclusive iluminação de 
+emergência. 
+ 
+14 
+Espetáculos pirotécnicos e efeitos especiais 
+ 
+14.1  Nos eventos em que forem realizados espetáculos pirotécnicos, com utilização de fogos de artifício, 
+pirotécnicos, artifícios pirotécnicos e artefatos similares, deverão ser observadas as exigências previstas na 
+Instrução Técnica 25, Fogos de Artifício e Pirotecnia, no que for pertinente. 
+14.2 Os espetáculos pirotécnicos em eventos temporários devem sempre ser acompanhados e 
+supervisionados por profissional capacitado (blaster). 
+14.3 Quando o espetáculo ocorrer próximo ao público ou no interior de edificações, deve ser utilizado material 
+que não produza chama ou calor, ou seja, fogos da categoria indoor, observando a IT 25.  
+14.4 A utilização de chamas como efeitos especiais deve observar distância mínima de 3,0 m de materiais 
+combustíveis (exceto piso de madeira) em qualquer direção, sendo proibido o uso em ambientes fechados. 
+ 
+15 Trios elétricos e similares 
+ 
+15.1 No caso de utilização de “Trio Elétrico”, “Veículo de Apoio”, “Carro Alegórico para Sonorização” ou 
+veículos similares, em via pública, o organizador do evento deverá providenciar previamente autorização junto 
+ao órgão de trânsito, não sendo a autorização/documentação alvo de análise e inspeção pelo Corpo de 
+Bombeiros. 
+15.2 No caso de eventos até risco baixo, será admitida a utilização de veículo estacionado utilizado para 
+sonorização ou como palco, desde que o veículo permaneça estacionado em local plano. Neste caso não será 
+considerado como trio elétrico, para fins de modificação quanto à classificação de risco desta IT. 
+15.3 O deslocamento desses veículos não deve ocorrer em locais próximos à rede elétrica, com passagem de 
+público no interior de túneis, locais com deficiência de ventilação, pontes, aclives ou declives acentuados. 
+15.4 Quando o deslocamento do veículo se der em áreas de grande aglomeração de pessoas, deve ser 
+guardada uma distância mínima de 2,0 m entre o público e o veículo. 
+15.5 O CBMMG verificará a proteção por aparelhos extintores nas áreas do palco e compartimentos que
+
+--- PÁGINA 23 ---
+[Ano] 
+abriguem os geradores de energia e aparelhos de sonorização. Cada nível do veículo deverá possuir no 
+mínimo um extintor tipo ABC, com capacidade extintora mínima 2-A; 20-B:C. 
+15.6 As áreas destinadas à apresentação deverão possuir barreiras nas partes laterais, anterior e posterior do 
+trio elétrico, que impeçam a queda de pessoas, com altura mínima de 92 cm. É recomendável a adoção dos 
+parâmetros específicos para guarda-corpos, observando a IT 08. 
+15.7 A vistoria do CBMMG não isenta do proprietário do veículo da regularização do mesmo junto aos órgãos 
+competentes, cabendo a esses, a respectiva fiscalização. 
+ 
+16 
+Parques de diversões  
+ 
+16.1 
+Os parques de diversão devem ser projetados de forma a garantir a saída segura dos espectadores, 
+conforme subseção 9.6 desta IT, devendo atender às exigências técnicas da NBR 15926. 
+16.2 
+Os parques de diversões deverão possuir Laudo Técnico circunstanciado, emitido por profissional 
+habilitado, acerca das condições de operacionalidade e de qualidade técnica de montagem e instalação. 
+16.3 
+Nos parques de diversões onde houver subestação de energia elétrica, deverá haver um Responsável 
+Técnico por sua manutenção, sendo este serviço objeto de Anotação de Responsabilidade Técnica – ART, 
+firmada por profissional habilitado e registrado no conselho profissional. 
+16.4 
+Após qualquer reparo que tenha intervenção nas juntas (parafusadas e/ou soldadas) e no corpo dos 
+equipamentos, devem ser elaborados laudos utilizando-se de técnicas de ensaios não-destrutivos, ou outras 
+técnicas certificadas, das estruturas que sofrem carregamento contínuo ou que forneçam algum risco, quando 
+em funcionamento. Para garantir maior integridade do equipamento é satisfatória a realização periódica deste 
+ensaio nas estruturas de alto carregamento, em que a periodicidade será definida por profissional legalmente 
+habilitado ou conforme manual do fabricante do equipamento. 
+ 
+17 
+Brigada de incêndio 
+ 
+17.1  A atuação da brigada de incêndio, durante o evento, será coordenada pelo responsável técnico pelo 
+evento. 
+17.2  Durante atuação decorrente de atividades preventivas ou em operações, a brigada de incêndio e o 
+responsável técnico pelo evento terão suas ações coordenadas pelo CBMMG. 
+17.3 Todos eventos classificados a partir de risco médio deverão contar com equipe de brigadistas, devendo 
+ser observada a proporção de 01 (um) brigadista para cada 500 (quinhentas) pessoas, com composição 
+mínima de 04 brigadistas. 
+17.4 Os brigadistas empregados em eventos temporários deverão possuir qualificação de nível intermediário, 
+em observância à Instrução Técnica nº 12 e NBR 14.276. 
+17.5 Os brigadistas deverão ser distribuídos no mínimo em duplas, em locais onde há risco para os 
+espectadores, incluindo: 
+a) Corredores de segurança. 
+b) Próximo ao palco. 
+c) Corredores de saída e portas de saída final da área do evento. 
+d) Entrada do evento. 
+e) Camarotes. 
+f) 
+Tendas. 
+g) Acessos radiais. 
+17.6  As equipes de brigada distribuídas deverão estar guarnecidas de recursos suficientes para atuação nos 
+locais distantes dos postos médicos e ambulâncias.  
+17.7 
+Os integrantes da brigada de incêndio devem possuir uniforme de fácil identificação no local do evento e 
+que não seja semelhante ao uniforme do CBMMG. 
+17.8 
+Os brigadistas em eventos temporários devem ter as seguintes atribuições e responsabilidades: 
+a) 
+Conhecer o leiaute do local e estarem aptos para atender e orientar o público. 
+b) 
+Estarem cientes da localização das entradas, saídas e postos médicos. 
+c) 
+Garantir que não haja superlotação em qualquer parte do evento através de intervenções e 
+direcionamento do público, sobretudo nas entradas e saídas do evento ou do recinto. 
+d) 
+Manter os acessos radiais e corredores de segurança livres durante todo o evento. 
+e) 
+Manter as rotas de fuga desobstruídas. 
+f) 
+Manter comunicação com o chefe da brigada. 
+g) 
+Ter conhecimento do plano de intervenção. 
+h) 
+Ter condições de atuar em princípios de incêndios, conhecendo a localização de equipamentos no setor 
+onde estiver atuando. 
+i) 
+Monitorar o comportamento do público, de forma a evitar reações inadequadas. 
+j) 
+Em caso de necessidade de evacuação, orientar o público, observando o disposto no plano de 
+abandono.  
+k) 
+Ter condições de dar suporte básico de vida a vítimas no local do evento. 
+l) 
+Desencorajar comportamentos perigosos de integrantes do público.
+
+--- PÁGINA 24 ---
+[Ano] 
+18 
+Plano de intervenção 
+ 
+18.1 Para os eventos classificados a partir de risco médio, deverá ser apresentado no projeto o plano de 
+intervenção constando: 
+a) O plano de abandono, detalhando as rotas de fuga e as condições de saída do local do evento à área 
+externa. 
+b) Plano de emprego da brigada de incêndio, com vistas a garantir a rápida saída do público e apoio na 
+atuação do CBMMG em situação de emergência. 
+c) Materiais empregados nas rotas de fuga e em construções provisórias, como camarotes, camarins e 
+outras. 
+d) Localização e forma de utilização de produtos inflamáveis ou que ofereçam qualquer tipo de risco à 
+integridade física dos ocupantes. 
+e) Condições de acessibilidade a ocupantes com dificuldade de locomoção. 
+f) Características construtivas (estrutural e acabamento) da edificação onde se realizará o evento. 
+g) Recursos humanos e logísticos (materiais, equipamentos, veículos e outros) disponíveis para apoio em 
+situação de emergência e sua localização. 
+h) Localização de outros riscos. 
+i) Hospital de referência para atendimento a possíveis vítimas e tempo de deslocamento. 
+j) Fração do CBMMG mais próxima. 
+18.2 Para elaboração do plano de intervenção deverão ser utilizadas como base a Instrução Técnica nº 11 e 
+NBR 15219.  
+18.3 O plano de intervenção deve garantir a rápida atuação dos envolvidos na segurança do evento em uma 
+situação de emergência, permitindo o abandono seguro do público em tempo hábil.  
+18.4 Em situação de emergência deve ser utilizado sistema de som para alertar o público. É importante que as 
+mensagens de alerta aos espectadores sejam precisas, claras e objetivas, devendo constar no plano de 
+intervenção o procedimento para seu acionamento e o contato do responsável. 
+18.5 Para padronizar a informação e permitir a rápida assimilação da emergência, recomenda-se que a 
+mensagem de alerta ao público siga os seguintes dizeres: 
+Senhoras e senhores, por motivo de segurança, este local precisa ser evacuado.  Por 
+favor, saiam pela saída mais próxima. Os brigadistas irão auxiliá-los. 
+18.6 Após realização do evento, deve ser elaborado pelo responsável técnico pelo evento relatório contendo 
+informações sobre a execução do planejamento durante o evento, constando, dentre outros aspectos 
+importantes: 
+a) Número de atendimentos nos postos médicos e causas prováveis. 
+b) Número de atendimentos por ambulâncias e causas prováveis. 
+c) Atuações e intervenção da brigada de incêndio. 
+d) Situações de risco avaliadas e corrigidas. 
+e) Emprego de recursos não previstos no plano de intervenção. 
+f) Público total durante o evento. 
+g) Destino das vítimas atendidas e transportadas. 
+18.6.1 Em eventos classificados a partir de risco alto, o relatório deve ser encaminhado ao CBMMG pelo RT do 
+evento, no prazo de 5 dias úteis. 
+ 
+19 Atendimento pré-hospitalar 
+ 
+19.1 Os serviços de atendimento pré-hospitalar através de posto médico, ambulâncias e profissionais, 
+deverão atender às exigências de legislação específica. 
+ 
+20 PROCEDIMENTOS 
+ 
+20.1 Generalidades 
+ 
+20.1.1 Quando da realização de eventos realizados no interior de edificações permanentes, essas deverão 
+atender a todas as exigências do Regulamento de Segurança Contra Incêndio e Pânico, incluindo AVCB, além 
+das exigências para as atividades temporárias que se pretendam desenvolver em seu interior. 
+20.1.2 Para eventos realizados em área externa das edificações permanentes, sem utilização de áreas 
+construídas da edificação, aplicam-se as exigências desta instrução técnica para o evento temporário, sem o 
+condicionante do AVCB para a edificação permanente.  
+20.1.2.1 Apesar de não haver a exigência do AVCB para a edificação permanente, para o caso descrito acima, 
+o mesmo é exigido para as atividades rotineiras da edificação, podendo ser alvo de fiscalização pelo CBMMG a 
+qualquer momento.  
+20.1.3 Caso haja alteração da relação nominal de brigadistas a serem disponibilizados para o evento 
+temporário, poderá ser apresentada, até o momento da realização da vistoria, uma nova relação nominal dos 
+brigadistas, com demais documentos exigidos.
+
+--- PÁGINA 25 ---
+[Ano] 
+20.1.4 Serão considerados intempestivos os projetos em que não sejam observados os prazos previstos 
+nesta Instrução Técnica, acarretando ao responsável pela realização do evento as consequências 
+subseqüentes. 
+20.1.5 Com o intuito de garantir a segurança do público, os comandantes de Unidades/Frações poderão 
+requerer a realização de reuniões de planejamento com os organizadores de evento e responsável técnico pelo 
+evento, para esclarecimentos e formalização de exigências e condições de segurança.  
+20.1.6 
+Não será permitido o protocolo de PET para eventos realizados em edificações liberadas para o 
+mesmo fim, devendo possuir apenas o AVCB. Nos casos em que houver adaptações no interior da edificação, 
+essas devem ser acompanhadas por Responsável Técnico, sendo obrigatória a emissão de documento de 
+responsabilidade técnica (ART ou RRT), que deverá ser apresentado ao CBMMG, por ocasião de vistoria de 
+fiscalização. 
+20.1.6.1 O responsável técnico deve atentar para que as adaptações não interfiram na eficiência das medidas 
+de segurança contra incêndio e pânico, devendo avaliar a necessidade de alocação de equipamentos 
+complementares.  
+20.1.7 A aprovação do evento temporário em vistoria pelo CBMMG não exime o organizador do evento da 
+regularização junto a outros órgãos. 
+20.1.8 Quando forem observadas irregularidades ou informações relevantes durante realização do evento, 
+estas devem ser inseridas no PSCIP, visando enriquecer o histórico do evento e subsidiar análises pelo 
+CBMMG. 
+20.1.9 Para eventos a partir de risco médio, deverá ser apresentado contrato de prestação de serviço de 
+atendimento médico pré-hospitalar, incluindo ambulância, por empresa especializada, na solicitação da vistoria 
+de liberação. 
+ 
+20.2 Regularização dos eventos 
+ 
+20.2.1 Evento de risco mínimo 
+ 
+20.2.1.1 Para os eventos classificados como risco mínimo não haverá necessidade de apresentação de 
+Projeto Técnico para Evento Temporário, todavia, o organizador do evento deverá garantir as condições de 
+segurança e manter as características do evento.  
+20.2.1.2 Não será exigida a comunicação ao CBMMG, entretanto, quando houver necessidade de declaração 
+de isenção de PET, o responsável pelo evento deverá protocolar o termo de responsabilidade, conforme anexo 
+A. 
+20.2.1.3 Quando houver montagem de palco ou estrutura similar destinada à apresentação artístico-cultural e 
+sonorização, dentre outros, o organizador do evento deverá manter no local do evento a respectiva Anotação 
+de Responsabilidade Técnica (ART). 
+20.2.1.4 As barracas utilizadas em eventos de risco mínimo deverão ser protegidas por extintores com agente 
+adequado à classe de fogo. 
+20.2.1.5 Não será exigida a contratação de responsável técnico em eventos de risco mínimo. 
+ 
+20.2.2 Evento de risco baixo 
+ 
+20.2.2.1 Para os eventos classificados como risco baixo não haverá necessidade de apresentação de Projeto 
+Técnico para Evento Temporário, todavia, o organizador do evento será o responsável por garantir as 
+condições de segurança e manter as características do evento, devendo contratar profissional habilitado para 
+elaborar o laudo técnico, conforme anexo B.  
+20.2.2.2 Não haverá vistoria para fins de emissão de AVCB, no entanto, o organizador do evento deve manter 
+no local os documentos necessários para apresentação ao CBMMG durante fiscalização. 
+20.2.2.3 Quando houver montagem de palco ou estrutura similar destinada à apresentação artístico-cultural e 
+sonorização, dentre outros, o organizador do evento deverá manter no local do evento a respectiva Anotação 
+de Responsabilidade Técnica (ART). 
+ 
+20.2.3 Evento de risco médio e alto  
+ 
+20.2.3.1  Para os eventos classificados como risco médio e alto deverá ser apresentado Projeto Técnico para 
+Evento Temporário, elaborado por profissional habilitado.  
+20.2.3.2 Para realização do evento, após aprovação do projeto, deve ser solicitada vistoria para avaliação das 
+medidas de segurança contra incêndio e pânico instaladas. 
+20.2.3.3 Para a realização da vistoria, o organizador do evento deverá protocolar a documentação que atesta 
+a responsabilidade técnica da instalação das medidas de segurança, de montagens provisórias e demais 
+serviços e mantê-las no local do evento para fiscalização do CBMMG. 
+20.2.3.4 O responsável técnico pelo evento deverá garantir a segurança dos espectadores durante todo o 
+evento, devendo acompanhar toda a realização do evento. 
+20.2.3.5 A vistoria para liberação do evento deverá ser acompanhada pelo responsável técnico pelo evento.
+
+--- PÁGINA 26 ---
+[Ano] 
+20.2.4 Evento de risco especial  
+ 
+20.2.4.1  Deverá seguir os mesmos procedimentos para os eventos de risco médio e alto. No entanto, o 
+evento deverá ser precedido de planejamento conjunto entre os órgãos e demais envolvidos na segurança do 
+evento. 
+20.2.4.2 A reunião terá como objetivo antecipar eventuais problemas durante o evento.  
+20.2.4.3 As deliberações sobre eventos especiais deverão levar em conta o histórico de eventos ocorridos 
+anteriormente. 
+ 
+20.3  Prazos 
+ 
+20.3.1 Os Projetos Técnicos para Eventos Temporários deverão ser protocolados no setor responsável do 
+CBMMG com no mínimo 15 dias úteis de antecedência para os eventos especiais, e no mínimo 10 dias úteis de 
+antecedência para os eventos de risco alto e médio. 
+20.3.2 O prazo para protocolar o laudo técnico com as respectivas anotações e/ou registros de 
+responsabilidade técnica para os eventos de risco baixo é de, no mínimo, 02 dias úteis de antecedência ao 
+evento.  
+20.3.3 O prazo para protocolar o termo de responsabilidade de eventos de risco mínimo, quando for de 
+interesse do organizador, é de, no mínimo, 02 dias úteis de antecedência ao evento.  
+20.3.4 Quando notificado em análise, o projeto deverá ser apresentado com as devidas correções para nova 
+análise em tempo hábil, de forma que sua aprovação ocorra no mínimo com 03 dias úteis de antecedência ao 
+evento. 
+20.3.5 O não atendimento da exigência de correções do projeto em tempo hábil impede sua aprovação e 
+subseqüente encaminhamento para vistoria, sujeitando o evento às sanções previstas no Regulamento de 
+Segurança contra Incêndio e Pânico, em caso de realização irregular. 
+20.3.6 A solicitação de vistoria de liberação deverá ser feita com no mínimo 02 dias úteis de antecedência ao 
+evento. 
+20.3.7  Todas as medidas de segurança aprovadas em projeto devem estar em condições de serem 
+vistoriadas com, no mínimo, 24 horas de antecedência.   
+20.3.8 A aprovação final do evento em vistoria deverá ocorrer até no máximo 3 horas antes do início do evento. 
+20.3.8.1 Nos eventos com controle de entrada, esse prazo será observado em relação ao horário de abertura 
+dos acessos.  
+20.3.8.2 Constatadas irregularidades na vistoria de liberação, após o prazo final, o CBMMG ficará 
+impossibilitado de executar nova vistoria para fins de emissão de AVCB, devendo ser avaliada a aplicação da 
+penalidade de interdição, total ou parcial, devido à provável exposição do público alvo a um ambiente de risco 
+potencial. 
+20.3.8.3 Tal exigência visa possibilitar a comunicação ao público do cancelamento ou adiamento do evento, 
+evitando a possibilidade de tumulto devido à concentração de público próximo ao local do evento, gerando 
+situações de risco aos espectadores. 
+20.3.9 Constatando-se a intempestividade em relação aos prazos estabelecidos neste IT, quando do 
+protocolo do PET, o setor responsável do SSCIP emitirá ofício ao responsável pelo evento informando da 
+impossibilidade de tramitação do PET para regularização.  
+ 
+20.4 Emissão de AVCB 
+ 
+20.4.1 Após aprovação do PSCIP em vistoria, será emitido o Auto de Vistoria do Corpo de Bombeiros – AVCB, 
+para o endereço do evento e constando o período de duração. 
+20.4.2 Não havendo possibilidade de emissão do AVCB pelo setor responsável do SSCIP, o boletim de 
+ocorrência poderá servir de documento comprobatório de liberação. 
+20.4.3 O AVCB será válido somente para o endereço do evento e poderá ter o prazo máximo de validade de 01 
+ano, observando demais exigências da IT 01. 
+ 
+20.5  Circos e parques itinerantes 
+ 
+20.5.1 Para circos e parques de diversão, será permitido o seguinte procedimento: 
+20.5.1.1 Deverá protocolar o respectivo projeto no setor responsável para análise. 
+20.5.1.2 Após primeira liberação em vistoria, quando não houver mudança no projeto para evento temporário, 
+o responsável pelo circo ou parque poderá apresentar cópia do PET aprovado no CBMMG na próxima 
+localidade de destino, sendo necessária apenas a solicitação da vistoria. 
+20.5.1.3 Para a solicitação de subsequentes vistorias, o responsável pelo evento deverá protocolar o Pedido 
+de Vistoria e a Anotação de Responsabilidade Técnica pela montagem das estruturas.  
+20.5.1.4 Não é obrigatório o acompanhamento da vistoria de liberação por Responsável Técnico, nos locais 
+com público inferior a 500 pessoas, devendo o acompanhamento ser feito pelo responsável pelo evento.
+
+--- PÁGINA 27 ---
+[Ano] 
+20.5.1.5 A responsabilidade de manter as características aprovadas no projeto e garantir a segurança dos 
+espectadores é do organizador do evento. 
+20.5.1.6 Quando em vistoria de liberação for constatado que as características do local diferem daquelas 
+aprovadas em PET, comprometendo a segurança dos usuários, o organizador deverá protocolar novo PET, de 
+acordo com as exigências desta IT. 
+ 
+21 PRESCRIÇÕES DIVERSAS 
+ 
+21.1  O organizador de evento com público superior a 3.000 pessoas deverá, por meio de recursos 
+audiovisuais, apresentar à plateia informações sobre as condições de segurança contra incêndio e pânico do 
+evento, inclusive saídas de emergências e procedimentos para evacuação da área do evento. 
+21.1.1 As informações acima deverão ser apresentadas ao público antes do início do evento, e no mínimo a 
+cada 3 horas. A demonstração de tais informações deverá ser feita ao CBMMG no momento da vistoria, da 
+mesma maneira que será feita ao público. 
+21.1.2 A duração do vídeo deverá ser de no mínimo 30 segundos. 
+21.1.3 Quando não houver possibilidade de utilização de sistema de vídeo, poderá ser utilizado apenas 
+sistema de som.  
+21.2 O serviço de atendimento pré-hospitalar caracteriza-se como serviço médico e está sujeito a fiscalização 
+do Conselho Regional de Medicina, conforme Lei nº 6.839/1980 e Resolução nº 1.980/2011 – CFM, motivo pelo 
+qual o serviço de ambulância e posto médico deverá ser prestado por empresa devidamente registrada no 
+competente conselho. 
+21.3 O não atendimento de qualquer das exigências desta IT para os eventos temporários, que resultar em 
+risco para os espectadores/participantes, sujeitará o organizador do evento às sanções previstas na Lei 
+Estadual nº 14.130/2001 e Lei Federal nº 8.078/1990.  
+21.4 É proibida a realização de eventos em locais que não possuam saídas proporcionais ao público 
+presente, ainda que em espaço aberto ou em vias públicas.  
+21.5 A utilização de GLP em eventos temporários deverá observar a distãncia mínima de 5 m das rotas de 
+fuga e setores de público, sendo proibida sua utilização em locais sem ventilação ou com conexão direta sem 
+utilização de mangueira e válvula.   
+21.6 Os organizadores de evento que disponibilizarem esportes radicais e de aventura aos espectadores 
+durante a duração do evento deverão garantir profissional qualificado responsável pela segurança do público, 
+observando normas técnicas da ABNT, não sendo alvo de fiscalização pelo CBMMG. 
+21.7 Para a escolha de locais de eventos temporários devem ser observados os distanciamentos mínimos, 
+previstos em legislação, para locais que ofereçam risco de incêndio/ explosões. 
+21.8 Nos eventos com previsão de concentração ou circulação diária igual ou superior a 1.500 pessoas será 
+obrigatória a disponibilização de aparelho desfibrilador cardíaco externo automático, sendo obrigatória a 
+presença de pessoa(s) treinada(s) para usá-lo(s) e para realizar outros procedimentos da técnica de 
+ressuscitação cardiorrespiratória.
+
+--- PÁGINA 28 ---
+[Ano] 
+ANEXO A  
+DECLARAÇÃO PARA EVENTO DE RISCO MÍNIMO Nº ___/ 20____ 
+ 
+Declaro junto ao CBMMG que estou ciente de que assumo total responsabilidade pelas 
+informações 
+prestadas 
+abaixo, 
+referentes 
+ao 
+evento 
+denominado 
+______________________________________ a ser realizado no endereço ___________ 
+_____________________________________________________ no período de (data e 
+horário de realização) _______________________________________, com público 
+estimado de ________ pessoas.  
+ 
+1) O evento será realizado ao ar livre, sem delimitação por barreiras que impeçam o trânsito 
+livre de pessoas. 
+2) Não haverá utilização de trios elétricos e/ou similares. 
+3) Não haverá público sobre estruturas provisórias como arquibancadas, camarotes e 
+similares. 
+4) Não haverá espetáculo pirotécnico ou utilização de brinquedos mecânicos. 
+5) Não haverá público sob tendas com área total superior a 150 m². 
+6) Não haverá prática de esportes radicais que impliquem em risco para os espectadores, 
+tais como rodeio, competição/exibição automobilística, motociclística, de aeronaves ou 
+similares. 
+7) A atração artística ou motivo de reunião de pessoas é compatível ao público estimado. 
+8) Caso haja instalação de palco similares, para uso específico da coordenação do evento e 
+apresentações artísticas e culturais, a montagem deve ser acompanhada por Responsável 
+Técnico, devendo ser emitida Anotação de Responsabilidade Técnica. 
+ 
+Informo ainda, ser sabedor de que a verificação de fatos omissos ou controversos aos 
+apresentados sujeitará a organização às penas previstas em lei¹. Também estou ciente que 
+a não apresentação do PSCIP não exime os responsáveis da adoção das medidas previstas 
+na legislação mineira².  
+ 
+(Local e data)______________________, ______ de _______________de _______. 
+ 
+______________________________ 
+Assinatura³ 
+ 
+Nome do Responsável pelo Evento: 
+Identidade:                           CPF: 
+ 
+ 
+1 Artigo 299 da Lei 2.848 de 1940 (Código Penal). Item 6.2 da IT 33; 
+2 Artigos 18 e 19 do Decreto 44.746 de 2008. 
+3 Caso o documento seja entregue pelo próprio organizador, acompanhado do documento de identidade, não será 
+necessário o reconhecimento da firma, devendo ser verificada pelo protocolista do CBMMG.
+
+--- PÁGINA 29 ---
+[Ano] 
+ANEXO B 
+ 
+LAUDO TÉCNICO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO – EVENTO DE RISCO BAIXO  
+Nº ___/20__ (CONTROLE DO CBMMG) 
+1. IDENTIFICAÇÃO DO EVENTO 
+Nome do evento: 
+Descrição do evento: 
+ 
+ 
+ 
+Início: ___/___/____  
+Horário: ____/____ 
+Encerramento: ___/____/______ Horário: ____:____h 
+Área do evento:    
+Público:    
+End.: (Rua, Av.):  
+Nº 
+Referência: 
+Bairro: 
+Cidade:   
+Organizador:  
+CPF: 
+Fone:  
+Resp. pela edificação:  
+CPF: 
+Fone: 
+2. IDENTIFICAÇÃO DO(S) RESPONSÁVEL(IS) TÉCNICO(S) 
+2.1 Tipo de serviço:  
+ART/RRT:  
+Nome:  
+Nº CREA/CAU: 
+Endereço (Rua, Av.)  
+Nº  
+Compl. 
+Bairro:  
+Cidade:  
+E-mail:  
+Fone(s)  
+2.2 Tipo de serviço:  
+ART/RRT:  
+Nome:  
+Nº CREA/CAU: 
+Endereço (Rua, Av.)  
+Nº  
+Compl. 
+Bairro:  
+Cidade:  
+E-mail:  
+Fone(s)  
+3. SEGURANÇA CONTRA INCÊNDIO E PÂNICO DO EVENTO 
+REQUISITO 
+Sim 
+Não 
+3.1 Local do evento é ao ar livre ou em área externa à edificação? 
+ 
+ 
+3.2 Há previsão de público sobre estruturas provisórias como arquibancadas, camarotes e 
+similares? 
+ 
+ 
+3.3 Há espetáculo pirotécnico? 
+ 
+ 
+ 
+3.4 Há prática de esportes radicais que implique em risco para os espectadores, tais como
+rodeio, competição/exibição automobilística, motociclística, de aeronaves ou similares. 
+ 
+ 
+ 
+3.5 Há utilização de brinquedos mecânicos? 
+ 
+ 
+3.6 Saídas de emergência possuem dimensões suficientes para evacuação do público 
+esperado? 
+ 
+ 
+3.7 Há mecanismo de controle de público? Especificar nas observações. 
+ 
+ 
+ 
+3.8 As rotas de fuga estão sinalizadas e desimpedidas?
+
+--- PÁGINA 30 ---
+[Ano] 
+3.9 Há extintores distribuídos no local do evento em áreas com material combustível? 
+ 
+ 
+ 
+3.10 
+Há instalação de palco e similares, para uso específico da coordenação do evento e 
+apresentações artísticas e culturais? 
+ 
+ 
+3.11 
+Os riscos específicos do evento foram avaliados? 
+ 
+ 
+ 
+3.12 
+A utilização de GLP atende os requisitos de segurança das normas técnicas? 
+ 
+ 
+4. OBSERVAÇÕES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. ANEXOS (DOCUMENTOS COMO ART OU RRT) 
+ 
+1 - ART do palco. 
+2 - ..... 
+  
+“Numerar os documentos na ordem anexada”.  
+RESPONSÁVEL TÉCNICO PELO LAUDO TÉCNICO 
+ART/RRT: 
+Nome:  
+Nº CREA/CAU: 
+Endereço (Rua, Av.)  
+Nº  
+Compl. 
+Bairro:  
+Cidade:  
+E-mail:  
+Fone(s)  
+Assinatura: 
+ORGANIZADOR DO EVENTO 
+RG:  
+Assinatura: 
+* Caso o documento seja entregue pelo próprio organizador, acompanhado do documento de identidade, não 
+será necessário o reconhecimento da firma, devendo ser verificada pelo protocolista do CBMMG.
+
+--- PÁGINA 31 ---
+[Ano] 
+ANEXO C  
+MODELO DE OFÍCIO-RESPOSTA PARA EVENTO TEMPORÁRIO DE RISCO MÍNIMO  
+ 
+Unidade 
+Ofício nº ______ /20____ 
+Assunto: Declaração de evento temporário  
+Ref.: Declaração de evento temporário de risco mínimo nº _____/ 20___ 
+ 
+ 
+Local, ___ de __________ de 20____. 
+ 
+Sr. Responsável pelo Evento, 
+ 
+ 
+Em resposta à solicitação de declaração de evento temporário de risco mínimo, 
+informamos a vossa senhoria que foi verificada consonância com as características 
+estabelecidas na Instrução Técnica 33 para tal atividade. 
+A veracidade das informações prestadas na “DECLARAÇÃO PARA EVENTO DE 
+RISCO MÍNIMO” é de inteira responsabilidade do responsável pelo evento.  
+Caso sejam constatados, em fiscalização, fatos omissos ou controversos aos 
+apresentados na Declaração referenciada, o seu organizador estará sujeito às penalidades 
+civil, criminal e administrativa, podendo o evento sofrer interdição imediata. 
+ 
+Atenciosamente, 
+ 
+________________________________________________ 
+ (Chefe do CAT / Cmt da Cia  / Cmt do Pel) 
+ 
+Recebido em ____/____/____ às ____:____h por _____________________ Tel: ____________ 
+ 
+Carimbo e rubrica do militar que entregou o ofício:___________________________________________ 
+ 
+ 
+ 
+ 
+Nome do Evento: 
+Local do Evento: 
+Público Estimado: 
+Data do Evento: 
+Nome do organizador do evento: 
+CPF: 
+CNPJ: 
+Fone:
+
+--- PÁGINA 32 ---
+[Ano] 
+ 
+MODELO DE OFÍCIO-RESPOSTA PARA EVENTO TEMPORÁRIO DE RISCO BAIXO  
+ 
+Unidade 
+Ofício nº ______ /20____ 
+Assunto: Declaração de evento temporário de risco baixo  
+Ref.: Laudo técnico 
+ 
+ 
+ 
+Local, ___ de __________ de 20____. 
+ 
+Sr. Responsável pelo Evento, 
+ 
+ 
+Em resposta ao laudo técnico de segurança contra incêndio e pânico para evento 
+temporário de risco baixo, informamos a vossa senhoria que foi verificada consonância com 
+as características estabelecidas na Instrução Técnica 33 para tal atividade. 
+A veracidade das informações prestadas no laudo é de responsabilidade do 
+responsável pelo evento e do responsável técnico.  
+Caso sejam constatados, em fiscalização, fatos omissos ou controversos aos 
+apresentados na Declaração referenciada, o seu organizador estará sujeito às penalidades 
+civil, criminal e administrativa, podendo o evento sofrer interdição imediata. 
+ 
+Atenciosamente, 
+ 
+________________________________________________ 
+ (Chefe do CAT / Cmt da Cia  / Cmt do Pel) 
+ 
+Recebido em ____/____/____ às ____:____h por _____________________ Tel: ____________ 
+ 
+Carimbo e rubrica do militar que entregou o ofício:___________________________________________ 
+ 
+ 
+ 
+ 
+Nome do Evento: 
+Local do Evento: 
+Público Estimado: 
+Data do Evento: 
+Nome do organizador do evento: 
+CPF: 
+CNPJ: 
+Fone:

@@ -1,0 +1,306 @@
+--- PÁGINA 1 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+1/8
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 03 de agosto de 2022.
+  
+EMENDA CBMMG/DAT Nº. 2/2022
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 01 - 9ª Edição
+(Procedimentos Administrativos):
+ 
+1. ACRESCENTAR a alínea ‘f’ no item 5.4.1.1: 
+f) local de reunião de público (Grupo F) com população superior a 200 pessoas.
+ 
+2. ALTERAR o item 6.1.3.1, que passa a vigorar com a seguinte redação:
+6.1.3.1 Havendo qualquer tipo de comunicação (interligação por área coberta, aberturas de ventilação,
+janelas, etc.) entre edificações, compartilhamento e/ou vinculação de elementos estruturais, será
+necessária a apresentação de PSCIP único, ainda que as edificações estejam situadas em propriedades
+(lote/terreno) distintas.
+ 
+3. ALTERAR o item 6.1.4, que passa a vigorar com a seguinte redação:
+6.1.4 É permitida a projeção de medidas de segurança contra incêndio e pânico interligadas em
+edificações distintas, desde que contidas em um PSCIP único, ressalvado o disposto em 6.1.4.1.
+ 
+4. ACRESCENTAR o item 6.1.4.1:
+6.1.4.1 As edificações distintas, que possuam medidas de segurança contra incêndio e pânico
+interligadas, poderão ser apresentadas para análise por meio de PSCIPs separados, desde que atendam
+ao critério do item 6.1.3.
+ 
+5. REVOGAR o item 6.2.3.2.
+ 
+6. ACRESCENTAR os itens 6.2.4, 6.2.4.1 e 6.2.4.2:
+6.2.4 O PSCIP aprovado que necessitar de atualização de dados cadastrais ou inserção de medidas de
+segurança contra incêndio que não implique em mudança de plantas, será atualizado sem necessidade
+de nova análise.
+6.2.4.1 O PSCIP impresso que necessitar de atualização, deverá ser migrado para o Infoscip, desde que se
+encontre nas situações de “AVCB” ou “AVCB Vencido”, conforme item 6.1.2.1, alínea ‘d’.
+6.2.4.2 O PSCIP impresso, em qualquer outra situação, deverá ter mantida a tramitação no formato
+impresso até que haja a migração para o Infoscip e, posteriormente, ter solicitada a atualização de dados
+cadastrais.
+ 
+7. ACRESCENTAR o item 6.4.2.1:
+
+--- PÁGINA 2 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+2/8
+6.4.2.1 Não ocorrerá a modificação de PSCIP por ocasião de:
+a) atualização do cálculo de brigadistas e/ou adaptação da medida de Brigada de Incêndio;
+b) adaptação à medida de Controle de Materiais de Acabamento e Revestimento (item E.11.5);
+c) substituição de Gás Liquefeito de Petróleo por Gás Natural, nos casos em que seja utilizada a mesma
+infraestrutura interna à edificação;
+d) alterações de leiaute que não impliquem em alteração dos parâmetros das medidas de segurança já
+aprovadas;
+d.1) ainda que a alteração de leiaute implique no reposicionamento de medidas de segurança, não será
+necessária a modificação de PSCIP caso não haja alteração dos parâmetros de dimensionamento da
+medida;
+e) outras alterações que não comprometam os sistemas aprovados e a segurança dos usuários.
+ 
+8. ALTERAR a alínea ‘b’ do item 8.3.1, que passa a vigorar com a seguinte redação:
+b) o PSCIP se encontre na fase de Corpo Técnico, reconsideração de ato/recurso, possua mais de 01 (um)
+retorno de análise/vistoria ou contenha edificação ou medida de segurança cuja complexidade demande
+maiores esclarecimentos;
+ 
+9. ALTERAR o item 10.2, que passa a vigorar com a seguinte redação:
+10.2 Os PSCIPs aprovados em formato impresso serão migrados para o sistema Infoscip no ato de
+modificação de projeto aprovado, renovação de AVCB ou emissão de primeiro AVCB.
+ 
+10. ACRESCENTAR o item A.1.1.5:
+A.1.1.5 Desde que não interfiram no dimensionamento dos demais sistemas, medidas de segurança
+suplementares que não atendam integralmente às instruções técnicas aplicáveis poderão constar em
+planta, porém não serão objeto de aprovação e liberação pelo CBMMG. 
+ 
+11. ALTERAR o item A.3 e subitens, que passam a vigorar com a seguinte redação:
+A.3 Isenção de Medidas de segurança para Divisão A-1
+A.3.1 A ocupação residencial unifamiliar (Divisão A-1) que fizer parte de uma edificação com outra
+ocupação ou uso será isenta de medidas de segurança, desde que possuam saídas independentes. Neste
+caso, a porção referente à Divisão A-1 deverá ser representada em planta de forma hachurada, sem o
+arranjo físico interno (leiaute).
+A.3.1.1 As demais partes da edificação, que não sejam da divisão A-1, deverão possuir medidas de
+segurança conforme a tabela específica deste Anexo, considerando a área e ocupação.
+A.3.2 A área da ocupação residencial unifamiliar (Divisão A-1) de que trata o item A.3.1 não será
+computada como área construída para fins de:
+a) definição da área total do PSCIP;
+b) definição de medidas de segurança;
+c) definição do tipo de PSCIP;
+d) cálculo de cobrança da TSP, para fins de análise e vistoria;
+e) área a ser informada no AVCB.
+A.3.2.1 A área referida em A.3.2 não deverá ser informada no campo "Área" do Infoscip.
+
+--- PÁGINA 3 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+3/8
+ 
+12. ALTERAR o item A.4.2, que passa a vigorar com a seguinte redação:
+A.4.2 Os espaços destinados ao uso coletivo ficam isentos das medidas de segurança “Segurança
+Estrutural contra Incêndio”, “Detecção de Incêndio”, “Alarme de Incêndio”, “Compartimentação Vertical”,
+“Compartimentação Horizontal”, “Controle de Fumaça” e “Chuveiros Automáticos”.
+ 
+13. ALTERAR a Tabela 18, que passa a vigorar com a seguinte redação:
+ 
+ 
+14. ALTERAR a Tabela C.1, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 4 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+4/8
+ 
+15. ALTERAR o item C.1.2, que passa a vigorar com a seguinte redação:
+C.1.2 As pessoas físicas e jurídicas que desenvolvam atividades na área de competência do CBMMG e
+aquelas responsáveis pela comercialização, instalação, manutenção e conservação de aparelhos de
+prevenção contra incêndio e pânico, serão classificadas como nível de risco III para fins de
+credenciamento e cadastramento junto ao CBMMG, conforme exigências da legislação específica.
+ 
+16. ALTERAR o item C.5.1, que passa a vigorar com a seguinte redação:
+C.5.1 Para o cômputo da área das referidas edificações, serão desconsideradas as áreas da edificação da
+Divisão A-1 (habitação unifamiliar) que fizerem parte da propriedade, desde que disponham de acessos
+independentes e sem área comum, aplicando-se o previsto nos itens A.3.1 e A.3.2.
+ 
+17. ACRESCENTAR o item D.6:
+D.6 A dispensa de licenciamento e o Certificado de Licenciamento Provisório poderão ser emitidos pela
+própria Unidade responsável, quando não for possível a emissão pela Redesim-MG, nos seguintes casos:
+a) Estabelecimentos distintos que possuam o mesmo CNPJ; ou
+b) Profissionais que não possuam CNPJ; ou 
+c) Estabelecimento onde são realizadas atividades que teriam direito ao procedimento declaratório, mas
+cujo CNPJ está vinculado a um CNAE classificado como nível de risco III.
+
+--- PÁGINA 5 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+5/8
+ 
+18. ACRESCENTAR a alínea ‘i’ no item E.4.7:
+i) banheiros, vestiários (exceto área de armários) e assemelhados.
+ 
+19. ACRESCENTAR o item E.4.7.1:
+E.4.7.1 As áreas cobertas não computadas, previstas em E.4.7, deverão ser discriminadas em quadro de
+áreas próprio.
+ 
+20. ALTERAR o item E.4.8, que passa a vigorar com a seguinte redação:
+E.4.8 Serão considerados locais livres de risco para a segurança contra incêndio e pânico e, portanto, não
+serão contabilizados para definição da área total, tampouco para definição e implementação de medidas
+de segurança, desde que não utilizados como áreas de recepção de público, os espaços destinados ao uso
+coletivo utilizados como:
+a) depósitos de material incombustível;
+b) atividades de agronegócio;
+c) arruamentos internos e áreas de circulação de pedestres;
+d) áreas de carga e descarga onde a presença de veículos e mercadorias seja transitória;
+e) escadas externas não destinadas à saída de emergência;
+f) pátios;
+g) jardins;
+h) pistas de corrida;
+i) quadras de esportes;
+j) áreas de lazer;
+k) piscinas;
+l) playgrounds;
+m) coretos;
+n) praças; e
+o) demais espaços livres exteriores onde a atividade desenvolvida não configure risco de incêndio e
+pânico.
+ 
+21. ALTERAR o item E.4.9, que passa a vigorar com a seguinte redação:
+E.4.9 O disposto no item E.4.8 e subitens também se aplicará aos estacionamentos descobertos, cuja
+ocupação seja principal ou secundária, desde que:
+a) não estejam sobre laje, terraço ou edificação; e
+b) haja acesso de viaturas do Corpo de Bombeiros, atendendo ao disposto na IT 04 e observando-se que:
+b.1) quando o atendimento à IT 04 ocorrer pela existência de vias de acesso, os locais destinados a
+acomodação de veículos poderão estar localizados a, no máximo, 60 metros das referidas vias;
+b.2) quando o atendimento à IT 04 se der pelo acesso ao hidrante de recalque, os pontos de hidrante
+projetados para a edificação deverão cobrir toda a área do estacionamento descoberto, podendo ser
+adicionadas até duas mangueiras de 15 metros no(s) ponto(s) de hidrante mais próximo(s), obtendo-se
+um raio máximo de atuação de 60 metros nas áreas descobertas, desde que mantida a eficiência do
+sistema.
+
+--- PÁGINA 6 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+6/8
+E.4.9.1 Dispensa-se a exigência das condicionantes previstas em E.4.9, alínea ‘b’, quando os locais
+destinados à acomodação de veículos estiverem localizados a, no máximo, 60 metros do logradouro
+público.
+E.4.9.2 As telas de sombreamento (sombrites – sombreadores) projetadas para proteger veículos não
+implicarão na contabilização do espaço como área total, tampouco para definição e implementação de
+medidas de segurança.
+ 
+22. ACRESCENTAR o item E.4.10:
+E.4.10 Para os casos em que haja acomodação de veículos em locais descobertos que não atendam às
+condicionantes previstas no item E.4.9, haverá a contabilização do espaço para fins de definição de área
+total, bem como para definição e implementação de medidas de segurança, aplicando-se, contudo, as
+isenções previstas em A.4.2, além das seguintes permissões:
+a) para a proteção por meio do sistema de hidrantes, quando exigido, podem ser adicionadas até duas
+mangueiras de 15 metros no(s) ponto(s) de hidrante mais próximo(s), obtendo-se um raio máximo de
+atuação de 60 metros nas áreas descobertas, desde que mantida a eficiência do sistema;
+b) para a proteção por meio do sistema de extintores, admite-se o agrupamento dos aparelhos em
+baterias, com caminhamento não superior a 60 metros de qualquer ponto de acomodação de veículos.
+ 
+23. ACRESCENTAR o item E.4.11:
+E.4.11 As garagens de veículos de carga e coletivos (divisão G-4) e os pátios de depósito de veículos
+(ocupação J) não se enquadram no disposto em E.4.9, aplicando-se a tais ocupações o regramento
+previsto em E.4.10.
+ 
+24. ACRESCENTAR o item E.4.12:
+E.4.12 As distâncias máximas tratadas em E.4.9 e E.4.10 referem-se à distância real de caminhamento da
+mangueira.
+ 
+25. ACRESCENTAR o item E.5.2:
+E.5.2 Aplica-se às sobrelojas e jiraus o mesmo regramento definido para mezaninos.
+ 
+26. ACRESCENTAR a alínea ‘q’ no item E.8.1:
+q) edificação que compõe o patrimônio cultural.
+ 
+27. ALTERAR o item E.12.1.6 , que passa a vigorar com a seguinte redação:
+E.12.1.6 Nos casos de Projeto Técnico Simplificado (PTS), se as adaptações e medidas mitigadoras não
+estiverem previstas na IT 40, o RT deverá atestar a segurança dos ocupantes da edificação em caso de
+incêndio ou pânico, mediante preenchimento de laudo próprio (Anexo C da IT 40), sem avaliação de
+mérito pelo CBMMG, cabendo ao vistoriador apenas a conferência da documentação exigida
+(comprovante de existência/construção, Laudo Técnico e documento de responsabilidade técnica
+registrado junto ao respectivo conselho profissional).
+ 
+28. ALTERAR o item F.1.8, que passa a vigorar com a seguinte redação:
+F.1.8   Nas hipóteses previstas pelo art. 27 do Decreto Estadual nº 38.886/1997 e pela legislação
+específica, o interessado poderá, anteriormente à solicitação de realização do serviço, requerer a isenção
+
+--- PÁGINA 7 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+7/8
+de TSP por meio de ferramenta própria no Infoscip, anexando a documentação que comprove o direito à
+isenção, conforme dispõe o item F.4.
+ 
+29. ACRESCENTAR o item F.4:
+F.4 Documentação exigida para isenção de TSP
+F.4.1 Microempreendedor Individual (Lei Complementar nº 123/06, Art. 4º, § 3º)
+F.4.1.1 O solicitante deve apresentar o cartão do Cadastro Nacional da Pessoa Jurídica (CNPJ) para
+comprovação do porte da empresa como MEI.
+F.4.1.2 Caso seja possível comprovar o porte do empreendimento como MEI por meio de consulta ao
+CNPJ, a exigência do cartão pode ser dispensada.
+F.4.1.3 O endereço da empresa deve ser coincidente ao do PSCIP para o qual se solicita a isenção de TSP.
+F.4.1.4 A referida isenção não se aplica a Projeto Técnico para Evento Temporário (PET).
+F.4.2 Órgão público pertencente à União, Estado, Município / Pessoa Jurídica de Direito Público Interno
+(Decreto nº 38.886/1997, Art. 27, X)
+F.4.2.1 O respectivo ente federativo deve apresentar dispositivo da legislação tributária própria que
+preveja a não exigência de taxa do Estado de Minas Gerais.
+F.4.2.2 Quando se tratar de interesse do próprio Estado de Minas Gerais, não haverá cobrança de taxa,
+sendo dispensada a exigência do subitem F.4.2.1.
+F.4.3 Finalidades Militares (Decreto nº 38.886/1997, Art. 27, III)
+F.4.3.1 As Forças Armadas e demais instituições militares de outras unidades federativas devem
+apresentar solicitação de isenção de TSP para edificação pertinente à atividade fim da instituição,
+acompanhada da assinatura do respectivo representante.
+F.4.3.2 As escolas militares se enquadram no disposto no inciso X do Art. 27 do Decreto nº 38.886/1997,
+cujo procedimento para isenção de TSP é o disposto no item F.4.2.
+F.4.4 Entidade de assistência social, de beneficência, de educação ou de cultura, devidamente
+reconhecidas (Decreto nº 38.886/1997, Art. 27, III)
+F.4.4.1 Deverão apresentar o dispositivo legal ou ato administrativo que comprove o reconhecimento
+imposto no Art. 27, III do Decreto nº 38.886/1997.
+F.4.4.2 O inciso III do Art. 27 do Decreto nº 38.886/1997 se dirige a entidades privadas, devendo essas
+apresentarem o dispositivo legal, estatuto, contrato social ou outro documento oficial para comprovação
+das condições do direito de isenção de TSP.
+F.4.4.3 As solicitações advindas de instituições públicas serão analisadas sob a luz do inciso X, art. 27 do
+Decreto nº 38.886/1997, aos moldes do item F.4.2.
+F.4.5 Finalidades Eleitorais, Grêmios e Diretórios Estudantis, Teatro e Cinema, Partidos Políticos,
+Templos Religiosos, Eventos Esportivos (Decreto nº 38.886/1997, Art. 27, I, VIII, IX, XI, XVII)
+F.4.5.1 Deverão apresentar solicitação direta assinada pelo representante e respectiva comprovação legal
+de vínculo representativo da pessoa física com o ente solicitante.
+F.4.6 Estabelecimentos de interesse turístico (Decreto nº 38.886/1997, Art. 27, VII)
+F.4.6.1 Deverão apresentar o documento público emitido por órgão do Estado que comprove ser o
+estabelecimento de interesse turístico, bem como comprovar o cadastro junto à CADASTRUR.
+ 
+30. ALTERAR a alínea ‘a’ do item G.3, que passa a vigorar com a seguinte redação:
+a) acréscimo ou redução de área construída da edificação, salvo o disposto em G.3.1;
+
+--- PÁGINA 8 ---
+01/09/22, 15:54
+SEI/GOVMG - 50785184 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58217709&infra…
+8/8
+31. ACRESCENTAR o item G.3.1:
+G.3.1 O acréscimo ou redução de mezanino ou sobreloja em lojas satélites não ensejará modificação
+obrigatória do PSCIP, devendo, contudo, as medidas de segurança pertinentes serem devidamente
+executadas.
+G.3.1.1 As áreas de mezanino ou sobreloja acrescidas em lojas satélites deverão ser apresentadas no
+PSCIP quando houver a modificação do projeto por ocasião das demais circunstâncias previstas em G.3.
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Diretor(a), em 29/08/2022,
+às 15:47, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 50785184
+e o código CRC 2B76060F.
+Referência: Processo nº 1400.01.0045935/2022-78
+SEI nº 50785184

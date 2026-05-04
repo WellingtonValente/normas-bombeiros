@@ -1,0 +1,6436 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 41 
+1ª edição 
+CONTROLE DE FUMAÇA 
+Aprovada pela portaria n. 27, de 28abr2017, publicada no DOEMG n. 80, ano 125, p.  25. 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Procedimentos 
+6 – Elementos e equipamentos do sistema 
+7– Apresentação do sistema no PSCIP 
+8 – Controle de fumaça natural (Tipo 1) 
+9 – Controle de fumaça mecânico (Tipo 2) 
+10 – Controle de fumaça combinado (Tipo 3) 
+11 – Casos específicos 
+12 – Aspectos de segurança do projeto de 
+sistema de controle de fumaça 
+ANEXOS 
+A – Quadro Resumo do Sistema de 
+Controle de Fumaça 
+B 
+– 
+Equação 
+utilizada 
+para 
+dimensionamento do sistema de 
+controle de fumaça Tipo 1 
+C 
+– 
+Equações 
+utilizadas 
+para 
+dimensionamento do sistema de 
+controle de fumaça Tipo 2
+
+--- PÁGINA 2 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+2/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+1 OBJETIVO 
+1.1 Fornecer parâmetros técnicos para implementação de sistema de controle de fumaça, 
+atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico das edificações 
+e áreas de risco do Estado de Minas Gerais. 
+1.2 Padronizar critérios para análise de processos de segurança contra incêndio e pânico em 
+Minas Gerais. 
+1.3 Orientar os profissionais que atuam na elaboração de projetos e execução de obras 
+submetidas à aprovação do Corpo de Bombeiros Militar de Minas Gerais (CBMMG). 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica (IT) se aplica nas edificações onde é exigida a medida de segurança 
+Controle de Fumaça prevista na IT01 (Procedimentos Administrativos) em função da sua altura, 
+uso/ocupação e população. 
+2.2 O sistema de controle de fumaça deverá ser projetado visando: 
+a) a manutenção de um ambiente seguro nas edificações, durante o tempo necessário para 
+abandono do local sinistrado, evitando os perigos da intoxicação e falta de visibilidade pela fumaça; 
+b) o controle e redução da propagação de gases quentes e fumaça entre a área incendiada e áreas 
+adjacentes, retardando a elevação da temperatura interna e limitando a propagação do incêndio; 
+c) prever condições dentro e fora da área incendiada que irão auxiliar nas operações de busca e 
+resgate de pessoas, localização e controle do incêndio. 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica é necessário consultaras seguintes normas: 
+ 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Instrução Técnica 01 – Procedimentos administrativos – CBMMG 
+3.2 Normas nacionais 
+Instrução Técnica n. 15 – Controle de Fumaça – CBPMESP. 
+ABNT NBR 16401 – Instalações de ar condicionado – Sistemas centrais e unitários. 
+ABNT NBR 7199 – Vidros na construção civil – Projeto, execução e aplicações. 
+NPT 015 – Controle de Fumaça – CBMPR.
+
+--- PÁGINA 3 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+3/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+3.3 Normas internacionais 
+NFPA 92 – Standard for Smoke Control Systems. 
+Guia de projeto de sistemas de ventilação de fumaça para edificações industriais de andar único, 
+incluindo aqueles com mezaninos e depósitos com estantes altas – Ventilation of Smoke 
+Association (Hevac) – Inglaterra. 
+Instruction Technique n. 246 – Relative au désenfumage dans les établissements recevant du 
+public (1982) França. 
+Instruction Technique n. 247 – Relative aux mécanismes de déclenchement des dispositifis de 
+fermeture résistant au feu et de désenfumage (1982) – França. 
+Instruction Technique n. 263 – Relative à laconstruction et au désenfumage des volumes libres 
+intérieurs dans les établisssements recevant du public (1995) França. 
+Règles relatives a la conception et a l’installation d’exutores de fumeé et de chaleur (2006) 
+França. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica aplicam-se as definições constantes no Regulamento de 
+Segurança Contra Incêndio e Pânico, Referências Normativas e IT 02 (Terminologia de Proteção 
+Contra Incêndio e Pânico), complementadas pelas seguintes definições: 
+4.1 Acantonamento: volume livre compreendido entre o chão e o teto / telhado, ou falso teto, 
+delimitado por painéis de fumaça. 
+4.2 Altura da zona enfumaçada (Hf): altura medida entre a face inferior da camada de fumaça e 
+o ponto mais elevado do teto ou telhado. 
+4.3 Altura da zona livre de fumaça (H’): altura medida entre o piso e a face inferior da camada 
+de fumaça. 
+4.4 Altura de referência (H): média aritmética das alturas do ponto mais alto e do ponto mais 
+baixo da cobertura (ou do falso teto) medida a partir do piso. 
+4.5 Área livre de um vão de fachada, de grelha ou de um exaustor natural de fumaça: área 
+geométrica interior da abertura efetivamente desobstruída para passagem de ar, tendo em conta 
+a eventual existência de palhetas. 
+4.6 Área útil de um exaustor mecânico de fumaça: área fornecida pelo fabricante, baseada na 
+influência do vento e das deformações provocadas por uma elevação de temperatura. 
+4.7 Área útil de um vão de fachada, de uma boca de ventilação ou de um exaustor de 
+fumaça: área equivalente a um percentual de área livre, utilizada para fins de cálculo, 
+considerando a influência dos ventos e das eventuais deformações provocadas por um 
+aquecimento excessivo. 
+4.8 Átrio: espaço amplo criado por um andar aberto ou conjuntos de andares abertos, 
+conectando dois ou mais pavimentos cobertos, com ou sem fechamento na cobertura, 
+excetuando-se os locais destinados à escada, escada rolante, e shafts. 
+4.9 Barreiras de fumaça: elemento vertical de separação montado no teto, com altura mínima e
+
+--- PÁGINA 4 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+4/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+características de resistência ao fogo, que previna a propagação horizontal de fumaça de um 
+espaço para outro. 
+4.10 Camada de fumaça: espessura acumulada de fumaça por uma barreira ou painel. 
+4.11 Dimensões do incêndio: as dimensões de base do maior incêndio com o qual um sistema 
+de controle de fumaça deve lidar, podendo ser no formato de um quadrado ou de um círculo. 
+4.12 Entrada de ar: abertura que permite a entrada de ar fresco, em temperatura ambiente, livre 
+de fumaça, na edificação ou compartimento durante as operações de extração de fumaça. 
+4.13 Efeito chaminé: fluxo de ar vertical dentro das edificações, causado pela diferença de 
+temperatura interna e externa. 
+4.14 Espaços adjacentes: áreas dentro de uma edificação com comunicação com corredores, 
+halls e átrios (ex. lojas em um shopping center). 
+4.15 Exaustor mecânico de fumaça: dispositivo instalado em um edifício, acionado 
+automaticamente em caso de incêndio, permitindo a extração de fumaça para o exterior por 
+meios mecânicos. 
+4.16 Exaustor natural de fumaça: dispositivo instalado na cobertura ou fachada de um edifício, 
+susceptível de abertura automática em caso de incêndio, permitindo a extração da fumaça para 
+o exterior por meios naturais. 
+4.17 Extração de fumaça: retirada (natural ou mecânica) da fumaça de ambientes protegidos 
+pelo sistema de controle de fumaça. 
+4.18 Fluxo de calor: a energia total de calor transportada pelos gases quentes na área incendiada. 
+4.19 Fumaça: partículas transportadas na forma sólida, líquida e gasosa, decorrentes de um 
+material submetido à pirólise ou combustão que juntamente com certa quantidade de ar formam 
+uma massa. 
+4.20 Interface da camada de fumaça: o limite teórico entre a camada de fumaça e a zona de 
+transição onde a fumaça está tomando volume. Na prática, a interface da camada de fumaça é 
+um limite efetivo dentro da zona de transição, que pode ter vários metros de espessura. Abaixo 
+desse limite efetivo, a densidade da fumaça cai a zero. 
+4.21 Jato de fumaça sob o teto: um fluxo de fumaça horizontal estendendo-se radialmente do 
+ponto de choque da coluna de fogo contra o teto. Normalmente, a temperatura do jato de fumaça 
+sob o teto será maior que a camada de fogo adjacente. 
+4.22 Queima estável: queima que ocorre em ambiente sujeito a controle por equipamentos de 
+prevenção e combate a incêndio e pânico, tais como sistema de chuveiros automáticos, 
+nebulizadores. 
+4.23 Queima instável: queima que ocorre sem controle da fumaça ou calor por acionamento de 
+sistemas preventivos. 
+4.24 Núcleo do pavimento: área de acesso do pavimento onde se concentram os elevadores e, 
+normalmente, as escadas de segurança. 
+4.25 Painel de fumaça: para efeito desta instrução técnica, sinônimo de barreira de fumaça.
+
+--- PÁGINA 5 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+5/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+4.26 Pressurização: diferença de pressão criada em um ambiente, com a finalidade de impedir 
+a entrada de fumaça. 
+4.27 Produção de calor: calor total gerado pela fonte de fogo. 
+4.28 Registro corta-fumaça: dispositivo utilizado no sistema de controle de fumaça, projetado 
+para resistir à passagem de gases quentes e/ou fumaça no interior de dutos, atendendo a 
+requisitos de resistência a fogo e estanqueidade. 
+4.29 Sistema de controle de fumaça: conjunto de equipamentos através dos quais a fumaça e 
+os gases quentes são limitados, restringidos e extraídos. 
+4.30 Supervisão: auto teste do sistema de controle de fumaça, onde a instalação e os 
+dispositivos com função são monitorados para acompanhar uma falha funcional ou de 
+integridade da instalação e dos equipamentos que controlam o sistema. 
+4.31 Zona enfumaçada: espaço compreendido entre a zona livre de fumaça e a cobertura ou o teto. 
+4.32 Zona livre de fumaça: espaço compreendido entre o piso de um pavimento e a face inferior 
+das barreiras de fumaça ou, nos casos em que estes não existam, a face inferior das bandeiras 
+das portas. 
+4.33 Zona Morta: compartimento no interior da edificação que propicie acúmulo de fumaça. 
+5 PROCEDIMENTOS 
+5.1 Requisitos do Sistema de Controle de Fumaça 
+5.1.1 As edificações devem ser dotadas de meios de controle de fumaça que promovam a 
+extração (mecânica ou natural) dos gases e da fumaça do local de origem do incêndio, 
+controlando a entrada de ar (ventilação) e prevenindo a migração de fumaça e gases quentes 
+para as áreas adjacentes não sinistradas. 
+5.1.2 Para obter um controle de fumaça eficiente as seguintes condições devem ser estabelecidas: 
+a) divisão dos volumes de fumaça a extrair por meio da compartimentação de área ou pela 
+previsão de área de acantonamento (ver item 4.1); 
+b) extração adequada da fumaça, não permitindo a criação de zonas mortas onde a fumaça 
+possa vir a ficar acumulada, após o sistema entrar em funcionamento (ver item 4.33); 
+c) sempre que necessário, permitir um diferencial de pressão, por meio do controle das 
+aberturas de extração de fumaça da zona sinistrada, e fechamento das aberturas de extração de 
+fumaça das demais áreas adjacentes à zona sinistrada, conduzindo a fumaça para o exterior da 
+edificação, nos casos de controles automatizados. 
+5.1.3 O controle de fumaça pode ser previsto de forma isolada ou conjunta para as áreas da 
+edificação. 
+5.1.3.1 As áreas destinadas a rotas de fuga de ocupações distintas ou áreas adjacentes podem 
+ser separadas das áreas com controle de fumaça. 
+5.1.3.2 A separação das áreas prevista no item anterior pode ser obtida por compartimentação, 
+conforme IT07 (Compartimentação horizontal e compartimentação vertical).
+
+--- PÁGINA 6 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+6/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+5.1.3.3 Na impossibilidade de separação ou compartimentação das áreas previstas no item 
+5.1.3.1, o controle de fumaça deverá ser projetado para todas as áreas da edificação de acordo 
+com o previsto no Regulamento de Segurança Contra Incêndio e Pânico. 
+5.1.3.4 Caso o sistema de ar condicionado não integre o sistema de controle de fumaça, 
+cuidados especiais devem ser observado para que: 
+a) o sistema de ar-condicionado seja desligado imediatamente quando da ocorrência do 
+incêndio; 
+b) sejam previstos meios internos aos dutos, a fim de se evitar a propagação de fumaça e gases 
+nocivos para áreas adjacentes e pisos superiores ao local sinistrado. 
+5.1.4 As exigências desta Instrução Técnica não impedem a exigência de outras medidas 
+previstas pelas demais Instruções Técnicas para a edificação. 
+5.1.4.1 Medidas que evitem espécies de concentrações tóxicas em uma camada de fumaça (por 
+exemplo, CO, HCl, HCN) devem ser tomadas sem que haja prejuízo do funcionamento do 
+sistema de controle de fumaça.  
+5.2 Tipos de Sistemas de Controle de Fumaça 
+5.2.1 Para definição do tipo de sistema de controle de fumaça a ser projetado deverão ser 
+observadas as características da edificação e qual tipo de sistema se aplica. 
+5.2.2 O tipo de sistema de controle de fumaça é definido pelo mecanismo adotado para a 
+entrada de ar e a extração de fumaça, conforme Tabela 1. 
+Tabela 1 – Tipo de sistema por entrada de ar e extração de fumaça 
+TIPO 
+CONTROLE 
+ENTRADA DE AR 
+EXTRAÇÃO DE FUMAÇA 
+1 
+Natural 
+Natural 
+Natural 
+2 
+Mecânico 
+Mecânica 
+Mecânica 
+3 
+Combinado 
+Natural 
+Mecânica 
+5.2.3 O sistema de controle natural (Tipo 1) não é permitido para qualquer uma das seguintes 
+situações: 
+a) edificações ou pavimentos sem janelas com área superior a 500m² ou população superior a 
+100 (cem) pessoas; 
+b) áreas de circulação dos átrios cobertos (ver item 11.5.2); 
+c) quando a área de abertura de entrada de ar for menor que a área das aberturas para extração 
+de fumaça, exceção ao previsto em 6.3.2.1; 
+d) edificações com altura superior a 54 (cinquenta e quatro) metros. 
+5.2.4 Nos demais casos, a escolha do sistema a ser adotado ficará a critério do Responsável 
+Técnico, desde que atenda as condições descritas nesta Instrução Técnica. 
+5.3 Áreas a serem protegidas por controle de fumaça 
+5.3.1 O sistema de controle de fumaça deverá ser dimensionado de forma a proteger as
+
+--- PÁGINA 7 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+7/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+seguintes áreas: 
+a) áreas de circulação, áreas comuns; 
+b) áreas de concentração de público; 
+c) átrios; 
+d) corredores; 
+e) subsolos e edificações sem janelas; 
+f) unidades autônomas com área superior a 300 (trezentos) m2 (em edificações altas >54m); 
+g) outras em que se verifique a necessidade de instalação da medida. 
+5.3.2 O tipo de sistema de controle de fumaça a ser adotado e as áreas a serem protegidas pelo 
+sistema estão definidos na Tabela 2.  
+Tabela 2 – Áreas a serem protegidas e tipos de sistema por ocupação 
+Ocupação 
+Tipo de 
+sistema 
+Áreas onde a medida deve ser instalada 
+Grupo 
+Divisão 
+A 
+A-2, A-3 
+- 
+- 
+B 
+B-1, B-2 
+2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300 m2. 
+C 
+C-1, C-2 
+- 
+- 
+C-3 
+1(1), 2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300,0 m2 e depósitos com carga 
+incêndio superior a 300 MJ/m2. 
+D 
+D-1, D-2, 
+D-3, D-4 
+2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300,0 m2. 
+E 
+E-1, E-2, E-3, 
+E-4, E-5, E-6 
+2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300,0 m2. 
+F(2) 
+F-1, F-2, F-3, 
+ F-4, F-8, F-9, 
+F-10 
+2 ou 3 
+Áreas de concentração de público, áreas de circulação, áreas 
+comuns, corredores, átrios, unidades autônomas com área superior a 
+300,0 m2. 
+F-5, F-6, F-11 
+1(1), 2 ou 3 
+G 
+G-1, G-2, G-3, 
+G-4, G-5 
+- 
+- 
+H(2) 
+H-1, H-4, H-6 
+- 
+- 
+H-2, H-5, H-3 
+1(1), 2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300,0 m2. 
+I 
+I-1, I-2, I-3 
+1(1), 2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300,0 m2. 
+J 
+J-1 
+- 
+- 
+J-2, J-3, 
+J-4 
+1(1), 2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300,0 m2, área utilizada como 
+depósito. 
+L 
+L-1, L-2, 
+L-3 
+- 
+- 
+M 
+M-1, M-2, M-4, 
+M-5 
+- 
+- 
+M-3 
+1(1), 2 ou 3 
+Áreas de circulação, áreas comuns, corredores, átrios, unidades 
+autônomas com área superior a 300,0 m2. 
+ 
+Notas: 
+(1) Para alturas superiores a 54 metros deverão ser projetados sistemas tipo 2 ou 3. 
+(2) A isenção prevista no Item 11.1.1 não se aplica às edificações dos grupos/ocupação F e H.
+
+--- PÁGINA 8 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+8/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+5.4 Componentes dos sistemas de controle de fumaça 
+5.4.1 Controle natural de fumaça (Tipo 1) 
+5.4.1.1 A entrada de ar natural pode ser composta por: 
+a) aberturas de entrada de ar localizadas nas fachadas e acantonamentos adjacentes; 
+b) aberturas de entrada posicionadas na fachada ou ligadas a dutos de captação de ar externo; 
+c) grelhas e/ou venezianas; 
+d) portas dos locais a extrair fumaça, localizadas nas fachadas e acantonamentos adjacentes; 
+e) vãos das escadas abertas ou ao ar livre; 
+f) e outros que atendam aos parâmetros e eficiência exigida para o sistema. 
+5.4.1.1.1 As aberturas de entrada de ar do sistema de controle de fumaça Tipo 1 devem ser 
+permanentes ou automatizadas, de forma que assegurem a entrada de ar na edificação 
+independente da atividade humana. 
+5.4.1.1.2 A localização das aberturas de extração deve ser avaliada considerando que as 
+aberturas de entrada de ar e saída da extração devem estar posicionadas com base no 
+movimento da fumaça, de forma a não interferir nas saídas das pessoas. 
+5.4.1.2 A extração de fumaça natural pode ser composta por: 
+a) Exaustores naturais: 
+a.1) abertura ou vão de extração; 
+a.2) claraboia ou alçapão de extração; 
+a.3) dutos e peças especiais; 
+a.4) grelhas ligadas a dutos; 
+a.5) janela e/ou veneziana de extração; 
+a.6) poços ingleses; 
+b) mecanismos elétricos, pneumáticos e mecânicos de acionamento dos dispositivos de extração 
+de fumaça; 
+c) registros corta-fogo e fumaça; 
+d) outros que atendam aos parâmetros e eficiência exigida para o sistema. 
+5.4.1.2.1 As aberturas de extração devem estar localizadas longe das entradas de ar, a fim de se 
+evitar a possibilidade de a fumaça ser deslocada para dentro da edificação.
+
+--- PÁGINA 9 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+9/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+5.4.2 Controle mecânico de fumaça (Tipo 2) 
+5.4.2.1 A entrada de ar mecânica pode ser composta por abertura de ar por insuflação mecânica 
+por meio de grelhas e/ou dutos. 
+5.4.2.2 A extração de fumaça mecânica pode ser composta por: 
+a) duto e peças especiais; 
+b) grelha de extração de fumaça em dutos; 
+c) mecanismos elétricos, pneumáticos e mecânicos de acionamento dos dispositivos de extração 
+de fumaça.  
+d) registro corta-fogo e fumaça; 
+e) ventiladores de controle mecânico de fumaça; 
+5.4.3 Controle combinado de fumaça (Tipo 3) 
+5.4.3.1 A entrada de ar natural pode ser composta pelos componentes discriminados no item 
+5.4.1.1. 
+5.4.3.2 A extração de fumaça mecânica pode ser composta pelos componentes discriminados no 
+item 5.4.2.2. 
+6 ELEMENTOS E EQUIPAMENTOS DO SISTEMA 
+6.1 Áreas de acantonamentos 
+6.1.1 Os acantonamentos se aplicam em edificações térreas, grandes áreas isoladas em um 
+pavimento e edificações que possuam seus pavimentos isolados por lajes. 
+6.1.1.1 As edificações que possuam áreas e que necessitam de sistema de controle de fumaça 
+devem ser divididas em acantonamentos com uma área máxima de 1.600,0 m² (Figura 1). 
+6.1.1.2 O comprimento máximo de um lado da área de acantonamento não deve ultrapassar 60 
+(sessenta) m (Figura 1). 
+ 
+Figura 1 – Divisão em áreas de acantonamento
+
+--- PÁGINA 10 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+10/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+6.1.1.3 As áreas de acantonamento podem ser delimitadas: 
+a) por painéis e/ou barreiras de fumaça (Figura 2); 
+b) pela configuração do telhado; 
+c) pela compartimentação da área, desde que a área compartimentada atenda aos parâmetros 
+descritos nos itens 6.1.1.1 e 6.1.1.2. 
+ 
+Figura 2 – Elementos do sistema de controle de fumaça 
+6.2 Barreiras e painéis de fumaça 
+6.2.1 As barreiras de fumaça são constituídas por: 
+a) elementos de construção do edifício ou qualquer outro componente rígido e estável; 
+b) materiais incombustíveis para-chamas que apresentem tempo de resistência conforme IT 06 
+(Segurança Estrutural das Edificações), no mínimo de 60 (sessenta) min; 
+c) podem ser utilizados vidros que atendam ao TRRF de 60 (sessenta) min; 
+d) outros dispositivos previstos em norma brasileira reconhecida (ABNT); 
+e) outros dispositivos previstos em norma internacional, desde que submetidos à aprovação 
+prévia do Corpo de Bombeiros. 
+6.2.2 Em edificações térreas, grandes áreas isoladas em um pavimento e edificações que 
+possuam seus pavimentos isolados por lajes, as barreiras de fumaça devem ter altura: 
+a) igual a 25% da altura de referência (H), quando esta for igual ou inferior a 6,0 m; 
+b) no mínimo igual a 2,0 m para edificações que possuam altura de referência superior a 6,0 m; 
+c) para fins de dimensionamento, a barreira de fumaça deve conter a camada de fumaça.
+
+--- PÁGINA 11 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+11/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Figura 3 – Altura de referência, altura livre de fumaça e zona enfumaçada 
+6.2.3 Salvo definições específicas nesta Instrução Técnica, as barreiras de fumaça devem ter 
+altura mínima de 0,50 m e conter a camada de fumaça (Figura 4). 
+ 
+Figura 4: Detalhe de barreira de fumaça – corte 
+6.2.4 O tamanho da barreira de fumaça depende do tamanho da camada de fumaça adotada em 
+projeto. 
+6.2.5 Caso as barreiras de fumaça possuam aberturas, estas devem ser protegidas por 
+dispositivos de fechamento automático ou por dutos adequadamente protegidos para controlar o 
+movimento da fumaça pelas barreiras. 
+6.2.6 As áreas com instalação de barreiras de fumaça devem dispor de exaustores naturais ou 
+mecânicos para evitar a formação de zona morta. 
+6.3 Áreas de aberturas de entrada de ar 
+6.3.1 As áreas das aberturas destinadas a entrada de ar devem se situar na zona livre de 
+fumaça no ponto mais baixo possível. 
+6.3.2 A soma das áreas destinadas à entrada de ar deve ser ao menos igual àquelas destinadas 
+a extração de fumaça.
+
+--- PÁGINA 12 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+12/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+6.3.2.1 As áreas de entrada de ar poderão ser inferiores às exigidas para a extração de fumaça 
+desde que seja comprovada a vazão necessária para garantir o fluxo constante de troca de 
+volume de ar na edificação.  
+6.3.3 As áreas de aberturas de entrada de ar serão dimensionadas para os sistemas de controle 
+de fumaça do tipo 1 e 3, adotando as tabelas de porcentagem de abertura (tabelas 6 e 7). 
+6.4 Áreas de abertura de extração de fumaça 
+6.4.1 As áreas das aberturas destinadas a extração da fumaça utilizadas no sistema tipo 1 
+devem se situar no ponto mais alto possível, dentro da zona enfumaçada (Hf) (Figura 3). 
+6.4.2 Todo acantonamento no qual a inclinação do telhado ou teto for inferior a 10%, a distância 
+horizontal entre a barreira, ou painel de fumaça, ou parede limite do acantonamento e as saídas 
+de extração deve ser de até sete vezes a altura de referência (Figura 5). 
+ 
+Figura 5 – Distâncias entre saídas 
+Observação: 
+1) d = distância horizontal da abertura superior de extração até a barreira de fumaça ou parede 
+limite do acantonamento; 
+2) d1 = distância horizontal da abertura de extração, localizada na fachada até a barreira de 
+fumaça ou parede limite do acantonamento; 
+3) d e d1 ≤ 7H e menor que 30,0 m; 
+4) H é a Altura de Referência conforme definido em 4.4. 
+6.4.2.1 Nos acantonamentos nos quais a inclinação dos telhados ou tetos for superior a 10%, as 
+saídas de extração de fumaça devem ser implantadas no ponto mais alto possível, a uma altura 
+superior ou igual à altura de referência. 
+6.4.2.2 No acantonamento que possuir telhado com descontinuidade de altura, deve ser 
+calculada a média das diversas alturas sob o teto ou telhado (H) (Figura 6).
+
+--- PÁGINA 13 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+13/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+ 
+Figura 6 – Altura de referência diversificada por acantonamento 
+6.4.2.3 Quando, no mesmo local, existirem exaustores naturais no teto e aberturas de extração 
+na fachada, estas últimas apenas podem contribuir com um terço da área total útil das aberturas 
+de extração. 
+6.4.2.4 A área útil de um exaustor natural a ser considerada deve ser minorada ou majorada, 
+multiplicando-se um coeficiente de eficácia (E), baseado na posição (acima ou abaixo) deste 
+exaustor em relação à altura de referência (H). 
+6.4.2.5 O coeficiente de eficácia (E) encontra-se na Figura 7 e considera a altura da zona 
+enfumaçada (Hf) e da altura de referência (H). 
+ 
+Figura 7 – Eficiência dos Exaustores 
+6.4.2.5.1 Na determinação da área útil de qualquer exaustor, esta deve ser fornecida pelo 
+fabricante, após ensaio em laboratório credenciado, contendo a influência do vento e das 
+deformações provocadas pela elevação da temperatura, conforme norma de renomada 
+aceitação. 
+6.4.2.5.2 Para os exautores naturais que não forem objeto de ensaio, a área livre de passagem 
+de ar será afetada por um coeficiente de 0,5. 
+6.4.2.5.3 O mesmo coeficiente de eficácia se aplica à área útil das aberturas de extração. 
+6.4.2.5.4 Para as aberturas nas fachadas, o coeficiente de eficácia se aplica à área útil das 
+aberturas situadas dentro da zona enfumaçada.
+
+--- PÁGINA 14 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+14/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+6.4.2.5.5 O valor de “ΔH” representa a diferença de nível entre a altura de referência e a média 
+das alturas dos pontos alto e baixo da abertura contida na zona enfumaçada. 
+6.5 Dutos 
+6.5.1 Os dutos do sistema tipo 1 (natural) devem atender às seguintes características: 
+a) ser construídos em materiais incombustíveis e ter resistência interna à fumaça e gases 
+quentes de 60 min; 
+b) apresentar uma estanqueidade satisfatória do ar; 
+c) ter a seção mínima igual às áreas livres das aberturas que o servem em cada piso; 
+d) ter a relação entre as dimensões transversais de um duto não superior a dois; 
+e) os dutos coletores verticais não podem comportar mais de dois desvios e qualquer um deles 
+deve fazer com a vertical um ângulo máximo de 20º; 
+f) em cada piso, o comprimento dos ramais horizontais de ligação ao duto vertical não deve 
+exceder a 2,0 m, a menos que seja justificado pelo cálculo que a tiragem requerida é 
+assegurada; 
+g) para o cálculo referido na alínea anterior, a fumaça deve ser considerada à temperatura de 
+70ºC, e o ar exterior à temperatura de 21ºC, com velocidade nula. 
+6.5.1.1 Em edificações térreas, grandes áreas isoladas em um pavimento e edificações que 
+possuam seus pavimentos isolados por lajes, no caso de aberturas de extração ligadas a dutos 
+verticais, o comprimento dos dutos deve ser inferior a 40 vezes a razão entre a sua área e o seu 
+perímetro (Figura 8). Ex.: Duto quadrado com 1,0 m de lado = 1,0 m² de área: 40 x 1 / 4 = 10,0 m 
+de comprimento. Duto retangular com 1,0 x 2,0 m = 2,0 m² de área: 40 x 2 / 6 = 13,33 m de 
+comprimento.  
+6.5.1.2 A altura dos dutos do sistema tipo 1 (natural) está limitada a 10 diâmetros hidráulicos (Dh 
+= 4 x área do duto / perímetro do duto), salvo justificação dimensionada por cálculo. 
+ 
+Figura 8 – Diâmetro hidráulico
+
+--- PÁGINA 15 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+15/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+6.5.2 Os dutos dos sistemas Tipo 2 ou 3 devem atender às seguintes características: 
+a) ser construídos em materiais incombustíveis e ter resistência interna à fumaça e gases 
+quentes de 60 minutos; 
+b) ter resistência externa a fogo por 60 minutos, quando fizer parte de um sistema utilizado para 
+extrair fumaça de diversos ambientes ou quando utilizado para entrada de ar; 
+c) apresentar estanqueidade satisfatória do ar; 
+d) ser dimensionado para uma velocidade máxima de 10 m/s quando for construído em alvenaria 
+ou gesso acartonado; 
+e) ser dimensionado para uma velocidade máxima de 15,0 m/s quando for construído em chapa 
+metálica. 
+6.5.3 Para o cálculo da resistência interna do duto, a fumaça deve ser considerada à 
+temperatura de 70ºC quando a edificação for dotada de sistema de chuveiros automáticos e 
+300ºC nos demais casos e o ar exterior à temperatura de 21ºC, com velocidade nula. 
+6.5.4 Quando os dutos atravessarem paredes de compartimentação ou lajes entre pavimentos 
+compartimentados deverá ser instalado registro corta fogo (dampers) na passagem, com o 
+mesmo tempo de resistência ao fogo, conforme parâmetros previstos na IT07-Compartimentação 
+horizontal e compartimentação vertical. 
+6.5.5 Os dutos utilizados para o transporte de fumaça a 70ºC deverão ser construídos em chapa 
+de aço galvanizada obedecendo às recomendações da NBR 16401. Os dutos utilizados para o 
+transporte de fumaça a 300ºC devem ser construídos em chapa de aço carbono com bitola 
+mínima 16 MSG, de construção soldada nas juntas longitudinais e flangeadas nas juntas 
+transversais, com vedação resistente à fumaça e gases quentes por 60 minutos. 
+6.6 Grelhas e venezianas entre compartimentos 
+6.6.1 As grelhas e venezianas, utilizadas na condução de ar, devem ser de materiais 
+incombustíveis, podendo conter dispositivos corta-fogo (dampers) quando necessário. 
+6.6.2 A relação entre as dimensões transversais de uma veneziana ou grelha de fumaça natural 
+não deve ser superior a dois. 
+ 
+Figura 9 – Grelha de fumaça 
+6.6.3 As aberturas de entrada de ar e de extração de fumaça em dutos, dispostas no interior do 
+edifício (entre compartimentos) devem permanecer normalmente fechadas por obturadores.
+
+--- PÁGINA 16 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+16/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+6.6.3.1 A situação prevista no item anterior não se aplica: 
+a) nos casos em que sirvam a dutos exclusivos a um piso;  
+b) nas instalações de ventilação e de tratamento de ar normais da edificação que participem do 
+controle de fumaça; 
+c) onde haja dispositivos de fechamento (dampers, etc) para o sistema de dutos do 
+acantonamento, que isolem os dutos das demais partes comuns do sistema de controle de 
+fumaça da edificação. 
+6.6.4 O dispositivo de obturação das grelhas e venezianas, quando instaladas em abertura ou 
+vão de fachada, deve permitir abertura em um ângulo superior a 60º (Figura 10). 
+ 
+Figura 10 – Ângulo de abertura dos obturadores 
+6.7 Circuitos de instalação elétrica 
+6.7.1 Os circuitos de alimentação das instalações de segurança devem ser independentes de 
+quaisquer outros e protegidos de forma que qualquer ruptura, sobretensão ou defeito de 
+isolamento num circuito não danifique ou interfira em outros circuitos. 
+6.7.2 Os circuitos de alimentação dos ventiladores de controle de fumaça devem ser 
+dimensionados para as maiores sobrecargas que os motores possam suportar e protegidos 
+contra curto-circuito. 
+6.7.3 As canalizações elétricas, embutidas ou aparentes, dos circuitos de alimentação do 
+controle de fumaça mecânico devem ser constituídas e protegidas por elementos que 
+assegurem, em caso de incêndio, a sua integridade durante o tempo mínimo de 2 h. 
+6.8 Comando do sistema 
+6.8.1 Na ausência de aberturas permanentes para entrada de ar e extração de fumaça, as 
+instalações de controle de fumaça devem ser dotadas de dispositivo de destravamento por 
+comandos automáticos duplicados por comandos manuais, assegurando as seguintes funções: 
+a) abertura dos registros ou dos exaustores naturais do local ou da circulação sinistrada;
+
+--- PÁGINA 17 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+17/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+b) abertura das entradas de ar da área sinistrada e áreas adjacentes quando for o caso; 
+c) interrupção das operações das instalações de ventilação ou de tratamento de ar, quando 
+existirem, a menos que essas instalações participem do controle de fumaça; 
+d) partida dos ventiladores utilizados nos sistemas de controle de fumaça mecânico. 
+6.8.2 Os dispositivos de abertura com comando manual devem ser de funcionamento mecânico, 
+elétrico, eletromagnético, pneumático ou hidráulico e acionável por comandos dispostos na 
+proximidade dos acessos aos locais, duplicados na central de segurança, portaria ou local de 
+vigilância de 24 (vinte e quatro) h. 
+6.8.3 Os sistemas de comando automático devem compreender detectores de fumaça e calor, 
+instalados nos locais, ou nas circulações, atuando em dispositivos de acionamento 
+eletromecânicos.  
+6.8.4 Nas instalações dotadas de comando automático deve ser assegurada a entrada em 
+funcionamento do sistema de controle de fumaça no local sinistrado, permanecendo, entretanto, 
+a possibilidade do acionamento por comando manual nas áreas adjacentes. 
+6.8.4.1 A regra acima citada pode ser desconsiderada desde que seja justificada pelo 
+Responsável Técnico que a abertura do controle de fumaça dos acantonamentos adjacentes se 
+torne imprescindível ao funcionamento do sistema. 
+6.8.5 A restituição dos registros ou dos exaustores naturais à sua posição inicial deve ser 
+possível, em qualquer caso, por dispositivos de acionamento manual facilmente acessíveis a 
+partir do pavimento onde estejam instalados. 
+6.8.6 Nos locais equipados com chuveiros automáticos, deve ser assegurado que as instalações 
+de controle de fumaça entrem em funcionamento antes daqueles. 
+6.8.6.1 Nos depósitos e áreas de armazenamento protegidos por chuveiros automáticos do tipo 
+ESFR (resposta e supressão rápida), o sistema de controle de fumaça pode ser acionado com 
+um retardo de, no máximo, 15 (quinze) minutos, a fim de não interferir no acionamento do 
+sistema de chuveiros automáticos. 
+6.8.6.2 No caso acima descrito, deve ser previsto o acionamento alternativo do sistema de 
+controle de fumaça por botoeiras manuais. 
+6.8.7 Os sistemas de comando das instalações de controle mecânico devem assegurar que os 
+ventiladores de extração de fumaça só entrem em funcionamento após a abertura dos registros 
+de entrada de ar e de extração de fumaça do espaço sinistrado. 
+6.8.8 O comando de partida dos ventiladores não deve ser efetuado por intermédio de contatos 
+de fim de curso nas venezianas e registros. 
+6.9 Fontes de alimentação elétrica 
+6.9.1 A alimentação dos ventiladores do sistema de controle de fumaça e dos atuadores das 
+aberturas automáticas/automatizadas deve ser feita a partir do quadro geral do edifício por: 
+a) conjunto de baterias (nobreak), quando aplicável; 
+b) grupo moto-gerador (GMG). 
+6.9.2 Caso o sistema de controle de fumaça seja alimentado por grupo moto-gerador, este deve
+
+--- PÁGINA 18 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+18/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ter a sua partida automática com comutação máxima de 15 (quinze) segundos, em caso de falha 
+de alimentação de energia da rede pública. 
+6.9.3 Caso o sistema de controle de fumaça seja alimentado por baterias de acumuladores, 
+estas devem: 
+a) apenas alimentar as instalações que possuam potência compatível com a capacidade das 
+baterias; 
+b) ser constituídas por baterias estanques, dotadas de dispositivos de carga e regulagem 
+automáticas, que devem: 
+b.1) na presença de energia da fonte normal, assegurar a carga máxima dos acumuladores; 
+b.2) após descarga por falha de alimentação da energia da rede, promover a sua recarga 
+automática no prazo máximo de 30 (trinta) h. 
+6.9.4 O tempo de autonomia deve ser de 60 (sessenta) minutos. 
+6.10 Registros corta-fogo e fumaça 
+6.10.1 Os registros devem ter dispositivo de fechamento e abertura conforme a necessidade que 
+a situação exige, baseada na lógica de funcionamento do sistema de controle de fumaça 
+implantado. 
+6.10.2 O funcionamento do registro deve estar vinculado ao sistema de detecção. 
+6.10.3 Deve ter a mesma resistência ao fogo do ambiente onde se encontra instalado, possuindo 
+resistência mínima de 60 (sessenta) minutos. 
+6.10.4 Devem permitir as mesmas vazões dos dutos (insuflação e extração) de onde se 
+encontram instalados. 
+6.11 Ventiladores de extração de fumaça e entrada de ar 
+6.11.1 Os exaustores de fumaça devem resistir, sem alterações sensíveis do seu regime de 
+funcionamento, à passagem de fumaça durante o tempo mínimo de 60 (sessenta) minutos. 
+6.11.2 Os dispositivos de ligação dos ventiladores aos dutos devem ser constituídos por 
+materiais incombustíveis e estáveis. 
+6.11.3 A condição dos ventiladores (em funcionamento/parado) deve ser sinalizada na central de 
+segurança, portaria ou local de vigilância de 24 (vinte e quatro) h. 
+6.11.4 Para áreas superiores a 1.600,0 m² devem ser previstos ventiladores em duplicata tanto 
+para extração de fumaça quanto para entrada de ar, com reversão automática em caso de falha 
+no equipamento operante. 
+ 
+7 APRESENTAÇÃO DO SISTEMA NO PROCESSO DE SEGURANÇA CONTRA INCÊNDIO 
+PÂNICO (PSCIP) 
+7.1 Na confecção do PSCIP o Responsável Técnico deverá incluir o quadro resumo (Anexo A) 
+preenchido conforme o tipo de sistema adotado.
+
+--- PÁGINA 19 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+19/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+7.2 De acordo com o tipo de sistema previsto para o projeto, independente da metodologia 
+adotada, a representação em planta deverá ser conforme IT 03 (Símbolos gráficos para projeto 
+de segurança contra incêndio e pânico) ou nota em planta com indicação, dos seguintes itens: 
+a) entrada de ar (aberturas, grelhas, venezianas e insuflação mecânica); 
+b) exaustores naturais (entradas, aberturas, grelhas, venezianas, clarabóias e alçapões); 
+c) exaustores mecânicos; 
+d) dutos e peças especiais; 
+e) registro corta-fogo e fumaça; 
+f) localização dos pontos de acionamento alternativo do sistema; 
+g) localização dos detectores de incêndio; 
+h) localização da central de alarme/detecção de incêndio; 
+i) localização da casa de máquinas dos insufladores e exaustores; 
+j) localização da fonte de alimentação, quadros e comandos; 
+k) distâncias dos exaustores em relação à divisa do terreno; 
+l) dimensões em escala das barreiras de fumaça, altura de referência (H) e altura da zona livre 
+de fumaça (H’). 
+7.2.1 As entradas de ar, exaustores e dutos deverão ser apresentadas também em corte e/ou 
+fachada. 
+7.3 Os PSCIP com sistema de controle de fumaça do Tipo 2 e 3 deverão conter memorial 
+descritivo da lógica do funcionamento. 
+7.3.1 A lógica de funcionamento do sistema deve ser projetada de forma que a área sinistrada 
+seja colocada em pressão negativa em relação às áreas adjacentes. 
+7.3.2 Deve ser acionada a extração de fumaça apenas da área sinistrada, concomitantemente 
+deve ser acionada a entrada de ar da área sinistrada e também das áreas adjacentes. 
+7.3.3 A entrada em operação do sistema de controle de fumaça deve ocorrer no início da 
+formação da fumaça pelo incêndio, ou projetando a camada de fumaça em determinada altura, 
+de forma a se evitar condições perigosas, como a generalização do incêndio (flashover) ou a 
+propagação do incêndio decorrente do aumento de temperatura do local incendiado. 
+7.3.3.1 Para evitar as condições perigosas citadas no item anterior, deve ser previsto o 
+acionamento em conjunto da abertura de extração de fumaça da área sinistrada, com a entrada 
+de ar no menor tempo possível, para que não ocorra a explosão ambiental. 
+7.4 Quando o sistema de controle de fumaça for projetado utilizando metodologia diversa da 
+definida nesta instrução técnica (método de escala ou simulação computacional) o PSCIP será 
+submetido à análise por corpo técnico.
+
+--- PÁGINA 20 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+20/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+8 DIMENSIONAMENTO DOS SISTEMAS DE CONTROLE DE FUMAÇA TIPO 1 
+8.1 O controle natural de fumaça (Tipo 1) é realizado por meio da introdução do ar externo e 
+extração de fumaça, seja diretamente, ou por meio de dutos para o exterior, disposto para 
+assegurar a ventilação do local (ver figura 11). 
+ 
+Figura 11 – Exemplo de controle de fumaça natural 
+8.2 Os exaustores naturais e as outras aberturas de extração de fumaça devem ser instalados 
+de forma que a distância, medida na horizontal, a qualquer obstáculo ou abertura em fachada 
+que lhes seja mais elevado, não seja inferior à diferença de altura entre o exaustor e o obstáculo, 
+com um máximo exigido de 8,0 m. 
+8.3 Com relação à divisa do terreno e a propriedade adjacente, os exaustores e outras aberturas 
+de descarga de fumaça devem distar horizontalmente, no mínimo, 4,0 m. 
+8.3.1 Caso a condição acima não possa ser atendida, deverá ser criado um anteparo 
+incombustível, de forma a evitar a propagação do incêndio à edificação vizinha. 
+8.4 As aberturas de entrada de ar devem ser dispostas em zonas resguardadas da fumaça 
+produzida em um incêndio. 
+8.5 Parâmetros de dimensionamento 
+8.5.1 Para obter a área de extração de fumaça do sistema Tipo 1 para ocupação comercial, 
+industrial e depósitos deve-se: 
+a) para as edificações comerciais, industriais e depósitos, classificar o risco por meio da Tabela 3; 
+b) com a classificação de risco, obter o grupo no qual a edificação se enquadra por meio da 
+Tabela 4;
+
+--- PÁGINA 21 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+21/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+c) obtido o grupo no qual a edificação se enquadra, baseando-se na altura de referência e na 
+altura que se pretende ter livre de fumaça (dados de projeto), obtém-se a porcentagem para a 
+determinação das áreas de abertura de extração de fumaça com o emprego da Tabela 5; 
+d) a área de extração (Ae) será obtida pelo produto da porcentagem de abertura (%a) e área total 
+da edificação ou área do acantonamento para os casos em que for calculada a abertura para 
+cada acantonamento (A), conforme a equação 1: 
+𝐀𝐞= (𝐀× % 𝐚) 
+Onde: 
+Ae= área de extração;  
+%a= porcentagem de abertura (ex: 0,3% = 0,3/100);  
+A= área total da edificação ou área do acantonamento para os casos em que for calculada a abertura 
+para cada acantonamento. 
+e) a área de entrada de ar a ser utilizada deverá ser no mínimo igual a área de extração de 
+fumaça. 
+8.5.1.1 Nos casos de depósitos e áreas de armazenamento, o grupo de risco depende, também, 
+da altura de estocagem, conforme se observa na Tabela 4. 
+8.5.1.2 Caso a altura de estocagem da edificação se encontre entre linhas da Tabela 4, deverá 
+ser adotado o valor imediatamente acima para efeito de enquadramento do grupo a considerar. 
+Exemplo: Depósito com altura de estocagem real de 5,8 m enquadrado como RE3, considerar a 
+altura imediatamente acima na Tabela 4, ou seja, 6,3 m e grupo 6. 
+8.5.1.3 Alturas superiores às encontradas na Tabela 5 devem ser submetidas à análise por 
+Corpo Técnico. 
+8.5.1.4 Para fins de arranjo da área de acantonamento, posição dos exaustores naturais e outros 
+parâmetros para previsão dos equipamentos, devem ser atendidos o item 6.1. 
+Tabela 3 – Lista de classificação de riscos comerciais, industriais e depósitos 
+CLASSIFICAÇÃO DE RISCOS COMERCIAIS, INDUSTRIAIS E DEPÓSITOS 
+Descrição das atividades 
+Riscos relativos ao 
+comércio (RC) 
+Riscos relativos à 
+área de fabricação 
+do produto (RF) 
+Riscos relativos a depósito 
+de matéria prima, 
+expedição ou depósito de 
+produto acabado 
+(estocagem) (RE) 
+PRODUTOS TÊXTEIS, TECIDOS E FIOS 
+Fibras têxteis naturais, produção de algodão, 
+cânhamo, juta, linho, lã, seda e etc. 
+RC3 
+RF3 
+RE2 
+Tecidos estampados, alvejados e bordados 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Tecidos, algodão, cânhamo, juta, linho, ráfia, 
+lã etc. 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Tecido, seda (artificial/ natural), meias e 
+roupas íntimas femininas 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Têxteis, artigos (roupas, vestimentas etc.) 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Tecidos de lã natural 
+RC3 
+RF4 
+RE2 ou RE3 (1) 
+Fibras sintéticas 
+RC3 
+RF3 
+RE2 
+Tecidos sintéticos, nylon, rayon-viscose e 
+acetato 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Artigos esportivos 
+RC3 
+------ 
+RE2
+
+--- PÁGINA 22 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+22/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+CLASSIFICAÇÃO DE RISCOS COMERCIAIS, INDUSTRIAIS E DEPÓSITOS 
+Descrição das atividades 
+Riscos relativos ao 
+comércio (RC) 
+Riscos relativos à 
+área de fabricação 
+do produto (RF) 
+Riscos relativos a depósito 
+de matéria prima, 
+expedição ou depósito de 
+produto acabado 
+(estocagem) (RE) 
+Ataduras 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Alfaiatarias/costureiras 
+RC3 
+------ 
+RE2 
+Malharia 
+RC3 
+RF2 
+RE2 
+BEBIDAS 
+Bebidas alcoólicas 
+RC3 
+RF2 
+RE2 
+Bebidas sem álcool (Ex.: Refrigerantes) 
+RC3 
+RF1 
+RE2 
+Cervejaria/lúpulo 
+RC2 
+RF1 
+RE1 
+Malte 
+RC3 
+RF1 
+RE1 
+AUTO / AVIÕES / BARCOS 
+Acessórios de autos 
+RC3 
+RF2 
+RE2 ou RE3 (1) 
+Autos 
+RC3 
+RF2 
+RE2 ou RE3 (1) 
+Aviões 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Barcos 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+MÓVEIS E MADEIRA 
+Caixas de madeira 
+RC3 
+RF3 
+RE2 
+Loja de decoração 
+RC3 
+------ 
+RE2 
+Madeira torneada, artigos 
+RC3 
+RF3 
+RE2 
+Madeira envernizada, artigos 
+RC3 
+RF3 
+RE3 
+Madeira, aglomerada ou compensada 
+RC3 
+RF3 
+RE2 
+Antiguidades/ objetos usados/leiloeiros/ casa 
+de penhores 
+RC3 
+------ 
+RE3 
+Madeira, aparas 
+RC3 
+RF3 
+RE2 
+Madeira, artigos de carpintaria 
+RC3 
+RF3 
+RE2 
+Madeira, artigos de marcenaria 
+RC3 
+RF3 
+RE2 
+Madeira, artigos de marchetaria 
+RC3 
+RF3 
+RE2 
+Madeira, artigos de polimento 
+RC3 
+RF3 
+RE2 
+Madeira, artigos de secagem 
+RC3 
+RF3 
+RE2 
+Madeira, artigos de impregnação 
+RC3 
+RF3 
+RE3 
+Madeira, artigos de serrada 
+RC3 
+RF3 
+RE2 
+Madeira, artigos de talhada 
+RC3 
+RF3 
+RE2 
+Madeira, resíduos de 
+RC3 
+RF3 
+RE2 
+Madeira, vigas e tábuas 
+RC3 
+RF3 
+RE2 
+Madeiras em tronco 
+RC3 
+RF3 
+RE2 
+Madeiras, folheados 
+RC3 
+RF3 
+RE2 
+Portas de madeira 
+RC3 
+RF3 
+RE2 
+Tonéis de madeira 
+RC3 
+RF3 
+RE2 
+Janelas de madeiras 
+RC3 
+RF3 
+RE2 
+Painéis compensados de madeira 
+RC3 
+RF3 
+RE2 
+Painéis de madeira aglomerada 
+RC3 
+RF3 
+RE2 
+Palhas de madeira 
+RC3 
+RF3 
+RE2 
+Tacos de madeira 
+RC3 
+RF3 
+RE2
+
+--- PÁGINA 23 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+23/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+CLASSIFICAÇÃO DE RISCOS COMERCIAIS, INDUSTRIAIS E DEPÓSITOS 
+Descrição das atividades 
+Riscos relativos ao 
+comércio (RC) 
+Riscos relativos à 
+área de fabricação 
+do produto (RF) 
+Riscos relativos a depósito 
+de matéria prima, 
+expedição ou depósito de 
+produto acabado 
+(estocagem) (RE) 
+Colheres de madeira 
+RC3 
+RF3 
+RE2 
+Prateleiras de madeira 
+RC3 
+RF3 
+RE2 
+Palets de madeira 
+RC3 
+RF3 
+RE2 
+Féretros de madeira 
+RC3 
+RF3 
+RE3 
+Guarda-móveis 
+RC3 
+RF3 
+RE3 
+Guarda-roupas de madeira 
+RC3 
+RF3 
+RE3 
+Móveis de madeira 
+RC3 
+RF3 
+RE3 
+Móveis de madeira 
+envernizada 
+RC3 
+RF3 
+RE3 
+Móveis revestidos sem espuma sintética 
+RC3 
+RF3 
+RE3 
+Móveis, carpintaria 
+RC3 
+RF3 
+RE3 
+BORRACHA 
+Borracha 
+RC3 
+RF4 
+RE3 
+Espuma de borracha e borracha esponjosa 
+RC3 
+RF4 
+RE4 
+CALÇADOS 
+Calçados (sem solado de madeira ou 
+plástico) 
+RC3 
+RF3 
+RE3 
+Calçados (com solado de madeira ou 
+plástico) 
+RC3 
+RF3 
+RE4 
+PLÁSTICOS / ESPUMA 
+Artigos plásticos 
+(ex.: sacos, lona, portas plásticas) 
+RC3 
+RF3 
+RE2 
+Transformação (sem espuma) 
+RC3 
+RF3 
+RE2 
+Espuma sintética, artigos de 
+RC3 
+RF4 
+RE4 
+Rejeitos de espuma em rolos ou placas 
+RC3 
+RF4 
+RE4 
+Brinquedos 
+RC3 
+RF3 
+RE3 
+Colchões 
+RC3 
+RF4 
+RE4 
+PAPEL / CARTONAGEM 
+Papel/ papelão/ artigos de escritório/ 
+papelaria 
+RC3 
+RF3 
+RE2 ou RE3 (1)(5) 
+Papel, aparas prensadas 
+RC3 
+RF3 
+RE2 
+Papelão betuminado 
+RC3 
+RF4 
+RE2 ou RE3 (1)(5) 
+Papelão ondulado 
+RC3 
+RF3 
+RE2 ou RE3 (1)(5) 
+Artigos de papel 
+RC3 
+RF3 
+RE2 
+Cartonagem 
+RC3 
+RF3 
+RE2 ou RE3 (1)(5) 
+Jornais/ Revistas 
+RC3 
+------ 
+RE2 
+Armarinhos 
+RC3 
+------ 
+RE2 
+Cartonagembetuminada 
+RC3 
+RF4 
+RE2 ou RE3 (1)(5) 
+TAPETES / CORDOARIA / CESTARIA 
+Tapetes 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Tapeçaria, artigos de 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+Cabos ou cordas 
+RC3 
+RF3 
+RE2 
+Cordoaria 
+RC3 
+RF3 
+RE2
+
+--- PÁGINA 24 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+24/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+CLASSIFICAÇÃO DE RISCOS COMERCIAIS, INDUSTRIAIS E DEPÓSITOS 
+Descrição das atividades 
+Riscos relativos ao 
+comércio (RC) 
+Riscos relativos à 
+área de fabricação 
+do produto (RF) 
+Riscos relativos a depósito 
+de matéria prima, 
+expedição ou depósito de 
+produto acabado 
+(estocagem) (RE) 
+Barbante 
+RC3 
+RF3 
+RE2 
+Cestaria 
+RC3 
+RF3 
+RE2 
+EMBALAGENS 
+Embalagem 
+RC3 
+RF3 
+RE3 
+LOJAS COMERCIAIS 
+Lojas comercias/ supermercados 
+RC3 (4) 
+------ 
+RE3 
+Perfumaria/ loja de artigos 
+RC3 
+------ 
+RE3 
+Bijuterias/ joalherias 
+RC2 
+------ 
+RE1 
+COURO / MATADOURO / CURTUME 
+Matadouro 
+RC1 
+RF2 
+RE1 
+Curtume 
+RC3 
+RF2 
+RE2 
+Couro 
+RC2 
+RF2 
+RE1 
+Couro sintético 
+RC3 
+RF3 
+RE2 
+Couro, artigos de 
+RC2 
+RF3 
+RE1 
+Couro sintético, artigos de 
+RC3 
+RF3 
+RE2 
+Urdume 
+RC2 
+RF2 
+RE1 
+TABACO 
+Tabaco 
+RC3 
+RF2 
+RE2 
+METAL 
+Tabaco, artigos de 
+(fumos, charutos e cigarros) 
+RC3 
+RF2 
+RE2 
+Artigos de metal e aço 
+RC1 ou RC2 ou RC3 (3) 
+RF1 
+RE1 (2) 
+Aparelhos de metal e aço 
+RC1 
+RF1 
+RE1 (2) 
+Prateleira de metal/ madeira 
+RC2 
+RF2 
+RE1 (2) 
+Alumínio, produção 
+RC1 
+RF2 
+RE1 (2) 
+Artigos metálicos, fund. p/ injeção 
+RC1 ou RC2 ou RC3 (3) 
+RF1 
+RE1 (2) 
+Artigos metálicos, fundição 
+RC1 ou RC2 ou RC3 (3) 
+RF1 
+RE1 (2) 
+Chapas metálicas, artigos 
+RC1 
+RF1 
+RE1 (2) 
+Chapas metálicas, embalagem 
+RC1 
+RF1 
+RE1 (2) 
+Câmara frigorífica 
+RC3 
+------ 
+RE1 
+Ferragens 
+RC3 
+RF1 
+RE1 (2) 
+Ferramentas 
+RC3 
+RF1 
+RE1 (2) 
+Armas 
+RC3 
+------ 
+RE1 
+CORTIÇA 
+Cortiça 
+RC3 
+RF2 
+RE2 
+Cortiça, artigo de (ex.: painéis) 
+RC3 
+RF2 
+RE2 
+Cortinas em rolo 
+RC3 
+RF2 
+RE2 
+ELETRICIDADE 
+Aparelhos de rádio e som, televisão, 
+domésticos, eletrônicos, diversões 
+eletrônicas 
+RC3 
+RF3 
+RE2 ou RE3 (1)
+
+--- PÁGINA 25 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+25/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+CLASSIFICAÇÃO DE RISCOS COMERCIAIS, INDUSTRIAIS E DEPÓSITOS 
+Descrição das atividades 
+Riscos relativos ao 
+comércio (RC) 
+Riscos relativos à 
+área de fabricação 
+do produto (RF) 
+Riscos relativos a depósito 
+de matéria prima, 
+expedição ou depósito de 
+produto acabado 
+(estocagem) (RE) 
+MECÂNICO 
+Máquinas em geral (mecânica) 
+RC1 
+------ 
+RE1 
+Montagem, fundição, usinagem, ajuste e 
+colocação de metais. 
+RC1 ou RC2 ou RC3 (3) 
+RF2 
+RE1 (2) 
+ESCOVAS / VASSOURAS / PINCÉIS 
+Escovas, vassouras, espanadores e pincéis 
+RC3 
+RF3 
+RE2 
+FELTRO 
+Feltro 
+RC3 
+RF3 
+RE2 ou RE3 (1) 
+ALIMENTOS 
+Padaria e confecção de pães, bolos e 
+bolachas etc. 
+RC3 
+RF2 
+RE2 
+Confeitaria (chocolate e doces) 
+RC3 
+RF2 
+RE2 
+Congelados 
+RC3 
+------ 
+RE1 
+Conservas 
+RC2 
+RF2 
+RE1 
+Frigorífico/ Laticínio 
+RC2 
+RF1 
+RE1 
+Azeite/ Óleo comestível 
+RC3 
+RF4 
+RE3 
+Glicose 
+RC2 
+RF1 
+RE1 
+Farinhas alimentares 
+RC3 
+RF3 
+RE2 
+Açúcar (usinagem e refinamento) 
+RC3 
+RF3 
+RE2 
+Ervanarias 
+RC1 
+RF1 
+RE2 
+Mercearias/ Quitandas 
+RC1 
+------ 
+RE2 
+Açougue 
+RC2 
+------ 
+RE1 
+Fermento, levedura 
+RC3 
+RF1 
+RE2 
+CERÂMICA / LOUÇAS / VIDROS 
+Louças (em geral) 
+RC2 
+RF1 
+RE1 (2) 
+Cerâmica 
+RC2 
+RF1 
+RE1 (2) 
+Vidros 
+RC2 
+RF1 
+RE1 (2) 
+Cimento 
+RC1 
+RF1 
+RE2 
+GRÁFICAS / TIPOGRAFIAS 
+Tipografia 
+RC3 
+RF3 
+RE4 
+PRODUTOS QUÍMICOS / TINTAS 
+Produtos Farmacêuticos/Drogaria 
+RC3 
+RF2 
+RE3 
+Tintas a base de óleo 
+RC3 
+RF4 
+RE2 
+Tintas a base de água 
+RC3 
+RF2 
+RE1 
+Fósforo 
+RC3 
+RF4 
+RE3 
+Fumo negro 
+RC3 
+RF4 
+RE3 
+Resina natural 
+RC3 
+RF4 
+RE3 
+Sabão/ detergentes 
+RC3 
+RF3 
+RE3 
+Alcatrão 
+RC3 
+RF4 
+RE2 
+Produtos de limpeza 
+RC3 
+RF2 
+RE3 
+Óleos: mineral, vegetal, animal 
+RC3 
+RF4 
+RE3 
+Resinas naturais 
+RC3 
+RF4 
+RE2
+
+--- PÁGINA 26 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+26/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+CLASSIFICAÇÃO DE RISCOS COMERCIAIS, INDUSTRIAIS E DEPÓSITOS 
+Descrição das atividades 
+Riscos relativos ao 
+comércio (RC) 
+Riscos relativos à 
+área de fabricação 
+do produto (RF) 
+Riscos relativos a depósito 
+de matéria prima, 
+expedição ou depósito de 
+produto acabado 
+(estocagem) (RE) 
+Resinas sintéticas 
+RC3 
+RF4 
+RE3 
+Verniz 
+RC3 
+RF4 
+RE2 
+Notas: 
+1) Classificações válidas segundo a natureza das embalagens, sendo RE2 para embalagens de 
+papelão e RE3 para embalagens de espuma/plástico; 
+2) Classificação válida para embalagens de papelão, caso sejam embalagens de plástico para 
+risco RE2; 
+3) Classificação: 
+RC1, quando a peça metálica não possuir embalagem; 
+ 
+ 
+ 
+RC2, quando a peça metálica possuir embalagem de papelão; 
+ 
+ 
+ 
+RC3, quando a peça metálica possuir embalagem de plástico. 
+4) Considerado RC para as áreas comuns de shoppings e lojas menores de 300 m², sendo que 
+para as lojas maiores que 300 m² e riscos especiais deverão ser classificados pelo risco 
+predominante; 
+5) Para armazenamento de papel e rolos de papel, considerar RE2 quando armazenado 
+horizontalmente e RE3 quando armazenado verticalmente. 
+Tabela 4 – Determinação de risco para ocupações 
+Categorias de Risco 
+Altura máxima de estocagem 
+(m) 
+Grupo a considerar na Tabela 5 
+RC1 
+------ 
+1 
+RC2 
+------ 
+2 
+RC3 
+------ 
+3 
+RF1 E RF2 
+------ 
+3 
+RF3 E RF4 
+------ 
+4 
+RE1 
+4,0 
+3 
+7,6 (*) 
+4 
+RE2 
+3,0 
+3 
+5,9 
+4 
+7,5 (*) 
+5 
+RE3 
+2,1 
+3 
+4,1 
+4 
+5,2 
+5 
+6,3 
+6 
+7,7(*) 
+7 
+RE4 
+1,2 
+3 
+2,3 
+4 
+3,0 
+5 
+3,6 
+6 
+4,4(*) 
+7 
+Notas: 
+RC = risco para áreas comerciais; 
+RF = risco para áreas industriais;  
+RE = risco para área de estocagem e depósitos. 
+(*) A porcentagem de abertura para alturas superiores a estas deve ser obtida através de 
+progressão dos grupos de risco
+
+--- PÁGINA 27 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+27/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Tabela 5 – Porcentagem para a determinação das áreas de abertura de ocupações 
+comerciais, industriais e depósitos 
+Altura de 
+referência 
+H (m) 
+Altura da zona 
+livre de fumaça 
+H´ (m) 
+% de abertura 
+GR 1 
+GR 2 
+GR 3 
+GR 4 
+GR 5 
+GR 6 
+GR 7 
+4,0 
+3,0 
+0,30 
+0,43 
+0,61 
+0,86 
+1,05 
+1,20 
+1,46 
+4,50 
+3,0 
+0,25 
+0,35 
+0,50 
+0,70 
+0,86 
+1,05 
+1,19 
+3,25 
+0,31 
+0,43 
+0,61 
+0,87 
+1,06 
+1,30 
+1,47 
+5,0 
+3,0 
+0,21 
+0,30 
+0,43 
+0,61 
+0,74 
+0,91 
+1,03 
+3,25 
+0,26 
+0,37 
+0,52 
+0,73 
+0,90 
+1,10 
+1,24 
+3,50 
+0,31 
+0,44 
+0,63 
+0,88 
+1,08 
+1,33 
+1,50 
+3,75 
+0,38 
+0,54 
+0,76 
+1,07 
+1,32 
+1,61 
+1,82 
+5,50 
+3,0 
+0,19 
+0,27 
+0,38 
+0,54 
+0,67 
+0,82 
+0,92 
+3,25 
+0,23 
+0,32 
+0,46 
+0,65 
+0,79 
+0,97 
+1,10 
+3,50 
+0,27 
+0,38 
+0,54 
+0,77 
+0,94 
+1,15 
+1,30 
+3,75 
+0,32 
+0,45 
+0,64 
+0,91 
+1,11 
+1,36 
+1,54 
+4,0 
+0,54 
+0,54 
+0,76 
+1,08 
+1,32 
+1,62 
+1,83 
+6,0 
+3,0 
+0,18 
+0,25 
+0,35 
+0,50 
+0,61 
+0,74 
+0,84 
+3,25 
+0,21 
+0,29 
+0,41 
+0,58 
+0,72 
+0,88 
+0,99 
+3,50 
+0,24 
+0,34 
+0,48 
+0,69 
+0,84 
+1,03 
+1,16 
+3,75 
+0,40 
+0,40 
+0,57 
+0,80 
+0,98 
+1,20 
+1,36 
+4,0 
+0,33 
+0,47 
+0,66 
+0,64 
+1,15 
+1,40 
+1,59 
+6,50 
+3,25 
+0,19 
+0,27 
+0,38 
+0,54 
+0,66 
+0,81 
+0,91 
+3,50 
+0,22 
+0,31 
+0,44 
+0,63 
+0,77 
+0,94 
+1,06 
+3,75 
+0,26 
+0,36 
+0,51 
+0,72 
+0,89 
+1,09 
+1,23 
+4,0 
+0,30 
+0,42 
+0,59 
+0,84 
+1,03 
+1,26 
+1,42 
+4,25 
+0,34 
+0,48 
+0,68 
+0,97 
+1,18 
+1,45 
+1,64 
+4,50 
+0,39 
+0,56 
+0,79 
+1,12 
+1,37 
+1,68 
+1,89 
+7,0 
+3,50 
+0,20 
+0,29 
+0,41 
+0,58 
+0,71 
+0,87 
+0,98 
+3,75 
+0,24 
+0,33 
+0,47 
+0,67 
+0,82 
+1,0 
+1,13 
+4,0 
+0,27 
+0,38 
+0,54 
+0,76 
+0,94 
+1,15 
+1,30 
+4,25 
+0,31 
+0,44 
+0,62 
+0,87 
+1,07 
+1,31 
+1,48 
+4,50 
+0,35 
+0,50 
+0,71 
+1,0 
+1,22 
+1,50 
+1,69 
+4,75 
+0,40 
+0,57 
+0,81 
+1,14 
+1,40 
+1,71 
+1,94 
+5,0 
+0,46 
+0,65 
+0,93 
+1,31 
+1,60 
+1,96 
+2,22 
+7,50 
+3,75 
+0,22 
+0,31 
+0,44 
+0,62 
+0,76 
+0,93 
+1,05 
+4,0 
+0,25 
+0,35 
+0,50 
+0,71 
+0,87 
+1,06 
+1,20 
+4,25 
+0,28 
+0,40 
+0,57 
+0,80 
+0,98 
+1,21 
+1,36 
+4,50 
+0,32 
+0,46 
+0,64 
+0,91 
+1,12 
+1,37 
+1,55 
+4,75 
+0,37 
+0,52 
+0,73 
+1,03 
+1,26 
+1,55 
+1,75 
+5,0 
+0,41 
+0,59 
+0,83 
+1,17 
+1,43 
+1,76 
+1,98 
+5,25 
+0,47 
+0,66 
+0,94 
+1,33 
+1,63 
+1,99 
+2,25 
+5,50 
+0,53 
+0,75 
+1,07 
+1,51 
+1,85 
+2,26 
+2,56 
+8,0 
+4,0 
+0,23 
+0,33 
+0,47 
+0,66 
+0,81 
+0,99 
+1,12 
+4,25 
+0,26 
+0,37 
+0,53 
+0,75 
+0,92 
+1,12 
+1,27 
+4,50 
+0,30 
+0,42 
+0,60 
+0,84 
+1,03 
+1,27 
+1,43 
+4,75 
+0,34 
+0,48 
+0,67 
+0,95 
+1,16 
+1,43 
+1,61 
+5,0 
+0,38 
+0,53 
+0,76 
+1,07 
+1,31 
+1,60 
+1,81 
+5,25 
+0,42 
+0,60 
+0,85 
+1,20 
+1,47 
+1,80 
+2,03 
+5,50 
+0,48 
+0,67 
+0,95 
+1,35 
+1,65 
+2,02 
+2,29 
+5,75 
+0,54 
+0,76 
+1,08 
+1,52 
+1,86 
+2,28 
+2,58 
+6,0 
+0,61 
+0,86 
+1,22 
+1,72 
+2,11 
+2,58 
+2,92 
+8,50 
+4,25 
+0,25 
+0,35 
+0,50 
+0,70 
+0,86 
+1,05 
+1,19 
+4,50 
+0,28 
+0,39 
+0,56 
+0,79 
+0,97 
+1,18 
+1,34 
+4,75 
+0,31 
+0,44 
+0,63 
+0,88 
+1,08 
+1,33 
+1,50 
+5,0 
+0,35 
+0,49 
+0,70 
+0,99 
+1,21 
+1,48 
+1,68 
+5,25 
+0,39 
+0,55 
+0,78 
+1,10 
+1,35 
+1,66 
+1,87
+
+--- PÁGINA 28 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+28/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência 
+H (m) 
+Altura da zona 
+livre de fumaça 
+H´ (m) 
+% de abertura 
+GR 1 
+GR 2 
+GR 3 
+GR 4 
+GR 5 
+GR 6 
+GR 7 
+5,50 
+0,44 
+0,62 
+0,87 
+1,23 
+1,51 
+1,85 
+2,09 
+5,75 
+0,49 
+0,69 
+0,97 
+1,38 
+1,68 
+2,06 
+2,33 
+6,0 
+0,54 
+0,77 
+1,09 
+1,54 
+1,88 
+2,31 
+2,61 
+6,25 
+0,61 
+0,86 
+1,22 
+1,72 
+2,11 
+2,59 
+2,92 
+6,50 
+0,69 
+0,97 
+1,37 
+1,94 
+2,38 
+2,91 
+3,29 
+9,0 
+4,50 
+0,26 
+0,37 
+0,53 
+0,74 
+0,91 
+1,12 
+1,26 
+4,75 
+0,29 
+0,42 
+0,49 
+0,83 
+1,02 
+1,25 
+1,41 
+5,0 
+0,33 
+0,46 
+0,65 
+0,92 
+1,13 
+1,39 
+1,57 
+5,25 
+0,36 
+0,51 
+0,73 
+1,03 
+1,26 
+1,54 
+1,74 
+5,50 
+0,40 
+0,57 
+0,81 
+1,14 
+1,40 
+1,71 
+1,93 
+5,75 
+0,45 
+0,63 
+0,89 
+1,27 
+1,55 
+1,90 
+2,15 
+6,0 
+0,50 
+0,70 
+0,99 
+1,40 
+1,72 
+2,11 
+2,38 
+6,25 
+0,55 
+0,78 
+1,10 
+1,56 
+1,91 
+2,34 
+1,64 
+6,50 
+0,61 
+0,87 
+1,23 
+1,73 
+2,12 
+2,60 
+2,94 
+6,75 
+0,68 
+0,97 
+1,37 
+1,93 
+2,37 
+2,90 
+3,28 
+7,0 
+0,85 
+1,08 
+1,53 
+2,17 
+2,65 
+3,25 
+3,67 
+9,50 
+4,75 
+0,28 
+0,39 
+0,56 
+0,79 
+0,96 
+1,18 
+1,33 
+5,0 
+0,31 
+0,44 
+0,62 
+0,87 
+1,07 
+1,31 
+1,48 
+5,25 
+0,34 
+0,48 
+0,68 
+0,97 
+1,18 
+1,45 
+1,65 
+5,50 
+1,38 
+1,53 
+0,75 
+1,07 
+1,31 
+1,60 
+1,81 
+5,75 
+0,42 
+0,59 
+0,83 
+1,18 
+1,44 
+1,77 
+2,0 
+6,0 
+0,46 
+0,65 
+0,92 
+1,30 
+1,59 
+1,95 
+2,20 
+6,25 
+0,51 
+0,72 
+1,01 
+1,43 
+1,76 
+2,15 
+2,43 
+6,50 
+0,56 
+0,79 
+1,12 
+1,58 
+1,94 
+2,37 
+2,68 
+6,75 
+0,62 
+0,87 
+1,24 
+1,75 
+2,14 
+2,62 
+2,97 
+7,0 
+0,75 
+0,97 
+1,37 
+1,94 
+2,37 
+2,91 
+3,29 
+7,25 
+0,85 
+1,08 
+1,52 
+2,15 
+2,64 
+2,23 
+2,65 
+7,50 
+0,95 
+1,20 
+1,70 
+2,40 
+2,94 
+3,61 
+4,08 
+10,0 
+5,0 
+0,29 
+0,41 
+0,59 
+0,83 
+1,01 
+1,24 
+1,40 
+5,25 
+0,32 
+0,46 
+0,65 
+0,91 
+1,12 
+1,37 
+1,55 
+5,50 
+0,36 
+0,50 
+0,71 
+1,01 
+1,23 
+1,51 
+1,71 
+5,75 
+0,39 
+0,55 
+0,78 
+1,11 
+1,36 
+1,66 
+1,88 
+6,0 
+0,43 
+0,61 
+0,86 
+1,22 
+1,49 
+1,82 
+2,06 
+6,25 
+0,47 
+0,67 
+0,94 
+1,33 
+1,63 
+2,0 
+2,26 
+6,50 
+0,52 
+0,73 
+1,04 
+1,47 
+1,79 
+2,20 
+2,48 
+6,75 
+0,57 
+0,80 
+1,14 
+1,61 
+1,97 
+2,41 
+2,73 
+7,0 
+0,70 
+0,88 
+1,25 
+1,77 
+2,17 
+2,65 
+3,0 
+7,25 
+0,77 
+0,97 
+1,30 
+1,95 
+2,38 
+2,92 
+3,30 
+7,50 
+0,85 
+1,07 
+1,52 
+2,15 
+2,63 
+3,22 
+3,64 
+7,75 
+0,94 
+1,19 
+1,68 
+2,38 
+2,91 
+3,57 
+4,04 
+8,0 
+1,05 
+1,32 
+1,87 
+2,65 
+2,24 
+3,97 
+4,49 
+10,5 
+5,25 
+0,31 
+0,43 
+0,61 
+0,87 
+1,06 
+1,30 
+1,47 
+5,50 
+0,34 
+0,48 
+0,67 
+0,95 
+1,17 
+1,43 
+1,62 
+5,75 
+0,37 
+0,52 
+0,74 
+1,05 
+1,28 
+1,57 
+1,77 
+6,0 
+0,41 
+0,57 
+0,61 
+1,15 
+1,40 
+1,72 
+1,94 
+6,25 
+0,44 
+0,63 
+0,89 
+1,25 
+1,54 
+1,88 
+2,13 
+6,50 
+0,48 
+0,69 
+0,97 
+1,37 
+1,68 
+2,06 
+2,32 
+6,75 
+0,53 
+0,75 
+1,06 
+1,50 
+1,83 
+2,25 
+2,54 
+7,0 
+0,64 
+0,82 
+1,16 
+1,64 
+2,01 
+2,46 
+2,78 
+7,25 
+0,71 
+0,90 
+1,27 
+1,79 
+2,19 
+2,69 
+3,04 
+7,50 
+0,77 
+0,98 
+1,39 
+1,96 
+2,40 
+2,94 
+3,33 
+7,75 
+0,85 
+1,08 
+1,52 
+2,15 
+2,64 
+3,23 
+3,65 
+8,0 
+0,94 
+1,18 
+1,67 
+2,37 
+2,90 
+3,55 
+4,02 
+8,25 
+1,04 
+1,31 
+1,85 
+2,61 
+3,20 
+3,92 
+4,43
+
+--- PÁGINA 29 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+29/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência 
+H (m) 
+Altura da zona 
+livre de fumaça 
+H´ (m) 
+% de abertura 
+GR 1 
+GR 2 
+GR 3 
+GR 4 
+GR 5 
+GR 6 
+GR 7 
+8,50 
+1,16 
+1,45 
+2,05 
+2,90 
+3,55 
+4,35 
+4,92 
+11,0 
+5,50 
+0,32 
+0,56 
+0,64 
+0,91 
+1,11 
+1,37 
+1,54 
+5,75 
+0,35 
+0,50 
+0,70 
+1,0 
+1,22 
+1,49 
+1,69 
+6,0 
+0,38 
+0,54 
+0,77 
+0,09 
+0,33 
+0,63 
+0,84 
+6,25 
+0,42 
+0,59 
+0,84 
+1,19 
+1,45 
+1,78 
+2,01 
+6,50 
+0,46 
+0,65 
+0,91 
+1,29 
+1,58 
+1,94 
+2,19 
+6,75 
+0,50 
+0,70 
+1,0 
+1,41 
+1,72 
+2,11 
+2,39 
+7,0 
+0,60 
+0,77 
+1,08 
+1,53 
+1,88 
+2,30 
+2,60 
+7,25 
+0,66 
+0,83 
+1,18 
+1,67 
+2,04 
+2,50 
+2,83 
+7,50 
+0,72 
+0,91 
+1,28 
+1,82 
+2,22 
+2,72 
+3,08 
+7,75 
+0,78 
+0,99 
+1,40 
+1,98 
+2,42 
+2,97 
+3,36 
+8,0 
+0,86 
+1,08 
+1,53 
+2,16 
+2,65 
+3,24 
+3,67 
+8,25 
+0,94 
+1,18 
+1,67 
+2,36 
+2,89 
+3,55 
+4,01 
+8,50 
+1,04 
+1,30 
+1,83 
+2,59 
+3,18 
+3,89 
+4,40 
+8,75 
+1,14 
+1,43 
+2,02 
+2,86 
+3,50 
+4,28 
+4,84 
+9,0 
+1,27 
+1,58 
+2,23 
+3,16 
+3,87 
+4,74 
+5,36 
+11,5 
+5,75 
+0,34 
+0,48 
+0,67 
+0,95 
+1,17 
+1,43 
+1,61 
+6,0 
+0,37 
+0,52 
+0,73 
+1,04 
+1,27 
+1,56 
+1,76 
+6,25 
+0,40 
+0,56 
+0,80 
+1,13 
+1,38 
+1,69 
+1,91 
+6,50 
+0,43 
+0,61 
+0,87 
+1,23 
+1,50 
+1,84 
+2,08 
+6,75 
+0,47 
+0,67 
+0,94 
+1,33 
+1,63 
+2,0 
+2,26 
+7,0 
+0,57 
+0,72 
+1,02 
+1,44 
+1,77 
+2,17 
+2,45 
+7,25 
+0,62 
+0,78 
+1,11 
+1,57 
+1,92 
+2,35 
+2,66 
+7,50 
+0,67 
+0,85 
+1,20 
+1,70 
+2,08 
+2,55 
+2,88 
+7,75 
+0,73 
+0,92 
+1,30 
+1,84 
+2,26 
+2,76 
+3,12 
+8,0 
+0,79 
+1,0 
+1,42 
+2,0 
+2,45 
+3,0 
+3,39 
+8,25 
+0,87 
+1,09 
+1,54 
+2,17 
+2,66 
+3,28 
+3,69 
+8,50 
+0,95 
+1,18 
+1,67 
+2,37 
+2,90 
+3,55 
+4,01 
+8,75 
+1,04 
+1,29 
+1,83 
+2,58 
+3,16 
+3,87 
+4,38 
+9,0 
+1,14 
+1,41 
+2,0 
+2,83 
+2,46 
+4,24 
+4,79 
+9,25 
+1,26 
+1,55 
+2,19 
+3,10 
+3,80 
+4,65 
+5,26 
+12,0 
+6,0 
+0,35 
+0,50 
+0,70 
+0,99 
+1,22 
+1,49 
+1,68 
+6,25 
+0,38 
+0,54 
+0,76 
+1,08 
+1,32 
+1,62 
+1,86 
+6,50 
+0,41 
+0,58 
+0,83 
+1,17 
+1,43 
+1,75 
+1,98 
+6,75 
+0,45 
+0,63 
+0,90 
+1,27 
+1,55 
+1,90 
+2,15 
+7,0 
+0,54 
+0,69 
+0,97 
+1,37 
+1,68 
+2,06 
+2,32 
+7,25 
+0,58 
+0,74 
+1,05 
+1,48 
+1,81 
+2,22 
+2,51 
+7,50 
+0,63 
+0,80 
+1,13 
+1,60 
+1,96 
+2,40 
+2,72 
+7,75 
+0,68 
+0,87 
+1,22 
+1,73 
+2,12 
+2,60 
+2,94 
+8,0 
+0,74 
+0,94 
+1,32 
+1,87 
+2,29 
+2,81 
+3,17 
+8,25 
+0,81 
+1,01 
+1,43 
+2,02 
+2,48 
+3,04 
+3,43 
+8,50 
+0,88 
+1,10 
+1,55 
+2,19 
+2,68 
+3,29 
+3,72 
+8,75 
+0,95 
+1,19 
+1,68 
+2,38 
+2,91 
+3,56 
+4,03 
+9,0 
+1,04 
+1,29 
+1,82 
+2,58 
+3,16 
+3,87 
+4,37 
+9,25 
+1,14 
+1,40 
+1,98 
+2,81 
+3,44 
+4,21 
+4,76 
+9,50 
+1,25 
+1,53 
+2,17 
+3,06 
+3,75 
+4,60 
+5,20 
+9,75 
+1,37 
+1,87 
+2,37 
+3,36 
+4,11 
+5,04 
+5,69 
+10,0 
+1,52 
+2,06 
+2,62 
+3,70 
+4,53 
+5,55 
+6,27 
+12,5 
+6,25 
+0,37 
+0,52 
+0,73 
+1,03 
+1,27 
+1,55 
+1,75 
+6,50 
+0,40 
+0,56 
+0,79 
+1,12 
+1,37 
+1,68 
+1,90 
+6,75 
+0,43 
+0,61 
+0,86 
+1,21 
+1,48 
+1,82 
+2,05 
+7,0 
+0,51 
+0,65 
+0,92 
+1,31 
+1,60 
+1,96 
+2,22 
+7,25 
+0,55 
+0,70 
+1,0 
+1,41 
+1,73 
+2,11 
+2,39 
+7,50 
+0,60 
+0,76 
+1,07 
+1,52 
+1,86 
+2,28 
+2,58
+
+--- PÁGINA 30 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+30/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência 
+H (m) 
+Altura da zona 
+livre de fumaça 
+H´ (m) 
+% de abertura 
+GR 1 
+GR 2 
+GR 3 
+GR 4 
+GR 5 
+GR 6 
+GR 7 
+7,75 
+0,65 
+0,82 
+1,16 
+1,64 
+2,01 
+2,46 
+2,78 
+8,0 
+0,70 
+0,88 
+1,25 
+1,76 
+2,16 
+2,65 
+2,99 
+8,25 
+0,76 
+0,95 
+1,34 
+1,90 
+2,33 
+2,85 
+3,22 
+8,50 
+0,82 
+1,03 
+1,45 
+2,05 
+2,51 
+3,08 
+3,48 
+8,75 
+0,89 
+1,11 
+1,56 
+2,21 
+2,71 
+3,32 
+3,75 
+9,0 
+0,96 
+1,19 
+1,69 
+2,39 
+2,92 
+3,58 
+4,05 
+9,25 
+1,04 
+1,29 
+1,83 
+2,58 
+3,16 
+3,87 
+4,38 
+9,50 
+1,14 
+1,40 
+1,98 
+2,80 
+3,43 
+4,20 
+4,74 
+9,75 
+1,24 
+1,69 
+2,15 
+3,04 
+3,72 
+4,55 
+5,15 
+10,0 
+1,36 
+1,84 
+2,34 
+3,31 
+4,05 
+4,96 
+5,61 
+10,25 
+1,50 
+2,02 
+2,56 
+3,62 
+4,43 
+5,43 
+6,14 
+10,50 
+1,66 
+2,22 
+2,82 
+3,98 
+4,88 
+5,97 
+6,75 
+13,0 
+6,50 
+0,38 
+0,54 
+0,76 
+1,08 
+1,32 
+1,61 
+1,82 
+6,75 
+0,41 
+0,58 
+0,82 
+1,16 
+1,42 
+1,74 
+1,97 
+7,0 
+0,49 
+0,63 
+0,88 
+1,25 
+1,53 
+1,88 
+2,12 
+7,25 
+0,53 
+0,67 
+0,95 
+1,35 
+1,65 
+2,02 
+2,28 
+7,50 
+0,57 
+0,72 
+1,02 
+1,45 
+1,78 
+2,17 
+2,46 
+7,75 
+0,62 
+0,78 
+1,1 
+1,56 
+1,91 
+2,34 
+2,64 
+8,0 
+0,66 
+0,84 
+1,18 
+1,67 
+2,05 
+2,51 
+2,84 
+8,25 
+0,72 
+0,9 
+1,27 
+1,8 
+2,2 
+2,7 
+3,05 
+8,50 
+0,77 
+0,97 
+1,37 
+1,93 
+2,37 
+2,9 
+3,28 
+8,75 
+0,83 
+1,04 
+1,47 
+2,08 
+2,54 
+3,12 
+3,52 
+9,0 
+0,9 
+1,12 
+1,58 
+2,23 
+2,74 
+3,35 
+3,79 
+9,25 
+0,97 
+1,2 
+1,7 
+2,4 
+2,94 
+3,6 
+4,07 
+9,50 
+1,06 
+1,29 
+1,83 
+2,59 
+3,17 
+3,88 
+4,39 
+9,75 
+1,14 
+1,55 
+1,98 
+2,79 
+3,42 
+4,19 
+4,74 
+10,0 
+1,24 
+1,68 
+2,14 
+3,02 
+3,7 
+4,53 
+5,12 
+10,25 
+1,35 
+1,82 
+2,31 
+3,27 
+4,01 
+4,91 
+5,55 
+10,50 
+1,48 
+1,99 
+2,52 
+3,56 
+4,36 
+5,34 
+6,04 
+10,75 
+1,63 
+2,17 
+2,75 
+3,89 
+4,76 
+5,83 
+6,59 
+11,0 
+1,8 
+2,39 
+3,02 
+4,27 
+5,23 
+6,4 
+7,24 
+13,5 
+ 
+6,75 
+0,39 
+0,56 
+0,79 
+1,12 
+1,37 
+1,68 
+1,89 
+7,0 
+0,47 
+0,60 
+0,85 
+1,20 
+1,47 
+1,80 
+2,04 
+7,25 
+0,51 
+0,65 
+0,91 
+1,29 
+1,58 
+1,95 
+2,19 
+7,50 
+0,55 
+0,69 
+0,98 
+1,39 
+1,70 
+2,08 
+2,35 
+7,75 
+0,59 
+0,54 
+1,05 
+1,49 
+1,82 
+2,23 
+2,52 
+8,0 
+0,64 
+0,80 
+1,13 
+1,60 
+1,96 
+2,39 
+2,71 
+8,25 
+0,68 
+0,86 
+1,21 
+1,71 
+2,10 
+2,57 
+2,90 
+8,50 
+0,73 
+0,92 
+1,30 
+1,83 
+2,25 
+2,75 
+3,11 
+8,75 
+0,79 
+0,98 
+1,39 
+1,96 
+2,41 
+2,95 
+3,33 
+9,0 
+0,85 
+1,05 
+1,49 
+2,11 
+2,58 
+3,16 
+3,57 
+9,25 
+0,91 
+1,13 
+1,60 
+2,26 
+2,76 
+3,39 
+3,83 
+9,50 
+0,99 
+1,21 
+1,71 
+2,42 
+2,97 
+3,63 
+4,11 
+9,75 
+1,06 
+1,45 
+1,84 
+2,60 
+3,19 
+3,90 
+4,41 
+10,0 
+1,15 
+1,56 
+1,98 
+2,80 
+3,43 
+4,19 
+4,74 
+10,25 
+1,25 
+1,68 
+2,13 
+3,01 
+3,69 
+4,52 
+5,11 
+10,50 
+1,35 
+1,81 
+2,30 
+3,25 
+3,98 
+4,88 
+5,51 
+10,75 
+1,47 
+1,96 
+0,0 
+3,52 
+4,31 
+5,27 
+5,96 
+11,0 
+1,61 
+2,14 
+2,70 
+3,82 
+4,68 
+5,73 
+6,47 
+11,25 
+1,76 
+2,33 
+2,94 
+4,16 
+5,10 
+6,24 
+7,06 
+11,50 
+1,95 
+2,56 
+3,23 
+4,56 
+5,59 
+6,85 
+7,74 
+14,0 
+7,0 
+0,46 
+0,58 
+0,82 
+1,16 
+1,42 
+1,74 
+1,96 
+7,25 
+0,49 
+0,62 
+0,88 
+1,24 
+1,52 
+1,86 
+2,11 
+7,50 
+0,53 
+0,67 
+0,94 
+1,33 
+1,64 
+2,0 
+2,26
+
+--- PÁGINA 31 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+31/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência 
+H (m) 
+Altura da zona 
+livre de fumaça 
+H´ (m) 
+% de abertura 
+GR 1 
+GR 2 
+GR 3 
+GR 4 
+GR 5 
+GR 6 
+GR 7 
+7,75 
+0,56 
+0,71 
+1,01 
+1,43 
+1,75 
+2,14 
+2,42 
+8,0 
+0,61 
+0,76 
+1,08 
+1,53 
+1,87 
+2,29 
+2,59 
+8,25 
+0,65 
+0,82 
+1,16 
+1,64 
+2,0 
+2,45 
+6,0 
+8,50 
+0,70 
+0,87 
+1,24 
+1,75 
+2,14 
+2,62 
+2,96 
+8,75 
+0,75 
+0,93 
+1,32 
+1,87 
+2,29 
+2,80 
+3,17 
+9,0 
+0,80 
+1,0 
+1,41 
+2,0 
+2,45 
+3,0 
+3,39 
+9,25 
+0,86 
+1,07 
+1,51 
+2,14 
+2,62 
+3,20 
+3,62 
+9,50 
+0,93 
+1,14 
+1,61 
+2,28 
+2,80 
+3,42 
+3,87 
+9,75 
+1,0 
+1,36 
+1,73 
+2,44 
+2,99 
+3,66 
+4,14 
+10,0 
+1,08 
+1,46 
+1,85 
+2,62 
+3,20 
+3,92 
+4,44 
+10,25 
+1,16 
+1,56 
+1,98 
+2,80 
+3,43 
+4,20 
+4,50 
+10,50 
+1,25 
+1,68 
+2,13 
+3,01 
+3,69 
+4,51 
+5,10 
+10,75 
+1,35 
+1,81 
+2,29 
+3,23 
+3,96 
+4,85 
+5,48 
+11,0 
+1,47 
+1,95 
+2,46 
+3,49 
+4,27 
+5,23 
+5,91 
+11,25 
+1,59 
+2,11 
+2,66 
+3,76 
+4,61 
+5,65 
+6,38 
+11,50 
+1,74 
+2,29 
+2,89 
+4,08 
+5,0 
+6,12 
+6,92 
+11,75 
+1,91 
+2,50 
+3,14 
+4,44 
+5,44 
+6,66 
+7,53 
+12,0 
+2,10 
+2,75 
+3,44 
+4,86 
+5,96 
+7,30 
+8,25 
+14,5 
+7,25 
+0,47 
+0,60 
+0,63 
+1,20 
+1,47 
+1,80 
+2,03 
+7,50 
+0,51 
+0,64 
+0,91 
+1,28 
+1,57 
+1,93 
+2,18 
+7,75 
+0,54 
+0,69 
+0,97 
+1,37 
+1,68 
+2,06 
+2,33 
+8,0 
+0,58 
+0,73 
+1,04 
+1,47 
+1,80 
+2,20 
+2,49 
+8,25 
+0,62 
+0,78 
+1,11 
+1,57 
+1,92 
+2,35 
+2,66 
+8,50 
+0,67 
+0,84 
+1,18 
+1,67 
+2,05 
+2,51 
+2,84 
+8,75 
+0,72 
+0,89 
+1,26 
+1,79 
+2,19 
+2,68 
+3,03 
+9,0 
+0,77 
+0,95 
+1,35 
+1,91 
+2,33 
+2,86 
+3,23 
+9,25 
+0,82 
+1,02 
+1,44 
+2,03 
+2,49 
+3,05 
+3,44 
+9,50 
+0,88 
+1,08 
+1,53 
+2,17 
+2,65 
+3,25 
+3,67 
+9,75 
+0,94 
+1,29 
+1,63 
+2,31 
+2,83 
+3,47 
+3,92 
+10,0 
+1,01 
+1,37 
+1,74 
+2,47 
+3,02 
+3,70 
+4,18 
+10,25 
+1,09 
+1,47 
+1,86 
+2,63 
+3,23 
+3,95 
+4,46 
+10,50 
+1,17 
+1,57 
+1,99 
+2,81 
+3,45 
+4,22 
+4,77 
+10,75 
+1,26 
+1,68 
+2,13 
+3,01 
+3,69 
+4,52 
+5,11 
+11,0 
+1,36 
+1,80 
+2,28 
+3,23 
+3,95 
+4,84 
+5,47 
+11,25 
+1,47 
+1,94 
+2,45 
+3,46 
+4,24 
+5,19 
+5,87 
+15,0 
+7,50 
+0,49 
+0,62 
+0,88 
+1,24 
+1,52 
+1,86 
+2,10 
+7,75 
+0,52 
+0,66 
+0,94 
+1,33 
+1,62 
+1,99 
+2,25 
+8,0 
+0,56 
+0,71 
+1,0 
+1,41 
+1,73 
+2,12 
+2,40 
+8,25 
+0,60 
+0,75 
+1,07 
+1,51 
+1,85 
+2,26 
+2,56 
+8,50 
+0,64 
+0,80 
+1,14 
+1,61 
+1,97 
+2,41 
+2,73 
+8,75 
+0,69 
+0,86 
+1,21 
+1,71 
+2,10 
+2,57 
+2,90 
+9,0 
+0,73 
+0,91 
+1,29 
+1,82 
+2,23 
+2,74 
+3,09 
+9,25 
+0,79 
+0,97 
+1,37 
+1,94 
+2,38 
+2,91 
+3,29 
+9,50 
+0,84 
+1,03 
+1,46 
+2,07 
+2,53 
+3,10 
+3,50 
+9,75 
+0,90 
+1,22 
+1,55 
+2,20 
+2,69 
+3,30 
+3,73 
+10,0 
+0,96 
+1,30 
+1,65 
+2,34 
+2,87 
+3,51 
+3,97 
+10,25 
+1,03 
+1,39 
+1,76 
+2,49 
+3,05 
+3,74 
+4,22 
+10,50 
+1,10 
+1,48 
+1,88 
+2,65 
+3,25 
+3,98 
+4,50 
+10,75 
+1,18 
+1,58 
+2,0 
+2,83 
+3,46 
+4,24 
+4,80 
+11,0 
+1,27 
+1,69 
+2,13 
+3,02 
+3,70 
+4,53 
+5,12 
+11,25 
+1,37 
+1,81 
+2,28 
+3,22 
+3,95 
+4,83 
+5,47 
+11,50 
+1,47 
+1,94 
+2,44 
+3,45 
+4,22 
+5,17 
+5,85 
+11,75 
+1,59 
+2,08 
+2,61 
+3,70 
+4,53 
+5,54 
+6,27 
+12,0 
+1,73 
+2,24 
+2,81 
+3,97 
+4,86 
+4,96 
+6,73
+
+--- PÁGINA 32 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+32/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência 
+H (m) 
+Altura da zona 
+livre de fumaça 
+H´ (m) 
+% de abertura 
+GR 1 
+GR 2 
+GR 3 
+GR 4 
+GR 5 
+GR 6 
+GR 7 
+12,25 
+1,86 
+2,42 
+3,02 
+4,28 
+5,24 
+6,41 
+7,25 
+12,50 
+2,03 
+2,63 
+3,27 
+4,63 
+5,66 
+6,94 
+7,84 
+12,75 
+2,21 
+2,86 
+2,55 
+5,02 
+6,15 
+7,53 
+8,52 
+13,0 
+2,43 
+3,14 
+3,88 
+5,48 
+6,72 
+8,23 
+9,30 
+9,0 
+0,73 
+0,91 
+1,29 
+1,82 
+2,23 
+2,74 
+3,09 
+9,25 
+0,79 
+0,97 
+1,37 
+1,94 
+2,38 
+2,91 
+3,29 
+9,50 
+0,84 
+1,03 
+1,46 
+2,07 
+2,53 
+3,10 
+3,50 
+9,75 
+0,90 
+1,22 
+1,55 
+2,20 
+2,69 
+3,30 
+3,73 
+10,0 
+0,96 
+1,30 
+1,65 
+2,34 
+2,87 
+3,51 
+3,97 
+8.5.2 Para se obter a área de extração de fumaça do sistema Tipo 1 para demais ocupações, 
+deve-se determinar a área útil das saídas de extração considerando: 
+a) altura de referência e a altura que se pretende ter livre de fumaça (dados de projeto); 
+b) classificação obtida na Tabela 6; 
+c) multiplicação da área de cada acantonamento pela taxa (em porcentagem) obtida na Tabela 7. 
+Tabela 6 – Classificação de risco para as demais ocupações 
+Ocupação/Uso 
+Divisão 
+Descrição 
+Classificação 
+Residencial 
+A-1 
+Casas Térreas ou Sobrados 
+Classe 1 
+A-2 
+Apartamentos 
+Classe 1 
+A-3 
+Alojamentos 
+Classe 1 
+A-3 
+Internatos 
+Classe 1 
+A-3 
+Mosteiros e Conventos 
+Classe 1 
+A-3 
+Pensionatos 
+Classe 1 
+Serviço de Hospedagem 
+B-1 
+Albergues 
+Classe 1 
+B-1 
+Casa de Cômodos 
+Classe 1 
+B-1 
+Hospedarias 
+Classe 1 
+B-1 
+Hotéis 
+Classe 1 
+B-1 
+Motéis 
+Classe 1 
+B-1 
+Pensões 
+Classe 1 
+B-1 
+Pousadas 
+Classe 1 
+B-2 
+Apart-Hotéis 
+Classe 1 
+Serviço Profissional 
+D-1 
+Agências de correios 
+Classe 2 
+D-1 
+Agências de loterias 
+Classe 2 
+D-1 
+Agências de despachos 
+Classe 2 
+D-1 
+Processamentos de dados 
+Classe 1 
+D-1 
+Escritórios 
+Classe 2 
+D-1 
+Estúdio cinematográfico 
+Classe 3 
+D-1 
+Estúdio de rádio 
+Classe 3 
+D-1 
+Estúdio de televisão 
+Classe 3 
+D-1 
+Estúdios de fotografia 
+Classe 3 
+D-1 
+Escritório de venda por correspondência 
+Classe 2 
+D-1 
+Cabeleireiros e barbearia 
+Classe 1 
+D-1 
+Instaladores eletricistas 
+Classe 1 
+D-2 
+Agências bancárias 
+Classe 2 
+D-2 
+Câmbio e moedas 
+Classe 2 
+D-3 
+Copiadora (em geral) 
+Classe 3 
+D-3 
+Encadernadoras 
+Classe 3 
+D-3 
+Lavanderias 
+Classe 1
+
+--- PÁGINA 33 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+33/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Ocupação/Uso 
+Divisão 
+Descrição 
+Classificação 
+D-3 
+Oficinas elétricas 
+Classe 2 
+D-3 
+Oficina de conserto 
+Classe 2 
+D-3 
+Oficina de pintura 
+Classe 2 
+D-3 
+Oficina de reparos 
+Classe 2 
+D-3 
+Oficina mecânica 
+Classe 2 
+D-3 
+Oficina de relógio 
+Classe 2 
+D-3 
+Oficinas hidráulicas 
+Classe 2 
+D-3 
+Oficinas de fotocópias 
+Classe 2 
+D-4 
+Laboratórios bacteriológicos 
+Classe 3 
+D-4 
+Laboratórios de física 
+Classe 3 
+D-4 
+Laboratórios elétricos 
+Classe 3 
+D-4 
+Laboratórios fotográficos 
+Classe 3 
+D-4 
+Laboratórios metalúrgicos 
+Classe 3 
+D-4 
+Laboratórios odontológicos 
+Classe 3 
+D-4 
+Laboratórios químicos 
+Classe 3 
+Educacional e 
+cultura física 
+E-3 
+Academias e similares 
+Classe 1 
+E-5 
+Pré-escolas e similares 
+Classe 1 
+E-5 
+Creches e similares 
+Classe 1 
+E-1/E-2/E-
+4/E-6 
+Escolas em geral 
+Classe 1 
+E-3 
+Sauna 
+Classe 1 
+Local de Reunião de 
+Público 
+F-1 
+Bibliotecas 
+Classe 3 
+F-1 
+Arquivo de documentos 
+Classe 3 
+F-1 
+Museus 
+Classe 2 
+F-2 
+Igrejas e templos 
+Classe 1 
+F-3 
+Centros esportivos e de exibição 
+Classe 1 
+F-4 
+Estações e terminais de passageiros 
+Classe 1 
+F-5 
+Cinemas, teatros e similares 
+Classe 2 
+F-6 
+Boates, salões de baile, restaurantes dançantes e casas de 
+show 
+Classe 2 
+F-8 
+Restaurantes 
+Classe 1 
+F-5 
+Auditório de rádio e televisão 
+Classe 3 
+F-5 
+Pavilhões temporários 
+Classe 3 
+F-9 
+Edificações permanentes de jardins zoológicos, parques 
+recreativos, clubes sociais, bilhares, boliches, casas de 
+jogos e assemelhados 
+Classe 2 
+F-10 
+Exposição de automóveis 
+Classe 3 
+F-10 
+Exposição de máquinas 
+Classe 2 
+F-10 
+Exposição de móveis 
+Classe 3 
+F-11 
+Auditórios em geral 
+Classe 3 
+Serviço Automotivo e 
+Assemelhados 
+G-1 
+Estacionamentos, garagens automáticas, garagens de 
+veículos de carga e coletivos 
+Classe 1 
+G-2 
+Garagens coletivas sem automação 
+Classe 1 
+G-5 
+Hangares 
+Classe 3 
+G-3 
+Postos de abastecimento 
+Classe 1 
+G-4 
+Oficinas de conserto de veículos e manutenção 
+Classe 1 
+Serviço de Saúde e 
+Institucional 
+H-2 
+Asilos 
+Classe 1 
+H-6 
+Consultórios médicos ou odontológicos 
+Classe 1 
+H-6 
+Consultório de radiologia 
+Classe 1 
+H-6 
+Estabelecimentos hidroterápicos 
+Classe 1 
+H-6 
+Ambulatórios 
+Classe 1 
+H-1/ H-3 
+Hospitais em geral 
+Classe 1 
+H-5 
+Presídios e similares 
+Classe 2 
+H-4 
+Quartéis e similares 
+Classe 2 
+Especial 
+M-3 
+Centrais hidroelétricas 
+Classe 3 
+M-3 
+Centrais térmicas 
+Classe 3
+
+--- PÁGINA 34 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+34/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Ocupação/Uso 
+Divisão 
+Descrição 
+Classificação 
+M-3 
+Central externa de aquecimento 
+Classe 3 
+M-3 
+Central telefônica 
+Classe 3 
+M-3 
+Estação de transformadores 
+Classe 3 
+Tabela 7 – Porcentagem para determinação das áreas de aberturas das demais ocupações 
+Altura de 
+referência H (m) 
+Altura da zona livre 
+de fumaça H´ (m) 
+% de abertura de extração 
+Classe 1 
+Classe 2 
+Classe 3 
+2,5 a 3,0 
+2,50 
+0,33 
+0,46 
+0,65 
+2,0 
+0,17 
+0,23 
+0,33 
+3,5 
+3,0 
+0,43 
+0,61 
+0,86 
+2,50 
+0,23 
+0,33 
+0,46 
+2,0 
+0,14 
+0,19 
+0,27 
+4,0 
+3,0 
+0,30 
+0,43 
+0,61 
+2,50 
+0,19 
+0,27 
+0,38 
+2,0 
+0,12 
+0,17 
+0,23 
+4,5 
+3,50 
+0,38 
+0,54 
+0,77 
+3,0 
+0,25 
+0,35 
+0,50 
+2,50 
+0,16 
+0,23 
+0,33 
+2,0 
+0,10 
+0,14 
+0,21 
+5,0 
+4,0 
+0,47 
+0,66 
+0,94 
+3,50 
+0,31 
+0,44 
+0,63 
+3,0 
+0,21 
+0,30 
+0,43 
+2,50 
+0,15 
+0,21 
+0,29 
+5,5 
+4,50 
+0,56 
+0,79 
+1,12 
+4,0 
+0,38 
+0,54 
+0,76 
+3,50 
+0,27 
+0,38 
+0,54 
+3,0 
+0,19 
+0,27 
+0,38 
+6,0 
+5,0 
+0,65 
+0,92 
+1,31 
+4,50 
+0,46 
+0,64 
+0,91 
+4,0 
+0,33 
+0,47 
+0,66 
+3,50 
+0,24 
+0,34 
+0,48 
+3,0 
+0,18 
+0,25 
+0,35 
+6,5 
+5,50 
+0,75 
+1,07 
+1,51 
+5,0 
+0,53 
+0,76 
+1,07 
+4,50 
+0,39 
+0,56 
+0,79 
+4,0 
+0,30 
+0,42 
+0,59 
+3,50 
+0,22 
+0,31 
+0,44 
+7,0 
+6,0 
+0,86 
+1,22 
+1,72 
+5,50 
+0,62 
+0,87 
+1,23 
+5,0 
+0,46 
+0,65 
+0,92 
+4,50 
+0,35 
+0,50 
+0,71 
+4,0 
+0,27 
+0,38 
+0,54 
+3,50 
+0,20 
+0,29 
+0,41 
+ 
+ 
+7,5 
+ 
+ 
+6,50 
+0,97 
+1,37 
+1,94 
+6,0 
+0,70 
+0,99 
+1,40 
+5,50 
+0,53 
+0,75 
+1,07 
+5,0 
+0,41 
+0,59 
+0,83 
+4,50 
+0,32 
+0,46 
+0,64 
+4,0 
+0,25 
+0,35 
+0,50 
+8,0 
+7,0 
+1,21 
+1,53 
+2,17 
+6,50 
+0,79 
+1,12 
+1,58 
+6,0 
+0,61 
+0,86 
+1,22 
+5,50 
+0,48 
+0,67 
+0,95 
+5,0 
+0,38 
+0,53 
+0,76 
+4,50 
+0,30 
+0,42 
+0,60 
+4,0 
+0,23 
+0,33 
+0,47 
+8,5 
+7,50 
+1,34 
+1,70 
+2,40 
+7,0 
+0,98 
+1,25 
+1,77
+
+--- PÁGINA 35 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+35/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência H (m) 
+Altura da zona livre 
+de fumaça H´ (m) 
+% de abertura de extração 
+Classe 1 
+Classe 2 
+Classe 3 
+6,50 
+0,69 
+0,97 
+1,37 
+6,0 
+0,54 
+0,77 
+1,09 
+5,50 
+0,44 
+0,62 
+0,87 
+5,0 
+0,35 
+0,49 
+0,70 
+4,50 
+0,28 
+0,39 
+0,56 
+9,0 
+8,0 
+1,48 
+1,87 
+2,65 
+7,50 
+1,09 
+1,39 
+1,96 
+7,0 
+0,85 
+1,08 
+1,53 
+6,50 
+0,61 
+0,87 
+1,23 
+6,0 
+0,50 
+0,70 
+0,99 
+5,50 
+0,40 
+0,57 
+0,81 
+5,0 
+0,33 
+0,46 
+0,65 
+4,50 
+0,26 
+0,37 
+0,53 
+9,5 
+8,50 
+1,64 
+2,05 
+2,90 
+8,0 
+2,21 
+1,53 
+2,16 
+7,50 
+0,95 
+1,20 
+1,70 
+7,0 
+0,76 
+0,97 
+1,37 
+6,50 
+0,56 
+0,79 
+1,12 
+6,0 
+0,46 
+0,65 
+0,92 
+5,50 
+0,38 
+0,53 
+0,75 
+5,0 
+0,31 
+0,44 
+0,62 
+10,0 
+9,0 
+1,80 
+2,23 
+3,16 
+8,50 
+1,34 
+1,67 
+2,37 
+8,0 
+1,05 
+1,32 
+1,87 
+7,50 
+0,85 
+1,07 
+1,52 
+7,0 
+0,70 
+0,88 
+1,25 
+6,50 
+0,52 
+0,73 
+1,04 
+6,0 
+0,43 
+0,61 
+0,86 
+5,50 
+0,36 
+0,50 
+0,71 
+5,0 
+0,29 
+0,41 
+0,59 
+ 
+ 
+ 
+10,5 
+ 
+ 
+ 
+9,50 
+1,97 
+2,42 
+3,43 
+9,0 
+1,47 
+1,82 
+2,58 
+8,50 
+1,16 
+1,45 
+2,05 
+8,0 
+0,94 
+1,18 
+1,67 
+7,50 
+0,77 
+0,98 
+1,39 
+7,0 
+0,64 
+0,82 
+1,16 
+6,50 
+0,48 
+0,69 
+0,97 
+6,0 
+0,41 
+0,57 
+0,81 
+5,50 
+0,34 
+0,48 
+0,67 
+11,0 
+10,0 
+2,15 
+2,91 
+3,70 
+9,50 
+1,61 
+1,98 
+2,80 
+9,0 
+1,27 
+1,58 
+2,23 
+8,50 
+1,04 
+1,30 
+1,83 
+8,0 
+0,86 
+1,08 
+1,53 
+7,50 
+0,72 
+0,91 
+1,28 
+7,0 
+0,60 
+0,77 
+1,08 
+6,50 
+0,46 
+0,65 
+0,91 
+6,0 
+0,38 
+0,54 
+0,77 
+5,50 
+0,32 
+0,46 
+0,64 
+11,5 
+10,50 
+2,34 
+3,14 
+3,98 
+10,0 
+1,76 
+2,38 
+3,02 
+9,50 
+1,39 
+1,71 
+2,42 
+9,0 
+1,14 
+1,41 
+2,0 
+8,50 
+0,95 
+1,18 
+1,67 
+8,0 
+0,79 
+1,0 
+1,42 
+7,50 
+0,67 
+0,85 
+1,20 
+7,0 
+0,57 
+0,72 
+1,02 
+6,50 
+0,43 
+0,61 
+0,87
+
+--- PÁGINA 36 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+36/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência H (m) 
+Altura da zona livre 
+de fumaça H´ (m) 
+% de abertura de extração 
+Classe 1 
+Classe 2 
+Classe 3 
+6,0 
+0,37 
+0,52 
+0,73 
+12,0 
+11,0 
+2,54 
+3,38 
+4,27 
+10,50 
+1,91 
+2,56 
+3,25 
+10,0 
+1,52 
+2,06 
+2,62 
+9,50 
+1,25 
+1,53 
+2,17 
+9,0 
+1,04 
+1,29 
+1,82 
+8,50 
+0,88 
+1,10 
+1,55 
+8,0 
+0,74 
+0,94 
+1,32 
+7,50 
+0,63 
+0,80 
+1,13 
+7,0 
+0,54 
+0,69 
+0,97 
+6,50 
+0,41 
+0,58 
+0,83 
+6,0 
+0,35 
+0,50 
+0,70 
+12,5 
+11,50 
+2,75 
+3,62 
+4,56 
+11,0 
+2,08 
+2,76 
+3,49 
+10,50 
+1,66 
+2,22 
+2,81 
+10,0 
+1,36 
+1,84 
+2,34 
+9,50 
+1,14 
+1,40 
+1,98 
+9,0 
+0,96 
+1,19 
+1,69 
+8,50 
+0,82 
+1,03 
+1,45 
+8,0 
+0,70 
+0,88 
+1,25 
+7,50 
+0,60 
+0,76 
+1,07 
+7,0 
+0,51 
+0,65 
+0,92 
+6,50 
+0,40 
+0,56 
+0,79 
+13,0 
+12,0 
+2,97 
+3,88 
+4,86 
+11,50 
+2,25 
+2,96 
+3,73 
+11,0 
+1,80 
+2,39 
+3,02 
+10,50 
+1,48 
+1,99 
+2,52 
+10,0 
+1,24 
+1,68 
+2,14 
+9,50 
+1,05 
+1,29 
+1,83 
+9,0 
+0,90 
+1,12 
+1,58 
+8,50 
+0,77 
+0,97 
+1,37 
+8,0 
+0,66 
+0,84 
+1,18 
+7,50 
+0,57 
+0,72 
+1,02 
+7,0 
+0,49 
+0,63 
+0,88 
+6,50 
+0,38 
+0,54 
+0,76 
+13,5 
+12,50 
+3,30 
+4,15 
+5,17 
+12,0 
+2,43 
+3,17 
+3,97 
+11,50 
+1,95 
+2,56 
+3,23 
+11,0 
+1,61 
+2,14 
+2,70 
+10,50 
+1,35 
+1,81 
+2,30 
+10,0 
+1,15 
+1,56 
+1,98 
+9,50 
+0,99 
+1,21 
+1,71 
+9,0 
+0,85 
+1,05 
+1,49 
+8,50 
+0,73 
+0,92 
+1,30 
+8,0 
+0,63 
+0,80 
+1,13 
+7,50 
+0,55 
+0,69 
+0,98 
+7,0 
+0,47 
+0,60 
+0,85 
+14,0 
+13,0 
+3,44 
+4,43 
+5,48 
+12,50 
+2,61 
+3,39 
+4,22 
+12,0 
+2,10 
+2,75 
+3,44 
+11,50 
+1,74 
+2,29 
+2,89 
+11,0 
+1,47 
+1,95 
+2,46 
+10,50 
+1,25 
+1,68 
+2,13 
+10,0 
+1,08 
+1,46 
+1,85 
+9,50 
+0,93 
+1,14 
+1,61 
+9,0 
+0,80 
+1,0 
+1,41 
+8,50 
+0,70 
+0,87 
+1,24 
+8,0 
+0,61 
+0,76 
+1,08
+
+--- PÁGINA 37 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+37/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Altura de 
+referência H (m) 
+Altura da zona livre 
+de fumaça H´ (m) 
+% de abertura de extração 
+Classe 1 
+Classe 2 
+Classe 3 
+7,50 
+0,53 
+0,67 
+0,94 
+7,0 
+0,46 
+0,58 
+0,82 
+14,5 
+13,50 
+3,69 
+4,73 
+5,80 
+13,0 
+2,81 
+3,62 
+4,48 
+12,50 
+2,26 
+2,94 
+3,66 
+12,0 
+1,88 
+2,46 
+3,08 
+11,50 
+1,59 
+2,09 
+2,63 
+11,0 
+1,36 
+1,80 
+2,28 
+10,50 
+1,17 
+1,57 
+1,99 
+10,0 
+1,01 
+1,37 
+1,74 
+9,50 
+0,88 
+1,08 
+1,53 
+9,0 
+0,77 
+0,95 
+1,35 
+8,50 
+0,67 
+0,84 
+1,18 
+8,0 
+0,58 
+0,73 
+1,04 
+7,50 
+0,51 
+0,64 
+0,91 
+7,0 
+0,46 
+0,58 
+0,82 
+ 
+9 DIMENSIONAMENTO DOS SISTEMAS DE CONTROLE DE FUMAÇA TIPO 2  
+9.1 O controle de fumaça (Tipo 2) é realizado pela introdução do ar e extração de fumaça de 
+forma mecânica, disposta de maneira a assegurar a ventilação do local. 
+ 
+Figura 12 – Exemplo de controle de fumaça por controle mecânico e entrada de ar mecânica 
+9.2 O controle de fumaça mecânico (Tipo 2) deve ter características conforme o item 5.4.2 e 
+poderá: 
+a) ser um sistema específico, destinado exclusivamente à extração de fumaça; 
+b) utilizar o sistema de ventilação ou ar-condicionado normal à edificação, com dupla função, de 
+forma a atender às funções a que normalmente são projetados e também atender a função de 
+extração de fumaça; 
+c) utilizar um sistema conjugado, com o emprego do sistema de ventilação ou ar-condicionado 
+normal da edificação, complementado por um sistema de controle de fumaça auxiliar. 
+9.3 Nos casos em que o sistema de ventilação ou de ar-condicionado normal à edificação seja
+
+--- PÁGINA 38 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+38/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+utilizado para o controle de fumaça por controle mecânico, estes devem: 
+a) atender às mesmas exigências para um sistema exclusivo de controle de fumaça por controle 
+mecânico; 
+b) assegurar o controle (abertura/ fechamento) de todas as partes que compõem o sistema, 
+garantindo a não intrusão de fumaça nas demais áreas não sinistradas do edifício. 
+9.4 A entrada mecânica de ar deverá atender aos seguintes itens: 
+9.4.1 Ser realizadas por aberturas de insuflação ligadas a ventiladores por meio de dutos. 
+9.4.2 As aberturas de insuflação deverão ser posicionadas no terço inferior do acantonamento, 
+visando evitar turbulências que podem espalhar a fumaça ou o fogo. 
+9.4.3 Preferencialmente a abertura para introdução de ar deve ter a sua parte mais alta a menos 
+de 1,0 m do piso do pavimento. 
+9.4.4 Para efeito de dimensionamento, a velocidade do ar nas aberturas de insuflação deve ser 
+inferior a 5,0 m/s, e sua vazão volumétrica deve ser da ordem de 60% da vazão das aberturas de 
+extração de fumaça, à temperatura de 20ºC. 
+9.5 A extração mecânica de fumaça deverá atender aos seguintes itens: 
+9.5.1 A abertura para extração de fumaça deve ter a sua parte mais baixa no mínimo a 2,0 m do 
+piso do pavimento, e serem situadas no terço superior da altura de referência. 
+9.5.2 A extração poderá ser realizada por dispositivos ligados a ventiladores por intermédio de 
+dutos ou por ventiladores instalados diretamente na área a proteger. 
+9.5.3 A extração deve ser acionada automaticamente por um sistema de detecção de fumaça.  
+9.6 Os parâmetros do sistema de controle mecânico de fumaça (Tipo 2) deverão ser obtidos 
+utilizando-se a sequência de fatores, cálculos, e tabelas relacionadas a seguir. 
+9.6.1 Para dimensionamento da extração mecânica de fumaça os seguintes fatores devem ser 
+observados: 
+a) tamanho do incêndio(Ia); 
+b) taxa de liberação de calor (Q’); 
+c) altura da camada de fumaça em relação ao piso; 
+d) taxa total de liberação de calor (Qt); 
+e) tempo para a camada de fumaça descer até a altura de projeto; 
+f) altura da chama; 
+g) massa de fumaça a ser extraída; 
+h) extração de fumaça; 
+i) dimensionamento dos exaustores (VEX).
+
+--- PÁGINA 39 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+39/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+9.6.1.1 As características da edificação bem como os fatores abaixo relacionados também 
+podem influenciar no dimensionamento do sistema de controle de fumaça Tipo 2: 
+a) espessura da camada de fumaça; 
+b) temperatura do ambiente; 
+c) temperatura da fumaça; 
+d) obstáculos; 
+e) altura de estocagem (hE). 
+9.6.2 Tamanho do incêndio (Ia) 
+9.6.2.1 A dimensão do incêndio depende do tipo de queima esperada e de se estabelecer uma 
+condição de estabilidade para que o mesmo seja mantido em um determinado tamanho. 
+9.6.2.2 Em edificações com proteção por chuveiros automáticos, o tamanho do incêndio nas 
+edificações deve ser conforme tabela abaixo: 
+Tabela 8 – Tamanho do incêndio 
+Categorias de Risco 
+Tamanho do Incêndio (m) 
+Perímetro (m) 
+Área (m²) 
+Baixo (Até 300 MJ/m²) 
+3,0 x 3,0 
+12 
+9 
+Médio (de 300 a 1.200 MJ/m²) 
+4,0 x 4,0 
+16 
+16 
+Alto (acima de 1.200 MJ/m²) 
+6,0 x 6,0 
+24 
+36 
+9.6.2.2.1 Nas edificações do grupo J (depósitos) o tamanho do incêndio será o resultado do 
+produto da área (A) constante na tabela 8 pela altura de estocagem, conforme equação 2 a 
+seguir: 
+𝐈𝐚= 𝐀× 𝐡𝐄 
+Onde: 
+Ia= Tamanho do incêndio 
+A= Área obtida através da tabela 8 
+hE= Altura de estocagem 
+9.6.2.3 Em edificações sem proteção por chuveiros automáticos o tamanho do incêndio será 
+definido através da Tabela 8 e as equações para dimensionamento do sistema deverão ser 
+aquelas previstas para condição instável (queima instável). 
+9.6.2.3.1 Em edificações sem proteção por chuveiros automáticos, para fins de consideração de 
+queima estável, será aceita a instalação parcial de sistema de chuveiros automáticos para a 
+proteção de pavimentos sem janelas com ocupação distinta de estacionamento de veículos nas 
+edificações onde este sistema (chuveiros automáticos) não é obrigatório. 
+9.6.3 Taxa de liberação de calor(Q’) 
+9.6.3.1 A taxa de liberação de calor específica deverá ser obtida através da tabela 9. 
+9.6.3.2 A taxa de liberação de calor total (Qt) é obtida pelo produto do tamanho do incêndio (Ia) 
+pela taxa de liberação de calor (Q’) obtida através da tabela 9, conforme a equação 3: 
+𝐐𝐭= 𝐈𝐚 ×  𝐐′
+
+--- PÁGINA 40 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+40/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Onde: 
+Qt= taxa de liberação de calor total; 
+Q’ = taxa de liberação de calor obtida através da tabela 9; 
+Ia = tamanho do incêndio. 
+Tabela 9 – Taxa de Liberação de Calor 
+Ocupações 
+Taxa de Liberação 
+Residencial 
+228 
+Serviços de hospedagem 
+500 
+Comercial 
+500 
+Serviços profissionais 
+228 
+Educacional 
+350 
+local de reunião pública 
+500 
+Serviços automotivos 
+500 
+Serviços de saúde e institucionais 
+500 
+Indústrias 
+Taxa de Liberação 
+Industrial I-1 
+60 
+Industrial I-2 
+280 
+Industrial I-3 
+500 
+Depósitos 
+Taxa de Liberação 
+Engradados de madeira 
+2.500 
+Palets de madeira (empilhados) 
+2.150 
+Móveis embalados 
+500 
+Madeira serrada empilhada 
+500 
+Madeira compensada empilhada 
+500 
+Produtos celulósicos em geral 
+160 
+Malas do correio 
+235 
+Papelão empilhado 
+290 
+Rolos de papelão 
+120 
+Caixas de papelão 
+150 
+Caixas de papelão com divisórias empilhadas 
+325 
+Caixas de papelão, produtos elétricos 
+145 
+Produtos empacotados 
+325 
+Componentes de fibra de vidro em caixas de papelão 
+190 
+Componentes de fibra de vidro em caixas de papelão (empilhados) 
+275 
+Garrafas plásticas em caixas de papelão (empilhadas) 
+940 
+Garrafas de pvc empacotadas em caixas de papelão com divisórias 
+655 
+Garrafas de polietileno empacotadas em caixas de papelão 
+1.195 
+Escaninhos de polietileno, cheios, empilhados 
+1.000 
+Sacos de lixo de polietileno em caixas empilhadas 
+380 
+Filmes de plástico em rolo 
+980 
+Filmes de polipropileno em rolo 
+1.280 
+Tubos de polipropileno empacotados em caixas de papelão com divisórias empilhadas 
+850 
+Isolamento de poliuretano empacotado e empilhado 
+265 
+Painéis isolados de poliuretano rígido, espuma em caixas de papelão com divisórias, empilhadas 
+370 
+Painel isolado em poliestireno espuma rígido, empilhado 
+675 
+Garrafas de poliestireno em caixas de papelão 
+2.695 
+Garrafas de poliestireno empacotadas em caixas de papelão com divisórias (empilhadas) 
+2.720 
+Tubos de poliestireno em caixas de papelão 
+805 
+Tubos de poliestireno em caixas de papelão (empilhadas) 
+1.105 
+Partes de brinquedos de poliestireno empilhadas 
+305 
+Partes de brinquedo de poliestireno 
+390 
+Livros, móveis 
+720 
+Álcool 
+740 
+Gasolina 
+1.590 
+Óleo combustível 
+1.470
+
+--- PÁGINA 41 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+41/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+9.6.4 Altura da camada de fumaça 
+9.6.4.1 Uma altura livre de fumaça deve ser projetada de forma a garantir o escape das pessoas. 
+9.6.4.2 A altura livre devido à presença do jato de fumaça pode alcançar no máximo 85% da 
+altura do pavimento/edificação, devendo estar no mínimo a 2,0 m acima do piso. 
+9.6.4.3 Onde houver depósito de mercadorias, a camada de fumaça deve ser projetada a 0,5 m 
+acima do topo dos produtos estocados/armazenados. 
+9.6.5 Tempo para a camada de fumaça descer até a altura de projeto 
+9.6.5.1 A posição da interface da camada de fumaça a qualquer tempo pode ser determinada 
+pelas relações que reportam a três situações: 
+a) quando nenhum sistema de extração de fumaça está em operação; 
+b) quando a vazão mássica de extração de fumaça for igual ou superior à vazão fornecida à 
+coluna da camada de fumaça; 
+c) quando a vazão de extração de fumaça for menor que a vazão fornecida à coluna da camada 
+de fumaça. 
+9.6.5.2 Para definição da posição da camada de fumaça com nenhum sistema de extração em 
+funcionamento deverão ser utilizados os seguintes parâmetros: 
+9.6.5.2.1 Com a queima na condição estável, a altura das primeiras indicações da fumaça acima 
+da superfície do piso (z), pode ser estimada a qualquer tempo (t), pela equação 4.a(Queima 
+estável): 
+𝐳𝐇
+⁄
+= 𝟏, 𝟏𝟏−𝟎,𝟐𝟖 × 𝐥𝐧[
+(𝒕 × 𝑸𝟏𝟑
+⁄
+𝑯𝟒𝟑
+⁄
+⁄
+)
+(𝑨
+𝑯𝟐
+⁄
+)
+] 
+Onde: 
+z = altura de projeto da camada de fumaça acima do piso (m) 
+H = altura do teto acima da superfície de fumaça (m) 
+t = tempo (s) 
+Qt = taxa de liberação de calor total de queima estável (kW) 
+A = área do acantonamento (m²). 
+9.6.5.2.2 Para a queima na condição instável, utilizar a equação 4.b(Queima instável): 
+𝐳𝐇
+⁄
+= 𝟎, 𝟗𝟏 × [
+𝐭
+𝐭𝐠
+𝟐𝟓
+⁄ × 𝐇𝟒𝟓
+⁄ × (
+𝐀
+𝐇𝟐)
+𝟑𝟓
+⁄ ]
+−𝟏,𝟒𝟓
+ 
+Onde: 
+z = altura de projeto da camada de fumaça acima do piso (m) 
+H = altura do teto acima da superfície de fumaça (m) 
+t = tempo (s) 
+tg = tempo de crescimento do incêndio (s) 
+A = área do acantonamento (m²).
+
+--- PÁGINA 42 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+42/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Notas: 
+(1) As equações (4.a e 4.b) avaliam a posição da camada a qualquer tempo depois da ignição, 
+onde os cálculos abrangem z/H > 1,0. 
+(2) Na equação “tg” é o intervalo de tempo para a ativação efetiva dos meios de detecção e 
+supressão, ou o intervalo de tempo até para que a taxa de liberação de calor do incêndio 
+atinja 1.055 W. 
+9.6.5.3 Para definição da posição da camada de fumaça com o sistema de extração em 
+funcionamento deverão ser observadas as seguintes condições: 
+a) para a vazão mássica de extração de fumaça igual à vazão mássica de fumaça fornecida pelo 
+incêndio: 
+a.1) depois que o sistema de extração estiver operando por um determinado período de tempo, 
+será estabelecido uma posição de equilíbrio na altura da camada de fumaça em relação ao piso, 
+desde que a vazão mássica de extração seja igual à vazão mássica fornecida pela coluna à base 
+do fogo; 
+a.2) uma vez determinada esta posição, deve ser mantido o equilíbrio, desde que as vazões 
+mássicas permaneçam iguais. 
+b) para vazão mássica de extração de fumaça diferente da vazão mássica de fumaça fornecida 
+pelo incêndio: 
+b.1) no caso em que a vazão mássica (m) fornecida pela coluna de fumaça à base do fogo for 
+maior que a vazão mássica de extração (me), as equações 4.a e 4.b deverão ser utilizadas com 
+o valor de correção constante da Tabela 10. 
+Tabela 10 – Fator de ajuste da vazão mássica mínima de extração 
+z/H 
+t/t0 
+(m/me) = 
+0,25 
+0,35 
+0,50 
+0,70 
+0,85 
+0,95 
+0,2 
+ 
+1,12 
+1,19 
+1,30 
+1,55 
+1,89 
+2,49 
+0,3 
+ 
+1,14 
+1,21 
+1,35 
+1,63 
+2,05 
+2,78 
+0,4 
+ 
+1,16 
+1,24 
+1,40 
+1,72 
+2,24 
+3,15 
+0,5 
+ 
+1,17 
+1,28 
+1,45 
+1,84 
+2,48 
+3,57 
+0,6 
+ 
+1,20 
+1,32 
+1,52 
+2,0 
+2,78 
+4,11 
+0,7 
+ 
+1,23 
+1,36 
+1,61 
+2,20 
+3,17 
+4,98 
+0,8 
+ 
+1,26 
+1,41 
+1,71 
+2,46 
+3,71 
+6,25 
+ 
+Onde: 
+z = altura de projeto da camada de fumaça acima do piso (m) 
+H = altura do teto acima da base do fogo (m) 
+t = tempo para a camada de fumaça descer até z (s) 
+t0 = valor de t na ausência de extração de fumaça (veja equações 4.a e 4.b) (s) 
+m = vazão mássica de extração de fumaça (menos qualquer vazão mássica dentro da camada de 
+fumaça, decorrentes de outras fontes que não seja a coluna de fumaça) (kg/s) 
+me = valor de “m” requerido para manter a camada de fumaça indefinidamente em z (obtido pela 
+equação 6)
+
+--- PÁGINA 43 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+43/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+9.6.6 Altura da chama 
+9.6.6.1 Na determinação da altura da chama proveniente da base do fogo, deve-se adotar a 
+equação 5: 
+𝐳𝟏= 𝟎, 𝟏𝟔𝟔× 𝐐𝐜
+𝟐𝟓
+⁄  
+Onde: 
+z1= limite de elevação da chama (m) 
+Qc= porção convectiva da taxa de liberação de calor, estimada em 70% da taxa de liberação de 
+calor total (Qt) em kW 
+9.6.7 Dimensionamento da massa de fumaça a ser extraída 
+9.6.7.1 Na determinação da massa de fumaça gerada pelo incêndio, duas condições podem 
+ocorrer: 
+a) altura da camada de fumaça(z) ser superior à altura (z1) da chama, ou seja: (z > z1); 
+b) altura da camada de fumaça (z) igual ou inferior à altura (z1) da chama, ou seja: (z ≤ z1). 
+9.6.7.2 Para a condição (z > z1), a massa de fumaça gerada é determinada pela equação6.a: 
+Equação 6.a (condição z > z1) 
+𝐦= (𝟎, 𝟎𝟕𝟏× 𝐐𝐜
+𝟏𝟑
+⁄ × 𝐳𝟓𝟑
+⁄ ) + (𝟎, 𝟎𝟎𝟏𝟖× 𝐐𝐜) 
+Onde: 
+m= vazão mássica da coluna de fumaça para a altura z (kg/s) 
+z= altura de projeto da camada de fumaça acima do piso (m) 
+Qc= porção convectiva da taxa de liberação de calor, estimada em 70% da taxa de liberação de 
+calor “Q” (kW) 
+9.6.7.3 Para a condição (z ≤ z1), a massa de fumaça gerada é determinada pela equação 6.b: 
+Equação 6.b (condição z ≤ z1) 
+𝐦= 𝟎, 𝟎𝟑𝟐× 𝐐𝐜
+𝟑𝟓
+⁄ × 𝐳 
+Onde: 
+m = vazão mássica da coluna de fumaça para a altura z (kg/s) 
+z = altura de projeto da camada de fumaça acima do piso (m) 
+Qc = porção convectiva da taxa de liberação de calor, estimada em 70% da taxa de liberação de 
+calor “Q” (kW). 
+9.6.8 Volume de fumaça produzido 
+9.6.8.1 Para se obter o volume de fumaça a extrair do ambiente, deve ser utilizada a equação 7: 
+𝐕= 𝐦
+𝛒 
+Onde: 
+V = volume produzido pela fumaça (m3/s) 
+m = vazão mássica da coluna de fumaça (kg/s), para a altura z
+
+--- PÁGINA 44 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+44/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ρ = densidade da fumaça (kg/m³), de acordo com a temperatura adotada. 
+9.6.8.2 Para compensar os possíveis vazamentos nos registros de trancamento, deve ser 
+previsto um coeficiente de vazamento mínimo de 25% a ser acrescido sobre o resultado da 
+equação 7 para a seleção dos ventiladores e dimensionamento dos dutos principais de extração 
+de fumaça. 
+9.6.9 Será possível dispensar a previsão dos acantonamentos, desde as duas condições a 
+seguir sejam atendidas: 
+a) edificação seja do grupo J (depósito); 
+b) edificação possua sistema de chuveiros automáticos. 
+9.6.10 Espessura da camada de fumaça 
+9.6.10.1 Para edificações que não possuam armazenamento elevado (acima de 1,5 m), a 
+espessura da camada de fumaça não pode ser menor que 15% da altura da edificação. 
+9.6.10.2 Para edificações que possuam área de armazenamento elevada (acima de 1,5 m), o 
+Responsável Técnico deve considerar: 
+a) possibilidade de ocorrer o flash over; 
+b) possibilidade de a fumaça esfriar e estratificar, decorrente: 
+b.1) da altura da camada de fumaça estar afastada com relação à origem do incêndio; 
+b.2) da existência de sistema de chuveiros automáticos, que esfriam a fumaça e gases quentes. 
+9.6.11 Temperatura ambiente 
+9.6.11.1 Para fins de cálculo, deve ser prevista uma temperatura ambiente de 20ºC. 
+9.6.12 Temperatura da camada de fumaça 
+9.6.12.1 Para fins de dimensionamento, deve ser prevista a temperatura da camada de fumaça de: 
+a) 70ºC quando a edificação for dotada de proteção por sistema de chuveiros automáticos; 
+b) 300ºC quando a edificação não for dotada de proteção por sistema de chuveiros automáticos, 
+nebulizadores, etc. 
+9.6.13 Extração de fumaça 
+9.6.13.1 Distribuição de grelhas de extração de fumaça em espaços amplos: 
+9.6.13.2 As grelhas devem ser distribuídas no ambiente de forma mais uniforme possível, 
+obedecendo ao mínimo de uma grelha a cada 300,0 m2 de área de abrangência. 
+9.6.13.3 A quantidade de grelhas para sistema de controle de fumaça mecânico deverá 
+considerar a vazão de fumaça definida na tabela 11 abaixo:
+
+--- PÁGINA 45 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+45/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Tabela 11 – Máxima vazão por ponto de sucção ou ventilador individual 
+Espessura da camada de fumaça no ponto de sucção ou 
+corte de um ventilador individual ou grelha de extração 
+(metros) 
+Corrente volumétrica por ponto de sucção ou 
+ventilador individual (m³/s) 
+≥ 0,5 (1) 
+≤0,2 (2) 
+≥ 1,0 
+≤1,2 
+≥ 1,5 
+≤3,5 
+≥ 2,0 
+≤7,0 
+≥ 2,5 
+≤ 12,0 
+Notas: 
+1) A tabela 11 é aplicável também para camadas de fumaça de altura < 0,5 m, desde que os pontos 
+de sucção estejam posicionados para cima. 
+2) Em locais com pé direito baixo, onde não seja possível haver maior espessura de camada de 
+fumaça, a utilização de corrente volumétrica de maior magnitude por ponto de extração pode ser 
+admitida mediante avaliação por Corpo Técnico. 
+9.7 Obstáculos dentro da edificação 
+9.7.1 Os mezaninos são obstáculos que devem ser considerados na extração de fumaça do 
+sistema Tipo 2. 
+9.7.2 Existem 2 tipos de mezaninos a serem considerados: 
+a) mezaninos permeáveis, que são aqueles cujo teto ou piso superior possui 25% de aberturas, 
+permitindo o escape e fluidez da fumaça pelo mesmo; 
+b) mezaninos sólidos, que são aqueles que não permitem o escape da fumaça. 
+9.7.3 Os mezaninos considerados permeáveis estão dispensados da previsão de sistema de 
+controle de fumaça. 
+9.7.4 Os mezaninos sólidos devem atender à seguinte regra: 
+a) a característica da coluna de fumaça saindo por um mezanino depende da característica da 
+queima, largura da coluna de fumaça e da altura do teto acima do fogo; 
+b) para dimensionar a massa de fumaça sob um mezanino, deve ser utilizada a equação 8: 
+Equação 8 – Coluna de fumaça em obstáculos 
+𝐦= 𝟎, 𝟑𝟔× (𝐐× 𝐰𝟐)
+𝟏
+𝟑× (𝐙𝐛+ 𝟎, 𝟐𝟓× 𝐇) 
+Onde: 
+m = taxa do fluxo de massa na coluna (kg/s) 
+Q = taxa de liberação de calor (kW) 
+w = extensão da coluna saindo das sacadas (m) 
+Zb = altura acima da sacada (m) 
+H – altura da sacada acima do combustível (m)
+
+--- PÁGINA 46 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+46/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+c) quando Zb for aproximadamente 13 vezes a largura do acantonamento, a coluna de fumaça 
+deve ter a mesma vazão mássica adotada no item 9.6.7.2; 
+d) quando Zb for menor que 13 (treze) vezes a largura do mezanino, além do especificado no 
+item anterior, barreiras de fumaça devem ser projetadas para que a fumaça seja contida. 
+ 
+Figura 13 – Dados e parâmetros utilizados para equação 8 
+10 DIMENSIONAMENTO DOS SISTEMAS DE CONTROLE DE FUMAÇA TIPO 3 
+10.1 O controle de fumaça combinado (Tipo 3) é realizado pela extração de fumaça mecânica e 
+pela introdução do ar de forma natural, disposta de maneira a assegurar a ventilação do local. 
+10.2 Introdução natural de ar 
+10.2.1 A entrada de ar natural para controle de fumaça Tipo 3 pode ser realizada da seguinte 
+forma: 
+a) por meio de portas, janelas, venezianas e outras, posicionadas abaixo da camada de fumaça; 
+b) caso a velocidade de entrada de ar seja superior a 1,0 m/s, a camada de fumaça deve ser 
+projetada a 1,5 m acima das aberturas consideradas; 
+c) caso a velocidade de entrada de ar seja menor que 1,0 m/s, a camada de fumaça pode ser 
+projetada a 0,5 m acima das aberturas consideradas; 
+d) a velocidade máxima de entrada de ar não deve ser superior a 5,0 m/s; 
+e) a entrada de ar em edificações com pavimentos interligados como, por exemplo, centros 
+comerciais “shopping centers”, pode ser realizada pelas portas de acesso e demais aberturas 
+localizadas no térreo. As portas e demais aberturas utilizadas para este fim devem ter abertura 
+automática acionada pelo sistema de detecção de fumaça; 
+f) a entrada de ar para os pavimentos superiores das edificações descritas no item anterior pode 
+ser realizada pelas aberturas localizadas no térreo. Será considerada, para fins de cálculo, a 
+área efetiva de abertura entre os pavimentos composta por átrios, escadas não enclausuradas e 
+escadas rolantes; 
+g) atender ao Item 5.4.1.1.1.
+
+--- PÁGINA 47 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+47/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+10.2.2 A abertura de entrada de ar deve ser dimensionada de forma que assegure o fluxo de ar 
+igual ao obtido para extração de fumaça natural (Tipo 1, conforme item 8.5), com variação 
+máxima aceitável de 10%. 
+10.3 Extração mecânica de fumaça 
+10.3.1 O cálculo da vazão para dimensionamento e projeção da extração mecânica da fumaça 
+deverá ser realizado através dos parâmetros e método algébrico apresentado no item 9. 
+10.4 Modelos dimensionados por programas (computador) usando teoria e valores 
+empiricamente derivados para estimar as condições da edificação poderão ser utilizados por 
+profissionais habilitados, mantendo a condição de avaliação do CBMMG, por Corpo Técnico, 
+quanto à sua aplicabilidade. 
+Tabela 12 – Resumo de dimensionamento do sistema de controle de fumaça 
+ 
+TIPO DE SISTEMA DE CONTROLE DE FUMAÇA 
+PARAMETRO A 
+DIMENSIONAR 
+TIPO 01 
+(NATURAL) 
+TIPO 02(4) 
+(MECÂNICO) 
+TIPO 03 
+(COMBINADO) 
+Altura de referência (H) 
+Item 4.4 
+Não se aplica 
+ 
+Dimensionar conforme 
+metodologia do 
+Sistema Tipo 1 
+(Item 10.2.2) 
+Altura livre de fumaça (H’) 
+Item 4.5 
+Classificação do risco 
+Tabela 3 
+(Ocupações C, I e J) 
+Item 8.5.1 “a” 
+Tabela 6 
+(Demais ocupações) 
+Item 8.5.2 “b” 
+Grupo de risco 
+Tabela 4 
+(Ocupações C, I e J) 
+Item 8.5.1 “b” 
+% de abertura (%a) 
+Tabela 5 
+(Ocupações C, I e J) 
+Item 8.5.1 “c” 
+Tabela 7 
+(Demais ocupações) 
+Item 8.5.2 “c” 
+Área de Extração (Ae)(³) 
+Equação 1 
+Item 8.5.1 “d”  
+Anexo A 
+Tamanho do incêndio (Ia) 
+Não se aplica 
+ 
+Tabela 8 
+Item 9.6.2.2 
+Dimensionar conforme 
+metodologia do  
+Sistema Tipo 2 
+(Item 10.3.1) 
+Taxa de liberação de calor 
+(Q’) 
+Tabela 9 
+Item 9.6.3.2 
+Altura da camada de fumaça 
+Item 9.6.4 
+Taxa total de liberação de 
+calor (Qt) 
+Equação 3 
+Item 9.6.3.2 
+Anexo B 
+Tempo para a camada de 
+fumaça descer(1) 
+Equação 4.a ou 4.b 
+Item 9.6.5.2 
+Anexo B 
+Altura da chama 
+Equação 5 
+Item 9.6.6.1 
+Anexo B 
+Massa de fumaça a ser 
+extraída(2) 
+Equação 6.a ou 6.b 
+Item 9.6.7.2 
+Anexo B 
+Extração/Volume de fumaça 
+produzida (EXF) 
+Equação 7 
+Item 9.6.8.1 
+Anexo B 
+Exaustores/vazão (VEX) 
+VEX= EXF x 1,25 
+(Item 9.6.8.2) 
+Entrada de ar 
+Igual a Ae 
+ENTar= EXF x 0,6 
+(Item 9.4.4) 
+A abertura deve possibilitar o 
+fluxo constante de ar  
+(Item 10.2.2)
+
+--- PÁGINA 48 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+48/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Nota genérica: 
+A) No cálculo dos parâmetros para dimensionamento do sistema, o tipo de queima (estável ou 
+instável) definirá as equações que serão utilizadas. 
+Notas específicas: 
+1) Avaliar possibilidade da extração mecânica entrar em funcionamento (Item 9.6.5.3) e verificar a 
+necessidade de utilizar a Tabela 10. 
+2) No caso de mezaninos e balcões deve ser utilizada a equação 8 (Item 9.7.4). 
+3)  Atender ao item 6.4.2.5. 
+4) Atender o item 9.6.13.3. 
+ 
+11 CASOS ESPECIFICOS 
+11.1 Edificações elevadas (altura superior a 54 metros) 
+11.1.1 A instalação de sistema de controle de fumaça é dispensada nas edificações verticais que 
+atenderem todas as condições abaixo: 
+a) unidades autônomas com área inferior a 300,0 m²; 
+b) rota de fuga através de corredores onde o caminhamento entre a porta de saída das unidades 
+autônomas e uma escada enclausurada protegida (EP), enclausurada à prova de fumaça (PF) 
+ou à prova de fumaça pressurizada (PFP) seja igual ou inferior a 10 m;  
+c) parede ou divisória que separa as unidades autônomas deve atender o tempo requerido de 
+resistência ao fogo mínimo de 60 (sessenta) minutos; 
+d) altura da edificação igual ou inferior a 90 (noventa) m. 
+11.1.1.1 As edificações que não obtiverem a dispensa citada no item 11.1.1 deverão atender aos 
+parâmetros do item 11.1.4. 
+11.1.2 O sistema de controle de fumaça para edificações elevadas deverá ser dimensionado, 
+adotando-se: 
+a) altura mínima da camada de fumaça em relação ao piso de 2,20 m para o cálculo da vazão de 
+extração; 
+b) velocidade de ar, por ponto de extração, de no máximo 5,0 m/s; 
+c) no mínimo dois pontos de extração por pavimento. 
+11.1.2.1 A velocidade do ar deve ser medida considerando-se a área de face da grelha de 
+extração. 
+11.1.3 Caso a entrada de ar esteja posicionada no núcleo (área comum), deve ser prevista 
+interligação com o interior do conjunto (unidades autônomas), que pode ser realizada por grelhas 
+posicionadas no terço inferior do pavimento, através do forro e grelha posicionada junto à porta 
+direcionando o fluxo de ar para o piso ou através de porta com sistema de abertura 
+automatizado. 
+11.1.4 Devem ser adotados os seguintes parâmetros quando se tratar de corredores com
+
+--- PÁGINA 49 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+49/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+distância maior que 10,0 m entre a saída das unidades autônomas e a escada de emergência: 
+a) os pontos de extração de fumaça devem estar uniformemente distribuídos, mantendo-se um 
+distanciamento máximo de 10,0 m entre dois pontos consecutivos; 
+b) deve haver um ponto localizado a uma distância máxima de 3,0 m de cada extremidade do 
+corredor; 
+c) a velocidade de ar, por ponto de extração, deve ser de no máximo 5,0 m/s; 
+d) deve haver, no mínimo, dois pontos de extração por pavimento; 
+e) a velocidade deve ser medida considerando-se a área de face da grelha de extração; 
+f) a entrada de ar deve ser realizada de forma mecânica, com grelha posicionada junto ao 
+acesso à escada de emergência, próximo ao piso. 
+11.1.5 Quando a edificação for composta por unidades autônomas com área superior a 300,0 m² 
+e corredores com distância maior que 10,0 m entre a saída das unidades autônomas e a escada 
+de emergência, o sistema deverá ser projetado e instalado conforme o item 11.1.6.1. 
+11.1.6 Unidades autônomas com área superior a 300,0 m2 
+11.1.6.1 Devem ser adotados os seguintes parâmetros quando se tratar de unidades autônomas 
+com área superior a 300,0 m²: 
+a) a extração de fumaça deve ser feita no interior da unidade, com pontos de extração 
+distribuídos nos acessos à porta de comunicação com o núcleo do edifício, mantendo-se uma 
+distância mínima de 2,0 m entre estes pontos e a porta; 
+b) deve ser prevista uma barreira de fumaça com dimensão mínima de 0,5 m na comunicação da 
+unidade com o núcleo do edifício; 
+c) a entrada de ar deve ser realizada de forma mecânica, com grelha posicionada dentro do 
+núcleo ou no interior do conjunto (junto ao acesso à rota de fuga), próximo ao piso; 
+d) deve ser previsto um sistema independente de extração e entrada de ar para cada área de 
+compartimentação existente em função de critério estabelecido na IT07 (Compartimentação 
+Horizontal e Compartimentação Vertical). 
+11.2 Construções subterrâneas ou subsolos 
+11.2.1 Para os efeitos desta Instrução Técnica, considera-se construção subterrânea ou subsolo 
+a edificação, ou parte dela, na qual o piso se encontre abaixo da cota do pavimento da descarga, 
+ressalvando o especificado em 11.2.3. 
+11.2.2 A exaustão da fumaça e introdução ar será dimensionada conforme o item 11.3. 
+11.2.3 Não serão considerados subsolos os pavimentos nas condições seguintes: 
+a) o pavimento que for provido, em pelo menos dois lados de, no mínimo, 2,0 m² de aberturas 
+permanentes inteiramente acima do solo a cada 15,0 m lineares de parede periférica;
+
+--- PÁGINA 50 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+50/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+b) estas aberturas tenham peitoril a não mais de 1,20 m acima do piso interno e que não tenham 
+medida alguma menor que 0,6m (luz/vão/abertura), de forma a permitir operações de salvamento 
+provenientes do exterior; 
+c) estas aberturas sejam de fácil manuseio, tanto do lado interno como do externo, sendo 
+facilmente identificáveis, interna e externamente. 
+11.3 Edificações sem janelas 
+11.3.1 As edificações sem janelas são aquelas edificações, ou parte delas, que não possuem 
+meios de acesso direto ao exterior através de suas paredes periféricas, ressalvados os casos 
+descritos em 11.3.2. 
+11.3.1.1 As edificações sem janelas ou pavimentos sem janelas, com área superior a 500,0 m² 
+ou população superior a 100 (cem) pessoas, deverão possuir sistema de controle de fumaça 
+Tipo 2 (Mecânico) ou Tipo 3 (Combinado) através de extração mecânica com capacidade 
+mínima de 10 (dez) trocas do seu volume por hora, acionada automaticamente por um sistema 
+de detecção de fumaça ou de forma manual. 
+11.3.2 Uma edificação térrea ou porção dela não é considerada sem janelas quando: 
+a) o pavimento tem portas ao nível do solo, painel de acesso ou janelas externas espaçadas a 
+não mais de 50,0 m nas fachadas; e 
+b) estas aberturas possuam dimensões mínimas de 0,6 m x 0,6m. 
+11.3.3 Os sistemas de controle de fumaça para pavimentos sem janelas e edificações sem 
+janelas devem ser projetados com entrada de ar mecânica ou natural e extração de fumaça 
+mecânica, sempre que a população do pavimento for superior a 100 (cem) pessoas. 
+11.3.4 Para definição das vazões de extração de fumaça, deve ser consultado: 
+a) para corredores protegidos, o item 11.4; 
+b) para áreas adjacentes aos corredores ou para áreas sem corredores protegidos, conforme 
+item 9.6. 
+11.3.5 Quando a área ocupada for constituída por ambientes com área inferior a 100,0 m², as 
+grelhas de extração de fumaça podem ser posicionadas apenas na circulação. O 
+dimensionamento deve ser realizado conforme o item 9. 
+11.3.6 Os dutos para tomada de ar devem ter resistência externa a fogo por 60 (sessenta) 
+minutos,  
+11.3.7 As entradas de ar devem ser posicionadas junto ao piso (terço inferior), nos acessos das 
+rotas de fuga. 
+11.3.8 A utilização de dutos para extração de fumaça natural fica restrita a sua utilização na 
+vertical. 
+11.3.9 Uma edificação não térrea não é considerada sem janelas quando: 
+a) existam acessos conforme a alínea “b” do item 5.4.1.1 desta Instrução Técnica;
+
+--- PÁGINA 51 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+51/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+b) todos os pavimentos acima do térreo tiverem aberturas de acesso ou janelas em dois lados do 
+prédio, pelo menos, espaçados, no mínimo, 15,0 m nestas paredes, com pelo menos 0,6 m de 
+largura livre por 1,10 m de altura livre. 
+11.4 Rotas de fuga horizontais 
+11.4.1 O controle de fumaça pode ser realizado por qualquer um dos três tipos: natural, 
+mecânico, ou combinado, respeitando-se o previsto na Tabela 2. 
+11.4.2 Controle natural (Tipo 1) 
+11.4.2.1 Nas instalações de controle natural as aberturas para entrada de ar e extração de 
+fumaça devem ser alternadamente distribuídas, tendo em conta a situação dos locais de risco 
+(Figura 14). 
+ 
+Figura 14 – Posição de aberturas de extração e entrada de ar 
+11.4.2.2 A distância máxima, medida segundo o eixo da circulação, entre duas aberturas 
+consecutivas de introdução e extração deve ser de: 
+a) 10,0 m nos percursos em linha reta; 
+ 
+Figura 15 – Distância em linha reta de aberturas de extração 
+b) 7,0 m nos outros percursos.
+
+--- PÁGINA 52 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+52/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Figura 16 – Distância de extração de aberturas em trajeto diverso 
+11.4.2.3 As aberturas para entrada de ar não devem ser em número inferior às destinadas à 
+extração de fumaça. 
+11.4.2.4 Toda porta de acesso ao local deve distar no máximo 5,0 m das aberturas de entrada 
+de ar (Figura 17). 
+ 
+ 
+Figura 17 – Distância de entrada de ar de portas de acesso 
+11.4.2.5 As aberturas de entrada de ar e extração de fumaça devem ter a área livre mínima de 
+0,10 m² por unidade de passagem da rota de fuga onde se encontram instaladas. Quando o 
+número de unidades de passagem resultar em fração deverá haver arredondamento para o 
+numeral inteiro acima. 
+11.4.2.6 As aberturas devem ser posicionadas em paredes externas, sem a utilização de dutos. 
+11.4.2.7 A abertura para extração de fumaça deve ter a sua parte mais baixa no mínimo a 1,8 m 
+do piso do pavimento e situar-se no terço superior da altura de referência. 
+11.4.2.8 A abertura para entrada de ar deve ter a sua parte mais alta a menos de 1,0 m do piso 
+do pavimento. 
+11.4.2.9 As aberturas existentes nas fachadas podem ser equiparadas às aberturas de entrada 
+de ar e extração de fumaça simultaneamente, desde que: 
+a) a área livre considerada para extração de fumaça se situe na metade superior do vão e 
+atenda ao contido no item 11.4.2.2;
+
+--- PÁGINA 53 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+53/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+b) área livre considerada para entrada de ar se situe na metade inferior da abertura e atenda ao 
+item 5.4.1.1.1. 
+11.4.3 Controle mecânico (Tipo 2) ou combinado (Tipo 3) 
+11.4.3.1 Para os sistemas Tipo 2 ou 3 adota-se o contido nos itens 11.4.2.4, 11.4.2.7 e 11.4.2.8. 
+11.4.3.2 A distância máxima, medida segundo o eixo da circulação, entre duas aberturas 
+consecutivas de introdução e extração deve ser de: 
+a) 15,0 m nos percursos em linha reta; 
+ 
+Figura 18 a – Distância em linha reta de aberturas de extração para Tipo 2 
+ 
+Figura 18 – Distância em linha reta de aberturas de extração para tipo 3 
+b) 10,0 m nos outros percursos. 
+ 
+Figura 19 a – Distância de extração de aberturas em trajeto diverso tipo 2.
+
+--- PÁGINA 54 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+54/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Figura 19 b – Distância de extração de aberturas em trajeto diverso tipo 3 
+11.4.3.3 As áreas de circulação compreendidas entre uma abertura para entrada de ar e uma boca 
+de extração de fumaça devem ter uma vazão de extração não inferior a 0,5 m³/s por unidade de 
+passagem da circulação (Figura 20). Para rotas de fuga com largura variável, deve ser adotada a 
+largura média entre 2 pontos consecutivos de extração de fumaça e entrada de ar. 
+ 
+Figura 20 – Rotas de fuga com largura variável 
+11.4.3.4 No caso de serem utilizadas aberturas localizadas em paredes para entrada de ar, a 
+respectiva área livre considerada deve situar-se na metade inferior da altura de referência (H). 
+11.4.3.5 Quando o sistema entrar em funcionamento, a diferença de pressão entre a rota 
+horizontal e as rotas verticais protegidas que deem acesso deve ser inferior a 60 Pa, com todas 
+as portas de comunicação fechadas. 
+11.4.4 Controle por sobrepressão 
+11.4.4.1 O controle de fumaça por sobrepressão de rotas horizontais enclausuradas, em relação 
+a locais sinistrados, apenas é permitido se estes dispuserem de uma instalação de controle de 
+fumaça por sistemas mecânicos. 
+11.4.4.2 Nesse caso deve ser estabelecida uma diferença de pressão da ordem de 20 (vinte) Pa
+
+--- PÁGINA 55 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+55/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+entre as circulações horizontais e os locais sinistrados. 
+11.4.4.3 Esse tipo de controle é permitido para circulações que não possuam carga de incêndio 
+ou possuam revestimento de Classe I conforme IT 38 (Controle de Materiais de Acabamento e 
+de Revestimento). 
+11.4.4.4 No caso acima descrito, as áreas de circulação devem dispor de instalações de controle 
+de fumaça conforme descritas nos itens 11.4.3.1 ou 11.4.3.2. 
+11.4.4.5 Quando a circulação horizontal for dotada de antecâmara pressurizada, a diferença de 
+pressão referida no item 11.4.4.2, deve ser criada pela antecâmara. 
+  
+Figura 21 – Controle por sobrepressão 
+11.5 Átrios 
+11.5.1 Os átrios das edificações deverão possuir o Controle de Fumaça sempre que houver a 
+exigência da medida de segurança para a ocupação, conforme a IT 01. 
+11.5.2 Os átrios classificam-se, quanto à comunicação com o exterior: 
+a) Átrio ao ar livre: aqueles que possuem um volume livre fechado sob todas as suas faces 
+laterais, cuja menor dimensão é inferior ou igual à altura da edificação e não comportam 
+nenhuma oclusão em sua parte superior (Figura 22).
+
+--- PÁGINA 56 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+56/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Figura 22 – Átrio ao ar livre 
+b) Átrio coberto: aqueles que possuem um volume livre fechado sob todas as suas faces laterais, 
+com uma cobertura total ou parcial, podendo subdividir-se em abertos e fechados. 
+c) Átrios cobertos abertos: nos quais os níveis são abertos permanentemente sobre o volume 
+central (Figura 23). 
+ 
+Figura 23 – Átrio coberto aberto 
+d) Átrios cobertos fechados: cujos níveis (à exceção do nível inferior) são fechados por uma 
+parede, mesmo que ela comporte aberturas, balcões ou uma circulação horizontal aberta 
+(Figuras 24 e 25). 
+ 
+Figura 24 – Modelo 1 de átrios cobertos fechados
+
+--- PÁGINA 57 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+57/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Figura 25 – Modelo 2 de átrios cobertos fechados 
+11.5.3 Os átrios, para efeito, classificam-se quanto à padronização em: 
+a) átrios padronizados; 
+b) átrios não padronizados. 
+11.5.3.1 Os átrios padronizados caracterizam-se por permitir a inserção de um cilindro reto, cujo 
+diâmetro se insere sobre toda a altura do átrio, dentro do espaço livre correspondente entre: 
+a) ponta dos balcões para os átrios abertos; 
+b) paredes verticais para os átrios fechados; 
+c) ponta dos balcões e paredes verticais para os átrios abertos sobre uma face e fechados para 
+a outra (Figura 26); 
+d) a dimensão do diâmetro do cilindro citado anteriormente deve ser de √(7x h) (raiz quadrada de 
+sete vezes a altura), sendo h a altura do piso mais baixo ao teto do pavimento mais alto do átrio 
+(Figura 27). 
+ 
+Figura 26 – Átrio considerado aberto de um lado e fechado do outro
+
+--- PÁGINA 58 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+58/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ 
+Figura 27 – Dados relativos a um átrio coberto padronizado 
+11.5.3.2 Os átrios não padronizados são todos aqueles que não atendem à regra estabelecida 
+na alínea (d) do item 11.5.3.1 acima. 
+ 
+Figura 28 – Exemplo de átrio não padronizado 
+11.5.4 Para um átrio padronizado consideram-se os itens seguintes: 
+a) seção da base do átrio, como a maior das seções horizontais correspondidas entre os 
+elementos de construção de delimitação do átrio (ponta do balcão e/ou paredes verticais) 
+(Figuras 27 e 28); 
+b) o volume total de base do átrio, como o produto da seção de base pela altura entre o nível 
+mais baixo e o teto do último nível do átrio; 
+c) a menor dimensão de um átrio, como o diâmetro do cilindro reto (Figuras 26 a 29); 
+d) para cada nível, a seção de vazio entre elementos de construção deve ser ao menos igual à 
+metade dessa seção da base; 
+e) a fim de impedir a invasão dos andares superiores pela fumaça, torna-se indispensável isolar 
+do átrio os níveis situados na metade superior do volume a extrair a fumaça por elementos de 
+construção fixos, dispostos na periferia do vazio entre os elementos de construção (ponta dos 
+balcões ou paredes verticais); 
+f) esses elementos podem ser vidros ou outro material de baixa inflamabilidade;
+
+--- PÁGINA 59 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+59/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+g) a colocação desses elementos não tem influência sobre a determinação da menor dimensão 
+do átrio; 
+h) o contido na alínea “f” pode ser substituído pela colocação em sobrepressão das áreas 
+adjacentes e que se comunicam com o átrio, desde que no dimensionamento da vazão de 
+extração do mesmo, seja computada esta vazão adicional. 
+ 
+Figura 29 – Fechamento do átrio 
+11.5.4.1. Átrios ao ar livre: o controle de fumaça se faz naturalmente pela parte superior. 
+11.5.4.2 Pequenos átrios: o controle de fumaça se faz atendendo aos seguintes os critérios: 
+a) entende-se por pequenos átrios aqueles onde a altura do nível inferior em relação ao nível 
+superior não ultrapassa a 8,0 m e a seção de base tem dimensões mínimas de 5,0 m x 5,0 m; 
+b) a extração de fumaça pode ser obtida: 
+b.1) no sistema Tipo 1, pelas aberturas instaladas na parte alta do átrio, por meio de uma área 
+livre igual a 1/100 da seção de base, com um mínimo de 2,0 m²; 
+b.2) nos sistemas Tipo 2 ou Tipo 3, com uma vazão de extração igual a 1,0 m³/s, para cada 
+100,0 m² de seção de base, e com um mínimo de 3,0 m³/s. 
+c) as entradas de ar dos sistemas Tipo 1 ou Tipo 3 devem ter uma área livre equivalente àquelas 
+das extrações de fumaça; 
+d) no sistema Tipo 2, a vazão de entrada de ar deve ser igual a 60% (sessenta por cento) da 
+vazão de extração; 
+e) a velocidade da passagem de entrada de ar deve ser inferior ou igual a 2,0 m/s para as 
+aberturas de ar do sistema Tipo 1 ou Tipo 3 e a 5,0 m/s para as entradas de ar do sistema Tipo 2; 
+f) as áreas adjacentes, caso seja exigido o controle de fumaça, devem ser separadas por 
+barreiras de fumaça.
+
+--- PÁGINA 60 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+60/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+11.5.4.3 Átrios com carga incêndio inferior a 300 MJ/m² e material de acabamento e 
+revestimento classe A e B. 
+a) extração de fumaça pode ser obtida: 
+a.1) no Sistema Tipo 1, pelas aberturas instaladas na parte alta do átrio, por meio de uma área 
+livre igual a 1/100 da seção de base, com um mínimo de 2,0 m²; 
+a.2) nos sistemas Tipo 2 ou 3, com uma vazão de extração igual a 1,0 m³/s, para cada 100,0 m² 
+da seção de base, e com um mínimo de 3,0 m³/s. 
+b) para os sistemas Tipo 1 ou Tipo 3, as introduções de ar devem ter uma área livre equivalente 
+àquela das extrações de fumaça; 
+c) para o sistema Tipo 2, a vazão de entrada de ar deve ser igual a 60% da vazão de extração; 
+d) a velocidade máxima de entrada de ar para o sistema Tipo 2 será de 5,0 m/s e para o sistema 
+Tipo 3 será de 2,0 m/s. 
+e) As classes de material de acabamentos deverão atender ao previsto na Instrução Técnica 
+especifica. 
+11.5.4.4 Demais átrios padronizados 
+11.5.4.4.1 Os sistemas de controle de fumaça podem ser obtidos naturalmente por meio de 
+aberturas situadas na parte alta do átrio, por meio de uma área livre igual a 1/15 da seção de 
+base do volume do átrio; ou mecanicamente efetuada na parte alta, equivalente a 12 (doze) 
+trocas por hora do volume do átrio. 
+11.5.4.4.2 As introduções de ar devem estar situadas na parte baixa do átrio, devendo: 
+a) para sistema natural, ter uma área livre equivalente àquela das extrações de fumaça; 
+b) para sistema mecânico, ter a mesma vazão adotada para extração de fumaça, permitindo 
+uma velocidade máxima de 2,0 m/s para entrada de ar natural e 5,0 m/s para entrada de ar 
+mecânica. 
+11.5.5 Espaços adjacentes aos átrios 
+11.5.5.1 Entende-se por espaços adjacentes ao átrio as lojas, circulações horizontais, escritórios 
+e demais ocupações que possuam comunicação, direta ou indireta, com o átrio. 
+11.5.5.2 Esses espaços devem ser separados dos átrios por meio de barreiras de fumaça fixas. 
+11.5.5.3 Essas barreiras devem ser construídas sob o teto com, no mínimo, 0,5 m de altura, de 
+forma a permitir que exista uma altura livre entre o piso e a barreira de, no mínimo 2,0 m, 
+conforme a Figura 30. 
+11.5.5.4 As circulações horizontais adjacentes ao átrio devem: 
+a) ter extração mecânica de fumaça (Sistemas Tipo 2 ou Tipo 3); 
+b) ser dotadas de barreiras de fumaça perpendiculares com altura mínima de 0,5 m, espaçadas, 
+no máximo, a cada 30,0 m, formando áreas de acomodação de fumaça;
+
+--- PÁGINA 61 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+61/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+c) ter, no mínimo, duas aberturas de extração de fumaça posicionadas próximo ao teto em cada 
+área de acomodação de fumaça. 
+11.5.5.5 A distância máxima, medida segundo o eixo da circulação, entre duas aberturas 
+consecutivas de extração deve ser de: 
+a) 10,0 m nos percursos em linha reta; 
+b) 7,0 m (sete metros) nos outros percursos. 
+11.5.5.6 As aberturas de entrada de ar devem ser posicionadas na metade inferior da altura 
+média do teto ou telhado, abaixo da zona enfumaçada. 
+11.5.5.7 Outros mecanismos de entrada de ar podem ser utilizados, desde que seja comprovado 
+pelo Responsável Técnico que atendam ao especificado no item anterior e que não irão causar 
+turbilhonamento na camada de fumaça. 
+11.5.5.8 Os demais espaços adjacentes ao átrio são classificados em: 
+a) locais fechados com acesso à circulação por meio de uma porta, e separados do átrio por 
+uma circulação horizontal aberta (ex.: escritórios, consultórios, quartos etc.) (Figura 30); 
+b) locais diretamente abertos à circulação horizontal, porém separados do átrio por esta 
+circulação (ex.: lojas comerciais, galerias de exposição, restaurantes etc.) (Figura 31); 
+c) locais diretamente abertos sob o átrio (Figura 32). 
+11.5.5.9 Locais fechados com acesso à circulação por meio de uma porta e separados do átrio 
+por uma circulação horizontal aberta. 
+ 
+Figura 30 – Exemplo de locais fechados com acesso à circulação por meio de uma porta 
+11.5.5.10 Esses locais devem ter controle de fumaça específico de acordo com o item 9, 
+atendendo ao seguinte: 
+a) possuir extração de fumaça na circulação horizontal (ex.: halls) com uma vazão de 4,0 m³/s 
+para cada área de acomodação de fumaça; 
+b) possuir velocidade máxima nas aberturas de entrada de ar de 5,0 m/s; 
+c) as edificações sem janelas e pavimentos sem janelas devem atender ao item 11.3.
+
+--- PÁGINA 62 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+62/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+11.5.5.11 Locais diretamente abertos à circulação horizontal, porém separados do átrio por esta 
+circulação. 
+ 
+Figura 31 – Exemplo de locais diretamente abertos, porém separados do átrio por uma circulação 
+horizontal 
+ 
+Figura 32 – Exemplo de locais diretamente abertos sob o átrio 
+11.5.5.12 Caso esses locais tenham área de construção inferior ou igual a 300,0 m² por unidade 
+autônoma, estão dispensados do sistema de controle de fumaça. 
+11.5.5.12.1 Deve-se prever o controle de fumaça das circulações horizontais, com uma vazão de 
+8,0 m³/s por cada área de acomodação de fumaça. 
+11.5.5.12.2 A velocidade máxima nas aberturas de entrada de ar da circulação horizontal deve 
+ser 5,0 m/s. 
+11.5.5.13 Nos locais diretamente abertos sob o átrio, deve-se verificar: 
+a) esses locais devem ser divididos em áreas de acantonamento de, no máximo, 1.600,0 m²; 
+b) a extração de fumaça dessas áreas deve ser mecânica (Sistemas Tipo 2 ou Tipo 3), 
+posicionado junto ao teto, com uma vazão de 1,0 m³/s para cada 100,0 m² de área de 
+acantonamento, com uma vazão mínima de 10,0 m³/s para cada acantonamento; 
+c) a entrada de ar para esses ambientes, independente do tipo e sistema, deve permitir uma 
+velocidade máxima de 5,0 m/s.
+
+--- PÁGINA 63 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+63/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+11.5.6 Átrios não padronizados 
+11.5.6.1 Para o dimensionamento de átrios não padronizados poderão ser apresentados os 
+seguintes modelos: 
+a) modelo em escala utiliza escala física reduzida, seguindo regras estabelecidas, no qual testes 
+em pequena escala são conduzidos para determinar os requisitos e necessidades do sistema de 
+controle de fumaça a ser projetado; 
+b) modelo algébrico são equações fechadas derivadas primariamente da correlação de resultado 
+experimental de grande e pequena escala; 
+c) modelos dimensionados por programas (computador) usando ambos, teoria e valores 
+empiricamente derivados para estimar as condições no espaço. 
+11.5.6.2 Para quaisquer modelos apresentados para dimensionamento do sistema de controle 
+de fumaça para átrios não padronizados, o responsável técnico deverá apresentar a norma 
+utilizada, além do previsto no Item 7, para avaliação por corpo técnico.
+
+--- PÁGINA 64 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+64/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ANEXO A 
+Quadro Resumo do Sistema de Controle de Fumaça 
+Notas Específicas: 
+1) Tabela 01, item 5.2.2. 
+2) Item 6.1. 
+3) Preencher com a autonomia em horas e características do equipamento (Item 6.9). 
+Nota Geral: 
+A.1 Deverão ser preenchidos apenas os campos contemplados pelo projeto. 
+ 
+ 
+ 
+01 
+Tipo de Sistema de Controle de Fumaça (1) 
+(    ) 1     (    ) 2     (    ) 3 
+02 
+Área onde será instalado sistema de controle de fumaça  
+Pavimento(s): 
+ 
+03 
+Quantidade de acantonamentos(2) 
+ 
+04 
+Área útil de entrada de ar total (m²)  
+ 
+05 
+Área útil de extração de fumaça total (m²)  
+ 
+06 
+Vazão de entrada de ar – Vv (m³/s) 
+ 
+07 
+Vazão de extração de fumaça – Ve (m³/s) 
+ 
+08 
+Comando automático duplicado por comando manual 
+Sim (   )    Não se aplica (   ) 
+09 
+Alimentação por Motogerador ou baterias (3) 
+Autonomia:                 horas 
+Potência:                    kW 
+Não se aplica(  ) 
+10 
+Informações complementares e observações:
+
+--- PÁGINA 65 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+65/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ANEXO B 
+Equação utilizada para dimensionamento do sistema de controle de fumaça Tipo 1: 
+Equação 1 – Área de extração 
+𝑨_𝒆= (𝑨× %_𝒂) 
+Onde: 
+Ae área de extração;  
+%a porcentagem de abertura;  
+A área total da edificação ou área do acantonamento para os casos em que for calculada a 
+abertura para cada acantonamento.
+
+--- PÁGINA 66 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+66/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+ANEXO C 
+Equações utilizadas para dimensionamento do sistema de controle de fumaça Tipo 2: 
+Equação 2 – Tamanho do incêndio 
+𝐈𝐚= 𝐀× 𝐡𝐄 
+Onde: 
+Ia= Tamanho do incêndio 
+A= Área obtida através da tabela 8 
+hE= Altura de estocagem 
+ 
+Equação 3 – Taxa de liberação de calor total 
+𝐐𝐭= 𝐈𝐚 ×  𝐐′ 
+Onde: 
+Qt= taxa de liberação de calor total; 
+Q’ = taxa de liberação de calor obtida através da Tabela 9; 
+Ia = tamanho do incêndio 
+ 
+Equação 4 – Posição da camada de fumaça 
+Equação 4.a (Queima estável) 
+𝒛𝑯
+⁄
+= 𝟏, 𝟏𝟏−𝟎, 𝟐𝟖 × 𝐥𝐧[
+(𝒕 × 𝑸𝟏𝟑
+⁄
+𝑯𝟒𝟑
+⁄
+⁄
+)
+(𝑨
+𝑯𝟐
+⁄
+)
+] , 
+onde: 
+z = altura de projeto da camada de fumaça acima do piso (m) 
+H = altura do teto acima da superfície de fumaça (m) 
+t = tempo (s) 
+Q = taxa de liberação de calor de queima estável (kW) 
+A = área do acantonamento (m²).
+
+--- PÁGINA 67 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+67/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Equação 4.b (Queima instável) 
+𝐳𝐇
+⁄
+= 𝟎, 𝟗𝟏 × [
+𝐭
+𝐭𝐠
+𝟐𝟓
+⁄ ×𝐇𝟒𝟓
+⁄ ×( 𝐀
+𝐇𝟐)
+𝟑𝟓
+⁄ ]
+−𝟏,𝟒𝟓
+ , 
+onde: 
+z = altura de projeto da camada de fumaça acima do piso (m) 
+H = altura do teto acima da superfície de fumaça (m) 
+t = tempo (s) 
+tg = tempo de crescimento do incêndio (s) 
+A = área do acantonamento (m²). 
+NOTA: A equação (4) avalia a posição da camada a qualquer tempo depois da ignição, onde 
+os cálculos abrangem z/H > 1,0. 
+ 
+Equação 5 – Altura da chama 
+𝐳𝟏= 𝟎,𝟏𝟔𝟔× 𝐐𝐜
+𝟐𝟓
+⁄  , 
+onde: 
+z1= limite de elevação da chama (m) 
+Qc= porção convectiva da taxa de liberação de calor (kW) 
+ 
+Equação 6 – Massa de fumaça a ser extraída 
+Equação 6.a (condição z > z1) 
+𝐦= (𝟎, 𝟎𝟕𝟏× 𝐐𝐜
+𝟏𝟑
+⁄ × 𝐳𝟓𝟑
+⁄ ) + (𝟎, 𝟎𝟎𝟏𝟖× 𝐐𝐜) , 
+onde: 
+m= vazão mássica da coluna de fumaça para a altura z (kg/s) 
+z= altura de projeto da camada de fumaça acima do piso (m) 
+Qc= porção convectiva da taxa de liberação de calor, estimada em 70% da taxa de liberação 
+de calor “Q” (kW)
+
+--- PÁGINA 68 ---
+CBMMG IT 41 – Controle de Fumaça 
+1ª edição 
+68/68 
+Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p. 27. 
+Equação 6.b (condição z ≤ z1) 
+𝒎= 𝟎, 𝟎𝟑𝟐× 𝐐𝐜
+𝟑𝟓
+⁄ × 𝐳 , 
+ onde: 
+m = vazão mássica da coluna de fumaça para a altura z (kg/s) 
+z = altura de projeto da camada de fumaça acima do piso (m) 
+Qc = porção convectiva da taxa de liberação de calor, estimada em 70% da taxa de liberação 
+de calor “Q” (kW). 
+ 
+Equação 7 – Volume de fumaça produzida 
+𝐕=
+𝐦
+𝛒 , 
+onde: 
+V = volume produzido pela fumaça (m3/s) 
+m = vazão mássica da coluna de fumaça (kg/s), para a altura z 
+ρ = densidade da fumaça (kg/m³), de acordo com a temperatura adotada. 
+ 
+Equação 8 – Coluna de fumaça em obstáculos 
+𝒎= 𝟎, 𝟑𝟔× (𝑸× 𝒘𝟐)
+𝟏
+𝟑× (𝒁𝒃+ 𝟎, 𝟐𝟓× 𝑯), 
+onde: 
+m = taxa do fluxo de massa na coluna (kg/s) 
+Q = taxa de liberação de calor (kW) 
+w = extensão da coluna saindo das sacadas (m) 
+Zb = altura acima da sacada (m) 
+H – altura da sacada acima do combustível (m)

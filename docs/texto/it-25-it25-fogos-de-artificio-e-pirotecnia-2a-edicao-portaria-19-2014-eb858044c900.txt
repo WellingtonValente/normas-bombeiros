@@ -1,0 +1,701 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 25 
+2ª edição 
+FOGOS DE ARTIFÍCIO E PIROTECNIA 
+ 
+Aprovada pela portaria n. 19 de 02out2014. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Procedimentos para indústrias e 
+depósitos 
+6 
+– 
+Procedimentos 
+para 
+comércio 
+varejista de fogos de artifício 
+7 – Procedimentos para espetáculos 
+pirotécnicos 
+ 
+ANEXOS 
+A – Termo de responsabilidade 
+B – Modelo de ofício-resposta para 
+espetáculo pirotécnico 
+C – Nomenclatura de fogos de artifício
+
+--- PÁGINA 2 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+2/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+1  OBJETIVO 
+Estabelecer as condições necessárias de segurança contra incêndios e pânico em edificações 
+destinadas ao comércio, fabricação e estocagem de fogos de artifício e Espetáculos 
+Pirotécnicos. 
+2 APLICAÇÃO 
+2.1 Às edificações destinadas ao comércio de fogos de artifício, conforme Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais. 
+2.2 Às indústrias e depósitos de fogos de artifício ou materiais explosivos. 
+2.3 Aos espetáculos pirotécnicos realizados no Estado de Minas Gerais e ao uso de fogos no 
+interior de edificações. 
+2.4 O atendimento a esta Instrução Técnica não isenta da regularização da edificação, área de 
+risco ou espetáculo pirotécnico em outros órgãos, em especial no Exército Brasileiro e na Polícia 
+Civil do Estado de Minas Gerais. 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Lei n 9.605/1998. Dispõe sobre as sanções penais e administrativas, derivadas de condutas e 
+atividades lesivas ao meio ambiente, e dá outras providências (balões com mechas). 
+Decreto Federal n 3.665/ 2000. Dá nova redação ao Regulamento para Fiscalização de Produtos 
+Controlados (R–105). 
+Código Penal – Decreto Lei n 2.848/1940, ênfase no art. 253. 
+Código do Consumidor – Lei n 8.078/ 1990, com ênfase: art. 6º (caput e incisos I e II); art. 8º; art. 
+10; art. 12 (caput, § 1º e inciso II); art. 18 (§ 6º e incisos I e II) e art. 68 (caput). 
+Código Civil Brasileiro – Lei n 10.406/2002. 
+Estatuto da Criança e do Adolescente – Lei n 88.069/1990 – art.  244. 
+Portaria do Ministério dos Transportes n. 204/1997. Aprova as instruções complementares aos 
+regulamentos dos transportes rodoviários e ferroviários de produtos perigosos. 
+Resolução 6429/2000 – Secretaria de Segurança Pública de Minas Gerais. 
+Resolução 6751/2004 – Polícia Civil de Minas Gerais.
+
+--- PÁGINA 3 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+3/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+3.2 Normas 
+NBR 5410 – Instalações elétricas de baixa tensão. 
+NBR 5419 – Sistema de proteção contra descargas elétricas atmosféricas. 
+R 19 – Explosivos. 
+REG/T 02 – Regulamento técnico de fogos de artifício, pirotécnicos, artifícios pirotécnicos e 
+artefatos similares – Exército Brasileiro. 
+REG/T 03 – Espetáculos Pirotécnicos – Exército Brasileiro. 
+NFPA 1123 – Code for fireworks display – 2000 Edition. 
+4 DEFINIÇÕES 
+Para os efeitos desta instrução técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção contra Incêndio e Pânico) e as seguintes: 
+4.1 Área de estocagem: local destinado ao acondicionamento de fogos de artifícios 
+industrializados. Possui carga de incêndio específica alta (acima de 1.200 MJ/m²). 
+4.2 Barricada: é uma barreira intermediária de uso aprovado, natural ou artificial, de tipo, 
+dimensões e construção de forma a limitar, de maneira efetiva, os efeitos de uma explosão 
+eventual nas áreas adjacentes. 
+4.3 Barricada natural: é constituída por massas naturais de terra. 
+4.4 Barricada artificial: é constituída de um talude de terra simples, com altura no mínimo igual 
+à do paiol, protegido por um muro de arrimo de material adequado em seu lado mais íngreme, 
+barricada dita de arrimo singelo ou, em ambos, barricada dita de arrimo duplo. 
+4.5 Carga: Elemento integrante do fogo de artifício apto a exercer uma das finalidades a seguir 
+discriminadas. 
+4.6 Carga de projeção/propulsão: Composição pirotécnica, normalmente de pólvora negra, 
+destinada à projeção ou propulsão de bombas aéreas ou dispositivos similares, dotados de 
+carga de abertura. A carga de propulsão se desloca, em combustão, ao longo da trajetória, 
+enquanto a carga de projeção apenas arremessa. 
+4.7 Carga de abertura: Composição pirotécnica destinada ao arrebentamento de bombas 
+aéreas e espalhamento de suas baladas. Normalmente fabricadas a partir de misturas de 
+pólvora negra adaptada e casca de arroz ou pólvora branca adaptada. 
+4.8 Carga de efeito: Composição pirotécnica responsável pelo efeito final pretendido para o fogo 
+de artifício. 
+4.9 Carga a granel: produto que é transportado sem qualquer embalagem, contido apenas pelo 
+equipamento de transporte, seja ele tanque, vaso, caçamba ou container. 
+4.10  Certificado de Registro (CR): documento hábil que autoriza as pessoas físicas ou 
+jurídicas à utilização industrial, armazenagem, comércio, exportação, importação, transporte, 
+manutenção, recuperação e manuseio de produtos controlados pelo Exército.
+
+--- PÁGINA 4 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+4/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+4.11 Comércio de fogos de artifício no varejo: local destinado à venda de fogos de artifício, 
+respeitando o Código do Consumidor, Código Civil, Código Penal, Estatuto da Criança e do 
+Adolescente e o R–105. 
+4.12  Composição pirotécnica: Substância ou mistura de substâncias contendo sais oxidantes 
+e materiais combustíveis, para a obtenção de efeitos de projeção, propulsão, sonoros, visuais, 
+fúmeos ou combinação destes. Ex.: pólvora negra, pólvora branca, mistos fumígenos, mistos de 
+retardo, mistos de iniciação, cargas de efeito, carga de abertura, etc. 
+4.13  Deflagração: fenômeno característico dos chamados baixos explosivos, que consiste na 
+autocombustão de um corpo (composto de combustível, comburente e outros), em qualquer 
+estado físico, o qual ocorre por camadas e a velocidades controladas (de alguns décimos de 
+milímetros até quatrocentos metros por segundo). 
+4.14  Depósitos de materiais explosivos: são construções destinadas ao armazenamento de 
+explosivos e seus acessórios, munições e outros implementos de material bélico. 
+4.15  Distância de segurança: A distância compreendida na vizinhança dos artefatos é 
+considerada distância de segurança, e dentro desta será determinada a zona de segurança 
+(zona circular). No interior desta demarcação deverão cair os resíduos (cinzas, carcaças de 
+papelão ou plástico) ou o produto íntegro resultante de falhas ou negas. 
+4.16  Embalagem: elemento ou conjunto de elementos destinados a envolver, conter ou 
+proteger produtos durante sua movimentação, transporte, armazenamento, comercialização ou 
+consumo. 
+4.17 Espetáculo Pirotécnico: espetáculo que utiliza fogos de artifício, artefatos e artifícios 
+pirotécnicos e artefatos similares, na presença de público. 
+4.18 
+Explosivos: Substâncias capazes de rapidamente se transformarem em gases, 
+produzindo calor intenso e pressões elevadas. 
+4.19 Explosão em massa: aquela que afeta virtualmente toda a carga de maneira instantânea. 
+4.20 Fogos de artifício e estampido: Artefato pirotécnico que produz ruídos e efeitos 
+luminosos. 
+4.21 Fogos de artifício de interior (indoor): Artefato pirotécnico de menor poder explosivo que 
+os de exterior, usados nos palcos próximos a artistas e em lugares fechados, tais como, teatros, 
+estádios, boates, salões e outros. São também conhecidos como pirotecnia fria, ainda assim 
+deve-se atentar para os procedimentos de segurança pertinentes, já que em ambientes fechados 
+se encontram elementos suscetíveis à queima, tais como, telões, decorações, entre outros. 
+4.22 Local da apresentação: Área necessária à realização do espetáculo pirotécnico. Nesta 
+área não estão incluídas as áreas destinadas ao desembarque, armazenamento, espectadores, 
+estacionamento, etc. 
+4.23 Manuseio de produtos controlados: trato com produto controlado com finalidade 
+específica como por exemplo, sua utilização, manutenção, armazenamento e manipulação, em 
+acordo com as condições legais exigidas. 
+4.24 Operador ou Blaster: Responsável pelas medidas preparatórias e pelas ações exigidas no 
+decorrer do evento, tendo a seu encargo a realização do espetáculo pirotécnico, as precauções 
+do desembarque, o recebimento, a guarda, a preparação e o disparo dos fogos de artifício.
+
+--- PÁGINA 5 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+5/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+4.25 Produto controlado pelo Exército e/ou Polícia Civil: produto que, devido ao seu poder de 
+destruição ou outra propriedade, deva ter seu uso restrito a pessoas físicas e jurídicas 
+legalmente habilitadas, capacitadas técnica, moral e psicologicamente, de modo a garantir a 
+segurança social e militar do país. 
+4.26 Responsável técnico: profissional graduado em engenharia química ou de minas ou outro 
+curso superior, mas com especialização comprovada em uma das áreas de explosivos, fogos de 
+artifício, munições auto propelidas, desmontes e implosões. 
+4.27 Rótulo: elemento que apresenta informações como, símbolos e/ou expressões 
+emolduradas referentes à natureza, manuseio e identificação do produto. 
+4.28 Substância sujeita a combustão espontânea: substância sujeita a aquecimento 
+espontâneo nas condições normais de pressão e temperatura, de transportes ou estocagem, que 
+se aquecem em contato com ar, sendo, capazes de se incendiarem. 
+4.29 Título de Registro: documento hábil que autoriza a pessoa jurídica à fabricação de 
+produtos controlados pelo Exército. 
+5 PROCEDIMENTOS PARA INDÚSTRIAS E DEPÓSITOS 
+5.1  As medidas de segurança contra incêndio e pânico a serem exigidas para as edificações e 
+áreas de risco serão as previstas no anexo A da IT 01, devendo a instalação e o funcionamento 
+atender a normas específicas, em especial ao R–105 e à NR 19. 
+5.2  Devido ao alto riso de explosão, os extintores de incêndio das edificações devem ficar 
+localizados no lado externo das edificações, não devendo ser utilizado para combater princípios 
+de incêndio no interior da edificação, mas em sua área externa. É exigido um extintor por 
+edificação, adequado à classe A de fogo, com capacidade extintora mínima de 2–A. 
+5.3 As instalações elétricas devem ser à prova de explosão e executadas de acordo com a NBR 
+5410 – Instalações Elétricas de Baixa Tensão. 
+5.4 Todos os funcionários devem possuir treinamento sobre o modo de ação em caso de 
+emergência, sendo obrigatório no mínimo um treinamento anual. 
+5.5 Para edificações situadas em ambiente rural, os brigadistas deverão, além de possuir 
+capacitação técnica conforme IT 12, possuir conhecimento específico e meios para a extinção de 
+incêndio em vegetação. 
+5.6 Não serão permitidas instalações de fábricas de fogos de artifício e artifícios pirotécnicos, 
+seus elementos e acessórios no perímetro urbano das cidades, vilas ou povoados, devendo ficar 
+afastadas dessas localidades e, sempre que possível protegidas por acidentes naturais do 
+terreno ou por barricadas, de modo a preservá-los dos efeitos de explosões. 
+5.7 Os locais de fabricação de explosivos devem ser: 
+a) mantidos em perfeito estado de conservação; 
+b) adequadamente arejados; 
+c) construídos com paredes e tetos de material incombustível e pisos antiestáticos; 
+d) dotados de equipamentos devidamente aterrados e, se necessário, de instalações elétricas 
+especiais de segurança;
+
+--- PÁGINA 6 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+6/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+e) livres de materiais combustíveis ou inflamáveis. 
+5.8 Os depósitos destinados aos produtos acabados e os de matérias-primas controladas pelo 
+Exército Brasileiro, assim como os edifícios destinados à administração e alojamento devem 
+formar grupamentos distintos, convenientemente afastados uns dos outros, obedecendo às 
+tabelas de quantidades–distâncias, Anexo XV do R–105. 
+5.9  A instalação de fábricas e depósitos de fogos somente será permitida mediante a 
+autorização específica, ficando suas instalações subordinadas ao estabelecido pelos 
+regulamentos do Exército e Normas Regulamentadoras. 
+5.10 Os galpões utilizados para armazenamento de produtos e matérias-primas poderão utilizar 
+portas de correr, desde que essas permaneçam abertas durante todo o horário de 
+funcionamento. 
+6 PROCEDIMENTOS PARA COMÉRCIO VAREJISTA DE FOGOS DE ARTIFÍCIO 
+6.1. Os fogos de artifício são classificados nas categorias A, B, C e D de acordo com critérios 
+estabelecidos no art. 112 do Regulamento para Fiscalização de Produtos Controlados (R–105), 
+aprovado pelo Decreto Federal n. 3665/2000, ou em legislação federal que venha a modificá-lo. 
+6.2  Características das edificações e medidas de proteção 
+6.2.1 Somente são permitidas instalações para venda de fogos de artifícios em edificações 
+térreas, com área máxima de 500 m². 
+6.2.1.1  Serão permitidos mezaninos para tratar das atividades administrativas da própria 
+empresa. 
+6.2.1.2  Será permitida a instalação para vendas de fogos de artifícios em edificações térreas 
+com parede justaposta a de outra edificação, desde que a parede da loja de fogos de artifícios 
+seja construída em material incombustível, com espessura mínima de 0,25 m e sem aberturas, e 
+que possua entrada distinta. 
+6.2.1.3  É admitido o comércio misto com artigos de outras naturezas, desde que seja montada 
+uma seção separada entre os fogos e os produtos de outras naturezas, a uma distância, mínima, 
+de 1 metro, sendo proibida a venda associada a outro tipo de atividade, como em locais de 
+reunião de público. 
+6.2.2 O piso deverá possuir características de antifaísca (piso liso). 
+6.2.3 A edificação deverá possuir sistema de proteção para descarga atmosférica e aterramento. 
+6.2.4 As áreas de estocagem de fogos de artifício devem possuir ventilação cruzada junto ao 
+teto. A área de ventilação cruzada deve ser protegida contra intempéries, porém, com 
+esquadrias ou outras opções que mantenham aberturas fixas. 
+6.2.5 As instalações elétricas devem ser à prova de explosão e executadas de acordo com a 
+NBR 5410 – Instalações Elétricas de Baixa Tensão. 
+6.2.6 Possuir afastamento de no mínimo 200,0 metros das seguintes edificações e áreas de 
+risco: 
+a) fábricas e depósitos de explosivos, inflamáveis e/ou combustíveis, líquidos e/ou gasosos;
+
+--- PÁGINA 7 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+7/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+b) terminais de abastecimento de gás liquefeito de petróleo e similares. 
+6.2.7 Possuir afastamento de no mínimo 50 metros das seguintes edificações e áreas de risco: 
+a) posto de serviços de combustível; 
+b) áreas de armazenamento de GLP; 
+c) locais de reunião de público com capacidade superior a 200 pessoas. 
+6.2.8 Todos os funcionários devem possuir treinamento sobre o modo de ação em caso de 
+emergência, sendo obrigatório no mínimo um treinamento anual. 
+6.3 Estocagem 
+6.3.1 Os fogos de artifício deverão estar dispostos de forma fracionada em prateleira arejada, 
+construída de material incombustível, atendendo todas as recomendações do R–105. 
+6.3.2 A estocagem de fogos de artifício em áreas urbanas obedecerá aos critérios abaixo, 
+devendo ser ventilado e seco, protegido contra elevações bruscas de temperatura e umidade 
+que possam influir na degradação dos produtos: 
+a) Classe A, permitida até 2,5 m³; 
+b) Classe B, permitida até 2,5 m³. 
+c) para a Classe C e D, deverá obedecer aos critérios estabelecidos pelo órgão competente. 
+6.3.3 Fica vedada a estocagem de pólvora com fogos de artifício e outros explosivos, inclusive 
+no balcão de venda. 
+6.3.4 Fica proibida a estocagem e comercialização de fogos de artifício a granel, seja de 
+qualquer natureza, e de qualquer tipo de embalagem (sacos de papel, de ráfia, plástico e 
+estopa). 
+6.3.5 Os fogos de artifício somente poderão ser expostos à venda devidamente acondicionados 
+e com rótulos explicativos de seu efeito e de seu manejo e onde estejam discriminadas sua 
+denominação usual, sua classificação e procedência. 
+6.3.6 Materiais e dispositivos de pirotecnia devem ser armazenados a uma distância de no 
+mínimo 15 metros de qualquer fonte desprotegida de calor ou chama aberta. 
+6.4 Documentação 
+6.4.1 Para análise do PSCIP, deverão constar planta baixa da disposição dos armários de 
+estocagem, balcão de vendas e circulação e planta de situação comprovando o atendimento ao 
+item 6.2.6. 
+6.4.2 Para dar entrada no pedido de vistoria, é necessário apresentar cópia do requerimento 
+protocolado junto à Polícia Civil para comercialização de fogos de artifício. 
+7 PROCEDIMENTOS PARA ESPETÁCULOS PIROTÉCNICOS 
+7.1A realização de espetáculos pirotécnicos com utilização de fogos de artifício, pirotécnicos, 
+artifícios pirotécnicos e artefatos similares deverão atender ao Regulamento Técnico 03 –
+
+--- PÁGINA 8 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+8/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+Espetáculos Pirotécnicos, do Exército Brasileiro, bem como às prescrições desta Instrução 
+Técnica. Os fogos de artifício devem atender às prescrições estabelecidas no REG/T 02. 
+7.2 Os espetáculos pirotécnicos deverão ser planejados e acompanhados por profissional 
+devidamente capacitado (responsável técnico ou blaster), sendo atribuída e este a 
+responsabilidade pela atividade. 
+7.3 Os produtos nacionais ou importados utilizados nos espetáculos deverão ser certificados 
+pelo Exército Brasileiro, nos termos da legislação específica. 
+7.4 O responsável técnico ou blaster deve pesquisar as características do produto a ser utilizado, 
+suas instruções de funcionamento, local onde pode ser acionado, se em ambiente fechado ou ao 
+ar livre, distância do público e/ou usuários, sua certificação, dentre outras informações. 
+7.5 O uso de fogos no interior de edificações deve ser feito utilizando-se artefatos pirotécnicos 
+para ambiente fechado, conhecidos como Fogos Indoor (Gerb, Flame, Airbust, etc.), sendo 
+expressamente proibida a utilização de fogos de exterior, sob penalização cível e criminal. 
+7.6 Quando a queima for ocorrer em área aberta que não atenda ao distanciamento previsto por 
+esta IT (ex.: área de palco), deverão ser utilizados Fogos Indoor. 
+7.7 Nos espetáculos pirotécnicos no interior de edificações deve-se manter uma distância de 
+segurança da plateia de no mínimo 2,0 metros. 
+7.8 É proibida a realização de espetáculos pirotécnicos no interior de edificação que não possua 
+AVCB válido. 
+7.9 É proibida a realização de espetáculos pirotécnicos no interior de edificação que não atenda 
+às exigências específicas de controle de materiais de acabamento e de revestimento, nos termos 
+da Instrução Técnica específica. 
+7.10 A nomenclatura dos fogos de artifício encontra-se no Anexo C desta IT. 
+8 Prescrições diversas 
+8.1 O local de apresentação, fluvial ou em terra, deve apresentar a dimensão mínima 
+estabelecida na tabela 1, correspondente ao tubo de lançamento de maior calibre utilizado na 
+apresentação. 
+Tabela 1 – Local de apresentação 
+Calibre nominal do tubo de 
+lançamento (mm) 
+Diâmetro externo mínimo (
+< 25 
+46 
+38 
+64 
+50 
+85 
+76,2 
+128 
+101,6 
+171 
+127,0 
+213 
+152,4 
+256 
+177,8 
+299 
+203,2 
+341 
+8.2 
+A distância mínima de separação exigida entre qualquer tubo de lançamento e a área 
+reservada aos espectadores (em oposição à área de queda) deverá atender à tabela 2. 
+Tabela 2 – Distância para área reservada ao público
+
+--- PÁGINA 9 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+9/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+Calibre nominal do 
+tubo de lançamento 
+(mm) 
+Tubo de 
+lançamento 
+vertical (m) 
+Tubo de 
+lançamento 
+inclinado (m) 
+< 25 
+23 
+23 
+38 
+32 
+23 
+50 
+43 
+29 
+76,2 
+64 
+43 
+101,6 
+85 
+58 
+127,0 
+107 
+70 
+152,4 
+128 
+85 
+177,8 
+149 
+98 
+203,2 
+171 
+113 
+8.3 A distância mínima de separação entre qualquer tubo de lançamento, na vertical ou 
+inclinado, de locais com exigência de precauções especiais, ou seja, escolas, hospitais, 
+estabelecimentos policiais ou correcionais, bem como postos de combustível, depósitos de 
+materiais inflamáveis, será o dobro da distância necessária para a área reservada ao público. 
+8.4 Para artefatos sem carga de abertura, as distâncias de segurança serão metade daquelas 
+requeridas pelas tabelas 1 e 2. 
+8.5 A área de disparo, contida no local da apresentação, deve ser estabelecida de forma que 
+qualquer ponto da trajetória provável mantenha um afastamento de, no mínimo, 8 m de qualquer 
+objeto ou obstáculo. 
+8.6 A área de queda, inclusa no local da apresentação, deve estar livre de edificações, de 
+materiais de fácil combustão, de veículos, de pessoas, inclusive os integrantes da equipe. 
+8.7 Para tubo de lançamento posicionado verticalmente, a localização da peça deve ser 
+aproximadamente no centro do local da apresentação, conforme figura 1. Para posição inclinada, 
+o tubo de lançamento deve manter um afastamento do centro do local de apresentação, no 
+sentido da área prevista para os espectadores entre 1/6 e 1/3 do raio do círculo do local de 
+apresentação, conforme figura 2. 
+FIGURA 1 – Local da apresentação para tubo de lançamento na posição vertical
+
+--- PÁGINA 10 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+10/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+ 
+ 
+FIGURA 2 – Local da apresentação para tubo de lançamento na posição inclinada 
+ 
+8.8 O ângulo de inclinação do tubo de lançamento deve ser estabelecido de modo que o ponto 
+de queda da bomba falhada se situe simetricamente em relação à posição do tubo de 
+lançamento, tendo o centro do círculo como centro de simetria. 
+8.9 A área de queda deve se situar em oposição à área prevista para os espectadores. 
+8.10 O funcionamento dos fogos de artifício deve estar sob a vigilância de um ou mais 
+observadores encarregados de detectar e comunicar ao operador o funcionamento inadequado, 
+quanto à trajetória ou efeito, ou a existência de condições inseguras. 
+8.2 Documentação 
+8.2.1 Para a regularização de espetáculos pirotécnicos no Estado, deve ser apresentada ao 
+Corpo de Bombeiros, no prazo mínimo de 5 dias úteis de antecedência, os seguintes 
+documentos: 
+a) Termo de Responsabilidade (Anexo A), constando o endereço do local onde ocorrerá o 
+espetáculo, o horário, nome do responsável técnico ou do blaster, tipo e quantidade de fogos de 
+artifício empregados com descrição de cada artefato, com o efeito desejável; 
+b) croqui da área com escala 1:100, no formato A3 ou A4, contendo o isolamento do perímetro, 
+distâncias de rede elétrica, estacionamento, edificações, área reservada ao público e outros; 
+c) cópia do documento que comprove a capacidade técnica do responsável técnico ou blaster. 
+8.2.2 Constatando-se que a documentação encontra-se completa e atende aos requisitos 
+normativos, deverá ser emitida, com no mínimo 2 dias de antecedência ao espetáculo, 
+autorização para a realização do espetáculo pirotécnico (Anexo B). 
+8.2.3Para queimas a serem realizadas em eventos temporários, a documentação deverá ser 
+apresentada no Projeto de Evento Temporário (PET). 
+8.2.3.1 O espetáculo será considerado autorizado quando o PET for aprovado. 
+8.2.3.2 A área destinada aos fogos deverá estar isolada quando da vistoria do PET.
+
+--- PÁGINA 11 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+11/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+ANEXO A 
+TERMO DE RESPONSABILIDADE 
+ 
+Declaro, para os devidos fins, que o espetáculo pirotécnico a ser realizado no local abaixo 
+discriminado foi planejado e será executado observando os critérios normativos estabelecidos 
+pela Instrução Técnica 25 e REG/T 03. 
+ 
+Endereço: 
+ 
+Data de realização:       /      /          ; Horário     :   h. 
+ 
+Nome 
+Quantidade 
+Descrição 
+Efeito desejável 
+ 
+Assumo total responsabilidade por qualquer incidente ou dano decorrente de falha ou 
+inobservância dos critérios estabelecidos penas normas supracitadas. 
+ 
+(Cidade),  
+de  
+de  
+. 
+ 
+ 
+ 
+  
+Nome do responsável técnico ou do blaster: 
+Nº de registro:
+
+--- PÁGINA 12 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+12/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+ANEXO B 
+ 
+MODELO DE OFÍCIO–RESPOSTA PARA ESPETÁCULO 
+PIROTÉCNICO 
+UNIDADE 
+ 
+Of. nº.  
+/  
+ 
+Assunto: Autorização para realização de espetáculo pirotécnico 
+ 
+Local,                           de  
+de 20              
+ 
+Prezado senhor, 
+ 
+Conforme documentação protocolada neste Centro 
+ (Cia,  
+Pel), fica autorizada a 
+realização do espetáculo pirotécnico, desde que: 
+a) Haja autorização de queima expedida pelo Departamento de Investigação, Orientação e 
+Proteção à Família (DIOPF) do setor de armas, munições e explosivos (SEAME) da Polícia Civil; 
+b) As exigências previstas na Instrução Técnica nº 25 do CBMMG e no Regulamento Técnico nº 
+03 do Exército Brasileiro sejam atendidas. 
+ 
+Endereço: 
+Data de realização: 
+Horário: 
+Nome do responsável técnico ou do blaster: 
+Nº de Registro: 
+Telefone: 
+ 
+OBS.: A autorização é válida apenas para o(s) dia(s), horário(s) e local mencionado. 
+ 
+Atenciosamente, 
+ 
+ 
+(Chefe do CAT / Cmt da Cia / Cmt do Pel) 
+ 
+ 
+Recebido   em  
+/  
+/  
+às  
+:  
+h   por  
+Tel:  
+ 
+ 
+ 
+Carimbo e rubrica do militar que entregou o ofício:
+
+--- PÁGINA 13 ---
+CBMMG IT 25 – Fogos de Artifícios e Pirotecnia  
+2ª edição 
+13/13 
+Aprovada pela portaria n. 19 de 02out2014 
+ 
+ANEXO C  
+NOMENCLATURA DE FOGOS DE ARTIFÍCIO 
+NOME 
+DESCRIÇÃO 
+EFEITO PRINCIPAL 
+EXEMPLOS 
+Bateria 
+Conjunto de bombas de solo. 
+Estampidos. 
+Bateria de tiros. 
+Bolas  
+crepitantes 
+Pequeno dispositivo de papel contendo 
+composição pirotécnica e iniciador. 
+Emissão de centelhas e 
+pequenos estampidos. 
+Dragon eggs, crackling ball, 
+croquet. 
+Bomba  
+aérea 
+Artefato lançado por meio de tubos de 
+lançamento e contendo carga de 
+projeção, retardo, carga de abertura, 
+baladas e/ou tiros. 
+Ascensão seguida de efeitos 
+diversos. 
+Bomba de polegadas, shell, 
+shell-in-mortar, minas. 
+Bomba  
+de solo 
+Tubo, de papel ou de plástico, 
+contendo composição pirotécnica e 
+iniciador. 
+Estampido. 
+Traque, estalo de riscar 
+bomba numerada, banger, 
+firecracker. 
+Candela 
+Tubo com diversas cargas de 
+projeção contendo baladas e/ou 
+bombas aéreas, montadas em 
+alternância. 
+Lançamento de baladas e/ou 
+bombas aéreas, em 
+Sequência. 
+Vela romana, “roman candle”, 
+pistola. 
+Centelhador  
+de tubo 
+Tubo contendo composição pirotécnica. 
+Emissão de centelhas. 
+Vela, velinha, chuva, 
+bengala, cascata, estrela 
+lume. 
+Centelhador  
+de vara 
+Arame ou palito parcialmente coberto de 
+composição pirotécnica. 
+Emissão de centelhas. 
+Chuva, chuvinha, estrela, 
+estrelinha, sparkle. 
+Conjunto de 
+múltiplos tubos 
+Montagem que inclui dois ou mais 
+tipos de fogos de artifício, com um ou 
+mais 
+pontos de iniciação e queima em 
+sequência, para apresentação em 
+show. 
+Efeitos diversos. 
+Tortas, girândolas, cakes, 
+letreiros, set pieces, kits, 
+base de míssil. 
+Estalo 
+de salão 
+Dispositivo contendo composição 
+pirotécnica sensível a choque mecânico. 
+Estampido. 
+Traque de massa, estalinho, 
+throwdown. 
+Estopim 
+Fio ou cordão, encapado ou 
+desencapado, impregnado de 
+composição pirotécnica. 
+Transmissão de chama com 
+ou sem retardo. 
+Retardo, rastilho, safety fuse, 
+quickmatch. 
+Foguete (A) 
+Tubo com carga de projeção, contendo 
+baladas e/ou bombas aéreas. 
+Lançamento de baladas e/ou 
+bombas aéreas de efeito 
+sonoro e/ou visual. 
+3 tiros, rabo de pavão, 
+bouquet de lágrimas, 
+crakling, crepitante, bomba 
+12 x 1. 
+Tubo de 
+lançamento 
+Morteiro (B) 
+Tubo com carga de projeção 
+contendo bomba aérea singela. 
+Lançamento de bombas 
+aéreas. 
+n. 2, n. 3, n. 4, n.  5, n. 6, n. 7 
+e n. 8. 
+Fonte 
+Tubo cônico ou cilíndrico contendo 
+composição pirotécnica. 
+Emissão de centelhas e 
+chamas coloridas. 
+Vulcão, sputnik, árvore de 
+natal, fountain. 
+Fumígeno 
+Tubo contendo composição pirotécnica. 
+Emissão de fumaça. 
+Smoke. 
+Giratório 
+aéreo 
+Tubo provido de hélice contendo 
+composição pirotécnica. 
+Ascensão em movimento 
+Giratório. 
+Avião, abelhinha, ovni, 
+helicóptero, disco voador, 
+coroa giratória. 
+Giratório  
+de solo 
+Tubo cilíndrico ou em forma de 
+espiral contendo composição 
+pirotécnica. 
+Movimento giratório em torno 
+de um ponto. 
+Peão, giroloco, roseta 
+Rojão 
+Dispositivo autopropulsado, com meio 
+de estabilização em vôo. 
+Ascensão, seguida de efeitos 
+diversos. 
+Rocket, cometa, cometinha 
+cometa de apito, rojão com 
+vara, rojão tipo míssil, 
+Foguete. 
+(A) Nome genérico, usual no Brasil, embora sem autopropulsão. 
+(B) Conjunto integrado por tubo de lançamento e bomba aérea com carga de projeção, com 
+diâmetro interno superior a 50 mm.

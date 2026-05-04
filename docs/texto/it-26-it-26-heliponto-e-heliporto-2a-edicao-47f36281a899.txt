@@ -1,0 +1,231 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 26 
+2ª edição 
+HELIPONTO E HELIPORTO 
+Aprovada pela portaria n. 35, de 12jan2019, publicada no DOEMG n. 10, ano 127, p. 28. 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Procedimentos 
+6 – Prescrições diversas 
+ 
+ 
+ANEXOS 
+A – Dimensionamento de extintores em 
+helipontos
+
+--- PÁGINA 2 ---
+CBMMG IT 26 – Heliponto e Heliporto   
+2ª edição 
+ 
+2/6 
+Aprovada pela portaria n. 35, de 12jan2019, publicada no DOEMG n. 10, ano 127, p. 28. 
+ 
+1 OBJETIVO  
+Esta Instrução Técnica estabelece as condições necessárias para proteção contra incêndio e 
+pânico de helipontos e heliportos, atendendo ao previsto no Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais.  
+2 APLICAÇÃO  
+Esta Instrução Técnica se aplica a todas as edificações e/ou áreas de risco que possuam 
+helipontos ou heliportos, adotando a Resolução nº 471, de 16 de maio de 2018 da Agência 
+Nacional de Aviação Civil – que aprova o Regulamento Brasileiro de Aviação Civil – RBAC n. 
+155, as quais em hipótese alguma poderão substituir as demais exigências para as edificações 
+nas quais os helipontos estiverem implantados, especialmente no tocante às rotas de fuga.  
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substitui-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Portaria n. 18/GM5, de 14 de fevereiro de 1974 – Instruções para operação de helicópteros e 
+para construção e utilização de helipontos ou heliportos. 
+Portaria n. 1141/GM-5, de 08 de dezembro de 1987 que dispõe sobre zonas de proteção e 
+aprova o plano básico de zona de proteção de aeródromos, o plano básico de zoneamento de 
+ruído e proteção de helipontos.  
+Portaria n. 957/GC3, de 09 de julho de 2015 que dispõe sobre as restrições aos objetos 
+projetados no espaço aéreo que possam afetar adversamente a segurança ou a regularidade 
+das operações aéreas, e dá outras providências. 
+3.2 Normas 
+Regulamento Brasileiro da Aviação Civil (RBAC) n. 155/2018 
+Instrução do Comando da Aeronáutica (ICA) 92-1/2005 que dispõe sobre o nível de Proteção 
+Contra Incêndio em Aeródromos.  
+NFPA 418/2016 – Standard for Heliports.  
+NBR 8348/ NB763 – Execução de sinalização horizontal de pistas e pátios em aeroportos.  
+4 DEFINIÇÕES  
+Para efeito desta Instrução Técnica, aplicam-se as definições constantes da IT 02 (Terminologia 
+de Proteção Contra Incêndio e Pânico).
+
+--- PÁGINA 3 ---
+CBMMG IT 26 – Heliponto e Heliporto   
+2ª edição 
+ 
+3/6 
+Aprovada pela portaria n. 35, de 12jan2019, publicada no DOEMG n. 10, ano 127, p. 28. 
+ 
+5 PROCEDIMENTOS  
+5.1 Condições Gerais  
+5.1.1 Tendo em vista que um heliporto é uma espécie de heliponto público, dotado de facilidades de 
+apoio e de embarque e desembarque de pessoas e cargas, a palavra "heliponto" será considerada 
+na presente Instrução, sendo aplicada tanto a heliponto (gênero) quanto ao heliporto (espécie). 
+5.2 Requisitos de segurança para helipontos  
+5.2.1 Em todos os casos, além das exigências desta Instrução Técnica, deve-se obedecer às 
+exigências e aprovação do órgão governamental responsável pela aprovação e fiscalização dos 
+helipontos.  
+5.2.2 É obrigatória a sinalização de obstáculos com a finalidade de reduzir os perigos para as 
+aeronaves, indicando a presença deles. A sinalização será feita por meio de pintura em cores, 
+balizas e luzes de baixa, média e alta intensidades. 
+5.2.3 Nas Áreas de Toque, Pouso e Decolagem não são permitidas implantações ou estruturas 
+que comprometam a segurança da aeronave.  
+5.3 Escolha do local, projeto e estrutura  
+5.3.1 Para se escolher o local, definir a estrutura e a forma de construção de um heliponto deve-
+se atender às considerações da Agência Nacional de Aviação Civil (ANAC). 
+5.4 Área de segurança, embarque e desembarque 
+5.4.1 Em heliponto situado ao nível do solo, além da área de segurança, é recomendável que 
+haja uma área periférica com cerca de segurança de um metro de altura circundando os limites 
+da área com objetivo de evitar que animais e pessoas estranhas entrem na área de pouso. 
+5.4.2 As escadas e rampas de acesso à área de segurança, pouso e decolagem do heliponto 
+elevado ficarão isentas da instalação de guarda-corpo e corrimão quando estas estruturas 
+avançarem sobre a área de segurança.  
+5.4.3 É recomendado que haja área de refúgio para helipontos elevados instalados no terraço de 
+edificações com altura superior a 60,0 metros. 
+5.4.3.1 A área de refúgio será dimensionada a critério do proprietário e responsável técnico 
+considerando as características da edificação e a população a ser acomodada. 
+5.4.3.2 As áreas de refúgio para helipontos devem atender aos seguintes quesitos:  
+a) ser precedida de porta corta-fogo (PCF) de 60 (sessenta) minutos no seu acesso;  
+b) os acessos devem ser dotadas de paredes resistentes ao fogo para 120 (cento e vinte) 
+minutos, conforme IT 06, e possuir no mínimo duas Unidades de Passagem;  
+c) o piso deve ser incombustível e ter isolamento térmico; 
+d) a escada para acesso a área de refúgio pode ser construída fora da prumada da escada de 
+segurança principal, sendo que a ligação entre ambas deve ser feita através de uma circulação 
+direta, mantendo as condições de enclausuramento; e
+
+--- PÁGINA 4 ---
+CBMMG IT 26 – Heliponto e Heliporto   
+2ª edição 
+ 
+4/6 
+Aprovada pela portaria n. 35, de 12jan2019, publicada no DOEMG n. 10, ano 127, p. 28. 
+ 
+e) possuir guarda-corpo com 1,10 m de altura em paredes com tempo de resistência ao fogo de 
+120 (cento e vinte) minutos, conforme IT 06 e 07, quando delimitada pela fachada da edificação.   
+5.4.3.3 As áreas de refúgio para helipontos poderão ter outra utilização, como salas de espera 
+por exemplo, desde que preencham os requisitos do item 5.4.3.2.  
+5.4.4 Em todos helipontos devem ser colocadas sinalizações contendo avisos de segurança, com 
+vistas a evitar acidentes com pessoas que transitem pela área de pouso e suas imediações. Tais 
+sinalizações devem conter recomendações expressas principalmente para o caso de 
+aproximação de pessoas, embarque de carga com ou sem pessoal, estando os rotores do 
+helicóptero em movimento. Ênfase deverá ser dado aos avisos visando evitar colisão de pessoas 
+com o rotor de cauda dos helicópteros.  
+5.4.5 É proibido fumar e produzir chama dentro do raio de 15,0 m da área de pouso/decolagem.  
+Devendo dispor de placas de advertências em lugares visíveis, sinalizando o risco, adotando-se 
+as placas P1 e P2, previstas no anexo B da IT 15 (Sinalização de Emergência). 
+5.5 Prevenção e extinção de incêndio  
+5.5.1 As prescrições estabelecidas neste item são as mínimas exigidas para um razoável grau de 
+proteção ao fogo e de salvamento em área de pouso e decolagem de helicópteros.  
+5.5.2 Quando o heliponto está localizado em um aeroporto, os sistemas de proteção contra o 
+fogo e o de salvamento devem ser dimensionados com base na Instrução do Comando da 
+Aeronáutica (ICA) 92-1/2005 ou outra que venha substituí-la.  
+5.5.3 Para helipontos situados fora da jurisdição de um aeroporto, a proteção contra incêndio 
+deve ser considerada sob três aspectos:  
+a) prevenção contra incêndio em helipontos situados ao nível de solo;  
+b) prevenção contra incêndio em helipontos elevados;   
+c) medidas para extinção de incêndio e de salvamento em acidentes ocorridos em helipontos 
+elevados.  
+5.5.4 Prevenção contra incêndio em helipontos ao nível do solo deverá obedecer às 
+recomendações previstas neste item, além de outras estabelecidas pelo Serviço Contra Incêndio 
+do Comando da Aeronáutica.  
+5.5.4.1 Durante as operações de reabastecimento e de partida, a proteção do helicóptero deverá 
+ser feita com equipamento portátil apropriado, manuseado por pessoal treinado conforme IT 12 
+(Brigada de Incêndio).  
+5.5.4.2 Os extintores portáteis ou sobre rodas, devem ser guardados em locais ou caixas, 
+devidamente protegidos contra as intempéries, sendo adequadamente sinalizados, oferecendo 
+fácil acesso e visibilidade.  
+5.5.4.3 O armazenamento de combustível deve estar a uma distância de segurança mínima de 
+30m da área de pouso.  
+5.5.5 A proteção contra incêndio em helipontos elevados deve obedecer às recomendações 
+previstas neste item, além daquelas previstas nos itens anteriores, no que couberem.
+
+--- PÁGINA 5 ---
+CBMMG IT 26 – Heliponto e Heliporto   
+2ª edição 
+ 
+5/6 
+Aprovada pela portaria n. 35, de 12jan2019, publicada no DOEMG n. 10, ano 127, p. 28. 
+ 
+5.5.5.1 Nos helipontos elevados, a estrutura na qual se situa a área de pouso deve ser de 
+material incombustível.   
+5.5.5.2 Não é permitido o armazenamento do combustível em helipontos elevados.  
+5.5.6 Prevendo a eventualidade de um acidente em heliponto elevado, com a consequente 
+possibilidade de propagação de fogo, os seguintes requisitos devem ser atendidos:  
+a) existência de fácil acesso ao heliponto elevado, para possibilitar o transporte de 
+equipamentos necessário ao combate a incêndio de grandes proporções;  
+b) as portas que dão para a área de pouso deverão ter PCF P60;  
+c) possibilidade de rápida evacuação dos usuários do heliponto e dos demais andares do prédio;  
+d) adequada sinalização das saídas de emergência.  
+5.5.7 Recomenda-se a existência de confiáveis meios de comunicação entre o heliponto e o 
+Unidade do Corpo de Bombeiros Militar do Estado de Minas Gerais da região, de modo que seja 
+assegurada uma rápida assistência em casos de acidentes e/ou de fogo, podendo ser por telefone. 
+5.5.8 Sistemas de combate a Incêndio  
+5.5.8.1 Em helipontos não localizados em aeroportos, deve-se exigir as quantidades mínimas de 
+extintores, conforme Anexo A, de acordo com o peso total do helicóptero atendido:  
+5.5.8.2 Os extintores de pó especial deverão ser compatíveis com a utilização conjunta com espuma. 
+5.5.8.3 Os aparelhos extintores de incêndio devem ser distribuídos uniformemente nas 
+proximidades da área de pouso/decolagem, de forma a atender o caminhamento especificado na 
+IT 16 (Sistema de Proteção por Extintores de Incêndio).  
+5.5.8.4 Qualquer que seja o tipo de extintor utilizado, deverá haver pessoal habilitado para sua 
+operação, conforme previsto na IT 12 (Brigada de Incêndio). 
+5.5.8.5 Pelo menos dois dos encarregados da proteção contra incêndios e das operações de 
+salvamento devem dispor de EPI específico para fogo e salvamento (capa, bota, capacete, 
+balaclava e luvas).  
+5.5.8.6 Deve haver, em local protegido e devidamente sinalizado, ferramentas portáteis de 
+arrombamento, serra manual para metais e escada articulada ou de apoio, com altura compatível 
+com as dimensões do helicóptero.  
+5.5.9 Caso haja hidrante no heliponto, este deve ser equipado com esguicho regulável. 
+6 PRESCRIÇÕES DIVERSAS  
+6.1 Recomenda-se que sejam observados os demais requisitos para homologação ou registro de 
+helipontos junto aos órgãos regionais competentes do Comando da Aeronáutica.  
+6.2 Recomenda-se que os responsáveis pelo heliponto elevado solicitem e facilitem visitas 
+periódicas do Corpo de Bombeiros Militar de Minas Gerais com jurisdição na área, com a 
+finalidade de se familiarizarem com o local e com os caminhos mais rápidos para lá chegarem 
+em casos de emergência.
+
+--- PÁGINA 6 ---
+CBMMG IT 26 – Heliponto e Heliporto   
+2ª edição 
+ 
+6/6 
+Aprovada pela portaria n. 35, de 12jan2019, publicada no DOEMG n. 10, ano 127, p. 28. 
+ 
+ANEXO A 
+Tabela de dimensionamento de extintores em helipontos 
+  
+Tipo de heliponto 
+Capacidade em Kg 
+Quantidade de extintores e respectivas carga extintora 
+Heliponto ao nível 
+do solo 
+Até 4.500  
+04 (quatro) extintores de pó 20-B:C cada um; 
+02 (dois) extintores sobre rodas de espuma mecânica de 40-B cada um. 
+Acima de 4.500  
+04 (quatro) unidades extintoras de pó 20-B:C cada um; 
+01 (um) extintor de pó 80 B:C; 
+02 (dois) extintores sobre rodas de espuma mecânica de 40-B cada um. 
+Heliponto elevado 
+Até 4.500  
+06 (seis) extintores de pó de 20 B:C cada um; 
+01 (um) extintor sobre rodas de pó 80 B:C; 
+03 (três) extintores sobre rodas de espuma mecânica de 40-B cada um; 
+Acima de 4.500  
+06 (seis) extintores de pó de 20 B:C cada um; 
+01 (um) extintor sobre rodas de pó de 80B:C; 
+05 (cinco) extintores sobre rodas de espuma mecânica de 40-B cada um.

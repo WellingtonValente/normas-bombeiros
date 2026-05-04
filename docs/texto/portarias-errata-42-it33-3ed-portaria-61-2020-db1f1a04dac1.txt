@@ -1,0 +1,50 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23605333 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27612000&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 23 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 42/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 33 – 3ª
+Edição (Eventos temporários):
+ 
+1. ALTERAR o item A.2.10.1
+Onde se lê: 
+"A.2.10.1 Para dimensionar o abandono de uma área de risco com delimitação por barreiras,
+cobertas ou não, é necessário considerar a abertura (rotas de fuga), público presente no setor, taxa de ﬂuxo e
+tempo máximo de evacuação."
+Leia-se:
+"A.2.10.1 Para dimensionar o abandono de um espaço desƟnado ao uso coleƟvo ou estrutura
+provisória com delimitação por barreiras, coberta ou não, é necessário considerar a abertura (rotas de fuga),
+público presente no setor, taxa de ﬂuxo e tempo máximo de evacuação."
+ 
+2. ALTERAR o item K.1.1
+Onde se lê: 
+"K.1.1 Para o dimensionamento da largura mínima das saídas em área de risco com
+delimitação por barreiras, cobertas ou não, deverão ser observados os seguintes critérios:"
+Leia-se:
+"K.1.1 Para o dimensionamento da largura mínima das saídas em espaço desƟnado ao uso
+coleƟvo ou estrutura provisória com delimitação por barreiras, coberta ou não, deverão ser observados os
+seguintes critérios:"
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 28/12/2020, às
+21:47, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23605333 e o
+código CRC 6B5B1228.
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23605333 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27612000&infra_sist…
+2/2
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23605333

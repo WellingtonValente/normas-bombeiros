@@ -1,0 +1,559 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais​
+Diretoria de Atividades Técnicas
+ 
+Parecer n° 02/2025 - CBMMG/DAT                                                                                                             
+     
+Belo Horizonte, 26 de março de 2025.
+  
+PARECER NORMATIVO Nº 02/2025 - CBMMG/DAT
+ 
+ASSUNTO: COMPARTIMENTAÇÃO HORIZONTAL - DEFINIÇÃO DE PARÂMETROS EM
+OCUPAÇÕES SECUNDÁRIAS E OCUPAÇÕES MISTAS
+ 
+1 MOTIVAÇÃO
+Têm aportado nesta Diretoria de Atividades Técnicas questionamentos, decorrentes da análise de projetos,
+acerca da correta definição de parâmetros para a medida preventiva "Compartimentação horizontal" nas
+edificações com ocupação mista e naquelas cuja atividade principal possua atividades secundárias
+destinadas à sua concretização, considerando o disposto nas tabelas do Anexo A da IT 01 (10ª edição) e na
+tabela constante do Anexo B da IT 07 (1ª edição).
+ 
+2 REFERÊNCIAS LEGAIS E NORMATIVAS
+2.1 Lei 14.130 de 19 de dezembro de 2001.
+2.2 Decreto 47.998 de 01 de julho de 2020.
+2.3 Instrução Técnica (IT) 01 (10ª edição) - Procedimentos Administrativos.
+2.4 Instrução Técnica (IT) 07 (1ª edição) - Compartimentação Horizontal e Compartimentação Vertical.
+ 
+3 ITENS NORMATIVOS AFETOS AO TEMA
+3.1 O item 1.2 da IT 07/1ª edição estabelece a finalidade da medida preventiva "Compartimentação
+horizontal", senão vejamos:
+ 
+Instrução 
+Técnica 
+07/1ª 
+edição 
+- 
+Compartimentação 
+Horizontal 
+e
+Compartimentação Vertical
+ 
+1.2 A compartimentação horizontal se destina a impedir a propagação de incêndio
+no pavimento de origem para outros ambientes no plano horizontal.
+ 
+3.2 A IT 01/10ª edição estabelece as diretrizes acerca da compartimentação em edificações que possuam
+ocupação mista e naquelas cuja atividade principal possua atividades secundárias destinadas à sua
+concretização, através dos seguintes itens, ipsis litteris:
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 1
+
+--- PÁGINA 2 ---
+Instrução Técnica 01/10ª edição - Procedimentos Administrativos
+ 
+E.2.3 Será considerada ocupação mista o exercício de mais de uma ocupação ou
+divisão em uma edificação ou espaço destinado ao uso coletivo quando não houver
+isolamento de risco entre as ocupações ou divisões.
+ 
+E.2.3.1 Não será considerada ocupação mista o conjunto de atividades exercidas
+em uma edificação ou espaço destinado ao uso coletivo onde predomina uma
+atividade principal que possua atividades secundárias destinadas à sua
+concretização, desde que a soma das áreas onde seja exercida cada atividade
+secundária não ultrapasse o limite de 930 m². (grifo nosso)
+ 
+[...]
+ 
+E.3.1 Em edificações ou espaços destinados ao uso coletivo em que seja exercida
+uma atividade principal que possua atividades secundárias, deverão ser adotadas
+as medidas de segurança exigidas para a ocupação principal em toda a edificação
+ou espaço destinado ao uso coletivo, respeitados os parâmetros específicos
+previstos para cada ambiente. (grifo nosso)
+ 
+E.3.2 Quando um parâmetro específico do ambiente secundário impactar no
+dimensionamento de um sistema exigido pela ocupação principal, a respectiva
+medida de segurança deverá ser projetada com base nos parâmetros da ocupação
+principal. (grifo nosso)
+ 
+E.3.2.1 Quando se tratar de parâmetros específicos de ambientes, deverão ser
+verificados apenas aqueles referentes às seguintes medidas:
+a) Controle de Material de Acabamento e Revestimento (CMAR);
+b) Saídas de emergência (exceto número e tipo de escada/rampa);
+c) Proteção por extintores.
+ 
+E.3.2.2 Ficam ressalvadas exigências específicas das normas técnicas referentes a
+Chuveiros Automáticos e Controle de Fumaça.
+ 
+[...]
+ 
+E.11.1 Para o dimensionamento das medidas de segurança em edificações e
+espaços destinados ao uso coletivo com ocupação mista, será necessário verificar a
+compartimentação entre as ocupações.
+ 
+E.11.1.1 A compartimentação entre ocupações será caracterizada quando
+determinada ocupação estiver compartimentada horizontal e verticalmente em
+relação às demais, conforme parâmetros e critérios da IT 07 (Compartimentação
+Horizontal e Compartimentação Vertical).
+ 
+E.11.1.2 Para que uma ocupação esteja compartimentada, é necessário o
+atendimento dos parâmetros e critérios de compartimentação horizontal e vertical,
+conforme IT 07, apenas nos elementos construtivos que constituem a separação
+física entre as ocupações pretendidas - e não na edificação como um todo.
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 2
+
+--- PÁGINA 3 ---
+E.11.2 Não havendo compartimentação entre as ocupações, deverão ser
+observados os seguintes critérios: (grifo nosso)
+a) para definição das medidas de segurança, deverão ser observadas as exigências
+específicas de cada ocupação, considerando a área total e a altura total da
+edificação ou espaço destinado ao uso coletivo;
+b) o conjunto das medidas de segurança exigidas para cada ocupação deverá ser
+projetado em toda a edificação e espaço destinado ao uso coletivo; (grifo nosso)
+c) serão considerados os parâmetros mais rigorosos de cada medida de segurança
+para toda a edificação e espaço destinado ao uso coletivo. (grifo nosso)
+ 
+E.11.3 Havendo compartimentação entre as ocupações, deverão ser observados os
+seguintes critérios: (grifo nosso)
+a) para definição das medidas de segurança de cada ocupação, deverão ser
+observadas as exigências específicas de cada ocupação, considerando a área total
+da edificação e espaço destinado ao uso coletivo e a altura específica de cada
+ocupação;
+b) as medidas de segurança exigidas para cada ocupação serão projetadas
+individualmente para cada ocupação;
+c) os parâmetros de cada medida de segurança devem ser considerados em cada
+ocupação, considerando a área específica da ocupação;
+d) o dimensionamento das medidas de segurança deve ser feito para cada tipo de
+sistema individualmente ou dimensionado para atender ao maior risco.
+ 
+E.11.3.1 As medidas “Segurança Estrutural contra Incêndio”, “Alarme de
+Incêndio” ou “Sistema de Hidrantes”, quando exigidas em quaisquer das
+ocupações, deverão ser projetadas em toda a edificação.
+ 
+3.3 A IT 01/10ª edição estabelece, ainda, diretrizes para a definição de altura da edificação, que
+influenciam diretamente na definição de medidas e seus parâmetros, conforme se vê adiante:
+ 
+Instrução Técnica 01/10ª edição - Procedimentos Administrativos
+ 
+E.4 Definição da altura da edificação
+ 
+[...]
+ 
+E.4.3 Em edificações com mais de um nível de descarga na mesma rota de fuga,
+seja em sentido ascendente ou descendente, será considerado, para a definição da
+altura da edificação, o menor trajeto de deslocamento a ser percorrido na vertical
+para se alcançar a descarga mais próxima pelos usuários do pavimento mais
+distante. (grifo nosso)
+ 
+E.4.4 Para a definição da altura, serão excluídos ático, casa de máquinas, elevação
+para acessar equipamentos industriais, barrilete, reservatório d'água, pavimentos
+superiores da cobertura e assemelhados.
+ 
+[...]
+ 
+E.6 Mezaninos
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 3
+
+--- PÁGINA 4 ---
+E.6.1 A estrutura, com até 200 m², que subdividir parcialmente um pavimento em
+dois pisos será considerada mezanino, desde que não possua área superior à
+metade da área do pavimento subdividido.
+ 
+E.6.1.1 A estrutura destinada a atividades de apoio (secundárias), tais como
+administração, áreas técnicas, depósito e almoxarifado, que possuir área superior
+a 200 m² e inferior ou igual a 930 m² (não superior à metade do pavimento
+subdividido) não será contabilizada para definição de altura ou quantidade de
+pavimentos, aplicando-se as demais exigências previstas para um pavimento. (grifo
+nosso)
+ 
+[...]
+ 
+E.6.2 Aplica-se às sobrelojas e jiraus o mesmo regramento definido para
+mezaninos.
+ 
+3.4 A Tabela do Anexo B da IT 07/1ª edição apresenta as áreas máximas de compartimentação horizontal
+com base no uso/ocupação e na altura da edificação.
+ 
+Instrução 
+Técnica 
+07/1ª 
+edição 
+- 
+Compartimentação 
+Horizontal 
+e
+Compartimentação Vertical
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 4
+
+--- PÁGINA 5 ---
+4 CONSIDERAÇÕES
+4.1 Caso de uma atividade principal que possua atividades secundárias destinadas à sua
+concretização:
+4.1.1 A IT 01/10ª edição, em consonância com o disposto no Parágrafo 9º do Art. 6º do Decreto Estadual
+n. 47.998/2020, estabelece regras para exigência de medidas de segurança em edificações onde predomina
+uma atividade principal que possua atividades secundárias.
+4.1.2 O item E.3.1 da IT 01/10ª edição menciona que, em edificações ou espaços destinados ao uso
+coletivo em que seja exercida uma atividade principal que possua atividades secundárias, deverão ser
+adotadas as medidas de segurança exigidas para a ocupação principal em toda a edificação ou espaço
+destinado ao uso coletivo, respeitados os parâmetros específicos previstos para cada ambiente.
+4.1.3 Deverão ser consideradas a área e a altura de cada atividade, uma vez que a medida
+compartimentação horizontal está diretamente relacionada a estas duas grandezas, como se observa na
+Tabela do Anexo B da IT 07. Importante destacar, neste ponto, que procedimento semelhante já é adotado
+para cálculo de população e definição de larguras de saídas de emergência, sendo verificada a área
+específica de cada atividade.
+4.1.3.1 A área e a altura da ocupação secundária serão consideradas apenas se a compartimentação
+horizontal for uma exigência da IT 01 para essa ocupação. No entanto, somente os parâmetros da
+ocupação principal deverão ser verificados. 
+4.1.4 Para subdividir áreas no momento da definição de medidas do Anexo A da IT 01/10ª edição, é
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 5
+
+--- PÁGINA 6 ---
+necessário que se tenha o isolamento de risco entre elas. Entretanto, em atendimento ao item E.3.1 da IT
+01/10ª edição, para fins de aplicação dos parâmetros específicos de cada área, não há necessidade do
+isolamento de risco.
+4.1.5 Os parâmetros específicos da atividade secundária, relacionados à compartimentação horizontal, não
+influenciarão na ocupação principal, de forma a tornar obrigatória a adoção dessa medida de segurança.
+ 
+Exemplo 1:
+PSCIP: Edificação com área total de 5.500 m2, com uma ocupação principal e outra secundária - divisões
+C-2 (térrea / área de 4.600 m²) e G-2 (térrea / área de 900 m²).
+- Em consulta à Tabela 3 da IT 01/10ª edição, observa-se que, para a divisão C-2 é exigida a
+compartimentação horizontal. A divisão G-2, por sua vez, não apresenta a exigência de tal medida,
+conforme Tabela 9.
+ 
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 6
+
+--- PÁGINA 7 ---
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+- O Anexo B da IT 07/1ª edição, que traz a tabela de área máxima de compartimentação, prevê que, para a
+divisão C-2 com um único pavimento, é exigida a compartimentação horizontal apenas quando apresentar
+área superior a 5.000 m². Já para a divisão G-2, não há previsão dessa medida, independentemente da área
+e número de pavimentos, como bem disciplina o item 5.1.5.1 da IT 07.
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 7
+
+--- PÁGINA 8 ---
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+- Observa-se que, na situação 1, ao somarmos as áreas das divisões C-2 e G-2, haveria um total de 5.500
+m².
+- Neste exemplo, ao considerar a soma das áreas de C-2 e G-2, obtém-se um valor superior ao previsto no
+Anexo B da IT 07/1ª edição para a divisão C-2 (5.000 m²). Entretanto, tendo em vista o disposto no item
+E.3.2 da IT 01/10ª edição, não é cabível exigir a compartimentação horizontal para a edificação, visto que,
+nesse caso, a ocupação para a qual é demandada a medida (C-2) possui área inferior a 5.000 m², sendo
+que, para a ocupação que está implicando na ultrapassagem do valor de 5.000 m2, não haveria a exigência
+da compartimentação horizontal conforme IT 01, além de haver isenção da referida medida para G-2 no
+Anexo B da IT 07.
+ 
+Exemplo 2:
+PSCIP: Edificação com área total de 3.000 m2, com uma ocupação principal e outra secundária - divisões
+C-3 (1º e 2º pavimentos / área de 2.100 m² e altura de 4 metros) e G-2 (3º pavimento / área de 900 m² e
+altura de 8 metros).
+- Assim como no exemplo 1, a Tabela 3 da IT 01/10ª edição exige a compartimentação horizontal para a
+divisão C-3, enquanto a Tabela 9 não exige tal medida para a divisão G-2.
+- O Anexo B da IT 07/1ª edição, que traz a tabela de área máxima de compartimentação, prevê que, para a
+divisão C-3 com altura inferior ou igual a 6 metros, é exigida a compartimentação horizontal apenas
+quando apresentar área superior a 2.500 m². Já para a divisão G-2, não há previsão dessa medida,
+independentemente da área e número de pavimentos, em consonância com o item 5.1.5.1 da IT 07.
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 8
+
+--- PÁGINA 9 ---
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+- Embora a altura da edificação seja superior a 6 metros, deve ser considerada a altura específica de cada
+atividade, ou seja, a altura da divisão C-3 não ultrapassa os 6 metros. Assim, as grandezas relativas à área
+e altura da divisão C-3, isoladamente, não são suficientes para tornar obrigatória a medida
+compartimentação, neste caso.
+ 
+Exemplo 3:
+PSCIP: Edificação com área total de 3.000 m2, com uma ocupação principal e outra secundária - divisões
+C-3 (1º e 2º pavimentos / área de 2.100 m² e altura de 4 metros) e D-1 (3º pavimento / área de 900 m² e
+altura de 8 metros).
+- Nesse caso, permanece a exigência da medida compartimentação horizontal para a ocupação principal C-
+3 (Tabela 3 da IT 01/10ª edição) e a isenção para a ocupação secundária D-1 (Tabela 4 da IT 01/10ª
+edição).
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 9
+
+--- PÁGINA 10 ---
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+- A ocupação C-3 continuaria isenta da medida compartimentação vertical, de acordo com o Anexo B da
+IT 07/1ª edição, conforme visto no exemplo anterior. 
+- Contudo, diferentemente do exemplo 2, observa-se que o Anexo B da IT 07/1ª edição possui parâmetros
+para a divisão secundária (D-1 entre 6 m e 12 m), com área máxima de compartimentação de 1.500 m².
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+- Embora não haja isenção da medida na Instrução Técnica específica, a isenção concedida pela IT 01 é
+suficiente para que se aplique o mesmo raciocínio do Exemplo 2, não sendo exigida a implementação de
+elementos da medida para a edificação nessa situação.
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 10
+
+--- PÁGINA 11 ---
+Exemplo 4:
+PSCIP: Edificação com área total de 1.600 m2,com uma ocupação principal e outra secundária - divisões
+C-2 (1º e 2º pavimentos / área de 1.200 m² e altura de 4 metros) e J-4 (3º pavimento / área de 400 m² e
+altura de 8 metros).
+- Nesse caso, a exigência da medida compartimentação horizontal seria prevista para a ocupação principal
+C-2 (Tabela 3 da IT 01/10ª edição) e também para a secundária J-4 (Tabela 15 da IT 01/10ª edição).
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+- Tendo em vista que a divisão J-4 é secundária, permanece a aplicação do item E.3.2 da IT 01/10ª edição
+e, portanto, a medida deve ser projetada com base nos parâmetros da ocupação principal.
+- Contudo, diferentemente dos exemplos anteriores, não há motivo para que seja observada a altura
+específica da ocupação principal, tendo em vista que a ocupação secundária também exigiria a medida
+compartimentação.
+- Para a altura entre 6m e 12 m, a Tabela do Anexo B da IT 07/1ª edição prevê que, para a divisão C-2, é
+exigida a compartimentação horizontal apenas quando apresentar área superior a 2.000 m². Já para a
+divisão J-4, a área máxima é de 1.500 m².
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 11
+
+--- PÁGINA 12 ---
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+- Pela aplicação do item E.3.2 da IT 01/10ª edição, a área máxima de compartimentação deverá ser a da
+ocupação principal, C-2 (2.000 m²).
+- Portanto, considerando-se que a área total da edificação é inferior a 2.000 m², não será exigida a
+implementação de elementos da medida para a edificação nessa situação.
+ 
+ 
+ 
+4.2 Caso de edificações ou espaços destinados ao uso coletivo que possuam ocupação mista:
+4.2.1 A IT 01/10ª edição, em consonância com o disposto no Parágrafo 8º do Art. 6º do Decreto Estadual
+n. 47.998/2020, estabeleceu regras para exigência de medidas de segurança em edificações com ocupações
+mistas.
+4.2.2 Havendo compartimentação entre as ocupações, o item E.11.3 da IT 01/10ª edição é inequívoco ao
+estabelecer o regramento para definição e dimensionamento de medidas, bem como na consideração de
+parâmetros específicos de cada divisão.
+4.2.3 Não havendo a compartimentação, o item E.11.2 da IT 01/10ª edição estabelece que devem ser
+observadas as exigências específicas de cada ocupação, para definição de medidas, bem como que o
+conjunto de medidas deve ser projetado em toda a edificação.
+4.2.3.1 Ao tratar dos parâmetros a serem considerados, a alínea c) do referido item define que serão
+verificados/utilizados os mais rigorosos de cada medida para toda a edificação.
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 12
+
+--- PÁGINA 13 ---
+4.2.3.2 Neste ponto, não seria razoável utilizar parâmetros de uma ocupação para a qual a medida de
+segurança nem seria exigida, o que resultaria em uma obrigatoriedade excessivamente rigorosa. O mais
+justo e proporcional, em termos de utilização de parâmetros, seria utilizar o mais rigoroso de cada medida,
+considerando apenas as ocupações para as quais a medida fosse exigida. Não seria racional utilizar o
+parâmetro de determinada ocupação para a qual a medida sequer seria exigida.
+4.2.4 O Regulamento do SSCIP e a IT 01 estariam sendo atendidas da mesma forma, pois o conjunto de
+medidas estaria sendo exigido em toda a edificação. E na definição de parâmetros de cada medida seria
+adotado o parâmetro mais rigoroso (dentre os exigidos inicialmente), conforme estabelecido nas normas.
+ 
+Exemplo 5:
+PSCIP: Edificação mista com área total de 4.990 m2, altura menor ou igual a seis metros, e sem
+compartimentação entre as ocupações - divisões I-3 (térrea / área de 1.654 m²), G-2 (térrea / área de 826
+m²), e D-1 (2º pavimento / área de 2.510 m²).
+- A IT 01/10ª edição exige a compartimentação horizontal para a divisão I-3 (Tabela 14), porém, não exige
+para a divisão G-2 (Tabela 9). Para a divisão D-1, a medida em tela também não é exigida, para
+edificações com altura até 12 metros (Tabela 4).
+ 
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+- Embora a ocupação I-3 esteja apenas no térreo, por não haver compartimentação entre as ocupações, ao
+consultar o Anexo B da IT 07/1ª edição, deve-se levar em consideração que a divisão I-3 possui mais de
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 13
+
+--- PÁGINA 14 ---
+um pavimento (H ≤ 6m). Dessa forma, é exigida a compartimentação horizontal quando apresentar área
+superior a 5.000 m². Já para a divisão G-2, não há previsão dessa medida, independentemente da área e
+número de pavimentos. Quanto à divisão D-1, considerando existir dois pavimentos (H ≤ 6m) e área maior
+que 2.500 m², a referida medida seria exigida.
+ 
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+- Observa-se que, ao somarmos as áreas das divisões I-3, G-2 e D-1, tem-se um total de 4.990 m², não
+exigindo a compartimentação horizontal para I-3, considerando a área máxima de compartimentação.
+Todavia, para a divisão D-1, tendo em vista a área ser superior a 2.500 m², a medida em questão seria
+exigida.
+- Neste exemplo, embora o parâmetro de compartimentação horizontal para D-1 seja o mais rigoroso,
+dentre as ocupações (conforme o Anexo B da IT 07/1ª edição), entende-se não ser razoável exigir a
+compartimentação para toda a edificação baseada nele, vez que, para a ocupação D-1, a medida nem seria
+exigida (Tabela 4 da IT 01). Dessa forma, considerando que a IT 01 exige a medida compartimentação
+horizontal somente para a ocupação I-3, inicialmente, só o parâmetro desta ocupação será considerado,
+ficando a edificação isenta de tal medida por ser o somatório de área menor que 5.000 m².
+ 
+Exemplo 6:
+PSCIP: Edificação mista com área total de 4.100 m2, altura menor ou igual a seis metros, e sem
+compartimentação entre as ocupações - divisões C-2 (térrea / área de 2.100 m²), J-2 (térrea / área de 950
+m²), e D-2 (2º pavimento / área de 1.050 m²)
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 14
+
+--- PÁGINA 15 ---
+- A IT 01/10ª edição exige a compartimentação horizontal para as divisões C-2 e J-2, porém não exige para
+a divisão D-2 menor que 12 metros.
+ 
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+- A compartimentação seria exigida em toda a edificação, porém na hora de verificar os parâmetros, só
+seriam considerados aqueles das ocupações onde a medida foi inicialmente exigida, ou seja, C-2 e J-2,
+sendo adotado o mais rigoroso entre eles.
+- Para C-2 com altura menor de 6 metros, a área máxima de compartimentação seria 3.000 m², enquanto
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 15
+
+--- PÁGINA 16 ---
+para J-2 menor que 6 metros, a área máxima seria 5.000 m².
+ 
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+- Considerando que a edificação possui área total de 4.100 m², e que o parâmetro mais rigoroso dentre as
+ocupações para as quais a medida compartimentação era exigida inicialmente é o de C-2, deverá ser
+projetada a medida de segurança com área máxima de compartimentação de 3.000 m².
+ 
+ 
+ 
+4.3 Caso de edificações com particularidades quanto à definição da altura: 
+4.3.1 A Tabela do Anexo B da IT 07/1ª edição apresenta, em seu cabeçalho, a classificação de Edificação
+Baixa em três subclassificações, conforme altura da edificação, a saber: “Um pavimento”, “H ≤ 6 m” e “6
+m < H ≤ 12 m”.
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 16
+
+--- PÁGINA 17 ---
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+4.3.2 O uso do termo “Um pavimento” em substituição a “H = 0 m” pode ocasionar confusão, uma vez
+que não fica clara a intenção do legislador quanto ao tipo de edificação a ser considerada, especialmente
+quando se utilizam os itens E.4.3 (quando há mais de um nível de descarga) e E.6.1.1 (quando há
+mezaninos), ambos da IT 01/10ª edição.
+4.3.3 O item E.4.3 da IT 01/10ª edição esclarece que a existência de descarga em mais de um pavimento
+influencia diretamente na definição de altura da edificação, sem mencionar de forma expressa que essa
+determinação influencia também no número de pavimentos.
+4.3.3.1 Diante dessa omissão do referido item normativo, entende-se que não se pode generalizar a ideia
+de que sempre que “H = 0 m” a edificação deverá ser considerada como de "um pavimento".
+4.3.4 Por outro lado, o item E.6.1.1 da IT 01/10ª edição, inserido mais recentemente na legislação, deixa
+expressa a informação de que a estrutura destinada a atividades de apoio (secundárias) com área superior a
+200 m² e inferior ou igual a 930 m² (não superior à metade do pavimento subdividido) não será
+contabilizada para definição de altura ou quantidade de pavimentos.
+4.3.5 Diante da leitura conjunta desses itens e da análise dos recortes de altura indicados na Tabela do
+Anexo B da IT 07/1ª edição, esclarece-se que, especificamente para a definição dos parâmetros de área
+máxima de compartimentação horizontal, sempre que “H = 0 m”, a edificação deverá ser considerada de
+"um pavimento". 
+4.3.6 Adicionalmente, a legislação utiliza o termo “edificação térrea” em alguns pontos. O Decreto
+47.998/2020 traz a definição desse termo em seu Artigo 3º, Inciso XVII, como “edificação de um
+pavimento, podendo possuir mezaninos, sobrelojas e jiraus”, equiparando o referido termo à já abordada
+definição de “um pavimento”.
+4.3.7 Portanto, por extensão ao raciocínio apresentado no item 4.3.5 deste Parecer, sempre que “H = 0 m”,
+a edificação será também considerada térrea, para fins de definição do parâmetro de área máxima de
+compartimentação. 
+4.3.8 É fundamental esclarecer que este parecer se limita a definir o uso da Tabela do Anexo B da IT 07/1ª
+edição e não pretende definir diretrizes para outras medidas, tais como elementos de compartimentação
+vertical ou classificação da edificação pela Tabela 3 da IT 08, por exemplo.
+ 
+Exemplo 7:
+PSCIP: Edificação com ocupação I-3, com um pavimento na cota 3 m sobreposto a outro pavimento na
+cota 0 m, ambos com descargas diretas ao exterior da edificação, em decorrência de desnível do terreno
+natural. Cada pavimento possui 3.000 m², resultando em 6.000 m² de área total.
+- A medida compartimentação horizontal é exigida para a ocupação, conforme Tabela 14 da IT 01/10ª
+edição.
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 17
+
+--- PÁGINA 18 ---
+Fonte: Instrução Técnica 01/10ª edição - Legislação e normas técnicas
+ 
+- Nesse caso, tendo em vista que há descarga em todos os pavimentos, a edificação possui altura igual a 0
+m e será considerada como de “Um pavimento” para fins de definição dos parâmetros de área máxima da
+Tabela do Anexo B da IT 07/1ª edição.
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+- Tendo em vista que a área total é de apenas 6.000 m² e que o parâmetro estabelecido para divisão I-3 de
+um pavimento é de 7.500 m², a edificação já atende à área máxima de compartimentação que lhe é exigida
+e, portanto, não necessitará implementar elementos de compartimentação.
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 18
+
+--- PÁGINA 19 ---
+Exemplo 8:
+PSCIP: Edificação de área total igual a 2.900 m2, com uma ocupação principal e outra secundária -
+divisões C-2 (1º e 2º pavimentos / área de 2.600 m² e altura de 4 metros) e J-4 (conforme item E.6.1.1 da
+IT 01/10ª edição / área de 300 m² e altura de 8 metros).
+- Esse caso é similar ao exemplo 4, com a diferença de que o 3º pavimento é, na verdade, uma estrutura
+que se enquadra no item E.6.1.1 da IT 01/10ª edição.
+- Contudo, o item E.6.1.1 deixa expressa a condição de que essa estrutura onde há o J-4 não deve ser
+contabilizada na altura ou no número de pavimentos. Portanto, a altura a ser considerada na definição de
+todos os parâmetros e medidas será de 4 m.
+- Para a altura até 6 m, a Tabela do Anexo B da IT 07/1ª edição prevê que, para a divisão C-2, é exigida a
+compartimentação horizontal apenas quando apresentar área superior a 3.000 m². Já para a divisão J-4, a
+área máxima é de 2.500 m².
+ 
+Fonte: Instrução Técnica 07/1ª edição - Legislação e normas técnicas
+ 
+- Da mesma forma que ocorre no exemplo 4, pela aplicação do item E.3.2 da IT 01/10ª edição, a área
+máxima de compartimentação deverá ser a da ocupação principal, C-2 (3.000 m²).
+- Portanto, considerando-se que a área total da edificação é inferior a 3.000 m², não será exigida a
+implementação de elementos da medida para a edificação nessa situação.
+ 
+ 
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 19
+
+--- PÁGINA 20 ---
+5 PARECER
+5.1 Em conformidade com o item E.3.2 da IT 01, no caso de PSCIP de edificações cuja ocupação principal
+inclua uma atividade secundária isenta da medida de compartimentação horizontal, conforme o Anexo A
+da IT 01 e/ou o Anexo B da IT 07, estabelece-se que a exigência da compartimentação horizontal não
+deve ser aplicada à ocupação principal quando decorrer do somatório das áreas das ocupações ou da altura
+da ocupação secundária.
+5.1.1 Nos casos em que seja exigida a medida compartimentação horizontal também para a ocupação
+secundária, pela IT 01, as grandezas de área e altura desta serão consideradas, entretanto serão adotados os
+parâmetros do Anexo B da IT 07 previstos para a ocupação principal.
+5.2 Para os casos em que forem apresentados PSCIP de edificações com ocupação mista sem
+compartimentação entre as ocupações, é estabelecido que, se a medida de segurança compartimentação
+horizontal for exigida para alguma das divisões, ela deverá ser aplicada em toda a edificação.
+5.2.1 Quanto aos parâmetros, deve-se adotar o mais rigoroso entre aqueles exigidos para as ocupações ou
+divisões onde a medida de segurança originalmente se aplicava. Ou seja, no Anexo B da IT 07, devem ser
+considerados apenas os parâmetros de compartimentação horizontal das ocupações ou divisões para as
+quais as Tabelas da IT 01 determinam essa exigência, aplicando-se o mais rigoroso em toda a edificação.
+5.3 Para a definição dos parâmetros de área máxima de compartimentação horizontal, sempre que “H = 0
+m”, a edificação deverá ser considerada de "um pavimento" e "edificação térrea".
+5.3.1 Para definir o número de pavimentos ou a altura da edificação, não deverá ser considerada a estrutura
+destinada a atividades secundárias que tenha área superior a 200 m² e inferior a 930 m², desde que não
+exceda metade do pavimento subdividido (conforme item E.6.1.1 da IT 01).
+5.4 Para a obrigatoriedade de compartimentação horizontal, deverá haver uma combinação de exigências
+entre o Anexo A da IT 01 e o Anexo B da IT 07, para a mesma ocupação.
+ 
+ 
+ 
+ 
+Gabriel Patrocínio de Andrade, Maj BM
+Chefe da Divisão de Pesquisa - DAT/2
+Evandro Maroni Mascarenhas, Cap BM
+Chefe da Adjuntoria de Normalização - DAT/2
+ 
+ 
+( x ) Homologo
+ 
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+ 
+ 
+Documento assinado eletronicamente por Evandro Maroni Mascarenhas, Capitão, em 27/03/2025, às
+15:48, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 20
+
+--- PÁGINA 21 ---
+Documento assinado eletronicamente por Gabriel Patrocinio de Andrade, Major, em 27/03/2025, às
+15:50, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 31/03/2025, às
+11:26, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 110243603 e
+o código CRC 0306BBDE.
+Referência: Processo nº 1400.01.0067811/2024-53
+SEI nº 110243603
+Parecer n° 02/2025 (110243603)         SEI 1400.01.0067811/2024-53 / pg. 21

@@ -1,0 +1,38 @@
+--- PÁGINA 1 ---
+07/05/2021
+SEI/GOVMG - 29029916 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=33759483&infra_sist…
+1/1
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 05 de maio de 2021.
+  
+ERRATA CBMMG/DAT Nº. 5/2021
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 17 – 1ª Edição (Sistema
+de Hidrantes e MangoƟnhos para Combate a Incêndio): 
+ 
+1. CORRIGIR o item 5.8.2
+Onde se lê: 
+5.8.2 Os hidrantes ou mangoƟnhos devem ser distribuídos de tal forma que qualquer ponto da área a ser
+protegida seja alcançado por um esguicho (sistemas Ɵpo 1, 2 e 3) ou dois esguichos (sistema Ɵpo 4 e 5), no
+plano horizontal, considerando-se o comprimento da (s) mangueira (s) de incêndio através de seu trajeto real
+e desconsiderando-se o alcance do jato de água.
+Leia-se: 
+5.8.2 Os hidrantes ou mangoƟnhos devem ser distribuídos de tal forma que qualquer ponto da área a ser
+protegida seja alcançado por um esguicho (sistemas Ɵpo 1, 2, 3 e 4) ou dois esguichos (sistema Ɵpo 5), no
+plano horizontal, considerando-se o comprimento da (s) mangueira (s) de incêndio através de seu trajeto real
+e desconsiderando-se o alcance do jato de água.
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 05/05/2021, às
+14:48, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 29029916 e o
+código CRC 2ED449C1.
+Referência: Processo nº 1400.01.0021470/2021-66
+SEI nº 29029916

@@ -1,0 +1,576 @@
+--- PÁGINA 1 ---
+IT - 16 
+SISTEMA DE PROTEÇÃO POR EXTINTORES DE INCÊNDIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+ 
+1 – Objetivo 
+ 
+ 
+2 – Aplicação 
+ 
+ 
+3 – Referências Normativas 
+ 
+ 
+4 – Definições 
+ 
+ 
+5 – Generalidades gerais 
+ 
+ 
+6- Procedimentos 
+ 
+ 
+7 – Certificação e validade/garantia
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 16 
+ 
+   
+ 
+ 
+SISTEMA DE PROTEÇÃO POR 
+EXTINTORES DE INCÊNDIO 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+                  
+1 OBJETIVO 
+ 
+Esta Instrução Técnica estabelece critérios para proteção 
+contra incêndio em edificações e/ou áreas de risco por 
+meio de extintores de incêndio (portáteis ou sobre rodas), 
+atendendo ao previsto no Regulamento de Segurança 
+Contra Incêndio e Pânico no Estado de Minas Gerais. 
+ 
+ 
+2 APLICAÇÃO 
+ 
+2.1 Esta Instrução Técnica se aplica a todas edificações e 
+área de risco. 
+ 
+2.2 Naquilo que não contrarie o disposto nesta instrução 
+técnica, adota-se a NBR 12693 - Sistema de Proteção por 
+Extintores de Incêndio. 
+ 
+ 
+3 REFERÊNCIAS NORMATIVAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+NBR 9443 - Extintores de Incêndio classe A – ensaio de 
+fogo em engradado de madeira 
+ 
+NBR 9444 - Extintores de incêndio classe B – ensaio de 
+fogo em líquido inflamável. 
+ 
+NBR 12992 - Extintores de Incêndio classe C – ensaio de 
+condutividade elétrica. 
+ 
+NBR 11716 - Extintores de incêndio com carga de gás 
+carbônico. 
+ 
+NBR 13485 - Manutenção de terceiro nível (vistorias em 
+extintores de incêndio). 
+ 
+NBR 10721 - Extintores de incêndio com carga de pó. 
+ 
+NBR 12962 - Inspeção, manutenção e recarga em 
+extintores de incêndio. 
+ 
+NBR 11715 - Extintores de incêndio com carga d’água. 
+ 
+NBR 11751 - Extintores de incêndio com carga de espuma 
+mecânica. 
+ 
+NBR 11762 - Extintores de incêndio portáteis com carga 
+de halogenados. 
+ 
+ 
+4 DEFINIÇÕES 
+ 
+Para efeitos desta Instrução Técnica, são adotadas as 
+definições de 4.1 a 4.11. 
+ 
+4.1 Área protegida: Área em metros quadrados de piso, 
+protegida por uma unidade extintora, em função do risco. 
+ 
+4.2 Agente extintor: Substância utilizada para a extinção 
+do fogo. 
+ 
+4.3 Carga: Quantidade de agente extintor contido no 
+extintor de incêndio, medida em litro ou quilograma. 
+ 
+4.4 Capacidade extintora: Medida do poder de extinção 
+do fogo de um extintor, obtida em ensaio prático 
+normalizado. 
+ 
+4.5 Distância máxima a ser percorrida: Distância 
+máxima real, em metros, a ser percorrida por um operador, 
+do ponto de fixação do extintor a qualquer ponto da área 
+protegida pelo extintor. 
+  
+4.6 Extintor de incêndio: Aparelho de acionamento 
+manual, constituídos de recipiente e acessórios contendo o
+
+--- PÁGINA 3 ---
+agente extintor destinado a combater princípios de 
+incêndio. 
+ 
+4.7 Extintor portátil: Extintor que possui massa total até 
+196 N (20 Kgf). 
+ 
+4.8 Extintor sobre rodas: Extintor que possui massa total 
+superior a 196 N (20Kgf). 
+  
+4.9 Princípio de incêndio: Período inicial da queima de 
+materiais, compostos químicos ou equipamentos, enquanto 
+o incêndio é incipiente. 
+  
+4.10 Sinalização: Marcação pelo piso, parede, coluna e/ou 
+teto, destinada a indicar a presença de um extintor. 
+ 
+4.11 Unidade extintora: Extintor que atende à capacidade 
+extintora mínima prevista nesta norma, em função do risco 
+e da natureza do fogo. 
+ 
+ 
+5 Generalidades 
+ 
+5.1 Seleção do agente extintor segundo a classificação do 
+fogo consta na tabela 1. 
+ 
+5.2 Instalação 
+ 
+5.2.1 Condições gerais 
+ 
+O extintor deve ser instalado de maneira que: 
+ 
+Tabela 1 – Seleção do agente extintor segundo a classificação 
+AGENTE EXTINTOR 
+ 
+CLASSE 
+DO 
+FOGO 
+ÁGUA 
+ESPUMA 
+MECÂNICA
+GÁS 
+CARBONICO 
+PÓ BC 
+PÓ ABC 
+HIDROCARBONETOS 
+ALOGENADOS 
+A 
+(A) 
+(A) 
+(NR) 
+(NR) 
+(A) 
+(A) 
+B 
+(P) 
+(A) 
+(A) 
+(A) 
+(A) 
+(A) 
+C 
+(P) 
+(P) 
+(A) 
+(A) 
+(A) 
+(A) 
+D 
+  Deve ser verificada a compatibilidade entre o metal combustível e o agente extintor 
+Nota: 
+  (A) Adequado à classe do fogo 
+ 
+ 
+ 
+ 
+  (NR) Não recomendado à classe do fogo 
+ 
+ 
+ 
+ 
+  (P) Proibido à classe de fogo. 
+ 
+ 
+ 
+ 
+a) seja visível, para que todos os usuários fiquem 
+familiarizados com a sua localização; 
+b) permaneça protegido contra intempéries e danos físicos 
+em potencial; 
+c) permaneça desobstruído e devidamente sinalizado 
+de acordo com o estabelecido na IT 15 - Sinalização 
+de Emergência; 
+d) sejam adequados à classe de incêndio predominante 
+dentro dá área de risco a ser protegida; 
+e) Haja menor probabilidade do fogo bloquear seu acesso.  
+ 
+5.2.2 Extintores portáteis 
+ 
+5.2.2.1 O suporte de fixação dos extintores em paredes, 
+divisórias ou colunas, devem resistir a 3 (três) vezes a 
+massa total do extintor. 
+5.2.2.2 Para a fixação em colunas, paredes ou divisórias, a 
+alça de suporte de manuseio deve variar, no máximo, até 
+1,60 metros do piso, de forma que a parte inferior do 
+extintor permaneça no mínimo 0,20 metros do piso 
+acabado. 
+5.2.2.3 Os extintores não devem ser instalados em escadas. 
+5.2.2.4 É permitida a instalação de extintores sobre o piso 
+acabado, desde que permaneçam, apoiados em suportes 
+apropriados e afixados ao solo, com altura recomendada 
+entre 0,10 m e 0,20 m do piso. 
+5.2.2.5 Cada pavimento deve possuir, no mínimo uma 
+unidade extintora adequada às classes de risco existente no 
+local. 
+5.2.2.6 O extintor com agente de múltiplo uso ABC poderá 
+substituir qualquer tipo de extintor de classes específicas 
+A, B e C dentro de uma edificação ou área de risco. 
+5.2.2.7 Quando os extintores de incêndio forem instalados 
+em abrigos embutidos na parede ou divisória, além da 
+sinalização, deve existir uma superfície transparente que 
+possibilite a visualização do extintor no interior do abrigo, 
+que não pode ficar trancado. 
+5.2.2.8 
+As 
+unidades 
+extintoras 
+devem 
+ser 
+as 
+correspondentes a um só extintor, não sendo aceitas 
+combinações de dois ou mais extintores, à exceção do 
+extintor de espuma mecânica. 
+5.2.2.9 Deve ser instalado, pelo menos, um extintor de 
+incêndio a não mais de 10 m da entrada principal da 
+edificação e das escadas nos demais pavimentos. 
+5.2.2.10 Em locais de riscos especiais devem ser instalados 
+extintores de incêndio que atendam o item 6.1, 
+independente da proteção geral da edificação ou risco, tais 
+como: 
+a) casa de caldeira; 
+b) casa de bombas; 
+c) casa de força elétrica; 
+d) casa de máquinas; 
+e) galeria de transmissão; 
+f ) incinerador; 
+g) elevador (casa de máquinas); 
+h) ponte rolante; 
+i ) escada rolante (casa de máquinas); 
+j ) quadro de redução para baixa tensão; 
+k) transformadores; 
+l ) contêineres de telefonia;
+
+--- PÁGINA 4 ---
+m) outros que necessitam de proteção adequada. 
+Obs: As unidades extintoras que atendem a proteção geral 
+da edificação poderão substituir a proteção dos riscos 
+especiais, desde que atendam aos requisitos desta IT e que 
+não distem mais que 5 metros do risco a proteger.  
+5.2.2.11 Para proteção por extintores de incêndio em 
+instalações de Líquidos Inflamáveis e Combustíveis, Gás 
+Liquefeito de Petróleo e Gás Natural devem ser seguidas 
+as Instruções Técnicas 22, 23 e 24. 
+ 
+5.2.3 Extintores sobre rodas 
+5.2.3.1 Não é permitida a proteção de edificações ou áreas 
+de risco unicamente por extintores sobre rodas, admitindo-
+se, no máximo, a proteção da metade da área total 
+correspondente ao risco, considerando o complemento por 
+extintores portáteis, de forma alternada entre extintores 
+portáteis e sobre rodas na área de risco. 
+5.2.3.2 Os extintores sobre rodas devem ser localizados em 
+pontos estratégicos e sua área de proteção deve ser restrita 
+ao nível do piso que se encontram. 
+5.2.3.3 O emprego de extintores sobre rodas só é 
+computado como proteção efetiva em locais que permita o 
+livre acesso. 
+5.2.3.4 As distâncias máximas a serem percorridas pelo 
+operador de extintores sobre rodas devem ser de 1,5 (uma 
+vez e meia) os valores estabelecidos para os extintores  
+portáteis  nesta Instrução Técnica. 
+5.2.3.5 A proteção por extintores sobre rodas deve ser 
+obrigatória: 
+a) nas edificações onde houver manipulação e ou 
+armazenamento de explosivos e líquidos inflamáveis ou 
+combustíveis, 
+exceto 
+quando 
+os 
+reservatórios 
+de 
+inflamáveis/combustíveis forem enterrados; 
+b) edifícios destinados à garagem coletiva e oficinas 
+mecânicas sempre que tenham área superior a 200 m2 e 
+não possuam hidrantes. 
+ 
+ 
+6 PROCEDIMENTOS 
+ 
+6.1 Capacidade extintora 
+A capacidade extintora mínima de cada tipo de extintor 
+para que se constitua uma unidade extintora dever ser a 
+especificada na tabela 2 e 3. 
+ 
+ 
+ 
+ 
+6.1.1 Os extintores portáteis e sobre rodas (carreta) 
+constantes dos projetos aprovados com data anterior à 
+publicação desta Instrução Técnica, quando reprovado por 
+não ser possível fazer sua manutenção, devem ser 
+substituídos, por extintores que atendam à tabela 2 e 3 do 
+item 6.1 desta Instrução Técnica. 
+Tab. 3 Capacidade extintora mínima de extintor sobre 
+rodas 
+TIPO DE CARGA 
+CAP. EXTINTORA MÍNIMA
+ÁGUA 
+6-A 
+ESPUMA MECÂNICA 
+6-A: 40-B 
+DIÓXIDO DE 
+CARBONO 
+10-B:C 
+PÓ BC 
+80-B:C 
+PÓ ABC 
+6-A; 80-B:C 
+ 
+6.2 Dimensionamento 
+ 
+6.2.1 Fogo da classe A e B 
+A capacidade extintora mínima dos extintores de incêndio, 
+a área de proteção, as distâncias máximas a serem 
+percorridas e a carga incêndio são as previstas nas tabelas 
+4, 5, 6 e 7. 
+ 
+ 
+ 
+ 
+Tab. 4 - Determinação da unidade extintora, área e 
+distância a serem percorridas para o fogo classe A 
+RISCO 
+ 
+Baixo 
+Médio 
+Alto 
+Unidade extintora 
+2A 
+2A 
+4ª 
+Área máxima protegida pela 
+capacidade extintora de 1A 
+270 m2
+135 m2
+90 m2
+Área máxima protegida por 
+extintor 
+800 m2
+800 m2
+800 m2
+Distância 
+máxima 
+a 
+ser 
+percorrida até o extintor  
+20 m 
+20 m 
+20 m 
+ 
+Tab. 2 Capacidade extintora mínima de extintor portátil
+TIPO DE CARGA 
+CAP.EXTINTORA 
+MÍNIMA 
+ÁGUA 
+2-A 
+ESPUMA MECÂNICA 
+2-A: 10-B 
+DIÓXIDO DE CARBONO 
+5-B:C 
+PÓ BC 
+20-B:C 
+PÓ ABC 
+2-A: 20-B:C 
+COMPOSTOS 
+HALOGENADOS 
+5-B: C 
+Tab. 5 - Área máxima a ser protegida por extintor 
+RISCO 
+EXTINTOR CLASSE A BAIXO 
+MÉDIO ALTO 
+2A 
+540m2
+270 m2
+- 
+3A 
+800 m2
+405 m2
+- 
+4A 
+800 m2
+540 m2
+360 m2
+6A 
+800 m2
+800 m2
+540 m2
+10A 
+800 m2
+800 m2
+800 m2
+20A 
+800 m2
+800 m2
+800 m2
+30A 
+800 m2
+800 m2
+800 m2
+
+--- PÁGINA 5 ---
+7. Certificação e validade/garantia 
+7.1 Os extintores devem possuir marca de conformidade 
+concedida por órgão credenciado pelo Sistema Brasileiro 
+de Certificação.  
+7.2 Para efeito de vistoria do Corpo de Bombeiros o prazo 
+de validade/garantia de funcionamento dos extintores deve 
+ser aquele estabelecido pelo fabricante e ou da empresa de 
+manutenção certificada pelo Sistema Brasileiro de 
+Certificação. 
+ 
+ 
+ 
+Tab. 6 - Determinação da unidade extintora e distância 
+a ser percorrida para o fogo classe B 
+DISTÂNCIA MÁXIMA 
+RISCO 
+UNIDADE 
+EXTINTORA 
+A SER PERCORRIDA 
+(m) 
+10B 
+10 
+BAIXO 
+20B 
+15 
+20B 
+10 
+MÉDIO 
+40B 
+15 
+40B 
+10 
+ALTO 
+80B 
+15 
+ 
+ 
+ 
+ 
+Tab. 7 – Classificação das Edificações e Áreas de 
+Risco quanto a Carga Incêndio. 
+ 
+RISCO 
+ 
+CARGA INCÊNDIO (MJ/m2) 
+BAIXO 
+Até 300 MJ/m2
+MÉDIO 
+Acima de 300 até 1200 MJ/m2
+ALTO 
+Acima de 1.200 MJ/m2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.2.2 Fogo da classe C e D  
+ 
+ 
+ 
+6.2.2.1 Para a proteção por extintores para a classe C deve-
+se utilizar extintores não condutores de eletricidade para 
+proteger os operadores em situações onde são encontrados 
+equipamentos 
+energizados, 
+observando 
+a 
+distância 
+máxima, em metros, a ser percorrida será de acordo com a 
+tabela 8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.2.2.2 A determinação do tipo e quantidade de agente 
+extintor para a classe D deve ser baseada no metal 
+combustível específico, sua configuração, área a ser 
+protegida, bem como recomendações do fabricante do 
+agente extintor. A distância máxima em metros, a ser 
+percorrida será de acordo com a tabela 8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tab.  8 – Classe do fogo e distância máxima a ser 
+percorrida 
+CLASSE DO FOGO 
+DISTÂNCIA MÁXIMA 
+A SER PERCORRIDA 
+(em metros) 
+C 
+20 
+D 
+20

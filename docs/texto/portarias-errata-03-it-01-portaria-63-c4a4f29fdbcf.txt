@@ -1,0 +1,165 @@
+--- PÁGINA 1 ---
+07/05/2021
+SEI/GOVMG - 28548398 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=33216973&infra_sist…
+1/4
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 26 de abril de 2021.
+  
+ERRATA CBMMG/DAT Nº. 3/2021
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 01 – 9ª Edição
+(Procedimentos AdministraƟvos): 
+ 
+1. CORRIGIR o item 5.4.1.1
+Onde se lê: 
+5.4.1.1 DesƟnado à regularização de ediﬁcação e espaço desƟnado ao uso coleƟvo classiﬁcados como nível
+de risco III quando apresentarem qualquer uma das seguintes caracterísƟcas: 
+a) ediﬁcação com altura superior a 12 (doze) metros; 
+b) ediﬁcações com área total superior a 1.200 (mil e duzentos) m², no caso de ocupação exclusivamente
+residencial;  
+c) ediﬁcações e espaços desƟnados ao uso coleƟvo com área total superior a 930 (novecentos e trinta) m²,
+no caso das demais ocupações, exceto agronegócio (ocupação M-8); 
+d) quando houver projeção de sistema hidráulico de combate a incêndio (hidrantes, chuveiros automáƟcos,
+nebulizadores, CO2, etc.); 
+e) onde seja apresentada separação entre ediﬁcações, conforme os critérios da IT 05 (Separação entre
+ediﬁcações);
+Leia-se: 
+5.4.1.1 DesƟnado à regularização de ediﬁcação e espaço desƟnado ao uso coleƟvo quando apresentarem
+qualquer uma das seguintes caracterísƟcas: 
+a) ediﬁcação com altura superior a 12 (doze) metros; 
+b) ediﬁcações com área total superior a 1.200 (mil e duzentos) m², no caso de ocupação exclusivamente
+residencial;  
+c) ediﬁcações e espaços desƟnados ao uso coleƟvo com área total superior a 930 (novecentos e trinta) m²,
+no caso das demais ocupações, exceto agronegócio (ocupação M-8); 
+d) quando houver projeção de sistema hidráulico de combate a incêndio (hidrantes, chuveiros automáƟcos,
+nebulizadores, CO2, etc.); 
+e) onde seja apresentada separação entre ediﬁcações, conforme os critérios da IT 05 (Separação entre
+ediﬁcações);
+ 
+2. CORRIGIR o item 5.4.2.1
+Onde se lê: 
+5.4.2.1 DesƟnado à regularização de ediﬁcação e espaço desƟnado ao uso coleƟvo classiﬁcados como: 
+a) nível de risco III, quando não se enquadrarem nos requisitos para PT;
+
+--- PÁGINA 2 ---
+07/05/2021
+SEI/GOVMG - 28548398 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=33216973&infra_sist…
+2/4
+b) nível de risco II.
+Leia-se: 
+5.4.2.1 DesƟnado à regularização de ediﬁcação e espaço desƟnado ao uso coleƟvo classiﬁcados como nível
+de risco II ou III, quando não se enquadrarem nos requisitos para PT.
+ 
+3. CORRIGIR o item 6.2.1.3.2
+Onde se lê: 
+6.2.1.3.2 A validade da aprovação do PSCIP será prorrogada enquanto não houver atualização da legislação
+que implique em alteração de exigências.
+Leia-se: 
+6.2.1.3.2 A validade da aprovação do PSCIP será prorrogada enquanto não houver atualização da legislação
+que implique em acréscimo de medidas de segurança ou majoração de seus parâmetros.
+ 
+4. CORRIGIR o item 6.2.1.3.3
+Onde se lê: 
+6.2.1.3.3 No caso de ediﬁcação ‘a construir’, poderá ser solicitada a renovação da validade de aprovação do
+PSCIP, por igual período, caso a obra tenha se iniciado na vigência do prazo inicial.
+Leia-se: 
+6.2.1.3.3 No caso de ediﬁcação ‘a construir’, poderá ser solicitada a renovação da validade de aprovação do
+PSCIP, por igual período, caso a obra tenha se iniciado na vigência do prazo inicial. No caso de ediﬁcação
+'construída', a renovação da validade de aprovação do PSCIP, por igual período, poderá ser solicitada caso a
+execução dos sistemas prevenƟvos tenha se iniciado na vigência do prazo inicial.
+ 
+5. CORRIGIR o item 6.2.1.3.4
+Onde se lê: 
+6.2.1.3.4 A solicitação de que trata o subitem anterior deverá ser realizada por meio de Formulário para
+Atendimento Técnico (FAT), junto ao PSCIP, na vigência do prazo inicial, sendo direcionada à unidade
+responsável, que, veriﬁcando o início das obras, constará no PSCIP, em resposta ao FAT, o deferimento da
+prorrogação do prazo.
+Leia-se: 
+6.2.1.3.4 A solicitação de que trata o subitem anterior deverá ser realizada por meio de Formulário para
+Atendimento Técnico (FAT) junto ao PSCIP, acompanhado de documentos que comprovem a alegação, sendo
+direcionada à unidade responsável, que, veriﬁcando que o início das obras ou da execução dos sistemas
+prevenƟvos se deu na vigência do prazo inicial, constará no PSCIP, em resposta ao FAT, o deferimento da
+prorrogação do prazo.
+ 
+6. CORRIGIR o item A.3.2
+Onde se lê: 
+A.3.2 A ocupação residencial unifamiliar (Divisão A-1) que ﬁzer parte de uma ediﬁcação com outra ocupação
+ou uso será isenta de medidas de segurança, desde que possuam saídas independentes.
+Leia-se:
+
+--- PÁGINA 3 ---
+07/05/2021
+SEI/GOVMG - 28548398 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=33216973&infra_sist…
+3/4
+A.3.2 A ocupação residencial unifamiliar (Divisão A-1) que ﬁzer parte de uma ediﬁcação com outra ocupação
+ou uso será isenta de medidas de segurança, desde que possuam saídas independentes. Neste caso, a porção
+referente à Divisão A-1 deverá ser representada em planta de forma hachurada, sem o arranjo İsico interno
+(leiaute).
+ 
+7. CORRIGIR o item A.3.3
+Onde se lê: 
+A.3.3 A área da ocupação residencial unifamiliar (Divisão A-1) não será computada como área construída
+para ﬁns de:
+Leia-se: 
+A.3.3 A área da ocupação residencial unifamiliar (Divisão A-1) de que tratam os itens A.3.1 e A.3.2 não será
+computada como área construída para ﬁns de:
+ 
+8. CORRIGIR a alínea 'b' do item D.3.1.1
+Onde se lê: 
+b) Brigada de Incêndio e Controle de Materiais de Acabamento e RevesƟmento (CMAR): para as divisões H-2
+(asilos, abrigos geriátricos, reformatórios, locais para tratamento de dependentes químicos e assemelhados,
+todos sem celas) e H-5 (reformatórios, prisões em geral - casa de detenção, penitenciárias, presídios, cadeias
+públicas, delegacias - e insƟtuições assemelhadas, todos com celas).
+Leia-se: 
+b) Brigada de Incêndio e Controle de Materiais de Acabamento e RevesƟmento (CMAR): para as divisões H-2
+(asilos, orfanatos, abrigos geriátricos, reformatórios, locais para tratamento de dependentes químicos e
+assemelhados, todos sem celas) e H-5 (reformatórios, prisões em geral - casa de detenção, penitenciárias,
+presídios, cadeias públicas, delegacias - e insƟtuições assemelhadas, todos com celas).
+ 
+9. CORRIGIR o item D.4.4
+Onde se lê: 
+D.4.4 Até o ﬁnal da validade, o proprietário ou responsável pelo uso deverá providenciar o AVCB, por meio
+de PTS, em subsƟtuição ao licenciamento provisório.
+Leia-se: 
+D.4.4 Até o ﬁnal da validade, o proprietário ou responsável pelo uso deverá providenciar o AVCB em
+subsƟtuição ao licenciamento provisório, por meio do processo compaơvel (PT ou PTS).
+ 
+10. CORRIGIR o item E.4.6
+Onde se lê: 
+E.4.6 A área a ser considerada para deﬁnição de exigências poderá ser subdividida se os riscos forem
+isolados, quando atendidos os parâmetros da IT 05 (Separação de ediﬁcações).
+Leia-se: 
+E.4.6 A área a ser considerada para deﬁnição de exigências poderá ser subdividida se os riscos forem
+isolados, quando atendidos os parâmetros da IT 05 (Separação entre ediﬁcações).
+
+--- PÁGINA 4 ---
+07/05/2021
+SEI/GOVMG - 28548398 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=33216973&infra_sist…
+4/4
+11. CORRIGIR a alínea 'h' do item E.4.7
+Onde se lê: 
+h) locais não delimitados por paredes cujo teto seja consƟtuído por toldos, coberturas e similares,
+desƟnados a:
+h.1) estacionamento de veículos; ou
+h.2) aƟvidades que não gerem risco de incêndio.
+Leia-se: 
+h) locais não delimitados por paredes cuja cobertura seja consƟtuída por toldos, tendas e similares,
+desƟnados a aƟvidades que não gerem risco de incêndio. 
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 04/05/2021, às
+17:12, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 28548398 e o
+código CRC 5FCD3C8E.
+Referência: Processo nº 1400.01.0021470/2021-66
+SEI nº 28548398

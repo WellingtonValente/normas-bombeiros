@@ -1,0 +1,323 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 34 
+3ª edição 
+CADASTRAMENTO DE EMPRESAS 
+ E  
+RESPONSÁVEIS TÉCNICOS 
+ 
+Aprovada pela portaria n. 43, de 01abr2020, publicada no DOEMG n. 72, ano 128, p.2. 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+Alterada pela portaria n. 66, de 28jul2021, publicada no DOEMG n. 180, ano 129, p. 29.  
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Princípios  
+6 – Procedimentos  
+7 – Recadastramento  
+8 – Suspensão do Cadastro  
+9 – Prescrições Diversas
+
+--- PÁGINA 2 ---
+IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+3ª Edição 
+ 
+2/8 
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+1 OBJETIVO  
+Fixar critérios para cadastramento no CBMMG de pessoa física ou jurídica responsável pela 
+comercialização, instalação, manutenção e conservação de aparelhos de prevenção contra 
+incêndio e pânico utilizados em edificação ou espaço destinado ao uso coletivo. 
+2 APLICAÇÃO  
+2.1 A presente Instrução Técnica aplica-se: 
+a) À pessoa física ou jurídica responsável pela comercialização, instalação, manutenção e/ou 
+conservação de aparelhos de prevenção contra incêndio e pânico utilizados em edificações e 
+espaços destinados a uso coletivo; 
+b) Ao Responsável Técnico pelo sistema de segurança contra incêndio e pânico em eventos 
+temporários estabelecidos na Instrução Técnica 33; 
+c) Ao Profissional apto a apresentar Processos de Segurança Contra Incêndio e Pânico (PSCIP). 
+2.2 Esta Instrução Técnica (IT) não se aplica à: 
+a) Pessoas Física ou Jurídica em razão da venda ou de execução de serviços de 
+manutenção/recarga em extintores para veículos automotores; 
+b) Pessoa Física ou Jurídica em razão de venda, produção ou instalação de guarda-corpo ou 
+corrimãos; 
+c) Pessoa Física ou Jurídica em razão da instalação de estruturas provisórias em eventos; 
+d) Pessoa Física ou Jurídica em razão de emissão do laudo técnico de inspeção de medidas de 
+segurança. 
+2.3 Havendo ART/RRT de execução de medidas de segurança assinada por profissional 
+habilitado, devidamente cadastrado no CBMMG, fica dispensado o cadastramento da pessoa 
+incumbida da colocação/montagem dos aparelhos de prevenção que forem objeto da referida 
+ART/RRT. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las:  
+3.1 Legislação 
+Lei Estadual n. 6.763/1975 – Consolida a Legislação tributária do Estado de Minas Gerais. 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Lei Estadual n. 14.938/2003 – Altera a Lei nº 6.763, de 26 de dezembro de 1975, que consolida 
+a legislação tributária no Estado e dá outras providências.  
+Decreto Estadual n. 38.886/1997– Aprova o regulamento de taxas estaduais.
+
+--- PÁGINA 3 ---
+IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+3ª Edição 
+ 
+3/8 
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+Decreto Estadual n. 43.779/2004 – Altera o Regulamento das Taxas Estaduais (RTE), aprovado 
+pelo Decreto n. 38.886, de 1º de julho de 1997 e dá outras providências. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Decreto Estadual n 46.595/2014 – Altera o Decreto Estadual n. 44.746, de 29 de fevereiro de 
+2008 – Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco 
+no Estado de Minas Gerais. 
+4 DEFINIÇÕES  
+Para efeitos desta Instrução Técnica, aplicam-se os seguintes termos e definições:  
+4.1 Aparelhos de prevenção contra incêndio e pânico 
+Instrumento, equipamento ou máquina, com seus respectivos componentes, destinados a 
+impedir o início/propagação do incêndio e a proporcionar evacuação segura da edificação. 
+4.2 Comercialização 
+Ato ou efeito de comercializar. Venda de mercadorias. Serviço efetuado com a finalidade de 
+comercializar aparelhos de prevenção contra incêndio e pânico. 
+4.3 Conservação 
+Serviço efetuado, periódica ou permanentemente, com a finalidade de conter as deteriorações 
+dos aparelhos de prevenção contra incêndio e pânico. 
+4.4 Elaboração 
+Serviço de elaboração de projetos de segurança contra incêndio e pânico por Responsável 
+Técnico. 
+4.5 Instalação 
+Serviço efetuado com a finalidade de instalar aparelhos de prevenção contra incêndio e pânico.  
+4.6 Manutenção 
+Serviço efetuado nos aparelhos de prevenção contra incêndio e pânico com a finalidade de 
+manter as condições originais de operação. 
+4.6.1 Manutenção de 1º Nível 
+É a manutenção essencialmente preventiva. Pode incluir lubrificação e reaperto de peças que 
+não impliquem regulagens de relativa precisão. Pode ser executada no local, não havendo 
+necessidade de uma oficina especializada. 
+4.6.2 Manutenção de 2º Nível 
+Requer execução de serviços por pessoal habilitado com equipamento e local apropriados. 
+Consiste na realização de pequenos reparos, ajustagens e substituições de peças e pequenos 
+conjuntos. Presta assistência técnica especializada dentro das suas possibilidades. 
+4.6.3 Manutenção de 3º Nível 
+Requer execução de serviços por pessoal habilitado com equipamento e local apropriados. A 
+manutenção de terceiro nível consiste no processo de revisão total do equipamento, incluindo a
+
+--- PÁGINA 4 ---
+IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+3ª Edição 
+ 
+4/8 
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+execução testes e/ou ensaios, substituição e reparação de peças e conjuntos, caso seja 
+necessário. 
+5 PRINCÍPIOS 
+5.1 A lei estadual 14.130, de 19 de dezembro de 2001, estabelece em seus artigos 6º e 7º, 
+respectivamente, a obrigatoriedade da presença de responsável técnico, na forma estabelecida 
+em regulamento do CBMMG, em evento temporário realizado no Estado de Minas Gerais e o 
+cadastramento no CBMMG de pessoa física ou jurídica responsável pela comercialização, 
+instalação, manutenção e conservação de aparelhos de prevenção contra incêndio e pânico 
+utilizados em edificações de uso coletivo. 
+5.2 O Decreto Estadual nº 47.998/2020, que regulamenta a Lei nº 14.130/2001, estabelece, no 
+artigo 12, que a pessoa física ou jurídica responsável pela comercialização, instalação, 
+manutenção e conservação de aparelhos de prevenção contra incêndio e pânico, utilizados em 
+edificação ou espaço destinado ao uso coletivo, deverá cadastrar-se no CBMMG para o 
+exercício dessas atividades. 
+5.3 O cadastramento de empresas realizado pelo CBMMG se destina ao controle das pessoas 
+físicas e jurídicas que prestam serviços na área de segurança contra incêndio e pânico no 
+Estado de Minas Gerais. 
+5.4 O cadastramento será disponibilizado para o consumidor em um banco de dados para 
+consulta pública de empresas e profissionais aptos a realizarem atividades relacionadas à 
+prevenção contra incêndio e pânico (apresentação de projetos, comercialização, manutenção, 
+instalação e conservação de aparelhos de prevenção contra incêndio e pânico utilizados em 
+eventos, edificações e espaços destinados a uso coletivo). 
+6 PROCEDIMENTOS 
+6.1 Das exigências 
+As solicitações de cadastramento de pessoa física e jurídica serão feitas exclusivamente pelo 
+Sistema de Informações do Serviço de Segurança Contra Incêndio e Pânico (Infoscip). 
+6.2 Cadastramento de pessoa jurídica 
+6.2.1 As empresas de manutenção, conservação e instalação poderão incluir, em seus quadros, 
+profissionais habilitados na área específica de segurança contra incêndio e pânico, em 
+conformidade com as diretrizes vigentes de cada conselho profissional.  
+6.2.1.1 A empresa poderá incluir ou excluir profissionais do seu cadastro a qualquer tempo, 
+enquanto o cadastro estiver válido. 
+6.2.2 A empresa será responsável por garantir que os serviços de manutenção, conservação e 
+instalação de aparelhos de prevenção contra incêndio e pânico em edificações e espaços 
+destinados a uso coletivo sejam realizados por profissionais devidamente qualificados e 
+habilitados para exercerem essas atividades. 
+6.2.3 Para se cadastrar, a pessoa jurídica responsável pela comercialização, instalação, 
+manutenção e conservação de aparelhos de prevenção contra incêndio e pânico deverá cumprir 
+os seguintes requisitos: 
+a) Possuir Cadastro Nacional de Pessoa Jurídica (CNPJ) em situação ativa junto à Receita 
+Federal; e
+
+--- PÁGINA 5 ---
+IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+3ª Edição 
+ 
+5/8 
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+b) Possuir licenciamento válido quando a edificação onde seja desenvolvida a atividade seja 
+classificada nos níveis de risco II ou III, nos termos do Anexo C da IT 01, sendo eles: 
+b.1) Auto de Vistoria do Corpo de Bombeiros (AVCB); 
+b.2) Certificado de Funcionamento Provisório; 
+b.3) Documento equivalente aos previstos nas alíneas anteriores quando se tratar de endereço 
+de outro Estado; ou 
+c) Autodeclarar-se dispensado de licenciamento urbanístico, ou seja, que a edificação onde a 
+atividade é desenvolvida atende aos critérios para classificação como nível de risco I, nos termos 
+do Anexo C da IT 01 (observado o disposto em C.1.2 e C.1.2.1 da referida IT), ou classificação 
+equivalente (baixo risco, "baixo risco A", risco leve, irrelevante, inexistente, etc.), quando se tratar 
+de endereço de outro estado. 
+6.2.3.1 O requerente deverá informar o número do AVCB, do Certificado de Licenciamento 
+Provisório ou, quando se tratar de endereço de outro Estado, do documento equivalente, sejam 
+digitais ou impressos. 
+6.2.3.1.1 Para as empresas sediadas em outros estados da federação, poderá ser solicitada a 
+apresentação (upload) do documento de licenciamento. 
+6.2.3.2 Para o cadastramento de pessoa jurídica, deverá ser realizado o pagamento, via 
+Documento de Arrecadação Estadual (DAE), da taxa de segurança pública (Órgão “Corpo de 
+Bombeiros Militar de Minas Gerais” e Serviço de “Taxa de Segurança Pública – Cadastramento 
+Pessoa jurídica”) no valor de 202,94 UFEMG (Unidade Fiscal do Estado de Minas Gerais). 
+6.2.3.3 O valor previsto no item 6.2.3.2 corresponderá ao cadastramento em uma ou mais 
+atividades de comércio, instalação, manutenção e conservação de aparelhos de prevenção 
+contra incêndio e pânico utilizados em edificações e espaços destinados a uso coletivo. 
+6.2.3.4 O Infoscip irá gerar automaticamente o DAE para pagamento no momento da realização 
+do cadastro, não sendo necessário que o requerente recolha o DAE no portal da Secretaria de 
+Estado de Fazenda. Ao efetuar o pagamento do DAE gerado pelo Infoscip, o requerente também 
+é dispensado de apresentar o comprovante de quitação, uma vez que o Infoscip irá reconhecer o 
+pagamento de forma automática após compensação bancária. 
+6.2.3.5 Para as empresas que realizam manutenção em extintores, será exigido o número do 
+Registro de Objeto com Conformidade Avaliada Compulsória no INMETRO. 
+6.3 Cadastramento de pessoa física  
+6.3.1 Para solicitar o cadastramento de pessoa física, o requerente deverá estar em situação 
+regular perante o seu conselho profissional estabelecido por Lei Federal, de acordo com a 
+regulamentação das atribuições de títulos profissionais, atividades, competências e 
+caracterização do âmbito de atuação estabelecidos por legislação competente. 
+6.3.1.1 A pessoa física que desejar se cadastrar exclusivamente para comercialização fica 
+dispensada do requisito previsto no item 6.3.1.  
+6.3.2 Para se cadastrar exclusivamente para comercialização, o requerente deverá preencher os 
+dados obrigatórios no Infoscip e fazer o upload de uma imagem legível do documento de 
+identidade ou CNH.
+
+--- PÁGINA 6 ---
+IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+3ª Edição 
+ 
+6/8 
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+6.3.3 Poderão se cadastrar como profissional apto a apresentar projetos de segurança contra 
+incêndio e pânico e como responsável técnico pelas medidas de segurança contra incêndio e 
+pânico de eventos temporários os requerentes com registro regular no CREA/MG ou CAU, de 
+acordo com a regulamentação das atribuições de títulos profissionais, atividades, competências 
+e caracterização do âmbito de atuação dos profissionais inseridos no sistema CREA/MG ou 
+CAU. 
+6.3.3.1 O cadastramento de profissional apto a apresentar projetos de segurança contra incêndio 
+e pânico e responsável técnico pelo sistema de segurança contra incêndio e pânico de eventos 
+temporários é facultativo. 
+6.3.4 Aos requerentes registrados no CREA/MG ou no CAU, não será necessária a inclusão de 
+nenhum documento para realização do cadastramento. Os requerentes deverão apenas informar 
+o número do conselho no momento do cadastro e o Infoscip irá validar os dados junto ao sistema 
+do CREA/MG ou CAU. Caso estes profissionais estejam regulares junto ao seu respectivo 
+conselho, o cadastramento será feito de forma automática após a validação dos dados, 
+pagamento e compensação bancária da taxa de segurança pública gerada pelo sistema no 
+momento do cadastro. 
+6.3.4.1 Caso o banco de dados do CREA/MG ou CAU esteja fora do ar no momento do 
+cadastramento, o requerente deverá fazer o upload de uma imagem legível de sua carteira 
+profissional e certidão de quitação junto ao conselho. Neste caso, o cadastramento não será 
+automático, mas precedido de avaliação pelo CBMMG. 
+6.3.5 Os profissionais registrados no CREA de outros Estados deverão solicitar o visto ao 
+CREA/MG antes de solicitar o cadastramento para que o Infoscip possa validar os dados junto 
+ao CREA/MG. 
+6.3.6 Os profissionais cadastrados em conselhos diversos ao CREA ou CAU, no momento do 
+cadastramento, deverão preencher todos os dados obrigatórios no Infoscip e fazer o upload de 
+uma imagem legível de sua carteira profissional e certidão de quitação junto ao conselho. 
+6.3.7 Para realização do cadastro de pessoa física, deverá ser realizado o pagamento via DAE 
+(Documento de Arrecadação Estadual) da taxa de segurança pública (Órgão “Corpo de 
+Bombeiros Militar de Minas Gerais” e Serviço de “Taxa de Segurança Pública – Cadastramento 
+Pessoa física”) observados os seguintes valores, conforme as atividades que serão exercidas: 
+a) 202,94 UFEMG (Unidade Fiscal do Estado de Minas Gerais) para o cadastramento em uma 
+ou mais atividades de comércio, instalação, manutenção e conservação de aparelhos de 
+prevenção contra incêndio e pânico utilizados em edificações e espaços destinados ao uso 
+coletivo; 
+b) 100 UFEMG para o cadastramento de profissional apto a apresentar projetos de segurança 
+contra incêndio e pânico; 
+c) 100 UFEMG para cadastramento de responsável técnico pelo sistema de segurança contra 
+incêndio e pânico de eventos temporários. 
+6.3.7.1 O Infoscip irá gerar automaticamente o DAE para pagamento no momento da realização 
+do cadastro, não sendo necessário que o requerente recolha o DAE no portal da Secretaria de 
+Estado de Fazenda. Ao efetuar o pagamento do DAE gerado pelo Infoscip, o requerente também 
+é dispensado de apresentar o comprovante de quitação, uma vez que o Infoscip irá reconhecer o 
+pagamento de forma automática após compensação bancária.
+
+--- PÁGINA 7 ---
+IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+3ª Edição 
+ 
+7/8 
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+6.4 Coordenação e Controle 
+6.4.1 O CBMMG irá analisar a documentação apresentada dentro do prazo de 5 (cinco) dias 
+úteis. Em caso de deferimento, a pessoa física ou jurídica será cadastrada no banco de dados 
+do CBMMG. Para o caso de indeferimento do pedido, o requerente será notificado, tanto pelo 
+Infoscip, quanto por e-mail, dos motivos do indeferimento. 
+6.4.1.1 O prazo a que se refere o item 6.4.1 terá início após a efetivação do requerimento de 
+cadastramento mediante o pagamento e compensação bancária do DAE gerado pelo Infoscip. 
+6.4.2 Nos casos de indeferimento, o interessado poderá solicitar novo requerimento sem o 
+prejuízo da TSP paga. 
+6.4.3 O cadastramento terá a validade do ano em exercício, estendido o prazo para a renovação 
+até 31 de março do ano subsequente, conforme Lei Estadual 14.938 e Decreto Estadual 43.779.  
+6.4.4 Será disponibilizada no portal do CBMMG uma página para consulta das pessoas físicas e 
+jurídicas com cadastro vigente. 
+6.4.5 A pessoa física ou jurídica estará apta a executar as atividades de prevenção contra 
+incêndio e pânico definidas nesta IT após deferimento do requerimento de cadastro no Infoscip. 
+6.4.6 Após deferimento e efetivação do cadastro, o requerente poderá emitir declaração de 
+cadastramento diretamente no Infoscip. 
+6.4.7 A qualquer tempo, o CBMMG poderá realizar diligências para verificação da documentação 
+apresentada no processo de cadastramento. 
+6.4.7.1 Comprovada a inserção de documento ou informação falsa na realização do 
+cadastramento, o cadastro será anulado. 
+6.4.7.2 A anulação do cadastro estende-se ao licenciamento de edificação obtido por meio da 
+fraude a que se refere o subitem 6.4.7.1. 
+7 RECADASTRAMENTO 
+7.1 O requerente poderá solicitar um novo cadastramento a qualquer tempo. 
+7.2 Para realizar o recadastramento, as pessoas jurídicas ou físicas deverão cumprir todos os 
+requisitos descritos nos itens 6.2 e 6.3, respectivamente. 
+8 SUSPENSÃO DO CADASTRO 
+8.1 As pessoas jurídicas deverão manter a situação do CNPJ regular, bem como o AVCB ou 
+equivalente válido durante todo o período de validade do cadastro. 
+8.2 As pessoas físicas deverão manter a situação regular perante o conselho profissional 
+durante todo o período de validade do cadastro. 
+8.2.1 Ficam dispensadas da exigência do item 8.2 as pessoas físicas cadastradas 
+exclusivamente para comercialização. 
+8.3 O não cumprimento dos itens 8.1 e 8.2 resultará na suspensão do cadastro.
+
+--- PÁGINA 8 ---
+IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+3ª Edição 
+ 
+8/8 
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+8.3.1 O requerente será notificado pelo Infoscip e por e-mail a respeito dos motivos da 
+suspensão do cadastro. 
+8.3.2 O cadastro permanecerá suspenso enquanto se mantiver a irregularidade que ensejou a 
+suspensão. 
+8.3.3 A suspensão do cadastro impedirá a pessoa física ou jurídica de desenvolver as atividades 
+nele previstas até que sejam sanadas as irregularidades e o mesmo seja restabelecido. 
+8.4 Não haverá restituição de TSP após a efetivação do cadastramento, uma vez que o serviço 
+foi prestado. 
+9 PRESCRIÇÕES DIVERSAS 
+Os casos omissos serão tratados junto ao Serviço de Segurança Contra Incêndio e Pânico do 
+Corpo de Bombeiros Militar de Minas Gerais.

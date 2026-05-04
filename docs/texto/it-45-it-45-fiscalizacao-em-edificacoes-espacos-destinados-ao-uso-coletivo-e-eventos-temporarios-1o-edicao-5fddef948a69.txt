@@ -1,0 +1,848 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 45 
+1ª edição 
+ 
+FISCALIZAÇÃO EM EDIFICAÇÕES, 
+ESPAÇOS DESTINADOS AO USO COLETIVO 
+E EVENTOS TEMPORÁRIOS 
+ 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+SUMÁRIO 
+1 - Objetivo                                                                                                                                               
+2 - Aplicação                                                                                                        
+3 - Referências bibliográficas e normativas 
+4 - Definições 
+5 - Da competência e das infrações 
+6 - Da instauração do Processo Administrativo Fiscalizatório - PAF 
+7 - Da prorrogação do prazo para correção de irregularidades 
+8 - Da aplicação de sanções administrativas  
+9 - Das sanções administrativas de aplicação imediata  
+10 - Da atualização do crédito estadual não tributário  
+11 - Da cobrança administrativa 
+12 - Do parcelamento da multa 
+13 - Dos recursos 
+14 - Disposições finais 
+ 
+ 
+www.bombeiros.mg.gov.br 
+  Bombeiro: o amigo certo nas horas incertas.
+
+--- PÁGINA 2 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+2/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+1 OBJETIVO 
+Esta Instrução Técnica (IT) estabelece os critérios para instauração do processo administrativo 
+fiscalizatório (PAF) das medidas de segurança contra incêndio e pânico em edificações, espaços 
+destinados ao uso coletivo e eventos temporários no Estado de Minas Gerais. 
+2 APLICAÇÃO 
+Esta IT aplica-se a todas as edificações, espaços destinados ao uso coletivo e eventos 
+temporários definidos no Regulamento de Segurança Contra Incêndio e Pânico no Estado de 
+Minas Gerais. 
+3 REFERÊNCIAS BIBLIOGRÁFICAS E NORMATIVAS 
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Federal nº 13.425/2017 - Estabelece diretrizes gerais sobre medidas de prevenção e combate 
+a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de público. 
+Lei Federal nº 13.874/2019 - Institui a Declaração de Direitos de Liberdade Econômica. 
+Lei Estadual nº 6.763/1975 - Consolida a legislação tributária do Estado de Minas Gerais. 
+Lei Estadual nº 14.130/2001 - Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Lei Estadual nº 14.184/2002 - Dispõe sobre o processo administrativo no âmbito da Administração 
+Pública Estadual. 
+Lei Estadual nº 21.735/2015 - Dispõe sobre a constituição de crédito estadual não tributário, fixa 
+critérios para a sua atualização, regula seu parcelamento, institui remissão e anistia e dá outras 
+providências. 
+Decreto Estadual nº 38.886/1997 - Aprova o regulamento de taxas estaduais. 
+Decreto Estadual n. 46.668/2014 – Estabelece o regulamento do processo administrativo de 
+constituição do crédito estadual não tributário - RPACE - no âmbito da administração pública 
+direta, autárquica e fundacional. 
+Decreto Estadual nº 47.222/2017 – Regulamenta a Lei nº 14.184, de 31 de janeiro de 2002, que 
+dispõe sobre o processo administrativo no âmbito da Administração Pública Estadual, quanto ao 
+uso do meio eletrônico para prática de atos e tramitação de processos administrativos pela 
+administração pública, direta, autárquica e fundacional do Poder Executivo. 
+Decreto Estadual n. 47.998/2020 – Regulamenta a Lei n. 14.130, de 19 de dezembro de 2001, 
+que dispõe sobre a prevenção contra incêndio e pânico no Estado, e estabelece regras para as 
+atividades de fiscalização das medidas de prevenção e combate a incêndio e a desastres em 
+estabelecimentos, edificações e áreas de reunião de público, nos termos dos arts. 3º, 4º e 5º da 
+Lei Federal n. 13.425, de 30 de março de 2017, e dá outras providências.
+
+--- PÁGINA 3 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+3/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+3.2 Normas 
+Instruções Técnicas do CBMMG. 
+4 DEFINIÇÕES  
+Além das normas referenciadas, para efeitos de aplicação desta Instrução técnica, adotam-se os 
+seguintes termos e definições: 
+I - Auto de Infração: é o documento pelo qual o interessado é informado acerca da conduta 
+infracional em tese praticada, resguardado o direito de defesa, não implicando efetivação das 
+sanções previstas nesta norma, sendo a formalização da autuação. 
+II - Defesa: é o instrumento processual por meio do qual a parte interessada contesta o Auto de 
+Infração emitido em seu desfavor. 
+III - Embargo: sanção administrativa que implica a paralisação parcial ou total da obra ou da 
+montagem ou preparação de evento temporário. 
+IV - Interdição: sanção administrativa que implica a paralisação parcial ou total da atividade, da 
+máquina, equipamento ou sistema, do setor de serviço, do evento temporário, do espaço 
+destinado ao uso coletivo, da edificação ou do estabelecimento. 
+V - Interessado: pessoa física ou jurídica que responde processo administrativo por ação ou 
+omissão passível de penalidade pecuniária ou da qual resulte ou possa resultar dano ao erário, 
+ou que possa ser afetada pela decisão administrativa. 
+VI - Intimação: meio pelo qual se comunica ao interessado a prática de qualquer ato processual 
+tendente a movimentar o processo. 
+VII - Licenciamento: procedimento administrativo obrigatório aos espaços destinados a uso 
+coletivo, edifícios ou espaços comerciais, industriais ou de prestação de serviços e aos prédios 
+de apartamentos residenciais, independente da área e ano de construção, ressalvados os casos 
+de dispensa de licenciamento, para se obter: Certificado de Licenciamento Provisório, Auto de 
+Vistoria do Corpo de Bombeiros (AVCB) e Certificado de Licenciamento do Corpo de Bombeiros 
+(CLCB). 
+VIII - Notificação: instrumento de comunicação ao interessado dos atos iniciais do processo de 
+constituição do crédito não tributário do Estado, com o objetivo de cientificá-lo e assegurar o direito 
+de defesa. 
+IX - Pedido de prorrogação de prazo: documento pelo qual o(s) infrator(es) e o ente público podem 
+se utilizar para acordar e ajustar como se darão as correções, mitigações e regularização da 
+edificação, espaço destinado ao uso coletivo ou evento temporário. 
+X - Poder de polícia: atividade da administração pública que regula a prática de ato ou abstenção 
+de fato, em razão de interesse público concernente à segurança, à higiene, à ordem, aos 
+costumes, à disciplina da produção e do mercado, ao exercício de atividades econômicas 
+dependentes de concessão ou autorização do Poder Público, à tranquilidade pública ou ao 
+respeito à propriedade e aos direitos individuais ou coletivos. 
+XI - Proprietário: Aquele que detém o direito de propriedade, com o poder de usar, gozar e dispor 
+da coisa, além de reavê-la de quem a possua indevidamente.
+
+--- PÁGINA 4 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+4/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+XII - Recurso: é o instrumento processual por meio do qual a parte interessada contesta o Termo 
+de Aplicação de Sanção (TAS) emitido em seu desfavor. 
+XIII - Registro de Evento de Defesa Social (REDS): documento público através do qual são 
+registradas as atividades desenvolvidas em serviço pelos profissionais pertencentes aos órgãos 
+de Segurança Pública do Estado de Minas Gerais. 
+XIV - Representante legal: pessoa designada legalmente para agir em nome de outra pessoa ou 
+entidade. 
+XV - Responsável pelo uso: pessoa ou entidade que tem a obrigação de cuidar, controlar e garantir 
+que um determinado objeto, edificação, serviço ou recurso seja usado de forma correta e segura. 
+XVI - Sanção de aplicação imediata: penalidade aplicada de forma direta e sem a necessidade de 
+um processo administrativo prévio, visando uma resposta rápida para garantir a segurança, a 
+ordem e a legalidade. São consideradas sanções de aplicação imediata, para fins desta IT, a 
+interdição e o embargo. 
+XVII - Sistema de Informações do Serviço de Segurança Contra Incêndio e Pânico - Infoscip: 
+sistema de regularização de edificações, controle e gestão de processos por meio digital. 
+XVIII - Termo de Aplicação de Sanção (TAS): é o documento pelo qual a sanção imposta pelo 
+CBMMG se torna efetiva. 
+5 DA COMPETÊNCIA E DAS INFRAÇÕES 
+5.1 É competência do CBMMG realizar fiscalização nas edificações, espaços destinados ao uso 
+coletivo e eventos temporários, devendo ser instaurado processo de aplicação de sanção quando 
+constatadas infrações à legislação de segurança contra incêndio e pânico. 
+5.1.1 As fiscalizações são inspeções, com base em parâmetros técnicos e/ou normativos, 
+realizadas com ou sem o uso de equipamentos de mensuração, com o objetivo de atestar as 
+condições de segurança contra incêndio e pânico e verificar o licenciamento das edificações, 
+espaços destinados ao uso coletivo e eventos temporários. 
+5.1.2 Caso o proprietário ou responsável pelo uso dificulte ou impeça o acesso da equipe de 
+fiscalização ao interior da edificação, os vistoriadores poderão acionar apoio policial para 
+assegurar o poder de polícia dos agentes fiscalizadores, de modo que a fiscalização seja 
+concluída com segurança. 
+5.2 Constituem infrações à legislação de segurança contra incêndio e pânico: 
+a) deixar de instalar medidas de segurança contra incêndio e pânico especificadas em norma 
+técnica regulamentar (art. 14, I do Decreto Estadual n. 47.998/2020); 
+b) instalar as medidas de segurança em desacordo com as especificações do projeto de 
+prevenção contra incêndio e pânico ou em desacordo com as normas técnicas regulamentares 
+(art. 14, II do Decreto Estadual n. 47.998/2020); 
+c) não realizar a manutenção adequada das medidas de segurança especificadas em norma 
+técnica regulamentar, alterar-lhes as características, ocultá-las, removê-las, inutilizá-las, destruí-
+las ou substituí-las por outras que não atendam às exigências legais e regulamentares (art. 14, III 
+do Decreto Estadual n. 47.998/2020).
+
+--- PÁGINA 5 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+5/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+5.2.1 A ausência de AVCB ou CLCB e a construção de edificações ou instalação de estruturas 
+temporárias sem PSCIP aprovado configuram infrações ao disposto no item 5.2, alínea ‘a’, 
+quando não houver medidas de segurança instaladas.  
+5.2.2 A ausência de AVCB ou CLCB e a construção de edificações ou instalação de estruturas 
+temporárias sem PSCIP aprovado configuram infrações ao disposto no item 5.2, alínea ‘b’, 
+quando houver medidas de segurança instaladas.  
+5.3 A aplicação das sanções administrativas será responsabilidade do setor próprio do SSCIP, 
+conforme articulação territorial. 
+5.3.1 As sanções de aplicação imediata poderão ser empregadas, alternativamente, por militar 
+que esteja na condição de responsável pela operação. 
+6 DA INSTAURAÇÃO DO PROCESSO ADMINISTRATIVO FISCALIZATÓRIO - PAF 
+6.1 O Processo Administrativo Fiscalizatório (PAF) terá início com a fiscalização das edificações, 
+espaços destinados ao uso coletivo e eventos temporários, sendo constatada irregularidade, 
+devidamente registrada, frente à legislação mineira de segurança contra incêndio e pânico ou às 
+normas técnicas regulamentares. 
+6.2 Autuação 
+6.2.1 Constatado o ato ou omissão que configure as infrações previstas no item 5.2, será 
+confeccionado o auto de infração. 
+6.2.2 A autuação é o registro dos atos praticados pelo agente investido da autoridade e 
+competência definidas na Constituição Estadual, Lei e Decreto vigentes do Serviço de Segurança 
+Contra Incêndio e Pânico, por meio de lavratura do auto de infração, especificando e capitulando 
+as irregularidades verificadas. 
+6.2.3 O auto de infração será confeccionado a partir das informações descritas no processo 
+fiscalizatório e deverá conter, no mínimo: 
+a) número de identificação; 
+b) número do REDS que originou a autuação; 
+c) nome, domicílio ou endereço do autuado; 
+d) número de CNPJ ou CPF; 
+e) descrição clara e precisa do(s) fato(s) constitutivo(s) de infração, preferencialmente com 
+indicação do dispositivo legal infringido; 
+e.1) quando aplicável, discriminar o local da irregularidade constatada; 
+f) penalidades aplicáveis com referência expressa aos dispositivos legais que as cominem;  
+g) prazo para defesa; 
+h) indicação do órgão ou entidade competente para receber a defesa, bem como local de 
+protocolo; 
+i) indicação de que o interessado poderá comunicar, a qualquer momento do processo 
+administrativo, a correção da(s) irregularidade(s), sem prejuízo de eventual sanção aplicada 
+anteriormente; 
+j) indicação de que o interessado poderá solicitar, a qualquer momento do processo 
+administrativo, a prorrogação de prazo para sanar a(s) irregularidade(s), sem prejuízo de eventual 
+sanção aplicada anteriormente;
+
+--- PÁGINA 6 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+6/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+k) local, data e hora da autuação; 
+l) identificação do servidor responsável pela autuação; e 
+m) assinatura do infrator ou de seu preposto, sempre que possível, valendo, como notificação, o 
+auto com confirmação de entrega por carta registrada. 
+6.2.3.1 No caso do autuado se negar a fornecer os dados constantes nas alíneas “c” e “d” do 
+item 6.2.3 para confecção da autuação/REDS, os vistoriadores poderão solicitar apoio policial 
+para as providências relativas à contravenção penal prevista no Art. 681 da Lei n. 3.688 de 1941.  
+6.2.4 O processo fiscalizatório conterá a qualificação da pessoa jurídica (CNPJ) instalada na 
+edificação ou responsável pela organização do evento. Excepcionalmente, nos casos em que não 
+houver uma pessoa jurídica, será qualificada a pessoa física que detenha, no momento da 
+fiscalização, a posse ou responsabilidade pelo uso da edificação, ou organização do evento. 
+6.2.4.1 A autuação será dirigida: 
+a) nos casos de ausência de licenciamento ou identificação de irregularidades nas áreas comuns: 
+a.1) ao condomínio ou responsável legal, caso possua CNPJ; 
+a.2) não havendo CNPJ, ao síndico ou qualquer responsável legal/representante 
+legal/responsável pelo uso/morador.  
+b) nos casos de irregularidade em área privativa: 
+b.1) ao condomínio, responsável legal ou responsável pela área onde for encontrada a 
+irregularidade. 
+6.2.4.2 Caso a pessoa física ou jurídica qualificada na autuação não seja a responsável pela 
+edificação ou organização do evento, poderá indicar, dentro do prazo de defesa da autuação, a 
+qualificação do real responsável pela edificação ou organização do evento.  
+6.2.4.2.1 Ocorrendo o disposto em 6.2.4.2, uma nova autuação será confeccionada e 
+encaminhada à pessoa física ou jurídica que assumir a responsabilidade pela ação ou omissão 
+que ensejou o PAF, podendo aquelas apresentarem defesa da autuação, nos termos do item 6.3 
+e subitens. 
+6.2.4.2.2 A indicação do responsável pela correção das irregularidades, conforme disposto no 
+item 6.2.4.2, não poderá ser realizada em momento posterior à resposta/defesa da autuação. 
+6.2.4.2.3 Para que a indicação prevista no item 6.2.4.2 seja válida, deverá ser anexada, junto à 
+resposta/defesa da autuação, declaração, devidamente assinada pelo proprietário ou responsável 
+pelo uso (pessoa física ou jurídica) da edificação ou espaço destinado ao uso coletivo que 
+assumirá a responsabilidade pela ação ou omissão que ensejou o PAF, acompanhado dos 
+documentos aptos a comprovarem o vínculo deste em relação ao imóvel/estabelecimento objeto 
+da autuação. 
+6.2.4.2.4 Caso os requisitos previstos em 6.2.4.2.3 não sejam corretamente cumpridos, o autuado 
+permanecerá como responsável pela ação ou omissão que originou o PAF. 
+                                               
+1 Art. 68 - Recusar à autoridade, quando por esta, justificadamente solicitados ou exigidos, dados ou indicações 
+concernentes à própria identidade, estado, profissão, domicílio e residência: 
+Pena - multa, de duzentos mil réis a dois contos de réis. 
+Parágrafo único. Incorre na pena de prisão simples, de um a seis meses, e multa, de duzentos mil réis a dois 
+contos de réis, se o fato não constitui infração penal mais grave, quem, nas mesmas circunstâncias, faz 
+declarações inverídicas a respeito de sua identidade pessoal, estado, profissão, domicílio e residência.
+
+--- PÁGINA 7 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+7/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+6.2.5 Nos casos de infrações envolvendo órgãos da administração direta municipais, estaduais 
+ou federais, o CNPJ prioritário a se constar no Auto de Infração será do município, estado ou 
+união, exceto no caso de órgãos autônomos, que atenderão ao item 6.2.5.1. 
+6.2.5.1 Nos casos que envolverem órgãos autônomos, autárquicos, fundacionais ou da 
+administração indireta, o CNPJ prioritário a se constar no Auto de Infração será o do próprio órgão. 
+6.2.6 Tratando-se de edificações sob responsabilidade de órgãos da administração direta do 
+estado de Minas Gerais, incluindo os órgãos autônomos, persistindo as irregularidades, deverão 
+ser redigidas as respectivas notificações de aplicação de sanção. 
+6.2.6.1 Nestes casos, não haverá aplicação de pena pecuniária, haja vista a extinção da obrigação 
+em decorrência da confusão entre credor e devedor. 
+6.2.7 Havendo edificação com AVCB total ou parcial, a autuação especificará apenas a área 
+irregular da edificação. 
+6.2.7.1 A área a ser especificada no item 6.2.7 considerará o somatório das áreas dos pavimentos 
+onde for detectada a irregularidade, ressalvada a edificação de pavimento único, que terá o seu 
+valor determinado pela área de proteção do equipamento de prevenção em situação irregular. 
+6.3 Da defesa 
+6.3.1 O interessado (responsável técnico, proprietário, responsável pelo uso ou representante 
+legal) poderá apresentar defesa da autuação, dirigida à autoridade responsável pelo processo, no 
+prazo de 10 (dez) dias, sendo-lhe facultada a juntada de todos os documentos que julgar 
+convenientes. 
+6.3.1.1 O prazo previsto no item 6.3.1 será contado a partir da efetiva comunicação do ato 
+processual, conforme previsão do Decreto Estadual n° 46.668/2014. 
+6.3.1.1.1 A efetiva comunicação do ato processual prevista no item 6.3.1.1 ocorre com ciência do 
+Auto de Infração pelo interessado, nos termos do Decreto Estadual n° 46.668/2014. 
+6.3.2 A peça de defesa deverá conter, no mínimo: 
+I - a identificação completa do interessado, com cópia do documento oficial respectivo, CPF ou 
+CNPJ, e, quando for o caso, contrato social e última alteração; 
+II - o número de identificação do documento formal ao qual diz respeito a defesa; 
+III - o endereço do interessado; 
+IV - a formulação do pedido, com exposição dos fatos e dos fundamentos técnicos ou jurídicos; 
+V - a especificação das provas produzidas; 
+VI - no caso de outorga de poderes, procuração original assinada por ambas as partes; 
+6.3.2.1 Não atendidos os requisitos formais da defesa, o interessado será intimado para promover 
+a correção das falhas, no prazo de 10 (dez) dias, contados do recebimento da intimação. 
+6.3.3 Apresentada a defesa, a autoridade responsável pelo processo se manifestará em até 30 
+(trinta) dias.
+
+--- PÁGINA 8 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+8/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+6.3.4 A defesa será protocolada por meio do sistema Infoscip, acessado em link disponibilizado 
+no Portal do CBMMG na internet: www.bombeiros.mg.gov.br. 
+6.4 Comunicação da correção da irregularidade 
+6.4.1 A qualquer momento do PAF, o autuado ou as outras pessoas elencadas no item 13.6 
+poderão comunicar a correção das irregularidades apontadas no auto de infração. 
+6.4.1.1 A comunicação da correção da irregularidade deverá ser acompanhada de documentos, 
+fotos ou outros instrumentos aptos a comprovar a informação. 
+6.4.2 Caso não seja possível verificar a correção da irregularidade através da comunicação do 
+fato, a autoridade competente deverá designar diligência ao local para comprovar a regularização 
+do local autuado, por meio de uma vistoria acessória.  
+6.4.3 A comprovação da correção da irregularidade interrompe o avanço do PAF, contudo não 
+impede a aplicação de sanções decorrentes de infrações cometidas em data anterior à 
+regularização e, tampouco, anula as sanções já aplicadas. 
+6.4.4 A comunicação da correção da irregularidade se dará por meio do sistema Infoscip, 
+acessado em link disponibilizado no Portal do CBMMG na internet: www.bombeiros.mg.gov.br. 
+7 DA PRORROGAÇÃO DO PRAZO PARA CORREÇÃO DE IRREGULARIDADES 
+7.1 Na impossibilidade do cumprimento dos prazos para sanar as irregularidades, o responsável 
+técnico, o proprietário, o responsável pelo uso ou o representante legal poderão requerer à 
+autoridade competente, mediante petição fundamentada, a prorrogação de prazo para adequação 
+da edificação. 
+7.1.1 A solicitação para prorrogação de prazo só poderá ser protocolada após a aplicação de uma 
+sanção. 
+7.2 O requerimento de prorrogação de prazo deverá, obrigatoriamente, ser acompanhado de 
+justificativa e cronograma de execução. 
+7.3 Cada solicitação de prorrogação de prazo será concedida por no máximo 180 (cento e oitenta) 
+dias; 
+7.3.1 É admitida a prorrogação de prazo por até 2 (dois) anos, em casos justificadamente 
+comprovados. 
+7.4 Deferido o requerimento de prorrogação, o prazo para aplicação da próxima sanção 
+administrativa terá sua contagem suspensa enquanto perdurar a prorrogação, sem prejuízo das 
+sanções aplicadas anteriormente. 
+7.5 Finalizado o período definido na prorrogação, caso as irregularidades ainda permaneçam, o 
+prazo para aplicação das próximas sanções administrativas será retomado. 
+7.6 O período de prorrogação de prazo poderá ser estendido, a critério da autoridade competente, 
+mediante solicitação fundamentada do interessado. 
+7.7 O requerimento de prorrogação de prazo será protocolado por meio do sistema Infoscip, 
+acessado em link disponibilizado no Portal do CBMMG na internet: www.bombeiros.mg.gov.br.
+
+--- PÁGINA 9 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+9/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+8 DA APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS 
+8.1 O cometimento das infrações dispostas no item 5.2 sujeita o infrator às seguintes sanções 
+administrativas: 
+I - advertência escrita; 
+II - multa; 
+ 
+III - cassação de AVCB; 
+IV -  embargo; 
+V - interdição. 
+8.1.1 Para a majoração das sanções administrativas, persistindo a conduta infracional, deverão 
+ser observados se a qualificação da pessoa física ou jurídica autuada e endereço da edificação 
+se mantêm. 
+8.2 Da Advertência Escrita 
+8.2.1 Do indeferimento ou não conhecimento da defesa impugnando o auto de infração ou diante 
+da ausência de manifestação do interessado no prazo previsto, será lavrado o Termo de Aplicação 
+de Sanção de “Advertência Escrita”. 
+8.2.2 O Termo de Aplicação de Sanção de Advertência Escrita deverá conter, no mínimo: 
+a) número do processo e autuação a que se refere; 
+b) conduta infracional conforme Auto de Infração, bem como sua tipificação; 
+c) resposta à defesa, caso tenha sido apresentada; 
+d) prazo para correção das irregularidades constantes no Auto de Infração; 
+e) próximas sanções aplicáveis; 
+f) prazo para recurso da sanção aplicada; 
+g) destinatário do recurso, caso seja interposto; 
+h) possibilidade de prorrogação de prazo para correção da irregularidade; 
+i) possibilidade de comunicação da correção da irregularidade. 
+8.3 Da 1ª multa 
+8.3.1 Transcorridos, no mínimo, 60 dias da aplicação da advertência escrita e diante do 
+indeferimento ou não conhecimento de recurso impugnando o Termo de Aplicação de Sanção 
+referente à Advertência Escrita ou da ausência de manifestação do interessado no prazo previsto, 
+presumir-se-á a persistência da irregularidade, sendo lavrado o Termo de Aplicação de Sanção 
+de “1ª Multa”, sem a necessidade de nova vistoria no local. 
+8.3.2 A multa será aplicada considerando os valores descritos na legislação mineira de segurança 
+contra incêndio e pânico.
+
+--- PÁGINA 10 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+10/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+8.3.3 O Termo de Aplicação de Sanção de 1ª Multa deverá conter: 
+a) número do processo e autuação a que se refere; 
+b) conduta infracional conforme Auto de Infração, bem como sua tipificação; 
+c) resposta ao recurso referente à sanção de advertência escrita, caso tenha sido apresentado; 
+d) valor da multa, prazo para pagamento e possibilidade de parcelamento; 
+e) novo prazo para correção das irregularidades constantes no Auto de Infração; 
+f) próximas sanções aplicáveis; 
+g) prazo para recurso da sanção aplicada; 
+h) destinatário do recurso, caso seja interposto; 
+i) possibilidade de prorrogação de prazo para correção da irregularidade; 
+j) possibilidade de comunicação da correção da irregularidade. 
+8.4 Da 2ª multa 
+8.4.1 Transcorridos, no mínimo, 30 dias da aplicação da 1ª multa e diante do indeferimento ou 
+não conhecimento de recurso impugnando o Termo de Aplicação de Sanção referente à 1ª multa 
+ou da ausência de manifestação do interessado no prazo previsto, presumir-se-á a persistência 
+da irregularidade, sendo lavrado o Termo de Aplicação de Sanção de “2ª Multa”, sem a 
+necessidade de nova vistoria no local.  
+8.4.2 A 2ª multa terá o valor dobrado e será cumulativa em relação à 1ª multa aplicada, nos termos 
+da legislação mineira de segurança contra incêndio e pânico. 
+8.4.3 O Termo de Aplicação de Sanção de 2ª Multa deverá conter: 
+a) número do processo e autuação a que se refere; 
+b) conduta infracional conforme Auto de Infração, bem como sua tipificação; 
+c) resposta ao recurso referente à sanção de 1ª multa, caso tenha sido apresentado; 
+d) valor da 2ª multa, prazo para pagamento e possibilidade de parcelamento; 
+e) novo prazo para correção das irregularidades constantes no Auto de Infração; 
+f) próximas sanções aplicáveis; 
+g) prazo para recurso da sanção aplicada; 
+h) destinatário do recurso, caso seja interposto; 
+i) possibilidade de prorrogação de prazo para correção da irregularidade; 
+j) possibilidade de comunicação da correção da irregularidade.
+
+--- PÁGINA 11 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+11/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+8.5 Da Cassação do AVCB e CLCB 
+8.5.1 Transcorridos, no mínimo, 30 dias da aplicação da 2ª multa e diante do indeferimento ou 
+não conhecimento de recurso impugnando o Termo de Aplicação de Sanção referente à 2ª multa 
+ou da ausência de manifestação do interessado no prazo previsto, presumir-se-á a persistência 
+da irregularidade, sendo lavrado o Termo de Aplicação de Sanção de Cassação do AVCB/CLCB, 
+nos casos em que a edificação possua o documento de regularização. 
+8.5.2 O Termo de Aplicação de Sanção de Cassação do AVCB/CLCB deverá conter: 
+a) Número do processo e autuação a que se refere; 
+b) conduta infracional conforme Auto de Infração, bem como sua tipificação; 
+c) resposta ao recurso referente à 2ª multa, caso tenha sido apresentado; 
+d) próximas sanções aplicáveis; 
+e) prazo para recurso da sanção aplicada; 
+f) destinatário do recurso, caso seja interposto; 
+g) possibilidade de prorrogação de prazo para correção da irregularidade; 
+h) possibilidade de comunicação da correção da irregularidade. 
+8.5.3 A efetivação da sanção, após a lavratura do Termo de Aplicação de Sanção, ocorrerá pelo 
+cancelamento do AVCB/CLCB. 
+8.5.3.1 Confirmada a sanção de cassação, a situação do PSCIP será de “AVCB CASSADO”, 
+podendo o responsável técnico realizar a modificação do projeto e/ou solicitar nova vistoria, 
+conforme o caso. 
+8.6 Da não Interdição por ausência de AVCB/CLCB 
+8.6.1 Para fins de aplicação do art. 5º da Lei Estadual nº 14.130/2001 c/c art. 15, § 10 do Decreto 
+Estadual nº 47.998/2020, deverá ser avaliada a existência de risco iminente, aplicando-se, se for 
+o caso, os procedimentos previstos no item 9.2. 
+8.6.2 Não sendo verificada a existência de risco iminente e permanecendo a edificação em 
+situação de irregularidade, os autos do PAF, após a aplicação da sanção de “2ª multa” ou de 
+“Cassação de AVCB/CLCB”, nos casos em que a edificação possua o documento de 
+regularização, serão encaminhados ao Ministério Público por meio de ofício onde se exponha as 
+irregularidades existentes na edificação e as providências adotadas pelo SSCIP. 
+9 DAS SANÇÕES ADMINISTRATIVAS DE APLICAÇÃO IMEDIATA 
+9.1 Embargo 
+9.1.1 Devido a seu caráter excepcional, a sanção de embargo possuirá procedimento próprio. 
+9.1.2 Verificada a construção de edificação ou espaço destinado ao uso coletivo, ou a montagem 
+de estrutura de evento temporário, sem aprovação de PSCIP, nos casos em que este for exigível, 
+será aplicada a sanção de embargo, que poderá ser de obra ou de evento temporário.
+
+--- PÁGINA 12 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+12/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+9.1.2.1 O embargo aplicado em eventos temporários poderá se dar em qualquer momento anterior 
+ao início de sua realização. 
+9.1.2.1.1 Considera-se como início da realização o momento em que é liberado o acesso do 
+público ao local, por meio da abertura de portões ou outro mecanismo equivalente, quando não 
+houver portões. 
+9.1.3 A sanção de embargo também será aplicada quando for verificado que a construção de 
+edificação permanente ou a montagem de estrutura de evento temporário está em desacordo com 
+o PSCIP aprovado. 
+9.1.3.1 O embargo em obras ocorrerá nos seguintes casos: 
+a) obra com área de pavimento superior àquela demonstrada no PSCIP, cuja diferença represente 
+alteração de parâmetros e/ou medidas de segurança contra incêndio e pânico; 
+b) obra com altura superior àquela demonstrada no PSCIP, cuja diferença represente alteração 
+de parâmetros e/ou medidas de segurança contra incêndio e pânico; 
+c) obra cujas escadas destinadas às saídas de emergência não estejam de acordo com o PSCIP 
+aprovado (tipo, quantidade e dimensões) e resultar em alteração nos parâmetros mínimos 
+previstos na IT 08, impactando na capacidade de evacuação; 
+d) obra com características estruturais definitivas distintas daquelas demonstradas no PSCIP; 
+e) obras cujos os elementos de separação entre aberturas não garantam a compartimentação 
+vertical na envoltória da edificação, em conformidade com a IT 07, nos casos em que for exigida. 
+9.1.3.2 O embargo em eventos temporários ocorrerá nos seguintes casos: 
+a) estrutura provisória de evento temporário destinada à recepção de público não prevista no 
+PSCIP; 
+b) supressão ou diminuição da largura de saídas de emergência aprovadas no PSCIP que resultar 
+em alteração nos parâmetros mínimos previstos em norma, impactando na capacidade de 
+evacuação; 
+c) risco específico ou especial em evento temporário não previsto no PSCIP, cuja correção 
+imediata seja inviável; 
+9.1.4 A sanção de embargo consiste na imediata paralisação, total ou parcial, da obra ou da 
+montagem de evento temporário. 
+9.1.4.1 Quando a irregularidade verificada na montagem de evento temporário se referir a 
+estrutura específica, o embargo deverá ser pontual no local irregular, desde que não haja prejuízo 
+à rota de fuga ou à segurança do público ao redor. 
+9.1.4.2 O embargo parcial poderá compreender a área adjacente da estrutura irregular, quando 
+necessário, para salvaguardar o público do evento. 
+9.1.5 A sanção de embargo será materializada com a notificação do proprietário/responsável pelo 
+uso no momento da fiscalização. O interessado poderá solicitar o desembargo por meio de petição 
+fundamentada, observados os itens 9.1.8 e 9.1.9.
+
+--- PÁGINA 13 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+13/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+9.1.5.1 A notificação de embargo deverá conter, no mínimo: 
+a) número de identificação; 
+b) número do REDS; 
+c) número do PAF que originou a sanção; 
+d) nome, domicílio ou endereço do autuado e os números de CNPJ ou CPF; 
+e) descrição clara e precisa do(s) fato(s) constitutivo(s) de infração; 
+f) citação expressa de cada dispositivo legal infringido; 
+g) indicação de que o interessado poderá comunicar, a qualquer momento do processo 
+administrativo, a correção da(s) irregularidade(s), sem prejuízo de eventual sanção aplicada 
+anteriormente; 
+h) local e prazo para protocolo de recurso; 
+i) indicação dos procedimentos necessários para que o interessado possa requerer o 
+desembargo; 
+j) local, data e hora da aplicação da sanção; 
+k) identificação do servidor responsável pela aplicação da sanção; e 
+l) assinatura do infrator ou de seu preposto, sempre que possível; 
+l.1) na hipótese do autuado se negar a assinar a notificação de embargo, o fato deverá ser 
+registrado como observação na própria notificação, não sendo necessária coleta de outras 
+assinaturas. 
+9.1.6 Caso haja descumprimento do Termo de Aplicação de Sanção de Embargo, o fato será 
+comunicado às autoridades policiais competentes, a fim de instruir processos criminais cabíveis; 
+9.1.6.1 O descumprimento do Termo de Aplicação de Sanção de Embargo sujeita o infrator às 
+penalidades previstas no Código Penal Brasileiro nos artigos 1322, 1663, 3304, 3315 e 3366. 
+9.1.7 Da aplicação da sanção de embargo, caberá pedido de desembargo/recurso. 
+9.1.8 Caso o recurso seja deferido ou haja a comunicação e comprovação da correção da 
+irregularidade, a autoridade competente deverá desembargar o local ou estrutura. 
+                                               
+2 Art. 132 - Expor a vida ou a saúde de outrem a perigo direto e iminente: 
+Pena - detenção, de três meses a um ano, se o fato não constitui crime mais grave. 
+ 
+3 Art. 166 - Alterar, sem licença da autoridade competente, o aspecto de local especialmente protegido por lei: 
+Pena - detenção, de um mês a um ano, ou multa. 
+ 
+4 Art. 330 - Desobedecer a ordem legal de funcionário público: 
+Pena - detenção, de quinze dias a seis meses, e multa. 
+ 
+5 Art. 331 - Desacatar funcionário público no exercício da função ou em razão dela: 
+Pena - detenção, de seis meses a dois anos, ou multa. 
+ 
+6 Art. 336 - Rasgar ou, de qualquer forma, inutilizar ou conspurcar edital afixado por ordem de funcionário público; 
+violar ou inutilizar selo ou sinal empregado, por determinação legal ou por ordem de funcionário público, para 
+identificar ou cerrar qualquer objeto: 
+Pena - detenção, de um mês a um ano, ou multa.
+
+--- PÁGINA 14 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+14/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+9.1.9 Também poderá haver o desembargo da edificação mediante requerimento do interessado, 
+acompanhado, obrigatoriamente, de cronograma de apresentação/aprovação do PSCIP e de 
+termo de compromisso, atestando que a obra será executada de acordo com as normas de 
+segurança contra incêndio e pânico. 
+9.1.10 O requerimento de desembargo de que trata o item 9.1.9 se aplica apenas a edificações 
+permanentes (obras) e será protocolado por meio do sistema Infoscip. 
+9.2 Interdição por risco iminente 
+9.2.1 Devido a seu caráter excepcional, a sanção de interdição por risco iminente possuirá 
+procedimento próprio. 
+9.2.2 Verificada situação de risco iminente em edificação, espaço destinado ao uso coletivo ou 
+evento temporário, a qualquer momento, será aplicada a sanção de interdição. 
+9.2.3 A sanção de interdição por risco iminente consiste na imediata paralisação total ou parcial 
+das atividades desenvolvidas em edificação, espaço destinado ao uso coletivo ou evento 
+temporário, devendo o local ser evacuado e lacrado. 
+9.2.3.1 A interdição por risco iminente também poderá se dar de maneira parcial em equipamento, 
+sistemas, estrutura ou objeto que contenha o risco, nos casos em que o restante das atividades 
+desenvolvidas em edificação, espaço destinado ao uso coletivo ou evento temporário possam 
+ocorrer sem risco. 
+9.2.3.2 A interdição também poderá ser aplicada apenas a determinadas atividades/utilizações da 
+edificação, conforme a ocupação exercida. Exemplo: uma edificação que opere como 
+estacionamento (G-2) durante o dia e como boate (F-6) à noite poderá ser interditada 
+exclusivamente em relação à atividade de boate, mantendo-se autorizada a funcionar como 
+estacionamento. 
+9.2.4 A sanção de interdição por risco iminente será materializada com a notificação do 
+proprietário/responsável pelo uso no momento da fiscalização, sendo possibilitado ao interessado 
+solicitar a desinterdição mediante petição fundamentada. 
+9.2.4.1 A notificação de interdição por risco iminente deverá conter, no mínimo: 
+a) número de identificação; 
+b) número do REDS; 
+c) número do PAF que originou a sanção; 
+d) nome, domicílio ou endereço do autuado e os números de CNPJ ou CPF; 
+e) descrição clara e precisa do(s) fato(s) constitutivo(s) de infração; 
+f) citação expressa de cada dispositivo legal infringido; 
+g) indicação de que o interessado poderá comunicar, a qualquer momento do processo 
+administrativo, a correção da(s) irregularidade(s), sem prejuízo de eventual sanção aplicada 
+anteriormente; 
+h) local e prazo para protocolo de recurso;
+
+--- PÁGINA 15 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+15/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+i) indicação dos procedimentos necessários para que o interessado possa requerer o 
+desembargo; 
+j) local, data e hora da aplicação da sanção; 
+k) identificação do servidor responsável pela aplicação da sanção; e 
+l) assinatura do infrator ou de seu preposto, sempre que possível;  
+l.1) na hipótese do autuado se negar a assinar a notificação de interdição, o fato deverá ser 
+registrado como observação na própria notificação, não sendo necessária coleta de outras 
+assinaturas. 
+9.2.5 Caso haja descumprimento do Termo de Aplicação de Sanção de Interdição, o fato será 
+comunicado às autoridades policiais competentes, a fim de instruir processos criminais cabíveis;  
+9.2.5.1 O descumprimento do Termo de Aplicação de Sanção de Interdição sujeita o infrator às 
+penalidades previstas no Código Penal Brasileiro nos artigos 1327, 1668, 3309, 33110 e 33611. 
+9.2.6 Da aplicação da sanção de interdição por risco iminente, caberá pedido de 
+desinterdição/recurso. 
+9.2.7 Caso o recurso seja deferido ou haja a comunicação e comprovação da correção da 
+irregularidade que caracterizou o risco iminente, a autoridade competente deverá desinterditar o 
+local, equipamento, objeto ou estrutura. 
+10 DA ATUALIZAÇÃO DO CRÉDITO ESTADUAL NÃO TRIBUTÁRIO 
+10.1 As multas aplicadas e não pagas até a data de vencimento que possam, ou não, vir a compor 
+a dívida ativa não tributária do Estado, nos termos do art. 39, § 2º, da Lei Federal nº 4.320, de 
+1964, terão a correção monetária e os juros de mora calculados com base na Taxa SELIC.  
+10.1.1 A Taxa SELIC incidirá a partir do momento em que se tornar exigível o crédito, respeitando-
+se os índices legais fixados ou pactuados para o período antecedente à inscrição em dívida ativa. 
+10.1.1.1 Torna-se exigível o crédito a partir do dia seguinte ao vencimento do prazo concedido 
+para o pagamento da multa. 
+11 DA COBRANÇA ADMINISTRATIVA 
+11.1 A multa, cujo pagamento não for realizado no respectivo vencimento, sujeita-se à cobrança 
+administrativa. 
+                                               
+7 Art. 132 - Expor a vida ou a saúde de outrem a perigo direto e iminente: 
+Pena - detenção, de três meses a um ano, se o fato não constitui crime mais grave. 
+ 
+8 Art. 166 - Alterar, sem licença da autoridade competente, o aspecto de local especialmente protegido por lei: 
+Pena - detenção, de um mês a um ano, ou multa. 
+ 
+9 Art. 330 - Desobedecer a ordem legal de funcionário público: 
+Pena - detenção, de quinze dias a seis meses, e multa. 
+ 
+10 Art. 331 - Desacatar funcionário público no exercício da função ou em razão dela: 
+Pena - detenção, de seis meses a dois anos, ou multa. 
+ 
+11 Art. 336 - Rasgar ou, de qualquer forma, inutilizar ou conspurcar edital afixado por ordem de funcionário público; 
+violar ou inutilizar selo ou sinal empregado, por determinação legal ou por ordem de funcionário público, para 
+identificar ou cerrar qualquer objeto: 
+Pena - detenção, de um mês a um ano, ou multa.
+
+--- PÁGINA 16 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+16/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+11.1.1 A cobrança administrativa considerará o(s) valor(es) da(s) multa(s) devidamente 
+corrigido(s) pela taxa SELIC, que incidirá sobre o montante inicial a partir do momento em que o 
+crédito se tornar exigível, nos termos do item 10.1.1.1. 
+11.2 A cobrança administrativa não ultrapassará 30 (trinta) dias contados do vencimento do prazo 
+para pagamento, findos os quais deverá o PAF ser encaminhado, após a certidão de realização 
+da cobrança e não recolhimento do crédito estadual, à Advocacia-Geral do Estado para inscrição 
+em dívida ativa e cobrança.  
+11.3 Os processos administrativos sujeitos à inscrição em dívida ativa serão enviados à 
+Advocacia-Geral do Estado até 90 (noventa) dias antes do término do prazo prescricional do 
+crédito estadual não tributário (multas efetivadas). 
+11.3.1 O prazo prescricional será de 5 (cinco) anos. 
+11.4 O CBMMG atualizará o valor da multa segundo os índices legais fixados ou pactuados antes 
+de encaminhar o processo fiscalizatório para inscrição em dívida ativa. 
+12 DO PARCELAMENTO DA MULTA 
+12.1 A multa poderá ser parcelada, observado o disposto no Decreto Estadual nº 46.668/2014. 
+12.1.1 Para efeito de parcelamento, a multa será atualizada pela taxa SELIC. 
+12.2 Somente poderá ser beneficiário de parcelamento da multa o interessado que não dispuser 
+de condições para liquidar, de uma só vez, o crédito não tributário de sua responsabilidade. 
+12.3 O pedido de parcelamento da multa importa: 
+a) o reconhecimento dos créditos estaduais não tributários nela incluídos, ficando a sua 
+concessão condicionada à renúncia ao direito sobre o qual se fundam ou se fundariam as ações 
+judiciais contestando a exigência; 
+b) a desistência de ações ou embargos à execução fiscal nos autos judiciais respectivos; 
+c) a desistência de impugnações, defesas e recursos apresentados no âmbito administrativo 
+relacionados com a exigência; e 
+d) confissão extrajudicial irrevogável e irretratável do crédito estadual não tributário, nos termos 
+dos artigos 34812, 35313 e 35414 do Código de Processo Civil. 
+12.4 O parcelamento será pago em parcelas mensais, iguais (observado o item 12.6.1) e 
+sucessivas, cuja data de vencimento será o último dia dos meses subsequentes ao do vencimento 
+da entrada prévia. 
+12.5 O montante a parcelar corresponderá ao somatório do valor da multa e dos juros, 
+monetariamente atualizados, sendo deduzida a importância recolhida a título de entrada prévia. 
+                                               
+12 Art. 348 - Se o réu não contestar a ação, o juiz, verificando a inocorrência do efeito da revelia previsto no art. 
+344, ordenará que o autor especifique as provas que pretenda produzir, se ainda não as tiver indicado. 
+ 
+13 Art. 353 - Cumpridas as providências preliminares ou não havendo necessidade delas, o juiz proferirá 
+julgamento conforme o estado do processo, observando o que dispõe o Capítulo X. 
+ 
+14 Art. 354 - Ocorrendo qualquer das hipóteses previstas nos arts. 485 e 487, incisos II e III, o juiz proferirá 
+sentença. 
+Parágrafo único. A decisão a que se refere o caput pode dizer respeito a apenas parcela do processo, caso em 
+que será impugnável por agravo de instrumento.
+
+--- PÁGINA 17 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+17/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+12.6 O valor correspondente a cada parcela, será o resultado da divisão do montante apurado na 
+forma do item 12.5 pelo número de parcelas. 
+12.6.1 Sobre o valor das parcelas incidirão juros moratórios equivalentes à Taxa SELIC, 
+estabelecida pelo Banco Central do Brasil, a partir do primeiro dia do mês subsequente ao do 
+recolhimento da entrada prévia, calculados na data do efetivo pagamento. 
+12.6.2 Os valores da entrada prévia e das parcelas não poderão ser inferiores a R$ 200,00 
+(duzentos reais). 
+12.7 A data do vencimento da entrada prévia será estabelecida pela autoridade concedente, tendo 
+como limite o último dia do mês de implantação do parcelamento. 
+12.7.1 O pagamento da entrada prévia constitui requisito indispensável à efetivação do 
+parcelamento. 
+12.8 O beneficiário poderá promover a liquidação antecipada, total ou parcial, do crédito não 
+tributário parcelado. 
+12.8.1 Para efeito do cálculo do valor a pagar, não haverá incidência de juros de mora sobre o 
+saldo devedor dos juros parcelados, relativamente às parcelas objeto da liquidação antecipada. 
+12.9 A entrada prévia será fixada em percentual não inferior ao de cada parcela e o prazo máximo 
+será de sessenta meses. 
+12.10 O requerimento será protocolizado por meio do sistema Infoscip, acessado em link 
+disponibilizado no Portal do CBMMG na internet: www.bombeiros.mg.gov.br, sendo o pedido 
+deferido eletronicamente pelo sistema após a quitação da entrada prévia. 
+12.11. No caso de crédito estadual não tributário inscrito em dívida ativa, o requerimento será 
+protocolizado na Advocacia Regional do Estado responsável pela cobrança do crédito. 
+12.11.1 Na hipótese de desistência do parcelamento, será imediatamente promovida a 
+reconstituição do saldo devedor, com todos os ônus legais e a restauração dos valores dos 
+acréscimos legais que tenham sido reduzidos. 
+12.11.1.1 Caracteriza a desistência automática do parcelamento o não pagamento: 
+ I - da primeira parcela, até o último dia útil do mês de requerimento do parcelamento; 
+II - de três parcelas, consecutivas ou não; 
+ III - de qualquer parcela, decorridos 90 (noventa) dias do prazo final do parcelamento. 
+12.11.2 Nas hipóteses de desistência do parcelamento, será promovida a apuração do saldo 
+devedor remanescente com todos os ônus legais. 
+12.11.2.1 Apurado o saldo devedor remanescente, será feito o encaminhamento, após os 
+procedimentos relativos à cobrança administrativa, à Advocacia-Geral do Estado para inscrição 
+em dívida ativa. 
+12.11.3  Poderá ser solicitado o reparcelamento do saldo remanescente da dívida uma única vez.
+
+--- PÁGINA 18 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+18/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+12.11.3.1 Na hipótese em que 25% (vinte e cinco por cento) das parcelas tenham sido quitadas, 
+o reparcelamento poderá ser solicitado por até duas vezes. 
+12.11.4 A multa não será reparcelada em prazo superior a 60 (sessenta) meses, contados a partir 
+do vencimento inicial da multa. 
+13 DOS RECURSOS 
+13.1 Da aplicação de qualquer sanção administrativa, caberá, no prazo de 10 (dez) dias, a 
+interposição de recurso ao responsável pela aplicação da sanção, conforme item 5.3, a qual, se 
+não a reconsiderar, deverá encaminhá-la à autoridade superior competente para decidir, 
+observando-se o prazo previsto em 13.7. 
+13.1.1 O prazo para interposição de recurso previsto no item 13.1 será contado a partir da efetiva 
+comunicação do ato processual, conforme previsão do Decreto Estadual n° 46.668/2014. 
+13.2 O recurso será interposto por meio de requerimento fundamentado, facultada ao requerente 
+a juntada dos documentos que julgar convenientes. 
+13.3 O recurso não será conhecido quando interposto: 
+a) fora do prazo; 
+b) perante órgão incompetente; 
+c) por quem não tenha legitimação; 
+d) depois de exaurida a esfera administrativa. 
+13.3.1 O não conhecimento do recurso não impede que a Administração reveja, de ofício, o ato 
+ilegal, desde que não ocorrida preclusão administrativa. 
+13.4 A peça recursal deverá conter, no mínimo: 
+a) o número de identificação do documento formal ao qual diz respeito o recurso; 
+b) o endereço do interessado; 
+c) a formulação do pedido, com exposição dos fatos e dos fundamentos técnicos ou jurídicos; 
+d) a especificação das provas produzidas; 
+e)  no caso de outorga de poderes, procuração original assinada por ambas as partes. 
+13.4.1 Não atendidos os requisitos formais do recurso, o interessado será intimado para promover 
+a correção das falhas, no prazo de 10 (dez) dias, contados do recebimento da intimação.  
+13.5 O recurso será protocolado por meio do sistema Infoscip, acessado em link disponibilizado 
+no Portal do CBMMG na internet: www.bombeiros.mg.gov.br. 
+13.6 Têm legitimidade para interpor recurso: 
+a) a pessoa física ou jurídica que foi autuada, ou, ainda, aquela que assumiu, nos termos do 
+item 6.2.4.2, a responsabilidade pela ação ou omissão que ensejou o PAF; 
+b) o terceiro, cujos direitos e interesses forem afetados pela decisão;  
+c) o Procurador desses, devidamente constituído.
+
+--- PÁGINA 19 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+19/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+13.7 O recurso será decidido no prazo de 30 (trinta) dias corridos, contados do recebimento do 
+processo pela autoridade competente.  
+13.8 O recurso não terá efeito suspensivo. 
+13.8.1 Havendo justo receio de prejuízo ou de difícil ou incerta reparação decorrente da execução, 
+a autoridade recorrida ou a imediatamente superior poderá, de ofício ou a pedido do interessado, 
+em decisão fundamentada, atribuir efeito suspensivo ao recurso. 
+13.9 Não interposto, não conhecido ou indeferido o recurso, a sanção administrativa tornar-se-á 
+definitiva, certificando-se no processo a data da efetivação da sanção. 
+13.10 Deferido o recurso, a sanção administrativa recorrida deixará de ser aplicada, sem prejuízo 
+das sanções aplicadas anteriormente. 
+13.10.1 Havendo deferimento do recurso, o processo de fiscalização será arquivado, sem prejuízo 
+das sanções já aplicadas.  
+13.11 Tendo havido o pagamento da multa anteriormente ao deferimento do recurso, o 
+interessado poderá requerer o ressarcimento do valor pago. 
+13.11.1 O direito de ressarcimento de que trata o subitem anterior refere-se apenas àquela sanção 
+cujo recurso foi deferido, não se estendendo a multas anteriores. 
+14 DISPOSIÇÕES FINAIS 
+14.1 Ao se cadastrar no sistema Infoscip para a realização dos atos processuais de seu interesse, 
+o autuado se manifestará sobre a possibilidade de receber as comunicações dos demais atos 
+processuais por meio do endereço eletrônico cadastrado.  
+14.1.1 As comunicações dos atos processuais posteriores ao Auto de Infração se darão, 
+preferencialmente, através do endereço eletrônico cadastrado no sistema Infoscip. 
+14.2 As comunicações dos atos processuais se darão, alternativamente, por via postal, com aviso 
+de recebimento, sendo consideradas efetivadas na data do recebimento do documento. 
+14.2.1 Para produzir efeitos, a intimação por via postal independe do recebimento pessoal do 
+interessado, bastando que a correspondência seja entregue no endereço constante do auto de 
+infração ou indicado pelo autuado e que o aviso de recebimento retorne ao CBMMG assinado. 
+14.2.2 A comunicação via AR será encaminhada para o endereço da edificação fiscalizada. 
+14.2.2.1 Em eventos temporários, quando o responsável pelo evento for pessoa física, a 
+comunicação será dirigida para o endereço deste. Quando o responsável for pessoa jurídica, a 
+comunicação será encaminhada para o endereço da instituição civil constante nos registros da 
+Receita Federal. 
+14.2.3 Quando o destinatário se encontrar em local ignorado, incerto, inacessível ou ausente do 
+território do Estado, ou quando não for possível a intimação por via postal, inclusive na hipótese 
+de devolução pelos Correios, a comunicação será realizada mediante publicação no Diário Oficial 
+do Estado. 
+14.3 Os prazos previstos nesta IT serão computados em dias corridos.
+
+--- PÁGINA 20 ---
+CBMMG IT 45 – Fiscalização em Edificações, Espaços Destinados ao Uso Coletivo e Eventos Temporários  
+1ª edição 
+ 
+20/20 
+Aprovada pela Portaria n. 78, de 02jul2025, publicada no DOEMG n. 129, ano 133, p. 05. 
+14.3.3 Considerar-se-ão tempestivos, quando eletrônicos, os atos, tanto do CBMMG, quanto os 
+das partes interessadas, realizados antes do encerramento do último dia do prazo, no horário 
+oficial de Brasília. 
+14.4 Casos omissos serão resolvidos pelo Diretor de Atividades Técnicas do CBMMG.

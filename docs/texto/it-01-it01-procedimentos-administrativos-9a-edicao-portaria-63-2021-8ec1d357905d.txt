@@ -1,0 +1,4083 @@
+--- PÁGINA 1 ---
+www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA Nº 01 
+9ª edição 
+PROCEDIMENTOS ADMINISTRATIVOS 
+ 
+Aprovada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+Alterada pela portaria n. 62, de 04jan2021, publicada no DOEMG n. 01, ano 129, p. 04. 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+SUMÁRIO 
+1 - Objetivos 
+2 - Aplicação  
+3 - Referências bibliográficas e normativas 
+4 - Definições  
+5 - Procedimentos para licenciamento, 
+credenciamento e cadastramento 
+6 - Tramitação do PSCIP 
+7 - Autuação e aplicação de sanções 
+administrativas 
+8 - Formulário para Atendimento Técnico 
+(FAT) 
+9 - Prazos 
+10 - Disposições finais 
+ANEXOS 
+A - Medidas de Segurança Contra Incêndio e 
+Pânico para as 
+edificações 
+e 
+espaços 
+destinados ao uso coletivo 
+B - Emissão e renovação do AVCB 
+C - Caracterização do Nível de Risco 
+D - Licenciamento de empresa, edificação ou 
+espaço destinado ao uso coletivo classificados 
+como nível de risco I e II 
+E - Elaboração do PSCIP 
+F - Taxa de Segurança Pública (TSP) 
+G - Procedimentos para galerias comerciais e 
+shopping center
+
+--- PÁGINA 2 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+2/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+1 OBJETIVOS  
+1.1 Estabelecer os tipos e trâmites do Processo de Segurança Contra Incêndio e Pânico (PSCIP) 
+no Corpo de Bombeiros Militar de Minas Gerais (CBMMG).  
+1.2 Definir as medidas de segurança contra incêndio e pânico nas edificações e espaços 
+destinados ao uso coletivo.  
+1.3 Estabelecer critérios para licenciamento de empresas conforme Lei Federal nº 13.874/2019 e 
+Lei Complementar Federal nº 123/2006, definindo os procedimentos de licenciamentos 
+declaratórios no âmbito do CBMMG. 
+1.4 Padronizar o fluxo para análise de Processos de Segurança Contra Incêndio e Pânico e 
+vistorias de edificações e espaços destinados ao uso coletivo em Minas Gerais.  
+1.5 Orientar os profissionais que atuam na elaboração de projetos e execução de obras 
+submetidas à aprovação do Corpo de Bombeiros Militar de Minas Gerais. 
+2 APLICAÇÃO  
+2.1 Edificações e espaços destinados ao uso coletivo do Estado de Minas Gerais.  
+2.2 Atividades exploradas em estabelecimento inócuo ou virtual, que terão regramento próprio. 
+2.3 Edificações que compõem conjunto arquitetônico tombado pelo patrimônio histórico e 
+edificações residenciais unifamiliares que compõem um conjunto arquitetônico tombado pelo 
+patrimônio histórico, no que trata da tramitação do PSCIP. 
+2.3.1 As medidas de segurança dessas edificações serão definidas conforme os critérios de 
+instrução técnica específica.  
+3 REFERÊNCIAS BIBLIOGRÁFICAS E NORMATIVAS  
+Para compreensão desta instrução técnica é necessário consultar as normas seguintes, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las:  
+3.1 Legislação 
+Lei Complementar Federal nº 123/2006 - Institui o Estatuto Nacional da Microempresa e da 
+Empresa de Pequeno Porte.  
+Lei Federal nº 13.425/2017 - Estabelece diretrizes gerais sobre medidas de prevenção e combate 
+a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de público.  
+Lei Federal nº 13.874/2019 - Institui a Declaração de Direitos de Liberdade Econômica. 
+Lei Estadual nº 6.763/1975 - Consolida a legislação tributária do Estado de Minas Gerais.  
+Lei Estadual nº 14.130/2001 - Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais.  
+Lei Estadual nº 14.184/2002 - Dispõe sobre o processo administrativo no âmbito da Administração 
+Pública Estadual.
+
+--- PÁGINA 3 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+3/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+Lei Estadual nº 22.839/2018 - Dispõe sobre a prática de atividades da área de competência do 
+Corpo de Bombeiros Militar de Minas Gerais por voluntários, profissionais e instituições civis e dá 
+outras providências. 
+Decreto Federal nº 10.178/2019 - Regulamenta dispositivos da Lei nº 13.874, de 20 de setembro 
+de 2019, para dispor sobre os critérios e os procedimentos para a classificação de risco de 
+atividade econômica e para fixar o prazo para aprovação tácita. 
+Decreto Estadual nº 38.886/1997 - Aprova o regulamento de taxas estaduais.  
+Decreto Estadual nº 47.222/2017 - Regulamenta a Lei nº 14.184, de 31 de janeiro de 2002, que 
+dispõe sobre o processo administrativo no âmbito da Administração Pública Estadual, quanto ao 
+uso do meio eletrônico para prática de atos e tramitação de processos administrativos pela 
+administração pública, direta, autárquica e fundacional do Poder Executivo. 
+Decreto Estadual nº 47.998/2020 - Regulamenta a Lei nº 14.130/2001. 
+Decreto Estadual nº 48.036/2020 - Regulamenta, no âmbito da Administração Pública do Poder 
+Executivo, dispositivos da Lei Federal nº 13.874, de 20 de setembro de 2019, que tratam da 
+liberdade econômica. 
+Resolução CGSIM nº 51, de 11 de junho de 2019 - Versa sobre a definição de baixo risco para os 
+fins da Medida Provisória nº 881, de 30 de abril de 2019.  
+Resolução CGSIM nº 58, de 12 de agosto de 2020 - Dispõe sobre a classificação de risco das 
+atividades econômicas para fins de prevenção contra incêndio, pânico e emergências e as 
+diretrizes gerais para o licenciamento pelos Corpos de Bombeiros Militares dos Estados e do 
+Distrito Federal. 
+Resolução Comitê Gestor da Redesim-MG nº 1, de 27 de agosto de 2020 - Versa sobre a definição 
+de baixo risco no âmbito dos órgãos indicados da administração pública estadual para fins da Lei 
+Federal nº 13.874, de 20 de setembro de 2019. 
+3.2 Normas 
+Instrução Técnica 02 – Terminologia de Proteção Contra Incêndio e Pânico, CBMMG. 
+Instrução Técnica 03 – Composição do Processo de Segurança Contra Incêndio e Pânico (PSCIP), 
+CBMMG. 
+Instrução Técnica 05 – Separação entre Edificações (Isolamento de Risco), CBMMG. 
+Instrução Técnica 07 – Compartimentação Horizontal e Compartimentação Vertical, CBMMG. 
+Instrução Técnica 16 – Sistema de Proteção por Extintores de Incêndio, CBMMG. 
+Instrução Técnica 17 – Sistema de Hidrantes e Mangotinhos para Combate a Incêndio, CBMMG. 
+Instrução Técnica 23 – Manipulação, Armazenamento, Comercialização e Utilização de Gás 
+Liquefeito de Petróleo (GLP). 
+Instrução Técnica 24 – Comercialização, Distribuição e Utilização de Gás Natural, CBMMG. 
+Instrução Técnica 33 – Eventos Temporários, CBMMG.
+
+--- PÁGINA 4 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+4/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+Instrução Técnica 34 – Cadastramento de Empresas e Responsáveis Técnicos, CBMMG. 
+Instrução Técnica 40 – Adequação de Medidas de Segurança para Edificações, CBMMG. 
+Instrução Técnica 42 – Estabelecimentos Destinados à Restrição de Liberdade, CBMMG. 
+Instrução Técnica 43 – Armazenagem em Silos, CBMMG. 
+Instrução Técnica 44 – Edificações e Instalações de Agronegócio, CBMMG. 
+NBR 13.231 – Proteção contra incêndio em subestações elétricas. 
+NBR 15.661 – Proteção contra incêndio em túneis rodoviários e urbanos. 
+NBR 15.981 – Sistemas de segurança contra incêndio em túneis – Sistemas de sinalização e de 
+comunicação de emergência em túneis. 
+NBR 17.505 – Armazenamento de líquidos inflamáveis e combustíveis - Todas as partes. 
+4 DEFINIÇÕES  
+Para os efeitos desta instrução técnica (IT), aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção Contra Incêndio e Pânico), além das definições existentes nas demais 
+instruções técnicas e no Decreto Estadual nº 47.998/2020.  
+5 PROCEDIMENTOS PARA LICENCIAMENTO, CREDENCIAMENTO E CADASTRAMENTO 
+5.1 Os níveis de risco serão classificados, conforme critérios e condicionantes previstos 
+no Anexo C desta IT, da seguinte forma: 
+a) nível de risco I - para os casos de risco leve, irrelevante ou inexistente; 
+b) nível de risco II - para os casos de risco moderado; 
+c) nível de risco III - para os casos de risco alto. 
+5.2 Licenciamento de edificação, espaço destinado ao uso coletivo e empresas junto ao 
+Serviço de Segurança Contra Incêndio e Pânico (SSCIP) 
+5.2.1 O licenciamento junto ao SSCIP é o procedimento administrativo para se obter: 
+a) Certificado de Funcionamento Provisório, por meio de procedimento declaratório (licenciamento 
+declaratório); 
+b) Auto de Vistoria do Corpo de Bombeiros (AVCB), por meio do Processo de Segurança Contra 
+Incêndio e Pânico (PSCIP). 
+5.2.2 A definição da forma de licenciamento considera o nível de risco da edificação, espaço 
+destinado ao uso coletivo ou da empresa, quanto à segurança contra incêndio e pânico, mediante 
+informações fornecidas ao CBMMG, sendo emitido licenciamento provisório ou AVCB, conforme 
+o caso. 
+5.2.3 As edificações, espaços destinados ao uso coletivo e empresas classificados como nível de 
+risco I estão dispensados do licenciamento junto ao Serviço de Segurança Contra Incêndio e
+
+--- PÁGINA 5 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+5/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+Pânico (SSCIP), sem prejuízo das obrigações de instalação de medidas preventivas previstas 
+nesta IT. 
+5.2.4 As edificações, espaços destinados ao uso coletivo e empresas classificados como nível de 
+risco II poderão obter licenciamento provisório através de procedimento declaratório conforme 
+Anexo D desta IT. 
+5.2.5 O licenciamento de eventos temporários será obtido conforme os critérios estabelecidos na 
+IT 33 (Eventos Temporários).  
+5.2.6 Os espaços E-3/F-3 descobertos, tais como quadras esportivas, campos de futebol, piscinas, 
+e pistas de patinação/skate, cercadas ou não, destinadas exclusivamente à prática esportiva (não 
+utilizados para outros eventos), sem previsão de reunião de público (espectadores) sobre 
+estruturas provisórias ou permanentes, e que não sejam áreas de risco contíguas de outras 
+edificações, estão dispensadas do licenciamento junto ao CBMMG.  
+5.2.6.1 Nos casos em que esses espaços forem cercados, deverá haver saídas de emergência 
+compatíveis com a população que utilizará a área.  
+5.3 Processo de Segurança Contra Incêndio e Pânico (PSCIP) 
+5.3.1 O PSCIP será obrigatório para edificações ou espaços destinado ao uso coletivo, 
+classificados como nível de risco II e III, por ocasião da:  
+a) regularização de edificações ou espaços destinados ao uso coletivo construídos ou a construir;  
+b) ampliação de área construída;  
+c) mudança da ocupação ou uso;  
+d) modificação das medidas de segurança contra incêndio e pânico;  
+e) modificação de PSCIP aprovado;  
+f) realização de evento temporário; 
+g) licenciamento de empresa, quando necessário. 
+5.3.2 Os serviços prestados pelo SSCIP estão disponíveis no Sistema de Informações do Serviço 
+de Segurança Contra Incêndio e Pânico (Infoscip) e seguem os procedimentos definidos no 
+manual do usuário, disponível em: www.prevencaobombeiros.mg.gov.br.  
+5.4 Tipos de PSCIP  
+5.4.1 Projeto Técnico (PT) 
+5.4.1.1 Destinado à regularização de edificação e espaço destinado ao uso coletivo quando 
+apresentarem qualquer uma das seguintes características: 
+a) edificação com altura superior a 12 (doze) metros;  
+b) edificações com área total superior a 1.200 (mil e duzentos) m², no caso de ocupação 
+exclusivamente residencial; 
+c) edificações e espaços destinados ao uso coletivo com área total superior a 930 (novecentos e 
+trinta) m², no caso das demais ocupações, exceto agronegócio (ocupação M-8);
+
+--- PÁGINA 6 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+6/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+d) quando houver projeção de sistema hidráulico de combate a incêndio (hidrantes, chuveiros 
+automáticos, nebulizadores, CO2, etc.); 
+e) onde seja apresentada separação entre edificações, conforme os critérios da IT 05 (Separação 
+entre edificações). 
+5.4.1.2 O PT deverá ser apresentado para análise e, após a sua aprovação e execução, será 
+submetido à vistoria para fins de emissão de AVCB.  
+5.4.2 Projeto Técnico Simplificado (PTS) 
+5.4.2.1 Destinado à regularização de edificação e espaço destinado ao uso coletivo classificados 
+como nível de risco II ou III, quando não se enquadrarem nos requisitos para PT. 
+5.4.2.2 O PTS não será submetido à análise, devendo, após a sua execução, ser vistoriado para 
+fins de emissão de AVCB.  
+5.4.3 Projeto Técnico para Evento Temporário (PET)  
+5.4.3.1 O PSCIP de evento temporário deverá atender aos requisitos definidos na IT 33 (Eventos 
+Temporários).  
+5.4.3.2 Não será permitido o protocolo de PET para eventos realizados em edificações ou espaços 
+destinados ao uso coletivo liberados para o mesmo fim, devendo possuir apenas o AVCB, exceto 
+quando as adaptações prejudicarem a eficiência das medidas de segurança ou quando a 
+população prevista para o evento for superior àquela indicada no AVCB, ocasião em que se torna 
+obrigatória a regularização do evento mediante PET. 
+5.5 Credenciamento de pessoas físicas e jurídicas que desenvolvam atividades na área de 
+competência do CBMMG 
+5.5.1 As atividades desenvolvidas por pessoas físicas e jurídicas na área de competência do 
+CBMMG, nos termos do art. 2º da Lei Estadual nº 22.839/2018, são classificadas como nível de 
+risco III, conforme previsto no Anexo C, e, portanto, deverão ser credenciadas no CBMMG, 
+conforme exigências da legislação específica.  
+5.6 Cadastramento de pessoas físicas ou jurídicas responsáveis pela comercialização, 
+instalação, manutenção e conservação de aparelhos de prevenção contra incêndio e pânico 
+5.6.1 As atividades desenvolvidas por pessoas físicas e jurídicas responsáveis pela 
+comercialização, instalação, manutenção e conservação de aparelhos de prevenção contra 
+incêndio e pânico são classificadas como nível de risco III, conforme previsto no Anexo C, 
+devendo ser cadastradas no CBMMG, nos termos do art. 7º da Lei 14.130/2001 e art. 12 do 
+Decreto Estadual 47.998/2020, observados os critérios da IT 34 (Cadastramento de Empresas e 
+Responsáveis Técnicos).  
+6 TRAMITAÇÃO DO PSCIP  
+6.1 Apresentação do PSCIP 
+6.1.1 O PSCIP será protocolado e tramitará no CBMMG por meio do Infoscip, com as informações 
+e arquivos previstos na IT 03 (Composição do Processo de Segurança Contra Incêndio e Pânico). 
+6.1.1.1 
+O 
+acesso 
+ao 
+Infoscip 
+será 
+realizado 
+por 
+meio 
+do 
+endereço 
+eletrônico 
+www.prevencaobombeiros.mg.gov.br ou por link disponibilizado na página inicial do sítio oficial do 
+CBMMG na internet, disponível em www.bombeiros.mg.gov.br.
+
+--- PÁGINA 7 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+7/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+6.1.1.2 O Infoscip possui ambiente restrito (assistente de produção de projetos), acessado 
+mediante login e senha pessoais após validação junto ao Conselho Regional de Engenharia e 
+Agronomia de Minas Gerais (CREA-MG) ou junto ao Conselho de Arquitetura e Urbanismo do 
+Brasil (CAU/BR). 
+6.1.1.2.1 Por meio do cadastro de proprietário, o Infoscip também poderá ser acessado pelo 
+responsável legal pela edificação, que terá acesso a um ambiente de consulta de informações e 
+interposição de recursos. 
+6.1.2 O PSCIP poderá tramitar em formato impresso, na Unidade do CBMMG responsável pelo 
+município onde se localiza a edificação ou espaço destinado ao uso coletivo, nas seguintes 
+situações: 
+a) Processos em tramitação de análise ou vistoria protocolados antes da instalação do Infoscip na 
+localidade, até a emissão do primeiro AVCB; 
+b) Vistoria de PSCIP aprovado na forma impressa; 
+c) Modificação de PT impresso que tenha sido notificado em vistoria para fins de emissão de 
+AVCB.  
+6.1.2.1 Ocorrerá a migração do PSCIP impresso para PSCIP digital nas seguintes situações: 
+a) PSCIP impresso aprovado ou aprovado e liberado, para fins de modificação; 
+b) PSCIP impresso aprovado e liberado em vistoria, para fins de emissão do AVCB; 
+c) Renovação de AVCB de PSCIP impresso; 
+d) Alteração de dados cadastrais de PSCIP impresso nas situações "AVCB" ou "AVCB vencido". 
+6.1.2.1.1 Na situação de PSCIP impresso aprovado e liberado em vistoria, o AVCB será emitido 
+nato-digital após a migração.  
+6.1.3 O PSCIP será apresentado para um único endereço, sendo facultada a apresentação de 
+PSCIPs separados para o mesmo endereço (endereço comum) nas seguintes situações: 
+a) para edificações ou espaços destinados ao uso coletivo classificados como Galerias Comerciais 
+(C2) e Shopping Centers (C3), observados os procedimentos constantes no Anexo G; 
+b) para cada edificação de uma mesma propriedade (lote/terreno) onde exista separação entre as 
+edificações, conforme os critérios da IT 05. 
+6.1.3.1 Havendo qualquer tipo de comunicação (interligação por área coberta) entre edificações, 
+compartilhamento e/ou vinculação de elementos estruturais, será necessária a apresentação de 
+PSCIP único, ainda que as edificações estejam situadas em propriedades (lote/terreno) distintas. 
+6.1.4 É permitida a projeção de medidas de segurança contra incêndio e pânico interligadas em 
+edificações distintas, desde que contidas em um PSCIP único. 
+6.1.5 Cada PSCIP será representado por um Responsável Técnico (RT), sendo este competente 
+para qualquer tramitação junto ao CBMMG, podendo o RT ser substituído a pedido próprio ou do 
+proprietário, responsável pelo uso ou representante legal.
+
+--- PÁGINA 8 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+8/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+6.1.5.1 Nos casos de PSCIP aprovado ou tramitando para regularização de edificação ou espaço 
+destinado ao uso coletivo em que houver substituição de responsável técnico, deverá ser juntado 
+ao processo (impresso ou digital) termo/declaração constando os dados do profissional substituído 
+e do profissional substituto, bem como o documento de responsabilidade técnica do profissional 
+substituto, registrado junto ao respectivo conselho profissional. 
+6.1.5.2 O termo/declaração deverá ser assinado pelo proprietário ou responsável pelo uso.  
+6.1.5.3 As relações contratuais não são objeto de fiscalização pelo CBMMG.  
+6.1.6 Após apresentação do PSCIP, este passa a compor o acervo do CBMMG, tendo em vista o 
+interesse público das informações nele contidas, sendo utilizado exclusivamente na tramitação 
+com fins de regularização, nas fiscalizações e na orientação de equipes de segurança durante 
+serviços operacionais. 
+6.2 Aprovação do PSCIP  
+6.2.1 O PSCIP (PT ou PET) será analisado pelo CBMMG em setor específico após apresentação, 
+para fins de aprovação. 
+6.2.1.1 As informações e documentos exigidos para análise do PSCIP são aqueles previstos na 
+IT 03 (Composição do Processo de Segurança contra Incêndio e Pânico), considerando as 
+medidas de segurança e os riscos existentes em cada edificação ou espaço destinado ao uso 
+coletivo, sendo objeto de notificação eventual ausência ou irregularidade nas informações e 
+documentos apresentados, tendo em vista os parâmetros exigidos. 
+6.2.1.2 Constatado pelo CBMMG que o PSCIP atende à legislação de Segurança Contra Incêndio 
+e Pânico, este receberá aprovação, cabendo, então, a execução das medidas de segurança e a 
+solicitação de vistoria para fins de emissão de AVCB. 
+6.2.1.3 A aprovação do PSCIP assegura o atendimento da legislação então vigente por 10 (dez) 
+anos, para fins de obtenção de AVCB. 
+6.2.1.3.1 Após esse prazo, caso tenha havido atualização da legislação que implique em alteração 
+de exigências, o PSCIP deverá ser adequado conforme normas em vigor, sendo necessária a 
+substituição do PSCIP e submissão a nova análise para aprovação e posterior vistoria para 
+emissão de AVCB. 
+6.2.1.3.2 A validade da aprovação do PSCIP será prorrogada enquanto não houver atualização 
+da legislação que implique em acréscimo de medidas de segurança ou majoração de seus 
+parâmetros. 
+6.2.1.3.3 No caso de edificação ‘a construir’, poderá ser solicitada a renovação da validade de 
+aprovação do PSCIP, por igual período, caso a obra tenha se iniciado na vigência do prazo inicial. 
+No caso de edificação 'construída', a renovação da validade de aprovação do PSCIP, por igual 
+período, poderá ser solicitada caso a execução dos sistemas preventivos tenha se iniciado na 
+vigência do prazo inicial. 
+6.2.1.3.4 A solicitação de que trata o subitem anterior deverá ser realizada por meio de Formulário 
+para Atendimento Técnico (FAT) junto ao PSCIP, acompanhado de documentos que comprovem 
+a alegação, sendo direcionada à unidade responsável, que, verificando que o início das obras ou 
+da execução dos sistemas preventivos se deu na vigência do prazo inicial, constará no PSCIP, 
+em resposta ao FAT, o deferimento da prorrogação do prazo.
+
+--- PÁGINA 9 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+9/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+6.2.1.4 O PSCIP aprovado deverá ser executado por responsáveis técnicos devidamente 
+cadastrados, conforme IT 34 (Cadastramento de Empresas e Responsáveis Técnicos), com o fiel 
+cumprimento ao projetado. 
+6.2.2 Verificado, em análise, que ocorreram falhas na elaboração do PSCIP, a documentação será 
+devolvida ao interessado, na forma de notificação, com a capitulação do(s) item(s) que motivaram 
+o indeferimento da aprovação para as devidas correções.  
+6.2.3 O PSCIP aprovado que receber substituição de documentos ou alteração que implique em 
+mudança de plantas será substituído e submetido a nova análise. 
+6.2.3.1 O PSCIP impresso na situação "Aprovado" deverá ser migrado para PSCIP digital para 
+fins de modificação, desde que não tenha sido notificado em vistoria.  
+6.2.3.2 O PSCIP impresso não será atualizado, devendo nestes casos: 
+a) se nas situações “Aprovado”, “AVCB” ou “AVCB Vencido”, deverá ser migrado para o Infoscip 
+e, posteriormente, ter solicitada a atualização de dados cadastrais; 
+b) em qualquer outra situação, deverá ser mantida a tramitação no formato impresso até que haja 
+a migração para o Infoscip e, posteriormente, ter solicitada a atualização de dados cadastrais. 
+6.3 Vistoria para fins de emissão de AVCB 
+6.3.1 A solicitação de vistoria para fins de emissão de AVCB será realizada nas seguintes 
+situações: 
+a) PSCIP (PTS) que contenha as informações e documentos previstos na IT 03 (Composição do 
+Processo de Segurança Contra Incêndio e Pânico); 
+b) PSCIP (PT e PET) que tenha obtido a aprovação e que contenha as informações e documentos 
+previstos na IT 03 (Composição do Processo de Segurança Contra Incêndio e Pânico). 
+6.3.2 A solicitação de vistoria poderá ser cancelada pelo interessado mediante justificativa 
+protocolada por meio de Formulário para Atendimento Técnico (FAT) ou solicitada diretamente na 
+unidade responsável pela vistoria. 
+6.3.3 A solicitação de vistoria poderá ser: 
+a) total: quando toda a área da edificação ou espaço destinado ao uso coletivo for vistoriada por 
+meio de uma única solicitação de vistoria; 
+b) parcial: quando partes da edificação ou espaço destinado ao uso coletivo forem vistoriadas em 
+momentos distintos por meios de duas ou mais solicitações de vistoria. 
+6.3.3.1 A área vistoriada e liberada, seja parcial ou total, terá a denominação "área liberada pelo 
+CBMMG". 
+6.3.3.2 O solicitante deverá informar a área a ser vistoriada quando da solicitação da vistoria. 
+6.3.4 Poderá ser solicitada vistoria parcial para as edificações já construídas ou para as 
+edificações em construção, desde que: 
+a) a edificação construída atenda ao menos uma das seguintes condições:
+
+--- PÁGINA 10 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+10/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+a.1) a área a ser liberada parcialmente seja isolada, conforme parâmetros da IT 05 (Separação 
+entre edificações), ou; 
+a.2) a área a ser liberada parcialmente possua saída independente e esteja compartimentada 
+horizontal e verticalmente da área não liberada, com a devida representação em planta ou em 
+laudo técnico, conforme parâmetros da IT 07 (Compartimentação Horizontal e Compartimentação 
+Vertical); 
+b) a edificação em construção atenda, concomitantemente, às seguintes condições: 
+b.1) a área em obras não esteja ocupada; e 
+b.2) a área em obras não interfira nas rotas de fuga. 
+6.3.4.1 A área a ser liberada parcialmente deverá possuir medidas de segurança dimensionadas 
+em função da somatória da área para a qual se pretende obter o AVCB parcial (área já liberada 
+pelo CBMMG, se houver, somada à área a ser vistoriada) e da altura em que se situa. 
+6.3.4.2 Nos casos em que a área para a qual se pretende obter o AVCB parcial for inferior àquela 
+para a qual se exige medidas de segurança hidráulicas ou controle de fumaça, e essas medidas 
+forem exigidas para toda a edificação (considerando a área total), deverá haver instalação dos 
+pontos de tomada d’água, tubulações, aberturas e dutos referentes a esses sistemas na área onde 
+for solicitada a vistoria parcial.  
+6.3.4.2.1 Configurada a situação do item 6.3.4.2, as medidas de segurança hidráulicas ou controle 
+de fumaça não necessitam estar em funcionamento, exceto quando exigidas em função da altura.  
+6.3.5 A vistoria será realizada considerando a data de solicitação, podendo o prazo para a sua 
+execução ser alterado em caso de necessidade ou dificuldade de agendamento. 
+6.3.5.1 A realização de vistoria em eventos temporários será condicionada à data de realização 
+do evento, conforme os critérios previstos na IT 33 (Eventos Temporários). 
+6.3.5.2 A vistoria para fins de emissão de AVCB em edificação ou espaço destinado ao uso coletivo 
+que possua área liberada pelo CBMMG ocorrerá da seguinte forma: 
+a) a área liberada pelo CBMMG não estará disponível como área a ser vistoriada, exceto quando 
+nela houver modificação;  
+b) quando for verificado, no pedido de vistoria parcial, que a somatória da(s) área(s) já liberada(s) 
+pelo CBMMG e da área a ser vistoriada atingiu o valor para exigência de medidas de segurança 
+ainda não implantadas, a edificação deverá ser autuada em vistoria de fiscalização, devendo a 
+nova vistoria para fins de emissão de AVCB ser realizada somente após a execução das 
+respectivas medidas; 
+c) no ato da vistoria, a critério do Chefe do SSCIP local, a área já liberada pelo CBMMG poderá 
+ser fiscalizada; 
+d) caso seja verificada irregularidade na área já liberada pelo CBMMG, a edificação será autuada 
+em vistoria de fiscalização, devendo o novo AVCB ser concedido somente após a correção da 
+irregularidade; 
+e) havendo “AVCB vencido” referente à área liberada pelo CBMMG, será necessária a 
+apresentação de Laudo de Renovação, acompanhado do documento de responsabilidade técnica 
+registrado junto ao respectivo órgão profissional.
+
+--- PÁGINA 11 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+11/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+6.3.6 O responsável pela edificação ou espaço destinado ao uso coletivo a ser vistoriado deverá 
+manter pessoa habilitada com conhecimento do funcionamento das medidas de segurança, 
+quando da realização da vistoria, para a execução de testes nas medidas: 
+a) Hidrantes e mangotinhos; 
+b) Chuveiros automáticos; 
+c) Sistema fixo de gases; 
+d) Sistema de proteção por espuma; 
+e) Sistema de resfriamento; 
+f) Controle de fumaça mecânico/combinado; 
+g) Sistema alarme de incêndio; 
+h) Sistema de detecção de incêndio; 
+i) Escada pressurizada; 
+j) Elevador de emergência; 
+k) Outros sistemas automáticos ou automatizados. 
+6.3.7 O AVCB será emitido após a realização da vistoria, observando-se os procedimentos 
+previstos no Anexo B desta IT, caso seja constatado que as medidas de segurança foram 
+executadas conforme a legislação de segurança contra incêndio e pânico. 
+6.3.8 Constatado em vistoria que as medidas de segurança não atendem à legislação, será emitido 
+o relatório de Registro de Evento de Defesa Social (REDS) com as irregularidades constatadas 
+em vistoria. Neste caso, não será emitido o AVCB até a correção dos itens que se encontravam 
+irregulares. 
+6.3.8.1 O vistoriador ou o setor próprio do CBMMG informará o número do REDS ao responsável 
+pela edificação ou espaço destinado ao uso coletivo. 
+6.3.8.2 O vistoriador deverá especificar no REDS a área notificada. 
+6.3.8.3 Após as correções das irregularidades, deverá ser solicitada nova vistoria com o devido 
+pagamento da Taxa de Segurança Pública (TSP), equivalente à área notificada. 
+6.4 Modificação de PSCIP 
+6.4.1 Qualquer alteração na edificação ou espaço destinado ao uso coletivo que possua PSCIP 
+aprovado ou AVCB, que comprometa os sistemas aprovados e a segurança dos usuários, obrigará 
+o proprietário a apresentar modificação de PSCIP. 
+6.4.2 A modificação de PSCIP também será obrigatória por ocasião de: 
+a) acréscimo ou decréscimo de área; 
+b) mudança de ocupação;
+
+--- PÁGINA 12 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+12/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+c) substituição de documentos que implique em alteração das medidas de segurança. 
+6.4.3 O RT, em caso de modificação de PSCIP, deverá apresentar para análise o arquivo DWG 
+contendo todas as plantas, incluindo aquelas que não sofreram alteração, além dos demais 
+documentos obrigatórios do PSCIP. 
+6.4.3.1 O RT deverá especificar, em campo próprio do Infoscip, de forma pormenorizada, as 
+modificações realizadas em relação ao PSCIP anteriormente aprovado, podendo, também, no 
+arquivo DWG, indicar os locais onde houve a mudança através de círculos, balões ou nuvens. 
+6.4.4 Durante a análise do PSCIP modificado, serão observados os seguintes preceitos: 
+a) a análise da modificação será direcionada às áreas e documentos modificados, com base no 
+detalhamento das modificações apresentado pelo RT; 
+b) a análise da modificação não impede o analista de avaliar critérios e parâmetros aprovados 
+anteriormente, quando constatada irregularidade ou alteração não discriminada pelo RT. 
+6.4.5 Após aprovação da modificação do PSCIP, deverá ser solicitada vistoria para emissão de 
+AVCB, constando, no pedido, apenas as áreas que sofreram alteração. 
+6.5 Parecer de Corpo Técnico (CT) no PSCIP 
+6.5.1 O Corpo Técnico poderá ser acionado nas fases de Análise, Vistoria, Reconsideração de Ato 
+(RDA) e recursos para emitir parecer sobre impossibilidade técnica, ausência de normas, omissão 
+de regras gerais e específicas e casos especiais. 
+6.5.1.1 A dúvida técnica apresentada pelo interessado (RT), após esgotada a capacidade de 
+resposta da Unidade, nos termos do item 8.2.3, poderá ser encaminhada ao Corpo Técnico. 
+6.5.2 Não haverá, em PTS, solicitação de parecer de Corpo Técnico para tratar dos casos de 
+impossibilidade técnica em edificações abrangidas pela IT 40, devendo os casos de adaptação de 
+medidas, sob responsabilidade do RT e devidamente indicados e justificados no PSCIP, ser 
+verificados em vistoria. 
+6.5.3 Quando da solicitação de parecer de CT pelo analista/vistoriador, e este servir de base para 
+notificação em análise/vistoria, o interessado (RT) poderá solicitar nova avaliação pelo CT desde 
+que apresente argumentos técnicos que justifiquem tal solicitação, ocasião em que poderá ser 
+apresentado novo laudo técnico, se necessário. 
+6.5.4 O acionamento do CT deverá ser justificado com a motivação e a documentação necessária 
+a embasar a solicitação do parecer. 
+6.5.4.1 Os casos de impossibilidade técnica que forem remetidos ao CT deverão atender ao 
+previsto na IT 40. 
+6.5.5 Nos casos previstos na legislação, o Corpo Técnico do CBMMG será competente para 
+modificar, ampliar ou adaptar parâmetros e medidas de segurança a serem exigidas das 
+edificações e espaços destinados ao uso coletivo.  
+6.5.6 Além de literatura internacional consagrada, o Corpo Técnico poderá utilizar legislação de 
+outros Estados, bem como pesquisas e estudos nacionais, para fundamentar a emissão de 
+parecer.
+
+--- PÁGINA 13 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+13/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+6.6 Reconsideração de ato (RDA) e recursos   
+6.6.1 Quando houver discordância do ato administrativo, referente à análise de PSCIP e vistoria 
+para fins de emissão de AVCB, o interessado poderá apresentar pedido de reconsideração de ato 
+à autoridade que o tenha praticado.  
+6.6.1.1 O pedido de reconsideração de ato ao analista/vistoriador deverá abordar apenas o mérito 
+relativo à discordância e será protocolado em campo próprio do Infoscip. 
+6.6.1.2 As demais correções do projeto, quando houver, deverão ser protocoladas para análise 
+somente após a resposta ao pedido de RDA. 
+6.6.2 Do indeferimento do pedido de reconsideração de ato previsto no item 6.6.1 ou na 
+impossibilidade de ser avaliado pelo militar responsável pela notificação, caberá recurso: 
+a) se referente à análise do PSCIP, ao Chefe do Centro de Atividades Técnicas; 
+b) se referente à vistoria para fins de emissão de AVCB: 
+b.1) ao Chefe do Centro de Atividades Técnicas, se a edificação estiver localizada na RMBH ou 
+conforme articulação vigente; 
+b.2) ao Comandante do Batalhão ou Companhia Independente a que pertence o militar que 
+praticou o ato, nos demais casos. 
+6.6.3 Caberá recurso ao Diretor de Atividades Técnicas do CBMMG, no caso de indeferimento do 
+recurso previsto no item 6.6.2.  
+6.6.4 Não cabe pedido de RDA sobre decisão de recurso em qualquer instância.  
+6.7 Anulação de atos 
+6.7.1 Constatado vício de legalidade no procedimento que subsidiou a aprovação do PSCIP ou a 
+emissão do AVCB, o ato poderá ser anulado, mediante processo administrativo que garanta o 
+contraditório e a ampla defesa ao interessado. 
+6.7.1.1 Caso o vício de legalidade seja decorrente de informação prestada pelo interessado em 
+procedimento meramente declaratório, o ato será prontamente anulado, por meio de registro em 
+REDS, sem prejuízo das medidas judiciais cabíveis. 
+6.7.2 São circunstâncias ensejadoras da abertura do processo de anulação da aprovação do 
+PSCIP ou da emissão do AVCB: 
+a) PSCIP aprovado ou executado por RT sem a atribuição técnica exigida pelo respectivo conselho 
+profissional; 
+b) PSCIP aprovado ou liberado por militar sem a competência para fazê-lo; 
+c) PSCIP aprovado ou liberado sem medida preventiva obrigatória ou com medida preventiva 
+obrigatória executada em desacordo com a norma, observada a legislação em vigor na data da 
+aprovação/liberação; 
+d) Aprovação de PSCIP ou liberação para edificação existente cuja documentação comprobatória 
+seja inverídica, nos casos em que a edificação tenha se beneficiado dessa condição;
+
+--- PÁGINA 14 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+14/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+e) PSCIP aprovado ou liberado em decorrência de ato administrativo que se apure ilegal ou 
+ilegítimo; 
+f) AVCB de evento temporário onde tenha ocorrido modificação de leiaute, superlotação ou 
+incremento de risco; 
+g) Determinado de ofício. 
+6.7.3 O processo de anulação será instaurado para verificar os pressupostos de legitimidade e 
+legalidade, estando o PSCIP aprovado em análise ou liberado em vistoria (AVCB). 
+6.7.3.1 Não havendo lesão do interesse público nem prejuízo para terceiros, os atos que 
+apresentarem defeito sanável serão convalidados pela Administração, evitando-se, neste caso, 
+sua anulação. 
+6.7.3.2 Nova interpretação de norma técnica ou administrativa não será fundamento para anulação 
+do ato de aprovação do PSCIP ou de emissão de AVCB. 
+6.7.4 O proprietário, responsável pelo uso ou o representante legal serão notificados da abertura 
+do processo administrativo de anulação da aprovação do PSCIP ou da emissão do AVCB. 
+6.7.5 A partir da notificação da abertura do processo de anulação, haverá prazo de 30 (trinta) dias 
+para manifestação de defesa. 
+6.7.6 A conclusão do processo administrativo será publicada nos e-mails dos interessados. 
+6.7.7 Concluído o processo pela anulação do ato, caberá recurso, a ser apresentado no prazo de 
+30 (trinta) dias. 
+6.7.7.1 O recurso não será conhecido quando interposto: 
+a) fora do prazo; 
+b) perante órgão incompetente; 
+c) por pessoa diferente do proprietário, responsável pelo uso, representante legal ou responsável 
+técnico; 
+d) depois de exaurida a esfera administrativa. 
+6.7.8 Confirmada a anulação do ato, a situação do PSCIP retorna, em sua sequência de atos 
+praticados, à primeira situação perfeita ou passível de convalidação. 
+6.7.9 Norma específica disciplinará os demais prazos e procedimentos do processo de anulação 
+de atos de aprovação de PSCIP ou de emissão de AVCB. 
+7 AUTUAÇÃO E APLICAÇÃO DE SANÇÕES ADMINISTRATIVAS  
+7.1 Constatado em vistoria de fiscalização o cometimento das infrações previstas na Lei Estadual 
+nº 14.130/2001 e/ou no Decreto Estadual nº 47.998/2020, o proprietário ou responsável pelo uso 
+da edificação, espaço destinado ao uso coletivo ou evento será autuado, podendo ser aplicadas 
+as seguintes sanções administrativas: 
+a) Advertência escrita;
+
+--- PÁGINA 15 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+15/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+b) Multa; 
+c) Cassação de AVCB; 
+d) Embargo; 
+e) Interdição. 
+7.1.1 Havendo edificação com AVCB parcial e estando a área liberada regular, a autuação 
+especificará apenas a área irregular da edificação. 
+7.2 Será aplicada a sanção de advertência escrita em decorrência da autuação realizada na 
+primeira vistoria. 
+7.3 Passados 60 (sessenta) dias após a formalização da advertência escrita, persistindo a conduta 
+infracional, será aplicada multa. 
+7.4 Persistindo a conduta infracional após 30 (trinta) dias da aplicação da primeira multa, nova 
+multa será aplicada em dobro e cumulativamente. 
+7.5 Persistindo a infração após 30 (trinta) dias da aplicação da segunda multa, será aplicada a 
+sanção de cassação do AVCB. 
+7.6 A edificação que, não possuindo AVCB, permanecer em situação de irregularidade 30 (trinta) 
+dias após a aplicação da segunda multa, poderá ser interditada pelo Serviço de Segurança Contra 
+Incêndio e Pânico do CBMMG. 
+7.7 A edificação que tiver seu AVCB cassado poderá ser interditada nos termos do item 7.6, sem 
+necessidade de novo processo de fiscalização. 
+7.8 Além das hipóteses previstas nos itens 7.6 e 7.7, a pena de interdição será aplicada sempre 
+que houver situação de risco iminente devidamente fundamentado, podendo ser total ou parcial. 
+7.9 A sanção de embargo será aplicada sempre que for verificada a execução de obra ou a 
+montagem de estrutura de evento temporário ou construção provisória sem aprovação de PSCIP, 
+nos casos em que este for exigível, ou em desacordo com o PSCIP aprovado. 
+7.10 Da aplicação de todas as sanções administrativas, caberá recurso: 
+a) ao Chefe do Centro de Atividades Técnicas, se a edificação estiver localizada na RMBH ou 
+conforme articulação vigente; 
+b) ao Comandante do Batalhão ou Companhia Independente a que pertence o militar que praticou 
+o ato, nos demais casos. 
+7.11 Na impossibilidade do cumprimento dos prazos para sanar as irregularidades, o responsável 
+técnico, proprietário ou representante legal poderão requerer, mediante petição fundamentada, a 
+prorrogação de prazo para adequação da edificação ou espaço destinado ao uso coletivo, 
+observado o disposto no art. 19 do Decreto nº 47.998/2020. 
+7.11.1 O pedido de prorrogação de prazo será direcionado às autoridades estipuladas em 7.10 
+que, no entanto, poderão delegar a atribuição ao chefe do Serviço de Segurança contra Incêndio 
+e Pânico (SSCIP) a que pertence o militar que praticou o ato.
+
+--- PÁGINA 16 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+16/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+7.13 Norma específica disciplinará os prazos e procedimentos do processo de aplicação das 
+sanções administrativas. 
+8 FORMULÁRIO PARA ATENDIMENTO TÉCNICO (FAT) 
+8.1 O FAT é o meio pelo qual o interessado apresenta solicitações junto ao CBMMG para:  
+a) solicitação de reuniões técnicas entre RT e CBMMG;  
+b) sanar dúvidas quanto a procedimentos administrativos e técnicos;  
+c) migração do PSCIP impresso para PSCIP digital (Infoscip);  
+d) outras situações, a critério do CBMMG.  
+8.1.1 O FAT será preferencialmente digital, devendo ser protocolado pelo RT que possua acesso 
+ao Infoscip. 
+8.1.2 Nos demais casos, as solicitações poderão ser realizadas mediante FAT impresso 
+(formulário previsto na IT 03), ofício do interessado ou outro meio digital disponibilizado para 
+comunicação direta com a unidade do CBMMG responsável pelo município da edificação. 
+8.1.3 Sempre que necessário, as solicitações deverão ser acompanhadas de documentos que 
+elucidem a dúvida ou comprovem os argumentos apresentados.  
+8.1.4 Podem fazer uso do FAT o proprietário, o responsável pelo uso, o Responsável Técnico (RT) 
+e o representante legal. 
+8.2 FAT de dúvidas técnicas  
+8.2.1 O FAT de dúvida técnica destina-se a esclarecer informações sobre a tramitação de PSCIP, 
+interpretação de itens de norma e avaliação de casos especiais ou omissos. 
+8.2.2 O RT deverá usar linguagem clara, concisa e precisa, além de indicar os itens da norma em 
+que há dúvida, de forma a permitir a identificação do questionamento, anexando, quando 
+necessário, desenhos técnicos que possibilitem uma melhor visualização. 
+8.2.2.1 No caso do descumprimento do item 8.2.2, o FAT não será apreciado, sendo informado ao 
+solicitante o motivo do não conhecimento do formulário.  
+8.2.3 A resposta da dúvida técnica que se refira a um PSCIP específico será providenciada pela 
+Unidade onde foi protocolado o FAT, sendo encaminhado para instância superior quando a 
+complexidade da resposta assim o exigir, ocasião em que se reinicia o prazo para a resposta. 
+8.2.4 A resposta de dúvida técnica aplica-se para o caso específico analisado e não deverá ser 
+utilizado como parâmetro normativo para exigência de medidas em outras edificações ou espaços 
+destinados ao uso coletivo que não foram objeto da análise que gerou a solução. 
+8.3 FAT para reuniões  
+8.3.1 Poderão ser realizadas reuniões entre o CBMMG e os envolvidos no PSCIP, atendidas as 
+seguintes exigências:  
+a) apreciação e autorização prévia por parte do Chefe do SSCIP da localidade;
+
+--- PÁGINA 17 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+17/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+b) o PSCIP se encontre na fase de Corpo Técnico, reconsideração de ato/recurso ou possua mais 
+de 01 (um) retorno de análise/vistoria;  
+c) o interessado deverá especificar no FAT os motivos, indicando os envolvidos que pretendem 
+participar da reunião e informar a disponibilidade para agendamento com pelo menos 05 (cinco) 
+dias úteis de antecedência, prazo esse que poderá ser reduzido, a critério do chefe do SSCIP 
+local. 
+8.3.2 Os participantes da reunião serão definidos pelo Chefe do SSCIP local (analista, vistoriador, 
+Chefe do SSCIP, RT, proprietário, dentre outros). Na ocasião, deverá ser lavrada ata do que foi 
+tratado e deliberado, devendo ser apensada ao PSCIP. 
+8.3.2.1 No caso de PSCIP digital, o arquivo PDF da ata será apensado ao processo pela equipe 
+do Help Desk do Infoscip. 
+8.3.2.2 Havendo dúvidas ou falta de dados para a tomada de decisão, nova reunião deverá ser 
+agendada em momento oportuno. 
+8.3.3 A solicitação da reunião não gera ao CBMMG a obrigação de atendê-la, devendo cada caso 
+ter sua motivação avaliada. 
+9 PRAZOS  
+9.1 Reconsideração de Ato (RDA) e Recurso contra ato praticado em análise de PSCIP ou 
+vistoria para fins de emissão de AVCB 
+9.1.1 Não há prazo que limite a interposição de pedido RDA e Recurso em caso de discordância 
+de ato praticado pelo CBMMG na análise de PSCIP e em vistoria para fins de emissão de AVCB. 
+9.1.1.1 Tendo o RT a oportunidade de protocolar pedido de RDA ou Recurso e optado por 
+responder a notificação ou solicitar nova vistoria, ocorrerá a preclusão do direito de interposição, 
+não podendo os atos retrocederem para oportunizar protocolo do referido pedido. 
+9.1.2 O prazo para a resposta do pedido de RDA será de 15 (quinze) dias úteis. 
+9.1.3 O prazo para a emissão de decisão relativa a requerimento de recurso contra ato praticado 
+em análise de PSCIP ou vistoria para fins de emissão de AVCB será de 30 (trinta) dias corridos. 
+9.2 Recurso de fiscalização 
+9.2.1 O requerimento em grau de recurso contra sanção administrativa aplicada pelo CBMMG, 
+referente à fiscalização, terá prazo de 10 (dez) dias corridos para ser protocolado, a contar da 
+publicação formal ou do conhecimento pelo proprietário, responsável pelo uso ou responsável 
+técnico, do ato administrativo praticado pelo CBMMG. 
+9.2.1.1 A inobservância do prazo previsto no item 9.2.1 acarretará preclusão do direito de recorrer. 
+9.2.1.2 O não conhecimento do recurso não extingue o dever da administração de anular seus 
+próprios atos quando eivados de vício de legalidade. 
+9.2.2 O prazo para a emissão de decisão relativa a requerimento de recurso contra sanção 
+administrativa aplicada pelo CBMMG será de 30 (trinta) dias corridos.
+
+--- PÁGINA 18 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+18/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+9.3 Apresentação de PET  
+9.3.1 Os prazos para apresentação PET estão previstos na instrução técnica 33 (Eventos 
+Temporários). 
+9.4 Vistoria e análise  
+9.4.1 O prazo para realização de vistoria ou análise será considerado a partir da efetivação do 
+pedido no CBMMG, sendo: 
+a) até 30 (trinta) dias corridos para finalização da análise; 
+b) até 10 (dez) dias úteis para início da vistoria. 
+9.5 Formulário para Atendimento Técnico (FAT) 
+9.5.1 A contar da data do protocolo, o CBMMG deverá responder o FAT no prazo máximo de 10 
+(dez) dias úteis, exceto para os questionamentos técnicos que demandam estudo aprofundado, 
+respeitando a ordem cronológica de entrada do pedido. 
+9.6 Outros serviços 
+9.6.1 O prazo para avaliações de renovação de AVCB, alteração de dados cadastrais e 
+substituição de RT, dentre outros serviços não especificados, será de 10 (dez) dias úteis. 
+10 DISPOSIÇÕES FINAIS  
+10.1 O AVCB só será emitido para a edificação ou espaço destinado ao uso coletivo após a 
+confirmação do pagamento/quitação de quaisquer multas pendentes previstas na legislação. 
+10.2 Os PSCIPs aprovados em formato impresso serão migrados para o sistema Infoscip no ato 
+de modificação de projeto aprovado, renovação de AVCB, emissão de primeiro AVCB ou alteração 
+de dados cadastrais.  
+10.2.1 O PSCIP impresso notificado em análise manterá a tramitação impressa até a respectiva 
+aprovação, ocasião que poderá migrar para o formato digital exclusivamente para fins de 
+modificação de PSCIP. 
+10.3 As edificações e espaços destinados ao uso coletivo em regularização que não possuam 
+população definida para o treinamento dos brigadistas receberão o AVCB após a vistoria final e o 
+proprietário e/ou responsável pelo uso terão o prazo de 01 (um) ano a contar da data de emissão 
+do referido AVCB para apresentar a documentação de inclusão da brigada por meio de atualização 
+de dados cadastrais.  
+10.3.1 A brigada de incêndio deverá estar assinalada no rol de medidas de segurança desde a 
+apresentação inicial do PSCIP com o devido esclarecimento no campo “Observação” do respectivo 
+quadro resumo quanto à indefinição da população da edificação para obtenção do prazo de 
+adequação.  
+10.4 Será obrigatório o protocolo de PET digital em substituição ao PET para eventos itinerantes 
+que ainda tramitam na forma impressa, devendo o organizador regularizar a situação do evento 
+junto ao CBMMG por ocasião da solicitação de vistoria em novo endereço ou alteração de projeto. 
+10.4.1 Caso não haja alterações entre o PSCIP impresso anteriormente aprovado e o novo PSCIP 
+digital, não será necessária a realização de nova análise de projeto, tampouco exigido o
+
+--- PÁGINA 19 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+19/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+pagamento de Taxa de Segurança Pública para o respectivo serviço, bastando o protocolo do 
+PSCIP digital no Infoscip, acompanhado de FAT onde o responsável técnico ateste que o 
+Processo de Segurança Contra Incêndio e Pânico digital é idêntico ao PSCIP impresso aprovado 
+pelo CBMMG. 
+10.4.2 Caso seja constatado, a qualquer momento, que o PSCIP digital possui alguma diferença 
+daquele PSCIP impresso que fora aprovado, deverá ser realizada a análise de todo o PSCIP 
+digital, mediante pagamento de TSP pelo serviço, sem prejuízo das medidas administrativas, 
+cíveis e penais cabíveis. 
+10.5 Por ocasião da montagem do evento itinerante em nova localidade, será necessária a 
+substituição do PET quando nova edição da IT 33 implicar em alteração nas medidas de 
+segurança do projeto anteriormente aprovado, havendo, neste caso, cobrança de TSP para o 
+serviço de análise, conforme itens F.2.2 e F.2.2.1. 
+10.5.1 Para fins de aplicação do disposto no item 10.5, caberá ao RT a avaliação da necessidade 
+de substituição do PET. 
+10.6 Os casos omissos relativos aos procedimentos administrativos do Serviço de Segurança 
+Contra Incêndio e Pânico serão solucionados pelo Diretor de Atividades Técnicas.
+
+--- PÁGINA 20 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+20/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+ANEXO A 
+MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA EDIFICAÇÕES E 
+ESPAÇOS DESTINADOS AO USO COLETIVO  
+A.1 As medidas de segurança contra incêndio e pânico previstas neste Anexo aplicam-se a todas 
+as edificações e espaços destinados ao uso coletivo existentes ou a construir. 
+A.1.1 As exigências constantes neste anexo são as mínimas requeridas pelo CBMMG e poderão 
+ser aumentadas em quantidade ou suplementadas por outras a critério do Responsável Técnico, 
+desde que respeitadas as instruções técnicas específicas ou que não interfiram na eficiência do 
+sistema dimensionado.  
+A.1.1.1 Na ausência de IT específica, será permitida a utilização de NBR que defina parâmetros 
+para a medida de segurança.  
+A.1.1.2 Na ausência de norma brasileira emitida pela ABNT ou quando o sistema de segurança 
+sugerido pelo RT oferecer melhor nível de segurança, será permitido o uso de literatura 
+internacional consagrada ou norma estrangeira. 
+A.1.1.3 A medida de segurança adotada no PSCIP conforme norma estrangeira ou literatura 
+internacional será analisada por Corpo Técnico (CT).  
+A.1.1.4 A critério do CT, poderá ser solicitado ao responsável técnico que fizer uso de literatura 
+ou norma estrangeira, a apresentação do texto na íntegra (versão original e/ou traduzida), anexada 
+ao PSCIP. 
+A.1.2 Consideram-se obrigatórias as medidas de segurança assinaladas com “X” nas tabelas 
+deste anexo, devendo, ainda, ser observadas: 
+a) as ressalvas em notas transcritas logo abaixo das tabelas, que estabelecem condições de 
+aplicação ou isenção da respectiva medida de segurança; 
+b) as demais isenções previstas no texto desta IT;  
+c) as isenções previstas nas instruções técnicas específicas que estabelecem os parâmetros de 
+aplicação de cada medida de segurança. 
+A.1.2.1 Havendo, nas tabelas deste anexo, mais de uma nota assinalada para a mesma exigência, 
+deve ser realizada a leitura conjunta, de forma que uma informação complemente a outra.  
+A.1.3 A área a ser considerada para definição de exigências é a “área total”, definida nos termos 
+do item E.4 desta IT, podendo ser subdividida se os riscos forem isolados.  
+A.1.4 Os parâmetros para o dimensionamento das medidas de segurança serão definidos em 
+instrução técnica específica. 
+A.1.5 A presença de Centrais (gás liquefeito de petróleo – GLP ou gás natural – GN), subestação 
+elétrica ou outro risco especial não influenciará na classificação quanto ao uso da edificação ou 
+espaço destinado ao uso coletivo, devendo adotar para cada risco específico o previsto em norma 
+técnica regulamentar ou instrução técnica específica, observado o disposto em E.8.2. 
+A.1.6 A presença de salão de festas, depósito, área administrativa, áreas de lazer (áreas cobertas 
+de piscinas, saunas, academias, vestiários, quadras, playground), auditório, lavanderia, cozinha 
+profissional, refeitório, biblioteca, zeladoria, sala de reunião e salão de beleza, dentre outras
+
+--- PÁGINA 21 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+21/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+atividades secundárias destinadas ao apoio da ocupação principal, com área inferior a 930 m², 
+cada, não influenciará na classificação quanto ao uso da edificação, devendo adotar para a 
+edificação as medidas previstas na tabela específica e os parâmetros das instruções técnicas ou 
+normas específicas para as atividades secundárias.  
+A.2 Exigência de medidas em edificações Existentes (construídas até 01Jul2005) 
+A.2.1 Não serão exigidas para as edificações construídas até 01 de julho de 2005, as seguintes 
+medidas de segurança: 
+a) Acesso de Viaturas; 
+b) Segurança Estrutural contra Incêndio; 
+c) Compartimentação Horizontal e Compartimentação Vertical; 
+d) Chuveiros Automáticos; 
+e) Controle de Fumaça. 
+A.2.2 Serão exigidas as medidas previstas no item A.2.1 para edificações construídas até 01 de 
+julho de 2005, quando houver acréscimo de área superior a 50%, conforme a tabela específica.  
+A.2.3 As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão 
+atender à Norma Brasileira ou à legislação de segurança contra incêndio do respectivo município 
+vigente à época da construção. 
+A.3 Medidas de segurança para ocupação (Divisão A-1)  
+A.3.1 O conjunto arquitetônico tombado pelo patrimônio histórico que possuir edificação 
+residencial unifamiliar deverá adotar as seguintes medidas: 
+a) a ocupação distinta da Divisão A-1 deverá dispor de medidas de segurança correspondente à 
+área da ocupação; 
+b) deverá haver previsão de plano de intervenção de incêndio a ser apresentado quando da 
+aprovação do projeto, contemplando as ocupações A-1; 
+c) nos projetos deverão constar, na planta de implantação, todas as edificações correspondentes 
+ao conjunto arquitetônico, podendo as residências (Divisão A-1) serem representadas sem o 
+arranjo físico interno (leiaute). 
+A.3.2 A ocupação residencial unifamiliar (Divisão A-1) que fizer parte de uma edificação com outra 
+ocupação ou uso será isenta de medidas de segurança, desde que possuam saídas 
+independentes. Neste caso, a porção referente à Divisão A-1 deverá ser representada em planta 
+de forma hachurada, sem o arranjo físico interno (leiaute). 
+A.3.2 A ocupação residencial unifamiliar (Divisão A-1) que fizer parte de uma edificação com outra 
+ocupação ou uso será isenta de medidas de segurança, desde que possuam saídas 
+independentes. Neste caso, a porção referente à Divisão A-1 deverá ser representada em planta 
+de forma hachurada, sem o arranjo físico interno (leiaute). 
+A.3.2.1 As demais partes da edificação, que não sejam da divisão A-1, deverão possuir medidas 
+de segurança conforme a tabela específica deste Anexo, considerando a área e ocupação.
+
+--- PÁGINA 22 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+22/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+A.3.3 A área da ocupação residencial unifamiliar (Divisão A-1) de que tratam os itens A.3.1 e 
+A.3.2 não será computada como área construída para fins de: 
+a) definição da área total do PSCIP; 
+b) definição de medidas de segurança;  
+c) definição do tipo de PSCIP;  
+d) cálculo de cobrança da TSP, para fins de análise e vistoria;  
+e) área a ser informada no AVCB.  
+A.3.3.1 A área referida em A.3.3 não deverá ser informada no campo "Área" do Infoscip.  
+A.4 Casos de isenção de medidas de segurança  
+A.4.1 As edificações e espaços destinados ao uso coletivo abaixo relacionados estão isentos de 
+medidas de segurança: 
+a) residência exclusivamente unifamiliar (divisão A-1);  
+b) residências exclusivamente unifamiliares localizadas em condomínios residenciais horizontais 
+com acessos independentes às unidades autônomas; 
+c) área destinada exclusivamente à instalação de torres de telefonia móvel, torres de transmissão 
+de energia elétrica e seus respectivos painéis de controle;  
+d) atividades exploradas em estabelecimento inócuo ou virtual; 
+e) Serviço de Residência Terapêutica Tipo I e Tipo II, que terão o mesmo regramento de A-1. 
+A.4.1.1 No caso de condomínios horizontais, as áreas comuns destinadas a guaritas, centros 
+comerciais, clubes sociais, salões de festas e assemelhados deverão se regularizar e/ou possuir 
+medidas de segurança conforme os demais critérios de área, altura e ocupação estabelecidos 
+nesta IT. 
+A.4.2 Os espaços destinados ao uso coletivo ficam isentos das medidas de segurança “Segurança 
+Estrutural contra Incêndios”, “Detecção de Incêndio”, “Alarme de Incêndio”, “Compartimentação 
+Vertical” e “Controle de Fumaça”. 
+A.4.3 Os espaços destinados ao uso coletivo, onde a atividade desenvolvida não possibilite a 
+ocorrência de incêndio, estarão isentos da instalação de tomada de água do Sistema de Hidrantes 
+e Mangotinhos. 
+A.4.4 Estão isentas do sistema de iluminação de emergência as edificações térreas com área total 
+menor ou igual a 200 m2 e população inferior a 50 (cinquenta) pessoas.  
+A.4.5 Estão isentas dos sistemas de iluminação de emergência e sinalização de emergência as 
+áreas externas, exceto quando se tratar de local de reunião de público ou quando, para as demais 
+ocupações, servir como rota de fuga até local seguro. 
+A.5 Hidrantes públicos 
+A.5.1 A medida “Hidrante Público” não será exigida no PSCIP. 
+A.5.2 As disposições da IT 29 são recomendativas, exceto quando houver legislação municipal 
+que estabeleça a exigência do atendimento. 
+A.5.3 Caso o loteador ou a concessionária de abastecimento de água aleguem impossibilidade de 
+cumprimento da IT 29, não caberá qualquer exigência por parte do CBMMG, cabendo, à 
+prefeitura local, a aprovação do loteamento.
+
+--- PÁGINA 23 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+23/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 1 
+GRUPO A 
+(RESIDENCIAL) 
+Divisão 
+A-2 e A-3 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(1) (3) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+- 
+- 
+- 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Alarme de Incêndio 
+- 
+- 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X(2) 
+X 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 1200 m².  
+2 - Exigida nos salões de festas e auditórios com previsão de população superior a 200 pessoas. 
+3 - Exigido para condomínios com arruamento interno, independentemente da área.
+
+--- PÁGINA 24 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+24/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 2 
+GRUPO B 
+(SERVIÇO DE HOSPEDAGEM) 
+Divisão 
+B-1 e B-2 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(8) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+X(3) 
+X 
+X 
+Compartimentação Vertical 
+- 
+X(4) 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+- 
+X 
+X 
+X 
+Iluminação de Emergência 
+X(5) 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X(6) 
+X(6) 
+Alarme de Incêndio 
+X(1) (7) 
+X (7) 
+X (7) 
+X (7) 
+Sinalização de Emergência 
+X(5) 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X(2) 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200m². 
+2 - Exigida nos salões de festas e auditórios com previsão de população superior a 200 pessoas. 
+3 - Pode ser substituída por chuveiros automáticos. 
+4 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens 
+dos shafts e dutos de instalações.  
+5 - Estão isentos os motéis que não possuam corredores internos cobertos. 
+6 - Os detectores de incêndio devem ser instalados inclusive nos quartos.  
+7 - Os acionadores manuais devem ser instalados nos corredores. 
+8 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 25 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+25/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 3 
+GRUPO C 
+(COMERCIAL) 
+Divisão 
+C-1, C-2 e C-3 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(8) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X(2) 
+X 
+X 
+X 
+Compartimentação Horizontal 
+X(2) (6) 
+X(6) 
+X 
+X 
+Compartimentação Vertical 
+- 
+X(7) 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+X (1) (4) 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(3) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X(3) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X(1) (4) 
+X 
+X 
+X 
+Controle de Fumaça 
+X(5) 
+X(4) 
+X(4) 
+X(4) 
+NOTAS:  
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Exigido quando área total for superior a 930 m². 
+3 - Quando área total for superior a 2.000 m².  
+4 - Somente para divisão C-3.  
+5 - Somente para divisão C-3 que possuir divisão F- 6 com população superior a 500 pessoas.  
+6 - Pode ser substituída por chuveiros automáticos.  
+7 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens 
+dos shafts e dutos de instalações.  
+8 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 26 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+26/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 4 
+GRUPO D 
+(SERVIÇO PROFISSIONAL) 
+Divisão 
+D-1, D-2, D-3 e D-4 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(5) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+X (2) 
+X 
+X 
+Compartimentação Vertical 
+- 
+X (3) 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+- 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X(4) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X(6) 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Pode ser substituída por chuveiros automáticos.  
+3 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens 
+dos shafts e dutos de instalações.  
+4 - Quando a área total for superior a 2.000 m². 
+5 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área. 
+6 - Exigida nos auditórios com previsão de população superior a 200 pessoas.
+
+--- PÁGINA 27 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+27/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 5 
+GRUPO E 
+(EDUCACIONAL E CULTURA FÍSICA) 
+Divisão 
+E-1, E-2, E-3, E-4, E-5 e E-6 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(5) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X(2) 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+X(4) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X(3) 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+NOTAS:  
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens 
+dos shafts e dutos de instalações.   
+3 - Exigida nos auditórios com previsão de população superior a 200 pessoas.   
+4 - Exigido para as divisões E-1 a E-4 com área total superior a 930 m² e para as divisões E-5 e E-6, 
+independentemente da área total.  
+  5 - Exigido quando área total for superior a 930 m² e nos condomínios e Campus com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 28 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+28/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 6 
+GRUPO F 
+(LOCAL DE REUNIÃO DE PÚBLICO) 
+Divisão 
+F-1, F-2, F-3, F-4, F-8, F-9 e F-10 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(8) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X(5) 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X (3) (4) 
+X (4) 
+X (4) 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+X(1) (6) 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(2) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+X(1) (7) 
+X (7) 
+X 
+X 
+Alarme de Incêndio 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1)  
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X(2)  
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+NOTAS:  
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Somente quando a população for superior a 200 pessoas ou a área total for superior a 930 m².  
+3 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens 
+dos shafts e dutos de instalações.  
+4 - Para a divisão F-3, a compartimentação vertical será considerada para as fachadas e selagens dos shafts e 
+dutos de instalações.  
+5 - Exigido quando a área total for superior a 930 m².  
+6 - Somente para divisão F-3. 
+7 - Somente para divisão F-1. 
+8 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 29 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+29/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 7 
+GRUPO F 
+(LOCAL DE REUNIÃO DE PÚBLICO) 
+Divisão 
+F-5, F-6 e F-11 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em 
+metros) 
+H ≤ 12 
+12 < H ≤ 30 30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(5) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X(3) 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+X(4) 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(2) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+X(1) (4) 
+X 
+X 
+X 
+Alarme de Incêndio 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+X 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X(2) 
+X 
+X 
+X 
+Controle de Fumaça 
+X(3) (4) 
+X(4) 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m².   
+2 - Somente quando a população for superior a 200 pessoas ou a área total for superior a 930 m². 
+3 - Exigido quando a área total for superior a 930 m².  
+4 - Somente quando houver lotação superior a 500 pessoas. 
+5 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 30 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+30/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 8 
+GRUPO F 
+(CONSTRUÇÕES PROVISÓRIAS E EVENTOS TEMPORÁRIOS) 
+Medidas de Segurança contra Incêndio e Pânico(3) 
+F - 7(4) 
+Saídas de Emergência 
+X 
+Plano de Intervenção de Incêndio 
+X(1) 
+Brigada de Incêndio 
+X(1) 
+Iluminação de Emergência 
+X(1) 
+Sinalização de Emergência 
+X 
+Extintores 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X(2) 
+NOTAS: 
+1 - Somente para eventos classificados a partir de risco médio (observando critérios da IT 33).   
+2 - Aplicável às estruturas provisórias destinadas a receber público. 
+3 - Para eventos temporários, além das medidas estipuladas nesta Tabela, devem ser atendidas as 
+exigências complementares previstas em instrução técnica específica.  
+4 - A altura máxima para construções provisórias é de 12,0 m.
+
+--- PÁGINA 31 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+31/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 9 
+GRUPO G 
+(SERVIÇO AUTOMOTIVO E ASSEMELHADOS) 
+Divisão 
+G-1 e G-2 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤12 12 < H ≤30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(4) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X(3) 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+- 
+- 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Alarme de Incêndio 
+- 
+X(2) 
+X(2) 
+X(2) 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+- 
+- 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Para a divisão G-1, pode haver apenas um acionador manual por pavimento, no máximo a 10 m da saída de 
+Emergência. 
+3 - Exigido quando a área total for superior a 930 m².  
+4 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 32 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+32/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 10 
+GRUPO G 
+(SERVIÇO AUTOMOTIVO E ASSEMELHADOS) 
+Divisão 
+G-3 
+G-4 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto 
+à altura (em metros) 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+ 
+H ≤ 12 
+ 
+12 < H ≤ 30 
+ 
+30 < H ≤ 54 
+ 
+H > 54 
+Acesso de Viaturas 
+X(5) 
+X(5) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X(2) 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+- 
+X(3) 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X(4) 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(1) 
+X(1) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X(1) 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+- 
+X 
+X 
+Controle de Materiais de 
+Acabamento e de Revestimento 
+- 
+- 
+X 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Exigido quando área total for superior a 930 m². 
+3 - Pode ser substituída por chuveiros automáticos.  
+4 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens 
+dos shafts e dutos de instalações. 
+5 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 33 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+33/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 11 
+GRUPO G 
+(SERVIÇO AUTOMOTIVO E ASSEMELHADOS) 
+Divisão 
+G-5 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(4) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X(2) 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+X(3) 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(1) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m².   
+2 - Exigido quando a área total for superior a 930 m². 
+3 - Somente quando a área total for superior a 5.000 m². 
+4 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 34 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+34/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 12 
+GRUPO H  
+(SERVIÇO DE SAÚDE E INSTITUCIONAL) 
+Divisão 
+H-1 
+H-2(4) e H-5(4) 
+Medidas de 
+Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura (em 
+metros) 
+Classificação quanto à altura (em 
+metros) 
+H ≤ 12 
+12 < H ≤ 30 30 < H ≤ 54 
+H > 54 
+H ≤ 12 12 < H ≤ 30 
+30 < H ≤ 54 
+H > 54 
+Acesso de Viaturas 
+X(6) 
+X 
+X 
+X 
+X(6) 
+X 
+X 
+X 
+Segurança Estrutural 
+contra Incêndio 
+- 
+X 
+X 
+X 
+X(2) 
+X 
+X 
+X 
+Compartimentação 
+Vertical 
+- 
+- 
+X(3) 
+X 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de 
+Incêndio 
+- 
+- 
+- 
+- 
+X(1) 
+X 
+X 
+X 
+Brigada de Incêndio 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Iluminação de 
+Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+- 
+X 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+- 
+X 
+X 
+X 
+X(1)  
+X 
+X 
+X 
+Sinalização de 
+Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos
+X(1) 
+X 
+X 
+X 
+X(1)  
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+- 
+X 
+- 
+- 
+X 
+X 
+Controle de Materiais de 
+Acabamento e de 
+Revestimento 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+- 
+- 
+X(5) 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Exigido quando a área total for superior a 930 m². 
+3 - Pode ser substituída por chuveiros automáticos, exceto as compartimentações das fachadas e selagens dos 
+shafts e dutos de instalações.  
+4 - Para todas as edificações da divisão H-5, além das medidas estipuladas nesta Tabela, devem ser atendidas 
+as exigências complementares previstas na IT 42, as quais também poderão ser adotadas nos hospitais 
+psiquiátricos e reformatórios, pertencentes à divisão H-2. 
+5 - Exceto para prisões em geral. 
+6 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 35 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+35/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 13 
+GRUPO H  
+(SERVIÇO DE SAÚDE E INSTITUCIONAL) 
+Divisão 
+H-3 
+H-4 e H-6 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura 
+(em metros) 
+Classificação quanto à altura 
+(em metros) 
+H ≤ 12 12 < H ≤ 30 30 < H ≤ 54 
+H > 54 H ≤ 12 12 < H ≤ 30 30 < H ≤ 54 H > 54 
+Acesso de viaturas 
+X(5) 
+X 
+X 
+X 
+X(5) 
+X 
+X 
+X 
+Segurança Estrutural contra 
+Incêndio 
+X(2) 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+X(4) 
+X 
+X 
+- 
+- 
+- 
+- 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de 
+Incêndio 
+X(1) 
+X 
+X 
+X 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X 
+X 
+X 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X(1) 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+- 
+- 
+X 
+X 
+Controle de Materiais de 
+Acabamento e de Revestimento 
+X 
+X 
+X 
+X 
+X(3) 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+X 
+X 
+- 
+- 
+- 
+- 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Exigido quando a área total for superior a 930 m². 
+3 - Exigido nos auditórios com previsão de população superior a 200 pessoas. 
+4 - Pode ser substituída por chuveiros automáticos. 
+5 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 36 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+36/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 14 
+GRUPO I  
+(INDÚSTRIA) 
+Divisão 
+I-1 e I-2 
+I-3 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) Classificação quanto à altura (em metros) 
+H ≤12 
+12 < H ≤30 30 < H ≤54 H > 54 H ≤12 12 < H ≤30 30 < H ≤54 
+H > 54 
+Acesso de viaturas 
+X(8) 
+X 
+X 
+X 
+X(8) 
+X 
+X 
+X 
+Segurança Estrutural contra 
+Incêndio 
+X(2) (7) 
+X 
+X 
+X 
+X(2) 
+X 
+X 
+X 
+Compartimentação Horizontal 
+X(5) (6) 
+X(5) 
+X 
+X 
+X(2) (5) 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X(5) (7) 
+X 
+X 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+X(7) 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(3) 
+X 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X(7) 
+X(7) 
+X 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X(3) (7) 
+X 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X(7) 
+X(7) 
+- 
+X 
+X 
+X 
+Controle de Materiais de 
+Acabamento e de Revestimento 
+- 
+X 
+X 
+X 
+X(4) 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+- 
+X 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 2005, 
+onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Exigido quando a área total for superior a 930 m². 
+3 - Exigido quando a área total for superior a 2.000 m².  
+4 - Exigido quando a área total for superior a 5.000 m².  
+5 - Pode ser substituída por chuveiros automáticos.  
+6 - Exceto para edificações térreas ou com área total inferior a 930 m².  
+7 - Somente para a divisão I-2. 
+8 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 37 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+37/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 15 
+GRUPO J 
+(DEPÓSITO) 
+Divisão 
+J-1 e J-2 
+J-3 e J-4 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 30 < H ≤ 54 
+H > 54 
+H ≤ 12 
+12 < H ≤ 30 30 < H ≤ 54 H > 54 
+Acesso de viaturas 
+X (9) 
+X 
+X 
+X 
+X (9) 
+X 
+X 
+X 
+Segurança Estrutural contra 
+Incêndio 
+- 
+X 
+X 
+X 
+X(2) 
+X 
+X 
+X 
+Compartimentação Horizontal X(2) (3) (7) 
+X(3) (7) 
+X(3) (7) 
+X(3) 
+X(2) (7) 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de 
+Incêndio 
+- 
+- 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(3) (5) 
+X 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X(3) 
+X(3) 
+X(1) (4) 
+X 
+X 
+X 
+Alarme de Incêndio 
+X(3) (5) 
+X 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X(8) 
+X(8) 
+X(8) 
+X(8) 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) 
+X 
+X 
+X 
+X(1) 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+- 
+X(3) 
+X(4) (6) 
+X 
+X 
+X 
+Controle de Materiais de 
+Acabamento e de 
+Revestimento 
+- 
+X(3) 
+X(3) 
+X(3) 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X(3) 
+- 
+X 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200 m². 
+2 - Exigido quando a área total for superior a 930 m². 
+3 - Somente para divisão J-2. 
+4 - Somente para divisão J-4. 
+5 - Quando a área total for superior a 2.000 m². 
+6 - A medida deverá ser exigida quando a área utilizada exclusivamente como depósito for superior a 3.000 m² e 
+poderá ser instalada apenas nessa área. 
+7 - Pode ser substituída por chuveiros automáticos.  
+8 - Para a divisão J-1, não será exigida a cobertura por extintores nos locais destinados exclusivamente ao 
+armazenamento de materiais incombustíveis, desde que não embalados. 
+9 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 38 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+38/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 16 
+GRUPO L 
+(EXPLOSIVOS) 
+Divisão 
+L- 1(4) 
+L-2 e L-3(4) 
+Medidas de Segurança contra Incêndio e Pânico 
+Acesso de Viaturas 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+X 
+Brigada de Incêndio 
+X 
+X 
+Iluminação de Emergência 
+X(1) 
+X(1) (2) 
+Alarme de Incêndio 
+- 
+X(1) 
+Sinalização de Emergência 
+X 
+X 
+Extintores 
+X 
+X(3) 
+Controle de Materiais de Acabamento e de Revestimento 
+X 
+X 
+NOTAS: 
+1 - Somente quando a área total for igual ou maior que 200 m².  
+2 - Luminárias à prova de explosão.  
+3 - Devem ficar localizados externamente à edificação. 
+4 - As edificações do grupo L deverão atender à instrução técnica específica e às prescrições normativas do 
+Exército Brasileiro e da Polícia Civil do Estado de Minas Gerais.
+
+--- PÁGINA 39 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+39/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 17 
+GRUPO M  
+(ESPECIAL) 
+Divisão 
+M-1 
+1) Para definição das medidas de segurança é necessário consultar as seguintes normas, levando-se em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+a) NBR 15.661 - Proteção contra incêndio em túneis; 
+b) NBR 15.981 - Sistemas de proteção contra incêndio em túneis - Sistemas de sinalização e de comunicação 
+de emergência em túneis. 
+2) Túneis com extensão acima de 1000 m deverão ser avaliados por Corpo Técnico. 
+Divisão 
+M-2 
+1) Para definição das medidas de segurança das áreas de risco que abriguem tanques, cilindros ou produtos 
+acondicionados, GLP ou GN será necessário consultar as seguintes normas, levando-se em consideração todas 
+as suas atualizações e outras que vierem substituí-las, bem como demais documentos por elas citados: 
+a) IT 23 - Manipulação, armazenamento, comercialização e utilização de gás liquefeito de petróleo (GLP); 
+b) IT 24 - Comercialização, distribuição e utilização de gás natural; 
+c) NBR 17.505 - Armazenamento de líquidos inflamáveis e combustíveis (todas as partes). 
+2) Quando houver a previsão de sistema hidráulico por parte das normas supracitadas, será obrigatória a previsão 
+das medidas de segurança “Alarme de Incêndio”, “Brigada de Incêndio” e “Acesso de Viaturas”, sendo o acesso 
+de viaturas recomendado para as edificações construídas até 1 de julho de 2005. 
+ 
+3) As medidas de segurança contra incêndio e pânico para as edificações e espaços destinados ao uso coletivo
+serão as exigidas para o uso específico. Ex.: escritório (D-1), indústria (I), depósito (J), refeitório (F-8). 
+Divisão 
+M-4, M-5, M-6, M-7 e M-8 
+1) As medidas de segurança contra incêndio e pânico para as edificações localizadas no interior de terra 
+selvagem, canteiro de obras e pátio de containers serão as exigidas para o uso específico. Ex.: administração 
+(D-1), alojamento da obra (A-3), refeitório (F-8). 
+2) Os pátios de contêineres descobertos devem atender à instrução técnica específica. 
+3) As medidas de segurança para silos destinados à armazenagem e/ou beneficiamento de cereais e seus 
+derivados, sementes oleaginosas, sementes agrícolas, legumes, açúcar, farinhas, dentre outros produtos, 
+deverão ser projetadas em conformidade com a IT 43. 
+4)  As medidas de segurança para edificações e instalações que abrigam atividades de agronegócio deverão 
+observar o disposto na IT 44.
+
+--- PÁGINA 40 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+40/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+TABELA 18 
+GRUPO M  
+(ESPECIAL) 
+Divisão 
+M-3 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤12 
+12 < H ≤30 
+30 < H ≤54 
+H > 54 
+Acesso de Viaturas 
+X(5) 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X(1) 
+X 
+X 
+X 
+Compartimentação Horizontal 
+X(1) 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+X 
+X 
+X 
+Brigada de Incêndio 
+X(1) 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X(1) 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X(1) (2) 
+X(2) 
+X(2) 
+X(2) 
+Chuveiros Automáticos 
+- 
+X(3) 
+X(3) 
+X(3) 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X(1) 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+X 
+X 
+NOTAS: 
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de 
+2005, onde será considerada, para fins de exigência, área total superior a 1.200m². 
+2 - Dispensada em centrais de distribuição ou transmissão de energia elétrica e em subestações elétricas. 
+3 - Pode ser substituído por sistema de gases, através de supressão total do ambiente. 
+4 - Para as subestações elétricas de sistemas de geração, transmissão e distribuição de energia, devem ser 
+observados, também, os critérios da NBR 13.231. 
+5 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno, 
+independentemente da área.
+
+--- PÁGINA 41 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+41/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+ANEXO B 
+EMISSÃO E RENOVAÇÃO DO AVCB 
+B.1 Emissão do AVCB  
+B.1.1 O Auto de Vistoria do Corpo de Bombeiros (AVCB) será emitido após a realização da vistoria 
+na edificação ou espaço destinado ao uso coletivo, quando constatado que as medidas de 
+segurança estão instaladas adequadamente conforme instruções técnicas ou PSCIP aprovado.  
+B.1.1.1 O AVCB conterá, no mínimo, as seguintes informações: 
+a) Número de controle; 
+b) Validade; 
+c) Endereço Completo; 
+d) Ocupação; 
+e) Público; 
+f) Proprietário; 
+g) Responsável pelo uso; 
+h) Área total; 
+i) Área liberada; 
+j) Data da emissão; 
+k) Data da última atualização; 
+l) QR Code para verificação da autenticidade; 
+m) Campo para observações. 
+n) Chave de Autenticação. 
+B.1.1.2 O AVCB para a edificação liberada parcialmente terá a denominação "AVCB Parcial" e 
+contemplará a somatória das áreas liberadas pelo CBMMG (área já liberada pelo CBMMG, se 
+houver, somada à área recém-vistoriada), devendo ser observados os seguintes procedimentos: 
+a) havendo nova área liberada sem modificação de PSCIP, o AVCB terá validade contada a partir 
+da data de emissão do primeiro AVCB; 
+b) quando houver modificação do PSCIP, o AVCB terá validade contada a partir da data da nova 
+emissão após vistoria. 
+B.1.2 A emissão do AVCB do PSCIP digital ocorrerá após a vistoria, antes da equipe de 
+vistoriadores deixar a edificação, salvo casos excepcionais de pendência documental verificada 
+após a vistoria, impossibilidade de internet ou indisponibilização de número de REDS. 
+B.1.3 Para as lojas âncoras e lojas satélites de Shopping Center e galeria comercial, contempladas 
+no PSCIP geral, bem como para as demais empresas que ocupem no todo ou parte de uma
+
+--- PÁGINA 42 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+42/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+edificação de nível de risco III, desde que possuam AVCB válido em ambos os casos, será 
+concluído, a pedido, o licenciamento na Redesim-MG.  
+B.1.3.1 O pedido para conclusão do licenciamento na Redesim-MG pode ser feito por meio de 
+FAT, ofício ou e-mail à unidade do CBMMG responsável pelo município onde se localiza a 
+edificação.  
+B.1.3.2 Será emitido AVCB distinto para as lojas âncoras que possuem PSCIP específico, desde 
+que exista AVCB válido para o PSCIP geral.  
+B.1.4 Para os casos de edificações separadas por isolamento de risco em uma mesma 
+propriedade (endereço comum), poderá ser emitido um AVCB para cada edificação, desde que 
+haja PSCIPs distintos. 
+B.1.5 Variações entre o projeto e a execução/instalação das medidas de segurança, identificadas 
+durante a vistoria, não serão impeditivas para emissão do AVCB, quando:  
+a) os parâmetros de dimensionamento das medidas de segurança estejam conforme a IT 
+específica; 
+b) medidas de segurança não projetadas sejam instaladas de forma que não interfiram na 
+cobertura e eficiência das medidas previstas no projeto aprovado;  
+c) as variações de leiaute não impliquem prejuízo à cobertura e eficiência das medidas de 
+segurança previstas no projeto aprovado. 
+B.1.5.1 As variações citadas no item B.1.5 serão registradas no REDS da vistoria e em campo 
+próprio no Infoscip. 
+B.2 Validade e Renovação do AVCB 
+B.2.1 O AVCB tem as seguintes validades, desde que a edificação ou espaço destinado ao uso 
+coletivo permaneça com as medidas de segurança contra incêndio e pânico previstas no projeto 
+em condições de utilização e manutenção adequadas: 
+a) 05 (cinco) anos, salvo eventos temporários e construções provisórias; 
+b) até 01 (um) ano para eventos temporários e construções provisórias. 
+B.2.1.1 O AVCB vigente com validade de 03 (três) anos, emitido em data anterior à publicação 
+desta IT, terá o prazo de validade ampliado para 05 (cinco) anos, contados a partir da data de 
+emissão. 
+B.2.2 O evento temporário sujeito a PET e a construção provisória que possuírem duração 
+superior a 01 (um) ano no mesmo local deverão se regularizar como edificação ou espaço 
+destinado ao uso coletivo permanente. 
+B.2.3 A renovação do AVCB para edificação ou espaço destinado ao uso coletivo permanente 
+deve ser solicitada, preferencialmente, antes do final do respectivo prazo de validade.  
+B.2.4 Na renovação do AVCB, deverá ser apresentado laudo técnico e o respectivo documento 
+de responsabilidade técnica registrado junto ao conselho profissional, atestando a verificação das 
+condições de funcionamento e manutenção das medidas de segurança, conforme modelo da IT 
+03 (Composição do Processo de Segurança contra Incêndio e Pânico).  
+B.2.4.1 O laudo para renovação de AVCB pode ser apresentado por responsável técnico diferente 
+daquele que elaborou o PSCIP ou executou as medidas de segurança.
+
+--- PÁGINA 43 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+43/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+B.2.4.2 Deverão ser anexados ao laudo, quando necessários, os seguintes documentos:  
+a) Documento de responsabilidade técnica, registrado junto ao respectivo conselho profissional, 
+do Laudo de Segurança constando a manutenção das medidas de segurança contra incêndio e 
+pânico; 
+b) Documento de responsabilidade técnica, registrado junto ao respectivo conselho profissional, 
+do teste de estanqueidade da central de GLP;  
+c) Relatório de inspeção de vaso sob pressão (caldeira);  
+d) Plano de intervenção de incêndio;  
+e) Outros, conforme medida projetada. 
+B.2.4.3 Quando for verificado que as medidas de segurança já se encontram instaladas e não 
+necessitam de manutenção (configurando a dispensabilidade do documento de responsabilidade 
+técnica para instalação ou manutenção), poderá ser emitido laudo técnico de inspeção com o 
+respectivo documento de responsabilidade técnica, registrado junto ao conselho profissional, 
+atestando o funcionamento do sistema.  
+B.2.4.3.1 O responsável técnico pela emissão do laudo técnico de inspeção não necessita ser 
+cadastrado no CBMMG.  
+B.2.4.4 Quando houver mais de 01 (um) RT, os documentos de responsabilidade técnica, 
+registrados junto aos respectivos conselhos profissionais, serão emitidos separadamente com as 
+individualizações de responsabilidade, sendo obrigatória a assinatura destes documentos pelo 
+contratante e pelo RT.  
+B.2.4.4.1 Fica dispensada a assinatura do contratante quando o documento de responsabilidade 
+técnica não possuir campo próprio para tal. 
+B.2.5 O protocolo e a aprovação em análise da modificação de PSCIP não invalida o AVCB, sendo 
+permitido, inclusive, o protocolo de modificação e renovação do AVCB, concomitantemente. 
+B.2.5.1 A primeira solicitação de vistoria após a modificação do PSCIP invalida o AVCB, sendo 
+emitido um novo AVCB após nova liberação em vistoria. 
+B.3 AVCB para evento temporário e construções provisórias 
+B.3.1 Não haverá renovação de AVCB para eventos temporários e construções provisórias. 
+B.3.2 Para eventos temporários sujeitos a PET e construções provisórias em que, encerrada a 
+validade do AVCB, haja interesse do organizador pela sua continuidade no mesmo local e sem 
+alteração das características e configurações constantes no projeto aprovado junto ao CBMMG, 
+deverá ser solicitada nova vistoria, sem necessidade de nova análise, sendo emitido novo AVCB 
+com prazo de validade limitado a 1 (um) ano, a contar da data de liberação da primeira vistoria, 
+observados os demais procedimentos previstos em instrução técnica específica. 
+B.3.2.1 Será exigido o pagamento de TSP referente à nova vistoria, bem como a apresentação de 
+nova documentação (documento de responsabilidade técnica registrado junto ao conselho 
+profissional e demais laudos pertinentes) que contemple a nova data de realização do evento ou 
+funcionamento da construção provisória, conforme IT 03 (Composição do Processo de Segurança 
+contra Incêndio e Pânico).
+
+--- PÁGINA 44 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+44/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+ANEXO C 
+CARACTERIZAÇÃO DO NÍVEL DE RISCO  
+C.1 Os critérios e condições para classificação de níveis de risco das edificações, espaço 
+destinado ao uso coletivo, empresas e atividades são os previstos na Tabela C.1. 
+Tabela C.1– Classificação em nível de risco 
+Característica  
+Nível I 
+Nível II 
+Nível III 
+Edificação ou espaço destinado ao uso coletivo com área 
+construída igual ou inferior a 200 m² 
+X 
+ 
+ 
+Edificação ou espaço destinado ao uso coletivo com área 
+construída superior a 200 e igual ou inferior 930 m² 
+ 
+X 
+ 
+Edificação ou espaço destinado ao uso coletivo com área 
+construída superior a 930 m² 
+ 
+ 
+X 
+Edificação ou espaço destinado ao uso coletivo que 
+componham o Patrimônio Histórico Cultural 
+ 
+ 
+X 
+Edificação com mais de 03 (três) pavimentos ou altura 
+superior a 12 m 
+ 
+ 
+X 
+Edificação ou espaço destinado ao uso coletivo com 
+lotação superior a 100 (cem) pessoas 
+ 
+ 
+X 
+Edificação em que o subsolo possua qualquer atividade ou 
+uso distinto de estacionamento 
+ 
+ 
+X 
+Armazenamento de líquido combustível ou inflamável, 
+ainda que fracionado, em volume superior a 1000 L 
+ 
+ 
+X 
+Armazenamento de gás liquefeito de petróleo (GLP) em 
+quantidade superior a 190 Kg 
+ 
+ 
+X 
+Pessoa física ou jurídica que desenvolva atividades na 
+área de competência do CBMMG.  
+ 
+ 
+X 
+Pessoa física ou jurídica responsável pela comercialização, 
+instalação, manutenção e conservação de aparelhos de 
+prevenção contra incêndio e pânico. 
+ 
+ 
+X 
+Empresa cuja atividade(s) econômica(s), principal ou 
+secundária, conste na Tabela C.2 
+ 
+ 
+X 
+C.1.1 Caso a edificação, espaço destinado ao uso coletivo ou empresa possua características que 
+a enquadre em mais de um nível de risco, será sempre considerado o maior nível para fins de 
+classificação. 
+C.1.2 A classificação como nível de risco III para as pessoas físicas e jurídicas que desenvolvam 
+atividades na área de competência do CBMMG e para aquelas que são responsáveis pela
+
+--- PÁGINA 45 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+45/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+comercialização, instalação, manutenção e conservação de aparelhos de prevenção contra 
+incêndio e pânico importará somente para fins de credenciamento e cadastramento, 
+respectivamente, das atividades junto ao CBMMG, conforme exigências da legislação específica. 
+C.1.2.1 As edificações e espaços destinados ao uso coletivo onde são desenvolvidas as atividades 
+citadas em C.1.2, para fins de licenciamento junto ao SSCIP, serão classificadas conforme as 
+demais características citadas na Tabela C.1. 
+C.2 As atividades econômicas que se classificam como nível de risco III são as previstas na Tabela 
+C.2. 
+Tabela C.2 – Relação das atividades econômicas classificadas como nível de risco III 
+CNAE 
+DENOMINAÇÃO 
+1621-8/00 
+Fabricação de madeira laminada e de chapas de madeira compensada, prensada e 
+aglomerada 
+19xx-x/xx 
+Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis 
+35xx-x/xx 
+Eletricidade, gás e outras utilidades 
+4679-6/01 
+Comércio atacadista de tintas, vernizes e similares 
+4681-8/xx 
+Comércio atacadista de combustíveis sólidos, líquidos e gasosos, exceto gás natural e GLP 
+4682-6/xx 
+Comércio atacadista de gás liquefeito de petróleo (GLP) 
+4684-2/xx 
+Comércio atacadista de produtos químicos e petroquímicos, exceto agroquímicos 
+4686-9/xx 
+Comércio atacadista de papel e papelão em bruto e de embalagens 
+4687-7/01 
+Comércio atacadista de resíduos de papel e papelão 
+4687-7/02 
+Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão 
+4731-8/00 
+Comércio varejista de combustíveis para veículos automotores 
+4784-9/00 
+Comércio varejista de gás liquefeito de petróleo (GLP) 
+4789-0/06 
+Comércio varejista de fogos de artifício e artigos pirotécnicos 
+8511-2/00 
+Educação infantil – creche 
+8512-1/00 
+Educação infantil - pré-escola 
+861x-x/xx 
+Atividades de atendimento hospitalar 
+9321-2/xx 
+Parques de diversão e parques temáticos 
+Nota: O CNAE da tabela que possua "x" significa que qualquer algarismo dentro do valor 
+representa nível de risco III. 
+Exemplos:  
+19xx-x/xx - Todas as atividades da divisão 19 representam nível de risco III;
+
+--- PÁGINA 46 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+46/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+35xx-x/xx - Todas as atividades da divisão 35 representam nível de risco III;  
+C.3 A atividade explorada em estabelecimento inócuo ou virtual será classificada como nível de 
+risco I, independentemente da edificação em que se situa. 
+C.3.1 Será considerada atividade explorada em estabelecimento inócuo ou virtual aquela: 
+a) exercida na residência do empresário, titular ou sócio, na hipótese em que a atividade não gere 
+grande circulação de pessoas; ou 
+b) em que a atividade exercida for tipicamente digital, de modo que não exija estabelecimento 
+físico para a sua operação. 
+C.4 A empresa estará licenciada junto ao CBMMG quando a edificação onde for desenvolvida a 
+atividade econômica estiver regular. 
+C.5 A área a ser considerada para definição do risco da empresa, salvo nos casos de atividade 
+explorada em estabelecimento inócuo ou virtual, é a área total da edificação ou espaço destinado 
+ao uso coletivo onde a empresa está instalada e não somente a área utilizada pela empresa. 
+C.5.1 Para o cômputo da área das referidas edificações, serão desconsideradas as áreas da 
+edificação da Divisão A-1 (habitação unifamiliar) que fizerem parte da propriedade, desde que 
+disponham de acessos independentes e sem área comum, aplicando-se o previsto nos itens A.3.2 
+e A.3.3.
+
+--- PÁGINA 47 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+47/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+ANEXO D 
+LICENCIAMENTO DE EMPRESAS, EDIFICAÇÕES OU ESPAÇOS DESTINADOS AO USO 
+COLETIVO CLASSIFICADOS COMO NÍVEL DE RISCO I E II 
+D.1 As empresas, edificações ou espaços destinados ao uso coletivo classificados como nível de 
+risco I estão dispensados de atos público de licenciamento, restando, contudo, a obrigação da 
+instalação das medidas preventivas obrigatórias constantes nas Tabelas do Anexo A desta IT, 
+conforme sua ocupação, sendo dispensadas de vistorias para o início das atividades. 
+D.2 As empresas, edificações ou espaços destinados ao uso coletivo classificados como nível de 
+risco II são dispensados de vistorias prévias para o início das atividades, devendo instalar as 
+medidas preventivas obrigatórias constantes nas Tabelas do Anexo A desta IT e emitir o 
+Certificado de Licenciamento Provisório. 
+D.3 As medidas de segurança obrigatórias são as constantes nas Tabelas do Anexo A desta IT, 
+conforme sua ocupação, devendo seguir o previsto em norma técnica regulamentar para a 
+instalação e/ou manutenção de medidas preventivas para cada risco específico. 
+D.3.1 São medidas de segurança obrigatórias para empresas, edificações ou espaços destinados 
+ao uso coletivo de nível de risco I e II: 
+a) Extintores; 
+b) Iluminação de Emergência; 
+c) Sinalização de Emergência; 
+d) Saídas de Emergência. 
+D.3.1.1 Adicionalmente, serão exigidas as seguintes medidas de segurança: 
+a) Brigada de Incêndio: para a divisão E-6 (escolas para excepcionais, deficientes visuais e 
+auditivos e assemelhados). 
+b) Brigada de Incêndio e Controle de Materiais de Acabamento e Revestimento (CMAR): para as 
+divisões H-2 (asilos, orfanatos, abrigos geriátricos, reformatórios, locais para tratamento de 
+dependentes químicos e assemelhados, todos sem celas) e H-5 (reformatórios, prisões em geral 
+- casa de detenção, penitenciárias, presídios, cadeias públicas, delegacias - e instituições 
+assemelhadas, todos com celas). 
+Nota: As demais atividades das divisões H-2 e H-5 são consideradas nível de risco III, conforme 
+dispõe a Tabela C.2. 
+D.4 O Certificado de Licenciamento Provisório será emitido eletronicamente por meio da Redesim-
+MG com validade de 1 (um) ano, improrrogável e contado a partir da primeira emissão. 
+D.4.1 O Certificado de Licenciamento Provisório possuirá no mínimo as seguintes informações: 
+a) Número de controle; 
+b) Validade; 
+c) Endereço completo; 
+d) Razão Social;
+
+--- PÁGINA 48 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+48/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+e) CNPJ/CPF; 
+f) Proprietário; 
+g) Data da emissão. 
+D.4.2 A veracidade das informações prestadas na constituição da empresa ou durante o 
+licenciamento, a alteração destas informações, a emissão de certificados e segundas vias são de 
+inteira responsabilidade do empresário individual ou do(s) sócio(s), sendo este(s) 
+responsabilizado(s) civil e penalmente conforme legislação vigente. 
+D.4.3 A alteração das informações da empresa na Redesim-MG não muda o prazo de validade 
+fixado em 1 (um) ano. 
+D.4.4 Até o final da validade, o proprietário ou responsável pelo uso deverá providenciar o AVCB 
+em substituição ao licenciamento provisório, por meio do processo compatível (PT ou PTS). 
+D.5 As empresas, edificações ou espaços destinados ao uso coletivo classificados como nível de 
+risco I e II, ainda que dispensados de atos públicos ou disponham de Certificado de Licenciamento 
+Provisório, respectivamente, poderão ser fiscalizados a qualquer tempo e estão sujeitos às 
+sanções administrativas.
+
+--- PÁGINA 49 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+49/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+ANEXO E 
+ELABORAÇÃO DO PSCIP 
+E.1 Procedimentos para elaboração do PSCIP 
+E.1.1 O PSCIP será elaborado conforme grau de risco da edificação, espaço destinado ao uso 
+coletivo e empresas, devendo ser consideradas as seguintes características: 
+a) ocupação e uso;  
+b) altura da edificação; 
+c) área total (área construída, área a construir e espaço destinado ao uso coletivo);  
+d) população (público) fixa ou flutuante;  
+e) carga incêndio específica; 
+f) presença de riscos especiais. 
+E.1.2 As medidas de segurança estão definidas no Anexo A desta IT e em instruções técnicas 
+específicas, quando for o caso. 
+E.1.3 Para elaboração do PSCIP (PT, PTS e PET), deverá ser adotada a IT 03 (Composição do 
+Processo de Segurança Contra Incêndio e Pânico), quanto à descrição dos documentos e 
+conteúdo das plantas. 
+E.1.4 Para modificação de PSCIP aprovado, deverá ser avaliada a legislação vigente, 
+considerando a possibilidade de acréscimo ou redução nas exigências de medidas de segurança 
+e nos seus parâmetros, bem como deverá ser observado o disposto no Quadro E.9. 
+E.1.5 Para elaborar PSCIP de edificação existente, construída ou pertencente ao patrimônio 
+cultural, deverá ser atendido o previsto nas instruções técnicas específicas, considerando a 
+documentação exigida e parâmetros de adaptação das medidas de segurança, observando-se, 
+ainda, o disposto no item E.12 desta IT. 
+E.2 Classificação quanto à ocupação e uso 
+E.2.1 A ocupação e uso serão definidos conforme o Decreto Estadual que regulamenta a 
+prevenção no Estado de Minas Gerais. 
+E.2.2 Edificações e espaços destinados ao uso coletivo que não tenham sua ocupação ou seu uso 
+definido serão submetidos à avaliação do Corpo Técnico, para fins de definição quanto à 
+classificação e exigências de medidas de segurança. 
+E.2.3 Será considerada ocupação mista o exercício de mais de uma ocupação ou divisão em uma 
+edificação ou espaço destinado ao uso coletivo quando não houver isolamento de risco entre as 
+ocupações ou divisões. 
+E.2.3.1 Não será considerada ocupação mista o conjunto de atividades exercidas em uma 
+edificação ou espaço destinado ao uso coletivo onde predomina uma atividade principal que 
+possua atividades secundárias destinadas à sua concretização, desde que a soma das áreas onde 
+seja exercida cada atividade secundária não ultrapasse o limite de 930 m².
+
+--- PÁGINA 50 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+50/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+Exemplo: Uma indústria (Grupo I) poderá possuir 2 refeitórios (F-8) de 465 m², cada, e três 
+escritórios (D-1) de 310 m², cada, não sendo considerada ocupação mista. 
+E.3 Definição da altura da edificação 
+E.3.1 A altura da edificação será considerada observando-se a maior distância vertical em metros 
+a ser vencida pelo público da edificação para chegar ao nível de descarga, seja em sentido 
+ascendente ou descente. 
+E.3.2 Em edificações com mais de um nível de descarga na mesma rota de fuga, seja em sentido 
+ascendente ou descente, será considerado, para a definição da altura da edificação, o menor 
+trajeto de deslocamento a ser percorrido na vertical para se alcançar a descarga mais próxima 
+pelos usuários do pavimento mais distante. 
+E.3.3 Para a definição da altura, serão excluídos ático, casa de máquinas, elevação para acessar 
+equipamentos industriais, barrilete, reservatório d'água, pavimentos superiores da cobertura e 
+assemelhados. 
+E.4 Definição da área total para fins de projeção de medidas de segurança 
+E.4.1 A área total a ser considerada para fins de definição e implementação das medidas de 
+segurança será a somatória da área a construir, da área construída e dos espaços destinados ao 
+uso coletivo. 
+E.4.2 A área a construir será definida considerando a somatória das áreas cobertas a serem 
+construídas e dos espaços destinados ao uso coletivo a serem construídos ou implementados, em 
+metros quadrados. 
+E.4.3 A área construída será definida considerando o somatório das áreas cobertas já construídas 
+e dos espaços destinados ao uso coletivo já construídos ou implementados, em metros quadrados. 
+E.4.4 As áreas cobertas são aquelas que possuem piso e teto, pertencentes ao imóvel, excluídos 
+os locais listados no item E.4.7. 
+E.4.4.1 Quando delimitadas por paredes, as áreas cobertas deverão ser aferidas considerando o 
+perímetro interno das paredes externas. 
+E.4.4.2 Quando não delimitadas por paredes, as áreas cobertas deverão ser aferidas 
+considerando a projeção horizontal da cobertura. 
+E.4.5 Os espaços destinados ao uso coletivo serão definidos considerando o somatório das áreas 
+descobertas onde sejam desenvolvidas, com a possibilidade da ocorrência de sinistro, as 
+atividades previstas na Tabela do Anexo do Decreto nº 47.998/2020, observado o disposto no item 
+E.4.8. 
+E.4.6 A área a ser considerada para definição de exigências poderá ser subdividida se os riscos 
+forem isolados, quando atendidos os parâmetros da IT 05 (Separação entre edificações). 
+E.4.7 Não serão computadas para definição da área total, tampouco para definição e 
+implementação das medidas de segurança contra incêndio e pânico, as seguintes áreas cobertas: 
+a) platibandas; 
+b) beirais de telhado e marquises com até 1,20m (um metro e vinte centímetros) de projeção, que 
+não sejam utilizados para instalação ou guarda de materiais e/ou equipamentos;
+
+--- PÁGINA 51 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+51/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+c) reservatórios de água; 
+d) piscinas; 
+e) barriletes, excetuados aqueles que dispõem de casas de bombas de incêndio, ou outro 
+equipamento que exige proteção de medida de segurança; 
+f) elevadores; 
+g) shafts e similares; e  
+h) locais não delimitados por paredes cuja cobertura seja constituída por toldos, tendas e similares, 
+destinados a atividades que não gerem risco de incêndio. 
+E.4.8 Serão considerados locais livres de risco para a segurança contra incêndio e pânico e, 
+portanto, não serão contabilizados para definição da área total, tampouco para definição e 
+implementação de medidas de segurança, desde que não utilizados como áreas de recepção de 
+público, os espaços destinados ao uso coletivo utilizados como: 
+a) depósitos de material incombustível;  
+b) atividades de agronegócio;  
+c) arruamentos internos e áreas de circulação de pedestres; 
+d) escadas externas não destinadas à saída de emergência; 
+e) pátios; 
+f) jardins; 
+g) pistas de corrida; 
+h) quadras de esportes; 
+i) áreas de lazer; 
+j) piscinas; 
+k) playgrounds; 
+l) coretos; 
+m) praças; e 
+n) demais espaços livres exteriores onde a atividade desenvolvida não configure risco de incêndio 
+e pânico. 
+E.4.8.1 Caso haja delimitação da área nos espaços citados em E.4.8, deverá haver saídas de 
+emergência compatível com o público previsto.  
+E.4.8.2 Deverá haver previsão de extintores portáteis nas guaritas ou local assemelhado. 
+E.4.8.3 As áreas de apoio ou demais edificações deverão dispor de medidas correspondentes ao 
+uso conforme as tabelas específicas do Anexo A e tendo em vista eventual risco especial. 
+E.4.9 O disposto no item E.4.8 e subitens também se aplicará aos estacionamentos descobertos, 
+cuja ocupação seja principal ou secundária, desde que: 
+a) não estejam sobre laje/edificação; 
+b) atendam ao isolamento de risco em relação às edificações adjacentes, conforme IT 05 (quando 
+o isolamento de risco se der por distância de separação, o cálculo deverá ser realizado 
+considerando apenas as edificações como expositoras);
+
+--- PÁGINA 52 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+52/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+c) estejam localizados a uma distância mínima de segurança de 4 m em relação às aberturas das 
+fachadas (aplicável quando o resultado do cálculo de isolamento de risco for inferior a 4 m); 
+d) haja distanciamento mínimo de 4 m entre as quadras de estacionamento; e 
+e) haja acesso de viaturas do Corpo de Bombeiros, conforme IT 04. 
+E.4.9.1 As telas de sombreamento (sombrites – sombreadores) projetadas para proteger veículos 
+não implicarão na contabilização do espaço como área total, tampouco para definição e 
+implementação de medidas de segurança.  
+E.4.9.2 As garagens de veículos de carga e coletivos (divisão G-4) e os pátios de depósito de 
+veículos (ocupação J) não se enquadram no disposto em E.4.9, devendo os espaços destinados 
+à acomodação de veículos de tais locais, ainda que descobertos, serem computados para 
+definição da área total, bem como para definição e implementação de medidas de segurança. 
+E.5 Mezaninos 
+E.5.1 Será considerada mezanino a estrutura que subdivide parcialmente um pavimento em dois 
+pisos, desde que a estrutura não possua área superior à metade da área do pavimento subdividido 
+ou superior a 200 m². 
+E.5.1.1 Quando a estrutura possuir área superior a 200 m² e inferior à metade do pavimento 
+subdividido, as exigências de medidas de segurança decorrentes de sua desqualificação como 
+mezanino se aplicarão exclusivamente à referida estrutura. 
+E.5.1.2 Quando a estrutura possuir área superior à metade do pavimento subdividido, será 
+considerada um novo pavimento, sendo que as exigências de medidas de segurança decorrentes 
+da desqualificação como mezanino se aplicarão a toda a edificação. 
+E.6 População 
+E.6.1 A quantidade de pessoas previstas para edificação ou espaço destinado ao uso coletivo 
+deverá considerar a população fixa e a população flutuante, em virtude dos parâmetros definidos 
+nas instruções técnicas específicas. 
+E.6.2 A população prevista para a edificação ou espaço destinado ao uso coletivo poderá ser 
+alterada em função da realização de eventos temporários ou da capacidade das saídas de 
+emergências, devendo ser respeitados os parâmetros específicos de cada ocupação. 
+E.7 Definição da carga incêndio específica 
+E.7.1 A definição da carga incêndio específica será obtida conforme formulação e critérios 
+definidos em IT específica. 
+E.8 Presença de riscos especiais 
+E.8.1 Serão considerados riscos especiais na edificação e espaço destinado ao uso coletivo, os 
+seguintes equipamentos e atividades: 
+a) tanques de combustível (substância e capacidade); 
+b) casa de caldeira ou vasos de pressão;
+
+--- PÁGINA 53 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+53/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+c) dutos e aberturas que possibilitem a propagação do calor, exceto aqueles próprios de medidas 
+de segurança; 
+d) cabinas de pintura; 
+e) áreas com risco de explosão; 
+f) centrais prediais de gases inflamáveis; 
+g) depósitos de metais pirofóricos; 
+h) comercialização, armazenamento, manipulação e/ou utilização de Gás Liquefeito de Petróleo 
+(GLP), Gás Natural (GN) e/ou demais gases combustíveis ou inflamáveis; 
+i) manipulação e/ou armazenamento de produtos perigosos, explosivos e líquidos inflamáveis ou 
+combustíveis; 
+j) cobertura de sapê, piaçava ou similares; 
+k) heliporto ou heliponto; 
+l) comércio de fogos de artifício e pirotecnia; 
+m) pátio de contêineres; 
+n) cozinhas profissionais; 
+o) subestações; 
+p) outros riscos que necessitem de medidas de segurança contra incêndio e pânico específicas. 
+E.8.2 Em cada local onde existam os riscos listados no item E.8.1, as medidas de segurança 
+complementares serão instaladas conforme definição de IT específica ou, subsidiariamente, 
+norma técnica da ABNT, independente das medidas de segurança exigidas para a ocupação, não 
+cabendo a formulação de exigências adicionais às listadas na norma utilizada.  
+E.8.2.1 As medidas de segurança complementares de que trata o subitem E.8.2 serão instaladas 
+para cobrir o risco especial, nos estritos termos da norma utilizada, não devendo ser exigidas para 
+o restante da edificação ou espaço destinado a uso coletivo quando a norma assim não o fizer. 
+E.8.3 Nas edificações ou espaços destinados ao uso coletivo correspondentes às Divisões F-3 
+(estádios), H-2 (hospitais psiquiátricos, reformatórios e locais para tratamento de dependentes 
+químicos) e H-5, os extintores e o sistema de hidrantes/mangotinhos deverão ser instalados em 
+locais com acesso privativo. 
+E.9 Aplicação de legislação  
+E.9.1 Para a elaboração, modificação de PSCIP e implementação de medidas de segurança, 
+deverão ser utilizadas as normas atuais, exceto nos casos em que o Decreto Estadual nº 
+47.998/2020 e as instruções técnicas vigentes permitirem a utilização de normas anteriores. 
+E.9.2 Os Documentos Técnicos emitidos pela ABNT não substituem Leis, Decretos ou 
+Regulamentos, aos quais os usuários devem atender, tendo, estes últimos, precedência sobre 
+qualquer documento técnico da ABNT.
+
+--- PÁGINA 54 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+54/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+E.9.2.1 O CBMMG definirá as versões das normas técnicas da ABNT que poderão ser utilizadas 
+para atender à exigência dos requisitos de segurança contra incêndio e pânico. 
+E.9.3 Nos casos em que ocorrer modificação de PSCIP, as exigências de medidas de segurança 
+e os parâmetros de dimensionamento atenderão aos critérios definidos no Quadro E.9.  
+Quadro E.9 – Critérios para aplicação de legislação em PSCIP 
+SITUAÇÃO / ALTERAÇÃO  
+LEGISLAÇÃO APLICÁVEL  
+Modificação sem acréscimo de área ou com redução de área, ambos 
+sem alteração da eficiência de sistema preventivo  
+Aplica-se a legislação da época de 
+aprovação do PSCIP  
+Atualização de dados ou documentos que não alteram eficiência de 
+sistema preventivo  
+Modificação que altere a eficiência de sistema preventivo  
+Aplica-se a legislação atual (Mantém 
+data de construção)  
+Mudança de ocupação/uso (1) (2) (3) 
+Ampliações de área construída (no 
+caso de mais de 01 (uma) 
+ampliação em 01 (uma) mesma 
+edificação, o percentual relativo ao 
+acréscimo 
+de 
+área 
+será 
+cumulativo, 
+levando 
+em 
+consideração a área construída 
+antes da primeira ampliação)  
+Ampliação igual ou inferior a 
+25%  
+Aplicam-se os parâmetros e medidas 
+de segurança previstos à época de 
+aprovação  
+(Mantém data de construção)  
+Ampliação superior a 25% e 
+inferior a 50%  
+Aplica-se a legislação atual (Mantém 
+data de construção)  
+Ampliação superior a 50% 
+Aplica-se a legislação atual (Altera 
+data de construção, passando a ser 
+considerada a data em que foi 
+concluída a ampliação)  
+Edificação que possua tombamento por Órgão de preservação  
+Atenderão às exigências de instrução 
+técnica específica.  
+Notas genéricas: 
+A) As edificações e espaços destinados ao uso coletivo que possuam PSCIP apenas aprovado ou que já 
+possuam AVCB deverão adaptar-se às medidas de segurança “Brigada de Incêndio”, “Iluminação de 
+Emergência”, “Sinalização de Emergência” e “Extintores de Incêndio”. 
+B) Edificações classificadas como F-5, F-6, F-10 e F-11, com população superior a 200 (duzentas) pessoas, 
+deverão se adequar às exigências de “Controle de Materiais de Acabamento e de Revestimento”.  
+Notas específicas: 
+1) Quando a mudança de ocupação ocorrer apenas em 01 (uma) área específica ou pavimento de edificação, 
+devem ser adotadas as medidas de segurança previstas pela legislação atual na área onde houve a mudança, 
+devendo-se avaliar a interferência da nova ocupação no tocante às saídas de emergência.  
+2) Quando a mudança de ocupação ocorrer em toda a edificação devem ser adotadas as medidas de 
+segurança previstas pela legislação atual.  
+3) A reclassificação da atividade no regulamento de segurança contra incêndio e pânico não configura 
+mudança de ocupação para fins de aplicação da legislação atual nos casos de edificação com PSCIP 
+aprovado, dentro do prazo de validade, ou com AVCB. 
+E.10 Medidas de segurança para ocupação mista 
+E.10.1 Para o dimensionamento das medidas de segurança em edificações e espaços destinados 
+ao uso coletivo com ocupação mista, será necessário verificar a compartimentação entre as 
+ocupações. 
+E.10.1.1 A compartimentação entre ocupações será caracterizada quando determinada ocupação 
+estiver compartimentada horizontal e verticalmente em relação às demais, conforme parâmetros 
+e critérios da IT-07 (Compartimentação Horizontal e Compartimentação Vertical).
+
+--- PÁGINA 55 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+55/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+E.10.1.2 Para que uma ocupação esteja compartimentada, é necessário o atendimento dos 
+parâmetros e critérios de compartimentação horizontal e vertical, conforme IT 07, apenas nos 
+elementos construtivos que constituem a separação física entre as ocupações pretendidas - e não 
+na edificação como um todo.  
+E.10.2 Não havendo compartimentação entre as ocupações, deverão ser observados os seguintes 
+critérios:  
+a) para definição das medidas de segurança, deverão ser observadas as exigências específicas 
+de cada ocupação, considerando a área total e a altura total da edificação ou espaço destinado a 
+uso coletivo; 
+b) o conjunto das medidas de segurança exigidas para cada ocupação deverá ser projetado em 
+toda a edificação e espaço destinado ao uso coletivo; 
+c) serão considerados os parâmetros mais rigorosos de cada medida de segurança para toda a 
+edificação e espaço destinado ao uso coletivo. 
+E.10.3 Havendo compartimentação entre as ocupações, deverão ser observados os seguintes 
+critérios:  
+a) para definição das medidas de segurança de cada ocupação, deverão ser observadas as 
+exigências específicas de cada ocupação, considerando a área total da edificação e espaço 
+destinado ao uso coletivo e a altura específica de cada ocupação; 
+b) as medidas de segurança exigidas para cada ocupação serão projetadas individualmente para 
+cada ocupação; 
+c) os parâmetros de cada medida de segurança devem ser considerados em cada ocupação, 
+considerando a área específica da ocupação; 
+d) o dimensionamento das medidas de segurança deve ser feito para cada tipo de sistema 
+individualmente ou dimensionado para atender ao maior risco.  
+E.10.3.1 As medidas “Segurança Estrutural contra Incêndio”, “Alarme de Incêndio” ou “Sistema de 
+Hidrantes”, quando exigidas em quaisquer das ocupações, deverão ser projetadas em toda a 
+edificação.  
+E.10.4 Quando for exigida a medida “Segurança Estrutural Contra Incêndio” para qualquer das 
+ocupações, havendo ou não compartimentação, devem ser adotados os parâmetros mais 
+rigorosos em toda a edificação.  
+E.11 Adaptação de medidas em edificações e espaços destinados ao uso coletivo com 
+PSCIP aprovado ou com AVCB 
+E.11.1 As edificações e espaços destinados ao uso coletivo que possuam PSCIP apenas aprovado 
+ou que já possuam AVCB (PSCIP aprovado e liberado) deverão adaptar-se às medidas de 
+segurança “Brigada de Incêndio”, “Iluminação de Emergência”, Sinalização de “Emergência” e 
+“Sistema de Extintores”, conforme previsão das tabelas do Anexo A e parâmetros das instruções 
+técnicas específicas em vigor. 
+E.11.2 A adaptação de edificações e espaços destinados ao uso coletivo quanto à medida brigada 
+de incêndio ocorrerá mediante atualização de dados cadastrais, com a apresentação dos 
+seguintes documentos: 
+a) relação dos brigadistas com cópia dos certificados;
+
+--- PÁGINA 56 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+56/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+b) quadro resumo da medida, podendo ser emitido por RT diferente do responsável pelo PSCIP 
+aprovado, sem a necessidade de distrato, desde que acompanhado do respectivo documento de 
+responsabilidade técnica registrado junto ao conselho profissional. 
+E.11.2.1 Para edificações e espaços destinados ao uso coletivo com PSCIP aprovado e liberado 
+que já possuam a medida “Brigada de Incêndio”, a adaptação à IT específica vigente ocorrerá 
+mediante atualização de dados cadastrais, antes da renovação do AVCB. 
+E.11.3 Havendo somente PSCIP aprovado, a adaptação às medidas “iluminação de emergência”, 
+“Sinalização de Emergência” e/ou “Sistema de Extintores” deverá ocorrer mediante modificação 
+do projeto, seguindo os seguintes procedimentos: 
+a) a adaptação às medidas deverá adotar os parâmetros previstos nas instruções técnicas 
+específicas em vigor. 
+b) o PSCIP será submetido à análise para fins de verificação de projeção das medidas de 
+segurança e, posteriormente, à vistoria para fins de emissão do AVCB. 
+E.11.4 Havendo PSCIP aprovado e liberado (AVCB ou equivalente), a adaptação às medidas 
+“iluminação de emergência”, “sinalização de emergência” e/ou “sistema de extintores” ocorrerá 
+mediante Laudo de Renovação do AVCB, devendo o RT responsável pelo laudo indicar que as 
+referidas medidas foram executadas na edificação ou espaço destinado ao uso coletivo conforme 
+instruções técnicas específicas em vigor. 
+E.11.4.1 A verificação de instalação da iluminação de emergência, sinalização de emergência e 
+sistema de extintores será mediante eventual vistoria de fiscalização, sendo de responsabilidade 
+do RT o atendimento às instruções técnicas específicas. 
+E.11.5 Edificações classificadas como F-5, F-6, F-10 e F-11, com população superior a 200 
+(duzentas) pessoas, que possuam PSCIP apenas aprovado ou que já possuam AVCB (projeto 
+aprovado e liberado), deverão se adaptar à medida Controle de Materiais de Acabamento e de 
+Revestimento (CMAR), mediante atualização de dados cadastrais, com a apresentação dos 
+seguintes documentos: 
+a) Declaração de Responsabilidade Técnica pelo CMAR, acompanhada do documento de 
+responsabilidade técnica registrado junto ao respectivo conselho profissional. 
+b) Quadro resumo do CMAR. 
+E.11.5.1 Os documentos citados em E.11.5 podem ser emitidos por RT diferente do responsável 
+pelo PSCIP aprovado, sem a necessidade de distrato, desde que acompanhados de documento 
+de responsabilidade técnica registrado junto ao respectivo conselho profissional. 
+E.11.6 As adaptações que se fizerem necessárias à adequação das medidas de segurança em 
+edificações e espaços destinados ao uso coletivo existentes e construídos, em caso de 
+impossibilidade técnica, deverão atender ao previsto na IT 40 (Adequação de Medidas de 
+Segurança para Edificações). Os demais casos deverão atender às instruções técnicas 
+específicas ou parecer exarado por Corpo Técnico. 
+E.12 Edificações existentes e construídas 
+E.12.1 As edificações existentes (anteriormente a 02jul2005) ou construídas (entre 02jul2005 e 
+31dez2016) que não possuam PSCIP aprovado e liberado seguirão os mesmos procedimentos
+
+--- PÁGINA 57 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+57/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+para o licenciamento de edificações novas, buscando atender às instruções técnicas atualmente 
+vigentes.  
+E.12.1.1 Havendo fundamentada impossibilidade técnica de adequação de medidas de segurança 
+previstas nas instruções técnicas vigentes, deverão ser observadas as possibilidades de 
+adaptação previstas na IT 40. 
+E.12.1.2 As saídas de emergência de edificações existentes poderão observar o disposto no item 
+A.2.3 desta IT. 
+E.12.1.3 Não serão exigidas, para as edificações existentes, as medidas de segurança previstas 
+no item A.2.1, salvo quando houver acréscimo de área superior a 50 (cinquenta) %, observada a 
+tabela de medidas de segurança específica. 
+E.12.1.4 A comprovação da existência ou construção da edificação ocorrerá por meio de 
+documentos comprobatórios emitidos pela administração pública (processos no CBMMG, 
+prefeituras, secretarias, empresas e/ou outros órgãos públicos, autarquias, etc.) ou cartórios 
+(registro do imóvel, atas de condomínio, etc.), desde que informe a área construída, ocupação e 
+data da edificação. 
+E.12.1.4.1 Na impossibilidade de apresentar documentos oficiais, a comprovação poderá ser feita 
+por meio de declaração, conforme Anexo A da IT 40. 
+E.12.1.4.2 Poderá ser apresentado laudo técnico utilizando imagem fotogramétrica para 
+comprovação de existência ou construção de uma edificação, devendo o laudo ser emitido por 
+profissional devidamente habilitado e estar acompanhado do respectivo documento de 
+responsabilidade técnica registrado junto ao conselho profissional. 
+E.12.1.5 A aplicação da IT 40 ocorrerá mediante apresentação de laudo técnico de profissional 
+habilitado, acompanhado do respectivo documento de responsabilidade técnica registrado junto 
+ao conselho profissional, indicando a limitação técnica e fundamentação que justifique a 
+impossibilidade de projeção de uma medida conforme Instruções Técnicas específicas. 
+E.12.1.5.1 O laudo técnico deverá prever a implantação de medidas alternativas que mitiguem os 
+riscos decorrentes da ausência das medidas exigidas pela legislação vigente, sejam elas medidas 
+já previstas na IT 40 ou não. 
+E.12.1.5.2 Os casos de impossibilidade técnica de execução de medidas não abrangidos pela IT 
+40 poderão ser analisados por Corpo Técnico (CT), desde que esgotadas as possibilidades de 
+intervenção para adequação à legislação atual, bem como as soluções indicadas na referida IT. 
+E.12.1.6 Nos casos de Projeto Técnico Simplificado (PTS), se as adaptações e medidas 
+mitigadoras não estiverem previstas na IT 40, o RT deverá atestar a segurança dos ocupantes da 
+edificação em caso de incêndio ou pânico, mediante preenchimento de laudo próprio (Anexo C da 
+IT 40), sem avaliação de mérito pelo CBMMG, cabendo ao vistoriador apenas a conferência da 
+documentação exigida (comprovante de existência/construção, Laudo Técnico para PTS e 
+documento de responsabilidade técnica registrado junto ao respectivo conselho profissional). 
+E.12.2 As edificações que tenham concluído sua construção em data posterior a 31dez2016, 
+embora já se encontrem edificadas, serão consideradas como edificações novas, devendo atender 
+às instruções técnicas mais atuais em sua integralidade, não cabendo as adaptações previstas na 
+IT 40. 
+E.12.3 As edificações existentes que sejam tombadas pelo patrimônio histórico deverão ter seu 
+PSCIP elaborado com base na IT 35, não sendo aplicável o disposto na IT 40.
+
+--- PÁGINA 58 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+58/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+ANEXO F 
+TAXA DE SEGURANÇA PÚBLICA (TSP)  
+F.1 A cobrança, valores e forma de cálculo de TSP são as constantes na Tabela B do Decreto 
+Estadual nº 38.886/1997, que aprova o Regulamento das Taxas Estaduais.  
+F.1.1 A TSP a ser recolhida pelo serviço de análise e vistoria de edificações ou espaço destinado 
+ao uso coletivo tem como parâmetros a área, edificada ou não, que requer proteção contra 
+incêndio e pânico através de medidas ativas e passivas. 
+F.1.2 Há cobrança de TSP para os seguintes serviços: 
+a) análise de PSCIP;  
+b) vistoria de edificação, espaço destinado ao uso coletivo e eventos temporários, para fins de 
+obtenção de AVCB; 
+c) cadastramento de pessoa física ou jurídica responsável pela comercialização, instalação, 
+manutenção e conservação de aparelhos de prevenção contra incêndio e pânico, bem como dos 
+demais profissionais descritos na IT 34. 
+F.1.2.1 A atualização de dados cadastrais de endereço, proprietário, responsável pelo uso e 
+responsável técnico, dentre outras atualizações que não se enquadrem em modificação de 
+PSCIP, bem como o procedimento declaratório de licenciamento, ocorrerão sem cobrança de 
+Taxa de Segurança Pública (TSP).  
+F.1.3 O Documento de Arrecadação Estadual (DAE) para recolhimento da TSP será calculado e 
+emitido eletronicamente por meio do Infoscip, no ato da solicitação do serviço. 
+F.1.4 Excepcionalmente para o PSCIP impresso, o DAE para recolhimento de TSP será emitido 
+pelo próprio interessado no sítio da Secretaria de Estado de Fazenda (SEF).  
+F.1.4.1 O cálculo do valor, conforme item F.1.5, e a emissão do DAE são de inteira 
+responsabilidade do interessado. 
+F.1.5 O valor a ser recolhido será definido em função da multiplicação da área da edificação ou 
+espaço destinado ao uso coletivo, valor da Unidade Fiscal do Estado de Minas Gerais (UFEMG), 
+e índice previsto na Tabela B do Decreto Estadual nº 38.886/1997, com aproximação de casas 
+centesimais e arredondamento para maior.  
+F.1.6 Nos projetos de galerias comerciais e shoppings, a cobrança da taxa incidirá sobre a área 
+total da edificação, inclusive sobre a área das futuras lojas âncoras previstas de forma hachurada 
+no PSCIP geral. 
+F.1.6.1 A parcela da TSP paga em decorrência da área de futura loja âncora será aproveitada 
+quando, efetivamente, houver a realização do referido serviço. Neste caso, no momento da 
+solicitação do serviço, o RT deverá apresentar FAT requerendo a isenção da taxa que já fora 
+recolhida. 
+F.1.7 Nos projetos técnicos para eventos temporários, a cobrança da taxa incidirá somente na 
+área total definida em projeto, pelo Responsável Técnico, com as medidas de segurança, 
+considerando os espaços a serem utilizados para o evento, incluindo as rotas de fuga até uma 
+área segura.
+
+--- PÁGINA 59 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+59/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+F.1.7.1 O coeficiente da TSP para eventos temporários será o previsto nos itens 1.2.1.1, 1.2.2.1, 
+1.2.3.1 e 1.2.4.1 da Tabela B do Decreto Estadual nº 38.886/1997. 
+F.1.8 Nas hipóteses previstas pelo art. 27 do Decreto Estadual nº 38.886/1997, o interessado 
+poderá, anteriormente à solicitação de realização do serviço, requerer a isenção de TSP por meio 
+de ferramenta própria no Infoscip, anexando a documentação que comprove o direito à isenção. 
+ 
+F.1.8.1 Excepcionalmente para o PSCIP impresso, o pedido de Isenção de Taxa deverá ser 
+protocolado por meio de ofício ou FAT apresentado junto à solicitação do respectivo serviço. 
+F.1.9 A solicitação do serviço de análise ou vistoria será efetivada após a confirmação da 
+compensação automática ou presencial do recolhimento da TSP específica ou, ainda, após a 
+confirmação de isenção de TSP. 
+F.1.10 A solicitação de cancelamento do serviço, pelo interessado, antes da realização da análise 
+ou vistoria, mediante justificativa, gera direito à utilização do valor da TSP na solicitação de outro 
+serviço de igual valor, à utilização do valor para complementação de outra TSP ou à restituição 
+da TSP paga, nos termos da legislação vigente. 
+F.1.11 O DAE pago não utilizado tem validade de cinco anos para quitar TSP referente aos 
+serviços de análise ou vistoria, sem necessidade de complementação. 
+F.2 Recolhimento de TSP para análise  
+F.2.1 O PT e o PET serão submetidos aos serviços de análise, sendo recolhida 1 (uma) TSP para 
+1 (um) serviço de análise, fazendo jus a uma nova análise para apresentação de correção de erros 
+ou falhas sem que haja novo recolhimento de TSP. 
+F.2.1.1 Também ocorrerá nova análise sem o recolhimento de TSP nos casos abaixo: 
+a) Quando a decisão em pedido de Reconsideração de Ato, Recurso de 1º Grau ou Recurso de 
+2º Grau dispensar o recolhimento de nova TSP;  
+b) Quando houver ausência de análise decorrente da não abertura de arquivo DWG ou PDF; 
+c) Quando se tratar de notificação para cumprimento de deliberação do Corpo Técnico, sem 
+reincidência de item(ns) notificado(s); 
+d) Quando o item notificado não se referir a medidas de SCIP, mas, sim, a orientações ao RT; 
+e) Quando houver isenção exarada pelo Comandante da Unidadade/Fração ou pela Adjuntoria 
+Técnica do CAT; 
+f) Quando o PSCIP não for analisado conforme solicitação em FAT apresentado pelo RT junto à 
+Unidade/Fração; 
+g) Quando se tratar de novo(s) item(ns) notificado(s), sem reincidência; 
+h) Quando se tratar de erro na redação de item da notificação anterior; 
+i) Quando se tratar de dúvida na interpretação da notificação decorrente da redação do item; ou 
+j) Quando houver necessidade de intervenção do Help Desk.
+
+--- PÁGINA 60 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+60/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+F.2.1.2 A TSP mínima para o serviço de análise de PSCIP é de 15,00 (quinze) Unidades Fiscais 
+do Estado de Minas Gerais (UFEMG). 
+F.2.2 Nos casos em que houver modificação de PSCIP com acréscimo de área, será cobrada TSP 
+apenas em relação à área acrescida, não inferior ao valor de TSP mínima. 
+F.2.2.1 Nos casos em que houver redução ou não houver alteração de área construída, será 
+cobrada a TSP mínima. 
+F.3 Recolhimento de TSP para vistoria  
+F.3.1 O PT, o PET e o PTS serão submetidos aos serviços de vistoria, sendo recolhida 1 (uma) 
+TSP para 1 (um) serviço de vistoria no local.  
+F.3.1.1 A TSP mínima para o serviço de vistoria de PSCIP é de 53,00 (cinquenta e três) UFEMG. 
+F.3.2 Deverá ser recolhida TSP de vistoria de acordo com a área a ser vistoriada especificada no 
+PSCIP, podendo ser sobre a área total ou parcial, conforme item 6.3.3 desta IT.  
+F.3.2.1 No caso de nova vistoria para constatar correção de irregularidades notificadas 
+anteriormente por vistoriador, deverá ser paga a TSP calculada sobre o valor da área notificada, 
+observado o valor mínimo de 53,00 (cinquenta e três) UFEMG. 
+F.3.2.2 O pagamento da TSP para área ser vistoriada parcialmente será correspondente à área 
+solicitada, observado o valor mínimo de 53,00 (cinquenta e três) UFEMG.
+
+--- PÁGINA 61 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+61/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+ANEXO G 
+PROCEDIMENTOS PARA GALERIAS COMERCIAIS E SHOPPING CENTER 
+G.1 Procedimentos para galerias comerciais e Shopping Center  
+G.1.1 Deverá ser apresentado PSCIP conforme disposto na IT 03, constando a área de toda a 
+edificação (área comum e privativa das lojas).  
+G.1.2 Poderá ser apresentado um único PSCIP para a edificação constando as lojas âncoras, 
+quando houver previsão, lojas satélites e área comum. 
+G.1.2.1 Nesses casos, deverão ser projetadas todas as medidas de segurança para os referidos 
+locais. 
+G.1.3 Poderão ser apresentados PSCIP separados, ocasião que um dos PSCIP deverá conter a 
+parte Geral da edificação (área comum, lojas satélites, áreas técnicas, áreas hachuradas prevendo 
+futuras lojas âncoras) e os outros serão específicos para lojas âncoras.  
+G.1.3.1 As medidas de segurança previstas no Anexo A deverão ser dimensionadas considerando 
+a área total da edificação.  
+G.1.4 Os extintores na área comum deverão atender ao caminhamento previsto na IT 16 (Sistema 
+de Proteção por Extintores de Incêndio), de forma a proteger as áreas privativas das lojas satélites.  
+G.1.4.1 Na impossibilidade em atender o caminhamento, deverá ser prevista a referida medida de 
+segurança na loja satélite.  
+G.1.5 O sistema de hidrantes/mangotinhos deverá ser previsto na área comum e ser dimensionado 
+para atender a área total da edificação, devendo ser atendido às seguintes condições:  
+a) os pontos de tomada de água deverão ser distribuídos na área comum de forma que as lojas 
+satélites sejam alcançadas por no mínimo 1 (um) esguicho, devendo ser considerado o 
+comprimento real e desconsiderando-se o alcance do jato;  
+b) será isenta a instalação de pontos de hidrantes/mangotinhos nos mezaninos, sobreloja, desde 
+que o caminhamento máximo estabelecido na IT 17 (Sistema de Hidrantes e Mangotinhos para 
+Combate a Incêndio) seja observado e não seja através de escada enclausurada;  
+c) na impossibilidade em atender o caminhamento, deverá ser prevista a referida medida de 
+segurança na loja satélite.  
+G.1.6 O sistema de chuveiro automático deverá ser previsto na área comum e ser dimensionado 
+para atender a área total da edificação, devendo ser atendidas as seguintes condições:  
+a) apresentar em planta separada a rede com os respectivos bicos;  
+b) não será necessário prever no PSCIP Geral a localização dos bicos de chuveiros automáticos 
+nas lojas satélites, sendo o posicionamento verificado na vistoria após a execução; 
+c) quando a loja âncora não for incluída no PSCIP Geral, deverá constar na planta apenas a 
+entrada da tubulação, devendo as demais tubulações ser previstas no PSCIP da loja âncora;  
+d) estando a loja âncora incluída no PSCIP Geral, deverá ser prevista a localização dos bicos em 
+sua área privativa.
+
+--- PÁGINA 62 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+62/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+G.1.7 Havendo previsão de iluminação de emergência por grupo moto-gerador ou alimentação 
+centralizada, o seu dimensionamento deverá abranger a área total da edificação (área comum e 
+áreas privativas).  
+G.2 Vistoria para fins de emissão de AVCB  
+G.2.1 Vistoria no PSCIP geral 
+G.2.1.1 A vistoria deverá ser realizada em toda a área da edificação (área comum e áreas 
+privativas das lojas), exceto nas lojas âncoras que disponham de PSCIP específico.  
+G.2.1.2 Durante a vistoria, deverá ser observado se as medidas instaladas na área comum 
+atendem às lojas satélites.  
+G.2.1.3 Durante a vistoria do PSCIP geral, constatando-se loja âncora em funcionamento que não 
+disponha de PSCIP específico e que não esteja contemplada no PSCIP geral, a vistoria de 
+emissão de AVCB deverá ser executada na parte geral e ser procedida à vistoria de fiscalização 
+na loja âncora. 
+G.2.1.4 Havendo aprovação em vistoria, será emitido o AVCB referente à área total da edificação, 
+não podendo ser emitido AVCB específico para a área comum da edificação. 
+G.2.2 Vistoria no PSCIP (específico) de lojas âncoras 
+G.2.2.1 A vistoria em loja âncora com PSCIP específico somente poderá ocorrer após a emissão 
+do AVCB para a edificação geral, cabendo observar as seguintes condições:  
+a) a solicitação será atendida se a edificação possuir liberação total ou parcial;  
+b) a loja âncora deverá ser localizada no pavimento da edificação principal que obteve o AVCB 
+parcial;  
+c) as rotas de fuga da edificação principal atendam a loja âncora conforme as normas 
+regulamentares.  
+G.2.2.2 Durante a vistoria para fins de liberação na loja âncora, sendo constatada irregularidade 
+em qualquer parte da edificação geral, referente à área comum, deverão ser adotados os 
+seguintes procedimentos:  
+a) o responsável pela edificação geral será notificado nos moldes da vistoria de fiscalização; 
+b) será emitido o AVCB para a loja âncora, desde que a irregularidade na área comum que já 
+possui AVCB, não comprometa a rota de fuga com obstruções, aumento do caminhamento; e não 
+prejudique o funcionamento de chuveiros automáticos, alarmes e detecção de incêndio. 
+G.3 Casos em que será obrigatória a modificação do PSCIP geral da edificação e/ou da loja 
+âncora:  
+a) acréscimo ou redução de área construída da edificação;  
+b) alterações na edificação que impliquem redimensionamento ou acréscimo de medidas de 
+segurança;  
+c) mudanças de leiaute e interligação de duas ou mais lojas satélites, que resultem em modificação 
+do PSCIP geral, devido à alteração na rota de fuga ou na área comum da edificação;
+
+--- PÁGINA 63 ---
+CBMMG IT 01 – Procedimentos Administrativos 
+ 
+9ª edição 
+ 
+63/63 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p. 08. 
+ 
+d) sempre que a mudança de leiaute, divisão e interligação de estabelecimentos altere as 
+características das lojas, de forma a necessitar de sistema de hidrante em seu interior.  
+G.4 Modificação de PSCIP geral e das lojas âncoras 
+G.4.1 A modificação do PSCIP geral e das lojas âncoras ocorrerá com a substituição de todos os 
+arquivos (documentos e plantas) necessários à aprovação. 
+G.4.2 Quando a modificação do PSCIP geral interferir na rota de fuga ou nas medidas preventivas 
+da(s) loja(s) âncora, o(s) PSCIP desta(s) também deverá(ão) ser modificado(s). 
+G.4.3 Caso a modificação no PSCIP da loja âncora decorra de alteração que afete a área comum 
+da edificação ou transforme lojas satélites em âncoras, o PSCIP geral da edificação deve ser 
+modificado antes da aprovação do PSCIP da loja âncora; neste caso, deverá ser apresentada uma 
+substituição do PSCIP geral que engloba a área e medidas de segurança dos estabelecimentos 
+alterados.  
+G.4.4 Para a substituição, deverão ser adotados os mesmos procedimentos para sua aprovação 
+inicial, tanto para análise quanto vistoria, inclusive cobrança de taxas.  
+G.5 Outras disposições para Galerias Comerciais e Shoppings Centers 
+G.5.1 Para os mezaninos dos estabelecimentos destinados à atividade com presença de público 
+externo (não caracterizado como uso restrito), deverão estar projetados no PSCIP geral e 
+instalados para verificação em vistoria: extintores, sinalização e iluminação de emergência. O 
+sistema de hidrantes instalado na área comum deverá atender ao caminhamento até o ponto mais 
+distante do mezanino.  
+G.5.2 Não sendo possível instalar as medidas de segurança na área comum, de forma a proteger 
+as lojas satélites, deverá ser projetada e instalada cada medida dentro das respectivas lojas. Neste 
+caso não poderá ser apresentado PSCIP específico para cada loja, somente um único PSCIP 
+geral abrangendo toda a área da edificação.  
+G.5.3 Para as ocupações mistas, deverão ser adotados os procedimentos previstos neste anexo 
+apenas em relação às ocupações C2 e C3, não sendo permitida a aprovação parcial das áreas, 
+tanto em análise quanto em vistoria.  
+G.5.4 Para as edificações com análise e vistoria em andamento, poderão ser adotados os 
+procedimentos previstos nesta IT, não sendo permitida a vistoria apenas para a área comum, nem 
+apresentação de PSCIP para cada loja, devendo o PSCIP geral prever todas as medidas da 
+edificação.  
+G.5.5 Os locais de reunião da divisão F-6 deverão apresentar, obrigatoriamente, PSCIP específico.  
+G.5.6 Para o funcionamento dos estabelecimentos que possuem licenciamento específico, 
+independentemente de sua validade, o AVCB da edificação deverá estar regular.

@@ -1,0 +1,604 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+1/13
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 17 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 34/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 02 – 2ª
+Edição (Terminologia de Proteção Contra Incêndio e Pânico):
+ 
+1. ALTERAR o item 4.13
+Onde se lê: 
+"4.13 Altura da ediﬁcação ou altura descendente: É a medida em metros entre o ponto que
+caracteriza a saída ao nível de descarga, sob a projeção do paramento externo da parede da ediﬁcação, ao
+piso do úlƟmo pavimento, excluindo o áƟco, casa de máquinas, elevação para acessar equipamentos
+industriais, barrilete, reservatório d'água, pavimento superior da cobertura - duplex - e assemelhados;
+havendo mais de um nível de descarga em uma ediﬁcação, a altura a ser considerada será a menor."
+Leia-se:
+"4.13 Altura da ediﬁcação: É a medida em metros entre o ponto que caracteriza a saída ao
+nível de descarga, sob a projeção do paramento externo da parede da ediﬁcação, ao piso do úlƟmo
+pavimento, excluindo o áƟco, a casa de máquinas, a elevação para acessar equipamentos industriais, o
+barrilete, o reservatório d'água, os pavimentos superiores da cobertura e assemelhados, e, havendo mais de
+um nível de descarga na mesma rota de fuga, a altura a ser considerada, para a deﬁnição das medidas de
+segurança, será a menor."
+ 
+2. ALTERAR o item 4.15
+Onde se lê: 
+"4.15 Ampliação: Aumento da área construída da ediﬁcação.
+Leia-se:
+"4.15 Ampliação: Aumento da área construída ou da área total da ediﬁcação.
+ 
+3. ALTERAR o item 4.16
+Onde se lê: 
+"4.16 Análise: Ato formal de veriﬁcação das exigências das medidas de proteção contra
+incêndio das ediﬁcações e áreas de risco, no processo de segurança contra incêndio.
+Leia-se:
+"4.16 Análise: Ato formal de veriﬁcação das exigências das medidas de segurança contra
+incêndio e pânico das ediﬁcações e dos espaços desƟnados ao uso coleƟvo no Processo de Segurança contra
+Incêndio e Pânico.
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+2/13
+ 
+4. ALTERAR o item 4.23
+Onde se lê: 
+"4.23 Área coberta: Entende-se por área coberta toda a área que possuir piso e teto
+construídos, pertencentes ao imóvel, compreendendo a área delimitada pelo perímetro interno das paredes
+externas, podendo ser excluídas as áreas desƟnadas a reservatórios, barriletes, elevadores, beirais, piscinas,
+shaŌs e similares e outras especiﬁcadas em instrução especíﬁca do Corpo de Bombeiros;
+Leia-se:
+"4.23 Área coberta:  área que possuir piso e teto construídos, pertencentes ao imóvel,
+podendo ser excluídas as áreas desƟnadas a reservatórios, barriletes, elevadores, beirais, piscinas, shaŌs e
+similares e outras previstas em instrução especíﬁca do CBMMG."
+ 
+5. ALTERAR o item 4.24
+Onde se lê: 
+"4.24 Área a construir: Somatória da área em metros quadrados a serem construídas da
+ediﬁcação.
+Leia-se:
+"4.24 Área a construir: Somatória das áreas cobertas a serem construídas e dos espaços
+desƟnados ao uso coleƟvo a serem construídos ou implementados, em metros quadrados."
+ 
+6. REVOGAR o item 4.26:
+"4.26 Área a construir: é a somatória das áreas cobertas a serem construídas de uma
+ediﬁcação, em metros quadrados;"
+ 
+7. ALTERAR o item 4.27
+Onde se lê: 
+"4.27 Área construída: é a somatória das áreas cobertas já construídas de uma ediﬁcação, em
+metros quadrados;
+Leia-se:
+"4.27 Área construída: Somatória das áreas cobertas já construídas e dos espaços desƟnados
+ao uso coleƟvo já construídos ou implementados, em metros quadrados."
+ 
+8. ALTERAR o item 4.46
+Onde se lê: 
+"4.46 Área imprópria ao uso: São áreas que por sua caracterísƟca geológica ou topográﬁca
+impossibilitam a sua exploração. Exempliﬁcam esta deﬁnição os taludes em aclive acentuado, barrancos em
+pedra, lagos (mesmo os arƟﬁciais), riachos e poços, dentre outros."
+Leia-se:
+"4.46 Área imprópria ao uso: Áreas que, por sua caracterísƟca geológica ou topográﬁca,
+impossibilitam a sua exploração, tais como os taludes em aclive acentuado, barrancos em pedra, lagos
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+3/13
+naturais ou arƟﬁciais, riachos, poços e outros.
+ 
+9. ALTERAR o item 4.49
+Onde se lê: 
+"4.49 Área total da ediﬁcação: somatória da área a construir e da área construída de uma
+ediﬁcação, em metros quadrados, devendo ser somada a área uƟlizável que for contabilizada para ﬁns de
+deﬁnição de medidas de segurança."
+Leia-se:
+"4.49 Área total: Somatório da área a construir e da área construída de uma ediﬁcação, em
+metros quadrados, acrescido da área correspondente aos espaços desƟnados ao uso coleƟvo, excetuados os
+locais livres de risco para a segurança contra incêndio e pânico, deﬁnidos em Instrução Técnica especíﬁca."
+ 
+10. ALTERAR o item 4.59
+Onde se lê: 
+"4.59 Auto de Vistoria do Corpo de Bombeiros (AVCB): Documento emiƟdo pelo CBMMG
+impresso em papel moeda especiﬁco ou de forma digital pelo Infoscip, cerƟﬁcando que a ediﬁcação possui
+as condições de segurança contra incêndio e pânico, previstas na legislação, estabelecendo um período de
+revalidação."
+Leia-se:
+"4.59 Auto de Vistoria do Corpo de Bombeiros – AVCB: Documento emiƟdo pelo CBMMG
+cerƟﬁcando que a ediﬁcação possui as condições de segurança contra incêndio e pânico previstas na
+legislação e estabelecendo um período de revalidação."
+ 
+11. ALTERAR o item 4.85
+Onde se lê: 
+"4.85 Brigada de incêndio: Grupo organizado de pessoas, voluntárias ou não, treinadas e
+capacitadas para atuar na prevenção, abandono da ediﬁcação, combate a um princípio de incêndio e prestar
+os primeiros socorros, dentro de uma área preestabelecida."
+Leia-se:
+"4.85 Brigada de incêndio: Medida de segurança prevista no Regulamento de Segurança
+Contra Incêndio e Pânico do Estado de Minas Gerais, que consiste em um grupo organizado de pessoas
+treinadas e capacitadas para atuar na prevenção, abandono de ediﬁcação, combate a princípio de incêndios
+e prestação de primeiros socorros, dentro de uma área preestabelecida, podendo ser composta por:
+a) Brigada orgânica: grupo organizado de brigadistas orgânicos que compõem a população ﬁxa
+da ediﬁcação ou espaço desƟnado a uso coleƟvo em que se desenvolvem as aƟvidades da ocupação, que,
+embora não sejam contratados para a execução de prevenção e combate a incêndio, atuam de forma
+extraordinária no combate a princípio de incêndios, abandono da ediﬁcação e prestação de primeiros
+socorros, nos limites da propriedade.
+b) Brigada proﬁssional: grupo organizado de pessoas contratadas para a execução de
+aƟvidades de prevenção e combate a incêndio, de forma exclusiva ou não, no âmbito da propriedade ou em
+evento temporário, excluídos os membros das brigadas de aeródromo, ﬂorestal, orgânica e municipal."
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+4/13
+12. ALTERAR o item 4.99
+Onde se lê: 
+"4.99 Central de gás: Área devidamente delimitada, que contém os recipientes transportáveis
+ou estacionário (s) e acessórios, desƟnados ao armazenamento de gás liquefeito de petróleo (GLP) para
+consumo. Classiﬁcação segundo sua capacidade máxima de armazenamento de recipientes:
+a) Classe I: até 540 kg ou 1,0 m3 de GLP (equivalente a 41 boƟjões de 13 kg ou 12 de 45 kg);
+b) Classe II: até 1.080 kg ou 2,0 m3 de GLP (equivalente a 83 boƟjões de 13 kg ou 24 de 45 kg);
+c) Classe III: até 2.520 kg ou 5,5 m3 de GLP (equivalente a 193 boƟjões de 13 kg ou 56 de 45
+kg);
+d) Classe IV: até 4000 kg ou 8,0 m3 de GLP (equivalente a 307 boƟjões de 13 kg ou 88 de 45
+kg);
+e) Classe V: acima de 4000 kg ou 8,0 m3 de GLP (acima de 307 boƟjões de 13 kg ou 88 de 45
+kg).
+Leia-se:
+"4.99 Central de gás: Área devidamente delimitada desƟnada a conter os recipientes e
+acessórios, desƟnados ao armazenamento de GLP.
+ 
+13. ALTERAR o item 4.100
+Onde se lê:
+"4.100 CerƟﬁcado de Funcionamento Provisório: é o documento eletronicamente emiƟdo
+aos empreendimentos classiﬁcados como baixo risco que, dentro do seu período de validade (um ano),
+licencia o empreendimento para o início das aƟvidades, sem que haja necessidade de vistoria prévia do
+Corpo de Bombeiros Militar de Minas Gerais;"
+ Leia-se:
+"4.100 CerƟﬁcado de Licenciamento Provisório: é o documento eletronicamente emiƟdo, por
+meio de procedimento declaratório junto à Redesim-MG, às empresas, ediﬁcações ou espaços desƟnados ao
+uso coleƟvo classiﬁcados como nível de risco II. Dentro do seu período de validade (um ano), licencia o
+empreendimento para o início das aƟvidades, sem que haja necessidade de vistoria prévia do Corpo de
+Bombeiros Militar de Minas Gerais, devendo, contudo, já ter instaladas as medidas prevenƟvas obrigatórias,
+conforme Tabelas da IT 01."
+ 
+14. ALTERAR o item 4.127
+Onde se lê:
+"4.127 Corpo técnico: Grupo de estudos formado por proﬁssionais qualiﬁcados do CBMMG,
+legalmente habilitado no âmbito de segurança contra incêndio e pânico, tendo como objeƟvos propor
+normas de prevenção contra incêndio e pânico (PCIP), analisar, avaliar e emiƟr pareceres relaƟvos aos casos
+que necessitarem de soluções técnicas complexas ou apresentarem dúvidas quanto às exigências previstas
+no Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco do Estado de Minas
+Gerais."
+Leia-se:
+"4.127 Corpo técnico: Grupo de estudo formado por proﬁssionais do CBMMG, no âmbito de
+segurança contra incêndio e pânico, tendo como objeƟvos propor normas de segurança contra incêndio e
+
+--- PÁGINA 5 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+5/13
+pânico, analisar, avaliar e emiƟr pareceres relaƟvos aos casos que necessitarem de soluções técnicas
+complexas ou apresentarem dúvidas quanto às exigências previstas no Regulamento de Segurança Contra
+Incêndio do Estado de Minas Gerais."
+ 
+15. ALTERAR o item 4.130
+Onde se lê:
+"4.130 Declaração de Dispensa de Licenciamento: é o documento eletronicamente emiƟdo
+aos empreendimentos classiﬁcados como “Domicílio Fiscal” e aos classiﬁcados como baixo risco instalados
+em imóveis com área total igual ou inferior a 200m², que licencia o empreendimento para o início das
+aƟvidades, sem que haja necessidade de vistoria prévia do Corpo de Bombeiros Militar de Minas Gerais.
+Possui validade por prazo indeterminado, enquanto perdurarem as caracterísƟcas declaradas pelo
+responsável."
+ Leia-se:
+"4.130 Declaração de Dispensa de Licenciamento: é o documento eletronicamente emiƟdo às
+empresas, ediﬁcações ou espaços desƟnados ao uso coleƟvo classiﬁcados como nível de risco I, que declara
+que o empreendimento não precisa de vistoria prévia do Corpo de Bombeiros Militar de Minas Gerais para
+iniciar seu funcionamento. Possui validade por prazo indeterminado, enquanto perdurarem as caracterísƟcas
+declaradas pelo responsável. A emissão desta declaração é facultada ao interessado, uma vez que
+aƟvidades/imóveis classiﬁcados como nível de risco I são dispensadas de quaisquer atos públicos de
+licenciamento."
+ 
+16. REVOGAR o item 4.148:
+"4.148 Domicílio Fiscal: para o Corpo de Bombeiros é o endereço uƟlizado somente registro
+da empresa, caracterizado pelo fato das aƟvidades não são exercidas no imóvel ou, caso sejam exercidas,
+não uƟlizem a estrutura İsica deste para recepção de pessoas ou armazenamento de produtos, sendo as
+aƟvidades desenvolvidas apenas pelo (s) sócio (s) residente (s)."
+ 
+17. ALTERAR o item 4.155
+Onde se lê: 
+"4.155 Ediﬁcação: Área construída desƟnada a abrigar aƟvidade humana ou qualquer
+instalação, equipamento ou material."
+Leia-se:
+"4.155 Ediﬁcação: Área construída desƟnada a abrigar aƟvidade humana, instalações,
+equipamentos ou materiais, podendo ser térrea, ainda que contenha mezanino, sobreloja e jirau, ou possuir
+mais de um pavimento."
+ 
+18. ALTERAR o item 4.180
+Onde se lê: 
+"4.180 Empreendimentos de alto risco: são aqueles que exercem qualquer das aƟvidades
+econômicas previstas no Anexo “A” desta Portaria ou que apresentem qualquer uma das caracterísƟcas
+condicionantes elencadas no mesmo Anexo."
+Leia-se:
+
+--- PÁGINA 6 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+6/13
+"4.180 Empreendimentos de risco alto: são aqueles classiﬁcados como nível de risco III,
+conforme os critérios da IT 01."
+ 
+19. ALTERAR o item 4.181
+Onde se lê: 
+"4.181 Empreendimentos de baixo risco: são aqueles que não se enquadraram como sendo
+de risco alto e estão instalados em imóvel com área total construída inferior a 750m² e superior a 200m²."
+Leia-se:
+"4.181 Empreendimentos de risco médio: são aqueles classiﬁcados como nível de risco II,
+conforme os critérios da IT 01, situados em ediﬁcação ou espaço desƟnado ao uso coleƟvo com área
+construída superior a 200 m² e igual ou inferior a 930 m², que não se enquadrem como nível de risco III,
+tendo em vista os critérios da IT 01."
+ 
+20. ALTERAR o item 4.233
+Onde se lê: 
+"4.233 Formulário para atendimento técnico (FAT): Instrumento administraƟvo uƟlizado pelo
+interessado para sanar dúvidas, solicitar alterações em Processo e Auto de Vistoria do Corpo de Bombeiros,
+solicitar juntada de documentos, solicitar reconsideração de ato em vistoria, entre outros.
+Leia-se:
+"4.233 Formulário para atendimento técnico (FAT): Instrumento administraƟvo uƟlizado pelo
+interessado para sanar dúvidas quanto a procedimentos administraƟvos e técnicos, solicitar alterações em
+Processo e Auto de Vistoria do Corpo de Bombeiros, solicitar reuniões técnicas, solicitar migração do PSCIP
+impresso para PSCIP digital (Infoscip),  solicitar juntada de documentos, entre outros."
+ 
+21. ALTERAR o item 4.279
+Onde se lê: 
+"4.279 Instrução técnica: Documento elaborado pelo Corpo de Bombeiros Militar de Minas
+Gerais com objeƟvo de normalizar medidas e procedimentos de segurança, prevenção e proteção contra
+incêndio e pânico nas ediﬁcações e áreas de risco."
+Leia-se:
+"4.279 Instrução Técnica – IT: Documento emanado pelo CBMMG com objeƟvo de
+estabelecer procedimentos administraƟvos e normalizar medidas de segurança contra incêndio e pânico nas
+ediﬁcações e nos espaços desƟnados ao uso coleƟvo."
+ 
+22. ALTERAR o item 4.295
+Onde se lê: 
+"4.295 Licenciamento prévio de empreendimentos: Procedimento que resulta na emissão do
+CerƟﬁcado de Funcionamento Provisório que o Corpo de Bombeiros Militar aos empreendimentos com
+aƟvidades econômicas de baixo risco mediante o fornecimento de informações e declarações pelo
+empreendedor, ﬁrmadas visando permiƟr o reconhecimento formal do cumprimento dos requisitos de
+prevenção contra incêndios e pânico, em que é dispensada a vistoria prévia da ediﬁcação ou espaço
+
+--- PÁGINA 7 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+7/13
+desƟnado a uso coleƟvo para início do exercício empresarial, sem que haja prejuízo das vistorias de
+ﬁscalização e aplicação de sanções administraƟvas em caso de irregularidades."
+Leia-se:
+"4.295 Licenciamento prévio de empreendimentos: Procedimento que resulta na emissão do
+CerƟﬁcado de Licenciamento Provisório junto à Redesim-MG, às empresas, ediﬁcações ou espaços
+desƟnados ao uso coleƟvo classiﬁcados como nível de risco II, mediante o fornecimento de informações e
+declarações pelo empreendedor, visando permiƟr o reconhecimento formal do cumprimento dos requisitos
+de prevenção contra incêndios e pânico, em que é dispensada a vistoria prévia da ediﬁcação ou espaço
+desƟnado ao uso coleƟvo para início de seu funcionamento, sem que haja prejuízo das vistorias de
+ﬁscalização e aplicação de sanções administraƟvas em caso de irregularidades."
+ 
+23. ALTERAR o item 4.328
+Onde se lê: 
+"4.328 Medidas de proteção contra incêndio e pânico: Conjunto de ações e disposiƟvo a
+serem instalados nas ediﬁcações e áreas de risco necessários a evitar o surgimento de incêndio e pânico,
+limitar sua propagação, possibilitar sua exƟnção e ainda propiciar a proteção à incolumidade das pessoas, ao
+meio ambiente e ao patrimônio."
+Leia-se:
+"4.328 Medidas de segurança contra incêndio e pânico: Conjunto de ações e disposiƟvos
+necessários a evitar o surgimento de incêndio e pânico, limitar sua propagação, possibilitar sua exƟnção e
+propiciar a proteção à incolumidade das pessoas, ao meio ambiente e ao patrimônio."
+ 
+24. ALTERAR o item 4.331
+Onde se lê: 
+"4.331 Megajoule (MJ): Medida de capacidade caloríﬁca dos corpos e materiais, estabelecida
+pelo Sistema Internacional de Unidades – SI. 4.270."
+Leia-se:
+"4.331 Megajoule – MJ: Medida de capacidade caloríﬁca dos corpos e materiais, estabelecida
+pelo Sistema Internacional de Unidades."
+ 
+25. ALTERAR o item 4.337
+Onde se lê: 
+"4.337 Mezanino: Pavimento que subdivide parcialmente um andar em dois andares, sendo
+considerado andar o mezanino que possuir área superior à metade da área do andar subdividido."
+Leia-se:
+"4.337 Mezanino: Estrutura que subdivide parcialmente um pavimento em dois pisos, sendo
+considerado pavimento a estrutura que possuir área superior à metade da área do pavimento subdividido ou
+superior a 200m²."
+ 
+26. ALTERAR o item 4.343
+Onde se lê:
+
+--- PÁGINA 8 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+8/13
+"4.343 Mudança de ocupação: consiste na alteração de uso da ediﬁcação que moƟve a
+mudança de classiﬁcação da ocupação, prevista na tabela do Anexo deste Decreto 46595/2014.
+Leia-se:
+"4.343 Mudança de ocupação: Alteração de uso da ediﬁcação que moƟve a mudança de
+classiﬁcação da ocupação ou da divisão prevista na Tabela do Anexo do Regulamento de Segurança Contra
+Incêndio e Pânico do Estado de Minas Gerais."
+ 
+27. ALTERAR o item 4.349
+Onde se lê: 
+"4.349 Ocupação: é a classiﬁcação do uso da ediﬁcação."
+Leia-se:
+"4.349 Ocupação: AƟvidade ou uso dado a uma ediﬁcação ou espaço desƟnado ao uso
+coleƟvo."
+ 
+28. ALTERAR o item 4.350
+Onde se lê: 
+"4.350 Ocupação mista: Ediﬁcação que abriga mais de um Ɵpo de ocupação.
+Leia-se:
+"4.350 Ocupação mista: O exercício de mais de uma aƟvidade ou uso em uma ediﬁcação ou
+espaço desƟnado ao uso coleƟvo, quando não houver isolamento de risco entre as ocupações."
+ 
+29. ALTERAR o item 4.351
+Onde se lê: 
+"4.351 Ocupação principal: é a aƟvidade ou uso principal exercido na ediﬁcação."
+Leia-se:
+"4.351 Ocupação principal: A aƟvidade ou uso principal exercido na ediﬁcação ou no espaço
+desƟnado ao uso coleƟvo.
+ 
+30. ALTERAR o item 4.362
+Onde se lê: 
+"4.362 Parâmetros: caracterísƟcas referentes ao Ɵpo, conﬁguração, distribuição, grandeza e
+instalação das medidas ou sistemas prevenƟvos."
+Leia-se:
+"4.362 Parâmetros: Requisitos e critérios técnicos especíﬁcos de cada medida de segurança,
+como capacidade exƟntora, capacidade de unidade de passagem, Ɵpo de sistema de hidrante, volume da
+reserva técnica de incêndio, Ɵpo de escada e outros.
+ 
+31. ALTERAR o item 4.368
+Onde se lê:
+
+--- PÁGINA 9 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_sis…
+9/13
+"4.368 Pavimento: Está compreendido entre o plano de piso e o plano do teto imediatamente
+acima do piso de referência."
+Leia-se:
+"4.368 Pavimento: Espaço compreendido entre o plano do piso e o plano do teto
+imediatamente acima do piso de referência."
+ 
+32. ALTERAR o item 4.372
+Onde se lê: 
+"4.372 Perícia técnica: Consiste no levantamento e apuração efetuado por proﬁssional do
+CBMMG, legalmente habilitado, para emissão de parecer técnico quanto aos sinistros e exigências de
+proteção contra incêndio e pânico nas ediﬁcações, mediante exame circunstanciado e descrição minuciosa
+dos elementos que o consƟtuem, bem como das causas do desenvolvimento e consequências dos incêndios,
+através do exame técnico das ediﬁcações, materiais e equipamentos, no local ou em laboratório
+especializado, apontando as causas que o moƟvaram."
+Leia-se:
+"4.372 Perícia técnica: Exame realizado por proﬁssional especialista, legalmente habilitado,
+desƟnado a veriﬁcar ou esclarecer determinado fato ou sinistro relacionado a incêndio, apurando as causas,
+origens e as consequências moƟvadoras, ou o estado, a alegação de direitos ou a esƟmação da coisa que é
+objeto de liơgio e processo."
+ 
+33. ALTERAR o item 4.374
+Onde se lê: 
+"4.374 Pesquisa de incêndio: Apuração das causas, desenvolvimento e consequências dos
+incêndios atendidos pelo CBMMG, mediante exame técnico das ediﬁcações, materiais e equipamentos, no
+local ou em laboratório especializado."
+Leia-se:
+"4.374 Pesquisa de incêndio: Estudo das causas, desenvolvimento e consequências dos
+incêndios atendidos pelo CBMMG, realizado no local ou, se necessário, em laboratório especializado, por
+meio de exames técnicos das ediﬁcações, materiais e equipamentos e dos dados obƟdos nas perícias
+técnicas.
+ 
+34. ALTERAR o item 4.401
+Onde se lê: 
+"4.401 Procedimento sumário: ConsƟtui-se na ação de análise e vistoria do CBMMG em
+ediﬁcações de uso coleƟvo, com área de até 750 m2 (setecentos e cinquenta metros quadrados) regulados
+por meios de instrução técnica.
+Leia-se:
+"4.401 Procedimento meramente declaratório: O ato próprio do empresário ou do seu
+representante consƟtuído para ﬁns de licenciamento de aƟvidades econômicas por meio de autodeclaração,
+conforme estabelecido em Instrução Técnica especíﬁca."
+ 
+35. ALTERAR o item 4.402
+
+--- PÁGINA 10 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_si…
+10/13
+Onde se lê: 
+"4.402 Processo de segurança contra incêndio e pânico (PSCIP): é composto pela
+documentação que contém informações sobre ediﬁcações ou áreas de risco e o respecƟvo projeto técnico
+contendo as medidas de segurança contra incêndio e pânico, que deve ser apresentada no CBMMG para
+avaliação em análise técnica."
+Leia-se:
+"4.402 Processo de Segurança contra Incêndio e Pânico – PSCIP: Processo administraƟvo que
+visa ao licenciamento, junto ao CBMMG, das ediﬁcações, dos eventos temporários e dos espaços desƟnados
+ao uso coleƟvo, sendo composto pela documentação que contém informações sobre ediﬁcações ou espaços
+desƟnados ao uso coleƟvo e o respecƟvo projeto técnico contendo as medidas de segurança contra incêndio
+e pânico."
+ 
+36. ALTERAR o item 4.405
+Onde se lê: 
+"4.405 Autônomo: pessoa İsica que exerce aƟvidade econômica por conta própria. Para o
+Corpo de Bombeiros se iguala a domicílio ﬁscal para ﬁns de licenciamento."
+Leia-se:
+"4.405 Autônomo: pessoa İsica que exerce aƟvidade econômica por conta própria."
+ 
+37. ALTERAR o item 4.417
+Onde se lê: 
+"4.417 PSCIP liberado ou licenciamento deﬁniƟvo: Situação na qual a ediﬁcação ou área de
+risco foi vistoriada pelo CBMMG e recebeu AVCB ou documento similar."
+Leia-se:
+"4.417 PSCIP liberado ou licenciamento deﬁniƟvo: Situação na qual a ediﬁcação ou espaço
+desƟnado ao uso coleƟvo foi vistoriado pelo CBMMG e recebeu o AVCB ou documento similar."
+ 
+38. ALTERAR o item 4.422
+Onde se lê: 
+"4.422: Intervenções desƟnadas à revitalização İsica e cultural do bem, que pode
+eventualmente implicar em mudança de ocupação."
+Leia-se:
+"4.422 Reabilitação: Intervenções desƟnadas à revitalização İsica e cultural do bem, que pode
+eventualmente implicar em mudança de ocupação."
+ 
+39. ALTERAR o item 4.432
+Onde se lê: 
+"4.432 Reforma: Alterações nas ediﬁcações e áreas de risco sem aumento de área
+construída."
+Leia-se:
+
+--- PÁGINA 11 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_si…
+11/13
+"4.432 Reforma: Alterações nas ediﬁcações e espaços desƟnados ao uso coleƟvo sem
+aumento de área construída."
+ 
+40. ALTERAR o item 4.446
+Onde se lê: 
+"4.446 Responsável técnico: Proﬁssional habilitado para elaboração e/ou execução de
+aƟvidades relacionadas à segurança contra incêndio e pânico."
+Leia-se:
+"4.446 Responsável técnico: Proﬁssional legalmente habilitado perante o órgão de ﬁscalização
+proﬁssional, para elaboração ou execução das aƟvidades relacionadas com a segurança contra incêndio e
+pânico."
+ 
+41. ALTERAR o item 4.450
+Onde se lê: 
+"4.450 Risco: Acontecimento possível, futuro e incerto seja quanto a sua realização, seja
+quanto à época em que poderá ocorrer, independente da vontade humana ou não e de cuja ocorrência
+decorrem prejuízos de qualquer natureza."
+Leia-se:
+"4.450 Risco: Exposição ao perigo e à probabilidade da ocorrência de um sinistro."
+ 
+42. ALTERAR o item 4.451
+Onde se lê: 
+"4.451 Risco iminente: É a constatação de situação atual e iminente de exposição ao perigo e
+a probabilidade de ocorrência de um sinistro que deve ser fundamentada pelo bombeiro militar durante a
+realização de vistoria levando se em consideração a exposição ao perigo potencial e as medidas de proteção
+adotadas no local."
+Leia-se:
+"4.451 Risco iminente: A constatação de situação atual e iminente de exposição ao perigo e a
+probabilidade de ocorrência de um sinistro que deve ser fundamentada pelo Bombeiro Militar durante a
+realização de vistoria, levando-se em consideração a exposição ao perigo potencial e as medidas de
+segurança adotadas no local."
+ 
+43. ALTERAR o item 4.452
+Onde se lê: 
+"4.452 Risco isolado: Risco separado dos demais por paredes ou espaços desocupados,
+suﬁcientes para evitar a propagação de incêndio de uma ediﬁcação para a outra."
+Leia-se:
+"4.452 Risco isolado – isolamento de risco ou separação entre ediﬁcações: A caracterísƟca
+construƟva, concebida pelo arquiteto ou engenheiro, na qual se tem a separação İsica de uma ediﬁcação em
+relação às demais circunvizinhas, cuja caracterísƟca básica é a impossibilidade de uma ediﬁcação ser aƟngida
+
+--- PÁGINA 12 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_si…
+12/13
+pelo calor irradiado, conduzido ou propagado pela convecção de massas gasosas aquecidas, emanadas de
+outra aƟngida por incêndio."
+ 
+44. ALTERAR o item 4.460
+Onde se lê: 
+"4.460 Saída de emergência: Caminho conơnuo, devidamente protegido e sinalizado,
+proporcionado por portas, corredores, “halls”, passagens externas, balcões, vesơbulos, escadas, rampas ou
+outros disposiƟvos de saída ou combinações destes, a ser percorrido pelo usuário em caso de incêndio e
+pânico, que conduzam o usuário de qualquer ponto da ediﬁcação até aƟngir a via pública ou espaço aberto,
+protegido do incêndio ou pânico, em comunicação com o logradouro;"
+Leia-se:
+"4.460 Saída de emergência: Caminho conơnuo, devidamente protegido e sinalizado,
+proporcionado por portas, corredores, halls, passagens externas, balcões, vesơbulos, escadas, rampas ou
+outros disposiƟvos de saída ou combinações destes, a ser percorrido pelos usuários em caso de um incêndio
+e pânico, que conduzam os usuários de qualquer ponto da ediﬁcação até aƟngir a via pública ou espaço
+aberto, protegido do incêndio ou pânico, em comunicação com o logradouro;"
+ 
+45. ALTERAR o item 4.466
+Onde se lê: 
+"4.466 Segurança contra incêndio: Conjunto de ações e recursos internos e externos à
+ediﬁcação ou área de risco, que permitem controlar a situação de incêndio e pânico e remoção das pessoas
+do local do sinistro em segurança."
+Leia-se:
+"4.466 Segurança contra incêndio e pânico: O conjunto de ações e recursos internos e
+externos à ediﬁcação ou espaço desƟnado ao uso coleƟvo que permitem controlar a situação de incêndio e
+pânico e remoção das pessoas do local de sinistro em segurança."
+ 
+46. ALTERAR o item 4.472
+Onde se lê: 
+"4.472 Serviço de segurança contra incêndio e pânico: Compreende a Diretoria de AƟvidades
+Técnicas, Batalhões, Companhias e Pelotões do CBMMG que têm por ﬁnalidade desenvolver as aƟvidades
+relacionadas à prevenção e proteção contra incêndio e pânico nas ediﬁcações e áreas de risco, observando-
+se o cumprimento das exigências estabelecidas Regulamento de Segurança Contra Incêndio e Pânico nas
+ediﬁcações e áreas de risco do Estado de Minas Gerais."
+Leia-se:
+"4.472 Serviço de Segurança contra Incêndio e Pânico: Compreende todas as unidades do
+CBMMG que direta ou indiretamente desenvolvem as aƟvidades relacionadas à segurança contra incêndio e
+pânico nas ediﬁcações e espaços desƟnados ao uso coleƟvo, observando-se o cumprimento das exigências
+estabelecidas no Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+47. ALTERAR o item 4.526
+Onde se lê:
+
+--- PÁGINA 13 ---
+04/01/2021
+SEI/GOVMG - 23314546 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27287063&infra_si…
+13/13
+"4.526 Unidade autônoma: Parte da ediﬁcação vinculada a uma fração ideal de terreno,
+sujeita às limitações da lei, consƟtuída de dependências e instalações de uso privaƟvo e de parcela de
+dependências e instalações de uso comum da ediﬁcação, assinalada por designação especial numérica, para
+efeitos de idenƟﬁcação, nos termos da Lei Federal nº 4591, de 16 de dezembro de 1964."
+Leia-se:
+"4.526 Unidade autônoma: Parte da ediﬁcação, consƟtuída de dependências e instalações de
+uso privaƟvo, podendo possuir mais de um pavimento, desde que ligados por uma escada construída no
+interior da unidade, assinalada por designação especial numérica, para efeitos de idenƟﬁcação, nos termos
+da Lei Federal nº 4.591, de 16 de dezembro de 1964."
+ 
+48. ALTERAR o item 4.545
+Onde se lê: 
+"4.545 Via de acesso: Espaço desƟnado para as viaturas do CBMMG adentrarem no entorno à
+ediﬁcação, à área de risco e à faixa de estacionamento."
+Leia-se:
+"4.545 Via de acesso: Espaço desƟnado para as viaturas do CBMMG acessarem o entorno
+da ediﬁcação, espaço desƟnado ao uso coleƟvo ou faixa de estacionamento."
+ 
+49. ALTERAR o item 4.550
+Onde se lê: 
+"4.550 Vistoria: É o ato de cerƟﬁcar o cumprimento das exigências das medidas de proteção
+contra incêndio e pânico nas ediﬁcações e áreas de risco por meio de exame no local."
+Leia-se:
+"4.550 Vistoria: Ato de cerƟﬁcar o cumprimento das exigências das medidas de proteção
+contra incêndio e pânico nas ediﬁcações e espaços desƟnados ao uso coleƟvo por meio de exame no local."
+ 
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 28/12/2020, às
+21:29, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23314546 e o
+código CRC A89D7D98.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23314546

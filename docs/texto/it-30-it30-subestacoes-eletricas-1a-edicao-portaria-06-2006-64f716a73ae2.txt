@@ -1,0 +1,548 @@
+--- PÁGINA 1 ---
+IT - 30 
+SUBESTAÇÕES ELÉTRICAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ANEXO 
+ 
+1 – Objetivo 
+ 
+Figuras, 
+separações 
+e 
+afastamentos 
+entre 
+equipamentos e edificações.         
+2 – Aplicação 
+ 
+ 
+3 – Referências normativas e bibliográficas 
+ 
+ 
+4 – Definições 
+ 
+ 
+5 – Procedimentos
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 30 
+ 
+   
+ 
+ 
+SUBESTAÇÕES ELÉTRICAS 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.b  r
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+Esta Instrução Técnica estabelece as medidas de segurança 
+contra incêndio em subestações elétricas, atendendo ao 
+prescrito no Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais. 
+ 
+ 
+2 APLICAÇÃO 
+ 
+2.1 Esta Instrução Técnica se aplica a todos os tipos de 
+subestações elétricas, conforme o seu tipo. 
+ 
+2.2 Adota-se a NBR 13231 – Proteção contra incêndio em 
+subestações elétricas convencionais atendidas e não 
+atendidas, de sistemas de transmissão e NBR 13859 – 
+Proteção contra incêndio em subestações de distribuição. 
+  
+ 
+3 REFERÊNCIAS 
+NORMATIVAS 
+E 
+BIBLIOGRÁFICAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+NBR 8674 – Execução de sistemas de proteção contra 
+incêndio com água nebulizada para transformadores e 
+reatores de potência – Procedimento. 
+NBR 8222 – Execução de sistemas de proteção contra 
+incêndio, em transformadores e reatores de potência por 
+drenagem e agitação do óleo isolante – Procedimento. 
+ 
+NBR 11711 – Portas e vedadores corta-fogo com núcleo 
+de madeira para isolamento de riscos em ambientes 
+comerciais e industriais – Especificação. 
+ 
+NBR 12232 – Execução de sistemas fixos e automáticos 
+de proteção contra incêndio com gás carbônico (CO2), por 
+inundação total para transformadores e reatores de 
+potência contendo óleo isolante – Procedimento.  
+   
+Norma Regulamentadora nº 10 (Ministério do Trabalho) – 
+Segurança em instalações e serviços em eletricidade . 
+ 
+NFPA 12 1989 Edition – Carbon Dioxide Extinguishing 
+Systems. 
+ 
+NFPA 50 A 1989 Edition – Gaseous Hydrogen Systems at 
+Consumer Sites. 
+ 
+NFPA 70 E 1988 Edition – Electrical Safety Requirements 
+for Employee Workplaces. 
+ 
+ 
+4 DEFINIÇÕES 
+ 
+Para efeitos desta Instrução Técnica, aplicam-se as 
+definições constantes da IT 02 Terminologia de Proteção 
+Contra Incêndio e Pânico.   
+ 
+5 PROCEDIMENTOS 
+ 
+5.1 Requisitos básicos para as edificações 
+5.1.1 Os ambientes da casa de controle e das edificações 
+de apoio operacional devem ser protegidos contra risco de 
+incêndio de acordo com sua área atendendo-se às 
+especificações contidas no Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco
+
+--- PÁGINA 3 ---
+no Estado de Minas Gerais e Instruções Técnicas do 
+CBMMG. 
+5.1.1.1 Além da proteção contra risco de incêndio de 
+acordo com a área, as casas de comando deverão ser 
+protegidas por sistema de detecção de fumaça conforme IT 
+14 – Sistema de Detecção e Alarme de Incêndio. 
+5.1.2 Em função da análise de risco de incêndio e da 
+importância da subestação no sistema de transmissão, estas 
+podem vir a ter sistemas de proteção contra incêndios 
+complementares para a sua proteção. 
+5.1.3 Deve existir separação física entre edificação e 
+equipamentos que por suas características de operação 
+apresentem risco de incêndio e/ou explosão. 
+5.1.4 Toda abertura existente para passagem de cabos 
+elétricos deve ser fechada com barreira de proteção de 
+material incombustível contra a passagem de calor, chama 
+e gases, com resistência mínima de 2 horas, não 
+susceptível à decomposição ou alteração de suas 
+características quando em contato com substâncias do 
+meio em que se encontra. 
+5.1.5 As portas e janelas de vidro, quando houver, devem 
+ser posicionadas para abrir respectivamente, no sentido de 
+saída para o exterior. 
+5.1.6 Salas, galerias, túneis ou qualquer outro recinto deve 
+ter pé-direito mínimo de 2m, considerado entre o piso e o 
+teto. Devem também permitir o adentramento de um 
+homem equipado com aparelho de respiração autônoma, a 
+desocupação imediata e a extinção do incêndio por meio 
+de extintores portáteis. 
+ 
+5.2 Casa de controle 
+ 
+5.2.1 Os quadros de supervisão e comando dos sistemas 
+fixos de proteção contra incêndio da subestação devem 
+estar localizados na sala de controle ou em área de 
+supervisão contínua. A sinalização, luminosa e sonora, de 
+funcionamento dos quadros deve ser diferente de outras 
+existentes no local. 
+5.2.2 Quando o risco de incêndio, existente na instalação, 
+orientar para a necessidade da utilização de sistema fixo de 
+gás carbônico CO2, este sistema deve estar dimensionado 
+conforme a NFPA 12. 
+ 
+5.3 Casa de compensadores síncronos 
+ 
+5.3.1 Quando os compensadores síncronos forem do tipo 
+resfriamento a hidrogênio H2, os ambientes onde estiverem 
+instalados os recipientes de H2 e aqueles onde existem 
+equipamentos ou passagem de tubulações de gás, devem 
+ser providos de meios de detecção de vazamentos. As 
+instalações devem atender os requisitos da NFPA 50 A. 
+ 
+ 
+5.4 Requisitos básicos de proteção contra incêndio 
+ 
+5.4.1 Extintores de incêndio sobre rodas 
+ 
+Os conjuntos transformadores e reatores de potência ou 
+unidades individuais devem ser protegidos por extintores 
+de pó extintor, tipo sobre rodas, com capacidade de 50 Kg 
+ou outro de igual ou maior capacidade extintora, com 
+agente extintor adequado e conforme legislação vigente. 
+Os extintores devem ser instalados em locais de fácil 
+acesso, sinalizados, abrigados contra intempéries e 
+identificados. 
+5.4.2 Extintores de incêndio portáteis as edificações de 
+uma subestação devem ser protegidas, de preferência, por 
+extintores de incêndio portáteis de gás carbônico (CO2) e 
+pó químico seco atendendo-se às especificações e 
+distanciamento conforme a IT 16 - Sistema de Proteção 
+por Extintores de Incêndio. 
+ 
+5.4.3 Barreiras de proteção 
+As barreiras de proteção devem ser instaladas para 
+separação de riscos de incêndio. 
+ 
+5.4.4 Parede tipo corta-fogo 
+ 
+5.4.4.1 A parede tipo corta-fogo deve apresentar as 
+seguintes dimensões para transformadores e reatores de 
+potência (fig.03): 
+a) para transformadores a altura deve ser de 0,40 m acima 
+do topo do tanque conservador de óleo; 
+b) para reatores de potência a altura deve ser de 0,60 m 
+acima do topo do tanque; 
+c) o comprimento total da parede deve, no mínimo, 
+ultrapassar o comprimento total do equipamento protegido 
+em 0,60 m; 
+d) a distância livre mínima de separação física, entre a 
+parede e o equipamento protegido, deve ser de 0,50 m. 
+ 5.4.4.2 para edificações e equipamentos, quando a 
+distância livre de separação física for inferior a 8,0 m, 
+devem ser considerados os seguintes critérios (fig. 02): 
+a) que a parede sofrendo colapso estrutural, caindo parcial 
+ou totalmente, não atinja equipamentos, edificações ou 
+vias de trânsito de pessoas; 
+b) que a parede não permita a passagem de calor e chamas 
+para locais próximos. 
+5.4.4.3 para edificações e equipamentos, quando a 
+distância livre de separação física for superior a 15 m, não 
+há necessidade de separá-los, interpondo-se parede tipo 
+corta-fogo (fig. 01). 
+ 
+Nota: a forma de aplicação das paredes tipo corta-fogo 
+está exemplificada nas figuras anexo ao final desta 
+Instrução Técnica. 
+ 
+5.4.5 Bacia de contenção e drenagem de óleo isolante 
+ 
+5.4.5.1 Os transformadores e reatores de potência devem 
+ser instalados sobre bacias de contenção. 
+5.4.5.2 O fluído drenado deve ser encaminhado para 
+sistema coletor específico, que direcione os efluentes para 
+separador de água e óleo isolante, com as seguintes 
+características: 
+a) permitir fácil retirada do óleo isolante drenado; 
+b) permitir a drenagem da água;
+
+--- PÁGINA 4 ---
+c)apresentar resistência à corrosão pela água e pelo óleo 
+isolante; 
+d) possuir meios com proteção que possibilitem a inspeção 
+interna; 
+e) apresentar capacidade mínima correspondente à vazão 
+do óleo vertido do equipamento sinistrado, acrescido da 
+vazão d’água do sistema de proteção contra incêndio, se 
+previsto, mais a vazão da água pluvial da área de coleta da 
+bacia. 
+ 
+Nota: O separador deve ser previsto em área específica, 
+separado de outras instalações e equipamentos. 
+ 
+5.4.6 Sistema fixo automático para proteção contra 
+incêndios 
+ 
+Quando previsto para proteção de transformadores e 
+reatores de potência com a utilização de sistemas de 
+agitação e drenagem de óleo, água nebulizada ou gás 
+carbônico, deve ser de acordo com as NBR 8222, NBR 
+8674 e NBR 12232.  
+ 
+5.4.7 Sistema de resfriamento: 
+ 
+Nos casos especiais em que se exijam sistema de 
+resfriamento por meio de H2, esse deve estar conforme o 
+item 5.3 desta Instrução Técnica.  
+ 
+5.4.8 Sistema de detecção e alarme: 
+ 
+Quando previsto para a proteção de edificações, deve ser 
+em conformidade com a IT 14 - Sistema de Detecção e 
+Alarme de Incêndio. 
+ 
+ 5.4.9 Sistema de espuma fixo ou móvel 
+ 
+Quando previsto para a proteção das bacias de contenção e 
+de drenagem de óleo isolante, deve estar em conformidade 
+com a IT 20 - Sistema de Proteção por Espuma, IT 22 - 
+Armazenamento de Líquidos Inflamáveis e Combustíveis, 
+e IT 27 - Medidas de Segurança para Produtos Perigosos. 
+ 
+5.5 Exigências mínimas para cada tipo de subestação 
+elétrica: 
+ 
+5.5.1 Subestação convencional 
+ 
+5.5.1.1 Via de acesso para veículos de emergência. 
+5.5.1.2 Parede corta-fogo em transformadores, reatores de 
+potência e reguladores de tensão (nos casos previstos por 
+esta IT). 
+5.5.1.3 Bacia de captação com drenagem e coleta de óleo 
+isolante. 
+5.5.1.4 Extintores portáteis e sobre rodas. 
+5.5.1.5 Sinalização de incêndio. 
+ 
+5.5.2 Subestações de uso múltiplo 
+ 
+5.5.2.1 Via de acesso a veículos de emergência. 
+5.5.2.2 Parede corta-fogo em transformadores, reatores de 
+potência e reguladores de tensão (nos casos previstos por 
+esta IT) ou separação de transformadores, reatores de 
+potência e reguladores de tensão, em relação a outros 
+equipamentos e edificações, no mínimo a 15 m. 
+5.5.2.3 Separação de transformadores, reatores de potência 
+e reguladores de tensão, em relação a outros equipamentos 
+e edificações, no mínimo a 15 m (nos casos previstos por 
+esta IT). 
+5.5.2.4 Extintores portáteis e sobre rodas. 
+5.5.2.5 Bacia de contenção com drenagem e coleta de óleo 
+isolante. 
+5.5.2.6 Sinalização de incêndio. 
+ 
+5.5.3 Subestação compacta abrigada e subterrânea 
+ 
+5.5.3.1 Vias de acesso para veículos de emergência. 
+5.5.3.2 Paredes corta-fogo em transformadores, reatores de 
+potência ou reguladores de tensão. 
+5.5.3.3 Bacia de captação com drenagem de coleta de óleo 
+isolante. 
+5.5.3.4 Extintores portáteis e sobre rodas 
+5.5.3.5 Sistema fixo de CO2, em transformadores, reatores 
+de potência ou reguladores de tensão, conforme a NBR 
+12232. 
+5.5.3.6 Iluminação de emergência. 
+5.5.3.7 Sistema de alarme de incêndio. 
+5.5.3.8 Saídas de emergência. 
+5.5.3.9 Sinalização de incêndio. 
+ 
+5.5.4 Subestação compacta de uso múltiplo 
+ 
+5.5.4.1 Vias de acesso para veículos de emergência. 
+5.5.4.2 Paredes corta-fogo em transformadores, reatores de 
+potência e reguladores de tensão (nos casos previstos por 
+esta IT). 
+5.5.4.3 Bacia de captação com drenagem e coleta de óleo 
+isolante. 
+5.5.4.4 Extintores portáteis e sobre rodas. 
+5.5.4.5 Iluminação de emergência. 
+5.5.4.6 Sistema fixo de gás carbônico CO2 em 
+transformadores, reatores de potência ou reguladores de 
+tensão conforme a NBR 12232. 
+5.5.4.7 Sinalização de incêndio. 
+ 
+5.5.5 Subestação compartilhada 
+ 
+5.5.5.1 Vias de acesso para veículos de emergência. 
+5.5.5.2 Isolamento ou separação de equipamentos, com 
+utilização de anteparos tipo corta-fogo, em distâncias 
+iguais ou superiores a 15 m de instalações ocupadas por 
+terceiros. 
+5.5.5.3 Bacia de captação com drenagem e coleta de óleo 
+isolante. 
+5.5.5.4 Extintores portáteis e sobre rodas. 
+5.5.5.5 Sistema de água nebulizada. 
+5.5.5.6 Sinalização de incêndio. 
+5.5.5.7 Sistema de detecção e alarme de incêndio
+
+--- PÁGINA 5 ---
+5.5.6 Subestação a seco 
+5.5.6.1 Vias de acesso para veículos de emergência. 
+5.5.6.2 Parede corta-fogo em transformadores, reatores de 
+potência e reguladores de tensão. 
+5.5.6.3 Extintores portáteis e sobre rodas. 
+5.5.6.4 Sinalização de incêndio.   
+ 
+5.5.7 Procedimentos Gerais 
+ 
+5.5.7.1 Deve existir via livre para acesso de viaturas e 
+pessoal para combate a incêndio até qualquer ponto, 
+edificação ou equipamento que esteja sujeito a sinistro. 
+5.5.7.2 Em salas de baterias elétricas, a concentração 
+máxima de Hidrogênio (H2) no ar deve ser inferior a 1% 
+do volume de ar do local. Deve haver sistema apropriado 
+que mantenha esse limite percentual. 
+5.5.7.3 Deve existir sistema de iluminação de emergência 
+conforme a NBR 10898. 
+5.5.7.4 
+Todo 
+material 
+inflamável, 
+explosivo 
+ou 
+combustível deve ser armazenado em local apropriado, 
+devidamente identificado, externo e ventilado. 
+5.5.7.5 Os painéis de controle e comandos das bombas de 
+incêndio devem ser independentes, situados em locais 
+ventilados e de fácil acesso. 
+5.5.7.6 Os conjuntos de transformadores e reatores de 
+potência, ou unidades individuais, devem ser protegidos 
+com extintores de Pó Químico Seco, tipo sobre rodas, com 
+capacidade de 50 Kg, dimensionados de acordo com a 
+NBR 12693, ou outro, cuja capacidade extintora seja 
+correspondente e o agente extintor adequado. 
+5.5.7.7 os extintores devem ser instalados em locais de 
+fácil acesso, sinalizados, abrigados contra intempéries e 
+identificados de acordo com a NBR 7532. 
+5.5.7.8 Os extintores devem ser equipados com rodas 
+especiais 
+para 
+o 
+deslocamento 
+sobre 
+superfícies 
+irregulares, possuindo diâmetro e largura dimensionados 
+para esta finalidade e carga de Pó Químico Seca à base de 
+bicarbonato de sódio (faixa ll de operação), conforme 
+NBR 
+10721, 
+ou 
+de 
+outro 
+agente 
+extintor 
+comprovadamente adequado e em conformidade com a 
+legislação vigente, e respeitada sua capacidade extintora. 
+5.5.7.9 Todas as partes das instalações elétricas devem ser 
+projetadas e executadas de modo que seja possível 
+prevenir, por meios seguros, os perigos de choque elétrico 
+e todos os outros tipos de acidentes. 
+5.5.7.10 Deve existir aterramentos em equipamentos ou 
+elementos condutores de eletricidade, conforme o caso; 
+5.5.7.11 
+blindagem, 
+estanqueidade, 
+isolamento 
+e 
+aterramento devem existir sempre que for necessário para 
+segurança. 
+5.5.7.12 As instalações elétricas sujeitas a maior risco de 
+incêndio e explosão devem ser projetadas e executadas 
+com 
+dispositivos 
+automáticos 
+de 
+proteção 
+contra 
+sobrecorrente 
+e 
+sobretensão, 
+além 
+de 
+outros 
+complementares. 
+5.5.7.13 Circuitos elétricos com a finalidades diferentes, 
+tais como: telefonia, sinalização, controle e tração elétrica 
+devem ter separação física e identificação adequadas. 
+5.5.7.14 Devem ser observados: localização, iluminação, 
+visibilidade e identificação dos circuitos. 
+5.5.7.15 Todo motor elétrico deve possuir dispositivo que 
+o 
+desligue 
+automaticamente, 
+toda 
+vez 
+que, 
+por 
+funcionamento irregular, represente risco iminente de 
+acidente. 
+5.5.7.16 Placas de aviso, inscrições de advertência e 
+bandeirolas, assim como demais meios de sinalização, 
+devem ser utilizados sempre que for necessário para a 
+segurança. 
+5.5.7.17 Todo 
+profissional, 
+para 
+instalar, 
+operar, 
+inspecionar ou reparar instalações elétricas, deve estar apto 
+a 
+prestar 
+primeiros 
+socorros, 
+especialmente 
+o 
+procedimento de Reanimação Cardio-Pulmonar (RCP), 
+assim como operar corretamente equipamentos de combate 
+a incêndios utilizados nessas instalações.
+
+--- PÁGINA 6 ---
+ANEXO 
+ 
+ 
+ 
+ 
+Edificação 
+ 
+ 
+ 
+ 
+ 
+ 
+Separação por área física livre 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edificação 
+Figura 02 – Separação por parede corta-fogo 
+ 
+Figura 01- Separação por área física livre 
+Edificação 
+Figura 03 – Separação por parede corta-fogo entre equipamentos – Corte Vertical

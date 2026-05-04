@@ -1,0 +1,265 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 24 
+2ª edição 
+COMERCIALIZAÇÃO, DISTRIBUIÇÃO 
+E UTILIZAÇÃO DE GÁS NATURAL 
+ 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências  
+4 – Definições  
+5 – Procedimentos 
+ 
+ 
+ANEXOS 
+A – Obstáculo de proteção da bomba. 
+B – Termo de substituição de gás 
+liquefeito de petróleo (GLP) para gás 
+natural (GN). 
+C – Detalhe ventilação do abrigo de 
+medidor no hall
+
+--- PÁGINA 2 ---
+CBMMG IT 24 – Comercialização, Distribuição e Utilização de Gás Natural  
+2ª edição 
+2/8 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica estabelece as condições necessárias para a proteção contra incêndio nos 
+locais de comercialização, distribuição e utilização de GÁS NATURAL (Gás Combustível 
+Comprimido), conforme as exigências do Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica aplica-se às edificações destinadas a: 
+a) comercialização e utilização de gás natural (GN); 
+b) postos de abastecimento de gás natural (GNV); 
+c) distribuição de gás natural liquefeito (GNL). 
+d) redes residenciais de distribuição de gás natural com pressões inferior a 1,5 kgf/cm². 
+2.2 Esta Norma não se aplica a: 
+a) instalação de gases liquefeitos de petróleo (GLP); 
+b) edificações nas quais a utilização de gás combustível se destina a finalidades industriais que 
+são objeto de normas específicas, adequadas às peculiaridades de cada instalação. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislativa 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 12236 – Critérios de projeto, montagem e operação de postos de gás combustível 
+comprimido. 
+Portaria n. 118 de 11JUL2000 da Agência Nacional de Petróleo (regulamenta as atividades de 
+distribuição de gás natural liquefeito (GNL) a granel e de construção, ampliação e operação das 
+centrais de distribuição de GNL. 
+NBR 13103 – Adequação de ambientes residenciais para instalação de aparelhos que utilizam gás 
+combustível. 
+NBR 15526 – Redes de distribuição interna para gases combustíveis em instalações residenciais 
+e comerciais  –  Projeto e execução. 
+NBR 15923 – Inspeção de rede de distribuição interna de gases combustíveis em instalações
+
+--- PÁGINA 3 ---
+CBMMG IT 24 – Comercialização, Distribuição e Utilização de Gás Natural  
+2ª edição 
+3/8 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+residenciais e instalação de aparelhos a gás para uso residencial – Procedimento. 
+NBR 15902 – Qualificação de pessoas no processo construtivo de edificações – Perfil profissional 
+do instalador convertedor e mantenedor de aparelhos a gás. 
+NBR 15903 – Qualificação de pessoas no processo construtivo de edificações – Perfil profissional 
+do instalador predial e de manutenção de tubulações de gás. 
+NBR 15904 – Qualificação de pessoas no processo construtivo de edificações – Perfil profissional 
+do operador de medidores de gás. 
+NBR 12693 – Sistemas de proteção por extintores de incêndio. 
+NBR 12236 – Critério de projeto, montagem e operação de sistema de suprimento de gás natural 
+veicular (GNV) a partir de gás natural liquefeito (GNL). 
+NBR 15600 – Estação de armazenagem e descompressão de gás natural comprimido – Projeto, 
+construção e operação. 
+4 DEFINIÇÕES 
+Para efeito desta Instrução aplicam-se as definições constantes da IT 02 (Terminologia de 
+Proteção Contra Incêndio e Pânico). 
+5 
+PROCEDIMENTOS 
+5.1 Utilização e Instalação Residencial de gás natural (GN) 
+5.1.1 
+Além do disposto nas NBRs 13103 e 15526, deve-se atentar para que a tubulação da rede 
+interna não passe no interior de: 
+a) dutos de lixo, ar condicionado e águas pluviais; 
+b) reservatório de água; 
+c) dutos para incineradores de lixo; 
+d) poços e elevadores; 
+e) compartimentos de equipamentos elétricos; 
+f) compartimentos destinados a dormitórios, exceto quando destinada à conexão de equipamento 
+hermeticamente isolado; 
+g) poços de ventilação capazes de confinar o gás proveniente de eventual vazamento; 
+h) qualquer vazio ou parede contígua a qualquer vão formado pela estrutura ou alvenaria, ou por 
+estas e o solo, sem a devida ventilação. Ressalvados os vazios construídos e preparados 
+especificamente para esse fim (shafts), os quais devem conter apenas as tubulações de gás, 
+líquidos não inflamáveis e demais acessórios, com ventilação permanente nas extremidades; 
+sendo que estes vazios devem ser sempre visitáveis e previstos em área de ventilação 
+permanente e garantida; 
+i) qualquer tipo de forro falso ou compartilhamento não ventilado, exceto quando utilizado tubo-luva;
+
+--- PÁGINA 4 ---
+CBMMG IT 24 – Comercialização, Distribuição e Utilização de Gás Natural  
+2ª edição 
+4/8 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+j) locais de captação de ar para sistemas de ventilação; 
+k) todo e qualquer local que propicie o acúmulo de gás vazado; 
+l) paredes construídas com tijolos vazados observando a ressalva da alínea h do item 5.1. 
+m) escadas enclausuradas, inclusive dutos de antecâmara. 
+n) fica terminantemente proibida a instalação de qualquer tipo de aparelho a gás nos banheiros ou 
+lavabos. 
+o) deve ser rigorosamente verificadas as condições ambientais para a instalação e utilização de 
+equipamentos a gás natural, como áreas mínimas de ventilações permanentes e volumes mínimos 
+dos ambientes onde receberão os aparelhos. 
+5.1.2 Os registros, as válvulas e os reguladores depressão devem ser instalados de modo a 
+permanecer protegidos contra danos físicos e a permitir fácil acesso, conservação e substituição 
+a qualquer tempo. 
+5.1.3 As tubulações, quando aparentes, devem ser protegidas contra choques mecânicos. 
+5.1.4 Os abrigos, internos ou externos, devem permanecer limpos e não podem ser utilizados 
+como depósito ou outro fim que não aquele a que se destinam. 
+5.1.5 Ventilação dos abrigos das prumadas internas: 
+5.1.5.1 Os abrigos internos à edificação deverão ser dotados de tubulação específica para 
+ventilação, conforme ilustração do anexo C. 
+5.1.5.1.1. O tubo utilizado para ventilação (escape do gás), com saída na cobertura da edificação 
+e com o dobro do diâmetro da tubulação de gás da prumada. 
+5.1.5.1.2. 
+ O tubo que interliga o shaft ao tubo de ventilação, com bocal situado junto ao 
+fechamento da parte superior do shaft, comprimento superior a 50 cm e ter sua junção com o tubo 
+de ventilação formando um ângulo fechado de 45 graus. 
+5.1.5.2 Quando a tubulação for interna à edificação e os abrigos nos andares forem adjacentes a 
+uma parede externa, poderá ser prevista uma abertura na parte superior deste, dispensando-se a 
+exigência do item anterior, com tamanho equivalente a, no mínimo, duas vezes o da seção da 
+tubulação, devendo ainda tal abertura ter distância de 1,20 m de qualquer outra. 
+5.1.6. Por ocasião da solicitação de vistoria junto ao Corpo de Bombeiros, deverão ser apresentas 
+as Anotações de Responsabilidade Técnica referentes à instalação / manutenção do sistema de 
+gás natural e estanqueidade da rede. 
+5.2 Postos de abastecimento de gás combustível comprimido (GN) 
+Os critérios de projeto, construção e operação de postos de abastecimento destinados à revenda 
+de gás natural veicular devem ser os previstos na NBR 12236, além das seguintes providências: 
+5.2.1 Os locais onde haja abastecimento de gás combustível comprimido (GN) devem ser 
+protegidos por uma unidade extintora sobre rodas de Pó BC, capacidade 80 B , além do sistema 
+de proteção contra incêndio exigido para os demais riscos. 
+5.2.2 O ponto de abastecimento deve possuir obstáculo de proteção mecânica com altura mínima
+
+--- PÁGINA 5 ---
+CBMMG IT 24 – Comercialização, Distribuição e Utilização de Gás Natural  
+2ª edição 
+5/8 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+de 0,20 m situado à distância não inferior a 1,0 m da bomba de abastecimento de gás natural, 
+junto à passagem de veículos. 
+5.2.3 O local de abastecimento deve possuir placas de advertência quanto às regras de segurança 
+a serem adotadas pelos usuários, prevendo distâncias seguras de permanência do usuário, além 
+de esclarecimentos tais como: 
+“PROIBIDO FUMAR”, “DESLIGAR RÁDIOS, CELULARES, EQUIPAMENTOS ELÉTRICOS”. 
+5.2.4 Os critérios de projeto, construção e operação de estações de armazenagem e 
+descompressão de gás natural comprimido devem ser os previstos na NBR 15600/09. 
+5.2.5 Para a proteção por extintores deverão ser adotados os parâmetros contidos na IT 16. 
+5.2.6 Vasos sobre pressão contendo GNC com capacidade superior a 6240 Kg devem ter 
+proteção por resfriamento conforme parâmetros adotados na IT 16. 
+5.3 Distribuição de GNL 
+5.3.1 A pessoa jurídica autorizada a exercer a atividade de distribuição de gás combustível 
+comprimido (GCC) a granel é responsável pelo procedimento de segurança nas operações de 
+transvasamento, ficando obrigado a orientar aos usuários do sistema, quanto às normas de 
+segurança a que devem ser obedecidas. 
+5.3.2 As normas de segurança acima citadas referem-se ao correto posicionamento, 
+desligamento, travamento e aterramento do veículo transportador, bem como do acionamento das 
+luzes de alerta, sinalização por meio de cones e prevenção por extintores, dentre outros 
+procedimentos. 
+5.3.3 O veículo transportador deve estacionar em área aberta e ventilada e possuir espaço livre 
+para manobra e escape rápido. 
+5.4.4. Postos de revenda ou distribuição de gás natural veicular (GNV) a partir de gás natural 
+liquefeito (GNL) devem atender à NBR 15244. 
+5.4.5. As medidas de proteção contra incêndio a serem previstas em projeto, para Bases e 
+Estações de manipulação e distribuição de Gás Natural Liquefeito, deverão atender à NFPA 59
+
+--- PÁGINA 6 ---
+CBMMG IT 24 – Comercialização, Distribuição e Utilização de Gás Natural  
+2ª edição 
+6/8 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+ANEXO A 
+ 
+ 
+OBSTÁCULO DE PROTEÇÃO DA BOMBA
+
+--- PÁGINA 7 ---
+CBMMG IT 24 – Comercialização, Distribuição e Utilização de Gás Natural  
+2ª edição 
+7/8 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+ANEXO B 
+ 
+Papel Timbrado da Distribuidora 
+ 
+TERMO DE SUBSTITUIÇÃO DE 
+GÁS LIQUEFEITO DE PETRÓLEO (GLP) PARA GÁS NATURAL (GN) 
+ 
+ 
+Nome do RT:   
+Registro do RT:  
+ 
+ 
+Nome da Edificação:   
+ 
+ 
+Rua/Av. :   
+ 
+ 
+Bairro:  
+Cidade:   
+ 
+ 
+ 
+ 
+Anexos: Laudo Técnico do Ensaio de Estanqueidade da prumada existente. 
+Anotação de Responsabilidade Técnica (ART) da execução de interligação da rede de GN à 
+rede de GLP. 
+ 
+ 
+Pelo presente Termo a (nome da Distribuidora) certifica que o abastecimento e a 
+distribuição de GLP da edificação foram substituídos por Sistema de Gás Natural obedecendo 
+todas as exigências e recomendações quanto ao Dispositivo de segurança contra sobre pressão, 
+registros e materiais de interligação de equipamentos constantes das Normas da Associação 
+Brasileira de Normas Técnicas – ABNT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Distribuidora 
+[Carimbo com CNPJ]
+
+--- PÁGINA 8 ---
+CBMMG IT 24 – Comercialização, Distribuição e Utilização de Gás Natural  
+2ª edição 
+8/8 
+Aprovado pela portaria n. 13, de 23abr2012. 
+ 
+ANEXO C 
+ 
+DETALHE VENTILAÇÃO DO ABRIGO DE MEDIDOR NO HALL 
+ 
+ 
+Imagem 01 
+ 
+Imagem 02

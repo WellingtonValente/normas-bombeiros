@@ -1,0 +1,438 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+CIRCULAR Nº 05 / 2011 – DAT 
+Dispõe sobre as alterações dos procedimentos 
+administrativos prescritos na Instrução Técnica Nº 01, 
+Instrução 
+Técnica 
+09 
+e 
+Instrução 
+Técnica 
+36, 
+estabelecidas pela Portaria nº 12 de 06 de outubro de 
+2011. 
+O Diretor de Atividades Técnicas, no uso das atribuições que lhe são 
+conferidas pelo inciso I do artigo 6º da Resolução nº 169 de 24 de agosto de 2005, 
+c/c inciso III do artigo 2º da Lei nº 14.130 de 19 de dezembro de 2001, inciso IX do 
+artigo 4º do Decreto nº 44.746 de 29 de fevereiro de 2008 e artigo 18 da Portaria nº 
+12 de 06 de outubro de 2011, expede a presente Circular visando esclarecer e 
+orientar o público interno e externo quanto às seguintes modificações promovidas 
+nas Instruções Técnicas nº 01, 09 e 36, através da Portaria nº 12 de 06 de outubro 
+de 2011: 
+ 
+I – Alteração na composição do PSCIP: 
+Conforme modificação inserida no Art. 1º da Portaria 12, na composição do 
+PSCIP, deverá constar somente os Memoriais de Cálculo de Saídas de Emergência 
+(incluindo cálculo de população), de Carga de Incêndio e Isolamento de Risco. 
+Os demais memoriais de cálculo não deverão ser anexados ao PSCIP por se 
+tratarem de procedimento técnico de responsabilidade exclusiva do Responsável 
+Técnico. 
+Nestes casos, deverá ser apresentado o Quadro Resumo dos resultados 
+obtidos nos cálculos e demais informações do sistema que deverão ser alvo de
+
+--- PÁGINA 2 ---
+verificação na análise e na vistoria, conforme modelos nos anexos A, B, C, D, E e F 
+desta Circular.  
+Nos Quadros Resumo deverão constar todas as informações necessárias à 
+verificação do sistema, devendo tais dados ser confrontados com as exigências das 
+Instruções Técnicas e Normas Técnicas (ex.: pressões e vazões finais, diâmetro da 
+tubulação, capacidade da RTI, comprimento de mangueiras, tipo de mangueira para 
+sistemas de HI). 
+Os memoriais de cálculo diferentes dos previstos que forem anexados ao 
+PSCIP deverão ser retirados. 
+Os cálculos para definição do coeficiente de segurança mínimo das 
+edificações históricas devem continuar sendo apresentados conforme IT 35, por se 
+tratar de uma avaliação de risco cuja verificação cabe ao CBMMG.  
+II) Análise de PTS: 
+Considerando que na última revisão da IT 01 foi aberta a concessão de 
+análise de PTS em atenção às solicitações dos Responsáveis Técnicos, foi 
+observada que a exceção se tornou regra, contrariando o objetivo do PTS que era 
+proporcionar maior agilidade nos procedimentos. 
+Em função desta distorção da interpretação do objetivo da norma, a 
+determinação contida na Portaria nº 12 é que os PTS não poderão passar pelo setor 
+de análise.  
+Considerando que o objetivo deste procedimento é a agilidade dos 
+procedimentos, o vistoriador deverá atentar para o fato de que somente deverão ser 
+determinadas mudanças nas instalações onde for observado claro descumprimento 
+das normas, evitando posicionamentos baseados em opinião, sem embasamento 
+normativo. 
+ 
+III) Mudança nos procedimentos para regularização das edificações que 
+se enquadram como Procedimento Simplificado: 
+Para edificações, com somatório de área até 200 m2 (duzentos metros 
+quadrados) na mesma propriedade, dos grupos A, B, C, D e Divisões F-8, que não
+
+--- PÁGINA 3 ---
+se enquadrem nos requisitos para Projeto Técnico, previsto no item 6.1.1, será 
+dispensada a elaboração de projeto.  
+Para estes casos, está sendo criado o Certificado para Funcionamento, que 
+será emitido eletronicamente para as edificações que se enquadrem na situação de 
+PS, podendo ser fiscalizadas a qualquer momento. 
+Também está prevista a orientação presencial, onde será facultado ao 
+proprietário ou responsável pelo local, o comparecimento ao setor do Serviço de 
+Segurança contra Incêndio e Pânico (SSCIP) da área de responsabilidade para 
+obter orientações visando à regularização da edificação e emissão do Certificado 
+para Funcionamento. 
+Este 
+procedimento 
+visa 
+facilitar 
+a 
+regularização 
+dos 
+pequenos 
+empreendimentos, que poderá ser feita imediatamente, gerando menos burocracia, 
+além de propiciar economia no emprego de efetivo do Corpo de Bombeiros Militar. 
+As orientações específicas para o Procedimento Simplificado (PS) serão 
+disponibilizadas através de Circular própria. 
+ 
+IV) Vistoria parcial e AVCB para edificações em um mesmo terreno ou 
+área indivisa. 
+A mudança inserida pela Portaria nº 12 permite a vistoria parcial e emissão do 
+AVCB para empreendimentos com mais de uma edificação que se caracterizem 
+como riscos isolados e que possuam instalação de sistemas de proteção contra 
+incêndio e pânico interligados, desde que estejam sob administração única, atendam 
+às exigências normativas e tenham a eficiência de todo o sistema atestada pelo o 
+Responsável Técnico.  
+ 
+V) Vistoria e AVCB parcial para edificações em construção. 
+Poderá ser realizada vistoria parcial com emissão do respectivo AVCB Parcial 
+nas edificações em construção, desde que a área em obras não esteja ocupada e 
+não caracterize risco de incêndio, bem como não interfira nas rotas de fuga. Neste 
+caso, será admitida a proteção proporcional à área a ser vistoriada.
+
+--- PÁGINA 4 ---
+Neste caso, a parte da edificação em funcionamento deverá atender às 
+características arquitetônicas, uso e ocupação conforme PSCIP aprovado. 
+ 
+VI) Flexibilização quanto à apresentação de ART para primeira vistoria: 
+Considerando que a IT 01 previa que em toda primeira vistoria de edificação 
+deveria ser apresentada ART de instalação, o que grande parte das vezes era 
+inviável, definiu-se pela apresentação da ART de instalação ou manutenção para 
+qualquer caso. Desta forma, o importante é que o sistema seja avaliado e 
+manutenido por profissional habilitado, que tem responsabilidade pelo serviço 
+prestado. 
+Para as edificações existentes, quando for verificada a desnecessidade de 
+manutenção, poderá ser emitido laudo técnico de inspeção com respectiva ART, 
+atestando o funcionamento do sistema. 
+ 
+ 
+VII) Modificação do “anexo C”: 
+A modificação do “anexo C” consiste na inserção das Notas: 
+• 
+A projeção das medidas descritas neste anexo é de responsabilidade do autor 
+do projeto (Responsável Técnico), signatário deste documento.  
+• 
+O proprietário/empreendedor é responsável pela manutenção das medidas 
+descritas neste anexo em perfeitas condições de utilização. 
+• 
+Ao Corpo de Bombeiros cabe o reconhecimento das medidas descritas neste 
+anexo, considerando as informações prestadas pelo Responsável Técnico 
+acerca da edificação ou área de risco. 
+Estas 
+notas 
+têm 
+como 
+objetivo 
+esclarecer 
+ao 
+cidadão 
+(proprietário/responsável pelo uso) quanto à responsabilidade de cada envolvido no 
+processo, incluindo a sua responsabilidade na manutenção das medidas instaladas, 
+evitando interpretações equivocadas e possibilitando que o mesmo exija o correto 
+cumprimento das normas por parte do profissional contratado.
+
+--- PÁGINA 5 ---
+VIII) Revogação da subseção 4.13 da Instrução Técnica 36:  
+ 
+“4.13 Para edificações mistas, caberá análise do Corpo Técnico.”    
+Com a revogação desta subseção será possível maior agilidade nos 
+procedimentos, evitando-se o encaminhamento de PSCIP para Belo Horizonte para 
+análise de situação cujos SSCIP possuem condições para tal. Desta forma, os casos 
+de que trata esta subseção serão analisados na própria Unidade/Fração.  
+ 
+IX) Revogação da subseção 2.4 da IT 09: 
+“2.4 Em todos os casos de medição direta da densidade de carga de incêndio, o laudo técnico 
+correspondente deve ser submetido à aprovação do Corpo Técnico do CBMMG.” 
+Assim como no item anterior, com a revogação desta subseção será possível 
+maior agilidade nos procedimentos, evitando-se o encaminhamento de PSCIP para 
+Belo Horizonte para análise de situação cujos SSCIP possuem condições para tal. 
+Desta forma, os casos de que trata esta subseção serão analisados na própria 
+Unidade/Fração. 
+ 
+X) Os procedimentos referentes à análise de PSCIP e vistorias para fins de 
+AVCB serão disciplinados pelo Diretor de Atividades Técnicas através de 
+circulares. 
+ 
+Este item reforça a competência da Diretoria de Atividades Técnicas como 
+responsável pela emissão de doutrinas relativas ao SSCIP. 
+ 
+Com base neste entendimento, a DAT emitirá circulares com o objetivo de 
+padronizar e agilizar procedimentos. 
+ 
+Desta forma, correções e novos procedimentos que se fizerem necessários 
+poderão ser implementados imediatamente, sempre visando à melhoria na 
+prestação de serviço.
+
+--- PÁGINA 6 ---
+XI) Vigência 
+Considerando que as questões tratadas na Portaria 12 não são de caráter 
+técnico, esta entra em vigor imediatamente. 
+Para que haja tempo suficiente para adequação dos Projetos já em 
+desenvolvimento, foi concedido período de 15 dias de carência a partir do qual estas 
+regras deverão ser integralmente seguidas.  
+Para os Projetos já protocolados no CBMMG serão admitidos os 
+procedimentos prescritos na Portaria nº 11, de fevereiro de 2011. 
+Concluindo, estas mudanças visam a simplificação e agilidade dos 
+procedimentos, de forma a facilitar o trabalho dos Responsáveis Técnicos, do Corpo 
+de Bombeiros Militar e, principalmente, a vida dos cidadãos, usuários de nossos 
+serviços. 
+Estes procedimentos atendem também às recomendações do Governo do 
+Estado de Minas Gerais que tem como um dos principais objetivos a facilitação do 
+acesso da população aos serviços prestados pelo Estado, além da simplificação de 
+procedimentos e desburocratização. 
+Para que não ocorra nenhuma dúvida, estão sendo emitidas circulares para 
+orientar situações específicas. 
+Belo Horizonte, 18 de outubro de 2011. 
+ 
+ 
+ 
+Altamir Penido da Silva, Cel BM 
+Diretor de Atividades Técnicas
+
+--- PÁGINA 7 ---
+ANEXO A 
+                                  
+QUADRO RESUMO DO SISTEMA DE PRESSURIZAÇÃO DE ESCADA DE 
+SEGURANÇA 
+1 
+Quantidade de pavimentos com acesso à escada 
+pressurizada: 
+ 
+2 
+Número de estágios (1 ou 2) 
+ 
+3 
+Vazão requerida para o conjunto motoventilador - Qtpf 
+(m³/s ou m³/h) 
+ 
+4 
+Vazão adotada no conjunto motoventilador (m³/s ou 
+m³/h) 
+ 
+5 
+Vazão do damper de alívio - Qd (m³/s ou m³/h) 
+ 
+ 
+ 
+6 
+(Outras informações) 
+ 
+ 
+ 
+ 
+ 
+ 
+Ass. Responsável Técnico - CREA
+
+--- PÁGINA 8 ---
+ANEXO B 
+ 
+     QUADRO RESUMO DE INFORMAÇÕES DA BRIGADA DE INCÊNDIO 
+ 
+Nº do 
+pavimen
+to 
+População fixa do pavimento 
+Número de 
+brigadistas 
+1 
+ 
+ 
+2 
+ 
+ 
+3 
+ 
+ 
+4 
+ 
+ 
+... 
+ 
+ 
+ 
+(Outras informações) 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+ 
+__________ 
+Ass. Responsável Técnico -  CREA
+
+--- PÁGINA 9 ---
+ANEXO C 
+ 
+ 
+QUADRO RESUMO DO SISTEMA DE HIDRANTES E MANGOTINHOS PARA 
+COMBATE A INCÊNDIO 
+ 
+ 
+1 
+Tipo do sistema adotado 
+ 
+2 
+Reserva Técnica de Incêndio (m³) 
+ 
+3 
+Tipo de reservatório (elevado ou subterrâneo) 
+ 
+4 
+Vazão no HI mais desfavorável (Lpm) 
+ 
+5 
+Pressão no HI mais desfavorável (mca) 
+ 
+6 
+Pressão no HI mais favorável (mca) 
+ 
+7 
+Potência da bomba de incêndio (CV) 
+ 
+8 
+Potência da bomba jockey (CV) - caso haja 
+ 
+9 
+Tipos de mangueiras 
+ 
+10 
+(Outras informações) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Ass. Responsável Técnico -  CREA
+
+--- PÁGINA 10 ---
+ANEXO D 
+ 
+QUADRO RESUMO DE SISTEMA DE CHUVEIROS AUTOMÁTICOS 
+ 
+1 
+Risco da ocupação - Grupo (conforme NBR 10897) 
+ 
+2 
+Duração da reserva de SPK (min) 
+ 
+3 
+Pressão mínima de operação (kPa) 
+ 
+4 
+Potência da bomba de incêndio (CV) 
+ 
+5 
+Potência da bomba jockey (CV) - caso haja 
+ 
+6 
+(Outras informações) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________ 
+Ass. Resposável Técnico  -  CREA
+
+--- PÁGINA 11 ---
+ANEXO E 
+QUADRO RESUMO REFERENTES À LÍQUIDOS E GASES INFLAMÁVEIS E 
+COMBUSTÍVEIS (IT 19, 20 E 22) 
+1 
+Classe do líquido (conforme IT 19) 
+ 
+2 
+Forma de resfriamento (linha manual, canhão monitor ou 
+aspersores fixos) 
+ 
+3 
+Tempo de duração da reserva de resfriamento (min) 
+ 
+4 
+Vazão do sistema (Lpm) 
+ 
+5 
+Foma de aplicação da espuma (linha, canhão ou câmara de 
+espuma) 
+ 
+6 
+Volume de LGE 
+ 
+7 
+Taxa de aplicação do LGE 
+ 
+8 
+Tempo de operação do sistema de espuma (min) 
+ 
+9 
+Potência da bomba de incêndio (CV) 
+ 
+10 Potência da bomba reserva (CV) - caso haja 
+ 
+11 Potência da bomba jockey (CV) - caso haja 
+ 
+12 Capacidade da armazenamento dos tanques (m³) 
+ 
+13 Capacidade máxima estocada no interior de edifícios 
+ 
+14 
+(Outras informações) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ass. Resposável Técnico - CREA
+
+--- PÁGINA 12 ---
+ANEXO F 
+ 
+ 
+    QUADRO RESUMO DE SISTEMA FIXO DE GASES PARA COMBATE A 
+INCÊNDIO 
+1 
+Gás utilizado no sistema 
+ 
+2 
+Tipo do sistema fixo 
+ 
+3 
+Forma de acionamento (manual ou automática) 
+ 
+4 
+Tempo de retardo 
+ 
+5 
+(Outras informações) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Ass. Resposável Técnico -  CREA

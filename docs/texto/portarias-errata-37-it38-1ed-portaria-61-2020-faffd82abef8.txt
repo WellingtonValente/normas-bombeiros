@@ -1,0 +1,118 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23502085 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27496495&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 22 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 37/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 38 – 1ª
+Edição (Controle de materiais de acabamento e de revesƟmento - CMAR):
+ 
+1. ALTERAR o item 1
+Onde se lê: 
+"1 OBJETIVO
+Estabelecer as condições a serem atendidas pelos materiais de acabamento e de revesƟmento
+empregados nas ediﬁcações, para que, na ocorrência de incêndio, restrinjam a propagação de fogo e o
+desenvolvimento de fumaça, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico
+das ediﬁcações e áreas de risco do Estado de Minas Gerais."
+Leia-se:
+"1 OBJETIVO 
+Estabelecer as condições a serem atendidas pelos materiais de acabamento e de revesƟmento
+empregados nas ediﬁcações, para que, na ocorrência de incêndio, restrinjam a propagação de fogo e o
+desenvolvimento de fumaça, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico
+do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 6.1
+Onde se lê: 
+"6.1 Quando da apresentação do PSCIP, deve ser preenchido o quadro resumo de controle de
+materiais de acabamento (Anexo B)."
+Leia-se:
+"6.1 Quando da apresentação do PSCIP, deve ser preenchido o quadro resumo de controle de
+materiais de acabamento e revesƟmento (Anexo B)."
+ 
+3. ALTERAR o Quadro Resumo de Controle de Materiais de Acabamento do Anexo B 
+Onde se lê: 
+QUADRO RESUMO DE CONTROLE DE MATERIAIS DE ACAMABENTO
+EDIFICAÇÃO/
+AMBIENTE
+ELEMENTO
+CONSTRUTIVO
+CLASSE
+ADOTADA
+MATERIAL
+NORMAS DE ENSAIO
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23502085 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27496495&infra_sist…
+2/2
+ 
+Piso
+ 
+ 
+ 
+Parede/divisórias
+ 
+ 
+ 
+Teto/forro
+ 
+ 
+ 
+Cobertura
+ 
+ 
+ 
+Isolamento termo acúsƟco
+ 
+ 
+ 
+ 
+Leia-se:
+QUADRO RESUMO DE CONTROLE DE MATERIAIS DE ACABAMENTO E REVESTIMENTO
+EDIFICAÇÃO/
+AMBIENTE
+ELEMENTO
+CONSTRUTIVO
+CLASSE
+ADOTADA
+MATERIAL
+NORMAS DE ENSAIO
+ 
+Piso
+ 
+ 
+ 
+Parede/divisórias
+ 
+ 
+ 
+Teto/forro
+ 
+ 
+ 
+Cobertura
+ 
+ 
+ 
+Isolamento termo acúsƟco
+ 
+ 
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 28/12/2020, às
+21:38, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23502085 e o
+código CRC 9F9DDC26.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23502085

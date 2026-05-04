@@ -1,0 +1,186 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 42 
+1ª edição 
+ESTABELECIMENTOS DESTINADOS À 
+RESTRIÇÃO DE LIBERDADE 
+ 
+Aprovada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Procedimentos 
+6 – Disposições finais
+
+--- PÁGINA 2 ---
+CBMMG IT 42 – Estabelecimentos destinados à Restrição de Liberdade 
+1ª edição 
+ 
+2/5 
+Aprovada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+1. OBJETIVO  
+1.1 Estabelecer as condições necessárias de segurança contra incêndio e pânico para as 
+edificações destinadas à restrição de liberdade de pessoas. 
+1.2 Padronizar critérios para análise de projetos de segurança contra incêndio e pânico e vistoria 
+de edificações destinadas à restrição de liberdade de pessoas em Minas Gerais. 
+1.3 Orientar os profissionais que atuam na elaboração de projetos e execução de obras 
+submetidas à aprovação do Corpo de Bombeiros Militar de Minas Gerais (CBMMG). 
+2. APLICAÇÃO  
+Esta Instrução Técnica (IT) se aplica aos estabelecimentos destinados à restrição de liberdade 
+de pessoas (ocupação/divisão H-5), que devem atender às exigências das tabelas previstas no 
+Anexo A da IT 01 (Procedimentos Administrativos). 
+3. REFERÊNCIAS  
+3.1 Legislação 
+Lei Federal n.13.425/2017 – que estabelece diretrizes gerais sobre medidas de prevenção e 
+combate a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de 
+público. 
+Lei Estadual n. 14.130/2001 – que dispõe sobre a prevenção contra incêndio e pânico no Estado 
+de Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 5410 – Instalações elétricas de baixa tensão. 
+NBR 6118 – Projeto de estruturas de concreto – Procedimento.  
+NBR 6120 – Cargas para cálculo de estruturas de edifícios – Procedimento.  
+NBR 10898 – Sistema de Iluminação de Emergência. 
+NBR 11861 – Mangueira de incêndio – Requisitos e métodos de ensaio. 
+NBR 13714 – Sistemas de Hidrantes e de Mangotinhos para Combate a Incêndio, Associação 
+Brasileira de Normas Técnicas. 
+NBR17240 – Sistema de Detecção e Alarme de Incêndio – Projeto, instalação, comissionamento 
+e manutenção de sistemas de detecção e alarme de incêndio – Requisitos. 
+Corpo de Bombeiros da Polícia Militar do Estado de São Paulo, Instrução Técnica n. 39. São 
+Paulo, 2018. 
+Brasil. Conselho Nacional de Política Criminal e Penitenciária. Diretrizes básicas para arquitetura 
+prisional. Brasília: CNPCP, 2011.
+
+--- PÁGINA 3 ---
+CBMMG IT 42 – Estabelecimentos destinados à Restrição de Liberdade 
+1ª edição 
+ 
+3/5 
+Aprovada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+Correctional Service Canada. Technical Criteria for Correctional Institutions. Canadá, 2015. 
+National Fire Protection Association. NFPA 101 – Life Safety Code Handbook.  
+4. DEFINIÇÕES  
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 
+02(Terminologia de Proteção Contra Incêndio e Pânico).  
+5. PROCEDIMENTOS   
+As exigências para edificações onde há restrição de liberdade das pessoas são prescritas no 
+Anexo A da IT 01 (Procedimentos Administrativos) e respectivas Instruções Técnicas, aplicando-
+se, adicionalmente, os parâmetros descritos abaixo. 
+5.1 Controle de materiais de acabamento e de revestimento: para a área de restrição de 
+liberdade, devem ser adotados materiais de acabamento e revestimento incombustíveis classe 
+“I” para pisos e classe “A” para paredes, divisórias, teto, forro e similares. Nas demais áreas 
+(administração, áreas de apoio etc.), deve ser adotado o previsto na IT 38 (Controle de Materiais 
+de Acabamento e de Revestimento). 
+5.2 Acesso de viatura na edificação: deve ser previsto acesso de viatura junto à fachada das 
+edificações conforme previsto na IT 04 (Acesso de Viatura nas Edificações e Áreas de Risco), 
+observando-se as dimensões do portão de entrada e largura das vias internas.  
+5.3 Saídas de emergência: devem ser dimensionadas conforme a IT 08 (Saídas de emergência 
+em Edificações), sendo permitidas as seguintes alterações:  
+a) o caminhamento (distância máxima a percorrer) poderá ser acrescido em até 30% (trinta por 
+cento) quando houver ventilação natural ou controle de fumaça no acesso; 
+b) as portas de acesso às saídas poderão permanecer trancadas, porém devem ter sistema de 
+destravamento devidamente monitorado pela administração da unidade, garantindo a saída dos 
+internos, em caso de sinistro, para local seguro e ventilado; 
+c) as portas de segurança poderão ter abertura no sentido contrário ao da saída, devendo haver 
+sinalização pintada na porta indicando a inversão do sentido de abertura; 
+d) os corrimãos devem ser chumbados na alvenaria com concreto, podendo ser substituídos por 
+muretas de alvenaria com até 0,92 m de altura. 
+5.3.1 Nas penitenciárias ou estabelecimentos penais destinados ao recolhimento de pessoas 
+presas com condenação à pena privativa de liberdade em regime fechado, dotadas de celas 
+individuais e coletivas, deve haver área fora da edificação sob controle da segurança, cercada e 
+totalmente ventilada, para acomodar a população da edificação em caso de emergência. 
+5.4 Iluminação de emergência: deve ser atendido exclusivamente por grupo motogerador, 
+sendo dimensionado conforme IT 13 (Iluminação de Emergência), NBR 10898 (Sistema de 
+Iluminação de Emergência) e NBR 5410 (Instalações Elétricas de Baixa Tensão), podendo 
+secundariamente ser suplementada por sistema com baterias (bloco autônomo ou sistema 
+centralizado com baterias recarregáveis instalados em caixa blindada). 
+5.4.1 A altura de instalação da iluminação poderá exceder ao previsto na NBR 10898 quando a 
+intensidade da iluminação compensar o incremento na altura.
+
+--- PÁGINA 4 ---
+CBMMG IT 42 – Estabelecimentos destinados à Restrição de Liberdade 
+1ª edição 
+ 
+4/5 
+Aprovada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+5.4.2 Os circuitos devem ser protegidos contra ação do fogo.  
+5.4.3 As instalações devem ser embutidas na alvenaria, devendo o grupo motogerador estar 
+localizado em área segura, de acesso restrito aos funcionários e equipes de apoio externo. 
+5.5 Sinalização de emergência: será dimensionada conforme estabelecido na IT 15 
+(Sinalização de Emergência), devendo ser executada através de pintura com tinta 
+fotoluminescente na área de restrição de liberdade. 
+5.6 Alarme de incêndio: as instalações devem atender ao previsto na IT 14 (Sistema de 
+Detecção e Alarme de Incêndio), sendo que os eletrodutos devem ser embutidos na alvenaria e 
+as botoeiras instaladas apenas nas áreas de acesso exclusivo aos funcionários, fora da área de 
+restrição de liberdade.  
+5.6.1 O sinal sonoro do alarme de incêndio deve possuir som distinto dos outros alarmes da 
+edificação. 
+5.6.2 Quando houver sala ou local destinado para central de sistema de monitoramento, é 
+obrigatória a instalação da central de alarme nesse local, incluindo indicação luminosa do 
+acionamento de alarme. 
+5.6.3 A central de alarme deve possuir display que indique a localização (endereçamento) do 
+acionamento. 
+5.6.4 Para complexos prisionais com mais de uma edificação, ou edificações com mais de um 
+pavimento e área superior a 750,0 m2, deve haver a instalação de um painel repetidor na área 
+administrativa ou de direção. 
+5.6.5 O sistema de alarme deve possuir sistema de alimentação de emergência em caso de 
+interrupção de fornecimento de energia. 
+5.6.6 Deve ser previsto sistema de aviso, através de alarme sonoro e luminoso junto à central de 
+alarme, quando houver fluxo de água na rede de hidrantes.  
+5.7 Extintores portáteis: devem ser distribuídos conforme a IT 16 (Sistema de Proteção por 
+Extintores de Incêndio), sendo permitidas as seguintes alterações:  
+a) as unidades extintoras devem ser distribuídas nas áreas de acesso exclusivo aos funcionários, 
+fora da área de restrição de liberdade, evitando acesso àqueles com liberdade restrita. 
+b) as unidades extintoras podem permanecer trancadas em armários específicos (chave com 
+segredo único), devendo todos os funcionários portarem as chaves, além de haver cópia desta 
+em quadro exclusivo. 
+5.8 Sistema de hidrantes: deve ser dimensionado conforme a IT 17 (Sistema de Hidrantes e 
+Mangotinhos para Combate a Incêndio), sendo permitidas as seguintes alterações:  
+a) os pontos de hidrantes podem ser instalados na área de acesso exclusivo aos funcionários, 
+fora da área de restrição de liberdade, evitando acesso àqueles com liberdade restrita; 
+b) poderá ser utilizado até 60,0 m de mangueiras, adotando-se lances de no máximo 20,0 m, 
+desde que atendidas as exigências específicas de pressão e vazão constantes na IT 17;
+
+--- PÁGINA 5 ---
+CBMMG IT 42 – Estabelecimentos destinados à Restrição de Liberdade 
+1ª edição 
+ 
+5/5 
+Aprovada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+c) as mangueiras, esguichos e chaves de mangueiras podem permanecer trancadas nos abrigos 
+de hidrantes (chave com segredo único), devendo todos os funcionários portarem as chaves, 
+além de haver cópia desta em quadro exclusivo. 
+5.8.1 Caso o sistema de hidrantes seja automatizado, deve ser previsto, no mínimo, uma 
+botoeira de acionamento manual alternativo junto à central de alarme de incêndio. 
+6 DISPOSIÇÕES FINAIS  
+6.1 Recomenda-se que haja sistema de monitoramento dos ambientes através de Circuito 
+Fechado de Televisão (CFTV) ou outro sistema de comprovada eficiência.  
+6.2 Os locais em que se encontram os equipamentos do sistema de proteção contra incêndio, 
+tais como casa da bomba de incêndio, reserva de incêndio, grupo motogerador, central de 
+alarme de incêndio etc., devem estar em local sem acesso aos internos. 
+6.3 Circuitos elétricos que alimentam sistemas e medidas preventivas devem ser distribuídos em 
+classe “A” (enviando impulso elétrico em dois sentidos). Na hipótese de o cabo ser interrompido 
+em um setor, continuará em funcionamento por outro caminho.  
+6.4 Mantidas as condições de segurança e independentemente da exigência da medida controle 
+de fumaça, recomenda-se que haja aberturas de 10,0 cm x 80,0 cm, protegidas por grades, 
+distribuídas horizontalmente rente ao teto nos locais de restrição de liberdade. 
+6.5 De forma a suplementar os equipamentos que são exigidos para cada edificação, poderão 
+ser previstas, a critério do Responsável Técnico e da administração prisional, unidades móveis 
+com aparelhos de prevenção e combate a incêndio que possam ser direcionados pela brigada de 
+incêndio à edificação em que ocorrer o sinistro. 
+6.6 Em caso de impossibilidade técnica de adequação de medida de segurança à instrução 
+técnica específica ou aos parâmetros previstos nesta norma, poderá haver acionamento do 
+Corpo Técnico, observando-se as prescrições da IT 40.

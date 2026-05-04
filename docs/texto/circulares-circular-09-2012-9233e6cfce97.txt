@@ -1,0 +1,130 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+Circular nº 09/2012 – DAT 
+ 
+Dispõe sobre procedimentos relativos ao 
+Projeto de Segurança Contra Incêndio e 
+Pânico, bem como emissão do Auto de 
+Vistoria do Corpo de Bombeiros (AVCB) 
+após a implementação do Sistema de 
+Informações do Serviço de Segurança 
+Contra Incêndio e Pânico – INFOSCIP. 
+ 
+O Tenente Coronel BM Diretor de Atividades Técnicas, no uso de suas 
+atribuições legais consoante ao disposto no inciso I, artigo 6º da 
+Resolução169/2005, que trata da competência e estrutura da Diretoria de 
+Atividades Técnicas, inciso I do item 6.1 da IT 01, combinado com o disposto  
+no inciso III, artigo 2º da Lei 14.130/2001, que dispõe sobre a prevenção contra 
+incêndio e pânico no Estado de Minas de Gerais, 
+ 
+CONSIDERANDO: 
+1) A implantação do INFOSCIP a partir de 16 de agosto de 2012 com a 
+tramitação dos PSCIP do sistema informatizado via web; 
+2) A necessidade de padronização de procedimentos quanto ao trâmite de 
+PSCIP e emissão de AVCB via INFOSCIP; 
+3) Que a apresentação do PSCIP da forma física será substituída, 
+gradativamente, pelo envio de arquivos digitais através da web; 
+4) Que a utilização do INFOSCIP visa proporcionar informação em tempo real 
+da tramitação do PSCIP, processo de obtenção do AVCB, bem como maior 
+controle e transparência dos procedimentos. 
+ 
+RESOLVE: 
+1. Os Processos de Segurança contra Incêndio e Pânico (PSCIP) novos e as 
+modificações de PSCIP que já possuam AVCB, relativos à RMBH, deverão ser 
+cadastrados via INFOSCIP a partir de 03 de setembro de 2012. 
+ 
+2. Os PSCIP em trâmite no CBMMG protocolados até 03 de setembro de 2012 
+não sofrerão alterações nos procedimentos já definidos pela IT 01 até a 
+emissão do AVCB. O CBMMG providenciará para que a base de dados do
+
+--- PÁGINA 2 ---
+acervo do INFOSCIP seja alimentada conforme tramitação dos referidos 
+projetos. 
+ 
+3. A atualização, substituição parcial e substituição total de PSCIP que já 
+possuam AVCB, protocoladas a partir de 03 de setembro de 2012, deverão ser 
+precedidas de FAT, através do qual o RT informará os dados do projeto a ser 
+atualizado/modificado. O PSCIP será localizado no arquivo e inserido no 
+INFOSCIP. Após a inserção, o RT será avisado via e-mail para que faça o pré- 
+cadastro via INFOSCIP da atualização ou modificação que pleiteia. 
+(REVOGADO PELO ITEM 2 DA CIRCULAR 16/2013) 
+ 
+4. O protocolo via INF OSCIP de PSCIP novos, assim como atualização, 
+substituição parcial e substituição total de PSCIP que já possuam AVCB 
+ocorrerá de duas formas: via WEB (INFOSCIP) apenas ou via WEB 
+(INFOSCIP) com parte física (impressa), sendo que a segunda opção somente 
+será possível até 31 de dezembro de 2012 e seguirá os mesmos 
+procedimentos já definidos pela IT-01, não sendo permitida a migração de uma 
+forma para outra depois de iniciado o trâmite. (ALTERA REDAÇÃO 
+CONFORME ITEM 1 DA CIRCULAR 03/2013 Prorrogar o prazo de 
+apresentação de PSCIP impresso via INFOSCIP regulamentado pelo item 4 da 
+Circular nº 9 - 2012 – DAT (de 14 de agosto de 2012), de 31/12/12 para 
+31/06/13). 
+ 
+5. Para os PSCIP cadastrados no INFOSCIP, todo o trâmite ocorrerá através 
+do sistema, ficando as informações disponíveis através do “PORTAL DO 
+INFOSCIP” no endereço eletrônico www.infoscip.mg.gov.br. 
+ 
+6. O recolhimento da Taxa de Segurança Pública deverá ser feito através do 
+DAE emitido pelo INFOSCIP. Caso o DAE seja emitido através do site da 
+Secretaria Estadual de Fazenda, haverá necessidade de apresentação do 
+comprovante de pagamento de forma presencial junto ao CBMMG. (ALTERA 
+REDAÇÃO CONFORME ITEM 3 DA CIRCULAR 03/2013 sendo obrigatório o 
+pagamento das taxas relativas a análise e vistoria de projetos através de 
+Documento de Arrecadação Estadual (DAE) emitido exclusivamente pelo 
+INFOSCIP, de forma a viabilizar a efetivação do PSCIP pré-cadastrado pelo 
+CBMMG sem necessidade de apresentação do comprovante de pagamento). 
+ 
+7. Os pedidos de isenção de TSP deverão ser protocolados no CBMMG após o 
+pré-cadastro no INFOSCIP, de forma presencial, via FAT. 
+7.1 Para o PSCIP apresentado de forma digital a documentação comprobatória 
+do direito de isenção deverá ser digitalizada e anexada durante o pré-cadastro 
+junto ao INFOSCIP. 
+7.2 Para o PSCIP apresentado de forma física (impressa) a documentação 
+deverá ser inserida no PSCIP. (ALTERA REDAÇÃO CONFORME ITEM 4 DA 
+CIRCULAR 03/2013 sendo que os pedidos de isenção de TSP deverão ser 
+protocolados antes do pré-cadastro, de forma presencial ou através do e-mail
+
+--- PÁGINA 3 ---
+fatcat@cbmmg.mg.gov.br 
+ 
+8. Quando do pré-cadastro, no campo correspondente ao endereço da 
+edificação ou área de risco, deverá obrigatoriamente conter dados completos  
+de endereço, incluindo informações a respeito de lote e quarteirão. Os 
+caracteres digitados no campo de busca deverão ser somente letras, devendo 
+ser evitados os acentos. Esgotadas todas as buscas, caso não seja encontrado 
+o endereço, poderá ser usada a opção de clicar no botão “NÃO ENCONTREI 
+LOGRADOURO”. 
+ 
+9. Para o projeto que tiver sua tramitação somente via INFOSCIP 
+(integralmente digital), no momento da solicitação de vistoria para fins de 
+emissão do AVCB, o responsável técnico ou responsável pela edificação 
+deverá apresentar o PSCIP aprovado, de forma impressa, com toda 
+documentação necessária conforme IT 01, até 31 de dezembro de 2012. 
+9.1 Após o pré-cadastro do PTS no INFOSCIP, deverá ser apresentado o 
+processo de forma impressa com toda documentação necessária conforme IT 
+01, para que haja a efetivação e encaminhamento a Vistoria. 
+ 
+10. Os PSCIP que forem aprovados e liberados por meio do INFOSCIP terão o 
+seu AVCB emitido de forma eletrônica. 
+ 
+11. Somente tramitarão n o sistema INFOSCIP os FAT relativos aos projetos 
+que estão cadastrados no sistema. Para os demais, o procedimento não 
+sofrerá alteração. 
+ 
+12. Demais informações para uso do sistema, dúvidas e reclamações estarão 
+disponíveis no endereço eletrônico do INFOSCIP (www.infoscip.mg.gov.br), na 
+ajuda on-line habilitada para todos os usuários logados e através do Help Desk 
+no e-mail prevencaobombeiros@hotmail.com ou pelo telefone 3248-5519. 
+ 
+Belo Horizonte, 14 de agosto de 2012. 
+ 
+ 
+ALEXANDRE BRASIL PEREIRA, TENENTE-CORONEL BM 
+DIRETOR
+
+--- PÁGINA 4 ---
+೦೦೦೦ ೦೦೦೦೦೦೦೦ ೦೦೦ ೦೦೦೦೦೦೦ ೦೦೦೦ ೦೦೦೦೦೦೦ ೦೦೦೦೦೦೦೦೦ ೦೦ ೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦೦ 
+೦೦೦ ೦೦೦೦೦೦೦೦೦೦೦೦ ೦೦೦೦೦೦೦ ೦೦ ೦೦೦೦೦೦೦ ೦೦ ೦೦೦ ೦೦೦೦೦೦೦೦೦೦ ೦೦ ೦೦೦೦೦೦೦೦೦೦೦೦೦೦ ೦೦೦ ೦೦೦೦೦ 
+೦೦೦೦ ೦೦೦೦ ೦೦೦೦ ೦೦೦ ೦೦ ೦೦೦೦೦ ೦೦೦೦೦ ೦೦೦೦೦೦೦೦೦೦ ೦೦೦೦೦೦೦೦

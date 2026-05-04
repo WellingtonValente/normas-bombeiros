@@ -1,0 +1,840 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 07 
+1ª edição 
+COMPARTIMENTAÇÃO HORIZONTAL 
+E COMPARTIMENTAÇÃO VERTICAL 
+ 
+Aprovada pela portaria n. 05, de 25out2005.  
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências normativas e 
+bibliográficas 
+4 – Definições  
+5 – Procedimentos  
+ANEXOS 
+A – Compartimentação horizontal e 
+vertical  
+B – Tabela de área máxima de 
+Compartimentação
+
+--- PÁGINA 2 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+2/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+1 OBJETIVO  
+1.1 Esta Instrução Técnica estabelece os parâmetros da compartimentação horizontal e 
+compartimentação vertical, atendendo ao previsto no Regulamento de Segurança Contra Incêndio 
+e Pânico do Estado de Minas Gerais. 
+1.2 A compartimentação horizontal se destina a impedir a propagação de incêndio no pavimento 
+de origem para outros ambientes no plano horizontal. 
+1.3 A compartimentação vertical se destina a impedir a propagação de incêndio no sentido vertical, 
+ou seja, entre pavimentos elevados consecutivos.  
+2 APLICAÇÃO  
+Esta Instrução Técnica aplica-se a todas as edificações onde são exigidas a compartimentação 
+horizontal e vertical, conforme previsão da legislação de segurança contra incêndio e pânico do 
+Estado de Minas Gerais, estabelecendo detalhamentos técnicos relativos à área de 
+compartimentação. 
+3 REFERÊNCIAS NORMATIVAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las:  
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+NBR 5628 – Componentes construtivos estruturais – Determinação da resistência ao fogo.  
+NBR 6118 – Projetos de estrutura de concreto.  
+NBR 6479 – Portas e vedadores – Determinação da resistência ao fogo.  
+NBR 10636 – Paredes divisórias sem função estrutural – Determinação da resistência ao fogo.  
+NBR 11711 – Portas e vedadores corta-fogo com núcleo de madeira para isolamento de riscos em 
+ambientes comerciais e industriais.  
+NBR 11742 – Porta corta-fogo para saídas de emergência – Especificação.  
+NBR 13768 – Acessórios destinados à porta corta-fogo para saída de emergência – Requisitos.  
+NBR 14323 – Dimensionamento de estrutura de aço de edifício em situação de incêndio – 
+Procedimento.  
+NBR 14432 – Exigências de resistência ao fogo de elementos construtivos de edificações – 
+procedimento. 
+NBR 9441 – Sistema de detecção e alarme de Incêndio.  
+NBR 14925 – Unidades envidraçadas resistentes ao fogo para uso em edificações.
+
+--- PÁGINA 3 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+3/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+ISO 1182 – Building materials – Non – Combustibility test. 
+4 DEFINIÇÕES  
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes na IT 02 
+(Terminologia de Proteção Contra Incêndio e Pânico).  
+5 PROCEDIMENTOS  
+5.1 Compartimentação horizontal  
+5.1.1 A compartimentação horizontal é constituída dos seguintes elementos construtivos:  
+a) paredes de compartimentação;  
+b) portas corta-fogo;  
+c) vedadores corta-fogo;  
+d) registros corta-fogo ("dampers");  
+e) selos corta-fogo;  
+f) afastamento horizontal entre aberturas.  
+5.1.2 Características de construção: Para os ambientes compartimentados horizontalmente entre 
+si, serão exigidos os seguintes requisitos:  
+a) a parede de compartimentação deverá ser construída entre o piso e o teto devidamente 
+vinculada à estrutura do edifício, com reforços estruturais adequados;  
+b) no caso de edificações que possuem elementos estruturais de cobertura combustíveis, a parede 
+de compartimentação deverá estender-se, no mínimo, a 1,0 m acima da linha de cobertura 
+(telhado);  
+c) as paredes mencionadas no item anterior devem ser dimensionadas estruturalmente de forma 
+a não entrarem em colapso caso ocorra à ruína da cobertura do edifício do lado afetado pelo 
+incêndio;  
+d) as aberturas situadas na mesma fachada, em lados opostos da parede de compartimentação, 
+devem ser afastadas horizontalmente entre si por trecho de parede com 2 (dois) metros de 
+extensão devidamente consolidada à parede de compartimentação e apresentando a mesma 
+resistência ao fogo (fig. 1 – Anexo A);  
+e) a distância mencionada no item anterior poderá ser substituída por um prolongamento da 
+parede de compartimentação, externa à edificação, com extensão mínima de 1 (um) metro;  
+f) a resistência ao fogo da parede de compartimentação, no que tange aos panos de alvenaria ou 
+de painéis fechando o espaço entre os elementos estruturais, deve ser determinada por meio da 
+NBR 10636, já a resistência ao fogo dos seus elementos estruturais deve ser dimensionada para 
+situação de incêndio, de acordo com o prescrito na IT 06 (Segurança Estrutural das Edificações);  
+g) as aberturas situadas em fachadas paralelas ou ortogonais, pertencentes a áreas de 
+compartimentação horizontal distintas dos edifícios, devem estar distanciadas de forma a evitar a
+
+--- PÁGINA 4 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+4/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+propagação do incêndio por radiação térmica; para isto devem ser consideradas as condições de 
+dimensionamento estabelecidas na IT 05 (Separações entre Edificações);  
+h) as distâncias requeridas no item anterior podem ser suprimidas caso as aberturas sejam 
+protegidas por portas, vedadores ou vidros corta-fogo, estes atendendo às condições da NBR 
+14925 e apresentando resistência ao fogo conforme as condições do item 5.1.4.2 desta IT. 
+i) cada setor compartimentado deverá possuir facilidade de acesso para alcançar as saídas de 
+emergência, permitindo o abandono rápido das pessoas (fig. 1 – Anexo A).  
+5.1.2.1 A compartimentação horizontal deve ser compatibilizada com atendimento a IT 08 (Saídas 
+de Emergência em Edificações), de forma que cada área compartimentada seja dotada de saídas 
+para o exterior da edificação e áreas adjacentes.  
+5.1.3 Proteção das aberturas nas paredes de compartimentação:  
+As aberturas existentes nas paredes de compartimentação devem ser devidamente protegidas por 
+elementos corta-fogo de forma a não serem comprometidas suas características de resistência ao 
+fogo.  
+5.1.3.1 Portas corta-fogo  
+As portas destinadas à vedação de aberturas em paredes de compartimentação devem ser do tipo 
+corta-fogo, sendo aplicáveis as seguintes condições:  
+a) as portas corta-fogo devem atender ao disposto na NBR 11742 para saída de emergência e 
+NBR 11711 para compartimentação em ambientes comerciais e industriais;  
+b) na situação de compartimentação de áreas de edificações comerciais e industriais são aceitas 
+também portas corta-fogo de acordo com a NBR 11742, desde que as dimensões máximas 
+especificadas nesta norma sejam respeitadas; 
+c) quando houver necessidade de passagem entre ambientes compartimentados providos de 
+portas de acordo com a NBR 11711, devem ser instaladas portas de acordo com a NBR 11742. 
+5.1.3.2 Vedadores Corta-Fogo 
+As aberturas nas paredes de corta-fogo de compartimentação de passagem exclusivas de 
+materiais devem ser protegidas por vedadores corta-fogo atendendo às seguintes condições:  
+a) os vedadores corta-fogo devem atender ao disposto na NBR 11711;  
+b) caso a classe de ocupação não se refira a edifícios industriais ou depósitos, o fechamento 
+automático dos vedadores deve ser comandado por sistema de detecção automática de fumaça 
+que esteja de acordo com a NBR 17240; 
+c) quando o fechamento for comandado por sistema de detecção automática de incêndio, o status 
+dos equipamentos deve ser indicado na central do sistema e deve ser prevista a possibilidade de 
+fechamento dos dispositivos de forma manual na central do sistema;  
+d) na impossibilidade de serem utilizados vedadores corta-fogo, pela existência de obstáculos na 
+abertura, representados, por exemplo, por esteiras transportadoras, pode-se utilizar 
+alternativamente a proteção por cortina d'água, desde que a área da abertura não ultrapasse 1,5 
+m², atendendo aos parâmetros da IT 18 (Sistema de Chuveiros Automáticos) e normas técnicas
+
+--- PÁGINA 5 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+5/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+específicas. A cortina d´água pode ser interligada ao sistema de hidrantes, que deverá possuir 
+acionamento automático.  
+5.1.3.3 Selos corta-fogo  
+Quaisquer aberturas existentes nas paredes corta-fogo de compartimentação destinadas à 
+passagem de instalações elétricas, hidrossanitárias, telefônicas e outros que permitam a 
+comunicação direta entre áreas compartimentadas devem ser seladas de forma a promover a 
+vedação total corta-fogo atendendo às seguintes condições:  
+a) devem ser ensaiadas para caracterização da resistência ao fogo seguindo-se os procedimentos 
+da NBR 6479;  
+b) os tubos plásticos de diâmetro interno superior a 40 (quarenta) mm devem receber proteção 
+especial representada por selagem capaz de fechar o buraco deixado pelo tubo ao ser consumido 
+pelo fogo em um dos lados da parede; 
+c) a destruição da instalação do lado afetado pelo fogo não deve promover a destruição da 
+selagem.  
+5.1.3.4 Registro corta-fogo (dampers) 
+Quando os dutos de ventilação, ar condicionado ou exaustão atravessarem paredes corta-fogo de 
+compartimentação, além da adequada selagem corta-fogo da abertura em torno dos dutos, devem 
+existir registros corta-fogo devidamente ancorados à parede corta-fogo de compartimentação. As 
+seguintes condições devem ser atendidas: 
+a) os registros corta-fogo devem ser ensaiados para caracterização da resistência ao fogo 
+seguindo-se os procedimentos da NBR 6479;  
+b) os registros corta-fogo devem ser dotados de acionamentos automáticos comandados por meio 
+de fusíveis bimetálicos ou por sistema de detecção automática de fumaça que esteja de acordo 
+com a NBR 17240; 
+c) no caso da classe de ocupação não se referir aos edifícios industriais ou depósitos, o 
+fechamento automático dos registros devem ser comandados por sistema de detecção automática 
+de fumaça que esteja de acordo com a NBR 17240; 
+d) quando o fechamento for comandado por sistema de detecção automática de fumaça, o status 
+dos equipamentos deve ser indicado na central do sistema e permitir o fechamento por decisão 
+humana na central do sistema;  
+e) a falha do dispositivo de acionamento do registro corta-fogo deve dar-se na posição de 
+segurança, ou seja, qualquer falha que possa ocorrer deve determinar automaticamente o 
+fechamento do registro;  
+f) os dutos de ventilação, ar condicionado e/ou exaustão, que não possam ser dotados de registros 
+corta-fogo, devem ser dotados de proteção em toda a extensão (de ambos os lados das paredes) 
+garantindo resistência ao fogo igual à das paredes.  
+5.1.4 Características de resistência ao fogo:  
+5.1.4.1 No interior da edificação, as áreas de compartimentação horizontal devem ser separadas 
+por paredes corta-fogo devendo atender aos tempos requeridos de resistência ao fogo (TRRF), 
+conforme IT 06 (Segurança Estrutural das Edificações).
+
+--- PÁGINA 6 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+6/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.1.4.2 Os elementos de proteção de aberturas existentes nas paredes corta-fogo de 
+compartimentação podem apresentar valor de TRRF de 30 (trinta) minutos menor que a resistência 
+das paredes corta-fogo de compartimentação, porém nunca inferior a 60 (sessenta) minutos.  
+5.1.5 Condições especiais da compartimentação horizontal  
+5.1.5.1 A compartimentação horizontal está dispensada nas áreas destinadas exclusivamente a 
+estacionamento de veículos.  
+5.1.5.2 Em subsolos não destinados exclusivamente ao estacionamento de veículos, a área de 
+compartimentação será de 930 m². Áreas superiores a 930 m² deverão possuir medidas de 
+proteção analisadas por Corpo Técnico.  
+5.1.5.3 As paredes divisórias entre unidades autônomas e entre unidades e as áreas comuns para 
+as ocupações dos grupos A (A-2 e A-3), B, E e H (H-2, H-3, H-5 e H-6) devem possuir requisitos 
+mínimos de resistência ao fogo de acordo com o prescrito na IT 06 (Segurança Estrutural das 
+Edificações). O mesmo se aplica às portas de unidades autônomas que dão acesso aos 
+corredores e/ou hall de entrada, que devem também ter os requisitos de resistência ao fogo, 
+conforme prescrito na IT 06.  
+5.1.5.3.1 São consideradas unidades autônomas, para efeito desta IT, os apartamentos 
+residenciais, os quartos de hotéis, motéis e flats, as salas de aula, as enfermarias e quartos de 
+hospital, as celas de presídios e assemelhados.  
+5.1.5.4 Em complementação aos sistemas de proteção, os subsolos deverão possuir aberturas de 
+ventilação adequadas ao exterior, que permitam realizar a exaustão de gases e fumaça do 
+ambiente.  
+5.2 Compartimentação vertical  
+5.2.1 A compartimentação vertical é constituída dos seguintes elementos construtivos:  
+a) entrepisos corta-fogo;  
+b) enclausuramento de escadas por meio de parede corta-fogo de compartimentação;  
+c) enclausuramento de elevadores e monta-carga, poços para outras finalidades por meio de porta 
+para-chama (observar IT 06);  
+d) selos corta-fogo; 
+e) registros corta-fogo ("dampers");  
+f) vedadores corta-fogo;  
+g) os elementos construtivos corta-fogo / para-chama de separação vertical entre pavimentos 
+consecutivos; 
+h) selagem perimetral corta-fogo.
+
+--- PÁGINA 7 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+7/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.2.2 Características de construção:  
+5.2.2.1 Compartimentação vertical na envoltória do edifício  
+As seguintes condições devem ser atendidas pelas fachadas com intuito de dificultar a propagação 
+vertical do incêndio pelo exterior dos edifícios:  
+a) deve existir separação na fachada entre aberturas de pavimentos consecutivos, que podem ser 
+constituir de vigas e/ou parapeito ou prolongamento dos entrepisos além do alinhamento da 
+fachada;  
+b) quando a separação for provida por meio de vigas e/ou parapeitos, estes devem apresentar 
+altura mínima de 1,20 m separando aberturas de pavimentos consecutivos (fig. 2 – anexo A);  
+c) quando a separação for provida por meio dos prolongamentos dos entrepisos, as abas devem 
+projetar-se, no mínimo, 0,90 m além do plano externo da fachada (fig.3 – anexo A);  
+d) os elementos de separação entre aberturas de pavimentos consecutivos e as fachadas cegas 
+devem ser consolidadas adequadamente aos entrepisos, de forma a não comprometer a 
+resistência ao fogo destes elementos;  
+e) as fachadas pré-moldadas devem ter seus elementos de fixação devidamente protegidas contra 
+a ação do incêndio e as frestas com as vigas e/ou lajes devidamente seladas, de forma a garantir 
+a resistência ao fogo do conjunto;  
+f) os materiais transparentes ou translúcidos das janelas devem ser incombustíveis, exceção feita 
+aos vidros laminados. A incombustibilidade destes materiais deve ser determinada em ensaio 
+utilizando-se o método ISO 1182.  
+5.2.2.1.1 Nas edificações com fachadas totalmente envidraçadas ou “fachadas-cortina” serão 
+exigidas as seguintes condições:  
+a) os caixilhos e os componentes transparentes ou translúcidos devem ser compostos por 
+materiais incombustíveis, exceção feita aos vidros laminados; a incombustibilidade destes 
+materiais devem ser determinadas em ensaios utilizando-se o método ISO 1182;  
+b) devem ser previstos atrás destas fachadas, elementos de separação, ou seja, instalados 
+parapeitos, vigas ou prolongamentos dos entrepisos, de acordo com o inciso 5.2.2.1;  
+c) as frestas ou as aberturas entre a “fachada-cortina” e os elementos de separação devem ser 
+vedados com selos corta-fogo em todo perímetro; tais selos devem ser fixados aos elementos de 
+separação de modo que sejam estruturalmente independentes dos caixilhos da fachada;  
+d) os selos corta-fogo perimetrais indicados no item anterior deverão ser detalhados, atendendo 
+os requisitos da IT 03 (Composição do Processo de Segurança Contra Incêndio e Pânico). 
+5.2.2.2 Compartimentação vertical no interior dos edifícios  
+A compartimentação vertical no interior dos edifícios é provida por meio de entrepisos, cuja 
+resistência ao fogo não deve ser comprometida pelas transposições que intercomunicam 
+pavimentos. Os entrepisos podem ser compostos por lajes de concreto armado ou protendido ou 
+por composição de outros materiais que garantam a separação física dos pavimentos.
+
+--- PÁGINA 8 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+8/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+A resistência ao fogo dos entrepisos deve ser determinada por meio de ensaio segundo a NBR 
+5628 ou dimensionada de acordo com norma brasileira pertinente. Deve atender às seguintes 
+condições:  
+a) no interior da edificação, todas as aberturas no entrepiso destinadas às passagens das 
+instalações de serviços devem ser vedadas por selos corta-fogo; tais selos podem ser substituídos 
+por paredes corta-fogo de compartimentação cegas posicionadas entre piso e teto;  
+b) as aberturas existentes nos entrepisos, deverão ser protegidas por vedadores corta-fogo, 
+construídas e instalados de acordo com NBR 11711/1992;  
+c) os poços destinados a elevadores, monta-carga e outras finalidades deverão ser constituídos 
+por paredes corta-fogo de compartimentação, devidamente consolidadas de forma adequada às 
+lajes dos pavimentos, com resistência ao fogo. Suas aberturas devem ser protegidas por 
+vedadores para-chamas as quais deverão apresentar resistência ao fogo igual às das paredes;  
+d) as escadas devem ser enclausuradas por meio de paredes de compartimentação e portas corta-
+fogo, as quais devem atender aos requisitos da IT 08 (Saídas de Emergência em Edificações);  
+e) no caso de dutos de ventilação, ar-condicionado e exaustão que atravessarem as lajes, além 
+da selagem da passagem destes equipamentos, devem existir registros corta-fogo, devidamente 
+ancorados à laje. Caso estes registros não possam ser instalados, toda tubulação deve estar 
+protegida de forma a apresentar resistência ao fogo conforme requisitos da IT 06.  
+5.2.2.3 Entrepisos 
+Os entrepisos devem enquadrar-se na categoria compartimentação e podem ser compostos por 
+lajes de concreto armado ou protendido ou por composição de materiais que garantam a 
+separação física de pavimentos no interior dos edifícios. 
+As aberturas existentes nos entrepisos devem ser devidamente protegidas por elementos corta-
+fogo de forma a não serem comprometidas suas características de resistência ao fogo, como 
+apresentado a seguir:  
+5.2.2.3.1 Escadas  
+As escadas devem ser enclausuradas por meio de paredes corta-fogo de compartimentação e 
+portas corta-fogo, atendendo as seguintes condições:  
+a) a resistência ao fogo da parede de compartimentação, no que se refere aos panos de alvenaria 
+ou de painéis pré-moldados, fechando o espaço entre elementos estruturais, deve ser determinada 
+pela NBR 10636, já a resistência ao fogo dos seus elementos estruturais deve ser dimensionada 
+para a situação do incêndio, seguindo-se as orientações contidas na IT 06; 
+b) as portas corta-fogo de ingresso nas escadas e entre as antecâmaras e a escada devem 
+atender ao disposto na NBR 11742;  
+c) as portas corta-fogo utilizadas para enclausuramento das escadas devem ser construídas 
+integralmente com materiais incombustíveis, caracterizados de acordo com o método ISO 1182, 
+exceção feita à pintura de acabamento;  
+d) quando a escada de segurança for utilizada como via de circulação vertical em situação de uso 
+normal dos edifícios suas portas corta-fogo podem permanecer abertas, desde que sejam 
+utilizados dispositivos elétricos que permitirão seu fechamento em caso de incêndio, comandados
+
+--- PÁGINA 9 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+9/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+por sistema de detecção automática de fumaça instalados no (s) hall (s) de acesso às escadas, 
+de acordo com a NBR 17240; 
+e) a falha dos dispositivos de acionamento das portas corta-fogo deve dar-se na posição de 
+segurança, ou seja, qualquer falha que possa ocorrer deve determinar automaticamente o 
+fechamento da porta;  
+f) a situação ("status") das portas corta-fogo (aberto ou fechado) deve ser indicada na central do 
+sistema de detecção e permitir o fechamento por decisão humana na central do sistema;  
+g) nos pavimentos de descarga, os trechos das escadas que provém do subsolo ou dos 
+pavimentos elevados devem ser enclausurados de maneira equivalente a todos os outros 
+pavimentos;  
+h) a exigência de resistência ao fogo das paredes de enclausuramento da escada também se 
+aplica as antecâmaras quando estas existirem.  
+5.2.2.3.2 Elevadores  
+Os poços destinados a elevadores devem ser constituídos por paredes corta-fogo de 
+compartimentação devidamente consolidadas aos entrepisos. As portas dos andares de 
+elevadores devem ser classificadas como para-chamas. As seguintes condições devem ser 
+adicionalmente consideradas: 
+a) devem ser atendidas as condições estabelecidas nas alíneas a e b constantes do item 5.2.2.3.1;  
+b) as portas de andares de elevadores não devem permanecer abertas em razão da presença da 
+cabine, nem abrir em razão do dano provocado pelo calor aos contatos elétricos que comandam 
+sua abertura;  
+c) as portas para-chamas conforme item anterior, podem ser substituídas pelo enclausuramento 
+dos halls do acesso aos elevadores, por meio de parede e porta corta-fogo;  
+d) as portas corta-fogo mencionadas no item anterior devem fechar automaticamente em caso de 
+incêndio, comandadas por sistema de detecção automática de fumaça devendo atender ao 
+disposto na NBR 11742 e as disposições das alíneas d, e, f e g constantes do item 5.2.2.3.1;  
+e) uma outra alternativa às portas para-chamas de andar constitui-se de enclausuramento dos 
+halls dos elevadores, por meio de portas retráteis corta-fogo, mantidas permanentemente abertas 
+e comandadas por sistema de detecção automática de fumaça, de acordo com a NBR 17240, 
+fechando automaticamente em caso de incêndio e atendendo ainda ao disposto das letras "f" e "g" 
+constantes do item 5.2.2.3.1; 
+f) as portas mencionadas no item anterior não devem estar incluídas nas rotas de fuga;  
+g) as portas retráteis corta-fogo também devem ser abertas ou fechadas no local de sua 
+instalação, manual ou mecanicamente, requerendo na primeira situação um esforço máximo de 
+130 N;  
+h) o enclausuramento dos halls dos elevadores permitirá a disposição do elevador de emergência 
+em seu interior;  
+i) as portas de andar de elevadores e as portas de enclausuramento dos halls devem ser 
+ensaiadas para a caracterização da resistência ao fogo seguindo-se os procedimentos da NBR 
+6479.
+
+--- PÁGINA 10 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+10/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.2.2.3.3 Monta-cargas  
+Os poços destinados à monta-carga devem ser constituídos por paredes de compartimentação 
+devidamente consolidadas aos entrepisos. As portas de andar devem ser classificadas como para-
+chamas. As seguintes condições devem ainda ser consideradas:  
+a) devem ser atendidas as condições estabelecidas nas letras "a" e "b" constantes do item 
+5.2.2.3.1;  
+b) as portas de andar do monta-carga não devem permanecer abertas em razão de presença da 
+cabine, nem abrir em razão do dano provocado pelo calor aos contatos elétricos que comandam 
+sua abertura;  
+c) as portas mencionadas devem ser ensaiadas seguindo-se os procedimentos da NBR 6479.  
+d) alternativamente às portas para-chamas do monta-carga, os “halls” de acesso aos elevadores 
+devem ser enclausurados conforme as condições estabelecidas das alíneas c, d, e, f e g do item 
+5.2.2.3.2.  
+5.2.2.3.4 Prumadas das instalações de serviço  
+Quaisquer aberturas existentes nos entrepisos destinadas à passagem de instalação elétrica, 
+hidrossanitárias, telefônicas e outras, que permitam a comunicação direta entre os pavimentos de 
+um edifício devem ser seladas de forma a promover a vedação total corta-fogo atendendo às 
+seguintes condições:  
+a) devem ser ensaiadas para a caracterização da resistência ao fogo seguindo-se os 
+procedimentos da NBR 6479;  
+b) os tubos plásticos com diâmetro interno superior a 40 mm devem receber proteção especial 
+representada por selagem capaz de fechar o buraco deixado pelo tubo ao ser consumido pelo 
+fogo abaixo do entrepisos;  
+c) a destruição da instalação do lado afetado pelo fogo não deve promover a destruição da 
+selagem.  
+5.2.2.3.5 Aberturas de passagem de dutos de ventilação, ar condicionado e exaustão.  
+Quando dutos de ventilação, ar condicionado ou exaustão atravessarem os entrepisos, além da 
+adequada selagem corta-fogo da abertura em torno do duto, deverá existir registros corta-fogo 
+devidamente ancorados aos entrepisos e serem atendidas as condições estabelecidas nas alíneas 
+a, b, c, d e e, constantes do item 5.1.3.4.  
+5.2.2.3.5.1 Caso os dutos de ventilação, ar condicionado e exaustão, não possam ser dotados de 
+registros corta-fogo na transposição dos entrepisos, devem ser dotados de proteção em toda a 
+extensão garantindo a adequada resistência ao fogo.  Neste caso, as derivações existentes nos 
+pavimentos devem ser protegidas por registros corta-fogo, em caso de acionamento, deverá 
+atender ás condições estabelecidas nas alíneas ‘a’, ‘b’, ‘c’, ‘d’ e ‘e’ constantes no item 5.1.3.4.  
+5.2.2.3.6 Aberturas de passagem de materiais  
+As aberturas nos entrepisos de passagem exclusiva de materiais devem ser protegidas por 
+vedadores corta-fogo atendendo às seguintes condições estabelecidas nas alíneas a, b, c e d 
+constantes do item 5.1.3.2.
+
+--- PÁGINA 11 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+11/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.2.2.3.7 Átrios  
+Os átrios devem ser entendidos como espaços no interior de edifícios que interferem na 
+compartimentação horizontal ou vertical, devendo atender a uma série de condições para não 
+facilitarem a propagação do incêndio. A condição básica a ser atendida por qualquer átrio é a 
+seguinte:  
+a) cada átrio deve fazer parte exclusivamente de uma única prumada de áreas de 
+compartimentação horizontal, ou seja, as áreas distintas de compartimentação horizontal não 
+devem intercomunicar-se através do átrio nos pavimentos.  
+5.2.2.3.7.1 Para que a existência do átrio não afete a compartimentação vertical, é necessário que 
+as seguintes condições adicionais sejam atendidas: 
+a) compartimentação do átrio deve ser feita em todos os pavimentos servidos, em seu perímetro 
+interno ou no perímetro da área de circulação que o rodeia em cada pavimento;  
+b) os elementos de compartimentação do átrio devem apresentar resistência ao fogo, podendo, 
+inclusive, constituírem-se por paredes corta-fogo de compartimentação, vidros corta-fogo e 
+vedadores corta-fogo;  
+c) as paredes de compartimentação devem atender às condições estabelecidas nas alíneas a e b 
+constantes do item 5.2.2.3.1;  
+d) os vedadores corta-fogo podem ser retráteis, de correr ou de deslocamento horizontal, devendo 
+ser compostos integralmente por materiais incombustíveis. Se os vedadores apresentarem 
+fechamento automático, comandado por sistema de detecção automática de fumaça, devem estar 
+de acordo com a NBR 17240; quanto às resistências ao fogo devem estar caracterizadas através 
+dos procedimentos de ensaio da NBR 6479; 
+e) as condições de fechamento das portas mencionadas no item anterior devem ser tais que não 
+ofereçam risco de provocar acidentes e ferimentos nas pessoas.  
+5.2.2.3.8 Prumadas enclausuradas  
+As prumadas totalmente enclausuradas por onde passam as instalações de serviço, como esgoto 
+e águas pluviais, não necessitam ser seladas desde que as paredes sejam corta-fogo e as 
+derivações das instalações que as transpassam sejam devidamente seladas (conforme condições 
+definidas em outros tópicos desta IT). As paredes de enclausuramento devem atender ao disposto 
+nas alíneas a e b constantes do item 5.2.2.3.1.  
+5.2.2.3.9 Prumadas de ventilação permanente  
+Os dutos de ventilação permanentes de banheiro e similares devem atender às seguintes 
+condições para que não comprometam a compartimentação vertical dos edifícios:  
+a) devem ser integralmente compostos por materiais incombustíveis;  
+b) cada prumada de ventilação deve fazer parte, exclusivamente, de uma única prumada de áreas 
+de compartimentação horizontal, ou seja, as áreas distintas de compartimentação horizontal não 
+devem intercomunicar-se através dos dutos de ventilação permanente;  
+c) a prumada de ventilação permanente deve ser compartimentada em relação às demais áreas 
+da edificação não destinadas a banheiros ou similares por meio de paredes e portas corta-fogo;
+
+--- PÁGINA 12 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+12/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+d) alternativamente disposto na alínea c, cada derivação das prumadas devem ser protegidas por 
+registro corta-fogo, cujo o acionamento deve atender as condições estabelecidas nas alíneas a, b, 
+c, d e e constantes no item 5.1.3.4;  
+e) as paredes que compõem estas prumadas devem atender o disposto nas alíneas a e b 
+constantes no item 5.2.3.1.  
+5.2.3 Características de resistência ao fogo  
+5.2.3.1 Os entrepisos devem atender aos tempos requeridos de resistência ao fogo (TRRF), 
+conforme IT 06 (Segurança Estrutural das Edificações).  
+5.2.3.2 Os elementos de proteção das transposições nos entrepisos (selagens corta-fogo) e os 
+elementos de compartimentação vertical na envoltória do edifício, incluindo as fachadas sem 
+aberturas (cegas) devem atender aos tempos requeridos de resistência ao fogo (TRRF) conforme 
+IT 06. Portas e vedadores corta-fogo podem apresentar TRRF de 30 (trinta) minutos menor que 
+as paredes, porém nunca inferior a 60 (sessenta) minutos.  
+5.2.3.3 Como exceção às regras estabelecidas em 5.2.3.1 e 5.2.3.2 tem-se o seguinte:  
+a) as paredes de enclausuramento das escadas e elevadores de segurança, constituídas pelo 
+sistema estrutural das compartimentações e vedações das caixas, dutos e antecâmaras, devem 
+atender, no mínimo, ao TRRF igual ao estabelecido na IT 06, porém não podendo ser inferior a 
+120 (cento e vinte) minutos;  
+b) as selagens das prumadas das instalações de serviço e os registros protegendo aberturas de 
+passagem de dutos de ventilação, ar condicionado e exaustão devem apresentar, no mínimo, os 
+tempos requeridos de resistência ao fogo, conforme IT 06, porém nunca inferior a 60 (sessenta) 
+minutos;  
+c) as portas corta-fogo de ingresso nas escadas e antecâmaras em cada pavimento devem 
+apresentar resistência mínima ao fogo de 60 (sessenta) minutos; 
+d) os dutos de ventilação, ar condicionado ou exaustão, quando não podem ser dotados de 
+registros corta-fogo na transposição dos entrepisos devem ser protegidos em toda a extensão de 
+forma a garantir a resistência mínima ao fogo de 120 (cento e vinte) minutos, porém nunca inferior 
+ao TRRF estabelecido na IT 06; e 
+e) as paredes e portas corta-fogo tratadas em 5.2.2.3.9 (prumadas de ventilação permanente) 
+devem apresentar resistência mínima ao fogo de respectivamente, 60 (sessenta) minutos e 30 
+(trinta) minutos. 
+5.3 Áreas máximas de compartimentação  
+Para o estabelecimento das áreas máximas de compartimentação horizontal deve-se atender aos 
+valores estabelecidos no Anexo B. 
+5.4 Não será considerada compartimentação vertical nos casos de interligação de pavimentos 
+consecutivos (nos pisos acima do térreo), por intermédio de átrios, escadas, rampa de circulação 
+ou escadas rolantes, desde que o somatório de área desses pavimentos não ultrapasse os valores 
+estabelecidos para compartimentação horizontal, conforme Anexo B, limitando-se no máximo a 3 
+(três) pavimentos consecutivos.
+
+--- PÁGINA 13 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+13/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+5.5 As escadas, rampas, destinadas à circulação de pessoas, dutos e shafts de instalação de 
+subsolos devem ser compartimentados integralmente em relação ao piso térreo, piso de descarga 
+e demais pisos elevados.  
+5.6 Recomenda-se que as áreas descobertas destinadas ao armazenamento de produtos 
+combustíveis possuam afastamento dos limites da propriedade bem como corredores internos que 
+proporcionem o fracionamento do risco, de forma a dificultar a propagação do fogo e facilitar as 
+operações de combate a incêndio.
+
+--- PÁGINA 14 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+14/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO – A 
+COMPARTIMENTAÇÃO HORIZONTAL E VERTICAL 
+ 
+Figura 1 – Compartimentação Horizontal (Afastamento Horizontal entre Aberturas) 
+ 
+ 
+Figura 2 – Compartimentação Vertical (Verga e Peitoril)
+
+--- PÁGINA 15 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+15/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO – A: 
+(Continuação) 
+ 
+Figura 3 – Compartimentação Vertical (Prolongamento dos Entrepisos)  
+ 
+ 
+Figura 4 – Compartimentação Vertical (Fachadas Envidraçadas)
+
+--- PÁGINA 16 ---
+CBMMG IT 07 – Compartimentação Horizontal e Compartimentação Vertical 
+1ª edição 
+ 
+16/16 
+Alterada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO – B:  
+Tabela de Área Máxima de Compartimentação (m²) 
+GRUPO 
+TIPOS DE EDIFICAÇÕES 
+TIPO 
+I 
+II 
+III 
+IV 
+DENOMINAÇÃO 
+Edificação Baixa 
+Edificação de Média Altura 
+Edificação 
+Mediamente 
+Alta 
+Edificação 
+Alta 
+ALTURA 
+Um pavimento H ≤ 6m 
+6m < H ≤ 12m 12m <H ≤ 23m 
+23m < H ≤ 30m 30m <H ≤ 54m Acima de 54m 
+A-1, A-2 e A-3 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+B-1 e B-2 
+– 
+5.000 
+4.000 
+3.000 
+2.000 
+1.500 
+1.500 
+C-1 e C-2 
+5.000(1) 
+3.000(1) 
+2.000 
+2.000 
+1.500 
+1.500 
+1.500 
+C-3 
+5.000(1) 
+2.500(1) 
+1.500 
+1.000 
+1.000 
+2.000 
+2.000 
+D-1, D-2, D-3 e D-4 
+5.000 
+2.500(1) 
+1.500 
+1.000 
+800 
+1.500 
+1.500 
+E-1,E-2, E-3, E-4, 
+E-5 e E-6 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+F-1, F-2, F-3, 
+F- 4, F-9 e F-11 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+F-5, F-6 e F-8 
+– 
+– 
+– 
+2.000 
+1.000 
+800 
+800 
+F-7 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+F-10 
+5.000(1) 
+2.500(1) 
+1.500 
+1.000 
+1.000 
+800 
+800 
+G-1, G-2 e G-3 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+G-4 
+10.000 
+5.000 
+3.000 
+2.000 
+1.000 
+1.000 
+1.000 
+G-5 
+Ver IT específica ou Corpo Técnico 
+H-1, H-2, H-4,H-5 e 
+H-6  
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+H-3 
+– 
+– 
+– 
+2.000 
+1.500 
+1.000 
+1.000 
+I-1 e I-2 
+– 
+10.000 
+5.000 
+3.000 
+1.500 
+2.000 
+2.000 
+I-3 
+7.500(1) 
+5.000 
+3.000 
+1.500 
+1.000 
+1.500 
+1.500 
+J-1 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+J-2 
+10.000(1) 
+5.000 
+3.000 
+1.500(1) 
+1.500 
+1.500 
+1.500 
+J-3 
+7.500(1) 
+3.000 
+2.000 
+1.500 
+1.500 
+1.000 
+1.000 
+J-4 
+4.000
+(1)
+ 
+2.500 
+1.500 
+1.500 
+1.500 
+1.000 
+1.000 
+L-1 
+500 
+CT 
+CT 
+CT 
+CT 
+CT 
+CT 
+L-2 e L-3 
+CT 
+CT 
+CT 
+CT 
+CT 
+CT 
+CT 
+M-1 
+CT 
+CT 
+CT 
+CT 
+CT 
+CT 
+CT 
+M-2 
+1.000 
+500 
+CT 
+CT 
+CT 
+CT 
+CT 
+M-3 
+5.000 
+3.000 
+2.000 
+1.000 
+CT 
+CT 
+CT 
+M-4, M-6 e M-7 
+930 
+CT 
+CT 
+CT 
+CT 
+CT 
+CT 
+M-5 e M-8 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+NOTAS ESPECÍFICAS:  
+(1) A área de compartimentação pode ser aumentada em 100%, caso haja sistema de detecção de fumaça (IT 14).  
+NOTAS GENÉRICAS:  
+a) observar os casos permitidos de substituição da compartimentação de áreas, por sistema de chuveiros 
+automáticos, acrescidos, em alguns casos, dos sistemas de detecção automática, conforme tabelas de 
+exigências da IT 01 (Procedimentos Administrativos); 
+b) os locais assinalados com traço (–) estão dispensados da compartimentação horizontal, mantendo-se a 
+compartimentação vertical, de acordo com as tabelas de exigências da IT 01 (Procedimentos Administrativos); 
+c) não será considerada a compartimentação vertical nos casos de interligação de pisos ou pavimentos 
+consecutivos, por intermédio de atrium, escadas, rampas de circulação ou escadas rolantes, desde que a 
+somatória de área dos pavimentos não ultrapasse os valores estabelecidos para cada grupo e tipo de edificação, 
+limitando-se no máximo a três pisos. Esta exceção não se aplica para as compartimentações das fachadas e 
+selagens dos “shafts” e dutos de instalações; 
+d) no caso desta IT, as edificações térreas dotadas de subsolo para cálculo de área máxima de compartimentação 
+deverão ser enquadradas na classe II desta tabela, caso esse subsolo não seja compartimentado em relação ao 
+térreo. 
+e) CT - Consultar Corpo Técnico.

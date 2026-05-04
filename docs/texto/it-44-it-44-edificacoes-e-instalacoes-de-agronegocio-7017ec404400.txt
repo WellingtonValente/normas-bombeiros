@@ -1,0 +1,249 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA Nº 44 
+1ª edição 
+EDIFICAÇÕES E INSTALAÇÕES DE 
+AGRONEGÓCIO  
+  
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+SUMÁRIO 
+1 – Objetivo  
+ 
+2 – Aplicação  
+3 – Referências 
+4 – Definições 
+5 – Recomendações de segurança para 
+instalações e edificações que abrigam 
+atividades de agronegócio 
+6 – Prescrições diversas
+
+--- PÁGINA 2 ---
+IT44 – Atividades de Agronegócio  
+1ª Edição 
+ 
+ 
+2/6 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+1 OBJETIVO  
+1.1 Estabelecer recomendações de aplicação de medidas de segurança contra incêndio e pânico 
+para edificações e/ou instalações enquadradas na divisão M-8 (Agronegócios), atendendo ao 
+previsto na Legislação de Segurança contra Incêndio e Pânico do Estado de Minas Gerais. 
+2 APLICAÇÃO  
+2.1 A presente Instrução Técnica (IT) aplica-se às instalações e edificações que abrigam 
+atividades de agronegócio de caráter permanente e/ou provisório, abrangendo: 
+a) edificações e instalações de caráter rudimentar destinadas a secagem de folhas ou 
+armazenagem temporária de produtos agrícolas como vegetais, flores, forrageiras, fardos e 
+assemelhados;  
+b) edificações e instalações de zootecnia que abrigam aviários, chiqueiros, pocilgas, estrebarias, 
+estábulos, bretes, canis, gatis, haras, criadouros diversos e assemelhados; 
+c) estufas destinadas à produção de mudas ou hortifrutigranjeiros; e 
+d) edificações e instalações de aquicultura enquadradas como áreas aquícolas, parques 
+aquícolas, tanques rede, viveiros e estufas de aquaponia. 
+2.2 Esta IT não se aplica a: 
+a) silos; 
+b) galpões de armazenagem pertencentes à ocupação J. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las:  
+3.1 Legislação 
+Lei Estadual nº 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Lei Federal nº 11.959, de 29 de junho de 2009. Dispõe sobre a política nacional de 
+desenvolvimento sustentável da Aquicultura e da Pesca, regula as atividades pesqueiras, e dá 
+outras providências. 
+Lei Federal nº 13.425, de 30 de março de 2017. Estabelece diretrizes gerais sobre medidas de 
+prevenção e combate a incêndio e a desastres em estabelecimentos, edificações e áreas de 
+reunião de público; altera as Leis nº s 8.078, de 11 de setembro de 1990, e 10.406, de 10 de 
+janeiro de 2002 – Código Civil; e dá outras providências. 
+Decreto Estadual nº 47.998/2020 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+Instrução Técnica nº 08 – Saídas de Emergência em Edificações, CBMMG. 
+Instrução Técnica nº 15 – Sinalização de Emergência, CBMMG.  
+Instrução Técnica nº 16 – Sistema de Proteção por Extintores de Incêndio, CBMMG.
+
+--- PÁGINA 3 ---
+IT44 – Atividades de Agronegócio  
+1ª Edição 
+ 
+ 
+3/6 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Instrução Técnica nº 17 – Sistema de hidrantes e mangotinhos para combate a incêndios, 
+CBMMG. 
+Instrução Técnica nº 23 – Manipulação, Armazenamento, Comercialização e Utilização de Gás 
+Liquefeito de Petróleo (GLP), CBMMG. 
+Instrução Normativa nº 34 – Atividades Agropastoris e Silos, CBMSC. 
+NBR 5410 – Instalações elétricas de baixa tensão.  
+NFPA nº 150 – Fire and Life Safety in Animal Housing Facilities Code. 
+Instrução normativa nº 9, de 12 de dezembro de 2016. Instituto Brasileiro do Meio Ambiente e dos 
+Recursos Naturais Renováveis – IBAMA. 
+Instrução normativa interministerial nº 06, de 31 de maio de 2004. Ministério de Pesca e 
+Aquicultura. 
+Instrução normativa nº 06, de 19 de maio de 2011. Ministério de Pesca e Aquicultura. 
+Portaria nº 145, de 29 de outubro de 1998. Instituto Brasileiro do Meio Ambiente e dos Recursos 
+Naturais Renováveis – IBAMA 
+Resolução CONAMA nº 459, de 16 de outubro de 2013. Instituto Brasileiro do Meio Ambiente e 
+dos Recursos Naturais Renováveis – IBAMA. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção contra Incêndio e Pânico), além das seguintes: 
+4.1 Aquoponia: sistema de cultivo de plantas que permite, de forma integrada e colaborativa, a 
+aquicultura associada a hidroponia. 
+4.2 Área aquícola: espaço físico contínuo em meio aquático, delimitado, destinado a projetos de 
+aquicultura, individuais ou coletivos. 
+4.3 Áreas de apoio: guaritas, escritórios, plataformas de pesagem, almoxarifados, refeitórios, 
+alojamentos, casa de ferramentas, oficinas, garagens, moradias, tendas, depósitos de agrotóxicos, 
+depósitos de lenha ou outras edificações que não estejam envolvidas diretamente no manejo dos 
+produtos agrícolas.  
+4.4 Brete: instalação ou construção que serve para contenção de animais para facilitar o manejo 
+(corredor estreito, em um curral, que liga o mangueiro à balança, onde se segura à rês para 
+curativo, vacina, manutenção). 
+4.5 Canis: local de criação, hospedagem ou recolhimento de cães. 
+4.6 Chiqueiro: denominação dada ao local onde são criados suínos de forma rudimentar, sem 
+tecnologia.  
+4.7 Criadouros: locais somente para nascimento e criação temporária de animais de qualquer 
+espécie e finalidade. 
+4.8 Edificação de caráter rudimentar e/ou provisório: edificação, sem tecnologia, que tenha no 
+mínimo uma face completamente aberta, destinada a abrigar diversos tipos de atividades, com
+
+--- PÁGINA 4 ---
+IT44 – Atividades de Agronegócio  
+1ª Edição 
+ 
+ 
+4/6 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+paredes construídas em madeira bruta, barro, metal ou alvenaria e cobertura cujos elementos 
+construtivos tenham características básicas, grosseiras e sem acabamento. 
+4.9 Edificações e ou instalações para atividade de zootecnia: são edificações e/ou instalações 
+destinadas à atividade agropecuária e ao confinamento de animais.  
+4.10 Edificações e ou instalações para atividade de aquicultura: são edificações e/ou 
+instalações destinadas à atividade de produção de organismos aquáticos, como peixes, moluscos, 
+crustáceos, anfíbios, répteis e plantas aquáticas para uso do homem. 
+4.11 Estufas: edificação, estrutura ou espaço fechado com material sólido e transparente (vidro 
+ou plástico), que permita a passagem da luz do sol através das paredes e cobertura para 
+aquecimento, que favoreça o cultivo de plantas e flores que necessitam de calor ou umidade 
+especial.  
+4.12 Estrebaria/Estábulo: instalações onde ficam os animais, normalmente bovinos e equinos, 
+que servem tanto para alojamentos como para alimentação. 
+4.13 Gatis: local de criação, hospedagem ou recolhimento de gatos. 
+4.14 Haras: local de criação de cavalos, equinos, de raça. 
+4.15 Maravalhas: aparas de madeiras, lascas, cavacos (resíduos do manuseio da madeira); 
+4.16 Parque aquícola: espaço físico contínuo em meio aquático que compreende um conjunto de 
+áreas aquícolas afins, em cujos espaços físicos intermediários podem ser desenvolvidas outras 
+atividades compatíveis com a prática da aquicultura. 
+4.17 Pocilga: instalação para abrigo e criação de suínos, com tecnologia. 
+4.18 Posto de trabalho: qualquer local de edificações, instalações, máquinas e equipamentos em 
+que seja requerida a intervenção contínua do trabalhador.  
+4.19 Silo: estrutura destinada ao armazenamento de cereais e seus derivados, sementes 
+oleaginosas, sementes agrícolas, legumes, açúcar, farinhas, entre outros produtos que gerem 
+ambiente explosivo, sem estarem ensacados. Em silos, não há presença humana no seu interior 
+para manuseio direto e constante com os produtos. Os silos podem ser horizontais, semiesféricos 
+ou verticais. 
+4.20 Tanque rede: estruturas flutuantes para criação de peixes, constituídas por redes ou telas, 
+em diversas formas e tamanhos, com função de reter determinado número de indivíduos, 
+permitindo livre fluxo de água. 
+4.21 Vegetais desidratados: aqueles vegetais submetidos a processo de desidratação ou 
+secagem, reduzindo o seu conteúdo de água e de humidade para níveis muito baixos. 
+4.22 Viveiro: espaço físico construído para criação de peixes, moluscos, crustáceos, anfíbios, 
+répteis e plantas aquáticas com ou sem declividade que proporcione a coleta e despesca dos 
+animais e o escoamento de água.
+
+--- PÁGINA 5 ---
+IT44 – Atividades de Agronegócio  
+1ª Edição 
+ 
+ 
+5/6 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+5 RECOMENDAÇÕES DE SEGURANÇA PARA INSTALAÇÕES E EDIFICAÇÕES QUE 
+ABRIGAM ATIVIDADES DE AGRONEGÓCIO 
+5.1 As medidas de segurança contra incêndio e pânico dispostas nesta IT constituem 
+recomendações para as edificações descritas no item 2.1, devendo ser exigidas por ocasião do 
+licenciamento de tais instalações/edificações junto ao Serviço de Segurança contra Incêndio e 
+Pânico (SSCIP) do CBMMG. 
+5.1.1 O licenciamento das edificações/instalações descritas no item 2.1 junto SSCIP do CBMMG 
+é facultado ao proprietário/responsável pelo uso. 
+5.1.2 As edificações/instalações descritas no item 2.1, que não se licenciarem, não serão objeto 
+de fiscalização pelo CBMMG.  
+5.2 Extintores de incêndio 
+5.2.1 Deverão ser atendidos os parâmetros da IT 16, podendo ser aplicadas as seguintes 
+adaptações: 
+a) as edificações/instalações deverão possuir, a cada 500 m² de área, uma unidade extintora com 
+capacidade de 2A-20B:C, não sendo aplicado o caminhamento máximo; 
+b) deverão possuir uma unidade extintora instalada junto à entrada principal, devidamente 
+sinalizada; 
+c) para as edificações destinadas a zootecnia, a cada 100 m de comprimento deverá ser instalada 
+mais uma unidade extintora; 
+d) quando for instalado sistema de aquecimento à lenha ou à carvão, deverá ser prevista uma 
+unidade extintora próxima à fornalha, a no máximo 10 m de distância; 
+e) havendo casa de maravalha, depósito de palha ou alimento vegetal desidratado, deverá ser 
+prevista proteção específica por extintores; 
+f) havendo equipamentos destinados à climatização da edificação/instalação, deverá ser prevista 
+proteção específica por extintores. 
+5.3 Saídas de Emergência 
+5.3.1 A edificação/instalação, independentemente do tipo e local de construção, estará dispensada 
+de atender ao caminhamento previsto na IT 08 quando: 
+a) possuir pavimento único, com todos os seus ambientes possuindo saídas diretas para o exterior; 
+ou  
+b) possuir saídas em extremos opostos. 
+5.3.2 Havendo mais de um pavimento, as escadas poderão atender aos critérios previstos para 
+escadas de acesso restrito, conforme IT 08, quando destinadas somente ao público da edificação. 
+5.3.3 A largura dos demais componentes de saídas de emergência deverá ser dimensionada 
+considerando 1 pessoa para cada 30 m² e as seguintes capacidades de unidades de passagem: 
+a) acessos e descargas: 100;
+
+--- PÁGINA 6 ---
+IT44 – Atividades de Agronegócio  
+1ª Edição 
+ 
+ 
+6/6 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+b) escadas e rampas: 75; 
+c) portas: 100. 
+5.3.4 Os demais parâmetros de saídas de emergência deverão atender ao previsto na IT 08. 
+5.4 Sinalização de Emergência 
+5.4.1 Poderá ser dispensada no pavimento térreo quando a edificação ou instalação: 
+a) possuir saída para a área externa que seja visualizada de todos os pontos do pavimento; ou 
+b) não for fechada/cercada por paredes, grades ou similares em mais de duas faces. 
+5.5 Sistema de hidrantes (aplica-se somente a edificações ou instalações de zootecnia) 
+5.5.1 Recomenda-se a instalação de sistema de hidrantes nas instalações e/ou edificações que 
+possuam área construída igual ou superior a 5.000 m². 
+5.5.2 O sistema de hidrante poderá ser do tipo 2 com reserva técnica de incêndio (RTI) de 12 m³, 
+devendo também ser instalado hidrante de recalque, atendendo aos parâmetros da IT 17. 
+6 PRESCRIÇÕES DIVERSAS  
+6.1 O proprietário e/ou responsável pelo uso deve promover a manutenção e a proteção proativa 
+das máquinas e equipamentos presentes na edificação ou instalação, a fim de reduzir a 
+probabilidade de incêndios. 
+6.2 Havendo a presença de risco especial diverso (central, armazenamento ou distribuição de gás 
+liquefeito de petróleo – GLP – ou gás natural – GN –, subestação elétrica, armazenamento de 
+líquido inflamável, dentre outros), deverá ser prevista medida de segurança conforme norma 
+específica, tornando-se obrigatória a regularização junto ao Serviço de Segurança contra Incêndio 
+e Pânico (SSCIP) do CBMMG, que poderá abranger apenas a área referente ao risco especial. 
+6.3 Havendo áreas de apoio às edificações/instalações de que trata esta IT (fins administrativos, 
+comerciais, laboratoriais, de industrialização, de refeitórios, dentre outras atividades) as medidas 
+de segurança deverão ser aplicadas conforme a classificação de ocupação, área e altura prevista 
+na IT 01, sendo dimensionadas conforme as instruções técnicas específicas do Corpo de 
+Bombeiros Militar de Minas Gerais (CBMMG), tornando-se obrigatória a regularização junto ao 
+Serviço de Segurança contra Incêndio e Pânico (SSCIP) do CBMMG, que poderá abranger apenas 
+as áreas de apoio. 
+6.4 As exigências constantes na IT 44 são recomendações mínimas de segurança a serem 
+adotadas, podendo o responsável técnico, mediante avaliação, determinar a adoção de medidas 
+adicionais para mitigação de riscos conforme as peculiaridades do empreendimento. 
+6.5 As edificações existentes/construídas e aprovadas com base em norma vigente à época ou 
+aprovadas mediante deliberação de Corpo Técnico, desde que mantidas os critérios de aprovação, 
+seguirão as exigências do projeto aprovado. 
+6.6 Os casos omissos relativos aos procedimentos administrativos do serviço de segurança contra 
+incêndio e pânico serão solucionados pelo Diretor de Atividades Técnicas.

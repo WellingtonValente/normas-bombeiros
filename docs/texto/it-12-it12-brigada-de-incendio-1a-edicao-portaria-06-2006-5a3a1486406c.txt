@@ -1,0 +1,1444 @@
+--- PÁGINA 1 ---
+IT - 12 
+BRIGADA DE INCÊNDIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ANEXOS 
+ 
+1 – Objetivo 
+ 
+ 
+A - Tabela de percentual de cálculo para 
+composição da Brigada de Incêndio 
+ 
+2 – Aplicação 
+ 
+ 
+B - Currículo básico do curso de formação da 
+Brigada de Incêndio 
+3 – Referências Normativa e Bibliográficas 
+ 
+ 
+C - Questionário de avaliação de brigadista. 
+4 – Definições 
+ 
+ 
+D - Questionário de avaliação de bombeiro 
+profissional civil 
+5 – Procedimentos
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 12 
+ 
+   
+ 
+ 
+BRIGADA DE INCÊNDIO 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+1.1 Esta instrução técnica estabelece as condições mínimas 
+para a formação, treinamento e reciclagem da brigada de 
+incêndio para atuação em edificações e áreas de risco no 
+estado de Minas Gerais. 
+ 
+ 
+2 APLICAÇÃO 
+ 
+Esta instrução técnica se aplica a todas as edificações e 
+áreas de risco enquadradas na tabela 1 do Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais. 
+ 
+ 
+3 
+REFERÊNCIAS 
+NORMATIVAS 
+E 
+BIBLIOGRÁFICAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+NBR 9443 - Extintor de incêndio classe A – Ensaio de 
+fogo em engradado de madeira. 
+ 
+NBR 9444 - Extintor de incêndio classe B – Ensaio de 
+fogo em líquido inflamável. 
+ 
+NBR 13860 - Glossário de termos relacionados com a 
+segurança contra incêndio. 
+ 
+NBR 14023 - Registro de atividades de bombeiros. 
+ 
+NBR 14096 - Viaturas de combate a incêndio 
+ 
+NBR 14276 - Programa de brigada de incêndio. 
+ 
+NBR 14277 - Campo para treinamento de combate a 
+incêndio. 
+ 
+NBR 145610 - Veículos para atendimento a emergências 
+médicas e resgate. 
+ 
+ 
+ 
+NBR 14608 - Bombeiro profissional civil. 
+ 
+NBR 5419 - Sistema de proteção contra descargas 
+atmosférica.  
+ 
+NBR 9077 - Saída de emergência em edifícios. 
+ 
+4 DEFINIÇÕES 
+ 
+Para os efeitos desta instrução técnica, aplicam-se as 
+definições constantes da IT 02 –Terminologia de proteção 
+contra incêndio e Pânico. 
+ 
+ 
+5 PROCEDIMENTOS 
+ 
+5.1 Composição da brigada de incêndio 
+ 
+5.1.1 A brigada de incêndio deve ser composta pela 
+população fixa e o percentual de cálculo do anexo A, que é 
+obtido levando-se em conta o grupo e a divisão de 
+ocupação da planta, conforme condições descritas a seguir: 
+ 
+1ª Condição: Determinar população fixa da edificação, ou 
+seja, aquela que regularmente permanece na edificação. 
+ 
+Obs: Há casos especiais para base de cálculo, o qual o 
+número de brigadista está descrito na tabela do anexo A. 
+Exemplo: Prédios residenciais necessitam treinar todos 
+funcionários 
+do 
+condomínio 
+e 
+um 
+morador 
+(ou 
+empregado) por pavimento. 
+ 
+2ª Condição: Se a população fixa (PF) for menor que 10 
+pessoas:
+
+--- PÁGINA 3 ---
+Número de brigadistas por pavimento ou compartimento = 
+[população fixa por pavimento] x [% e cálculo da coluna 1 
+(C1) do anexo A (coluna “até 10”)], ou seja: 
+Número de brigadista = PF x % C1 do anexo A (“até 10”). 
+ 
+3ª Condição: Se a população fixa for maior que 10 
+pessoas: 
+= [(população fixa por pavimento de 10 pessoas) x (% de 
+cálculo da coluna 1 do anexo A)] + [(população fixa por 
+pavimento menos 10 pessoas) x (% de cálculo da coluna 2 
+(C2) do anexo A)], ou seja: 
+Número de brigadistas = [10 x % C1] + [(PF – 10) x % 
+C2], onde: 
+Número de brigadistas = Número de brigadistas por 
+pavimento ou compartimento. 
+% C1 = porcentagem de cálculo da coluna 1 da tabela do 
+anexo A. 
+PF (população fixa) = número de pessoas que permanecem 
+regularmente na edificação, considerando os turnos de 
+trabalho. 
+% C2 = porcentagem de cálculo da coluna 2 da tabela do 
+anexo A. 
+ 
+Obs: Portanto, para dimensionamento do número de 
+brigadista quando à população fixa for maior que 10 
+pessoas, deve-se proceder conforme exemplo: 
+Ex.: Edificação com ocupação de agência bancária (D-2) 
+tendo uma população fixa de 60 pessoas. 
+ 
+1º Passo: Aplicar a porcentagem da coluna 1 (até 10) do 
+anexo A para as primeiras 10 pessoas, ou seja, 10 x 40% = 
+4. 
+ 
+2º Passo: Em seguida pegaremos a população fixa e 
+subtraímos de 10 pessoas, ou seja, 60 – 10 = 50 pessoas. 
+ 
+3º Passo: Com o resultado obtido no 2º passo, 
+multiplicamos este valor de porcentagem da coluna 2 
+(acima de 10) do anexo A, ou seja, 50 x 10% = 5. 
+ 
+4º Passo: Portanto, o número de brigadista será a soma do 
+valor obtido no 1º passo com o valor obtido no 3º passo, 
+ou seja, 4 + 5 = 9. 
+Nº brig = [10 x 40%] + [(60 – 10) x 10%] 
+Nº brig = 4 + (50 x 10%) 
+Nº brig = 4 + 5 = 9 brigadistas 
+  
+5.1.2 Para os números mínimos de brigadistas, deve-se 
+prever os turnos, a natureza de trabalho e os eventuais 
+afastamentos. 
+5.1.3 Sempre que o resultado obtido do cálculo do número 
+de brigadistas por pavimento for fracionário, deve-se 
+arredondá-lo para mais. Exemplo: 
+ 
+Loja 
+População fixa = 9 pessoas 
+Nº de brigadistas por pavimento = [população fixa por 
+pavimento] x [% de cálculo da tabela A] 
+Nº de brigadistas por pavimento = (9 x 40%) = 3,6 
+Nº de brigadistas por pavimento = 4 pessoas 
+ 
+5.1.4 Quando em uma planta houver mais de um grupo de 
+ocupação, o número de brigadistas deve ser calculado 
+levando-se em conta o grupo de ocupação de maior risco. 
+O número de brigadistas só é calculado por grupo de 
+ocupação, se as unidades forem compartimentadas e os 
+riscos forem isolados. Exemplo: planta com duas 
+edificações, sendo a primeira uma área de escritórios com 
+três pavimentos e 19 pessoas por pavimento e a segunda 
+uma indústria de médio potencial de risco com um 
+pavimento e 116 pessoas: 
+a) edificações com pavimentos compartimentados e riscos 
+isolados, 
+calcula-se 
+o 
+número 
+de 
+brigadistas 
+separadamente por grupo de ocupação: 
+ 
+Área administrativa 
+População fixa = 19 pessoas por pavimento (três 
+pavimentos) 
+Nº de brigadistas por pavimento = [população fixa por 
+pavimento] x [% de cálculo da tabela A] 
+Nº de brigadistas por pavimento = 10 x 30% + (19-10) x 
+10% = 3 + 0,9 = 3,9 
+Nº de brigadistas por pavimento = 4 pessoas 
+ 
+Área industrial 
+População fixa = 116 pessoas 
+Nº de brigadistas por pavimento = [população fixa por 
+pavimento] x [% de cálculo da tabela A] 
+Nº de brigadistas por pavimento = 10 x 50% + (116 - 10) x 
+7% = 5 + 106 x 7% = 5 + 7,42 = 12,42 
+Nº de brigadistas por pavimento = 13 pessoas 
+ 
+Nº total de brigadistas (área administrativa + área 
+industrial) 
+No total de brigadistas = (4 x 3) + 13 = 12 + 13 = 25  
+No total de brigadistas = 25 pessoas 
+ 
+b) edificações sem compartimentação dos pavimentos e 
+sem isolamento dos riscos, calcula-se o número de 
+brigadistas por meio do grupo de ocupação de maior risco: 
+ 
+No caso utiliza-se o grupo da área industrial 
+Nº de brigadistas por pavimento = [população fixa por 
+pavimento] x [% de cálculo da tabela A] 
+ 
+Área administrativa 
+População fixa = 19 pessoas por pavimento (três 
+pavimentos) 
+Nº de brigadistas por pavimento = 10 x 50% + (19-10) x 
+7% = 5 + 9 x 7% = 5 + 0,63 = 5,63 
+Nº de brigadistas por pavimento = 6 pessoas 
+ 
+Área Industrial 
+População fixa = 116 pessoas 
+Nº de brigadistas por pavimento = 10 x 50% + (116 - 10) x 
+7% = 5 + 106 x 7% = 5 + 7,42 = 12,42 
+Nº de brigadistas por pavimento = 13 pessoas 
+ 
+Nº total de brigadistas (área administrativa + área 
+industrial) 
+No total de brigadistas = (6 x 3) + 13 = 18 + 13 = 31 
+Nº total de brigadistas = 31 pessoas
+
+--- PÁGINA 4 ---
+5.1.5 A composição da brigada de incêndio deve levar em 
+conta a participação de pessoas de todos os setores. 
+ 
+5.2 Critérios básicos para seleção de candidatos a 
+brigadista 
+ 
+Os 
+candidatos 
+a 
+brigadista 
+devem 
+atender 
+preferencialmente aos seguintes critérios básicos: 
+a) permanecer na edificação; 
+b) preferencialmente possuir experiência anterior como 
+brigadista; 
+c) possuir boa condição física e boa saúde; 
+d) possuir bom conhecimento das instalações; 
+e) ter responsabilidade legal; 
+f) ser alfabetizado. 
+Nota - Caso nenhum candidato atenda aos critérios básicos 
+relacionados, devem ser selecionados aqueles que atendam 
+ao maior número de requisitos. 
+ 
+5.3 Organização da brigada 
+ 
+5.3.1 Brigada de incêndio 
+A brigada de incêndio deve ser organizada funcionalmente 
+como segue: 
+a) Brigadistas: membros da brigada que executam as 
+atribuições de 5.5; 
+b) Líder: responsável pela coordenação e execução das 
+ações 
+de 
+emergência 
+em 
+sua 
+área 
+de 
+atuação 
+(pavimento/compartimento). 
+É 
+escolhido 
+dentre 
+os 
+brigadistas aprovados no processo seletivo; 
+c) Chefe da brigada: responsável por uma edificação com 
+mais de um pavimento/compartimento. É escolhido dentre 
+os brigadistas aprovados no processo seletivo; 
+d) Coordenador geral: responsável geral por todas as 
+edificações que compõem uma planta. É escolhido dentre 
+os brigadistas que tenham sido aprovados no processo 
+seletivo. 
+ 
+5.3.2 Organograma da brigada de incêndio 
+a) o organograma da brigada de incêndio da empresa varia 
+de acordo com o número de edificações, o número de 
+pavimentos em cada edificação e o número de empregados 
+em cada pavimento/compartimento. 
+b) as empresas que possuem em sua planta somente uma 
+edificação com apenas um pavimento/compartimento, 
+devem ter um líder que deve coordenar a brigada (ver 
+exemplo 1). 
+c) as empresas que possuem em sua planta somente uma 
+edificação, com mais de um pavimento/compartimento, 
+devem ter um líder para cada pavimento/compartimento, 
+que é coordenado pelo chefe da brigada dessa edificação 
+(ver exemplo 2). 
+d) as empresas que possuem em sua planta mais de uma 
+edificação, com mais de um pavimento/compartimento, 
+devem ter um líder por pavimento/compartimento e um 
+chefe da brigada para cada edificação, que devem ser 
+coordenados pelo coordenador geral da brigada (ver 
+exemplo 3). 
+ 
+5.4 Programa do curso de formação de brigada de 
+incêndio 
+ 
+5.4.1 Os candidatos a brigadista, selecionados conforme o 
+item 5.2, devem freqüentar curso com carga horária 
+mínima de 12 horas, sendo a parte prática de, no mínimo, 
+8 horas conforme anexo B. Exceção para o grupo A e 
+divisões G-1 e G-2, a carga horária total deve ser de 4 
+horas, enfocando apenas a parte de prevenção e combate a 
+incêndio e fazendo 2 horas práticas de combate a incêndio. 
+5.4.2 O curso deve enfocar, principalmente os riscos 
+inerentes ao grupo de ocupação. 
+5.4.3 A periodicidade do treinamento do brigadista deve 
+ser de no máximo 02 (dois) anos, ou quando houver 
+alteração de 50% dos membros da Brigada. Findo esse 
+prazo, deverá ser realizado novo treinamento nos termos 
+do item 5.4.1. 
+5.4.4 Aos componentes da brigada que já tiverem 
+freqüentado o curso anterior, será facultada a parte teórica, 
+desde que o brigadista seja aprovado em pré-avaliação 
+com 70% de aproveitamento. 
+5.4.5 Aqueles que concluírem o curso com aproveitamento 
+mínimo de 70% na avaliação teórica e prática receberão 
+certificado de brigadista, expedido por profissional 
+habilitado. 
+ 
+5.4.5.1 No certificado do brigadista devem constar os 
+seguintes dados: 
+a) nome completo do treinando com Registro Geral (RG); 
+b) carga horária; 
+c) período de treinamento; 
+d) nome, habilitação e registro do instrutor; 
+e) citar que o certificado está em conformidade com esta 
+instrução técnica. 
+5.4.6 O profissional habilitado na formação de brigada de 
+incêndio é toda pessoa com formação Técnico de 
+Segurança do Trabalho, devidamente registrado no 
+Conselho Regional competente ou no Ministério do 
+Trabalho e os militares as Forças Armadas, das Polícias 
+Militares e dos Corpos de Bombeiros Militares, com 2º 
+grau completo e que possua especialização em prevenção e 
+combate a incêndio (carga horária mínima 60 horas-aulas) 
+e Emergências Médicas (carga horária mínina de 40 horas-
+aulas). 
+5.4.7 A avaliação teórica é realizada na forma escrita, 
+preferencialmente dissertativa, conforme parte A do 
+anexo B, e a avaliação prática é realizada de acordo com o 
+desempenho do aluno nos exercícios realizados, conforme 
+parte B do anexo B. 
+ 
+5.5 Atribuições da brigada de incêndio 
+ 
+5.5.1 Ações de prevenção: 
+a) avaliação dos riscos existentes; 
+b) inspeção geral dos equipamentos de combate a 
+incêndio; 
+c) inspeção geral das rotas de fuga; 
+d) elaboração de relatório das irregularidades encontradas; 
+e) encaminhamento do relatório aos setores competentes; 
+f) orientação à população fixa e flutuante; 
+g) exercícios simulados. 
+ 
+5.5.2 Ações de emergência: 
+a) identificação da situação; 
+b) alarme/abandono de área;
+
+--- PÁGINA 5 ---
+c)  acionamento do Corpo de Bombeiros e/ou ajuda 
+externa; 
+d) corte de energia; 
+e) primeiros socorros; 
+f) controle do pânico; 
+g) combate ao princípio de incêndio; 
+h) instrução de abandono de área com segurança; 
+i) recepção e orientação ao Corpo de Bombeiros; 
+j) preenchimento do formulário de registro de trabalho dos 
+bombeiros; 
+k) encaminhamento do formulário ao Corpo de Bombeiros 
+para atualização de dados estatísticos. 
+ 
+5.6 Procedimentos básicos de emergência 
+ 
+5.6.1 Alerta 
+Identificada uma situação de emergência, qualquer pessoa 
+pode alertar, por meio de meios de comunicação 
+disponíveis, os ocupantes e os brigadistas. 
+5.6.2 Análise da situação 
+Após o alerta, a brigada deve analisar a situação, desde o 
+início até o final do sinistro. Havendo necessidade, acionar 
+o Corpo de Bombeiros e apoio externo, e desencadear os 
+procedimentos necessários, que podem ser priorizados ou 
+realizados simultaneamente, de acordo com o número de 
+brigadistas e os recursos disponíveis no local. 
+5.6.3 Primeiros socorros 
+Prestar primeiros socorros às possíveis vítimas, mantendo 
+ou restabelecendo suas funções vitais com SBV (Suporte 
+Básico da Vida) e RCP (Reanimação Cardio-Pulmonar) 
+até que se obtenha o socorro especializado. 
+5.6.4 Corte de energia 
+Cortar, quando possível ou necessário, a energia elétrica 
+dos equipamentos, da área ou geral. 
+5.6.5 Abandono de área 
+Proceder ao abandono da área parcial ou total, quando 
+necessário, 
+conforme 
+comunicação 
+preestabelecida, 
+removendo para local seguro, a uma distância mínima de 
+100 m do local do sinistro, permanecendo até a definição 
+final. 
+5.6.6 Confinamento do sinistro 
+Evitar a propagação do sinistro e suas conseqüências. 
+5.6.7 Isolamento da área 
+Isolar fisicamente a área sinistrada, de modo a garantir os 
+trabalhos de emergência e evitar que pessoas não 
+autorizadas adentrem ao local. 
+5.6.8 Extinção 
+Eliminar o sinistro, restabelecendo a normalidade. 
+5.6.9 Investigação 
+Levantar as possíveis causas do sinistro e suas 
+conseqüências e emitir relatório para discussão nas 
+reuniões extraordinárias, com o objetivo de propor 
+medidas corretivas para evitar a repetição da ocorrência. 
+5.6.10 Com a chegada do Corpo de Bombeiros, a brigada 
+deve ficar a sua disposição. 
+5.6.11 Para a elaboração dos procedimentos básicos de 
+emergência deve-se consultar o fluxograma constante no 
+Exemplo 4 do Organogramas de brigadas de incêndio.  
+5.7 Controle do programa de brigada de incêndio 
+ 
+5.7.1 Reuniões ordinárias 
+Devem ser realizadas reuniões mensais com os membros 
+da brigada, com registro em ata, onde são discutidos os 
+seguintes assuntos: 
+a) funções de cada membro da brigada dentro do plano; 
+b) condições de uso dos equipamentos de combate a 
+incêndio; 
+c) apresentação de problemas relacionados à prevenção de 
+incêndios encontrados nas inspeções para que sejam feitas 
+propostas corretivas; 
+d) atualização das técnicas e táticas de combate a incêndio; 
+e) alterações ou mudanças do efetivo da brigada; 
+f) outros assuntos de interesse. 
+ 
+5.7.2 Reuniões extraordinárias 
+Após a ocorrência de um sinistro ou quando identificada 
+uma situação de risco iminente, fazer uma reunião 
+extraordinária para discussão e providências a serem 
+tomadas. As decisões tomadas são registradas em ata e 
+enviadas às áreas competentes para as providências 
+pertinentes. 
+ 
+5.7.3 Exercícios simulados 
+Deve ser realizado, a cada 12 meses, no mínimo um 
+exercício simulado no estabelecimento ou local de trabalho 
+com participação de toda a população. Imediatamente após 
+o simulado, deve ser realizada uma reunião extraordinária 
+para avaliação e correção das falhas ocorridas.  Deve ser 
+elaborada ata na qual conste: 
+a) horário do evento; 
+b) tempo gasto no abandono; 
+c) tempo gasto no retorno; 
+d) tempo gasto no atendimento de primeiros socorros; 
+e) atuação da brigada; 
+f) comportamento da população; 
+g) participação do Corpo de Bombeiros e tempo gasto para 
+sua chegada; 
+h) ajuda externa (PAM - Plano de Auxílio Mútuo); 
+i) falhas de equipamentos; 
+j) falhas operacionais; 
+l) demais problemas levantados na reunião. 
+5.7.3.1 Deverá ser apresentada ao Corpo de Bombeiros 
+com antecedência de 30 (trinta) dias, a solicitação para 
+acompanhamento do simulado. 
+ 
+5.8 Procedimentos complementares 
+ 
+5.8.1 Identificação da brigada 
+a) devem ser distribuídos em locais visíveis e de grande 
+circulação, quadros de aviso ou similar, sinalizando a 
+existência da brigada de incêndio e indicando seus 
+integrantes com suas respectivas localizações. 
+b) o brigadista deve utilizar constantemente em lugar 
+visível um crachá que o identifique como membro da 
+Brigada. 
+c) no caso de uma situação real ou simulado de 
+emergência, o brigadista deve usar braçadeira, colete ou 
+capacete para facilitar sua identificação e auxiliar na sua 
+atuação. 
+ 
+5.8.2 Comunicação interna e externa 
+a) nas plantas em que houver mais de um pavimento, 
+setor, bloco ou edificação, deve ser estabelecido 
+previamente um sistema de comunicação entre os
+
+--- PÁGINA 6 ---
+brigadistas, a fim de facilitar as operações durante a 
+ocorrência de uma situação real ou simulado de 
+emergência. 
+b) essa comunicação pode ser feita por meio de telefones, 
+quadros sinópticos, interfones, sistemas de alarme, rádios, 
+alto-falantes, sistemas de som interno, etc. 
+c) caso seja necessária à comunicação com meios externos 
+(Corpo de Bombeiros ou Plano de Auxílio Mútuo) a 
+telefonista ou o rádio-operador é a (o) responsável por ela. 
+Para tanto, se faz necessário que essa pessoa seja 
+devidamente treinada e que esteja instalada em local 
+seguro e estratégico para o abandono. 
+ 
+5.8.3 Ordem de abandono 
+O 
+responsável 
+máximo 
+da 
+brigada 
+de 
+incêndio 
+(Coordenador geral, Chefe da brigada ou Líder, conforme 
+o caso) determina o início do abandono, devendo priorizar 
+o(s) local(is) sinistrado(s), o(s) pavimento(s) superior(es) a 
+este(s), o(s) setor(es) próximo(s) e o(s) local(is) de maior 
+risco. 
+5.8.4 Ponto de encontro 
+Devem ser previstos um ou mais pontos de encontro dos 
+brigadistas, para distribuição das tarefas conforme 5.6. 
+5.8.5 Grupo de apoio 
+O grupo de apoio é formado com a participação da 
+Segurança Patrimonial de eletricistas, encanadores, 
+telefonistas e técnicos especializados na natureza da 
+ocupação. 
+ 
+5.9 Avaliação 
+ 
+5.9.1 Os integrantes da brigada de incêndio podem ser 
+avaliados pelo Corpo de Bombeiros, durante as vistorias 
+técnicas, de acordo com o anexo C desta instrução técnica.  
+5.9.1.1 Para esta avaliação, o vistoriador deve escolher um 
+brigadista e fazer 6 (seis) perguntas dentre as 23 (vinte e 
+três) constantes do anexo C. O avaliado deve acertar no 
+mínimo 3 (três) das perguntas feitas. Quando isto não 
+ocorrer, deve ser avaliado outro brigadista e caso este 
+também não acerte o mínimo estipulado acima, deve ser 
+exigido um novo treinamento. 
+5.9.2 Os bombeiros profissionais civis, computados, 
+devem ser avaliados pelo Corpo de Bombeiros, durante as 
+vistorias técnicas, de acordo com o anexo D desta 
+instrução técnica. 
+5.9.2.1 Para esta avaliação, o vistoriador deve escolher um 
+bombeiro civil e fazer 8 (oito) perguntas dentre as 30 
+(trinta) constantes do anexo D. O avaliado deve acertar no 
+mínimo 4 (quatro) das perguntas feitas. Quando isto não 
+ocorrer, deve ser avaliado outro bombeiro e caso este 
+também não acerte o mínimo estipulado acima, deve ser 
+exigida a reciclagem nos termos da NBR 14608. 
+ 
+5.10 Disposições finais 
+ 
+5.10.1 O descumprimento dos requisitos estabelecidos por 
+esta instrução técnica será motivo para o órgão técnico do 
+Corpo de Bombeiros não fornecer ou cassar o Auto de 
+Vistoria do Corpo de Bombeiros (AVCB). 
+5.10.2 Ficam isentas da exigência de brigada de incêndio, 
+as edificações especificadas nas disposições constantes no 
+anexo A e nas subdivisões da tabela 7, do Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco do Estado de Minas Gerais.  
+5.10.2.1 Recomenda-se, para estes casos, a permanência 
+de pessoas capacitadas a operar os equipamentos de 
+combate a incêndios existentes na edificação. 
+5.10.3 As edificações que possuem bombeiro profissional 
+civil, que execute exclusivamente serviços de prevenção e 
+proteção contra incêndio, terão decréscimo na proporção 
+de 20% na quantidade mínima de brigadistas, para cada 
+bombeiro, por turno de 24 horas, até o limite de 60%. 
+5.10.4 A formação e reciclagem do bombeiro profissional 
+civil devem atender as exigências da NBR 14608 da 
+ABNT. 
+5.10.5 A edificação que possuir posto de bombeiro interno, 
+com efetivo mínimo de 5 (cinco) bombeiros profissionais 
+civis (por turno de 24 horas) e viatura de combate a 
+incêndio devidamente equipada, nos parâmetros da NBR 
+14096 - Viaturas  de combate a  incêndio -  poderá ficar 
+isenta da brigada  de  incêndio, desde que o bombeiro 
+profissional ministre treinamento periódico  ao demais 
+funcionários, nos parâmetros desta IT.
+
+--- PÁGINA 7 ---
+Exemplos de organogramas de brigadas de incêndio: 
+ 
+Exemplo 1: Empresa com uma edificação, um pavimento e cinco brigadistas. 
+ 
+LÍDER
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+ 
+ 
+ 
+ 
+ 
+Exemplo 2: Empresa com uma edificação, três pavimentos e três brigadistas por pavimento. 
+ 
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+LÍDER
+LÍDER
+LÍDER
+CHEFE DA BRIGADA
+ 
+ 
+ 
+ 
+ 
+Exemplo 3: Empresa com duas edificações, a primeira com três pavimentos e dois brigadistas por pavimento, e a segunda com 
+um pavimento e quatro brigadistas por pavimento. 
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+BRIGADISTA
+LÍDER
+LÍDER
+LÍDER
+LÍDER
+COORDENADOR GERAL
+CHEFE DA BRIGADA
+CHEFE DA BRIGADA
+
+--- PÁGINA 8 ---
+Exemplo 4: Fluxograma de procedimento de emergência da brigada de incêndio (recomendação) 
+ 
+Há
+necessidade
+de socorro?
+Há
+necessidade
+de cortar a
+energia
+elétrica?
+Há
+necessidade
+de abandono
+de área?
+Há
+necessidade
+de isolamento
+de área?
+Há
+necessidade
+de
+confinamento
+da área?
+Há
+necessidade
+de combate?
+Há vítimas?
+Há incêndio?
+Procedimentos
+necessários.
+Há
+emergência?
+Análise da situação.
+ALERTA
+Início
+Há
+necessidade
+de remoção?
+Socorro especializado
+INVESTIGAÇÃO
+Elaboração de relatório
+Cópia para os setores
+responsáveis
+Cópia para arquivo
+Fim
+O sinistro foi
+controlado?
+PRIMEIROS
+SOCORROS
+CORTE   DE
+ENERGIA
+ABANDONO    DE
+ÁREA
+ISOLAMENTO DE
+ÁREA
+CONFINAMENTO DA
+ÁREA
+COMBATE AO
+INCÊNDIO
+não
+sim
+não
+não
+sim
+não
+não
+não
+não
+não
+não
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+não
+sim
+sim
+não
+Acionamento do
+Corpo de Bombeiros
+e apoio externo
+
+--- PÁGINA 9 ---
+ANEXO A  
+Percentual de cálculo para composição da brigada de incêndio 
+ 
+ 
+População fixa 
+por pavimento 
+Grupo 
+Divisão 
+Descrição 
+Até 10 
+Acima de 10 
+A-1 
+Habitação unifamiliar 
+Isento 
+A-2 
+Habitação multifamiliar 
+Fazem 
+parte 
+da 
+brigada 
+de 
+incêndio todos os funcionários da 
+edificação 
+A 
+Residencial 
+A-3 
+Habitação coletiva (*) 
+50% 
+10% 
+B-1 
+Hotel e assemelhado 
+50% 
+10% 
+B 
+Serviço de Hospedagem 
+B-2 
+Hotel residencial (**) 
+50% 
+10% 
+C-1 
+Local onde os materiais comercializados ou 
+depositados apresentem baixa carga de incêndio 
+40% 
+5% 
+C-2 
+Local onde os materiais comercializados ou 
+depositados apresentem média carga de incêndio
+40% 
+5% 
+C 
+Comercial 
+C-3 
+Local onde os materiais comercializados ou 
+depositados apresentem alta carga de incêndio 
+50% 
+20% 
+D-1 
+Local para prestação de serviço profissional ou 
+condução de negócios 
+30% 
+10% 
+D-2 
+Agência bancária 
+40% 
+10% 
+D-3 
+Serviço de reparação (exceto os classificados em 
+G e I) 
+40% 
+10% 
+D 
+Serviço profissional 
+D-4 
+Laboratório 
+40% 
+10% 
+E-1 
+Escola em geral 
+40% 
+20% 
+E-2 
+Escola especial 
+40% 
+20% 
+E-3 
+Espaço para cultura física 
+40% 
+20% 
+E-4 
+Centro de treinamento profissional 
+40% 
+20% 
+E-5 
+Pré-escola 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+E 
+Educacional e cultura física 
+E-6 
+Escola para portadores de deficiências 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+F-1 
+Local onde há objeto de valor inestimável 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+F-2 
+Local religioso e velório 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+F-3 
+Centro esportivo e de exibição 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+F-4 
+Estação e terminal de passageiro 
+60% 
+20% 
+F-5 
+Arte cênica e auditório 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+F-6 
+Clube social e diversão 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+F-7 
+Construção provisória 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+F-8 
+Local para refeição 
+60% 
+20% 
+F-9 
+Recreação pública 
+40% 
+10% 
+F 
+Local de Reunião Pública 
+ 
+F-10 
+Exposição de objetos e animais 
+Faz parte da brigada de incêndio 
+toda a população fixa
+
+--- PÁGINA 10 ---
+G-1 
+Garagem sem acesso de público e sem 
+abastecimento 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+G-2 
+Garagem com acesso de público e sem 
+abastecimento 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+G-3 
+Local dotado de abastecimento de combustível 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+G 
+Serviço automotivo 
+G-4 
+Serviço de conservação, manutenção e reparos 
+50% 
+10% 
+H-1 
+Hospitais veterinários e assemelhados 
+50% 
+10% 
+H-2 
+Local onde pessoas requerem cuidados especiais 
+por limitações físicas ou mentais 
+Faz parte da brigada de incêndio 
+todos os funcionários da 
+edificação  
+H-3 
+Hospital e assemelhado. 
+60% 
+20% 
+H-4 
+Repartição pública, edificações das forças 
+armadas e policiais 
+30% 
+10% 
+H-5 
+Local onde a liberdade das pessoas sofre 
+restrições  
+Faz parte da brigada de incêndio 
+todos os funcionários da 
+edificação  
+H 
+Serviço de saúde e 
+institucional 
+H-6 
+Clínica e consultório médico e odontológico  
+40% 
+20% 
+I-1 
+Todo tipo de atividade industrial (baixa carga 
+incêndio) 
+40% 
+5% 
+I-2 
+Todo tipo de atividade industrial (média carga 
+incêndio) 
+50% 
+7% 
+I 
+Indústria 
+I-3 
+Todo tipo de atividade industrial (alta carga 
+incêndio) 
+60% 
+10% 
+J-1 
+Depósitos de material incombustível 
+40% 
+10% 
+J-2 
+Todo tipo de depósito (baixa carga incêndio) 
+40% 
+10% 
+J-3 
+Todo tipo de depósito (média carga incêndio) 
+50% 
+20% 
+J 
+Depósito 
+J-4 
+Todo tipo de depósito (alta carga incêndio) 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+L-1 
+Comércio 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+L-2 
+Indústria 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+L 
+Explosivos 
+L-3 
+Depósito 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+M-1 
+Túnel 
+Isento 
+M-2 
+Parque de tanque 
+60% 
+10% 
+M-3 
+Central de comunicação e energia 
+Faz parte da brigada de incêndio 
+toda a população fixa 
+M-4 
+Propriedade em transformação 
+30% 
+5% 
+M-5 
+Processamento de lixo 
+50% 
+7% 
+M 
+Especial 
+M-6 
+Terra selvagem 
+Isento 
+(*) Na divisão A-3 não se aplica o índice à população fixa com idade acima de 60 anos e abaixo de 18 anos. 
+(**) Na divisão H-5 o índice aplica-se somente aos funcionários da edificação.
+
+--- PÁGINA 11 ---
+ANEXO B 
+ 
+Currículo básico do curso de formação de brigada de incêndio 
+ 
+OBJETIVO: Proporcionar aos alunos conhecimentos básicos sobre prevenção, isolamento e extinção de princípios de 
+incêndio, abandono de local com sinistro, além de técnicas de primeiros socorros. 
+ 
+INSTRUTORES E AVALIADORES: Profissionais habilitados. 
+ 
+TURMAS: Composta de no máximo 20 alunos. 
+ 
+ 
+A - Parte Teórica 
+ 
+Módulo 
+Assunto 
+Objetivos 
+01  Introdução 
+Objetivos do curso e o 
+brigadista 
+Conhecer os objetivos gerais do curso, 
+responsabilidades e comportamento do 
+brigadista. 
+02  Teoria do fogo 
+Combustão e seus elementos 
+Conhecer o tetraedro do fogo. 
+03  Propagação do fogo 
+Condução, irradiação e 
+convecção 
+Conhecer os processos de propagação do fogo. 
+04  Classes de incêndio 
+Classificação e características 
+Conhecer as classes de incêndio. 
+ 
+05  Métodos de extinção 
+Isolamento, abafamento, 
+resfriamento e extinção 
+química 
+Conhecer os métodos e suas aplicações. 
+06 Ventilação 
+Técnicas de ventilação 
+Conhecer os métodos e técnicas de ventilação de 
+ambientes em chamas e sua importância. 
+07  Agentes extintores 
+Água (jato/neblina), PQS, CO2, 
+espumas e outros 
+Conhecer os agentes, suas características e 
+aplicações. 
+08  Equipamentos  de combate 
+a incêndio 
+Extintores, hidrantes, 
+mangueiras e acessórios, EPI, 
+corte, arrombamento, remoção 
+e iluminação 
+Conhecer os equipamentos suas aplicações e 
+manuseio. 
+09  Equipamentos  de 
+detecção, alarme e 
+comunicações 
+Tipos e funcionamento 
+Conhecer os meios mais comuns de sistemas e 
+manuseio. 
+10  Abandono de área 
+ 
+Procedimentos 
+Conhecer as técnicas de abandono de área, saída 
+organizada, pontos de encontro e chamada e 
+controle de pânico. 
+11  Análise de vítimas 
+Avaliação Primária 
+Conhecer as técnicas de exame primário (sinais 
+vitais)  
+12  Vias aéreas 
+Causas de obstrução e 
+liberação 
+Conhecer os sintomas de obstruções em adultos, 
+crianças e bebês conscientes e inconscientes. 
+13  RCP (Reanimação Cardio-
+Pulmonar) 
+Ventilação artificial e 
+compressão cardíaca externa 
+Conhecer as técnicas de RCP com 1 e 2 
+socorristas para adultos, crianças e bebês.  
+14  Hemorragias 
+Classificação e tratamento 
+Reconhecimento e técnicas de hemostasia em 
+hemorragias externas. 
+ 
+B – Parte Prática 
+ 
+Módulo 
+Assunto 
+Objetivos 
+01  Prática 
+Combate a incêndios 
+ 
+Praticar as técnicas de combate a incêndio, em 
+local adequado. 
+02  Prática 
+Primeiros Socorros 
+ 
+Praticar as técnicas dos módulos 11 a 14 da 
+parte A. 
+ 
+C – Avaliação 
+ 
+Módulo 
+Assunto 
+Objetivos 
+01  Avaliação 
+Geral 
+Avaliar individualmente os alunos conforme 
+descrito no item 5.4.7.
+
+--- PÁGINA 12 ---
+ANEXO C 
+ 
+Questionário de Avaliação de Brigadista 
+ 
+O presente questionário deve ser aplicado durante a realização das vistorias, aos integrantes da brigada de incêndio 
+que constam no atestado fornecido. 
+O bombeiro vistoriador deve assinalar CERTO, quando a resposta estiver correta e ERRADO, quando o brigadista 
+errar ou não responder. 
+As perguntas devem estar limitadas aos sistemas de proteção contra incêndio existentes na edificação. 
+ 
+ 
+1 – Quantas escadas de segurança existem na edificação?  
+ 
+            CERTO                                           ERRADO 
+ 
+2 – As portas corta-fogo de uma escada de segurança podem permanecer abertas? 
+ 
+            CERTO                                          ERRADO 
+ 
+3 – Onde se localiza a central de alarme? 
+ 
+            CERTO                                          ERRADO 
+ 
+4 – Onde se localiza a central de iluminação de emergência? 
+ 
+            CERTO                                            ERRADO 
+ 
+5 – Onde se localiza a central de deteção de incêndio? 
+ 
+            CERTO                                           ERRADO 
+ 
+6 – Solicitado para que apontasse um detector de incêndio instalado na edificação: 
+ 
+            CERTO                                            ERRADO 
+ 
+7 – Solicitado para que apontasse um acionador manual do sistema de alarme instalado na edificação: 
+ 
+            CERTO                                            ERRADO 
+ 
+8 – Qual a cor da tubulação do sistema de hidrantes? 
+ 
+            CERTO                                           ERRADO 
+ 
+9 – Solicitado que demonstrasse a forma de acionamento de um hidrante existente na edificação: 
+ 
+            CERTO                                           ERRADO 
+ 
+10 – Solicitado que demonstrasse a forma de funcionamento do sistema de espuma por meio de aparelho entre linhas, esguicho 
+proporcionador ou câmara de aplicação: 
+ 
+            CERTO                                           ERRADO 
+ 
+11 – Cite três elementos que formam o tetraedro do fogo:  
+ 
+            CERTO                                            ERRADO 
+ 
+12 – Quais são os métodos de extinção do fogo? 
+ 
+            CERTO                                           ERRADO 
+ 
+13 – Qual o tipo de extintor existente na edificação ideal para combater incêndio classe A? 
+ 
+            CERTO                                           ERRADO
+
+--- PÁGINA 13 ---
+14 – Qual o tipo de extintor existente na edificação ideal para combater incêndio classe B? 
+ 
+            CERTO                                           ERRADO 
+ 
+15 – Qual o tipo de extintor existente na edificação ideal para combater incêndio classe C? 
+ 
+            CERTO                                            ERRADO 
+ 
+16 – Solicitado que demonstrasse a forma de utilização de um extintor de incêndio existente na edificação: 
+  
+            CERTO                                            ERRADO 
+ 
+17 – Qual o telefone para acionamento do Corpo de Bombeiros? 
+ 
+            CERTO                                           ERRADO 
+ 
+18 – Qual a seqüência para análise primária de uma vítima? 
+ 
+            CERTO                                           ERRADO 
+ 
+19 – Como deve ser a RCP em um adulto atendido por um único socorrista? 
+ 
+            CERTO                                           ERRADO 
+ 
+20 – Onde se localiza a chave geral de energia elétrica da edificação? 
+ 
+            CERTO                                           ERRADO 
+ 
+21- Perguntado sobre os procedimentos de teste do funcionamento do sistema de chuveiros automáticos: 
+ 
+            CERTO                                           ERRADO 
+ 
+22- Qual o procedimento para se efetuar a troca de um bico de chuveiro automático? 
+ 
+            CERTO                                           ERRADO 
+ 
+23- Como é o acionamento manual do sistema fixo de gás (CO2 ou outros)? 
+ 
+             CERTO                                           ERRADO 
+ 
+ 
+           Ocupação: _____________________End.:_________________________________________ 
+        
+           Nº Vistoria:_______________ Nº Proposta:______________ 
+ 
+           Nome do avaliado (1) ___________________________________Nº de acertos____ (  ) aprovado ( ) reprovado  
+           Nome do avaliado (2) ___________________________________Nº de acertos____ (  ) aprovado ( ) reprovado  
+ 
+           Data:____/____/_________ 
+ 
+ 
+ 
+            ___________________________________                                               _______________________________ 
+                                  Avaliado (1)                                                                                                Avaliado (2) 
+ 
+ 
+ 
+           ____________________________________                                               ______________________________ 
+                           Vstoriador (Avaliador)                                                                                           Testemunha
+
+--- PÁGINA 14 ---
+ANEXO D  
+ 
+Questionário de avaliação de bombeiro profissional civil 
+ 
+O presente questionário deve ser aplicado durante a realização das vistorias, aos bombeiros profissionais civis que 
+trabalham na edificação. 
+O bombeiro vistoriador deve assinalar CERTO, quando a resposta estiver correta e ERRADO, quando o brigadista 
+não souber a resposta. 
+As perguntas devem estar limitadas aos sistemas de proteção contra incêndio existentes na edificação. 
+ 
+1 – Quais os elementos que formam o tetraedro do fogo?  
+ 
+            CERTO                                          ERRADO 
+ 
+2 – Quais os métodos de extinção do fogo? 
+ 
+            CERTO                                          ERRADO 
+ 
+3 – Cite um extintor existente na edificação ideal para incêndio classe C? 
+ 
+            CERTO                                  
+ERRADO 
+ 
+4 – Cite um extintor existente na edificação ideal para incêndio classe A? 
+ 
+            CERTO                                           ERRADO 
+ 
+5 – Cite um extintor existente na edificação ideal para incêndio classe B? 
+ 
+            CERTO                                           ERRADO 
+ 
+6 – Quais as temperaturas ou pontos do fogo? 
+ 
+            CERTO                                           ERRADO 
+ 
+7 – Para que serve a válvula de recalque instalada na calçada da edificação? 
+ 
+            CERTO                                           ERRADO 
+ 
+8 – Cite dois cuidados que se deve ter com as mangueiras de incêndio: 
+ 
+            CERTO                                           ERRADO 
+ 
+9 – Cite qual o número de telefone usado para acionamento do Corpo de Bombeiros: 
+ 
+            CERTO                                           ERRADO 
+ 
+10 – Demonstre a forma de utilização de um extintor de incêndio de CO2 : 
+ 
+            CERTO                                            ERRADO 
+ 
+11 – Demonstre, a partir do hidrante, como deve ser armada uma linha de combate a incêndio, quando operada por uma única 
+pessoa:  
+ 
+            CERTO                                          ERRADO 
+ 
+12 – Mostre na edificação a localização da bomba de incêndio: 
+ 
+            CERTO                                           ERRADO 
+ 
+13 – Explique qual o procedimento para se efetuar a troca de um bico de chuveiro automático: 
+ 
+            CERTO                                        ERRADO 
+ 
+14 – Qual a seqüência da análise primária de uma vítima?
+
+--- PÁGINA 15 ---
+CERTO                                        ERRADO 
+ 
+15 – Demonstre o emprego do respirador manual (ambu) em uma vítima com parada respiratória: 
+ 
+            CERTO                                         ERRADO 
+ 
+16 – Descreva dois sintomas de uma vítima com ataque cardíaco: 
+ 
+            CERTO                                        ERRADO 
+ 
+17 – Demonstre a aplicação de massagem cardíaca e respiração em um adulto com auxílio do respirador manual (ambu): 
+ 
+            CERTO                                         ERRADO 
+ 
+18 – Como se procede a RCP em uma vítima atendida por dois socorristas? 
+ 
+            CERTO                                         ERRADO 
+ 
+19 – Como deve ser tratada uma vítima com hemorragia venosa no braço? 
+  
+            CERTO                                        ERRADO 
+ 
+20 – Cite dois cuidados que se devem ter com uma vítima de queimadura de 2º grau: 
+ 
+            CERTO                                        ERRADO 
+ 
+21- Como deve ser tratada uma vítima de ataque epiléptico? 
+ 
+            CERTO                                        ERRADO 
+ 
+22- cite duas providências que devem ser tomadas em caso de vítima de choque elétrico: 
+ 
+            CERTO                                         ERRADO 
+ 
+23- O que significa um X junto ao número da ONU numa placa de identificação de produtos perigosos? 
+ 
+             CERTO                                         ERRADO 
+ 
+24- Para que serve o sistema de pressurização em escada de emergência? 
+ 
+            CERTO                                         ERRADO 
+ 
+25- O que significa um extintor com capacidade 2A e 20B? 
+ 
+            CERTO                                        ERRADO 
+ 
+26- Onde se localiza o barrilete do sistema de combate a incêndio da edificação? 
+ 
+            CERTO                                        ERRADO 
+ 
+27- Qual a primeira providência a ser tomada antes da retirada de uma pessoa retida em um elevador? 
+ 
+            CERTO                                        ERRADO 
+ 
+ 
+28- Para que serve a válvula de governo e alarme do sistema de chuveiro automático? 
+ 
+            CERTO                                        ERRADO 
+ 
+29- Demonstre a colocação da máscara autônoma contra gases: 
+ 
+            CERTO                                        ERRADO
+
+--- PÁGINA 16 ---
+30- Explique dois processos para se efetuar ventilação em um ambiente tomado por fumaça: 
+ 
+            CERTO                                         ERRADO 
+                                 
+  Ocupação: _____________________End.:_________________________________________ 
+ 
+  Nº Vistoria:_______________ Nº Proposta:______________ 
+ 
+ Nome do avaliado (1) ___________________________________Nº de acertos____ (  ) aprovado  (  ) reprovado  
+ Nome do avaliado (2) ___________________________________Nº de acertos____ (  ) aprovado  (  ) reprovado  
+ 
+ Data :____/____/_________ 
+ 
+ 
+             ______________________________                                                                                      ______________________________ 
+                             Avaliado (1)                                                                                                                                    Avaliado (2) 
+             ______________________________                                                                                      ______________________________ 
+                       Vistoriador(Avaliador)                                                                                                                           Testemunha

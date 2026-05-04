@@ -1,0 +1,1233 @@
+--- PÁGINA 1 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+1/13
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 25 de setembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 15/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 12 – 3ª
+Edição (Brigada de Incêndio): 
+ 
+1. ALTERAR o item 2.1
+Onde se lê: 
+"2.1 Esta IT se aplica a todas as ediﬁcações e espaços desƟnados a uso coleƟvo deﬁnidos no
+Regulamento de Segurança Contra Incêndio e Pânico no Estado de Minas Gerais, no que diz respeito à
+medida de segurança contra incêndio e pânico "Brigada de Incêndio" prevista no art. 5º do Decreto Estadual
+n. 47.998/2020."
+Leia-se: 
+"2.1 Esta IT aplica-se a todas as ediﬁcações e espaços desƟnados a uso coleƟvo deﬁnidos no
+Regulamento de Segurança Contra Incêndio e Pânico no Estado de Minas Gerais, no que diz respeito à
+medida de segurança contra incêndio e pânico "Brigada de Incêndio" nele prevista."
+ 
+2. ALTERAR o item 3.1
+Onde se lê: 
+"3.1 Legislação
+Lei Federal n. 11.901/2009 – Dispõe sobre a proﬁssão de Bombeiro Civil e dá outras
+providências. Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de
+Minas Gerais.
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de
+Minas Gerais.
+Lei Estadual n. 22.839/2018 – Dispõe sobre a práƟca de aƟvidades da área de competência do
+Corpo de Bombeiros Militar de Minas Gerais por voluntários, proﬁssionais e insƟtuições civis e dá outras
+providências.
+Decreto Estadual n. 47.998/2020 – Regulamenta a Lei nº 14.130, de 19 de dezembro de 2001,
+que dispõe sobre a prevenção contra incêndio e pânico no Estado, e estabelece regras para as aƟvidades de
+ﬁscalização das medidas de prevenção e combate a incêndio e a desastres em estabelecimentos, ediﬁcações
+e áreas de reunião de público, nos termos dos arts. 3º, 4º e 5º da Lei Federal nº 13.425, de 30 de março de
+2017, e dá outras providências. 
+Portaria n. 50/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de
+2018, quanto à atuação, credenciamento, uniformes e veículos da brigada e do brigadista proﬁssional.
+
+--- PÁGINA 2 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+2/13
+Portaria n. 51/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de
+2018, quanto à atuação, credenciamento, uniformes e veículos da brigada e brigadista orgânico. 
+Portaria n. 54/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de
+2018, quanto à atuação, credenciamento, uniformes e veículos do centro de formação, instrutores e demais
+atores que atuam na formação de brigadistas e guarda-vidas civis."
+Leia-se:
+"3.1 Legislação
+Lei Federal n. 11.901/2009 – Dispõe sobre a proﬁssão de Bombeiro Civil e dá outras
+providências.
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de
+Minas Gerais.
+Lei Estadual n. 22.839/2018 – Dispõe sobre a práƟca de aƟvidades da área de competência do
+Corpo de Bombeiros Militar de Minas Gerais por voluntários, proﬁssionais e insƟtuições civis e dá outras
+providências.
+Decreto Estadual n. 44.746/2008 e alterações – Regulamento de Segurança Contra Incêndio e
+Pânico nas ediﬁcações e áreas de risco no Estado de Minas Gerais. 
+Portaria n. 50/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de
+2018, quanto à atuação, credenciamento, uniformes e veículos da brigada e do brigadista proﬁssional. 
+Portaria n. 51/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de
+2018, quanto à atuação, credenciamento, uniformes e veículos da brigada e brigadista orgânico. 
+Portaria n. 54/2020 do CBMMG – Regulamenta o art. 7º da Lei n. 22.839, de 05 de janeiro de
+2018, quanto à atuação, credenciamento, uniformes e veículos do centro de formação, instrutores e demais
+atores que atuam na formação de brigadistas e guarda-vidas civis."
+ 
+3. ALTERAR o item 4.1 
+Onde se lê: 
+"4.1 Brigada de incêndio: medida de segurança prevista no Decreto Estadual n. 47.998/2020,
+que consiste em um grupo organizado de pessoas treinadas e capacitadas para atuar na prevenção,
+abandono de ediﬁcação, combate a princípio de incêndios e prestação de primeiros socorros, dentro de uma
+área preestabelecida, podendo ser composta por:"
+Leia-se: 
+"4.1 Brigada de incêndio: medida de segurança prevista no Regulamento de Segurança Contra
+Incêndio e Pânico no Estado de Minas Gerais, que consiste em um grupo organizado de pessoas treinadas e
+capacitadas para atuar na prevenção, abandono de ediﬁcação, combate a princípio de incêndios e prestação
+de primeiros socorros, dentro de uma área preestabelecida, podendo ser composta por:"
+ 
+4. ALTERAR o item 5.1.1
+Onde se lê: 
+"5.1.1 A brigada de incêndio deve ser composta por um percentual de pessoas de acordo com
+a população e ocupação da ediﬁcação, conforme Anexos A e B."
+Leia-se:
+
+--- PÁGINA 3 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+3/13
+"5.1.1 A brigada de incêndio deve ser composta por um percentual de pessoas de acordo com
+a população e ocupação da ediﬁcação, conforme Anexo A, observados os exemplos de cálculo previstos
+no Anexo B."
+ 
+5. ALTERAR o item 5.1.2.1
+Onde se lê: 
+"5.1.2.1 Por até 01 (um) ano a parƟr da entrada em vigor desta IT, em caráter transitório, a
+brigada de incêndio para eventos temporários poderá ser dimensionada conforme disposto na Nota A.15.5
+do Anexo A desta IT."
+Leia-se:
+"5.1.2.1 Por até 01 (um) ano a parƟr da entrada em vigor desta IT, em caráter transitório, a
+brigada de incêndio para eventos temporários poderá ser dimensionada conforme disposto na Nota A.12.5
+do Anexo A desta IT."
+ 
+6. ALTERAR os itens  5.4.2 e 5.4.2.1
+Onde se lê: 
+"5.4.2 Os brigadistas deverão possuir, no mínimo, a formação (nível de treinamento) prevista
+no Anexo A (básica, intermediária, avançada ou proﬁssional), de acordo com a ocupação/divisão da
+ediﬁcação ou espaço desƟnado a uso coleƟvo e conforme matriz curricular prevista na Portaria n. 54/2020.
+5.4.2.1 O curso de formação deve enfocar, principalmente, os riscos inerentes ao grupo de
+ocupação."
+Leia-se:
+"5.4.2 Os brigadistas deverão possuir, obrigatoriamente, nível de treinamento básico, sendo
+recomendada a formação intermediária ou avançada, de acordo com a ocupação/divisão da ediﬁcação ou
+espaço desƟnado ao uso coleƟvo, conforme disposto no Anexo A desta IT.
+5.4.2.1 
+O 
+curso 
+de 
+formação 
+(nível 
+básico, intermediário 
+ou 
+avançado) 
+será
+executado conforme matriz curricular prevista na Portaria n. 54/2020 e deve enfocar, principalmente, os
+riscos inerentes ao grupo da ocupação."
+ 
+7. ALTERAR a Tabela do Anexo A 
+Onde se lê: 
+ANEXO A
+PERCENTUAL DE CÁLCULO PARA COMPOSIÇÃO DA BRIGADA DE INCÊNDIO
+(quando exigida a medida para a ediﬁcação ou área de risco)
+Grupo
+Divisão
+Descrição
+População
+ﬁxa por
+pavimento
+Nível de Treinamento
+Até
+10
+Acima
+de 10
+A
+Residencial
+A-1
+Habitação unifamiliar
+Isento
+Isento
+A-2
+Habitação mulƟfamiliar
+Conforme
+nota A.1.1
+Básico
+A-3
+Habitação coleƟva
+50%
+10%
+Básico
+B
+B-1
+Hotel e assemelhado
+50%
+10%
+Intermediário
+
+--- PÁGINA 4 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+4/13
+Grupo
+Divisão
+Descrição
+População
+ﬁxa por
+pavimento
+Nível de Treinamento
+Até
+10
+Acima
+de 10
+Serviço de
+Hospedagem
+B-2
+Hotel residencial
+50%
+10%
+Básico
+C
+Comercial
+C-1
+Comércio com baixa carga de
+incêndio
+40%
+5%
+Básico
+C-2
+Comércio com média e alta
+carga de incêndio
+40%
+5%
+Intermediário
+C-3
+Shopping center
+50%
+20%
+Intermediário
+D
+Serviço
+proﬁssional
+D-1
+Local para prestação de
+serviço proﬁssional ou
+condução de negócios
+30%
+10%
+Intermediário
+D-2
+Agência bancária
+40%
+10%
+Básico
+D-3
+Serviço de reparação (exceto
+os classiﬁcados em G-4)
+40%
+10%
+Intermediário
+D-4
+Laboratório
+40%
+10%
+Intermediário
+E
+Educacional e
+cultura İsica
+E-1
+Escola em geral
+40%
+20%
+Intermediário
+E-2
+Escola especial
+40%
+20%
+Intermediário
+E-3
+Espaço para cultura İsica
+40%
+20%
+Intermediário
+E-4
+Centro de treinamento
+proﬁssional
+40%
+20%
+Intermediário
+E-5
+Pré-escola
+80%
+80%
+Intermediário
+E-6
+Escola para portadores de
+deﬁciências
+F
+Local de
+Reunião de
+Público
+F-1
+Local onde há objeto de
+valor inesƟmável
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+Intermediário
+F-2
+Local religioso e velório
+F-3
+Centro esporƟvo e de
+exibição
+F-4
+Estação e terminal de
+passageiro
+60%
+20%
+Intermediário
+F-5
+Arte cênica e auditório
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+Intermediário
+F-6
+Casas de show
+F-7
+ Evento temporário
+01 brigadista
+a cada 500
+pessoas,
+respeitado o
+mínimo de 2
+brigadistas
+Proﬁssional
+F-8
+Local para refeição
+60%
+20%
+Intermediário
+F-9
+Recreação
+40%
+10%
+Intermediário
+
+--- PÁGINA 5 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+5/13
+Grupo
+Divisão
+Descrição
+População
+ﬁxa por
+pavimento
+Nível de Treinamento
+Até
+10
+Acima
+de 10
+F-10
+Exposição de objetos e
+animais
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+Intermediário
+F-11
+Clubes sociais e de diversão
+40%
+10%
+Básico
+G
+Serviço
+automoƟvo e
+assemelhados
+G-1
+Estacionamento sem acesso
+de público e sem
+abastecimento
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+Básico
+G-2
+Estacionamento com acesso
+de público e sem
+abastecimento
+G-3
+Local dotado de
+abastecimento de
+combusơvel
+G-4
+Serviço de conservação,
+manutenção, garagem e
+reparos, com ou sem
+abastecimento
+50%
+10%
+Básico
+G-5
+Hangares
+50%
+20%
+50% Básico
+50% Intermediário
+H
+Serviço de
+saúde e
+insƟtucional
+H-1
+Hospital veterinário e
+assemelhados
+50%
+10%
+Básico
+H-2
+Local onde pessoas
+requerem cuidados especiais
+por limitações İsicas ou
+mentais
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+Intermediário
+H-3
+Hospital e assemelhado
+60%
+20%
+Intermediário
+H-4
+Ediﬁcações das forças
+armadas e policiais
+30%
+10%
+Intermediário
+H-5
+Local onde a liberdade das
+pessoas sofre restrições
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+Intermediário
+H-6
+Clínicas e consultório médico
+e odontológico
+40%
+10%
+Intermediário
+I
+Indústria
+I-1
+Indústria com carga de
+incêndio até 300MJ/m²
+40%
+5%
+Intermediário
+I-2
+Indústria com carga de
+incêndio entre 301 e
+1.200MJ/m²
+50%
+7%
+Intermediário
+I-3
+Indústria com carga de
+incêndio superior a
+1.200MJ/m²
+60%
+10%
+50% Intermediário
+50% Avançado
+
+--- PÁGINA 6 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+6/13
+Grupo
+Divisão
+Descrição
+População
+ﬁxa por
+pavimento
+Nível de Treinamento
+Até
+10
+Acima
+de 10
+J
+Depósito
+J-1
+Depósitos de material
+incombusơvel
+Isento
+Isento
+J-2
+Depósito com carga de
+incêndio até 300MJ/m²
+40%
+10%
+Intermediário
+J-3
+Depósitos com carga de
+incêndio entre 301 e
+1.200MJ/m²
+50%
+20%
+Intermediário
+J-4
+Depósitos com carga de
+incêndio superior a
+1.200MJ/m²
+60%
+30%
+50% Intermediário
+50% Avançado
+L
+Explosivos
+L-1
+Comércio
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+L-1:Básico
+L-2, L-3: Avançado
+L-2
+Indústria
+L-3
+Depósito
+M
+Especial
+M-1
+Túnel
+Conforme nota especiﬁca A.1.9
+M-2
+Líquido ou gás inﬂamável ou
+combusơvel
+60%
+10%
+Avançado
+M-3
+Central de comunicação e
+energia
+Faz parte da
+brigada de
+incêndio toda
+a população
+ﬁxa
+Intermediário
+M-4
+Canteiro de obras
+30%
+10%
+Básico
+M-5
+Silos
+30%
+10%
+Intermediário
+M-6
+Terra selvagem
+30%
+10%
+Básico
+M-7
+PáƟo de Containers
+40%
+15%
+Básico
+M-8
+Agronegócio
+Conforme nota especiﬁca A.1.14
+ 
+Leia-se:
+ 
+ANEXO A
+PERCENTUAL DE CÁLCULO PARA COMPOSIÇÃO DA BRIGADA DE INCÊNDIO
+(quando exigida a medida para a ediﬁcação ou área de risco)
+Grupo
+Divisão
+Descrição
+População ﬁxa
+por pavimento
+Nível de
+Treinamento
+Exigido
+Nível de
+Treinamento
+Recomendado
+Até 10 Acima 
+de 10
+A
+Residencial
+A-1
+Habitação unifamiliar
+Isento
+Isento
+Isento
+A-2
+Habitação mulƟfamiliar
+Conforme nota
+A.1
+Básico
+Básico
+A-3
+Habitação coleƟva
+ 
+50%   
+ 
+10%
+Básico
+Básico
+
+--- PÁGINA 7 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+7/13
+Grupo
+Divisão
+Descrição
+População ﬁxa
+por pavimento
+Nível de
+Treinamento
+Exigido
+Nível de
+Treinamento
+Recomendado
+Até 10 Acima 
+de 10
+B
+Serviço de
+Hospedagem
+B-1
+Hotel e assemelhado
+50%
+10%
+Básico
+Intermediário
+B-2
+Hotel residencial
+50%
+10%
+Básico
+Básico
+C
+Comercial
+C-1
+Comércio com baixa carga
+de incêndio
+40%
+5%
+Básico
+Básico
+C-2
+Comércio com média e alta
+carga de incêndio
+40%
+5%
+Básico
+Intermediário
+C-3
+Shopping center
+50%
+20%
+Básico
+Intermediário
+D
+Serviço
+proﬁssional
+D-1
+ReparƟções públicas e
+locais para prestação de
+serviço proﬁssional ou
+condução de negócios
+30%
+10%
+Básico
+Intermediário
+D-2
+Agência bancária
+40%
+10%
+Básico
+Básico
+D-3
+Serviço de reparação
+(exceto os classiﬁcados em
+G-4)
+40%
+10%
+Básico
+Intermediário
+D-4
+Laboratório
+40%
+10%
+Básico
+Intermediário
+E
+Educacional e
+cultura İsica
+E-1
+Escola em geral
+40%
+20%
+Básico
+Intermediário
+E-2
+Escola especial
+40%
+20%
+Básico
+Intermediário
+E-3
+Espaço para cultura İsica
+40%
+20%
+Básico
+Intermediário
+E-4
+Centro de treinamento
+proﬁssional
+40%
+20%
+Básico
+Intermediário
+E-5
+Pré-escola
+80%
+80%
+Básico
+Intermediário
+E-6
+Escola para portadores de
+deﬁciências
+F
+Local de
+Reunião de
+Público
+F-1
+Local onde há objeto de
+valor inesƟmável
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+Intermediário
+F-2
+Local religioso e velório
+F-3
+Centro esporƟvo e de
+exibição
+F-4
+Estação e terminal de
+passageiro
+60%
+20%
+Básico
+Intermediário
+F-5
+Arte cênica
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+Intermediário
+F-6
+Local de diversão
+F-7
+ Evento temporário
+01 brigadista a
+cada 500
+pessoas,
+respeitado o
+mínimo de 2
+brigadistas
+Proﬁssional
+Proﬁssional
+F-8
+Local para refeição
+60%
+20%
+Básico
+Intermediário
+F-9
+Recreação
+40%
+10%
+Básico
+Intermediário
+
+--- PÁGINA 8 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+8/13
+Grupo
+Divisão
+Descrição
+População ﬁxa
+por pavimento
+Nível de
+Treinamento
+Exigido
+Nível de
+Treinamento
+Recomendado
+Até 10 Acima 
+de 10
+F-10
+Exposição de objetos e
+animais
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+Intermediário
+F-11
+Auditórios
+40%
+10%
+Básico
+Básico
+G
+Serviço
+automoƟvo e
+assemelhados
+G-1
+Garagem sem acesso de
+público
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+Básico
+G-2
+Garagem com acesso de
+público
+G-3
+Local dotado de
+abastecimento de
+combusơvel
+G-4
+Serviço de conservação,
+manutenção e reparos
+50%
+10%
+Básico
+Básico
+G-5
+Hangares
+50%
+20%
+Básico
+50% Básico
+50%
+Intermediário
+H
+Serviço de
+saúde e
+insƟtucional
+H-1
+Hospital veterinário
+50%
+10%
+Básico
+Básico
+H-2
+Locais onde pessoas
+requerem cuidados
+especiais por limitações
+İsicas ou mentais
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+Intermediário
+H-3
+Hospital e assemelhado
+60%
+20%
+Básico
+Intermediário
+H-4
+Ediﬁcações das forças
+armadas e policiais
+30%
+10%
+Básico
+Intermediário
+H-5
+Local onde a liberdade das
+pessoas sofre restrições
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+Intermediário
+H-6
+Clínicas médicas,
+odontológicas e
+veterinárias.
+40%
+10%
+Básico
+Intermediário
+I
+Indústria
+I-1
+Locais onde as aƟvidades
+exercidas e os materiais
+uƟlizados apresentam baixo
+potencial de incêndio.
+Locais com carga de
+incêndio até 300MJ/m²
+40%
+5%
+Básico
+Intermediário
+I-2
+Locais onde as aƟvidades
+exercidas e os materiais
+uƟlizados apresentam
+médio potencial de
+incêndio. Locais com carga
+de incêndio acima de 300
+até 1.200MJ/m²
+50%
+7%
+Básico
+Intermediário
+
+--- PÁGINA 9 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_sis…
+9/13
+Grupo
+Divisão
+Descrição
+População ﬁxa
+por pavimento
+Nível de
+Treinamento
+Exigido
+Nível de
+Treinamento
+Recomendado
+Até 10 Acima 
+de 10
+I-3
+Locais onde há alto risco de
+incêndio. Locais com carga
+de incêndio superior a
+1.200MJ/m²
+60%
+10%
+Básico
+50%
+Intermediário
+50% Avançado
+J
+Depósito
+J-1
+Depósitos de material
+incombusơvel
+Isento
+J-2
+Todo Ɵpo de depósito
+(baixa carga incêndio)
+40%
+10%
+Básico
+Intermediário
+J-3
+Todo Ɵpo de depósito
+(média carga incêndio)
+50%
+20%
+Básico
+Intermediário
+J-4
+Todo Ɵpo de depósito (alta
+carga incêndio)
+60%
+30%
+Básico
+50%
+Intermediário
+50% Avançado
+L
+Explosivos
+L-1
+Comércio
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+L-1:Básico
+L-2, L-3:
+Avançado
+L-2
+Indústria
+L-3
+Depósito
+M
+Especial
+M-1
+Túnel
+Conforme nota especiﬁca A.9
+M-2
+Tanques ou Parque de
+Tanques
+60%
+10%
+Básico
+Avançado
+M-3
+Central de comunicação e
+energia
+Faz parte da
+brigada de
+incêndio toda a
+população ﬁxa
+Básico
+Intermediário
+M-4
+Propriedade em
+transformação
+30%
+10%
+Básico
+Básico
+M-5
+Processamento de lixo
+30%
+10%
+Básico
+Básico
+M-6
+Terra selvagem
+30%
+10%
+Básico
+Básico
+M-7
+PáƟo de Containers
+40%
+15%
+Básico
+Básico
+ 
+ 
+8. ALTERAR as Notas da Tabela do Anexo A 
+Onde se lê: 
+"Notas:
+A.1.1 Para a divisão A-2, todos os empregados da ediﬁcação deverão compor a brigada de
+incêndio e, caso não haja empregados, recomenda-se que haja treinamento da população para evacuação e
+uƟlização dos equipamentos e medidas prevenƟvas da ediﬁcação.
+A.1.2 Para todas as divisões de ocupação dos grupos "F" e "L" e para as divisões "E-1, E-5, E-6,
+H-2, H-3, H-5, I-2, I-3, J-3 e J-4", será necessário o número mínimo de 02 (dois) brigadistas.
+A.1.3 Para ediﬁcações uƟlizadas para reunião de público (Grupo F) mediante locação, onde
+não há população ﬁxa (para dimensionamento da brigada de incêndio) e com população prevista no
+Processo de Segurança Contra Incêndio e Pânico (PSCIP) entre 200 e 1000 pessoas (obƟda através do cálculo
+de população previsto nas IT 08, IT 37 ou IT 40), deverá haver a presença de no mínimo 02 (dois) brigadistas
+durante a uƟlização da ediﬁcação, estando sujeito à ﬁscalização do CBMMG.
+
+--- PÁGINA 10 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_si…
+10/13
+A.1.3.1 Quando a população prevista no PSCIP for superior a 1000 pessoas deverá ser previsto
+01 (um) brigadista para cada 500 pessoas.
+A.1.4 Subestações elétricas e de telefonia remotas, em que não há presença humana
+permanente e há monitoramento remoto das condições do equipamento e da ediﬁcação, estão dispensadas
+de possuir brigada de incêndio, por não possuir população ﬁxa.
+A.1.5 Na divisão H-3, nos pavimentos onde houver UTIs e centros cirúrgicos, 100% da
+população ﬁxa desse pavimento deve fazer parte da brigada de incêndio, salvo os plantonistas e funcionários
+temporários não considerados como parte ﬁxa da população.
+A.1.6 Na divisão C-3, quando a área do pavimento for superior a 3000,0 m² , deverá haver no
+mínimo 01(um) brigadista proﬁssional por pavimento, que será contado normalmente como parte do
+número de brigadistas exigidos para a ediﬁcação.
+A.1.7 Na divisão F-1, quando a área (uƟlizada como divisão F-1) for superior a 2000,0 m² ,
+deverá haver no mínimo 01 (um) brigadista proﬁssional por pavimento, que será contado normalmente
+como parte do número de brigadistas exigidos para a ediﬁcação.
+A.1.8 Na divisão F-6, quando a área (uƟlizada como divisão F-6) for superior a 750,0 m²,
+deverá haver no mínimo 01 (um) brigadista proﬁssional por pavimento, que será contado normalmente
+como parte do número de brigadistas exigidos para a ediﬁcação.
+A.1.9 Os túneis (M-1) deverão possuir brigada de incêndio quando idenƟﬁcado pelo
+responsável técnico que há elevado risco de incêndio, conforme NBR especíﬁca.
+A.1.10 Para ediﬁcações das divisões E-5 e E-6 com área inferior a 750,0 m² e altura inferior a
+12 (doze) metros, o nível de treinamento poderá ser o básico.
+A.1.11 Para ediﬁcações térreas da divisão I-1 com carga incêndio inferior a 200,0 MJ/m² , o
+nível de treinamento poderá ser o básico.
+A.1.12 Nas ediﬁcações mistas, serão adotados parâmetros disƟntos conforme a presença de
+comparƟmentação.
+A.1.12.1 Não havendo comparƟmentação entre as ocupações, serão considerados os
+parâmetros mais rigorosos da ocupação para toda a ediﬁcação ou área de risco. 
+A.1.12.2 Havendo comparƟmentação entre as ocupações, serão considerados os parâmetros
+de cada ocupação.
+A.1.12.3 Havendo uso da ediﬁcação com divisões de aƟvidade de um mesmo grupo, calcula-se
+o número de brigadistas separadamente para cada divisão.
+A.1.13 O brigadista orgânico pode ser subsƟtuído por brigadista proﬁssional.
+A.1.13.1 Cada brigadista proﬁssional contratado poderá subsƟtuir até 04 (quatro) brigadistas
+orgânicos exigidos para a ediﬁcação, devendo haver no mínimo 01 (um) brigadista (proﬁssional ou orgânico)
+por pavimento.
+A.1.13.2 O brigadista proﬁssional será contado normalmente para atendimento do número de
+brigadistas em eventos temporários e para ﬁns de aplicação das notas A.1.6, A.1.7 e A.1.8.
+A.1.14 As ediﬁcações da Divisão M-8 estarão isentas da brigada de incêndio, devendo as
+ediﬁcações e áreas de apoio possuir brigada conforme exigência para o uso especíﬁco.
+A.15 Eventos Temporários
+A.15.1 Eventos com classiﬁcação de risco mínimo e baixo estão isentos da medida brigada de
+incêndio.
+
+--- PÁGINA 11 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_si…
+11/13
+A.15.2 Eventos com população inferior a 500 pessoas estão isentos da medida brigada de
+incêndio.
+A.15.3 Todos os locais de evento com previsão de população superior a 1500 pessoas deverão
+contar com pessoa devidamente habilitada para operar o Desﬁbrilador Externo AutomáƟco (DEA).
+A.15.4 Para todos os eventos em que for exigida a medida brigada de incêndio, deverá haver
+no mínimo 2 (dois) brigadistas.
+A.15.5 Por até 01 (um) ano a parƟr da entrada em vigor desta IT, em caráter transitório, o nível
+de treinamento da brigada de evento temporário poderá se dar da seguinte forma:
+A.15.5.1 Eventos com população a parƟr de 501 até 40.000 pessoas: 100% dos brigadistas
+com nível Intermediário.
+A.15.5.2 Eventos com população acima de 40.000 pessoas: 80% da brigada com nível
+intermediário e 20% da brigada composta por brigadistas proﬁssionais."
+Leia-se:
+"Notas:
+A.1 Para a divisão A-2, todos os empregados da ediﬁcação deverão compor a brigada de
+incêndio e, caso não haja empregados, recomenda-se que haja treinamento da população para evacuação e
+uƟlização dos equipamentos e medidas prevenƟvas da ediﬁcação.
+A.2 Para todas as divisões de ocupação dos grupos "F" e "L" e para as divisões "E-1, E-5, E-6, H-
+2, H-3, H-5, I-2, I-3, J-3 e J-4", será necessário o número mínimo de 02 (dois) brigadistas.
+A.3 Para ediﬁcações uƟlizadas para reunião de público (Grupo F) mediante locação, onde não
+há população ﬁxa (para dimensionamento da brigada de incêndio) e com população prevista no Processo de
+Segurança Contra Incêndio e Pânico (PSCIP) entre 200 (duzentas) e 1.000 (mil) pessoas (obƟda através do
+cálculo de população previsto nas IT 08, IT 37 ou IT 40), deverá haver a presença de no mínimo 02 (dois)
+brigadistas durante a uƟlização da ediﬁcação, estando sujeito à ﬁscalização do CBMMG.
+A.3.1 Quando a população prevista no PSCIP for superior a 1.000 (mil) pessoas, deverá ser
+previsto 01 (um) brigadista para cada 500 (quinhentas) pessoas.
+A.4 Subestações elétricas e de telefonia remotas, em que não há presença humana
+permanente e há monitoramento remoto das condições do equipamento e da ediﬁcação, estão dispensadas
+de possuir brigada de incêndio, por não possuir população ﬁxa.
+A.5 Na divisão H-3, nos pavimentos onde houver UTIs e centros cirúrgicos, 100% da população
+ﬁxa desse pavimento deve fazer parte da brigada de incêndio, salvo os plantonistas e funcionários
+temporários não considerados como parte ﬁxa da população.
+A.6 Na divisão C-3, quando a área do pavimento for superior a 3.000,0 m² , deverá haver no
+mínimo 01 (um) brigadista proﬁssional por pavimento, que será contado normalmente como parte do
+número de brigadistas exigidos para a ediﬁcação.
+A.7 Na divisão F-1, quando a área (uƟlizada como divisão F-1) for superior a 2.000,0 m²,
+deverá haver no mínimo 01 (um) brigadista proﬁssional por pavimento, que será contado normalmente
+como parte do número de brigadistas exigidos para a ediﬁcação.
+A.8 Na divisão F-6, quando a área (uƟlizada como divisão F-6) for superior a 750,0 m², deverá
+haver no mínimo 01 (um) brigadista proﬁssional por pavimento, que será contado normalmente como parte
+do número de brigadistas exigidos para a ediﬁcação.
+A.9 Os túneis (M-1) deverão possuir brigada de incêndio quando idenƟﬁcado pelo responsável
+técnico que há elevado risco de incêndio, conforme NBR especíﬁca.
+
+--- PÁGINA 12 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_si…
+12/13
+A.10 Nas ediﬁcações mistas, serão adotados parâmetros disƟntos conforme a presença de
+comparƟmentação.
+A.10.1 Não havendo comparƟmentação entre as ocupações, serão considerados os
+parâmetros mais rigorosos da ocupação para toda a ediﬁcação ou espaço desƟnado ao uso coleƟvo.
+A.10.2 Havendo comparƟmentação entre as ocupações, serão considerados os parâmetros de
+cada ocupação. 
+A.10.3 Havendo uso da ediﬁcação com divisões de aƟvidade de um mesmo grupo, calcula-se o
+número de brigadistas separadamente para cada divisão.
+A.11 O brigadista orgânico pode ser subsƟtuído por brigadista proﬁssional.
+A.11.1 Cada brigadista proﬁssional contratado poderá subsƟtuir até 04 (quatro) brigadistas
+orgânicos exigidos para a ediﬁcação, devendo haver no mínimo 01 (um) brigadista (proﬁssional ou orgânico)
+por pavimento.
+A.11.2 O brigadista proﬁssional será contado normalmente para atendimento do número de
+brigadistas em eventos temporários e para ﬁns de aplicação das notas A.6, A.7 e A.8.
+A.12 Eventos Temporários
+A.12.1 Eventos com classiﬁcação de risco mínimo e baixo estão isentos da medida brigada de
+incêndio.
+A.12.2 Eventos com população inferior a 500 (quinhentas) pessoas estão isentos da medida
+brigada de incêndio.
+A.12.3 Todos os locais de evento com previsão de população superior a 1.500 (mil e
+quinhentas) pessoas deverão contar com pessoa devidamente habilitada para operar o Desﬁbrilador Externo
+AutomáƟco (DEA).
+A.12.4 Para todos os eventos em que for exigida a medida brigada de incêndio, deverá haver
+no mínimo 2 (dois) brigadistas.
+A.12.5 Por até 01 (um) ano a parƟr da entrada em vigor desta IT, em caráter transitório, o nível
+de treinamento da brigada de incêndio para atuação em evento temporário poderá se dar, no mínimo, da
+seguinte forma:
+A.12.5.1 Eventos com população a parƟr de 500 (quinhentas) até 40.000 (quarenta mil)
+pessoas: 100% dos brigadistas com nível básico.
+A.12.5.2 Eventos com população acima de 40.000 (quarenta mil) pessoas: 80% da brigada com
+nível básico e 20% da brigada composta por brigadistas proﬁssionais."
+ 
+9. ALTERAR o item C.3 do Anexo C 
+Onde se lê: 
+"C.3 Na ediﬁcação que não possua população ﬁxa deﬁnida, nos termos da Nota A.1.3, deverão
+ser manƟdos no local do evento os documentos previstos no item C.1 para apresentação ao CBMMG em
+caso de ﬁscalização."
+Leia-se:
+"C.3 Na ediﬁcação que não possua população ﬁxa deﬁnida, nos termos da Nota A.3, deverão
+ser manƟdos no local do evento os documentos previstos no item C.1 para apresentação ao CBMMG em
+caso de ﬁscalização."
+
+--- PÁGINA 13 ---
+05/11/2020
+SEI/GOVMG - 19833870 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=23359032&infra_si…
+13/13
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+ 
+ 
+ 
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 09/10/2020, às
+15:24, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 19833870 e o
+código CRC A2FD1DA0.
+Referência: Processo nº 1400.01.0046206/2020-42
+SEI nº 19833870

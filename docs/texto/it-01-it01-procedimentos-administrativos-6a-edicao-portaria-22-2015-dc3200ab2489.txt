@@ -1,0 +1,6588 @@
+--- PÁGINA 1 ---
+SUMÁRIO
+ 
+1 – Objetivo 
+2 – Aplicação 
+3 – Referências normativas e bibliográficas 
+4 – Definições 
+5 – Medidas de segurança contra incêndio e pânico 
+6 – Procedimentos 
+ 
+ANEXOS 
+ 
+J – Modelo de Pedido de Vistoria 
+K – Informativo (medidas de segurança) 
+L – Planta de Risco de Incêndio  
+M – Termo de Compromisso do Proprietário 
+N – Atestado de abrangência do Grupo Moto Gerador 
+O – Memorial de Segurança Contra Incêndio das estruturas 
+P – Declaração de Elaboração de Projeto Estrutural em Conformidade com as Normas Brasileiras e IT - 06 
+Q – Relatório de Vistoria para Procedimento Simplificado 
+R – Declaração do Responsável Técnico pela Execução do Projeto de Segurança Estrutural 
+ 
+IT – 01 
+PROCEDIMENTOS ADMINISTRATIVOS 
+A – Medidas de Segurança Contra Incêndio e Pânico para as edificações e área de risco 
+B – Cartão de identificação do Projeto  
+C – Formulário de Segurança Contra Incêndio e Pânico para PT 
+D – Formulário de Segurança Contra Incêndio e Pânico para PTS  
+E – Planta das Medidas de Segurança Contra Incêndio e Pânico 
+F – Memorial Industrial  
+G –Formulário para Atendimento Técnico 
+H – Atestado de Brigada de Incêndio 
+I – Modelo de Requerimento em grau de recurso
+
+--- PÁGINA 2 ---
+DIRETORIA DE ATIVIDADES TECNICAS 
+ 
+ 
+ 
+ 
+1 OBJETIVO 
+A presente instrução tem como objetivo atender o 
+Regulamento de Segurança Contra Incêndio e 
+Pânico do Estado de Minas Gerais, estabelecendo 
+as medidas de segurança contra incêndio e pânico 
+nas edificações e áreas de risco, critérios e 
+procedimentos para apresentação de processo de 
+segurança contra incêndio e pânico no Corpo de 
+Bombeiros Militar de Minas Gerais (CBMMG).   
+ 
+2 APLICAÇÃO 
+Aplica-se às edificações e áreas de risco do Estado 
+de Minas Gerais, quando da apresentação de 
+processos de segurança contra incêndio e pânico 
+no CBMMG. 
+ 
+3 REFERÊNCIAS BIBLIOGRÁFICAS E 
+NORMATIVAS 
+Para compreensão desta Instrução Técnica é 
+necessário consultar as normas seguintes, levando 
+em consideração todas as suas atualizações e 
+outras que vierem substituí-las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que 
+dispõe sobre a prevenção contra incêndio e pânico 
+no Estado de Minas Gerais. 
+ 
+Lei 17.212 de 12 de dezembro de 2007 – 
+Acrescenta 
+parágrafo 
+ao 
+art. 
+2o 
+da 
+lei 
+14.130/2001. 
+ 
+Regulamento de Segurança Contra Incêndio e 
+Pânico nas edificações e áreas de risco no 
+Estado de Minas Gerais em vigor. 
+ 
+NBR-10647 Desenho técnico. 
+NBR-8196 Emprego de escalas. 
+NBR-13273 Desenho técnico – referência a itens. 
+NBR-14699 Desenho técnico – representação de 
+símbolos aplicados a tolerâncias geométricas – 
+preparos e dimensões. 
+NBR-14611 Desenho técnico – representação 
+simplificada em estruturas metálicas. 
+NBR-10068 Folha de desenho – Leiaute e 
+dimensões. 
+NBR-10067 Princípios gerais de representação em 
+desenho técnico. 
+NBR-6492 
+Representação 
+de 
+projetos 
+de 
+arquitetura. 
+ 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica (IT) 
+aplicam-se, complementarmente, as definições 
+constantes da IT-02 - Terminologia de Segurança 
+Contra Incêndio e Pânico. 
+ 
+5 MEDIDAS DE SEGURANÇA CONTRA 
+INCÊNDIO E PÂNICO 
+ 
+5.1 As exigências de medidas de segurança contra 
+incêndio e pânico previstas no anexo “A” 
+regulamentadas por Instrução Técnica específica, 
+aplicam-se a todas as edificações e áreas de risco 
+existentes ou a construir por ocasião: 
+a) de modificações que comprometam a eficiência 
+das medidas de segurança contra incêndio e 
+pânico; 
+b) da mudança da ocupação ou uso; 
+c) das ampliações de área construída. 
+ 
+5.2 Para utilizar as tabelas da Anexo A devem ser 
+observados os requisitos descritos no art. 5º do 
+Decreto 44.746/08. 
+ 
+5.2.1 As medidas de segurança “Acesso de 
+Viaturas”, 
+“Segurança 
+Estrutural 
+contra 
+Incêndio”, 
+“Compartimentação 
+Horizontal”, 
+“Compartimentação 
+Vertical”, 
+“Chuveiros 
+Automáticos” e “Controle de Fumaça” não se 
+aplicam às edificações construídas até 1 de julho 
+de 2005, exceto quando houver mudança de 
+ocupação ou acréscimo de área superior a 50 %. 
+ 
+6 PROCEDIMENTOS 
+ 
+6.1 Formas de apresentação 
+ 
+As medidas de segurança contra incêndio e pânico 
+nas edificações e áreas de risco devem ser 
+apresentadas ao CBMMG para regularização por 
+meio de: 
+a) projeto técnico; 
+b) procedimento administrativo simplificado; 
+c) projeto técnico para eventos temporários; 
+ 
+I - A composição e forma de apresentação dos 
+PSCIP, bem como os procedimentos relativos a 
+vistoria e emissão de AVCB poderão ser alteradas 
+pelo Diretor de Atividades Técnicas, mediante 
+Circular, visando à implantação dos programas 
+INFOSCIP e PROSCIP no CBMMG. 
+ 
+INSTRUÇÃO TÉCNICA – 01  
+Modificada pelas Portarias 12 (2011), 17 (2014) 
+e 22 (2015)  
+PROCEDIMENTOS ADMINISTRATIVOS
+
+--- PÁGINA 3 ---
+6.1.1 Projeto Técnico 
+ 
+6.1.1.1 Características da edificação e área de 
+risco 
+ 
+O Projeto técnico deve ser utilizado para 
+apresentação das medidas de segurança contra 
+incêndio e pânico das edificações ou áreas de 
+risco: 
+a) com área total acima de 750 m²; 
+b) independente da área da edificação ou área de 
+risco, quando esta apresentar risco no qual 
+necessite de sistemas hidráulicos de combate a 
+incêndio (hidrantes, chuveiros automáticos, CO2, 
+etc. ); 
+c) edificação e/ou área de risco que necessite de 
+proteção de suas estruturas contra a ação do calor 
+proveniente de um incêndio; 
+d) locais de reunião de público com população 
+acima de 100 (cem) pessoas; 
+e) onde haja necessidade de comprovação da 
+situação de separação entre edificações e área de 
+risco, conforme Instrução Técnica específica. 
+ 
+6.1.1.2 Composição 
+ 
+a) cartão de identificação (anexo “B”); 
+b) pasta do projeto; 
+c) formulário de segurança contra incêndio e 
+pânico de projeto técnico (anexo “C”); 
+d) procuração do proprietário, quando este 
+transferir seu poder de signatário; 
+e) Anotação de Responsabilidade Técnica (ART) 
+do responsável técnico pela elaboração do Projeto, 
+que deve ser juntada na via que fica no CBMMG; 
+f) documentos 
+complementares 
+solicitados, 
+quando necessário; 
+g) Memoriais de cálculo de dimensionamento de 
+saídas de emergência, de carga incêndio e de 
+isolamento de risco. 
+h) planta de risco de incêndio, em duas vias 
+(anexo “L”) quando houver a exigência de plano 
+de intervenção (IT-11); 
+i) implantação, indicando as disposições das 
+edificações no terreno; 
+j) planta das medidas de segurança contra 
+incêndio e pânico, conforme (anexo “E”); 
+k) Quadro resumo dos resultados obtidos nos 
+cálculos e informações dos sistemas hidráulicos e 
+outros, especificados nas respectivas Instruções 
+Técnicas, quando for o caso. 
+ 
+6.1.1.2.1 Cartão de identificação 
+ 
+Ficha elaborada em papel cartão ou equivalente, 
+nas dimensões de 21 cm (largura) x 15 cm 
+(comprimento), que contém os dados básicos da 
+edificação e área de risco, com finalidade de 
+controle do Projeto no CBMMG (anexo “B”), 
+devendo ser arquivado em fichário próprio no 
+CBMMG, a partir do primeiro protocolo de 
+entrada do PSCIP.   
+ 
+6.1.1.2.2 Pasta de projeto 
+ 
+Pasta aberta, suspensa, sem elástico, com frente de 
+plástico transparente, com grampo, incolor, semi-
+rígida, que acondiciona todos os documentos do 
+Projeto afixado na seqüência estabelecida no item 
+6.1.1.2. Deve ter dimensões de 230 mm a 280 mm 
+(largura) x 315 mm a 350 mm (comprimento) e 
+altura conforme a quantidade de documentos.  
+ 
+6.1.1.2.3 Formulário de Segurança Contra 
+Incêndio e Pânico de Projeto Técnico 
+Documento que contém os dados básicos da 
+edificação e áreas de risco, signatários, medidas 
+de segurança contra incêndio e pânico previstos, 
+devendo: 
+a) ser apresentado como a primeira folha do 
+Projeto; 
+b) ser preenchido na íntegra, conforme anexo C. 
+ 
+6.1.1.2.4 Procuração do proprietário 
+ 
+Deve ser apresentado com firma reconhecida 
+sempre que terceiro assine documentação do 
+Projeto pelo proprietário. 
+ 
+6.1.1.2.5 
+Anotação 
+de 
+Responsabilidade 
+Técnica (ART) 
+ 
+a) deve ser apresentada pelo responsável técnico 
+que elaborou o Projeto; 
+b) os campos devem ser preenchidos, exceção 
+feita 
+ao 
+campo 
+denominado 
+Descrição 
+complementar que ficará a critério do RT; no 
+campo “descrição das atividades profissionais 
+contratadas” deve estar especificado o serviço 
+pelo qual o profissional se responsabiliza; 
+c) a assinatura do contratante (proprietário ou 
+responsável pelo uso) é obrigatória; 
+d) deve ser apresentada a 1ª via original ou 
+fotocópia autenticada. 
+ 
+6.1.1.2.6 Documentos complementares 
+ 
+Documentos 
+solicitados 
+pelo 
+Serviço 
+de 
+Segurança Contra Incêndio e Pânico do CBMMG 
+a fim de subsidiar a análise do Projeto quando as 
+características da edificação e/ou área de risco a 
+exigirem. 
+ 
+6.1.1.2.6.1 Memorial industrial 
+ 
+Descrição dos processos industriais, matérias - 
+primas, produtos acabados, líquidos inflamáveis 
+ou combustíveis com ponto de fulgor, estoques,
+
+--- PÁGINA 4 ---
+entre outros, quando se tratar de edificação 
+industrial (Anexo “F”).  
+ 
+6.1.1.2.6.2 Memorial de cálculo 
+ 
+Memorial descritivo dos cálculos realizados para 
+dimensionamento dos sistemas hidráulicos de 
+combate 
+a 
+incêndio 
+(hidrantes, 
+chuveiros 
+automáticos, sistema de espuma e resfriamento, 
+etc.), coeficiente de segurança para edificações 
+históricas, dentre outros.  
+ 
+6.1.1.2.6.3 Memorial do sistema fixo de gases 
+para combate a incêndio 
+ 
+Memorial descritivo dos cálculos realizados para 
+dimensionamento do sistema fixo de gases para 
+combate a incêndio. 
+ 
+6.1.1.2.6.4 
+Autorização 
+da 
+Prefeitura 
+do 
+Município para comércio de fogos de artifício 
+e/ou explosivos 
+ 
+Documento do Poder Executivo Municipal que 
+autoriza o comércio de fogos de artifício e/ou 
+explosivos. 
+ 
+6.1.1.2.6.5 Memorial descritivo de ocupação 
+ 
+Memorial descritivo de ocupação quando na 
+edificação forem comercializados outros materiais 
+que não apenas fogos de artifício. 
+ 
+6.1.1.2.6.6 Autorização da Agência Nacional de 
+Aviação Civil (ANAC) 
+ 
+Documento que autoriza o uso de heliporto, 
+heliponto ou área de pouso e decolagem ocasional 
+(APDO) conforme IT- 26.  
+ 
+6.1.1.2.6.7 Memorial de dimensionamento da 
+carga de incêndio 
+ 
+Memorial descritivo da carga de incêndio dos 
+materiais existentes na edificação e área de risco, 
+contendo o dimensionamento, conforme IT-09. 
+ 
+6.1.1.2.6.8 Documento comprobatório 
+ 
+É o documento que comprova a área construída, 
+ocupação e data da edificação existente (Processo 
+do CBMMG, plantas aprovadas em Prefeitura, 
+imposto predial, dentre outros). 
+ 
+6.1.1.2.6.9 
+Memorial 
+de 
+cálculo 
+de 
+dimensionamento de saídas de emergência 
+ 
+Planilha descritiva dos cálculos realizados para 
+dimensionamento de saídas de emergência, 
+conforme Instruções Técnicas específicas. 
+ 
+ 
+6.1.1.2.6.10 Planilha de levantamento de dados 
+ 
+Planilha que descreve o estudo prévio sobre a 
+existência 
+de 
+riscos, 
+elaborado 
+durante 
+a 
+concepção e o desenvolvimento de um processo 
+ou sistema, quando houver exigência de Plano de 
+Intervenção de Incêndio. 
+ 
+6.1.1.2.6.11 Descrição do sistema de detecção 
+ 
+Descrição do sistema de detecção instalado 
+conforme Instrução Técnica específica. 
+ 
+6.1.1.2.6.12 Licença de funcionamento para 
+instalações 
+radioativas, 
+nucleares 
+ou 
+de 
+radiografia industrial, ou qualquer instalação 
+que trabalhe com fontes radioativas. 
+ 
+Documento emitido pelo CNEN autorizando o 
+funcionamento da edificação ou área de risco.  
+ 
+6.1.1.2.6.13 Memorial de Segurança Contra 
+Incêndio das Estruturas 
+ 
+Documento com a descrição das características 
+estruturais da edificação e área de risco, conforme 
+Instrução Técnica 06 (anexo “O”).  
+ 
+6.1.1.2.6.14 
+Memorial 
+de 
+cálculo 
+de 
+pressurização da escada 
+ 
+Memória de cálculo de vazão de ar do sistema de 
+pressurização da escada. 
+ 
+6.1.1.2.6.15 Memorial de cálculo de isolamento 
+de risco 
+Memorial descritivo dos cálculos realizados para 
+o dimensionamento do isolamento de risco entre 
+edificações e área de risco. 
+ 
+6.1.1.2.7 Planta de risco de incêndio 
+ 
+6.1.1.2.7.1 Mapa simplificado no formato A-4, A-
+3, A-2, A-1 ou A-0, podendo ser em mais de uma 
+folha. É obrigatório somente quando houver a 
+exigência de plano de intervenção de incêndio, 
+conforme anexo L, indicando: 
+a) os principais riscos; 
+b) paredes corta-fogo e de compartimentação; 
+c) hidrantes externos; 
+d) número de pavimentos; 
+e) registro de recalque; 
+f) reserva de incêndio; 
+g) armazenamento de produtos perigosos; 
+h) vias de acesso para as viaturas do Corpo de 
+Bombeiros; 
+i) hidrantes urbanos próximos da edificação, (se 
+houver).
+
+--- PÁGINA 5 ---
+6.1.1.2.7.2 A planta de risco deve ser elaborada 
+em 2 (duas vias), sendo que a primeira via 
+permanece no Projeto Técnico, a segunda via deve 
+permanecer na portaria da edificação e área de 
+risco. 
+ 
+6.1.1.2.8 Implantação 
+ 
+Folha única no formato A-4, A-3, A-2 ou A-1 em 
+escala padronizada, obrigatória somente nos 
+seguintes casos: 
+a) quando houver mais de uma edificação e área 
+de risco a ser representada; 
+b)  
+quando houver uma única edificação e 
+área de risco, onde as suas dimensões não possam 
+ser representadas em uma única folha. 
+ 
+ 6.1.1.2.9 Planta das medidas de segurança 
+contra incêndio e pânico 
+ 
+Representação gráfica da edificação e/ou área de 
+risco, contendo informações por meio de legenda 
+padronizada pelo CBMMG conforme IT-03 
+(Símbolos gráficos para projeto de segurança 
+contra incêndio e pânico), da localização dos 
+sistemas e equipamentos de segurança contra 
+incêndio, bem como os riscos existentes na 
+edificação e área de risco, conforme descrito no 
+item 6.1.1.3. 
+6.1.1.2.10 Quadro resumo dos resultados obtidos 
+nos cálculos e informações do sistema. Planilha 
+que apresenta os valores obtidos nos cálculos 
+realizados e demais informações dos sistemas, que 
+deve conter os dados exigidos pelas instruções 
+técnicas específicas.   
+ 
+6.1.1.2.11 Os Memoriais de cálculo que deverão 
+compor 
+o 
+PSCIP 
+serão 
+somente 
+os 
+de 
+dimensionamento de saídas de emergência, carga 
+incêndio e de isolamento de risco. Os demais 
+memoriais de cálculo não deverão ser anexados ao 
+PSCIP, devendo ser apresentados apenas os 
+resultados 
+com 
+os 
+valores 
+exigidos 
+pelas 
+Instruções 
+Técnicas 
+específicas 
+e 
+Normas 
+Técnicas. Os procedimentos de cálculo e seu 
+conteúdo são de responsabilidade exclusiva do 
+Responsável Técnico. 
+ 
+6.1.1.3 Apresentação da planta das medidas de 
+segurança contra incêndio e pânico 
+ 
+Devem-se seguir os seguintes critérios: 
+a) ser elaborada no formato A-4 (210mm x 297 
+mm), A-3 (297mm x 420mm) , A-2 (420mm x 
+594mm) , A-1 (594mm x 840mm) ou A-0 
+(840mm x 1188mm); 
+b) as escalas adotadas devem ser as estabelecidas 
+em normas oficiais; 
+c) adotar escala que permita a visualização dos 
+sistemas e equipamentos de segurança contra 
+incêndio e pânico, preferencialmente 1:50 e no 
+mínimo 1:200; 
+d) quando a planta de uma área construída ou área 
+de risco não couber integralmente em escala 
+reduzida em condições de legibilidade na folha 
+“A-0”, esta poderá ser fracionada, contudo deve 
+adotar 
+numeração 
+que 
+indique 
+onde 
+está 
+localizada tal área na implantação; 
+e) a implantação deve estar em escala; 
+f) adotar os símbolos gráficos conforme IT-03; 
+g) seguir a forma de apresentação gráfica 
+conforme padrão adotado por normas oficiais; 
+h) o quadro de áreas da edificação, constando a 
+área de cada pavimento, deve ser colocado em 
+uma das folhas, além de anotar sob título de cada 
+planta a respectiva área de cada pavimento; 
+i) a planta da fachada, e dos detalhes de proteção 
+estrutural, compartimentação vertical e escadas, 
+devem ser apresentadas em planta de corte; 
+j) quando o Projeto apresentar dificuldade para 
+visualização das medidas de segurança contra 
+incêndio e pânico alocadas em um espaço da 
+planta, devido à grande quantidade de elementos 
+gráficos, deve ser feita linha de chamada em 
+círculo com linha pontilhada com alocação dos 
+símbolos exigidos; 
+k) a apresentação de Projeto Preliminar com a 
+representação 
+do 
+sistema 
+de 
+chuveiros 
+automáticos deve ser feita em planta separada, 
+porém em ordem numérica seqüencial do projeto; 
+ 
+6.1.1.3.1 Conteúdo da planta das medidas de 
+segurança contra incêndio e pânico 
+ 
+I – Detalhes genéricos que devem constar em 
+todas as plantas: 
+ 
+1) localização das medidas de segurança contra 
+incêndio e pânico na planta baixa utilizando os 
+símbolos gráficos, conforme IT-03; 
+ 
+2) legenda de todas as medidas de segurança 
+contra incêndio e pânico utilizada no Projeto; 
+ 
+3) nota em planta com a indicação dos 
+equipamentos móveis ou fixos ou sistemas de 
+segurança constando a capacidade ou dimensão; 
+ 
+4) áreas construídas e áreas de risco com suas 
+características, tais como: 
+a) 
+tanques 
+de 
+combustível 
+(substância 
+e 
+capacidade); 
+b) casa de caldeira ou vasos de pressão; 
+c) dutos e aberturas que possibilitem a propagação 
+do calor; 
+d) cabinas de pintura;
+
+--- PÁGINA 6 ---
+e) locais de armazenamento de recipientes 
+contendo gases inflamáveis (capacidade do 
+recipiente e quantidade armazenada); 
+f) áreas com risco de explosão; 
+g) centrais prediais de gases inflamáveis; 
+h) depósitos de metais pirofóricos (substância e 
+quantidade); 
+i) depósito de produtos perigosos (substância e 
+quantidade); 
+j) depósito de materiais combustíveis em geral; 
+k) outros riscos que necessitem de medidas de 
+segurança contra incêndio e pânico. 
+ 
+5) as plantas das medidas de segurança contra 
+incêndio e pânico devem ser apresentadas com as 
+medidas 
+de 
+segurança 
+na 
+cor 
+vermelha, 
+distinguindo-as dos demais detalhes da planta; 
+ 
+6) o esquema isométrico da tubulação deve ser 
+apresentado de acordo com o inciso II - (detalhes 
+específicos que devem constar em planta); 
+ 
+7) planta de situação da edificação, com escala, 
+indicando, as edificações circunvizinhas e os 
+logradouros que delimitam a quadra; 
+ 
+8) cotas dos desníveis em planta baixa, quando 
+houver; 
+ 
+9) medidas de proteção passiva contra incêndio 
+nas plantas de corte, tais como: dutos de 
+ventilação da escada, distância verga-peitoril, 
+escadas, antecâmaras, detalhes de estruturas e 
+outros quando houver a exigência específica 
+destes detalhes construtivos; 
+10) localização e independência do sistema 
+elétrico em relação à chave geral de energia da 
+edificação e áreas de risco sempre que a medida 
+de 
+segurança 
+contra 
+incêndio 
+tiver 
+seu 
+funcionamento baseado em motores elétricos; 
+ 
+11) miniatura da implantação com hachuramento 
+da área sempre que houver planta fracionada em 
+mais de uma folha, conforme planta chave; 
+ 
+12) quando se tratar de edificações do grupo E, F, 
+L-1 e M-2, devem constar nota em planta com a 
+distância de segurança previstas em normas 
+específicas.  
+ 
+13) os detalhes genéricos constantes do Projeto 
+devem ser apresentados na primeira prancha ou, 
+nos casos em que tais detalhes não caibam nesta, 
+devem constar nas próximas  pranchas, tais como: 
+ 
+a) legenda; 
+b) isométrico; 
+c) quadro resumo das medidas de segurança; 
+d) quadro de localização da edificação e áreas de 
+risco; 
+e) quadro de áreas; 
+f) detalhe de corrimãos e guarda corpo; 
+g) detalhes de degraus; 
+h) detalhes da ventilação efetiva da escada de 
+segurança; 
+i) detalhe do registro de recalque; 
+j) nota sobre o sistema de sinalização adotado; 
+k) detalhe da sucção da bomba de incêndio; 
+l) especificação dos chuveiros automáticos; 
+m) especificação do sistema de detecção e alarme; 
+n) quadro de sistemas de gases e líquidos 
+inflamáveis, combustíveis e outros; 
+o) quadro resumo das medidas de segurança 
+contra incêndio e pânico (anexo k). 
+ 
+  II – Detalhes específicos que devem constar na 
+planta de acordo com o sistema projetado na 
+edificação ou área de risco constante nas 
+respectivas Instruções Técnicas: 
+ 
+1) Acesso de viaturas até a edificação e área de 
+risco: 
+ 
+a) largura do portão de entrada e da via de acesso; 
+b) indicação do peso suportado pela pavimentação 
+da via (Kgf); 
+c) localização da placa de advertência de 
+desobstrução da via de acesso para emergência; 
+d) indicação da altura mínima livre, quando for o 
+caso; 
+e) indicar o retorno para as vias de acesso com 
+mais de 45,00 m de comprimento; 
+f) 
+largura 
+e 
+comprimento 
+da 
+faixa 
+de 
+estacionamento; 
+g) indicação da porcentagem de desnível da faixa 
+de estacionamento; 
+h) nota indicando que a faixa de estacionamento 
+deve ficar livre de postes, painéis, árvores ou 
+outro tipo de obstrução; 
+i) 
+localização 
+da 
+placa 
+de 
+proibição 
+de 
+estacionamento na faixa destinada às viaturas do 
+Corpo de Bombeiros. 
+ 
+2) Separações entre edificações 
+Para 
+as 
+edificações 
+que 
+necessitam 
+de 
+comprovação de cálculo para isolamento de risco: 
+a) indicar a distância de outras edificações; 
+b) indicar a ocupação; 
+c) indicar a carga de incêndio; 
+d) indicar a abertura nas fachadas; 
+e) indicar a fachada da edificação considerada 
+para o cálculo de isolamento de risco; 
+f) parede corta-fogo de isolamento de risco; 
+g) juntar o memorial de cálculo de isolamento de 
+risco.  
+ 
+3) Segurança estrutural nas edificações: 
+ 
+a) memorial de segurança contra incêndio das 
+estruturas, conforme anexo “O”;
+
+--- PÁGINA 7 ---
+b) identificar os tipos de estruturas no formulário 
+de segurança contra incêndio e pânico; 
+c) identificar em planta as áreas das estruturas 
+protegidas com material resistente ao fogo e, se 
+for o caso, os locais isentos de revestimento, 
+conforme Anexo “A” da IT-06. 
+ 
+4) 
+Compartimentação 
+horizontal 
+e 
+compartimentação vertical: 
+a) indicar as áreas compartimentadas e o 
+respectivo quadro de áreas; 
+b) indicar o isolamento proporcionado: 
+- aba horizontal 
+- aba vertical 
+- afastamento de aberturas perpendiculares à 
+parede corta-fogo de compartimentação; 
+c) indicar o tempo de resistência ao fogo dos 
+elementos estruturais indicados; 
+d) indicar os elementos corta-fogo: 
+- parede corta-fogo de compartimentação; 
+- vedador corta-fogo; 
+- selo corta-fogo; 
+- porta corta-fogo.  
+ 
+5) Saídas de emergências nas edificações: 
+a) detalhes de degraus, constando largura do 
+degrau, e altura do espelho; 
+b) detalhes de corrimãos; 
+c) detalhes de guarda-corpos; 
+d) largura das escadas; 
+e) detalhe da ventilação efetiva da escada de 
+segurança (quando houver); 
+f) largura das portas de saída de emergência; 
+g) indicar barra antipânico (quando houver); 
+h) casa de máquinas do elevador de emergência 
+(quando houver exigência); 
+i) antecâmaras de segurança (quando houver 
+exigência); 
+j) indicar a lotação do ambiente quando se tratar 
+de local de reunião de público, individualizando a 
+lotação por ambiente. 
+ 
+6) Pressurização de escadas de segurança: 
+a) sala do grupo moto ventilador; 
+b) localização do ponto de captação e escape do 
+ar; 
+c) detectores de acionamento do sistema; 
+d) localização da central de detecção de incêndio; 
+e) localização da fonte de energia alternativa do 
+sistema; 
+f) as grelhas de insuflamento; 
+g) o caminhamento dos dutos; 
+h) a localização do grupo moto gerador; 
+i) apresentação esquemática do sistema em corte; 
+j) acionadores manuais dos motoventiladores 
+localizados na sala do grupo motoventilador e no 
+local de supervisão predial com permanência 
+humana constante; 
+k) elementos de compartimentação de risco 
+(parede e porta corta-fogo) da sala do grupo 
+motoventilador; 
+l) antecâmara de segurança e indicação da porta 
+estanque quando a sala do grupo motoventilador 
+estiver localizada em pavimento que possa causar 
+risco de captação de fumaça de um incêndio; 
+ 
+7) Carga de incêndio nas edificações e/ou área 
+de risco: 
+a) indicar a carga de incêndio específica para as 
+ocupações não listada na IT-09; 
+b) juntar o memorial de carga de incêndio 
+(quando necessário). 
+ 
+8) Sistema de iluminação de emergência: 
+a) os pontos de iluminação de emergência; 
+b) quando o sistema de iluminação de emergência 
+for alimentado por grupo moto-gerador que não 
+abranja todas as luminárias da edificação, devem 
+ser indicadas as luminárias a serem acionadas em 
+caso de emergência; 
+c) o reservatório de combustível do grupo moto 
+gerador e sua capacidade, bem como as dimensões 
+do dique de contenção; 
+d) o posicionamento da central do sistema; 
+e) fonte alternativa de energia do sistema; 
+f) quando o sistema for abrangido por grupo moto 
+gerador, deve constar em projeto técnico a 
+abrangência, 
+autonomia 
+e 
+sistema 
+de 
+automatização; 
+g) duto de entrada, duto de saída, parede corta-
+fogo e porta corta-fogo da sala do grupo 
+motogerador quando o mesmo estiver localizado 
+em área com risco de captação de fumaça ou gases 
+quentes provenientes de um incêndio; 
+h) detalhe ou nota em planta da proteção dos 
+dutos quando passarem por área de risco. 
+ 
+9) Sistema de alarme e detecção de incêndio: 
+a) localização pontual dos detectores; 
+b) os acionadores manuais de alarme de incêndio; 
+c) os sinalizadores sonoros e visuais; 
+d) central do sistema; 
+e) painel repetidor (quando houver); 
+f) fonte alternativa de energia do sistema; 
+g) descrição do sistema de detecção, conforme 
+Instrução Técnica específica. 
+ 
+10) Sistema de sinalização de emergência: 
+Indicar as posições e detalhes da sinalização de 
+emergência, conforme IT-15. 
+ 
+ 
+11) Sistema de proteção por extintores 
+portáteis ou sobre rodas: 
+ 
+a) indicar as unidades extintoras; 
+b) quando forem usadas unidades de extintores 
+com capacidades diferentes de um mesmo agente,
+
+--- PÁGINA 8 ---
+deve ser indicada à capacidade ao lado de cada 
+símbolo. 
+c) detalhe de instalação do extintor de incêndio. 
+ 
+12) Sistema de hidrantes e mangotinhos para 
+combate a incêndio: 
+ 
+a) indicar os hidrantes ou mangotinhos; 
+b) indicar as botoeiras de acionamento da bomba 
+de incêndio; 
+c) 
+indicar 
+o 
+dispositivo 
+responsável 
+pelo 
+acionamento no barriletes, quando o sistema de 
+acionamento for automatizado, bem como, a 
+localização do acionador manual alternativo da 
+bomba de incêndio em local de supervisão predial, 
+e com permanência humana constante; 
+d) indicar o registro de recalque bem como 
+detalhe que mostre suas condições de instalação; 
+e) indicar o reservatório de incêndio e sua 
+capacidade; 
+f) indicar a bomba de incêndio principal e jockey 
+(quando houver) com indicação de pressão, vazão 
+e potência; 
+g) quando forem usados mangueiras de incêndio e 
+esguichos 
+com 
+comprimentos 
+e 
+requintes 
+diferentes, devem ser indicados às respectivas 
+medidas ao lado do símbolo do hidrante; 
+h) deve constar a perspectiva isométrica completa 
+(sem escala e com cotas); 
+i) deve constar o detalhe da sucção quando o 
+reservatório for subterrâneo ou ao nível do solo; 
+j) quando o sistema de abastecimento de água for 
+através de fonte natural (lagoa, lago, açude, etc.), 
+indicar sua localização; 
+k) quando for utilizado o mesmo reservatório de 
+consumo, indicar as tomadas de água para cada 
+sistema; 
+ 
+13) Sistema de Chuveiros automáticos: 
+ 
+a) localização das bombas do sistema com 
+indicação da pressão, vazão e potência; 
+b) área de aplicação dos chuveiros hachurada, 
+para os respectivos riscos; 
+c) tipos de chuveiros especificados; 
+d) posição dos cabeçotes de testes; 
+e) área de cobertura e localização das válvulas de 
+governo e alarme (VGA) e dos comandos 
+secundários (CS); 
+f) localização do painel de alarme; 
+g) locais onde foram substituídos os chuveiros por 
+detectores de incêndio; 
+h) deve constar o esquema isométrico somente da 
+tubulação envolvida no cálculo; 
+i) toda a tubulação abrangida pelo cálculo deve ter 
+seu diâmetro e comprimento cotado no esquema 
+isométrico; 
+j) devem ser apresentados todas as tubulações de 
+distribuição com respectivos diâmetros; 
+k) devem ser indicados os pontos de chuveiros 
+automáticos em toda a edificação e área de risco; 
+l) localização do registro de recalque; 
+m) quando o sistema de abastecimento de água for 
+através de fonte natural (lago, lagoa, açude, etc.), 
+indicar sua localização; 
+n) 
+indicar 
+o 
+dispositivo 
+responsável 
+pelo 
+acionamento do sistema no barrilete, bem como a 
+localização do acionador manual alternativo da 
+bomba de incêndio em local de supervisão predial 
+com permanência humana constante; 
+o) indicar a capacidade e a localização do 
+reservatório de incêndio; 
+ 
+14) Sistema de resfriamento para líquidos 
+inflamáveis e gases inflamáveis e combustíveis: 
+ 
+a) indicar as instalações, tanques, cilindros ou 
+esferas de GLP; 
+b) indicar qual tanque é considerado o de maior 
+risco para efeito de cálculo; 
+c) indicar os tanques considerados vizinhos ao 
+tanque de maior risco; 
+d) indicar as taxas de vazão para o resfriamento 
+do tanque em chama e tanques vizinhos; 
+e) indicar as áreas dos costados e tetos dos 
+tanques considerados no cálculo hidráulico; 
+f) indicar a vazão e pressão das bombas de 
+incêndio; 
+g) indicar a capacidade e a localização do 
+reservatório de incêndio; 
+h) indicar os canhões monitores, aspersores, 
+bomba de incêndio e registro de recalque; 
+i) apresentar quadro que contenha as seguintes 
+informações:  
+- indicação do tanque;  
+- produto armazenado;  
+- volume;  
+- ponto de fulgor;  
+- diâmetro e altura do tanque. 
+No desenvolvimento dos cálculos hidráulicos 
+deve ser levado em conta o desempenho dos 
+equipamentos, utilizando as referências de vazão, 
+pressão e perda de carga, sendo necessária a 
+apresentação de catálogos técnicos. 
+ 
+15) Sistema de proteção por espuma: 
+ 
+a) 
+indicar 
+os 
+esguichos 
+lançadores 
+ou 
+proporcionadores e canhões monitores; 
+b) indicar os reservatórios do extrato formador de 
+espuma (EFE), indicando volume e forma de 
+armazenagem; 
+c) indicar as câmaras de espuma; 
+d) deve constar o esquema isométrico somente da 
+tubulação envolvida no cálculo; 
+e) indicar as especificações dos equipamentos 
+envolvidos no cálculo; 
+f) definição do maior risco a proteger;
+
+--- PÁGINA 9 ---
+No desenvolvimento dos cálculos hidráulicos 
+deve ser levado em conta o desempenho dos 
+equipamentos, utilizando as referências de vazão, 
+pressão e perda de carga, sendo necessária a 
+apresentação de catálogos técnicos. 
+ 
+16) Sistema fixo de gases limpos e CO2: 
+ 
+a) indicar a botoeira alternativa para acionamento 
+do sistema fixo; 
+b) indicar a botoeira de desativação do sistema de 
+gases; 
+c) indicar a central do sistema de detecção e 
+alarme; 
+d) indicar os detectores de incêndio; 
+e) Indicar a bateria de cilindros de gases; 
+f) indicar as áreas protegidas pelo sistema fixo de 
+gases; 
+g) indicar o tempo de retardo para evacuação do 
+local; 
+h) deve constar o esquema isométrico somente da 
+tubulação envolvida no cálculo; 
+ 
+17) Armazenamento de líquidos inflamáveis e 
+combustíveis: 
+ 
+a) indicar tanques, instalações, cilindros ou 
+esferas 
+considerados 
+de 
+maior 
+risco 
+para 
+elaboração dos cálculos; 
+b) indicar tipo de tanque (elevado, subterrâneo, 
+vertical ou horizontal); 
+c) indicar tipo de superfície do tanque (teto 
+flutuante ou fixo); 
+d) afastamentos entre tanques, edificações, vias 
+públicas, limites de propriedades e dimensões das 
+bacias de contenção; 
+e) o produto químico, sua capacidade armazenada 
+e ponto de fulgor, temperaturas de queima e poder 
+calorífico do produto; 
+f) distribuição dos hidrantes, canhões monitores, 
+aspersores, bomba de incêndio, capacidade e 
+localização da reserva de incêndio, registro de 
+recalque e forma de acionamento do sistema; 
+g) indicar a pressão manométrica medida no topo 
+do tanque para que se possam utilizar as tabelas 
+de afastamentos; 
+ 
+18) Proteção contra incêndio nos locais de 
+manipulação, armazenamento, comercialização 
+e utilização de gás liquefeito de petróleo (GLP): 
+ 
+a) central de GLP 
+- localização da central de GLP; 
+- indicar a capacidade dos cilindros, bem como 
+da capacidade total da central; 
+- afastamentos das divisas de terrenos, áreas 
+edificadas no mesmo lote e local de risco; 
+- local de estacionamento do veículo abastecedor, 
+quando o abastecimento for a granel; 
+- local de instalação da linha líquida e tomada de 
+abastecimento; 
+- medidas de segurança da central. 
+ 
+b) 
+manipulação, 
+armazenamento 
+e 
+comercialização 
+- área de instalação e armazenamento; 
+- corredores de inspeção, quando houver; 
+- quantidade e capacidade dos recipientes; 
+- localização dos recipientes cheios e vazios; 
+- afastamentos das divisas de terrenos, áreas 
+edificadas no mesmo lote e local de risco; 
+- nota em planta constando as distâncias de 
+segurança.   
+ 
+19) Comercialização, distribuição e utilização 
+de gás combustível comprimido (gás natural e 
+distribuição): 
+ 
+a) indicar os compressores, estocagem e unidades 
+de abastecimento de gás; 
+b) indicar as distâncias mínimas de afastamentos 
+previstos na tabela I da NBR 12236, para postos 
+que comercializem gás combustível comprimido; 
+c) indicar o local de estacionamento do veículo 
+abastecedor quando o gás natural for distribuído 
+por este meio de transporte; 
+d) Indicar o caminhamento da tubulação de 
+distribuição do gás natural. 
+ 
+20) Explosivos (fogos de artifício e explosivos 
+em geral): 
+ 
+a) vendas a varejo 
+- planta baixa com a disposição do imóvel e 
+medidas de segurança contra incêndio e pânico; 
+- croqui das edificações limítrofes (ocupação 
+identificada), num raio de 200 metros; 
+- quantidade de carga pirotécnica armazenada; 
+- área de circulação de público; 
+- disposição das prateleiras de estocagem e balcão 
+de vendas. 
+ 
+b) fabricação, comércio de explosivos e fogos de 
+artifício no atacado. 
+- planta baixa com a disposição do imóvel e 
+medidas de segurança contra incêndio e pânico; 
+- distância entre as edificações no imóvel; 
+- 
+atender 
+ao 
+Regulamento 
+de 
+Produtos 
+Controlados do Ministério da Defesa (R – 105); 
+ - no caso de depósitos, detalhe em planta das 
+paredes, lajes de cobertura, telhados, pisos, 
+posicionamento 
+das 
+portas 
+de 
+saída 
+de 
+emergência. 
+ 
+ c) espetáculos pirotécnicos 
+- croqui da área com escala 1:100, formato A3 ou 
+A4, contendo cotas do perímetro, distâncias de 
+rede 
+elétrica, 
+estacionamento, 
+edificações, 
+públicos e outros;
+
+--- PÁGINA 10 ---
+- apresentar o diâmetro dos fogos de artifício e 
+seus principais efeitos sonoros e visuais. 
+ 
+21) Heliponto, heliporto ou área de pouso e 
+decolagem ocasional (APDO): 
+a) sinalização do heliponto conforme previsto na 
+IT- 26  (Heliponto e Heliporto); 
+b) indicar a capacidade de carga do heliponto. 
+ 
+22) Cobertura de sapê, piaçava e similares: 
+a) especificar o tipo de cobertura utilizada; 
+b) afastamentos dos limites do terreno e de postos 
+de 
+abastecimento 
+de 
+combustíveis, 
+gases 
+inflamáveis, fogos de artifício ou seus depósitos; 
+c) localização de fogões, coifas e similares; 
+d) localização da central de GLP (quando 
+houver); 
+e) indicar o sistema de aspersão, quando houver. 
+ 
+23) Hidrantes públicos: 
+a) posicionamento dos hidrantes; 
+b) raio de ação do hidrante; 
+c) vazão dos hidrantes; 
+d) traçado da rede de água que abastece os 
+hidrantes com indicação de seus diâmetros. 
+ 
+24) Túnel rodoviário: 
+a) indicar a interligação dos túneis paralelos 
+(quando for o caso); 
+b) indicar o sistema de exaustão; 
+c) indicar as defensas das laterais do túnel; 
+d) indicar os detalhes de corrimãos; 
+e) indicar as áreas de refúgio, quando houver; 
+f) indicar as rotas de fuga e as saídas de 
+emergência; 
+g) indicar medidas de segurança contra incêndio e 
+pânico adotado; 
+h) indicar o sistema de drenagem de líquidos e 
+bacia de contenção; 
+i) indicar o sistema de comunicação interna;  
+j) indicar o sistema do circuito interno de 
+televisão.  
+ 
+25) Pátio de contêineres: 
+Indicar as áreas de segregação de cargas e 
+respectivas proteções. 
+ 
+26) Subestações elétricas: 
+a) indicar as áreas destinadas aos reatores, 
+transformadores e reguladores de tensão; 
+b) indicar as vias de acesso a veículos de 
+emergência; 
+c) indicar as paredes corta-fogo de isolamento de 
+risco utilizadas no local; 
+d) indicar a bacia de contenção com drenagem do 
+óleo isolante e a caixa separadora de óleo e água; 
+e) detalhamento do sistema de água nebulizada 
+para os casos de subestação compartilhada. 
+ 
+27) Cozinhas profissionais: 
+a) indicar o caminhamento dos dutos de exaustão; 
+b) indicar o sistema fixo de extinção a ser 
+instalado, quando for o caso; 
+c) localização dos elementos de selagem. 
+ 
+28) Sistema de proteção contra descargas 
+atmosféricas: 
+a) plantas baixas e cortes da edificação mostrando 
+o encaminhamento dos condutores e transição 
+entre níveis; 
+b) detalhes de pontos importantes da instalação 
+como 
+conexões 
+e 
+pontos 
+de 
+medição 
+e 
+aterramento; 
+c) memorial descritivo contendo todos os dados 
+técnicos da instalação, tais como: nível de 
+proteção, método aplicado, número de descidas, 
+espaçamento médio das descidas, pontos de 
+equalização de potenciais e aterramento e bitola 
+dos condutores. 
+ 
+29) Segurança contra incêndio em edificações 
+históricas: 
+Memorial descritivo do cálculo do coeficiente de 
+segurança mínimo adotado, conforme IT-35. 
+ 
+6.1.1.4 Apresentação para análise junto ao 
+CBMMG: 
+ 
+a) o Projeto deve ser apresentado em uma via no 
+formato correspondente na seção de protocolo do 
+Serviço de Segurança Contra Incêndio e Pânico 
+do CBMMG; 
+b) após aprovado, o interessado deve  apresentar 
+no mínimo uma e no máximo três cópias do 
+projeto para que o CBMMG rubrique, carimbe e 
+devolva-as ao requerente, observando-se: 
+- nesta ocasião deve ser apresentado também um 
+CD não regravável com capa acrílica, incolor 
+devidamente identificado, contendo o projeto 
+completo (memoriais e plantas), para fins de 
+arquivo no CBMMG; 
+- a fidelidade das cópias e do CD com o projeto 
+original, analisado e aprovado pelo CBMMG é de 
+inteira responsabilidade do RT; 
+- uma das cópias deve permanecer com o 
+proprietário ou responsável pelo uso, o qual deve 
+disponibilizá-la na edificação.  
+c) o interessado deve comparecer ao CBMMG 
+com o comprovante de pagamento da taxa de 
+segurança pública (TSP) respectiva e após a 
+análise, o Corpo de Bombeiros disponibilizará ao 
+interessado a aprovação ou emitirá um relatório, 
+constando as irregularidades e a formulação de 
+outras exigências, se for o caso. 
+ 
+6.1.1.5 Prazos de análise: 
+ 
+a) o Serviço de Segurança Contra Incêndio e 
+Pânico tem o prazo máximo de 15 (quinze) dias 
+úteis para analisar o Projeto;
+
+--- PÁGINA 11 ---
+b) o Projeto deve ser analisado conforme ordem 
+cronológica de entrada.  
+ 
+6.1.2 
+Procedimentos 
+Administrativos 
+Simplificados (PAS) 
+ 
+6.1.2.1 Projeto Técnico Simplificado (PTS) 
+ 
+6.1.2.1.1 Características da edificação e/ou área 
+de risco 
+ 
+Aplica-se às edificações e/ou áreas de risco com 
+área até 750 m² que não se enquadrem nos 
+requisitos para Projeto Técnico, previsto no item 
+6.1.1. 
+ 
+6.1.2.1.2 Composição 
+ 
+a) pasta do Projeto técnico em uma via; 
+b) cartão de identificação (anexo “B”); 
+c) formulário de segurança contra incêndio e 
+pânico para PTS (anexo “D”); 
+d) comprovante de pagamento da Taxa de 
+Segurança Pública.  
+e) procuração do proprietário, quando este 
+transferir seu poder de signatário; 
+f) anotação de responsabilidade técnica (ART) do 
+responsável técnico pela elaboração do Projeto 
+técnico, que deve ser juntada na via que fica no 
+Corpo de Bombeiros; 
+g) documentos 
+complementares 
+solicitados, 
+quando necessário; 
+h) memorial de cálculos de rotas de fuga e outros, 
+especificados em Instruções Técnicas, quando for 
+o caso; 
+i) planta baixa, constando às medidas de 
+segurança contra incêndio e pânico;  
+ 
+6.1.2.1.3 Apresentação para avaliação e vistoria 
+junto ao CBMMG 
+ 
+a) deve ser apresentado em uma via no formato 
+correspondente, na seção de protocolo do Serviço 
+de Segurança Contra Incêndio e Pânico do 
+CBMMG e será encaminhado para a Seção de 
+Vistoria; 
+b) depois de aprovado em vistoria, o RT deve 
+apresentar no mínimo uma e no máximo duas 
+cópias para que o CBMMG rubrique, carimbe e 
+devolva-a ao requerente; nesta ocasião deve ser 
+apresentado também um CD não regravável, nos 
+termos da alínea “b” do item 6.1.1.4 desta IT, 
+contendo o projeto completo, para fins de arquivo 
+no CBMMG; a fidelidade das cópias e do CD com 
+o projeto original, analisado e aprovado pelo 
+CBMMG é de inteira responsabilidade do RT; 
+c) uma das cópias deve permanecer com o 
+proprietário ou responsável pelo uso, o qual deve 
+disponibilizá-la na edificação; 
+d) a TSP gera direito a uma vistoria. 
+e) O PTS não será analisado pelo setor de análise. 
+ 
+6.1.2.1.4 O Conteúdo das plantas das medidas de 
+segurança contra incêndio e pânico deverá atender 
+ao item 6.1.1.3.1 desta IT. 
+ 
+6.1.2.2 Procedimento Simplificado (PS) 
+ 
+6.1.2.2.1 Características da edificação e/ou área 
+de risco  
+Para edificações, com somatório de área até 200 
+m2 (duzentos metros quadrados) na mesma 
+propriedade, dos grupos A, B, C, D e Divisões F-
+8, que não se enquadrem nos requisitos para 
+Projeto Técnico, previsto no item 6.1.1, será 
+dispensada a elaboração de projeto.  
+ 
+6.1.2.2.2 O Certificado para Funcionamento será 
+emitido eletronicamente para as edificações que se 
+enquadrem na situação de PS, podendo ser 
+fiscalizadas a qualquer momento. 
+ 
+6.1.2.2.3 
+Ao 
+proprietário/responsável 
+pela 
+edificação será facultado o comparecimento à 
+Unidade do CBMMG da área de responsabilidade 
+para obter orientações visando a regularização da 
+edificação 
+e emissão do 
+Certificado 
+para 
+Funcionamento.  
+ 
+6.1.2.2.4 Caso seja verificado em vistoria que a 
+edificação de que trata esta subseção se encontra 
+com as medidas de segurança instaladas conforme 
+o Regulamento de Segurança Contra Incêndio e 
+Pânico, deverá ser emitido o Relatório de Vistoria 
+constando sua regularidade. 
+ 
+6.1.2.2.5 Quando verificado em fiscalização que a 
+edificação que se enquadra nesta subseção 
+apresenta irregularidade, deverá ser preenchido o 
+Relatório de Vistoria, advertindo conforme 
+Regulamento de Segurança contra Incêndio e 
+Pânico, bem como alertando quanto ao prazo para 
+regularização e à possibilidade de aplicação das 
+demais sanções administrativas.  
+ 
+6.1.2.2.5.1 No momento da vistoria o vistoriador 
+deverá orientar o proprietário/responsável quanto 
+às medidas a serem adotadas para a regularização 
+da edificação. 
+ 
+6.1.2.2.6 Caso a edificação possua instalação de 
+central de GLP ou outro risco especial deverá ser 
+apresentada a ART específica.
+
+--- PÁGINA 12 ---
+6.1.2.7 As edificações definidas no item 6.1.2 não 
+podem ser apresentadas, para fins de regularização 
+no CBMMG, por meio de Projeto Técnico ou 
+Projeto Técnico para Eventos Temporários. 
+  
+6.1.2.8 As edificações enquadradas no item 
+6.1.2.2.1 não poderão ter suas medidas de 
+segurança apresentadas sob a forma de Projeto 
+Técnico Simplificado ou Projeto Técnico.  
+ 
+6.1.3 
+Projeto 
+Técnico 
+para 
+Eventos 
+Temporários (PET) 
+ 
+6.1.3.1 Características da instalação 
+É o procedimento adotado para evento temporário 
+em 
+edificação 
+permanente 
+e 
+construções 
+provisórias, tais como: circos, parques de 
+diversão, 
+feiras 
+de 
+exposições, 
+feiras 
+agropecuárias, rodeios, shows artísticos entre 
+outros.  
+ 
+6.1.3.1.1 A edificação e área de risco permanente 
+devem atender todas as exigências de segurança 
+contra incêndio e pânico previstas no Decreto 
+Estadual ou legislação a que foi submetido o 
+projeto para aprovação, juntamente com as 
+exigências para a atividade temporária que se 
+pretende nela desenvolver; 
+ 
+6.1.3.1.2 Se for acrescida construção provisória 
+em área externa junto à edificação permanente, 
+esta instalação pode ser regularizada para fins de 
+Evento Temporário. 
+ 
+6.1.3.1.3 Se no interior da edificação permanente 
+for acrescida instalação temporária tais como 
+boxe, estande, entre outros, prevalece a proteção 
+da edificação permanente desde que atenda aos 
+requisitos para a atividade em questão. 
+ 
+6.1.3.1.4 O responsável técnico pelo PSCIP 
+deverá informar a área exata utilizada para o 
+evento, onde haverá presença de pessoas, para fins 
+de cobrança de TSP. 
+ 
+ 6.1.3.2 Composição 
+ 
+a) cartão de Identificação, (anexo “B”); 
+b) pasta do Projeto; 
+c) formulário de segurança contra incêndio e 
+pânico (anexo “C”) 
+d) procuração do proprietário, quando este 
+transferir seu poder de signatário; 
+e) Anotação de Responsabilidade Técnica (ART) 
+do responsável técnico pela elaboração do Projeto, 
+que deve ser juntada na via que fica no CBMMG; 
+f) ART do responsável técnico sobre: 
+- lona de cobertura com material retardante de 
+ignição (quando houver); 
+ - arquibancadas e arenas desmontáveis; 
+- brinquedos de parques de diversão; 
+- palcos; 
+- armações de circos; 
+- instalações elétricas; 
+-outras montagens mecânicas ou eletroeletrônicas; 
+- grupo moto-gerador; 
+g) implantação, se for o caso, indicando as 
+disposições das edificações ou instalações no 
+terreno; 
+h) 
+documentos 
+complementares 
+solicitados, 
+quando necessário; 
+i) planta das medidas de segurança contra 
+incêndio e pânico, contendo: 
+- toda área, com cotas de todos os perímetros, 
+áreas e larguras das saídas de emergência; 
+- lotação da edificação e área de risco; 
+- indicação de todas as dependências, áreas de 
+riscos, arquibancadas, arenas e outras áreas 
+destinadas à permanência de público, instalações, 
+equipamentos, 
+brinquedos 
+de 
+parques 
+de 
+diversões, palcos, centrais de gases inflamáveis, 
+enfim, tudo o que for fisicamente instalado, 
+sempre com a cota da respectiva área; 
+- para espetáculos pirotécnicos, croqui da área 
+contendo cotas do perímetro, distâncias de rede 
+elétrica, estacionamento, edificações, públicos, 
+diâmetro dos fogos de artifício e seus principais 
+efeitos sonoros e visuais; 
+- 
+os 
+símbolos 
+gráficos 
+dos 
+sistemas 
+e 
+equipamentos de segurança contra incêndio 
+conforme IT-03 (Símbolos gráficos para processo 
+de segurança contra incêndio); e. 
+- a apresentação em formato até A-0, assinado 
+pelo proprietário e responsável técnico. 
+j) nota em planta constando, quando necessário: 
+- equipe médica e ambulância; 
+- número de brigadistas conforme IT-33. 
+ 
+6.1.3.3 Apresentação para avaliação junto ao 
+CBMMG 
+ 
+a) o Projeto Técnico para Evento Temporário 
+deve ser apresentado, em uma via para análise; 
+b) aprovado o PET, o RT deve apresentar no 
+mínimo uma e no máximo duas cópias para que o 
+CBMMG rubrique, carimbe e devolva-a ao 
+requerente; 
+c) uma das cópias deve permanecer com o 
+proprietário; 
+d) depois de instaladas todas as medidas de 
+segurança, deve ser solicitada pelo RT do 
+processo ou pelo responsável pelo evento a 
+respectiva vistoria e emitido o respectivo AVCB, 
+caso não haja irregularidades; 
+e) o AVCB terá validade somente para o período e 
+endereço previstos para o evento no PET; 
+f) nos casos de eventos com previsão de utilização 
+do mesmo endereço, com períodos de realização 
+distintos, o PET será apresentado no setor do 
+SSCIP quando da sua primeira realização para
+
+--- PÁGINA 13 ---
+análise, devendo indicar os demais horários e 
+períodos de realização do evento; 
+g) no caso descrito acima, após aprovação em 
+vistoria, será emitido AVCB para o período do 
+evento, com validade máxima de 06 meses. 
+Encerrada a validade do AVCB e havendo 
+previsão de continuidade ou nova realização do 
+evento, o responsável pelo evento, deverá 
+apresentar novo PET, informando o novo período 
+de realização; 
+h) para as construções provisórias em que haja 
+desmontagem e montagem das estruturas e 
+equipamentos objetos de ART, o responsável pelo 
+evento deverá providenciar e manter durante o 
+evento a ART específica para cada montagem; 
+i) devido à peculiaridade do tipo de instalação ou 
+ocupação, o Serviço de Segurança Contra 
+Incêndio e Pânico deve declinar do princípio da 
+cronologia e realizar a análise no menor prazo 
+possível desde que o projeto atenda aos requisitos 
+da IT-33. 
+j) os eventos dispensados de PET pelo SSCIP 
+deverão adotar os procedimentos definidos pela 
+Diretoria de Atividades Técnicas. 
+ 
+6.1.3.4 O conteúdo das plantas das medidas de 
+segurança contra incêndio e pânico deverão 
+atender ao item 6.1.1.3.1 desta IT. 
+ 
+6.1.4 Generalidades 
+ 
+Para a apresentação de projeto devem ser 
+observadas as seguintes disposições gerais: 
+a) cada medida de segurança contra incêndio e 
+pânico deve ser dimensionada conforme o critério 
+existente em uma única norma; 
+b) é permitido o uso de norma estrangeira, quando 
+o sistema de segurança estabelecido oferecer 
+melhor nível de segurança ou na ausência de 
+norma brasileira; 
+c) se o responsável técnico fizer uso de norma 
+estrangeira, deve apresentá-la, obrigatoriamente, 
+anexada ao Projeto no ato de sua entrega para 
+análise; 
+d) a norma estrangeira deve ser apresentada 
+sempre em seu texto total e traduzida para a 
+língua 
+portuguesa, 
+através 
+de 
+tradutor 
+juramentado; 
+e) é vedado o uso de mais de um texto normativo 
+para uma mesma medida de segurança contra 
+incêndio e pânico; 
+f) devem ser adotados os modelos de documentos 
+exemplificados nas Instruções Técnicas para 
+apresentação nos PSCIP, dispensando símbolos e 
+brasões neles contidos, não sendo permitida a sua 
+substituição por qualquer outro tipo.   
+g) em caso de substituição do PSCIP ou situação 
+diversa onde não seja possível atuar o mesmo 
+responsável técnico pelo processo originalmente 
+apresentado, deve ser observada a legislação 
+referente 
+a 
+contratos 
+ou 
+outra 
+legislação 
+pertinente. Deverão ser observados ainda os 
+critérios a serem estabelecidos pela Diretoria de 
+Atividades Técnicas em virtude da implantação 
+dos programas informatizados do CBMMG; 
+h) todas as páginas dos documentos onde não haja 
+campo para assinatura devem ser rubricadas pelo 
+responsável técnico; 
+i) quando for emitido relatório de irregularidades 
+constatadas na análise do Projeto pelo Serviço de 
+Segurança 
+Contra 
+Incêndio 
+e 
+Pânico, 
+o 
+interessado 
+deve 
+encaminhar 
+resposta 
+circunstanciada 
+sobre 
+os 
+itens 
+emitidos, 
+esclarecendo as providências adotadas, para que o 
+Projeto possa ser reanalisado até a sua aprovação 
+final; as plantas analisadas anteriormente devem 
+ser encaminhadas junto ao PSCIP corrigido para 
+fins de conferência; 
+j) quando houver a discordância do interessado 
+em relação à notificação emitida durante a análise, 
+o interessado poderá apresentar por meio de 
+Formulário de Atendimento Técnico (FAT) 
+pedido de reconsideração de ato, devidamente 
+fundamentado, ao analista, o qual poderá 
+reconsiderar sua decisão nos cinco dias úteis 
+subseqüentes; 
+k) do indeferimento do pedido de reconsideração 
+de ato, o interessado poderá solicitar recurso em 
+primeiro e segundo grau nos termos do item 6.9 
+desta IT; 
+l) o Serviço de Segurança Contra Incêndio e 
+Pânico 
+deve 
+orientar 
+o 
+interessado 
+para 
+cumprimento das disposições do Regulamento de 
+Segurança Contra Incêndio e Pânico do Estado de 
+Minas Gerais; 
+m) nos casos de extravio de protocolo de análise, 
+o responsável técnico, proprietário ou responsável 
+pelo uso, deve encaminhar FAT ao Serviço de 
+Segurança Contra Incêndio e Pânico, esclarecendo 
+o fato ocorrido; 
+n) o projeto de edificações existentes aprovados, 
+com base em legislação municipal, poderá ser 
+substituído totalmente com base nas exigências da 
+tabela “A” desta IT, desde que a edificação ou 
+área 
+de 
+risco 
+não 
+contrarie 
+os 
+critérios 
+estabelecidos no item 5.2 desta IT, mantenha 
+mesmo uso/ocupação da tabela “1” do Dec. 
+44.746/2008 – Regulamento de Segurança Contra 
+Incêndio e Pânico do Estado de Minas Gerais   e 
+atenda aos seguintes requisitos: 
+- o projeto deve atender aos parâmetros 
+estabelecidos no Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas 
+de risco no Estado de Minas Gerais e nas 
+Instruções Técnicas; 
+- os sistemas hidráulicos de combate a incêndio 
+(hidrantes, chuveiros automáticos, CO2, etc.) 
+aprovados, instalados e liberados em vistoria final 
+não poderão ser retirados.
+
+--- PÁGINA 14 ---
+o) para fins de apresentação de projeto no 
+CBMMG, 
+as 
+edificações 
+construídas 
+com 
+ocupações diversas que possuam mais de um 
+condômino ou condomínios, poderão: 
+-apresentar projeto arquitetônico sem o arranjo 
+físico interno (leiaute) contendo as medidas de 
+segurança contra incêndio e pânico que atenda a 
+toda a área da edificação, devendo ser considerado 
+pelo Responsável Técnico o caminhamento real 
+disposto no arranjo físico interno existente, o qual 
+será objeto de verificação durante a vistoria; 
+- para as ocupações do Grupo F deve ser 
+apresentado o arranjo interno (leiaute). 
+p) os PSCIP notificados e arquivados no SSCIP 
+por tempo superior a cinco anos que não forem 
+procurados pelo RT, proprietário ou responsável 
+pelo uso serão anulados e destruídos.  
+q) para as edificações mistas de até dois 
+pavimentos com acessos independentes, sem área 
+comum, nas áreas residenciais localizadas no 
+pavimento térreo ou segundo pavimento, não 
+serão exigidas medidas de segurança contra 
+incêndio e pânico, observando – se as seguintes 
+condições: 
+- a ocupação diferente da residencial deverá estar 
+localizada no pavimento térreo; 
+- os projetos deverão conter as plantas com as 
+respectivas residências; 
+- para fins de análise e vistoria a área residencial 
+deve ser excluída para cobrança da TSP; 
+- para definição das medidas de segurança contra 
+incêndio e pânico estabelecidas nas tabelas do 
+anexo A desta instrução técnica, a área residencial 
+deve ser computada.      
+ 
+6.1.5 Modificação do PSCIP 
+ 
+6.1.5.1 Todos os projetos aprovados, inclusive 
+aqueles que não possuem cópia digital das plantas 
+arquivada no CBMMG, após a substituição do 
+PSCIP, total ou parcial, deverão ser entregues em 
+formato digital, conforme orientação da Diretoria 
+de Atividades Técnicas, mediante Circular. 
+6.1.5.2 Para os casos de modificação de PSCIP 
+deverá ser feito pagamento da taxa de segurança 
+pública respectiva (TSP), conforme previsto no 
+Regulamento de Taxas Estaduais; 
+ 
+6.1.5.3 Substituição parcial do Projeto: 
+ 
+a) ocorre quando há modificação de projeto 
+aprovado 
+decorrente 
+de 
+substituição 
+de 
+documentos complementares ou de alteração que 
+implique substituição de parte das plantas; 
+b) o número do PSCIP com substituição parcial 
+deverá continuar o mesmo. As plantas e demais 
+documentos substitutos, após aprovados, devem 
+ser incluídos no PSCIP em ordem cronológica. Os 
+documentos substituídos devem conter em local 
+visível e em destaque a informação de que foram 
+substituídos com a devida data e assinatura do 
+analista.  
+c) a prancha substituta deverá contemplar a área 
+total projetada na prancha substituída, de forma a 
+evitar seu fracionamento.  
+ 
+6.1.5.4 Substituição total do Projeto: 
+ 
+a) ocorre quando há modificação do projeto 
+aprovado resultando em alterações em todas as 
+plantas. 
+b) o PSCIP substituto deverá receber novo 
+número para controle. 
+c) o PSCIP substituído deverá ser mantido apenso 
+ao processo novo ao término da pasta; 
+d) o PSCIP novo (substituto) deverá ter a 
+composição completa prevista pela presente 
+Instrução Técnica, refazendo-se inclusive todos os 
+documentos complementares. 
+ 
+6.1.5.5 Atualização do Projeto 
+ 
+a) É a alteração de dados cadastrais relativos ao 
+projeto 
+aprovado, 
+tais 
+como 
+endereço, 
+proprietário, responsável pelo uso, responsável 
+técnico, e outros que não necessitem de análise; 
+b) A verificação e aprovação da atualização 
+poderão ser feitas pelo recepcionista do SSCIP 
+após conferência dos documentos comprobatórios 
+e mediante pagamento de TSP mínima referente 
+ao serviço de análise; 
+c) a aprovação da atualização dará direito à 
+emissão do AVCB com a mesma data de 
+vencimento do AVCB anterior; 
+d) Todos os documentos entregues devem 
+permanecer apensos ao processo em ordem 
+cronológica. 
+ 
+6.2 Procedimentos de vistoria 
+ 
+6.2.1 Disposições gerais 
+ 
+6.2.1.1 O interessado deverá solicitar à Unidade 
+do CBMMG com atribuição no município onde se 
+localiza a edificação, a vistoria para fins de 
+emissão de AVCB, após o pagamento da TSP 
+referente ao serviço de vistoria; 
+ 
+6.2.1.2 Para Projeto Técnico (PT), Projeto 
+Técnico Simplificado (PTS) e Procedimento 
+Simplificado (PS), o pagamento da TSP de 
+vistoria gera direito à realização de uma vistoria. 
+Caso sejam constatadas irregularidades pelo 
+vistoriador, deve ser paga a TSP equivalente à 
+área a ser vistoriada;  
+ 
+6.2.1.3 O prazo máximo para realização de 
+vistoria pelo Serviço de Segurança Contra 
+Incêndio é de 10 (dez) dias úteis.
+
+--- PÁGINA 15 ---
+6.2.1.4 Quando 
+o 
+retorno 
+de 
+vistoria 
+for 
+provocado pelo Serviço de Segurança Contra 
+Incêndio e Pânico, não deve ser recolhida nova 
+TSP. 
+ 
+6.2.1.5 O proprietário e/ou responsável pelo uso 
+da edificação ou área de risco é responsável pela 
+manutenção e funcionamento das medidas de 
+segurança contra incêndio e pânico, sob pena de 
+cassação do AVCB. 
+ 
+6.2.2 Solicitação de vistoria 
+ 
+6.2.2.1 A vistoria do CBMMG na edificação é 
+realizada mediante solicitação do proprietário, 
+responsável pelo uso ou responsável técnico com 
+a apresentação dos documentos constantes do item 
+6.4. 
+ 
+6.2.2.2 Qualquer pessoa munida dos documentos 
+pré-estabelecidos no item anterior pode protocolar 
+a solicitação de vistoria da edificação e área de 
+risco. 
+ 
+6.2.2.3 O interessado solicitará o pedido de 
+vistoria na seção de protocolo do Serviço de 
+Segurança Contra Incêndio e Pânico do CBMMG. 
+ 
+6.2.2.4 Caso o interessado não saiba informar o 
+número do Projeto, o Serviço de Segurança 
+Contra Incêndio e Pânico deve realizar a pesquisa 
+pelo endereço. 
+ 
+6.2.2.5 Podem ser apresentadas cópias dos 
+documentos especificados no item 6.4, desde que 
+devidamente 
+autenticados. 
+Caso 
+sejam 
+apresentados 
+os 
+documentos 
+originais 
+a 
+autenticação poderá ser feita pelo Bombeiro 
+Militar do SSCIP da Unidade. 
+  
+6.2.2.6 Deve ser recolhida a taxa de segurança 
+pública (TSP) de acordo com a área especificada 
+no Projeto a ser vistoriada. 
+ 
+6.2.2.7 É permitida a vistoria para áreas 
+parcialmente construídas, que atendam aos 
+critérios de risco isolado previstos na IT- 05 
+(Separação entre edificações).  
+ 
+6.2.2.8 Quando um Projeto englobar várias 
+edificações que atendam aos critérios de risco 
+isolado e que possuam medidas de segurança 
+contra 
+incêndio 
+e 
+pânico 
+instaladas 
+e 
+independentes, será permitida a vistoria para áreas 
+parciais desde que haja condição de acesso às 
+viaturas do Corpo de Bombeiros e respectivas 
+guarnições. 
+ 
+6.2.2.8.1 Nos projetos de que trata esta subseção, 
+quando 
+as 
+edificações 
+estiverem 
+sob 
+administração única, será admitida a instalação de 
+sistemas de proteção contra incêndio e pânico 
+interligados, desde que atendam às exigências 
+normativas e tenham a eficiência de todo o 
+sistema atestada pelo o Responsável Técnico. 
+ 
+6.2.2.9 Para a solicitação de vistoria de área 
+parcialmente construída, deve ser encaminhado ao 
+Serviço de Segurança Contra Incêndio e Pânico o 
+FAT, especificando a área a ser vistoriada.  
+ 
+6.2.2.10 Quando houver mais de uma edificação 
+na propriedade não contemplada na vistoria 
+parcial e que atenda aos critérios de risco isolado, 
+conforme item 6.2.2.8, as quais estejam sem a 
+emissão do AVCB, o proprietário será notificado 
+nos termos do item 6.3. 
+ 
+6.2.2.11 O pagamento da TSP para área 
+parcialmente construída, será correspondente a 
+área solicitada, observando o valor mínimo 
+previsto no Regulamento de Taxas Estaduais. 
+ 
+6.2.2.12 Deve ser observado pelo Serviço de 
+Segurança Contra Incêndio e Pânico a ordem 
+cronológica do número seqüencial de entrada para 
+a realização da vistoria, podendo esta ordem ser 
+alterada em caso de necessidade ou dificuldade de 
+agendamento. 
+ 
+6.2.2.13 Devido à peculiaridade do tipo de 
+instalação ou ocupação, o Serviço de Segurança 
+Contra Incêndio e pânico deve declinar do 
+princípio da cronologia, sempre que possível, e 
+realizar a vistoria do Projeto Técnico para Eventos 
+Temporários no menor prazo possível, desde que 
+o projeto atenda os requisitos da IT-33 (Evento 
+Temporário). 
+ 
+6.2.2.14 Após o pagamento da respectiva TSP, o 
+CBMMG deve fornecer um protocolo de 
+acompanhamento da vistoria que contenha um 
+número seqüencial de entrada. 
+ 
+6.2.2.15 O pedido de vistoria poderá ser cancelado 
+pelo proprietário ou responsável pelo uso, 
+mediante solicitação com a justificativa, podendo 
+solicitar a restituição da taxa de segurança pública 
+paga pelo serviço.  
+ 
+6.2.2.16 Poderá ser realizada vistoria parcial com 
+emissão do respectivo AVCB parcial nas 
+edificações em construção, desde que a área em 
+obras não esteja ocupada e não caracterize risco 
+de incêndio, bem como não interfira nas rotas de 
+fuga. Neste caso, será admitida a proteção 
+proporcional à área a ser vistoriada. 
+ 
+6.2.3 Durante a vistoria
+
+--- PÁGINA 16 ---
+6.2.3.1 O responsável pela edificação a ser 
+vistoriada deve prover de pessoa habilitada com 
+conhecimento do funcionamento das medidas de 
+segurança contra incêndio e pânico para que possa 
+manuseá-las, quando da realização da vistoria. 
+ 
+6.2.3.2 Se durante a realização de vistoria forem 
+constatadas alterações na edificação que necessite 
+de modificação do projeto, deve ser observado o 
+prescrito em 6.1.5. 
+ 
+6.2.3.3 Nos casos de Projeto regidos por 
+legislação  anterior ao Regulamento de Segurança 
+Contra Incêndio e Pânico, quando constatado em 
+vistoria a existência de medidas de segurança 
+contra incêndio e pânico instaladas na edificação 
+que não estejam previstas no Projeto original e 
+que seja possível avaliar no local, que atendam às 
+exigências de segurança vigente à época, deve ser 
+emitido o AVCB mediante a apresentação de 
+termo de compromisso do proprietário, conforme 
+anexo M, para apresentação de modificações do 
+projeto de acordo com as exigências previstas na 
+legislação à época da aprovação. O não 
+cumprimento deste termo ensejará a não emissão 
+de novo AVCB, após três ou cinco anos, 
+conforme o caso.  
+   
+6.2.3.4 No caso do item 6.2.3.3, quando 
+constatado em vistoria que as medidas de 
+segurança contra incêndio e pânico instalado 
+conforme o Projeto, não atendem as exigências de 
+segurança vigentes à época, deve ser emitido o 
+relatório de vistoria ao interessado notificando as 
+irregularidades. Neste caso não será emitido o 
+AVCB até o atendimento dos itens pendentes. 
+ 
+6.2.3.5 
+Quando 
+constatado 
+em 
+vistoria 
+irregularidades passíveis de anulação ou cassação 
+da aprovação do projeto ou AVCB o vistoriador 
+deve encaminhar o relatório de vistoria junto ao 
+Projeto para o Serviço de Segurança Contra 
+Incêndio e Pânico, para verificação. 
+ 
+6.2.3.6 Cópia do relatório de vistoria contendo 
+aprovação ou as irregularidades constatadas deve 
+ser deixado pelo vistoriador na edificação e áreas 
+de risco com o acompanhante indicado no item 
+6.2.3.1, mediante recibo. 
+ 
+6.2.3.7 Quando ocorrer a necessidade de nova 
+vistoria na edificação ou área de risco devido às 
+irregularidades constatadas em vistoria anterior, o 
+interessado deve apresentar na seção de protocolo 
+o último relatório de vistoria (original ou cópia) 
+emitida pelo vistoriador. 
+ 
+ 6.2.3.8 Quando houver a discordância do 
+interessado em relação ao relatório emitido 
+durante vistoria, este poderá apresentar, por meio 
+de FAT, pedido de reconsideração de ato 
+devidamente fundamentado, ao vistoriador, o qual 
+poderá reconsiderar sua decisão nos cinco dias 
+úteis subseqüentes. 
+ 
+6.2.3.9 Indeferido o pedido de reconsideração de 
+ato, o interessado poderá solicitar recurso em 
+primeiro e segundo grau nos termos do item 6.9 
+desta IT. 
+ 
+6.2.3.10 As medidas de segurança contra incêndio 
+e pânico instaladas na edificação, e não previstas 
+no Projeto, podem ser aceitas como medidas 
+adicionais de segurança, desde que não interfiram 
+na cobertura das medidas originalmente previstas 
+no Projeto e estejam em perfeito funcionamento. 
+Estas medidas deverão, na medida do possível 
+seguir os parâmetros previstos em normas, porém, 
+se não for possível avaliar no local da vistoria a 
+interferência da medida de segurança adicional, o 
+interessado deve esclarecer posteriormente por 
+meio de FAT a proteção adotada para avaliação 
+no Serviço de Segurança Contra Incêndio e 
+Pânico. 
+ 
+6.2.3.11 O vistoriador tem discricionariedade 
+para, segundo critérios de conveniência e 
+oportunidade, liberar pequenas variações entre o 
+processo e a execução, desde que estas variações 
+não ensejam motivos para modificação, devendo 
+constar no relatório de vistoria as pequenas 
+variações para homologação junto ao chefe da 
+vistoria. No caso de homologação, o relatório de 
+vistoria com os itens verificados constando a 
+autorização assinada pelo chefe da vistoria deverá 
+ser juntado ao processo.  
+ 
+6.2.4 Emissão do Auto de Vistoria do CBMMG 
+ 
+6.2.4.1 Após 
+a 
+realização 
+da 
+vistoria 
+na 
+edificação e área de risco e aprovação pelo 
+vistoriador, deve ser emitido pelo Serviço de 
+Segurança Contra Incêndio e Pânico, o respectivo 
+AVCB. 
+6.2.4.1.1 
+Para 
+fins 
+de 
+padronização 
+dos 
+procedimentos adotados no CBMMG em relação 
+aos demais órgãos licenciadores do Estado para 
+abertura de empresas, as edificações/ocupações 
+serão classificadas em: 
+a) brancas: Empresas de prestação de serviço que 
+exercem suas atividades conjugadas a edificações 
+e endereços residenciais unifamiliares que não 
+caracterizem ocupação mista. Tratam-se daquelas 
+empresas que não necessitam de Projeto ou 
+Procedimento Simplificado. 
+b) verdes: Empresas localizadas em edificações 
+que se enquadrem no item 6.1.2.2 (Procedimento 
+Simplificado - PS).
+
+--- PÁGINA 17 ---
+c) amarelas: Empresas localizadas em edificações 
+que se enquadrem no item 6.1.2.1 (Projeto 
+Técnico Simplificado - PTS). 
+d) 
+vermelhas: 
+Empresas 
+localizadas 
+em 
+edificações que se enquadrem no item 6.1.1 
+(Projeto Técnico – PT). 
+ 
+6.2.4.2 O responsável técnico que deve ter seu 
+nome incluso no AVCB, será o profissional que se 
+responsabilizou pela emissão da ART de execução 
+da instalação das medidas de segurança contra 
+incêndio e pânico, quando for o caso. Para os 
+casos em que  é dispensada a apresentação de 
+ART de instalação ou manutenção, não será 
+incluído o nome de RT no AVCB. 
+ 
+6.2.4.3 Quando houver mais de um responsável 
+técnico pelas medidas de segurança contra 
+incêndio e pânico existentes na edificação e área 
+de risco, apenas é incluído no AVCB o nome de 
+um profissional, obedecida a ordem alfabética, 
+seguido do termo “e outros”. 
+ 
+6.2.4.4 A retirada do AVCB no protocolo do 
+Serviço de Segurança Contra Incêndio e Pânico só 
+é permitida com a apresentação do respectivo 
+protocolo de vistoria. 
+ 
+6.2.4.5 Nos casos de extravio do protocolo da 
+vistoria, o responsável técnico, proprietário ou 
+responsável pelo uso deve encaminhar FAT ao 
+Serviço de Segurança Contra Incêndio e Pânico, 
+esclarecendo o fato ocorrido. 
+ 
+6.2.4.6 Nos casos de extravio da primeira via do 
+AVCB, deve o proprietário ou responsável pelo 
+uso encaminhar FAT ao CBMMG, esclarecendo o 
+motivo do pedido, onde o respectivo Serviço de 
+Segurança Contra Incêndio e Pânico emitirá novo 
+AVCB com o mesmo prazo de validade mediante 
+pagamento de TSP.  
+ 
+6.2.4.7 O AVCB somente pode ser emitido para 
+edificação e área de risco que tenha todas as 
+medidas de segurança contra incêndio e pânico 
+instaladas e em funcionamento, de acordo com o 
+Projeto aprovado. 
+ 
+6.2.4.8 O AVCB emitido para edificação 
+conforme iten 6.2.2.8 poderá ser renovado, não 
+eximindo as demais edificações das ações de 
+fiscalização.  
+ 
+6.2.4.9 Após emissão do AVCB para a edificação 
+e áreas de risco o responsável pelo uso e/ou 
+proprietário deve manter o AVCB original ou 
+cópia na entrada da edificação e áreas de risco em 
+local visível ao público. 
+ 
+6.2.4.10 Havendo mais de uma edificação e/ou 
+área de risco contempladas por um único PSCIP, 
+o SSCIP poderá emitir AVCB específico para 
+cada edificação e /ou área de risco, respeitando-se 
+o previsto nos itens 6.2.2.7 e 6.2.2.8. 
+ 
+6.2.4.11 
+Os 
+AVCB 
+devem 
+ser 
+emitidos 
+especificando a área total aprovada no Projeto e a 
+área parcial referente à subdivisão requerida.  
+ 
+6.2.4.12 Para solicitação de renovação do AVCB 
+das demais edificações, o proprietário, RT ou 
+responsável pelo uso deve apresentar um laudo 
+técnico atualizado e respectiva ART, atestando as 
+condições de funcionamento e manutenção das 
+medidas de segurança contra incêndio e pânico e a 
+conformidade da edificação com o projeto 
+aprovado, não sendo realizada vistoria pelo 
+SSCIP.  
+ 
+6.2.4.13 Para os casos em que a legislação de 
+segurança contra incêndio e pânico não exija 
+AVCB, como é o caso de empresas classificadas 
+como brancas, poderá ser emitida uma Declaração 
+de isenção de AVCB, atendidos os critérios 
+estabelecidos pela DAT. 
+ 
+6.2.4.14 O prazo de validade do AVCB de locais 
+de reunião de público, exceto F8, localizados no 
+interior de shopping e galeria comercial, que 
+necessitem de PSCIP específico, será de 03 (três) 
+anos, devendo ser emitido somente após a emissão 
+do AVCB da área total da edificação. 
+ 
+6.3 Da multa e interdição dos estabelecimentos 
+ 
+ A inobservância do disposto no Regulamento de 
+Segurança 
+Contra 
+Incêndio 
+e 
+Pânico 
+nas 
+edificações e áreas de risco no Estado de Minas 
+Gerais, 
+sujeita 
+o 
+infrator 
+às 
+sanções 
+administrativas: 
+a) advertência; 
+b) multa; 
+c) interdição. 
+Notas: 
+1) Nas edificações com PSCIP aprovado e que 
+possuam área irregular em decorrência de seu 
+descumprimento por parte de um ou mais 
+condôminos, as sanções administrativas serão 
+aplicadas individualmente para cada proprietário 
+ou responsável pelo uso. 
+2) Nas edificações que possuam área irregular em 
+decorrência do descumprimento por parte de um 
+ou mais condomínios, as sanções administrativas 
+serão 
+aplicadas 
+individualmente 
+para 
+cada 
+proprietário ou responsável pelo uso. 
+3) Nestes casos, o valor da multa será 
+proporcional à área de responsabilidade do 
+condômino ou condomínio notificado.
+
+--- PÁGINA 18 ---
+6.3.1 Advertência escrita 
+ 
+A advertência escrita em forma de notificação, 
+será aplicada na primeira vistoria, constatado o 
+descumprimento das medidas de segurança contra 
+incêndio e pânico previstas no Regulamento de 
+Segurança 
+Contra 
+Incêndio 
+e 
+Pânico 
+nas 
+edificações e áreas de risco no Estado de Minas 
+Gerais ou norma técnica regulamentar.  
+ 
+6.3.2 Multa 
+ 
+6.3.2.1 Sessenta dias, após a formalização da 
+advertência 
+escrita, 
+persistindo 
+a 
+conduta 
+infracional, será aplicada multa de 80,0645 a 
+2.401,9216 UFEMG (Unidade Fiscal do Estado de 
+Minas Gerais). 
+6.3.2.2 A multa será dobrada na primeira 
+reincidência e havendo nova reincidência inicia-se 
+o processo para cassação do AVCB, conforme 
+descrito em 6.10. 
+6.3.2.3 Após a primeira multa, o período para a 
+aplicação de nova multa por reincidência deve ser 
+de no mínimo trinta dias. 
+ 
+ 6.3.3 Interdição 
+ 
+6.3.3.1 A pena de interdição será aplicada sempre 
+que 
+houver 
+risco 
+iminente 
+devidamente 
+fundamentado. 
+ 
+6.3.3.2 A edificação ou estabelecimento que após 
+aplicação das sanções administrativas previstas 
+nos itens 6.3.1 e 6.3.2 permanecer em situação de 
+irregularidade poderá incorrer na pena de 
+interdição mediante procedimento instaurado pelo 
+Serviço de Segurança Contra Incêndio e Pânico 
+do CBMMG. 
+ 
+6.4 Documentos necessários para a solicitação 
+de vistoria de acordo com o risco e/ou medida 
+de segurança existente (s) na edificação e áreas 
+de risco 
+ 
+6.4.1 Anotação de Responsabilidade Técnica: 
+ 
+a) de instalação e de manutenção das medidas de 
+segurança contra incêndio e pânico (hidrantes e 
+mangotinhos, iluminação de emergência, alarme 
+de 
+incêndio, 
+extintores, 
+sinalização 
+de 
+emergência, 
+compartimentação 
+horizontal 
+e 
+vertical e outros); 
+b) de instalação e de manutenção dos sistemas de 
+utilização de gases inflamáveis; 
+c) de instalação e manutenção do grupo moto 
+gerador; 
+d) de instalação e manutenção do sistema de 
+pressurização da escada de segurança; 
+e) de instalação e manutenção do revestimento 
+dos elementos estruturais protegidos contra o 
+fogo; 
+f) de inspeção e/ou manutenção de vasos sob 
+pressão; 
+g) de instalação e de manutenção dos sistemas de 
+chuveiros automáticos; 
+h) de instalação e manutenção do sistema de 
+detecção de incêndio; 
+i) de instalação e manutenção do sistema de 
+controle de fumaça; 
+j) de instalação e manutenção do emprego de 
+material de acabamento e revestimento; 
+k) outros. 
+6.4.1.1 Fica dispensada a apresentação de ART de 
+instalação 
+e 
+manutenção 
+de 
+extintores, 
+sinalização, iluminação de emergência (exceto 
+com alimentação centralizada com baterias ou 
+moto-gerador), para Procedimento Administrativo 
+Simplificado (PAS), devendo no ato da vistoria 
+ser verificado o selo de conformidade e situação 
+cadastral da empresa de manutenção junto ao 
+CBMMG, se for o caso. 
+ 
+6.4.1.2 Para Projeto Técnico (PT), será dispensada 
+a apresentação de ART, na forma descrita acima, 
+quando 
+a 
+edificação 
+não 
+possuir 
+sistema 
+hidráulico 
+ 
+6.4.1.3 A Anotação de Responsabilidade Técnica 
+deve ser emitida para os serviços específicos de 
+instalação 
+e 
+manutenção 
+das 
+medidas 
+de 
+segurança contra incêndio e pânico previstas na 
+edificação e áreas de risco. 
+ 
+6.4.1.4 A ART de instalação ou manutenção será 
+exigida quando da solicitação de vistoria da 
+edificação e áreas de risco, conforme o caso; 
+ 
+6.4.1.5 Pode ser emitida uma única ART, quando 
+houver apenas um responsável técnico pelas 
+medidas de segurança contra incêndio e pânico 
+instaladas. 
+ 
+6.4.1.6 
+Podem 
+ser 
+emitidas 
+várias 
+ART 
+desmembradas 
+com 
+as 
+respectivas 
+responsabilidades 
+por 
+medidas 
+específicas, 
+quando houver mais de um responsável técnico 
+pelas medidas de segurança contra incêndio e 
+pânico instaladas.  
+ 
+6.4.1.7 É obrigatória a assinatura da ART pelo 
+contratante (proprietário ou responsável pelo uso), 
+e pelo responsável técnico. 
+ 
+6.4.1.8 Para a vistoria nos eventos temporários 
+será necessária a apresentação das ART de 
+instalação elétrica, de lona de cobertura com 
+material retardante a ignição, (quando houver), 
+montagem 
+de 
+arquibancadas, 
+arenas
+
+--- PÁGINA 19 ---
+desmontáveis, brinquedos de parques de diversão, 
+palcos/palanques de madeira e estrutura metálica, 
+(quando 
+houver), 
+outras 
+montagens 
+eletroeletrônicas, grupo moto-gerador. 
+ 
+6.4.2 Atestado de brigada contra Incêndio 
+ 
+Documento que atesta que os ocupantes da 
+edificação receberam treinamentos teóricos e 
+práticos de prevenção e combate a incêndio e 
+pânico. 
+ 
+6.4.3 Plano de intervenção de incêndio (quando 
+da renovação do AVCB) 
+Plano estabelecido em função dos riscos da 
+edificação e áreas de risco para definir a melhor 
+utilização dos recursos materiais e humanos em 
+uma situação de emergência. 
+ 
+6.4.4 Atestado de abrangência do grupo 
+motogerador (GMG) 
+ 
+Documento que contém informações sobre a 
+abrangência, autonomia e automatização. 
+ 
+6.4.5 Declaração de Elaboração de Projeto 
+Estrutural em Conformidade com as Normas 
+Brasileiras e IT- 06 
+ 
+Declaração assinada pelo responsável técnico pelo 
+projeto de segurança estrutural da edificação, 
+conforme anexo P. 
+ 
+6.4.6 Declaração do Responsável Técnico pela 
+Execução do Projeto de Segurança Estrutural 
+ 
+Declaração assinada pelo responsável técnico pela 
+execução do projeto de segurança estrutural da 
+edificação, conforme anexo “R”. 
+ 
+6.4.7 Autorização da Delegacia especializada de 
+Armas, Munições e Explosivos (DEAME). 
+ 
+Documento da Polícia Civil do Estado de Minas 
+Gerais que autoriza a atividade e especifica a 
+quantidade máxima de fogos de artifícios e/ou 
+explosivos a serem comercializados. 
+ 
+6.5 Validade do Auto de Vistoria do Corpo de 
+Bombeiros 
+ 
+6.5.1 
+ O AVCB tem validade de 3 (três) 
+anos para os locais de reunião de público e 5 
+(cinco) anos para as demais ocupações, desde que 
+a edificação e área de risco permaneçam com as 
+medidas de segurança contra incêndio e pânico 
+previstas no projeto em condições de utilização e 
+manutenção adequadas.  
+ 
+6.5.2 
+Para 
+Projeto 
+Técnico 
+para 
+Eventos 
+Temporários, o prazo de validade do AVCB deve 
+ser equivalente ao período da realização do 
+evento, não podendo ultrapassar o prazo máximo 
+de 6 (seis) meses, e só deve ser válido para o 
+endereço onde foi efetuada a vistoria. 
+ 
+6.5.3 
+O 
+Certificado 
+Provisório 
+para 
+Funcionamento de que trata o item 6.2.4.13  terá 
+validade até a realização da primeira vistoria para 
+fins de emissão de AVCB pelo SSCIP. 
+ 
+6.6 Formulário para atendimento técnico 
+ 
+6.6.1 O Formulário para Atendimento Técnico 
+deve ser utilizado nos seguintes casos: 
+ 
+a)  para solicitação de substituição e retificação do 
+AVCB; 
+b) para solicitação de retificação de dados do 
+Projeto; 
+c)  para tirar dúvidas quanto a procedimentos 
+administrativos e técnicos; 
+d)  
+para pedido de reconsideração de ato 
+praticado pelo Serviço de Segurança Contra 
+Incêndio e Pânico (Notificações de análises e 
+vistoria); 
+e) para atualização de Projeto; 
+f) outras situações a critério do Serviço de 
+Segurança Contra Incêndio e Pânico. 
+ 
+6.6.2 O interessado, quando do preenchimento do 
+Formulário para Atendimento Técnico, deve 
+propor questão específica sobre aplicação da 
+legislação, ficando vedado perguntas genéricas 
+que deixem a cargo do Serviço de Segurança 
+Contra Incêndio e Pânico a busca da solução 
+específica. No caso do descumprimento deste item 
+o FAT não será apreciado. 
+ 
+6.6.3 Apresentação 
+ 
+6.6.3.1 A solicitação do interessado pode ser feita 
+no modelo do anexo G e pode ser acompanhado 
+de documentos que elucidem a dúvida ou 
+comprovem os argumentos apresentados. 
+ 
+6.6.3.2 Somente devem ser aceitos formulários 
+preenchidos por meios digitais ou datilografados. 
+ 
+6.6.4 Competência 
+ 
+Podem fazer uso do presente instrumento, o 
+proprietário, seu procurador ou o responsável 
+técnico. 
+ 
+6.6.5 Prazo do FAT 
+ 
+A contar da data do protocolo, o Serviço de 
+Segurança Contra Incêndio deve responder no
+
+--- PÁGINA 20 ---
+prazo máximo de 10 (dez) dias úteis, respeitando 
+a ordem cronológica de entrada do pedido, exceto 
+para os questionamentos técnicos que demandam 
+estudo aprofundado. 
+ 
+6.7 Solicitação de vistoria por autoridade 
+pública 
+ 
+A solicitação de vistoria por autoridade pública só 
+pode ser realizada nos casos em que o interessado 
+pela vistoria seja o responsável pelas edificações 
+ou área de risco da administração pública, ou a 
+autoridade solicitante tenha competência para 
+impor aos proprietários de edificações privadas e 
+públicas a vistoria, conforme Lei que regulamenta 
+o ato. 
+ 
+6.7.1 Apresentação 
+ 
+A solicitação de vistoria pode ser feita via ofício 
+com timbre do órgão público, contendo endereço 
+da edificação, endereço e telefone do órgão 
+solicitante, motivação do pedido e identificação 
+do funcionário público signatário, atendendo à Lei 
+que regulamenta a TSP. 
+ 
+6.7.2 Prazo de solicitação de vistoria por 
+autoridade pública 
+ 
+A contar da data de entrada do ofício no Serviço 
+de Segurança Contra Incêndio do CBMMG, a 
+administração deve responder nos prazos legais 
+das requisições e as demais solicitações em 15 
+(quinze) dias úteis. 
+ 
+6.8 Corpo Técnico 
+ 
+6.8.1 É o Órgão Colegiado de caráter assessório, 
+constituído por profissionais do CBMMG, tendo 
+como objetivos a proposição de norma de 
+Segurança Contra Incêndio e Pânico (SCIP), 
+analisar, avaliar e emitir pareceres relativos aos 
+casos que necessitarem de soluções técnicas 
+específicas ou apresentarem dúvidas quanto às 
+exigências previstas no Decreto nº 44.746/2008, 
+que regulamenta a Lei Estadual nº 14.130, de 19 
+de dezembro de 2001. 
+ 
+6.8.2 O Corpo Técnico poderá ser empregado nas 
+fases de análise, vistoria, inclusive recursos ou 
+quando da necessidade nas decisões de assuntos 
+relacionados aos sistemas e medidas  de segurança 
+contra incêndio e pânico. 
+ 
+6.8.3 Revogado pela Portaria de nº 22, de 20 de 
+julho de 2015.  
+ 
+6.8.4 Revogado pela Portaria de nº 22, de 20 de 
+julho de 2015.   
+ 
+6.8.5 A Diretoria de Atividades Técnicas 
+disciplinará o funcionamento e acionamento do 
+Corpo Técnico. 
+ 
+6.9 Da reconsideração de ato, recursos 
+administrativos e requerimento de prorrogação 
+de prazo 
+ 
+6.9.1 Quando houver discordância do ato 
+administrativo 
+praticado 
+pelo 
+CBMMG, 
+o 
+proprietário, 
+o 
+responsável 
+pelo 
+uso 
+ou 
+responsável técnico poderá apresentar pedido de 
+reconsideração do ato. 
+ 
+6.9.1.1 O R.T, ao apresentar o pedido de 
+reconsideração de ato ao analista, deverá abordar 
+apenas o mérito relativo à discordância. As 
+correções do projeto deverão ser protocoladas 
+para análise após a resposta do analista. 
+ 
+6.9.2 O pedido de reconsideração será dirigido à 
+autoridade que praticou o ato e protocolado no 
+órgão a que esta pertencer, a qual poderá 
+reconsiderar sua decisão nos 05 (cinco) dias úteis 
+subseqüentes. 
+ 
+6.9.3 
+Do 
+indeferimento 
+do 
+pedido 
+de 
+reconsideração 
+previsto 
+no 
+6.9.2 
+caberá 
+interposição de recurso ao Comandante de 
+Pelotão, Companhia ou, Batalhão de Bombeiros 
+Militar, cuja decisão deve ser proferida dentro do 
+prazo de 10 (dez) dias úteis, contados do seu 
+recebimento. 
+ 
+6.9.4 Caberá recurso  ao Diretor de Atividades 
+Técnicas  do CBMMG, no caso de indeferimento 
+do recurso previsto em 6.9.3, cuja decisão deve 
+ser proferida no prazo de 10 ( dez) dias úteis, 
+contados do seu recebimento.  
+ 
+6.9.5 Os recursos serão interpostos, no prazo 
+de dez dias a contar do conhecimento, pelo 
+proprietário, 
+responsável 
+pelo 
+uso 
+ou 
+responsável técnico, do ato administrativo 
+praticado pelo CBMMG.   
+ 
+6.9.6 
+Na 
+impossibilidade 
+técnica 
+do 
+cumprimento dos prazos para sanar as 
+irregularidades, 
+o 
+responsável 
+técnico, 
+proprietário ou representante legal poderá 
+requerer, mediante petição fundamentada, às 
+autoridades 
+previstas 
+no 
+item 
+6.9.3, 
+a 
+prorrogação de prazo, que a deferindo ou 
+indeferindo, indicarão o período necessário 
+para sanar as irregularidades.  
+ 
+6.9.6.1  Somente serão aceitas solicitações de 
+prorrogação de prazos para correção de 
+irregularidades no projeto e na execução, 
+quando houver justificado motivo, casos
+
+--- PÁGINA 21 ---
+fortuitos ou motivos de força maior, com 
+comprovação da impossibilidade técnica e 
+cronograma de execução. 
+ 
+6.9.6.2 A critério do CBMMG, o prazo a que 
+se refere o item 6.9.6 poderá sofrer, nova 
+prorrogação, mediante petição fundamentada 
+do interessado, atendendo ao constante nos 
+itens 6.9.6 e 6.9.6.1 deste artigo. 
+ 
+6.9.7 Comissões para análise de recursos 
+ 
+6. 9.7.1 A comissão para análise de recurso será 
+composta por oficiais do Serviço de Segurança 
+Contra Incêndio e Pânico para analisar recursos 
+em primeiro e segundo grau. 
+ 
+6.9.7.2 A comissão de recurso em primeiro grau 
+será composta por três oficiais do Batalhão de 
+Bombeiros Militar.  
+ 
+6.9.7.3 Nas Companhias e Pelotões destacados, na 
+ausência de oficiais, a comissão será composta 
+pelo Sub Comandante da Fração e dois sub 
+tenente/sargento do Serviço de Segurança Contra 
+Incêndio e Pânico. 
+6.9.7.4 As comissões poderão ter dentre seus 
+integrantes, oficiais do Corpo Técnico.  
+  
+6.10 Da Cassação e anulação  
+ 
+6.10.1 Cassação do Auto de Vistoria do 
+CBMMG 
+ 
+6.10.1.1 A cassação será aplicada quando 
+constatada 
+pelo 
+CBMMG 
+o 
+reiterado 
+descumprimento 
+das 
+notificações, 
+conforme 
+especificado no item 6.3.2.2. 
+ 
+6.10.1.2 Quando constatado risco iminente que 
+enseja em interdição do estabelecimento ou área 
+de risco, a cassação do AVCB poderá ocorrer 
+após o ato de interdição, caso a ocupação 
+permaneça em situação de risco. 
+ 
+6.10.1.3 Quando constatado pelo CBMMG que 
+ocorreram alterações prejudiciais nas medidas de 
+segurança contra incêndio e pânico da edificação 
+ou área de risco, que possua AVCB e procedido à 
+advertência e multas, conforme especificado no 
+item 6.3.2, deve ser instaurado o procedimento 
+administrativo pelo Serviço de Segurança Contra 
+Incêndio e Pânico, para a cassação do AVCB. 
+6.10.1.4 Para a avaliação da irregularidade 
+constatada na instalação ou funcionamento da 
+medida de segurança contra incêndio e pânico 
+deve ser levado em consideração à possibilidade 
+da reparação imediata e ininterrupta pelo 
+proprietário ou responsável pelo uso, respeitando 
+a complexidade da medida de segurança. 
+ 
+6.10.1.5 Verificado que o proprietário e/ou 
+responsável pelo uso da edificação e área de risco 
+descumpriu as notificações não tomando as 
+providências necessárias para a reparação das 
+irregularidades, o serviço de segurança contra 
+incêndio e pânico deve cassar o AVCB.  
+ 
+6.10.1.6 
+ O proprietário ou responsável 
+pelo uso poderá recorrer do ato de cassação por 
+meio de recurso junto ao CBMMG, conforme 
+previsto no Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco 
+no Estado de Minas Gerais.  
+ 
+6.10.1.7 
+A cassação do AVCB deve ser 
+comunicada ao proprietário ou responsável pelo 
+uso mediante ofício. 6.10.1.8 O CBMMG deve 
+disponibilizar 
+ao 
+interessado 
+o 
+acesso 
+às 
+informações referente ao procedimento. 
+ 
+6.10.1.9 
+ A Prefeitura deve ser informada 
+por ofício sobre o ato de cassação do AVCB, após 
+a conclusão do procedimento. 
+ 
+6.10.2 Da anulação 
+ 
+6.10.2.1 
+Nos 
+casos 
+de 
+constatação 
+de 
+ilegitimidade e ilegalidade, a qualquer tempo o 
+CBMMG deve anular a aprovação do Projeto e a 
+concessão do AVCB que não tenha atendido todas 
+as exigências da legislação vigentes à época da 
+aprovação, 
+mediante 
+procedimento 
+administrativo. 
+ 
+6.10.2.2 O Projeto anulado deve ser substituído 
+por novo Projeto, baseado na legislação vigente à 
+época da elaboração do Projeto anulado. 
+ 
+6.10.2.3 Constatada a inabilitação técnica do 
+responsável técnico que atuou no Projeto, para o 
+ato praticado, ao tempo da aprovação, deve ser 
+procedida a anulação do ato de aprovação do 
+Projeto e conseqüentemente a anulação do AVCB. 
+ 
+6.10.2.4 
+O 
+acesso 
+às 
+informações 
+do 
+procedimento que originou a anulação do ato de 
+aprovação 
+do 
+Projeto 
+técnico 
+deve 
+ser 
+disponibilizado aos interessados. 
+ 
+6.10.2.5 O ato de anulação deve ser comunicado 
+ao proprietário/responsável pelo uso, responsável 
+técnico, Prefeitura Municipal e na hipótese do 
+item 
+6.10.2.3, 
+ao 
+Conselho 
+Regional 
+de 
+Engenharia Arquitetura e Agronomia do Estado 
+de Minas Gerais (CREA-MG). 
+ 
+6.10.2.6 Havendo indícios de irregularidades, o 
+comandante deve instaurar os procedimentos 
+adequados para fins de apuração dos fatos.
+
+--- PÁGINA 22 ---
+6.10.2.7 A Diretoria de Atividades Técnicas 
+disciplinará os procedimentos relativos a cassação 
+de AVCB e anulação de PSCIP e AVCB. 
+ 
+6.11 Disposições Finais 
+ 
+Os casos omissos relativos aos procedimentos 
+administrativos do Serviço de Segurança Contra 
+Incêndio e Pânico serão solucionados pelo Diretor 
+de Atividades Técnicas.
+
+--- PÁGINA 23 ---
+ANEXO A 
+MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA EDIFICAÇÕES E ÁREAS DE RISCO 
+ 
+ 
+ 
+TABELA 1: EXIGÊNCIAS PARA EDIFICAÇÕES COM ÁREA MENOR OU IGUAL A 750 m2  
+E ALTURA MENOR OU IGUAL A 12,00 m 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+A, C, D,  
+G, I, J 
+B 
+E 
+F 
+H 
+F-1, F-2, F-3, 
+F-4, F-8, F-9 e 
+F-10 
+F-5, F-6 e  
+F-11 
+H-1, H-4,  
+H-6 
+H-2, H-3, 
+ H-5 
+Controle de Materiais de Acabamento 
+e de Revestimento 
+- 
+- 
+- 
+X1 
+X1 
+- 
+X 
+Iluminação de emergência 
+X2 
+X2,3 
+X2 
+X2 
+X2 
+X2 
+X2 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X3 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X4 
+X 
+X 
+X4 
+Brigada de Incêndio 
+- 
+- 
+X5 
+X1 
+X1 
+- 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+- 
+- 
+X6 
+- 
+- 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Somente para edificações com população superior a 200 pessoas. 
+2 – Estão isentas as edificações térreas com área menor ou igual a 200 m2 e população inferior a 50 pessoas. 
+3 – Estão isentos os motéis que não possuam corredores internos cobertos. 
+4 – Para a divisão F-3 (estádios), H-2 (hospitais psiquiátricos e reformatórios) e H-5, os extintores deverão ser instalados em 
+locais com acesso privativo. 
+5 – Somente para E-5 e E-6. 
+6 – Somente para edificações com população superior a 500 pessoas. 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações residenciais (divisões A-2 e A-3) e para edificações construídas até 01 de julho de 2005, a área 
+considerada para fins de exigências previstas será igual ou menor a 1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos 
+forem isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente 
+à época da construção. 
+D – Nas divisões, G-1, G-2, G-3 e G-4, a área a ser considerada para a definição de exigências é a área total da edificação 
+mais as áreas internas descobertas da propriedade utilizadas para estacionamento de veículos, podendo ser subdividida se os 
+riscos forem isolados. 
+E – Para a divisão F-3 deve ser observada Instrução Técnica específica.
+
+--- PÁGINA 24 ---
+TABELA 2: EDIFICAÇÕES DO GRUPO A COM ÁREA SUPERIOR A 1.200 m2 
+ OU ALTURA SUPERIOR A 12 m 
+Divisão 
+A-2 e A-3 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+- 
+- 
+- 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Alarme de Incêndio 
+- 
+- 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Controle 
+de 
+Materiais 
+de 
+Acabamento 
+e 
+de 
+Revestimento 
+- 
+X 
+X 
+X 
+ 
+NOTAS GENÉRICAS: 
+A – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+B – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+C – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio” e “Compartimentação Vertical” não se aplicam às 
+edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 25 ---
+TABELA 3: EDIFICAÇÕES DO GRUPO B COM ÁREA SUPERIOR A 750 m2 
+ OU ALTURA SUPERIOR A 12 m 
+Divisão 
+B-1 e B-2 
+Medidas de Segurança contra  
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+X1 
+X 
+X 
+Compartimentação Vertical 
+- 
+X2 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+- 
+X 
+X 
+X 
+Iluminação de Emergência 
+X3 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X4 
+X4 
+Alarme de Incêndio 
+X5 
+X5 
+X5 
+X5 
+Sinalização de Emergência 
+X3 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos. 
+2 – Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens dos shafts e dutos de 
+instalações. 
+3 – Estão isentos os motéis que não possuam corredores internos cobertos. 
+4 – Os detectores de incêndio devem ser instalados inclusive nos quartos. 
+5 – Os acionadores manuais devem ser instalados nos corredores. 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 
+1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”, 
+“Compartimentação Vertical”, “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 
+de julho de 2005.
+
+--- PÁGINA 26 ---
+TABELA 4: EDIFICAÇÕES DO GRUPO C COM ÁREA SUPERIOR A 750 m2 
+OU ALTURA SUPERIOR A 12 m 
+Divisão 
+C-1, C-2 e C-3 
+Medidas de Segurança contra 
+ Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X 
+X 
+X 
+X 
+Compartimentação Horizontal 
+X1 
+X1 
+X 
+X 
+Compartimentação Vertical 
+- 
+X2 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+X3 
+X 
+X 
+X 
+Brigada de Incêndio 
+X4 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X4 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X3 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos. 
+2 – Pode ser substituída por chuveiros automáticos exceto para as compartimentações das fachadas e selagens dos shafts e dutos de 
+instalações. 
+3 – Somente para edificações de divisão C-3.  
+4 – Quando a edificação possuir área total construída superior a 2.000 m². 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 
+1.200 m². 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”, 
+“Compartimentação Vertical”, “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 
+de julho de 2005.
+
+--- PÁGINA 27 ---
+TABELA 5: EDIFICAÇÕES DO GRUPO D COM ÁREA SUPERIOR A 750 m2 OU ALTURA SUPERIOR A 12 m 
+Divisão 
+D-1, D-2, D-3 e D-4 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+X1 
+X 
+X 
+Compartimentação Vertical 
+- 
+X2 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+- 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X3 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos. 
+2 – Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens dos shafts e dutos de 
+instalações. 
+3 – Quando a edificação possuir área total construída superior a 2.000 m². 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 
+1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”, 
+“Compartimentação Vertical”, “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 
+de julho de 2005.
+
+--- PÁGINA 28 ---
+TABELA 6: EDIFICAÇÕES DO GRUPO E COM ÁREA SUPERIOR A 750 m2 OU ALTURA SUPERIOR A 12 m 
+Divisão 
+E-1, E-2, E-3, E-4, E-5 e E-6 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X1 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens dos shafts e dutos de 
+instalações. 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a  
+1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical”, “Chuveiros 
+Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 2005. 
+E – os locais destinados a laboratórios devem ter proteção em função dos produtos utilizados.
+
+--- PÁGINA 29 ---
+TABELA 7: EDIFICAÇÕES DO GRUPO F COM ÁREA SUPERIOR A 750 m2 OU ALTURA SUPERIOR A 12 m 
+Divisão 
+F-1, F-2, F-3, F-4, F-8, F-9 e F-10  
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+   X1,2 
+X2 
+X2 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+ X3 
+X 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+ X4 
+ X4 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens dos shafts e dutos de 
+instalações.  
+2 – Para a divisão F-3 a compartimentação vertical será considerada para as fachadas e selagens dos shafts e dutos de instalações.  
+3 – Somente para a divisão F-3. 
+4 – Somente para a divisão F-1. 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a  
+1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical”, “Chuveiros 
+Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 2005. 
+E – Para a divisão F-3 deve ser observada Instrução Técnica específica.
+
+--- PÁGINA 30 ---
+TABELA 8: EDIFICAÇÕES DO GRUPO F COM ÁREA SUPERIOR A 750 m2 OU ALTURA SUPERIOR A 12 m 
+Divisão 
+F-5, F-6 e F-11 
+Medidas de Segurança contra Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+X1 
+X 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+X1 
+X 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+X 
+X 
+X 
+Controle de Materiais de Acabamento e de Revestimento 
+X 
+X 
+X 
+X 
+Controle de Fumaça 
+X1 
+X1 
+X 
+X 
+NOTAS ESPECÍFICAS: 
+1 – Somente para edificações com lotação superior a 500 pessoas. 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 
+1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical”, “Chuveiros 
+Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 31 ---
+TABELA 9: EVENTOS TEMPORÁRIOS - DIVISÃO F-7 
+Medidas de Segurança contra Incêndio e Pânico 
+H  12 m 
+Saídas de Emergência 
+X 
+Plano de Intervenção de Incêndio 
+ X1 
+Brigada de Incêndio 
+ X1 
+Iluminação de Emergência 
+ X1 
+Sinalização de Emergência 
+X 
+Extintores 
+X 
+Controle 
+de 
+Materiais 
+de 
+Acabamento 
+e 
+de 
+Revestimento 
+ X2 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Somente para eventos classificados a partir de risco médio*. 
+2 – Aplicável às construções provisórias destinadas a receber público. 
+ 
+NOTAS GENÉRICAS: 
+A – Para eventos temporários deve ser observada a Instrução Técnica específica. 
+B – A altura máxima para construções provisórias é de 12,0 m. 
+C – Para eventos realizados no interior de edificações devem ser observadas as condições de aprovação do PSCIP. 
+ 
+* Observando critérios da Instrução Técnica específica.
+
+--- PÁGINA 32 ---
+TABELA 10: EDIFICAÇÕES DO GRUPO G COM ÁREA SUPERIOR A 750 m2  
+OU ALTURA SUPERIOR A 12 m 
+Divisão 
+G-1 e G-2 
+Medidas de Segurança contra  
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+  X 
+  X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+- 
+- 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Alarme de Incêndio 
+- 
+X1 
+X1 
+X1 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+- 
+- 
+X 
+X 
+NOTAS ESPECÍFICAS: 
+1 – Para a divisão G-1, pode haver apenas um acionador manual por pavimento, no máximo a 10 m da saída de emergência.  
+NOTAS GENÉRICAS: 
+A – A área a ser considerada para a definição de exigências é a área total da edificação mais as áreas internas descobertas da 
+propriedade utilizadas para estacionamento de veículos, podendo ser subdividida se os riscos forem isolados. 
+B – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 
+1.200 m2. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical” e “Chuveiros 
+Automáticos” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 33 ---
+TABELA 11: EDIFICAÇÕES DO GRUPO G COM ÁREA SUPERIOR A 750 m2 
+ OU ALTURA SUPERIOR A 12 m 
+Divisão 
+G-3 
+G-4  
+Medidas de Segurança contra  
+Incêndio e Pânico 
+Classificação quanto à altura 
+(em metros) 
+Classificação quanto à altura 
+(em metros) 
+H  12 
+H  12 
+12 < H  30 30 < H  54 Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+- 
+X1 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X2 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+X 
+Iluminação de Emergência  
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio  
+- 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+- 
+- 
+X 
+X 
+X 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos. 
+2 – Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e selagens dos shafts e dutos de 
+instalações.  
+ 
+NOTAS GENÉRICAS: 
+A – A área a ser considerada para a definição de exigências é a área total da edificação mais as áreas internas descobertas da propriedade 
+utilizadas para estacionamento de veículos, podendo ser subdividida se os riscos forem isolados. 
+B – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 1.200 m2. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época da 
+construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”, “Compartimentação 
+Vertical” e “Chuveiros Automáticos” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 34 ---
+TABELA 12: EDIFICAÇÕES DO GRUPO G COM ÁREA SUPERIOR A 750 m2  
+OU ALTURA SUPERIOR A 12 m 
+Divisão 
+G-5 
+Medidas de Segurança contra  
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+ X 
+  X 
+X 
+  X 
+Segurança Estrutural contra Incêndio 
+X 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+X1 
+X 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Somente para áreas superiores a 5.000 m². 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 
+1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época 
+da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical” e “Chuveiros 
+Automáticos” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 35 ---
+TABELA 13: EDIFICAÇÕES DO GRUPO H COM ÁREA SUPERIOR A 750 m2 
+ OU ALTURA SUPERIOR A 12 m 
+Divisão 
+H-1 
+H-2 e H-5 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+Classificação quanto à altura (em metros) 
+H  12 12 < H  30 30 < H  54 Acima de 54 H  12 12 < H  30 30 < H  54 Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X1 
+X 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de incêndio 
+- 
+- 
+- 
+- 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Iluminação de Emergência  
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio  
+- 
+- 
+- 
+X 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X2 
+X2 
+X2 
+X2 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+X2 
+X2 
+X2 
+X2 
+Chuveiros Automáticos 
+- 
+- 
+- 
+X 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e 
+de Revestimento 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+- 
+- 
+X3 
+X 
+X 
+   NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos, exceto as compartimentações das fachadas e selagens dos shafts e dutos de instalações. 
+2 – Para os hospitais psiquiátricos e reformatórios, pertencentes à divisão H-2, e para todas as edificações da divisão H-5, os 
+equipamentos deverão ser instalados em locais com acesso privativo. 
+3 – Exceto para prisões em geral.  
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época da 
+construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical”, “Chuveiros Automáticos” e 
+“Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 36 ---
+TABELA 14: EDIFICAÇÕES DO GRUPO H COM ÁREA SUPERIOR A 750 m2 
+ OU ALTURA SUPERIOR A 12 m 
+Divisão 
+H-3 
+H-4 e H-6  
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+Classificação quanto à altura (em metros) 
+H  12 12 < H  30 30 < H  54 Acima de 54 H  12 12 < H  30 30 < H  54 
+Acima de 54 
+Acesso de viaturas  
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Compartimentação Horizontal 
+- 
+X1 
+X 
+X 
+- 
+- 
+- 
+- 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de incêndio 
+- 
+X 
+X 
+X 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Iluminação de Emergência  
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio  
+- 
+X 
+X 
+X 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e 
+de Revestimento 
+- 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+X 
+X 
+- 
+- 
+- 
+- 
+   NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos. 
+ 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época da 
+construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”, “Compartimentação 
+Vertical”, “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 37 ---
+TABELA 15: EDIFICAÇÕES DO GRUPO I COM ÁREA SUPERIOR A 750 m2 
+ OU ALTURA SUPERIOR A 12 m 
+Divisão 
+I-1 e I-2 
+I-3 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura 
+(em metros) 
+Classificação quanto à altura 
+(em metros) 
+H  12 12 < H  30 30 < H  54 Acima de 54 H  12 12 < H  30 30 < H  54 Acima de 54 
+Acesso de viaturas  
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X3 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Compartimentação Horizontal  
+X1,2 
+X1 
+X 
+X 
+X1 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X1,3 
+X 
+X 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+X3 
+X 
+X 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+X5 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Iluminação de Emergência  
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio  
+- 
+X3 
+X3 
+X 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X3,5 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X4 
+X4 
+X4 
+X4 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X3 
+X3 
+- 
+X 
+X 
+X 
+Controle de Materiais de Acabamento 
+e de Revestimento 
+- 
+X 
+X 
+X 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+- 
+X 
+X 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos. 
+2 – Exceto para edificações térreas.   
+3 – Somente para a divisão I-2. 
+4– Para a divisão I-1, verificar casos de isenção conforme IT específica. 
+5 – Quando a edificação possuir área total construída superior a 2.000 m². 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época da 
+construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”, “Compartimentação 
+Vertical”, “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 38 ---
+TABELA 16: EDIFICAÇÕES DO GRUPO J COM ÁREA SUPERIOR A 750 m2 
+ OU ALTURA SUPERIOR A 12 m 
+Divisão 
+J-1 e J-2 
+J-3 e J-4 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura 
+(em metros) 
+Classificação quanto à altura 
+(em metros) 
+H  12 12 < H  30 30 < H  54 Acima de 54 H  12 12 < H  30 30 < H  54 Acima de 54 
+Acesso de viaturas  
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Compartimentação Horizontal  
+X1,2 
+X1,2 
+X1,2 
+X1,2 
+X2 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+X1,6 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Iluminação de Emergência  
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Detecção de Incêndio  
+- 
+- 
+X1 
+X1 
+X5 
+X 
+X 
+X 
+Alarme de Incêndio 
+X1,6 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X3 
+X3 
+X3 
+X3 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X4 
+X4 
+X4 
+X4 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+- 
+X1 
+- 
+X 
+X 
+X 
+Controle de Materiais de Acabamento 
+e de Revestimento 
+- 
+X1 
+X1 
+X1 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X1 
+X2,5 
+X 
+X 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Somente para a divisão J-2. 
+2 – Pode ser substituída por chuveiros automáticos. 
+3 – Para a divisão J-1, não será exigida a cobertura por extintores nos locais destinados exclusivamente ao armazenamento de materiais 
+incombustíveis, desde que não embalados. 
+4 – Para a divisão J-1, verificar casos de isenção conforme IT específica. 
+5 – Somente para a divisão J-4. 
+6 – Quando a edificação possuir área total construída superior a 2.000 m². 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências previstas será superior a 1.200 m2. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos forem 
+isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à época da 
+construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”, “Compartimentação 
+Vertical”, “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 39 ---
+TABELA 17: EDIFICAÇÕES DO GRUPO L 
+Divisão 
+L-1  
+L-2 e L-3 
+Medidas de Segurança contra  
+Incêndio e Pânico 
+Acesso de Viaturas 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+X 
+Brigada de Incêndio 
+X 
+X 
+Iluminação de Emergência  
+X1 
+   X1,2 
+Alarme de Incêndio 
+- 
+ X1 
+Sinalização de Emergência 
+X 
+X 
+Extintores 
+X 
+X3 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Somente para edificação com área igual ou maior que 200 m2. 
+2 – Luminárias à prova de explosão. 
+3 – Devem ficar localizados externamente à edificação. 
+NOTAS GENÉRICAS: 
+A – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se os riscos 
+forem isolados. 
+B – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à 
+época da construção. 
+C – A medida “Acesso de Viaturas” não se aplica às edificações construídas até 01 de julho de 2005. 
+D – As edificações do grupo L deverão atender à Instrução Técnica específica e às prescrições normativas do Exército Brasileiro e
+da Polícia Civil do Estado de Minas Gerais. 
+E – As edificações que fazem parte de indústria ou depósito, mas que não armazenam ou produzam material explosivo, como 
+alojamentos, refeitórios e outras áreas industriais, atenderão às medidas de segurança exigidas pela ocupação específica.
+
+--- PÁGINA 40 ---
+TABELA 18: EDIFICAÇÕES E ÁREAS DE RISCO DO GRUPO M 
+Divisão 
+M-1  
+ 
+Para definição das medidas de segurança é necessário consultar as seguintes normas, levando-se em consideração todas as suas 
+atualizações e outras que vierem substituí-las: 
+NBR 15.661 - Proteção contra incêndio em túneis; 
+NBR 15.981 - Sistemas de proteção contra incêndio em túneis - Sistemas de sinalização e de comunicação de emergência em túneis. 
+ 
+Divisão 
+M-2  
+1) 
+Para definição das medidas de segurança das áreas de risco que abriguem tanques, cilindros ou produtos acondicionados, é 
+necessário consultar as seguintes normas, levando-se em consideração todas as suas atualizações e outras que vierem substituí-
+las, bem como demais documentos por elas citados: 
+         a) IT 23 - Manipulação, armazenamento, comercialização e utilização de gás liquefeito de petróleo (GLP); 
+         b) IT 24 - Comercialização, distribuição e utilização de gás natural; 
+          c) NBR 17.505 - Armazenagem de líquidos inflamáveis e combustíveis (todas as partes). 
+2) 
+Quando houver a previsão de sistema hidráulico por parte das normas supracitadas, será obrigatória a previsão das medidas de 
+segurança “Alarme de Incêndio”, “Brigada de Incêndio” e “Acesso de Viaturas”, sendo o acesso de viaturas recomendado para 
+as edificações construídas até 1 de julho de 2005. 
+3) 
+As medidas de segurança contra incêndio e pânico para as edificações serão as exigidas para o uso específico. Ex.: escritório 
+(D-1), industria (I), depósito (J), refeitório (F-8). 
+Divisão 
+M-4, M-6, M-5 e M-7  
+1) As medidas de segurança contra incêndio e pânico para as edificações localizadas no interior de terra selvagem, propriedades 
+em transformação, processamento de lixo e pátio de containers serão as exigidas para o uso específico. Ex.: administração 
+(D-1), alojamento da obra (A-3), refeitório (F-8).  
+2) Os pátios de contêineres descobertos devem atender à Instrução Técnica específica. 
+3) As edificações envolvidas em processamento industrial de lixo deverão ser classificadas como I-2.
+
+--- PÁGINA 41 ---
+TABELA 19: EDIFICAÇÕES E ÁREAS DE RISCO DO GRUPO M 
+Divisão 
+M-3 
+Medidas de Segurança contra Incêndio  
+e Pânico 
+Classificação quanto à altura (em metros) 
+H  12 
+12 < H  30 
+30 < H  54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+X 
+X 
+X 
+X 
+Compartimentação Horizontal  
+X 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+X 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+X 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X1 
+X1 
+X1 
+X1 
+Chuveiros Automáticos 
+- 
+X2 
+X2 
+X2 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+X 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+X 
+X 
+ 
+NOTAS ESPECÍFICAS: 
+1 – Dispensada em centrais de distribuição ou transmissão de energia elétrica. 
+2 – O sistema de chuveiros automáticos para a divisão M-3 pode ser substituído por sistema de gases, através de supressão total do 
+ambiente.  
+ 
+NOTAS GENÉRICAS: 
+A – Para as centrais de distribuição ou transmissão de energia elétrica deve-se observar também os critérios da IT especifica. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, mais a área do pátio de equipamentos, 
+podendo ser subdividida se os riscos forem isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma Brasileira vigente à 
+época da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Horizontal”,
+“Compartimentação Vertical”, “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 
+de julho de 2005. 
+E – Para as subestações elétricas deve-se observar também os critérios da Instrução Técnica específica.
+
+--- PÁGINA 42 ---
+ANEXO B – FRENTE – CARTÀO DE IDENTIFICAÇÀO 
+ 
+ 
+ANEXO B – VERSO 
+ 
+VISTORIAS 
+Protocolo nº                   data ___/___/____  Atendente 
+Vistoriador:                    data ___/___/____  Parecer 
+Protocolo nº                   data ___/___/____  Atendente 
+Vistoriador:                    data ___/___/____  Parecer 
+Protocolo nº                   data ___/___/____  Atendente 
+Vistoriador:                    data ___/___/____  Parecer 
+Protocolo nº                  data ___/___/____  Atendente 
+Vistoriador:                   data ___/___/____  Parecer 
+Protocolo nº                  data ___/___/____  Atendente 
+Vistoriador:                   data ___/___/____  Parecer 
+Protocolo nº                  data ___/___/____  Atendente 
+Vistoriador:                   data ___/___/____  Parecer 
+                                 AVCB 
+ 
+Protocolo nº                                               AVCB nº  
+Em ___/___/____                                    Ch S Vistoria 
+Retirado por:                                            Ass.: 
+RG:                                                         Fone: 
+Protocolo nº                                            AVCB nº  
+Em ___/___/____                                    Ch S Vistoria:  
+Retirado por:                                           Ass.: 
+RG:                                                         Fone: 
+Protocolo nº                                            AVCB nº  
+Em ___/___/____                                   Ch S Vistoria: 
+Retirado por:                                          Ass.: 
+RG:                                                        Fone: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CARTÃO DE IDENTIFICAÇÃO 
+ 
+ Projeto N.º 
+ 
+ 
+ Em ____/____/________ 
+Protocolista 
+Rua:                                                                                             n.º                          Compl.: 
+Bairro:                                                                                   Município:                                          UF: 
+Proprietário ou responsável p/ uso:                                                                                    Fone: 
+Técnico Responsável:                                                                        CREA:                     Fone: 
+Áreas  -   Existente:                       m2       A construir:                       m2          Total :                      m2 
+Ocupação: 
+RETIRADA DO PROJETO 
+NOTIFICAÇÃO 
+Em ___/___/__ 
+Nome:                                                                                                   RG: 
+Assinatura:                                                                                            Fone:     
+Em ___/___/__ 
+Nome:                                                                                                   RG: 
+Assinatura:                                                                                            Fone:     
+Em ___/___/__ 
+Nome:                                                                                                   RG: 
+Assinatura:                                                                                            Fone:     
+APROV. 
+Em  
+ 
+___/___/__ 
+Nome:                                                                                                   RG: 
+Assinatura:                                                                                            Fone:     
+Aprovado em ____/____/______ 
+ 
+Analista 
+ 
+Ch. Seç de Análise
+
+--- PÁGINA 43 ---
+ANEXO C - FORMULARIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO DE PROJETO TÉCNICO 
+ 
+ 
+ 
+ 
+ANEXO C 
+FORMULARIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO DE PROJETO TÉCNICO 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ÁREA DE RISCO  
+Logradouro Público:  
+N.º:            Complemento:                                                                                        Lote:                Quarteirão: 
+Bairro:                                      CEP:                            Município:                                                     UF: 
+Proprietário:                                                                                              CPF/CNPJ                         Fone: 
+Responsável pelo uso:                                                                              CPF/CNPJ                         Fone: 
+Responsável Técnico:                                                    CREA:                               Fone: 
+N.º do Processo anterior:                                                          Decreto Adotado (nº e ano):              
+Uso, Divisão e Descrição: 
+Área existente:                                  a construir:                                                  total: 
+Altura da edificação:                                  n.º de pav.: 
+Carga Incêndio(MJ/m2) 
+ 
+Baixa 
+ 
+Média 
+ 
+Alta 
+Estrutura portante (concreto, aço, madeira, outros): 
+Estrutura de sustentação da cobertura (concreto, aço, madeira, outros): 
+2. FORMA DE APRESENTAÇÃO                                         3.PROTOCOLO (uso do Corpo de Bombeiros)                        
+   Projeto Técnico 
+ 
+ Projeto Técnico para Evento Temporário 
+4. RESERVA D’ÁGUA 
+Reservatório (   ) Elevado (   ) subterrâneo, Reserva de Consumo     m3,   RTI de HI     m3,  RTI de SPK    m3 
+5. MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+ Acesso de viatura do Corpo de Bombeiros 
+ Alarme de incêndio 
+ Separação entre edificações 
+ Sinalização de emergência 
+ Segurança estrutural nas edificações 
+ Extintores 
+ Compartimentação horizontal 
+ Hidrantes e/ou mangotinhos 
+ Compartimentação vertical 
+ Chuveiros automáticos 
+ Saídas de emergência 
+ Resfriamento 
+ Elevador de emergência 
+ Espuma 
+ Gerenciamento de risco de incêndio 
+ Sistema fixo de gases limpos e dióxido de carbono (CO2) 
+ Brigada de incêndio 
+ Plano de intervenção de incêndio (Apresentar quando da renovação de AVCB ) 
+ Iluminação de emergência 
+ Escada pressurizada  
+ Detecção de incêndio 
+ Controle de fumaça 
+ SPDA 
+ Controle de materiais de acabamento 
+ Outros(especificar) 
+  
+6. RISCOS ESPECIAIS 
+ Armazenamento de líquidos e gases inflamáveis/combustíveis : (   ) Tanques (   )  cilindros  Volume:    m3  
+ Túneis: Extensão 
+ 
+Fogos de artifício 
+ Gás Liquefeito de Petróleo 
+ 
+Vaso sob pressão (caldeira) 
+ Armazenamento de produtos perigosos 
+ 
+ Outros (especificar) 
+NOTA: 
+- A projeção das medidas descritas neste anexo são de responsabilidade do autor do projeto (Responsável Técnico), 
+signatário deste documento.  
+- O proprietário/empreendedor é responsável pela manutenção das medidas descritas neste anexo em perfeitas 
+condições de utilização.  
+- Ao Corpo de Bombeiros cabe o reconhecimento das medidas descritas neste anexo, considerando as informações 
+prestadas pelo Responsável Técnico acerca da edificação ou área de risco. 
+Ass. do Responsável Técnico:                             
+Ass. do Proprietário/Resp. /uso: 
+Data:  ___/___/___  
+Ass. Analista: 
+Data:  ___/___/___ 
+Ass. Chefe. S. Análise:
+
+--- PÁGINA 44 ---
+ANEXO C VERSO 
+ 
+VISTORIAS (Preencher somente quando aprovado em vistoria) 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ 
+Atendente___________________  
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer_____________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer_____________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________ 
+ 
+Protocolo n.º _______________________ data _____/_____/_______ Atendente 
+__________________ 
+ 
+Vistoriador_________________________ data ____/_____/________ 
+Parecer______________________________________
+
+--- PÁGINA 45 ---
+ANEXO D – FORMULÁRIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA PTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORMULÁRIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA PTS 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ÁREA DE RISCO  
+Logradouro Público:  
+N.º:             Complemento:                                                                       Lote:                Quarteirão: 
+Bairro:                                    CEP:                              Município:                                                UF: MG 
+Proprietário:                                                       CPF/CNPJ:                                           Fone: (  )                
+Responsável pelo uso:                                      CPF/CNPJ :                                           Fone: (  )                
+Existente:   
+A construir:                              
+Total:                            
+Altura:               m 
+n.º de pav.:     
+Ocupação do subsolo:                                                              
+Uso, divisão e descrição:                                                                 
+Carga Incêndio          
+(MJ/m²): 
+2. ELEMENTOS ESTRUTURAIS 
+Estrutura portante (concreto, aço, madeira, outros):                                                                                              
+Estrutura de sustentação da cobertura (concreto, aço, madeira, outros):                                                              
+3. FORMA DE APRESENTAÇÃO                                 Protocolo (uso do CBMMG) 
+ 
+Projeto Técnico Simplificado 
+ 
+ 
+ 
+ 
+4. MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+Controle de materiais de acabamento 
+ 
+Sinalização de emergência 
+Saídas de emergência 
+ 
+Extintores 
+Iluminação de emergência 
+ 
+ 
+5. RISCOS ESPECIAIS 
+Armazenamento de líquidos inflamáveis/combustíveis 
+ 
+Fogos de artifício 
+Gás Liqüefeito de Petróleo 
+ 
+Vaso sob pressão (caldeira) 
+Armazenamento de produtos perigosos 
+ 
+ Outros (especificar) 
+   _____________________________________ 
+Ass: Proprietário ou Responsável pelo uso 
+ 
+ 
+   ______________________________________ 
+Ass:  Responsável Técnico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________ 
+Ass: Vistoriador do Corpo de Bombeiros 
+ 
+ 
+_________________________________ 
+Ass:Chefe da Seção de Vistoria
+
+--- PÁGINA 46 ---
+COMPLEMENTARES
+INFORMAÇÕES
+Folha 1/5
+OBSERVAÇÃO:  
+Desenhista:
+Área Construída:
+Local:
+Ocupação:
+Resp. Técnico:
+Proprietário:
+Assunto:
+Área do Terreno:
+Projeto Completo
+²
+Esc. - 1:250
+²
+LEGENDA
+CONCESSIONÁRIA
+CHAVE GERAL
+CONSUMO EMPRESA
+MEDIDOR GERAL
+vai p/B.I.
+CHAVE DA BOMBA
+DA BOMBA DE INCÊNDIO
+LIGAÇÃO INDEPENDENTE
+INDEPENDENTE
+PISO ACABADO
+05
+01
+02
+04
+03
+HIDRANTE - Ø50
+ADAPTAÇÃO ENGATE RÁPIDO DE  65mm  PARA  38mm 
+MANGUEIRA DE 38mm (1.1/2") - 1x15m
+REGISTRO GLOBO DE ÂNGULO 65mm
+ESGUICHO AGULHETA DE 13mm.
+CAIXA DE ABRIGO METÁLICO DE 90x60x20cm
+ESPECIFICACOES
+CESTO DE CHAPA
+ P/ MANGUEIRA
+05
+INCÊNDIO
+04
+03
+01
+06
+CHAVE STORZ
+06
+SEM ESCALA
+FIXAÇÃO E SINALIZAÇÃO
+DE EXTINTOR
+TOMADA DE RECALQUE
+SEM ESCALA
+0,28
+0,175
+0,10
+HI- 01
+HI- 02
+HI- 03
+HI- 04
+HI- 05
+HI- 06
+³
+Ø 50mm 
+Ø 50mm 
+Ø 50mm 
+Ø 50mm 
+Ø 50mm 
+Ø 50mm 
+Ø 50mm 
+115 cm 
+270 cm
+ 
+180 cm 
+ PISO
+40 cm
+280 cm 
+20cm
+50 cm
+ANEXO E – FL. 01/05 (Informativo)
+
+--- PÁGINA 47 ---
+A
+B
+A
+COMPLEMENTARES
+INFORMAÇÕES
+Folha 1/5
+Desenhista:
+Área Construída:
+Local:
+Ocupação:
+Resp. Técnico:
+Proprietário:
+Assunto:
+Área do Terreno:
+Projeto Completo
+²
+Esc. - 1:250
+²
+LEGENDA
+ 
+ANEXO E – FL. 02/05 (Informativo)
+
+--- PÁGINA 48 ---
+A
+A
+B
+COMPLEMENTARES
+INFORMAÇÕES
+Folha 1/5
+Desenhista:
+Área Construída:
+Local:
+Ocupação:
+Resp. Técnico:
+Proprietário:
+Assunto:
+Área do Terreno:
+Projeto Completo
+²
+Esc. - 1:250
+²
+LEGENDA
+EXEMPLOS
+DESCRIÇÃO
+DIVISÃO
+OCUPAÇÃO
+GRUPO
+CLASSIFICAÇÃO
+CARGA DE INCÊNDIO - IT- 09/06
+INFORMAÇÕES SOBRE OS SISTEMAS
+CONTROLE DE MATERIAIS DE ACABAMENTO E 
+REVESTIMENTO
+ 
+ANEXO E – FL. 03/05 (Informativo)
+
+--- PÁGINA 49 ---
+ANEXO E – FL. 04/05 (Informativo) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CORTE A-A
+CORTE B-B
+COMPLEMENTARES
+INFORMAÇÕES
+Folha 1/5
+Desenhista:
+Área Construída:
+Local:
+Ocupação:
+Resp. Técnico:
+Proprietário:
+Assunto:
+Área do Terreno:
+Projeto Completo
+²
+Esc. - 1:250
+²
+LEGENDA
+
+--- PÁGINA 50 ---
+ANEXO "E " - FL. 03/04
+COMPLEMENTARES
+INFORMAÇÕES
+Folha 1/5
+Desenhista:
+Área Construída:
+Local:
+Ocupação:
+Resp. Técnico:
+Proprietário:
+Assunto:
+Área do Terreno:
+Projeto Completo
+²
+Esc. - 1:250
+²
+LEGENDA
+ 
+ANEXO E – FL. 05/05 (Informativo)
+
+--- PÁGINA 51 ---
+ANEXO F – MEMORIAL INDUSTRIAL DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEMORIAL INDUSTRIAL DE SEGURANÇA CONTRA INCÊNDIO 
+E PÂNICO 
+1. IDENTIFICAÇÃO   
+EMPRESA:                                                                                                       N.º DO PROCESSO: 
+ATIVIDADE INDUSTRIAL: 
+ENDEREÇO: 
+MUNICÍPIO:                                                                                                      e-mail: 
+2. MATÉRIA(S)-PRIMA(S) UTILIZADA(S) 
+ 
+3. PRODUTO(S) ACABADO(S)  
+ 
+4. PROCESSO INDUSTRIAL 
+(Obs.: pode ser anexado também o fluxograma de produção) 
+ 
+5. INFORMAÇÕES COMPLEMENTARES 
+ 
+ 
+ 
+6. ESPECIFICAR QUANTIDADE DO PROCESSO DE LÍQUIDOS E GASES INFLAMÁVEIS 
+ 
+ 
+ 
+____________________________ 
+Ass. do Técnico Responsável 
+ 
+ 
+_________________________________ 
+Ass. do Proprietário ou Resp. p/uso
+
+--- PÁGINA 52 ---
+ANEXO G – FORMULÁRIO PARA ATENDIMENTO TÉCNICO 
+ 
+ 
+ 
+ 
+FORMULÁRIO PARA ATENDIMENTO TÉCNICO 
+ 
+ 
+DATA: ___/___/___ 
+ 
+Nº: 
+Solicitante: 
+E-mail: 
+Tel.: 
+ 
+Proprietário 
+ 
+Resp. pelo uso 
+ 
+Procurador 
+ 
+Resp. Técnico 
+Finalidade da Consulta:  
+           
+ 
+PROTOCOLO PRESENCIAL 
+ 
+PROTOCOLO VIA INTERNET 
+ 
+Retorno de análise 
+ 
+Reclamação - Atraso em análise 
+ 
+Pedido de Reconsideração de Ato 
+ 
+Reclamação - Atraso em vistoria 
+ 
+2ª Via de AVCB (correção – pós atualização PSCIP); 
+ 
+Reclamação - Atraso em emissão de AVCB 
+ 
+2ª Via de AVCB (extravio); 
+ 
+Declaração de Cadastramento 
+ 
+2ª Via de Protocolo 
+ 
+Solicitação de Documentos para cópia 
+ 
+Anexar documento ao PSCIP 
+ 
+Dúvida sobre procedimento administrativo 
+ 
+Anexar Laudo Técnico ao PSCIP 
+ 
+Dúvida Técnica 
+ 
+Complementação de TSP  
+ 
+Solicitação de PSCIP para cópia 
+ 
+Declaração para ressarcimento de TSP  
+ 
+Reunião para esclarecimento sobre PSCIP 
+ 
+Declaração de Isenção de AVCB (residência)  
+ 
+Informação sobre edificação ou evento 
+ 
+Declaração Evento de Baixo Impacto (Isenção de PET) 
+ 
+Informação sobre recurso 
+ 
+Outros: 
+ 
+Outros: 
+  
+INFORMAÇÕES SOBRE A EDIFICAÇÃO, INSTALAÇÃO OU ÁREA DE RISCO 
+Endereço: 
+Área (m2): 
+Altura (m): 
+Ocupação: 
+Projeto técnico nº: 
+Vistoria nº: 
+Razão Social: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+______________________________________ 
+Nome: Assinatura 
+RG/CREA
+
+--- PÁGINA 53 ---
+ANEXO H – ATESTADO DE FORMAÇÀO DE BRIGADA DE INCÊNDIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATESTADO 
+ 
+ 
+ 
+ 
+Atesto, para os devidos fins, que as pessoas abaixo relacionadas, funcionários da 
+situada à Rua/Av.  ,nº    , no bairro                  , na cidade de                  , participaram do curso de treinamento 
+de Brigada de Incêndio, de  ____ horas aulas, realizado no período de ___/_____/20__, no Corpo de 
+Bombeiros Militar de Minas Gerais/na escola de treinamento de Brigadas __________________. Tendo 
+concluído com aproveitamento o curso, estão aptas para operarem os sistemas e equipamentos de proteção e 
+combate a incêndios instalados na edificação: 
+ 
+ 
+NOME 
+RG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                       
+_____________________, de_______________ de  20   . 
+ 
+ 
+_________________________________ 
+   Assinatura do Corpo de Bombeiros
+
+--- PÁGINA 54 ---
+ANEXO “H 1” – ATESTADO DE BRIGADA DE INCÊNDIO 
+   
+   
+   
+ 
+ATESTADO  
+ 
+ 
+ 
+ 
+    
+ 
+Atesto para os devidos fins que as pessoas abaixo relacionadas participaram com bom aproveitamento do 
+treinamento de "Brigada de Incêndio" ministrado na Edificação localizada na __________________  nº _____ – bairro 
+___________ – município de ___________ -MG e estão aptas ao manuseio dos equipamentos de prevenção e combate a incêndio 
+da edificação: 
+ 
+NOME 
+R.G. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+______________, __ de _______ de _____. 
+ 
+ 
+ 
+ 
+NOME COMPLETO 
+Qualificação Profissional  
+Registro Nº 00000 
+ 
+ 
+Só é válido com a comprovação da capacitação técnica do signatário 
+(anexar cópia da credencial)
+
+--- PÁGINA 55 ---
+ANEXO I – MODELO DE REQUERIMENTO EM GRAU DE RECURSO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODELO DE REQUERIMENTO EM GRAU DE RECURSO 
+ 
+ 
+Solicitante: 
+Recurso à Unidade/fração (   ) 
+Recurso ao DAT ( ) 
+INFORMAÇÕES SOBRE A EDIFICAÇÃO, INSTALAÇÃO OU ÁREA DE RISCO 
+Endereço: 
+Proprietário/Resp. p/uso: 
+Área (m2): 
+Altura (m): 
+Ocupação: 
+Projeto técnico____________________ nº: 
+Vistoria nº: 
+Documento de referência: 
+Pedido: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Motivo do pedido: (incluir fundamentação legal, quando for o caso). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Local:                                                                                                                                   Data: 
+ 
+ 
+ 
+ 
+Assinatura do proprietário/Resp. p/uso 
+ 
+ 
+ 
+ 
+Assinatura do Responsável Técnico
+
+--- PÁGINA 56 ---
+ANEXO J – PEDIDO DE VISTORIA 
+ 
+ 
+ 
+ 
+PEDIDO DE VISTORIA 
+                                                                       
+Projeto nº 
+  Área   
+ Taxa 
+ 
+Endereço 
+ 
+ 
+ 
+Atividade desenvolvida 
+ 
+ 
+ 
+Vistoria 
+(   ) parcial1 
+ 
+ 
+(   ) final 
+ 
+Proprietário 
+ 
+ 
+ 
+Responsável pelo uso 
+ 
+ 
+ 
+Responsável Técnico 
+ 
+ 
+ 
+Telefone de contato 
+ 
+ 
+ 
+ 
+ 
+Data 
+ 
+ 
+ 
+Atendente 
+ 
+ 
+ 
+ 
+1 – necessário apresentação do FAT
+
+--- PÁGINA 57 ---
+ANEXO K – INFORMATIVO – MEDIDAS DE SEGURANÇA 
+ 
+INFORMATIVO – MEDIDAS DE SEGURANÇA 
+ 
+EXTINTORES  
+IT. 16 
+ 
+ 
+AGUA PRESSURIZADA  - 2A 
+PÓ QUIMICO SECO BC – 20 B:C 
+GAS CARBONICO BC – 5 B:C 
+ 
+ 
+ILUMINAÇÃO DE  
+EMERGENCIA 
+ 
+CONFORME  IT  13 
+ 
+ 
+ 
+ 
+ALARME E DETECÇÃO 
+ 
+ 
+ 
+ 
+CONFORME  IT  14 
+ 
+ 
+HIDRANTES 
+ 
+TUBULAÇAO 63/100/150mm FERRO GALVANIZADO 
+HIDRANTES – MANG. 38mm – COMPR. 30m 
+ESGUICHOS REGULAVEIS – IT 17 
+ 
+ 
+SINALIZAÇÃO DE 
+EMERGENCIA 
+ 
+ 
+CONFORME IT 15 
+ 
+ 
+BRIGADA DE 
+INCÊNDIO 
+ 
+ 
+ 
+CONFORME  IT 12 
+ 
+CLASSIFICAÇÃO 
+ 
+ 
+GRUPO 
+ 
+OCUPAÇÃO 
+ 
+DIVISÃO 
+ 
+DESCRIÇÃO 
+ 
+EXEMPLOS 
+ 
+ 
+ 
+I 
+ 
+ 
+INDUSTRIAL 
+ 
+ 
+I-2 
+ 
+TEXTIL  
+EM GERAL 
+ 
+ATUALMENTE IND. 
+TEXTIL 
+ 
+ 
+CARGA DE INCENDIO – IT 09 
+ 
+ 
+OCUPAÇÃO/USO 
+ 
+ 
+DESCRIÇÃO 
+ 
+DIVISÃO 
+ 
+CARGA DE INCENDIO EM 
+MJ/M² 
+ 
+I 
+ 
+ 
+TEXTIL 
+EM GERAL 
+ 
+ 
+I-2 
+ 
+ 
+700 MJ/M² 
+ 
+CLASSIFICAÇÃO DAS EDIFICAÇÕES E AREAS DE RISCO  
+QUANTO A CARGA DE INCENDIO 
+ 
+RISCO 
+ 
+ 
+CARGA DE INCENDIO MJ/M² 
+ 
+ 
+MEDIO 
+ 
+ 
+700 MJ/M² 
+ 
+CONTROLE DE MATERIAIS DE ACABAMENTO E REVESTIMENTO 
+ 
+PISO 
+acabamento 
+CLASSE I, II-A, III-A  ou IV-A 
+ 
+revestimento 
+PAREDE 
+acabamento 
+CLASSE I ou II-A 
+ 
+revestimento 
+TETO E 
+FORRO 
+acabamento 
+CLASSE I ou II-A
+
+--- PÁGINA 58 ---
+TRANSPORTE
+DE MATERIAL
+ED. 01
+1- E +  4
+ADMINISTRAÇÃO
+PLANTA DE RISCO DE INCÊNDIO 
+ESTACIONAMENTO
+RESIDÊNCIA
+ED. 6
+ED. 3
+E+ 3
+PRODUÇÃO
+ED. 05
+DEPÓSITO
+ED. 4
+E+ 3
+PRODUÇÃO
+DESENVOLVIMENTO
+ED. 2
+AQUECEDOR
+ÁREA SOCIAL
+CANTINA
+1 - E+  2
+1 - E+  2
+Assunto:
+Resp. Técnico:
+Desenhista:
+Proprietário:
+Área do Terreno:
+Local:
+Ocupação:
+RISCO
+PLANTA DE
+Folha 1/1
+Esc. - 1:750
+Área Construída:
+Projeto Completo
+²
+²
+X-T-Y (X =  pavimento  abaixo do térreo; T=  térreo; 
+C
+GELADOS
+Y=  pavimento acima do térreo)
+Entrada para o  CB Combate a  Incêndio
+Vaso sob pressão (caldeira)
+Escada c/resistência 90min
+Central Predial de GLP
+Hidrante público de coluna
+Hidrante público subterrâneo
+Reserva de incêndio
+Registro de recalque
+10,00
+10,00
+Parede Corta-fogo - 90 min
+Parede Corta-fogo - 120 min
+Paredes de compartimentação
+ 
+ANEXO L – PLANTA DE RISCO (Informativo)
+
+--- PÁGINA 59 ---
+ANEXO “M”- TERMO DE COMPROMISSO DO PROPRIETÁRIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TERMO DE COMPROMISSO  
+ 
+ 
+ 
+Visando a concessão do Auto de Vistoria do Corpo de Bombeiros da 
+CBMMG, a edificação situada na ____________________________ nº , bairro 
+_________________ - município de __________________ -MG,  que possui Projeto Técnico 
+aprovado nesse Corpo de Bombeiros sob o nº ___________, ora desatualizado devido a não 
+previsão em planta das medidas de segurança contra incêndio e pânico exigidas no 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no 
+Estado de Minas Gerais, de acordo com o previsto no item 6.2.3.3 da IT 01. 
+Comprometo-me a modificar o atual Projeto acima descrito, nos moldes 
+previstos na IT 01 - Procedimentos Administrativos, prevendo as medidas de segurança contra 
+incêndio e pânico exigidas.  
+____________, ____ de ______________ de 200__. 
+ 
+ 
+________________________________ 
+Nome: 
+Endereço: 
+Proprietário/Responsável legal pelo imóvel
+
+--- PÁGINA 60 ---
+ANEXO “N”- ATESTADO DE ABRANGÊNCIA DO GRUPO MOTOGERADOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATESTADO DE ABRANGÊNCIA DO GRUPO MOTOGERADOR 
+ 
+ 
+ 
+ 
+ 
+Eu,______________________________________________registrado no CREA sob o nº __________________, 
+visando a concessão do Auto de Vistoria do CBMMG, atesto que o Grupo Motogerador existente na edificação situada na 
+__________________________________________________________________, encontra-se instalado de acordo com as exigência da NBR 
+10898, tendo as seguintes características: 
+Motor ( marca e modelo): 
+Potência: 
+Tensão: 
+Tipo de acionamento: 
+Combustível: 
+Capacidade do Tanque: 
+Autonomia: 
+Abrangência: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Local:                                                                                                                  Data: 
+ 
+ 
+      _____________________________________ 
+Assinatura do Responsável Técnico 
+ 
+ 
+ 
+Nº da ART:
+
+--- PÁGINA 61 ---
+ANEXO O - MEMORIAL DE SEGURANÇA CONTRA INCÊNDIO DAS ESTRUTURAS MEMORIAL  
+ 
+Nome da Empresa             , registrada no CREA sob n° ______________, atendendo o disposto no item 5.18 Instrução 
+Técnica n° 06 do Corpo de Bombeiros Militar de Minas Gerais, declara, para fins de aprovação do Projeto de Segurança Contra 
+Incêndio e Pânico junto ao CBMMG, que a edificação em questão, será projetada em conformidade com as informações abaixo:   
+ 
+Edificação:     (Nome da Edificação)   
+Logradouro Público/n°:       (Endereço)   
+Responsável pelo Uso:       (nome)   
+Altura(s) da Edificação (m):   (altura)  
+Ocupação:  
+Data:       (Data)   
+Estrutura: (Concreto armado, aço, mista, alvenaria estrutural,...) 
+ 
+METODOLOGIA PARA SE ATINGIR OS TRRF DOS ELEMENTOS ESTRUTURAIS 
+[citar norma(s) empregada(s)] 
+ 
+A metodologia adotada foi... [descrever a metodologia, seja por ensaios, cartas de coberturas, métodos analíticos etc e norma(s)] ...   
+Os ensaios de resistência ao fogo adotado foram o Relatório (IPT nº, ou UL nº etc – citar os ensaios, e especificar se é para pilares, 
+vigas etc).   
+ 
+DETERMINAÇÃO DO TEMPO REQUERIDO DE RESISTÊNCIA AO FOGO (TRRF) 
+CRITÉRIOS PARA DETERMINAÇÃO DO TRRF: 
+Para a definição dos TRRF’s foi adotada  (por exemplo:Tabela A da Instrução Técnica n° 06, conforme o item “5. Procedimentos” da 
+referida Instrução Técnica; ou método do tempo equivalente ou outros devidamente comprovados, tudo conforme IT 06).   
+ 
+Tempo Requerido de Resistência ao Fogo (TRRF): 
+Exemplo:  
+As estruturas principais terão TRRF de 90 min para colunas, contraventamentos e vigas principais conforme Tabela A, Grupo D, 
+Classe P4 da Instrução Técnica n° 06.   
+As vigas secundárias terão TRRF de 60 min, conforme Anexo A, da Instrução Técnica n° 06.  
+As  compartimentações,  escadas  de  segurança,  selagens de shafts e divisórias entre unidades  
+autônomas serão executadas conforme segue: _______________________________________, com os seguintes TRRF: 
+____________________________________. Tudo conforme item 5.7 da IT-06.  
+Observações: _______________________________________________  
+ 
+ISENÇÕES OU REDUÇÕES DE TRRF 
+Exemplos:  (Não  foi  adotada  nenhuma  condição para redução ou isenção de TRRF na presente  
+edificação... Ou isenção de TRRF para os pilares externos protegidos por alvenaria cega... Ou Isenção dos perfis confinados em área 
+fria, conforme folhas...).  
+ 
+MATERIAIS DE PROTEÇÃO CONTRA FOGO E RESPECTIVAS ESPESSURAS DE PROTEÇÃO E/OU 
+DIMENSIONAMENTO DOS ELEMENTOS ESTRUTURAIS: 
+ 
+ 
+Para fins de dimensionamento dos elementos estruturais e dos revestimentos para proteção passiva das estruturas, será 
+contratado especialista em estruturas, que deverá seguir as normas prescritas na IT-06, ou outras que surgirem ou que vierem a 
+substituí-las, conforme TRRF previsto neste Memorial. 
+ 
+No ato da vistoria, serão apresentados ART referente ao Projeto de Estruturas e execução, juntamente com as respectivas 
+declarações de que o projeto e execução foram realizados conforme o prescrito na IT-06. 
+ 
+(No caso de edificação já construída será apresentado ART de Profissional Legalmente habilitado referente à verificação 
+das condições de segurança estrutural e ações para cumprimento ao disposto na IT-06). 
+  
+____________________________________  
+ 
+__________________________________ 
+Nome:   
+ 
+ 
+ 
+ 
+ 
+Nome: 
+Resp. Técnico pelo PSCIP - CREA nº  
+ 
+Proprietário ou responsável pela Edificação
+
+--- PÁGINA 62 ---
+ANEXO P – DECLARAÇÀO DE ELABORAÇÃO DE PROJETO ESTRUTURAL EM CONFORMIDADE COM AS 
+NORMAS BRASILEIRA E IT-06: 
+ 
+ 
+DECLARAÇÃO 
+ 
+ 
+ 
+Declaro para os devidos fins, que as estruturas da edificação localizada à rua _______________, nº__________, Bairro 
+____________, nesta capital foram dimensionadas em conformidade com a Instrução Técnica nº 06 do Corpo de Bombeiros de 
+Minas Gerais, sendo previstas as devidas medidas de segurança para as estruturas com as seguintes características: 
+ 
+ 
+Estrutura de aço/mista/: 
+Procedimento adotado: Foi adotada o método de cálculo previsto na NBR 14.323/Eurocode  
+Materiais Utilizados: (citar todos materiais utilizados na proteção dos elementos estruturais, se for o caso).  
+Espessuras Adotadas: As espessuras foram calculadas com base: nos seguintes ensaios laboratoriais /  de acordo com os 
+procedimentos da Norma ____ / conforme carta de cobertura em anexo ... 
+ 
+Estrutura de Concreto: 
+ 
+Procedimento adotado: Foi adotado o método tabular/ método simplificado de cálculo/método experimental/outros 
+métodos, conforme norma_______. 
+ 
+Dimensões adotadas: Para vigas/pilares/outros foram adotadas as seguintes dimensões. 
+ 
+ 
+Outras estruturas: 
+ 
+Procedimento adotado: Foi adotado o método ____conforme norma_____. 
+ 
+Dimensões adotadas: Para vigas/pilares/outros foram adotadas as seguintes dimensões. 
+Materiais Utilizados: (citar todos materiais utilizados na proteção dos elementos estruturais, se for o caso).  
+ 
+ 
+TRRF:. Foram adotados os TRRF previstos no PSCIP ou/ os TRRF foram redimensionados adotando-se o método_____, cujo 
+memorial segue em anexo. 
+ 
+ 
+___________________________________ 
+Nome:   
+CREA nº 
+Resp. Técnico pelo Projeto de Segurança Estrutural 
+ 
+ 
+ 
+ 
+ 
+Obs.: A presente declaração deverá ser acompanhada da respectiva  Anotação de Responsabilidade Técnica (ART) .
+
+--- PÁGINA 63 ---
+ANEXO Q 
+RELATÓRIO DE VISTORIA 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ÁREA DE RISCO  
+Logradouro Público:  
+N.º.                                                                      Complemento: 
+Bairro:                                                                  Município:                                                     UF: 
+Proprietário:                                                                                                                   
+Responsável pelo uso:                                                                                             Fone: 
+N.º do Processo anterior:                                                          Decreto Adotado (nº e ano):              
+Uso, Divisão e Descrição: 
+Área existente:                                  a construir:                                                  total: 
+Altura da edificação:                                  n.ºde pav.: 
+Carga Incêndio 
+ 
+Baixa 
+ 
+Média 
+ 
+Alta 
+Estrutura portante (concreto, aço, madeira, outros): 
+Estrutura de sustentação da cobertura (concreto, aço, madeira, outros): 
+PROCEDIMENTO SIMPLIFICADO 
+USO DO CBMMG 
+ 
+ 
+2. MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PANICO 
+MEDIDAS 
+ 
+Conformidade 
+OBSERVAÇÕES 
+SIM 
+NÃO 
+EXTINTORES 
+NO  Unidades 
+ 
+ 
+ 
+ 
+Instalação 
+ 
+ 
+Sinalização 
+ 
+ 
+SAÍDA DE 
+EMERGÊNCIA 
+Largura das portas  
+ 
+ 
+ 
+Largura das escadas 
+ 
+ 
+Piso antiderrapante 
+ 
+ 
+Guarda- corpo 
+ 
+ 
+Corrimão  
+ 
+ 
+ILUMINAÇÃO DE 
+EMERGÊNCIA 
+Altura de Instalação  
+ 
+ 
+ 
+Distância entre luminárias 
+ 
+ 
+Tempo mínimo de duração 
+ 
+ 
+Teste de funcionamento 
+ 
+ 
+SINALIZAÇÃO DE 
+EMERGÊNCIA 
+Altura de Instalação 
+ 
+ 
+ 
+Tamanho da sinalização 
+ 
+ 
+Cores correspondentes 
+ 
+ 
+Forma geométrica e dimensão 
+ 
+ 
+Distância máxima de 
+visualização 
+ 
+ 
+ 
+APROVAÇÃO ___/______/____ 
+ 
+VISTORIANTES: NOME: ________________________________________________ N0 _____________                                      
+ 
+                                NOME: ________________________________________________ N0  _____________     
+                                   
+ASS. CMT GUARNIÇÃO:
+
+--- PÁGINA 64 ---
+3. INFORMAÇÕES COMPLEMENTARES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATA___/______/____ 
+ 
+ASS. VISTORIADOR:
+
+--- PÁGINA 65 ---
+ANEXO R - DECLARAÇÃO DO RESPONSÁVEL TÉCNICO PELA EXECUÇÃO DO PROJETO DE SEGURANÇA 
+ESTRUTURAL 
+ 
+ 
+ 
+DECLARAÇÃO  
+ 
+ 
+ 
+Declaro para os devidos fins, que as estruturas da edificação localizada à rua _______________, nº__________, Bairro 
+____________, nesta capital foram executadas em conformidade com o respectivo projeto estrutural. 
+ 
+ 
+_____________________________ 
+Nome: 
+Nº de Registro CREA 
+ 
+ 
+Obs.: A presente declaração deverá ser acompanhada da respectiva  Anotação de Responsabilidade Técnica (ART).

@@ -1,0 +1,547 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 34 
+2ª edição 
+CADASTRAMENTO DE EMPRESAS E 
+RESPONSÁVEIS TÉCNICOS 
+ 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+SUMÁRIO 
+1 – Objetivo 
+2 – Referências  
+3 – Definições 
+4 – Aplicação 
+5 – Princípios 
+6 –Procedimentos 
+7 – Recadastramento 
+8 – Cancelamento/Suspensão do 
+Cadastro  
+9 – Das Vistorias 
+10 – Dos Recursos 
+11 – Prescrições Diversas 
+ 
+ 
+ANEXOS 
+A – Requerimento de Cadastro de 
+Pessoa Jurídica 
+B – Requerimento de Cadastro de 
+Pessoa Física 
+C – Check-list
+
+--- PÁGINA 2 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+2/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+1.OBJETIVO  
+Fixar critérios para cadastramento de pessoas físicas e jurídicas:  
+1.1 responsável pela comercialização, instalação, manutenção e conservação de aparelhos de 
+prevenção contra incêndio e pânico utilizados em edificações e áreas de risco.  
+1.2 responsável técnico pelo sistema de segurança contra incêndio e pânico em eventos 
+temporários especificados nesta Instrução Técnica.  
+1.3 profissional apto a apresentar projetos de prevenção contra incêndio e pânico.  
+2 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las:  
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+Decreto Estadual n. 46.595/2014 – Altera o Decreto Estadual nº 44.746. 
+Lei Estadual 14.938, de 29 de dezembro de 2003 – Altera a Lei n. 6.763, de 26 de dezembro de 
+1975, que consolida a legislação tributária no Estado, e dá outras providências.   
+Decreto Estadual 43.779, de 12 de abril de 2004 – Altera o Regulamento das Taxas Estaduais 
+(RTE), aprovado pelo Decreto n. 38.886, de 1º de julho de 1997, e dá outras providências.   
+Lei Federal 8.666, de 21 junho de 1993 – Regulamenta o art. 37, inciso XXI, da Constituição 
+Federal – Institui normas para licitações e INSTRUÇÃO TÉCNICA – 34  
+Lei Federal 8.078, de 11 de setembro de 1990 – Dispõe sobre a proteção do consumidor e dá 
+outras providências.   
+CNAE 2.2 – Ministério do Planejamento, Orçamento e Gestão. Instituto Brasileiro de Geografia e 
+Estatística. Comissão Nacional de Classificação. Resoluções IBGE/CONCLA n. 01 de 04 de 
+setembro de 2006 e n. 02, de 15 de dezembro de 2006.  
+3 DEFINIÇÕES  
+Para os efeitos desta instrução são adotadas as seguintes definições:  
+3.1 Comercialização  
+Ato ou efeito de comercializar. Venda de mercadorias. Serviço efetuado com a finalidade de 
+comercializar equipamentos, peças e acessórios de prevenção contra incêndio e pânico.  
+3.2 Instalação  
+Serviço efetuado com a finalidade de instalar equipamentos, peças e acessórios de prevenção 
+contra incêndio e pânico.
+
+--- PÁGINA 3 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+3/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+3.3 Manutenção  
+Serviço efetuado com a finalidade de manter as condições originais de operação nos 
+equipamentos, peças e acessórios do sistema de prevenção contra incêndio e pânico.   
+3.3.1 Manutenção de 1º Nível  
+É a manutenção essencialmente preventiva. Pode incluir lubrificação e reaperto de peças que 
+não impliquem regulagens de relativa precisão. Pode ser executada no local, não havendo 
+necessidade de uma oficina especializada.  
+3.3.2 Manutenção de 2º Nível  
+Requer execução de serviços com equipamento e local apropriados e por pessoal habilitado. 
+Consiste da realização de pequenos reparos, ajustagens e substituições de peças e pequenos 
+conjuntos. Presta assistência técnica especializada dentro das suas possibilidades.  
+3.3.3 Manutenção de 3º Nível  
+Requer execução de serviços com equipamento e local apropriados e por pessoal habilitado. A 
+manutenção de terceiro nível consiste no processo de revisão total do equipamento, incluindo a 
+execução testes e/ou ensaios, substituição e reparação de peças e conjuntos caso seja 
+necessário.  
+Parágrafo único: serão cadastrados no CBMMG os responsáveis por manutenção que 
+executarem qualquer um dos níveis de manutenção descritos nos subitens 3.3.1; 3.3.2 e 3.3.3.  
+3.4 Conservação  
+Serviço efetuado periódica ou permanentemente, incluindo a limpeza, com a finalidade de conter 
+as deteriorizações em seu início nos equipamentos, peças e acessórios do sistema de 
+prevenção contra incêndio e pânico.  
+3.5 Elaboração  
+Serviço de elaboração de projetos de prevenção e combate a incêndio e pânico por 
+responsáveis técnicos.  
+4 APLICAÇÃO  
+A presente Instrução Técnica aplica-se a pessoas físicas e jurídicas:   
+a) responsáveis pela comercialização, instalação, manutenção e/ou conservação de aparelhos 
+de prevenção contra incêndio e pânico utilizados em edificações e áreas de risco;  
+b) responsável técnico pelo sistema de segurança contra incêndio e pânico em eventos 
+temporários em áreas públicas ou privadas, estabelecidos na IT 33;  
+c) profissional apto a apresentar projetos de prevenção contra incêndio e pânico.   
+4.1 Esta Instrução Técnica (IT) não se aplica a empresas que vendem/revendem ou executam 
+serviços de manutenção/recarga (exclusivamente) em extintores para veículos automotores.
+
+--- PÁGINA 4 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+4/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+5 PRINCÍPIOS  
+5.1 A política nacional de relações de consumo prevista na Lei Federal 8.078, de 11 de setembro 
+de 1.990 – código de defesa do consumidor – tem por objetivo o atendimento das necessidades 
+dos consumidores, o respeito a sua dignidade, saúde e segurança, a proteção de seus 
+interesses econômicos, a melhoria da sua qualidade de vida, bem como a transparência e 
+harmonia das relações de consumo, atendendo a princípios consagrados, dentre eles a ação 
+governamental no sentido de proteger efetivamente o consumidor.  
+5.2 A lei estadual 14.130, de 19 de dezembro de 2.001, estabelece em seus artigos 6º e 7º 
+respectivamente a obrigatoriedade da presença de responsável técnico, na forma estabelecida 
+em regulamento do CBMMG, em evento temporário realizado no Estado de Minas Gerais e o 
+cadastramento no CBMMG de pessoa física ou jurídica responsável pela comercialização, 
+instalação, manutenção e conservação de aparelhos de prevenção contra incêndio e pânico 
+utilizados em edificações de uso coletivo / áreas de risco.  
+5.3 O Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no 
+Estado de Minas Gerais em seu artigo 10, estabelece que a pessoa física e jurídica especificada 
+no item 5.2 deve cadastrar-se no Corpo de Bombeiros para o exercício dessas atividades.  
+5.4 O cadastramento de empresas realizado pelo CBMMG se destina ao controle das pessoas 
+físicas e jurídicas que prestam serviços na área de segurança contra incêndio e pânico no 
+Estado de Minas Gerais.  
+5.5 Este cadastramento será disponibilizado para o consumidor em um banco de dados para 
+consulta pública de empresas e profissionais aptos a realizarem atividades relacionadas à 
+prevenção contra incêndio e pânico (apresentação de projetos, comercialização, manutenção, 
+instalação, conservação de aparelhos de prevenção contra incêndio e pânico utilizados em 
+edificações e áreas de risco, segurança contra incêndio e pânico em eventos).  
+5.6 A CNAE – Classificação Nacional de Atividades Econômicas é aplicada a todos os agentes 
+econômicos que estão engajados na produção de bens e serviços, podendo compreender 
+estabelecimentos de empresas privadas ou públicas, organismos públicos e privados, 
+instituições sem fins lucrativos e agentes autônomos (pessoa física). Sua tabela de atividades é 
+utilizada como referência, sendo requisito para o cadastramento de pessoa jurídica no CBMMG, 
+possuir classificação compatível com as atividades dos itens 3.1 a 3.4 desta IT.   
+6 PROCEDIMENTOS  
+6.1 Das exigências  
+6.1.1 As exigências quanto a composição dos documentos, bem como os procedimentos 
+relativos à forma de apresentação destes poderão ser alteradas pelo Diretor de Atividades 
+Técnicas, mediante Circular, visando a implantação do INFOSCIP no CBMMG.   
+6.1.2 Do cadastramento de pessoas físicas e jurídicas responsáveis pela comercialização, 
+instalação, manutenção e conservação de equipamentos e aparelhos de prevenção contra 
+incêndio e pânico.   
+6.1.2.1 Cadastramento de pessoa jurídica  
+6.1.2.1.1 As empresas de manutenção, conservação e instalação, deverão possuir em seus 
+quadros, profissionais habilitados na área específica de segurança contra incêndio e pânico em 
+acordo com o quadro de atribuições e responsabilidades elaborado pelo Conselho Regional de 
+Engenharia e Agronomia (CREA) e Conselho de Arquitetura e Urbanismo (CAU).
+
+--- PÁGINA 5 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+5/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+6.1.2.1.2 As empresas de comercialização de equipamentos ficam dispensadas do requisito 
+previsto no item 6.1.2.1.1.  
+6.1.2.1.3 Na Região Metropolitana de Belo Horizonte (RMBH) o requerimento de cadastramento 
+será protocolado no Centro de Atividades Técnicas (CAT) e, no interior do estado, nas Unidades 
+do CBMMG onde haja Serviço de Segurança Contra Incêndio e Pânico (SSCIP), as quais 
+deverão conferir previamente a documentação exigida nesta IT e, estando em conformidade, 
+remetê-la ao CAT para efetivação do cadastramento. Fica facultado ao requerente protocolar a 
+documentação diretamente no CAT ou enviá-la por meio do serviço de correios. Deverão ser 
+apresentados os seguintes documentos:  
+a) guia de recolhimento de taxa de segurança pública (Órgão “Corpo de Bombeiros Militar de 
+Minas Gerais” e Serviço de “Taxa de Segurança Pública – Cadastramento Pessoa jurídica” 
+emitido no site da SEF) e respectivo comprovante de pagamento no valor de:  
+● 202,94 UFEMG (duzentas e duas e noventa e quatro Unidade Fiscal do Estado de Minas 
+Gerais) para as atividades de comércio, instalação, manutenção e conservação;  
+b) auto de Vistoria do Corpo de Bombeiros (AVCB) da edificação ou área onde se encontra a 
+pessoa jurídica ou equivalente (Declaração de Isenção de AVCB / Certificado de 
+Funcionamento) ou documento equivalente quando se tratar de endereço de outro estado;   
+c) cópia do Alvará de funcionamento emitido pela Prefeitura Municipal;  
+d) cópia do Contrato Social registrado na Junta Comercial do Estado em que conste, no objeto 
+social, atividade relacionada ao serviço ao qual se requer cadastro junto ao CBMMG;   
+e) comprovante de Inscrição e Situação Cadastral de Pessoa Jurídica, em que conste atividade 
+relacionada ao serviço ao qual se requer cadastro junto ao CBMMG;   
+f) para as empresas que realizam manutenção de 2º e 3º níveis em extintores, será exigido o 
+número do Registro de Objeto com Conformidade Avaliada Compulsória no INMETRO.   
+g) certificado de regularidade para com o FGTS expedido pela Caixa Econômica Federal;  
+h) certidão negativa de débito para com o INSS;  
+i) prova de regularidade com a Fazenda Estadual e Municipal do domicílio ou sede da empresa;  
+j) comprovante de endereço da empresa;  
+k) anexo A preenchido com reconhecimento de firma na assinatura do proprietário e/ou RT;  
+6.1.2.2 Cadastramento de pessoa física 
+6.1.2.2.1 O requerimento de cadastramento será protocolado no Centro de Atividades Técnicas 
+(CAT) e, no interior do estado, nas Unidades do CBMMG onde haja Serviço de Segurança 
+Contra Incêndio e Pânico (SSCIP), as quais deverão conferir previamente a documentação 
+exigida nesta IT e, estando em conformidade, remetê-la ao CAT para efetivação do 
+cadastramento. Fica facultado ao requerente protocolar a documentação diretamente no CAT ou 
+enviá-la por meio do serviço de correios.  
+Deverão ser apresentados os seguintes documentos:
+
+--- PÁGINA 6 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+6/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+a) guia de recolhimento de taxa de segurança pública (Órgão “Corpo de Bombeiros Militar de 
+Minas Gerais” e Serviço de “Taxa de Segurança Pública – Cadastramento Pessoa física” emitido 
+no site da SEF) e respectivo comprovante de pagamento no valor de:  
+● 202,94 UFEMG (duzentas e duas e noventa e quatro Unidade Fiscal do Estado de Minas 
+Gerais) para as atividades de comércio, instalação, manutenção e conservação;  
+● 100 UFEMG (cem Unidade Fiscal do Estado de Minas Gerais) para a atividade de 
+apresentação de projetos.  
+b) cópia da carteira de identidade profissional do CREA/CAU;   
+c) anexo B preenchido com reconhecimento de firma da assinatura RT;  
+d) cópia do comprovante de endereço;  
+e) cópia da certidão de registro e quitação junto ao CREA/CAU.   
+6.1.3 Cadastramento do Responsável Técnico pelo sistema de segurança contra incêndio e 
+pânico em eventos temporários.  
+6.1.3.1 Para atendimento do artigo 6º da Lei 14.130, de 19 de dezembro de 2.001, será 
+obrigatória a presença de Responsável Técnico nos eventos públicos previstos para realização 
+em edificações ou áreas estabelecidas na instrução de eventos temporários.  
+6.1.3.2 O responsável técnico em eventos temporários deverá ser profissional com registro no 
+CREA/CAU, de acordo com a regulamentação das atribuições de títulos profissionais, atividades, 
+competências e caracterização do âmbito de atuação dos profissionais inseridos no sistema 
+CONFEA/CREA/CAU.  
+6.1.3.3 O Corpo de Bombeiros poderá realizar vistorias de fiscalização durante os eventos para 
+averiguação do cumprimento desta norma, devendo o RT estar em condições de responder 
+sobre o sistema de segurança contra incêndio e pânico, plano de emergência, controle da 
+brigada de incêndio e outras exigências estabelecidas durante a aprovação do projeto de 
+segurança contra incêndio e pânico.  
+6.1.3.4 A realização do cadastro será facultativa, devendo o requerimento ser protocolado 
+conforme item 6.1.2.2.1 desta IT acompanhada dos documentos elencados nas alíneas do item 
+supracitado sendo a taxa de 100 UFEMG (cem Unidade Fiscal do Estado de Minas Gerais).  
+6.1.4. Profissional apto a apresentar projetos de segurança contra incêndio e pânico.  
+6.1.4.1 O profissional apto a apresentar projeto de segurança contra incêndio e pânico deverá 
+ser profissional com registro no CREA/CAU, de acordo com a regulamentação das atribuições de 
+títulos profissionais, atividades, competências e caracterização do âmbito de atuação dos 
+profissionais inseridos no sistema CONFEA/CREA/CAU.  
+6.1.4.2 A realização do cadastro será facultativa, devendo ser protocolado conforme item 
+6.1.2.2.1 desta IT acompanhada dos documentos elencados nas alíneas do item supracitado.  
+6.2 Coordenação e Controle  
+O cadastramento de pessoa física e jurídica responsáveis pela comercialização, instalação, 
+manutenção e conservação de equipamentos e aparelhos de prevenção contra incêndio pânico
+
+--- PÁGINA 7 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+7/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+e profissionais aptos a apresentar projetos de SCIP no estado de Minas Gerais será centralizado 
+no CAT.  
+6.2.1 O CAT, por meio da Adjutória de Vistoria e Técnica, realizará as atividades afetas ao 
+cadastro previsto nesta Instrução Técnica e o Subchefe do CAT será o responsável pela 
+emissão das declarações.   
+6.2.2 Atendido os requisitos mínimos estabelecidos nesta Instrução Técnica, na Região 
+Metropolitana de Belo Horizonte (RMBH) o requerimento de cadastramento será protocolado no 
+Centro de Atividades Técnicas (CAT) e, no interior do estado, nas Unidades do CBMMG onde 
+haja Serviço de Segurança Contra Incêndio e Pânico (SSCIP), as quais deverão conferir 
+previamente a documentação exigida nesta IT e, estando em conformidade, remetê-la ao CAT 
+para efetivação do cadastramento. Fica facultado ao requerente protocolar a documentação 
+necessária diretamente no CAT ou enviá-la por meio do serviço de correios.   
+6.2.3 As Unidades do interior que receberem a documentação de cadastro deverão enviá-la ao 
+CAT juntamente com o Checklist constante no Anexo “C” desta Circular devidamente 
+preenchido.  
+6.2.4 Fica facultado ao solicitante que pleiteie o cadastro protocolar a documentação diretamente 
+no CAT ou enviá-la ao Centro de Atividades Técnicas por meio de serviço de correios. Para os 
+cadastros do interior do estado, oriundos de municípios onde haja Unidade do CBMMG com 
+SSCIP, o interessado deverá apresentar a documentação previamente em uma destas Unidades 
+para conferência, as quais deverão preencher o Anexo “C” e entregá-lo ao solicitante para 
+integrar a documentação que será enviada ao CAT.  
+6.2.5 Recebida e conferida a documentação no CAT, será feito o cadastramento do RT e/ou 
+empresa em um prazo máximo de 05 (cinco) dias úteis. Caso falte alguma documentação, o CAT 
+informará ao solicitante.  
+6.2.6 A contagem do prazo para cadastramento de profissionais e empresas pelo CBMMG terá 
+início a partir do recebimento dos documentos pelo CAT, momento em que será efetivado o 
+protocolo.   
+6.2.7 O cadastramento terá a validade do ano em exercício, porém, estendida a renovação até 
+31 de março, conforme Lei Estadual 14.938 e Decreto estadual 43.779.  
+6.2.8 O CAT atualizará e disponibilizará diariamente no endereço eletrônico oficial do CBMMG a 
+lista de pessoa física e jurídica credenciadas.  
+6.2.9 A pessoa física ou jurídica estará em condições de executar as atividades de prevenção 
+contra incêndio e pânico definidas nesta IT após a disponibilização no endereço eletrônico oficial 
+do CBMMG do nome da pessoa física ou jurídica credenciada.   
+6.2.10 A qualquer tempo, o CBMMG poderá realizar diligências para verificação da 
+documentação apresentada para o cadastro.  
+6.2.11 O CAT fornecerá declaração de cadastro mediante solicitação do responsável técnico ou 
+empresa cadastrada através de e-mail ou presencialmente.   
+6.2.12 As Unidades deverão criar mecanismo de protocolo de entrada e controle dos 
+requerimentos de cadastro e, nos casos de entrega presencial no CAT, o cidadão deverá 
+receber um número de protocolo no ato de apresentação dos documentos para que possa 
+acompanhar a tramitação de seu requerimento.
+
+--- PÁGINA 8 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+8/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+6.2.13 Cabe à DAT a supervisão dos serviços de cadastro realizados no estado de Minas Gerais. 
+7 RECADASTRAMENTO  
+7.1 Para renovação anual do Cadastramento para pessoas físicas e jurídicas deverão ser 
+apresentados apenas os seguintes documentos:  
+a) pessoa física   
+1) Guia de recolhimento de taxa de segurança pública (Órgão “Corpo de Bombeiros Militar de 
+Minas Gerais” e Serviço de “Taxa de Segurança Pública – Cadastramento Pessoa física” emitido 
+no site da SEF) e respectivo comprovante de pagamento no valor de:  
+● 202,94 UFEMG (duzentas e duas e noventa e quatro Unidade Fiscal do Estado de Minas 
+Gerais) para as atividades de comércio, instalação, manutenção e conservação;  
+● 100 UFEMG (cem Unidade Fiscal do Estado de Minas Gerais) para a atividade de 
+apresentação de projetos.  
+2) Comprovante de endereço;  
+3) Anexo “B” devidamente preenchido, com reconhecimento de firma no campo assinatura;  
+4) Certidão de registro e quitação junto ao CREA.  
+b) pessoa jurídica   
+1) Guia de recolhimento de taxa de segurança pública (Órgão “Corpo de Bombeiros Militar de 
+Minas Gerais” e Serviço de “Taxa de Segurança Pública – Cadastramento Pessoa jurídica” 
+emitido no site da SEF) e respectivo comprovante de pagamento no valor de:  
+● 202,94 UFEMG (duzentas e duas e noventa e quatro Unidade Fiscal do Estado de Minas 
+Gerais) para as atividades de comércio, instalação, manutenção e conservação;  
+2) Cópia do Alvará de funcionamento emitido pela Prefeitura Municipal;  
+3) Anexo A preenchido com reconhecimento de firma na assinatura do proprietário e/ou RT;  
+4) Comprovante de Inscrição e Situação Cadastral de Pessoa Jurídica, em que conste atividade 
+relacionada ao serviço ao qual se requer cadastro junto ao CBMMG;  
+5) Certificado de regularidade para com o FGTS expedido pela Caixa Econômica Federal;  
+6) Certidão negativa de débito para com o INSS;  
+7) Prova de regularidade com a Fazenda Estadual e Municipal do domicílio ou sede da empresa;  
+8) Comprovante de endereço da empresa;  
+9) Cópia do Auto de Vistoria do Corpo de Bombeiros (AVCB) da edificação ou área onde se 
+encontra a pessoa jurídica ou equivalente (Declaração de Isenção de AVCB / Certificado de 
+Funcionamento) ou documento equivalente quando se tratar de endereço de outro estado.   
+7.2 Na hipótese de mudança do representante legal da empresa, deverá ser apresentado novo 
+contrato social.
+
+--- PÁGINA 9 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+9/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+ 
+8  CANCELAMENTO/SUSPENSÃO DO CADASTRO  
+8.1 A constatação de irregularidade de profissionais e empresas cadastrados será objeto de 
+notificação via ofício por parte do CBMMG, onde serão descritos os itens notificados e o prazo 
+regulamentar para cumprimento das exigências contidas na notificação. A irregularidade consiste 
+no não atendimento de qualquer um dos documentos exigidos ou constatação de irregularidades 
+detectadas em vistoria ou apurações realizadas pelo CBMMG.   
+8.2 O prazo a que se refere o item 8.1 será de 10 (dez) dias, a contar da data da notificação 
+recebida pelo responsável.  
+8.3 Decorrido o prazo regulamentar de 10 (dez) dias e não sanada a irregularidade o CBMMG 
+suspenderá o cadastramento, mediante comunicando ao interessado.  
+8.4 A suspensão do cadastramento impedirá a pessoa física ou jurídica de desenvolver as 
+atividades até que sejam sanadas as irregularidades.  
+8.5 Caso o cadastro seja mantido suspenso durante todo o período em que este teria validade, 
+será considerado cancelado o referido cadastramento.   
+8.6 Uma vez cadastrado o nome do interessado no site do CBMMG, este não poderá solicitar a 
+restituição de TSP e retirada do nome do site, com o simples intuito de ressarcimento da TSP, 
+pois o serviço de cadastramento foi prestado.  
+8.7 Ocorrendo o cancelamento do cadastro a pessoa física ou jurídica poderá solicitar novo 
+cadastramento, desde que sejam sanadas todas as irregularidades constadas na notificação que 
+motivou o descadastramento e cumpridas as exigências estabelecidas nesta IT.   
+8.8 O cancelamento/suspensão do cadastro determinados através de ordem judicial suspendem 
+imediatamente o cadastramento.  
+9 DAS VISTORIAS  
+Durante as vistorias do Serviço de Segurança Contra Incêndio e Pânico do CBMMG será 
+solicitado ao proprietário ou responsável pela edificação ou área o projeto de segurança contra 
+incêndio e pânico.  
+9.1 Nas vistorias para fins de emissão de AVCB serão exigidos pelo vistoriador os seguintes 
+documentos:  
+a) nota fiscal da empresa que vendeu os equipamentos e aparelhos de prevenção contra 
+incêndio e pânico;  
+b) selo de conformidade nos aparelhos e equipamentos de prevenção contra incêndio e pânico;  
+c) anotação de responsabilidade técnica de execução da instalação do equipamento ou aparelho 
+de prevenção contra incêndio e pânico.  
+9.2 A não observância do item 9.1 será motivo de notificação do projeto em vistoria. É de inteira 
+responsabilidade do proprietário ou responsável técnico a contratação e aquisição de 
+equipamentos, aparelhos e de serviços especificados nesta Instrução Técnica, oriundos de 
+pessoas físicas ou jurídicas cadastradas pelo CBMMG.
+
+--- PÁGINA 10 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição 
+ 
+10/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+10 DOS RECURSOS  
+A pessoa física ou jurídica poderá apresentar recurso, por intermédio de representante legal da 
+empresa, observando-se os prazos especificados nesta IT.  
+10.1 Este recurso deverá ser protocolado no prazo de 05 (cinco) dias úteis, a contar do 
+recebimento da notificação.   
+10.2 Nos casos em que comprovadamente a pessoa física ou jurídica não puder sanar as 
+irregularidades previstas no prazo de 10 (dez) dias estabelecidos no item 8.2, o prazo poderá ser 
+prorrogado por mais 30 (trinta) dias, desde que seja formalizada solicitação ao Chefe do CAT no 
+prazo de 03 (três) dias úteis, a partir da notificação e com a devida argumentação comprovando 
+a impossibilidade de cumprir o prazo.  
+10.3 Recebida a comunicação de cancelamento ou suspensão do cadastro, o responsável terá o 
+prazo de 05 (cinco) dias úteis para protocolar no Centro de Atividades Técnicas o recurso com 
+as devidas argumentações que lhe sirvam de defesa.  
+10.4 A partir do recebimento do recurso, o Centro de Atividades Técnicas proferirá decisão no 
+prazo de 15 (quinze) dias úteis.  
+10.5 O recurso não tem efeito suspensivo sobre o ato de suspensão ou cancelamento do 
+cadastramento.    
+11 PRESCRIÇÕES DIVERSAS  
+11.1 Segundo critério estabelecido pelo CBMMG, poderão ser cadastradas pessoas físicas ou 
+jurídicas que desejarem ter seus nomes incluídos no banco de dados do CBMMG, desde que 
+atuem no segmento ou atividade de empresa voltada para a Segurança Contra Incêndio e 
+Pânico, conforme CNAE da empresa que pleiteia o cadastro.  
+11.2 Os casos omissos serão tratados junto ao Serviço de Segurança Contra Incêndio e Pânico 
+do Corpo de Bombeiros Militar de Minas Gerais.
+
+--- PÁGINA 11 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição  
+ 
+11/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+ANEXO A 
+ (Requerimento de Cadastro de Pessoa Jurídica) 
+Ilmo Sr Chefe do Centro de Atividades Técnicas do Corpo de Bombeiro Militar de Minas Gerais. 
+A empresa: 
+AVCB n: 
+Logradouro: 
+n 
+Comp. 
+Lote 
+Quadra 
+Bairro 
+Município 
+UF 
+CEP 
+CGC/CNPJ 
+Telefone 
+e-mail 
+Por intermédio de seu representante legal, proprietário (a) 
+CPF: 
+Residente na Av./Rua 
+n. 
+Comp. 
+Bairro 
+UF 
+Requer a Vossa Senhoria o registro no cadastro de Pessoa Jurídica para realizar as atividades de: 
+ 
+ 
+MANUTENÇÃO 
+ 
+COMERCIALIZAÇÃO 
+ 
+CONSERVAÇÃO 
+ 
+INSTALAÇÃO 
+N. Registro INMETRO: 
+ 
+ 
+A empresa possui a seguinte relação de profissionais (as assinaturas requerem reconhecimento de firma). 
+NOME 
+CREA 
+ASS: 
+NOME 
+CREA 
+ASS: 
+NOME 
+CREA 
+ASS: 
+NOME 
+CREA 
+ASS: 
+NOME 
+CREA 
+ASS: 
+Belo Horizonte, ________de _____________ de _________ 
+___________________________________________ 
+Representante Legal 
+  
+Segue anexo, documentação exigida.
+
+--- PÁGINA 12 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição  
+ 
+12/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+ 
+ANEXO B 
+(Requerimento de Cadastro de Pessoa Física) 
+Ilmo Sr Chefe do Centro de Atividades Técnicas do Corpo de Bombeiro Militar de Minas Gerais.  
+Nome: 
+Especialização: 
+Residente na Av/Rua 
+n. 
+Comp. 
+Lote 
+Quadra 
+Bairro 
+Município 
+UF 
+CEP 
+CPF 
+Identidade: 
+CREA: 
+Telefone 
+e-mail 
+Requer o registro no cadastro de Pessoa Física junto ao Serviço de Segurança Contra Incêndio e Pânico no Estado de Minas Gerais para as atividades de: 
+ 
+ 
+APRESENTAR PROJETOS DE PREVENÇÃO CONTRA INCÊNDIO E PÂNICO. 
+ 
+EXECUÇÃO DE PROJETOS DE PREVENÇÃO CONTRA INCÊNDIO E PÂNICO. 
+ 
+RESPONSAVEL TÉCNICO PELO SISTEMA DE SEGURANÇA CONTRA INCENDIO E PÂNICO EM EVENTOS TEMPORÁRIOS. 
+ 
+Nestes termos pede deferimento. 
+Belo Horizonte, ________de _____________ de _________ 
+ 
+____________________________________________________________ 
+Responsável Técnico 
+Segue anexo, documentação exigida.
+
+--- PÁGINA 13 ---
+CBMMG IT 34 – Cadastramento de Empresas e Responsáveis Técnicos 
+2ª edição  
+ 
+13/13 
+Aprovada pela portaria n. 24, de 12dez2016, publicada no DOEMG n. 224, ano 124, p. 32 
+ 
+ANEXO C 
+(Check list de Cadastro e Recadastro)

@@ -1,0 +1,1330 @@
+--- PÁGINA 1 ---
+IT - 35 
+SEGURANÇA CONTRA INCÊNDIO EM 
+EDIFICAÇÕES HISTÓRICAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+1 - Objetivo 
+ 
+ 
+7 – Exposição ao risco de incêndio 
+2 - Referências normativas 
+ 
+8 – Risco de incêndio 
+3 – Símbolos 
+ 
+9 - Fatores de segurança 
+4 - Considerações gerais 
+ 
+10 - Coeficiente de segurança 
+ 
+5 - Projetos especiais 
+11- Coeficiente de segurança mínimo aceitável 
+ 
+6 - Método de avaliação do risco 
+de incêndio em uma edificação 
+12 - Edificação segura
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 35 
+ 
+   
+ 
+ 
+SEGURANÇA CONTRA INCÊNDIO EM 
+EDIFICAÇÕES HISTÓRICAS 
+ 
+ 
+ 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro. 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+1.1 Esta Instrução Técnica dispõe sobre as medidas de 
+segurança contra incêndio e pânico exigidas nas 
+edificações que compõem o patrimônio histórico 
+mineiro. 
+1.2 As medidas de segurança estabelecidas nessa 
+Instrução Técnica visam a atender a condições 
+mínimas aceitáveis de segurança contra incêndio 
+pânico na edificação considerada. 
+ 
+ 
+2 REFERÊNCIAS NORMATIVAS 
+ 
+Para compreensão desta Instrução Técnica é 
+necessário 
+consultar 
+as 
+seguintes 
+normas, 
+levando 
+em 
+consideração 
+todas 
+as 
+suas 
+atualizações e outras que vierem substituí-las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado 
+de Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas 
+Gerais. 
+ 
+NBR 14432 – Exigência de resistência ao fogo de 
+elementos 
+de 
+construção 
+de 
+edificações 
+– 
+Procedimento. 
+ 
+SIA - Swiss Federation of Engineers and Architects. 
+"Method for fire safety evaluation". Documentation 81. 
+Zurich. 1996. 34p. 
+  
+A M Claret. "Metodologia para Levantamento de Risco 
+de Incêndio em Ouro Preto". Relatório Técnico. 
+Laboratório de Análise de Risco de Incêndio. 
+Universidade Federal de Ouro Preto. 2004. 60p. 
+  
+A M Claret; A F T Andrade. "Levantamento de Risco 
+de Incêndio em Ouro Preto - Etapa I: Rua São José". 
+Relatório Técnico do Projeto UNESCO/Movimento 
+Chama. Laboratório de Análise de Risco de Incêndio. 
+Universidade Federal de Ouro Preto. 2004. 170p. 
+  
+S. M. S. Araújo. "Incêndio em edificações históricas: 
+um estudo sobre o risco global de incêndio em cidades 
+tombadas e suas formas de prevenção, proteção e 
+combate - a metodologia aplicada à cidade de Ouro 
+Preto". Dissertação de Mestrado (Orientador: A M 
+Claret). Universidade Federal Fluminense. 2004. 317p. 
+ 
+ 
+3 SÍMBOLOS 
+ 
+A indicação das medidas de proteção contra incêndio e 
+pânico nas edificações deverá atender a IT 03.- 
+Símbolos gráficos para projeto de segurança contra 
+incêndio e pânico.  
+ 
+ 
+4 CONSIDERAÇÕES GERAIS 
+ 
+4.1 As medidas de segurança estabelecidas nessa 
+Instrução 
+Técnica 
+devem 
+obedecer 
+a 
+projetos 
+específicos elaborados segundo a regulamentação 
+técnica do CBMMG.  
+ 
+4.2 O tombamento da edificação por lei federal, 
+estadual ou municipal é documento hábil para situá-la 
+no campo de abrangência desta Instrução Técnica. 
+ 
+ 4.3 Condições mínimas aceitáveis de segurança contra 
+incêndio são o conjunto de medidas de segurança 
+ativas e passivas capazes de gerar na edificação o risco 
+máximo admissível de incêndio. 
+ 
+ 4.4 O risco máximo admissível de incêndio 
+corresponde à exigência de implantação na edificação 
+de medidas de segurança ativas e passivas em certo 
+número, admitida como suficientemente seguras e 
+economicamente viáveis, as quais se sobrepõem aos 
+parâmetros que favorecem a ocorrência de um incêndio 
+de severidade máxima provável admissível.  
+  
+4.5 O risco máximo admissível de incêndio ou o 
+coeficiente de segurança mínimo aceitável em uma
+
+--- PÁGINA 3 ---
+edificação é definido pelo Corpo de Bombeiros Militar 
+de Minas Gerais, ouvidos os órgãos federais, estaduais 
+e municipais de preservação do patrimônio histórico e 
+o Ministério Público. 
+ 
+4.6 O risco máximo a que se refere o item 4.5 será 
+definido anualmente e divulgado até o dia 01 de 
+Dezembro para o ano subseqüente. 
+ 
+4.7 A severidade máxima provável de um incêndio em 
+uma edificação é determinada em função do risco de 
+incêndio 
+decorrente 
+de 
+suas 
+características 
+construtivas, de sua ocupação, de sua relação com as 
+edificações vizinhas e o meio ambiente e das medidas 
+de 
+segurança 
+nela 
+já 
+implementadas 
+ou 
+disponibilizadas pela infraestrutura pública. 
+ 
+4.8 A severidade máxima provável admissível de um 
+incêndio em uma edificação que compõe o patrimônio 
+histórico mineiro se caracteriza: 
+a) pela manutenção de condições ambientes de 
+sustentabilidade da vida humana por um tempo 
+suficiente para a fuga dos seus ocupantes e a realização 
+das operações de salvamento e combate a incêndio em 
+condições de segurança; 
+b) pela ausência do colapso estrutural de partes 
+determinadas da edificação; 
+c) por certa extensão admissível de danos à edificação 
+e a seu conteúdo, bem como às edificações adjacentes e 
+à infra-estrutura pública. 
+ 
+4.9 O risco de incêndio de uma edificação se 
+determina pelo método descrito nessa Instrução 
+Técnica. 
+ 
+ 
+5 PROJETOS ESPECIAIS 
+ 
+5.1 Os objetivos desta Instrução Técnica também 
+podem ser atingidos com o emprego de projetos 
+especiais para uma edificação ou um conjunto de 
+edificações. 
+ 
+5.2 Os objetivos de segurança contra incêndio adotados 
+nos projetos especiais, bem como a metodologia e os 
+seus fundamentos técnico-científicos devem ser 
+expostos em laudo técnico a ser submetido à aprovação 
+do Corpo de Bombeiros Militar do Estado de Minas 
+Gerais. 
+ 
+5.3 Devem necessariamente ter projetos especiais às 
+edificações nomeadas pelo Corpo de Bombeiros 
+Militar do Estado de Minas Gerais, ouvidos os órgãos 
+federais, estaduais e municipais de preservação do 
+patrimônio histórico e o Ministério público. 
+ 
+5.4 Podem ter projetos especiais as edificações cujos 
+responsáveis tenham interesse em atender a condições 
+mais rigorosas de segurança contra incêndio e pânico, 
+obedecido o item 5.2. 
+ 
+5.5 A mudança da ocupação principal de uma 
+edificação abrangida por esta Instrução Técnica obriga 
+à elaboração de projeto especial que deve ser 
+submetido à aprovação do Corpo de Bombeiros Militar 
+do Estado de Minas Gerais com o fim de assegurar o 
+atendimento dos objetivos desta Instrução Técnica. 
+ 
+5.5.1 Para os fins de atendimento do item anterior, as 
+ocupações 
+principais 
+de 
+uma 
+edificação 
+são 
+classificadas segundo a Tabela 1 do Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais. 
+5.5.2 A mudança de ocupação se caracteriza pela 
+destinação da edificação a uma atividade distinta 
+daquela que foi considerada na elaboração do projeto 
+de segurança contra incêndio e pânico aprovado 
+anteriormente. 
+5.5.3 O projeto especial a ser elaborado quando da 
+mudança de ocupação de uma edificação pode ser 
+dispensado a critério do Corpo de Bombeiros Militar 
+do Estado de Minas Gerais, quando laudo técnico de 
+segurança contra incêndio e pânico assim o indique, 
+demonstrando que os objetivos desta Instrução Técnica 
+permanecem atendidos. 
+ 
+ 
+6 MÉTODO DE AVALIAÇÃO DO RISCO DE 
+INCÊNDIO EM UMA EDIFICAÇÃO 
+ 
+6.1Tipos de edificações 
+6.1.1 Para os efeitos desta Instrução Técnica, as 
+edificações devem ser classificados nas categorias C, 
+H ou V. 
+6.1.2 Edificação do tipo C é a edificação dividida em 
+unidades de ocupação que, por suas características 
+construtivas, não permite, ou pelo menos, dificulta 
+significativamente a propagação do incêndio nas 
+direções horizontal e vertical. Nesse caso as unidades 
+de ocupação devem ter piso máximo de 200 m², 
+elementos de vedação (paredes, pisos e forros) que as 
+limitam das demais unidades com referência ao fogo 
+igual ou superior a 120 minutos, empregando-se os 
+diversos meios e separação de riscos (portas corta-
+fogo,vidros resistentes ao fogo, dampers e outros) nas 
+conexões com unidades vizinhas. 
+6.1.3 Edificação tipo H é a edificação que, por suas 
+características construtivas, não permite ou, pelo 
+menos, dificulta significativamente a propagação do 
+incêndio na direção vertical, isto é, é a edificação cujas 
+divisórias internas possuem resistência ao fogo inferior 
+a 120 minutos, sendo os pisos e os forros dotados de 
+resistência ao fogo igual ou superior a 120 minutos. 
+6.1.4 Edificação tipo V é a edificação que não se 
+classifica nos tipos C ou H, isto é, é aquela cujas 
+paredes externas, divisórias internas, pisos e forros 
+possuem resistência ao fogo inferior a 120 minutos e 
+um volume interno não inferior a 900 m³. 
+6.1.5 Para os fins da classificação anterior, divisórias 
+internas, pisos e forros não devem ter aberturas que 
+superem a 4% de sua área para terem a resistência ao 
+fogo que lhes é atribuída por meio de ensaios. Para o 
+mesmo fim, paredes externas podem ter as aberturas 
+máximas constantes da Tabela 1, conforme o tipo de
+
+--- PÁGINA 4 ---
+ocupação e a distância mínima em relação à parede 
+vizinha.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.2 Conjuntos de edificações 
+6.2.1 Para os fins dessa Instrução Técnica, um conjunto 
+arquitetônico é formado por pelo menos uma 
+edificação tombada e edificações vizinhas, ainda que 
+não tombadas, de tal modo que os efeitos do incêndio 
+gerado em uma delas possa atingir as outras.  
+6.2.2 Um conjunto arquitetônico se caracteriza por pelo 
+menos uma das seguintes situações: 
+a) edificações não separadas por paredes corta-fogo de 
+resistência ao fogo igual ou superior a 120 minutos; 
+b) edificações cujas fachadas não sejam afastadas de 
+distância igual ou superior a 5 m nos casos de 
+ocupações do grupo A, D, F e E; 
+c) edificações cujas fachadas não sejam afastadas de 
+distância igual ou superior a 10 m no caso de 
+ocupações comercial, industrial, de depósito e outras 
+não residenciais; 
+d) edificações separadas por paredes corta-fogo com 
+resistência ao fogo igual ou superior a 120 minutos, 
+mas, sendo mais baixas que as edificações vizinhas, 
+suas coberturas não sejam afastadas de aberturas nas 
+fachadas, empenas ou coberturas adjacentes mais altas 
+de uma distância igual ou superior a 4 m; 
+e) edificações separadas por paredes corta-fogo com 
+resistência ao fogo igual ou superior a 120 minutos, 
+mas, sendo da mesma altura que as edificações 
+vizinhas, suas coberturas não sejam de materiais 
+incombustíveis ou combustíveis protegidos com 
+resistência ao fogo igual ou superior a 120 minutos; 
+f) em qualquer outra situação em que não se posa 
+considerar a separação de riscos, a critério do 
+profissional responsável pelo projeto técnico. 
+6.2.3 Para os efeitos desta Instrução Técnica, os 
+conjuntos de edificações devem ser classificados nas 
+categorias C, H ou V. 
+6.2.3.1 Um conjunto de edificações é do tipo C, 
+quando todas as edificações componentes são do tipo 
+C. 
+ 6.2.3.2 Um conjunto de edificações é do tipo H, 
+quando pelo menos uma das edificações componentes 
+é do tipo H e nenhuma delas é do tipo V. 
+6.2.3.3 Um conjunto de edificações é do tipo V 
+quando pelo menos uma das edificações componentes 
+é do tipo V. 
+ 
+Tabela 1 - Áreas máximas de abertura permitidas. 
+ 
+6.3 Fatores de risco 
+ 
+6.3.1 Quanto à densidade de carga de incêndio – 
+fator f1
+6.3.1.1 A densidade de carga de incêndio em uma 
+edificação abrangida por esta Instrução Técnica deve 
+ser determinada por medição direta. 
+6.3.1.2 O levantamento da carga de incêndio específica 
+das edificações a que se refere esta instrução deverá 
+atender ao método apresentado no anexo B da IT 09.  
+6.3.1.3  No caso de medição direta, a densidade de 
+carga de incêndio total na edificação deve ser tomada 
+como o maior valor entre a média das medidas de 
+densidade de carga de incêndio realizadas nos 
+compartimentos da edificação e 85% da maior 
+densidade de carga de incêndio observada entre os 
+compartimentos. 
+6.3.1.4 A densidade de carga de incêndio de um 
+conjunto de edificações deve ser tomada como a maior 
+entre as edificações que o compõem. 
+6.3.1.5 O fator de risco devido à densidade de carga de 
+incêndio deve ser determinado conforme a Tabela 2. 
+ 
+6.3.2 Quanto à posição da carga de incêndio – fator 
+f2
+6.3.2.1 O fator de risco devido à posição da carga de 
+incêndio deve ser determinado conforme a Tabela 3 
+considerando a classificação básica da edificação, a 
+altura do piso mais elevado ou a profundidade do 
+subsolo, o que gerar maior fator de risco.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISTÂNCIA MÍNIMA 
+ENTRE AS PAREDES 
+CONFRONTANTES 
+ (m) 
+GRUPO 
+A, B, E, F e H 
+C, D, G, I, J, 
+L e M 
+PORCENTAGEM 
+MÁXIMA DA ÁREA 
+TOTAL DAS PAREDES 
+QUE PODEM SER 
+ABERTAS 
+ (%) 
+<1 
+1 
+4 
+1 
+2 
+8 
+2,5 
+5 
+20 
+5 
+10 
+40 
+7,5 
+15 
+60 
+10 
+20 
+80 
+12,5 
+25 
+100 
+ 
+Tabela 2 – Fatores de risco associados à grandeza da 
+carga incêndio – f1 
+ 
+DENSIDADE DE CARGA 
+INCÊNDIO 
+( MJ/m2) 
+f1
+≤ 200 
+1,0 
+200 ≤ q < 300 
+1,1 
+300 ≤ q < 400 
+1,2 
+400 ≤ q <600 
+1,3 
+600 ≤ q < 800 
+1,4 
+800 ≤ q < 1200 
+1,5 
+1200 ≤ q < 1700 
+1,6 
+1700 ≤ q < 2500 
+1,7 
+2500 ≤ q < 3500 
+1,8 
+3500 ≤ q < 5000 
+1,9 
+5000 ≤ q <7000 
+2,0 
+7000 ≤ q < 10000 
+2,1 
+10000 ≤ q < 14000 
+2,2 
+14000 ≤ q < 20000 
+2,3
+
+--- PÁGINA 5 ---
+Tabela 3 – Fatores de risco associados à posição da 
+carga incêndio – f2 
+ 
+PROFUNDIDADE DO 
+SUBSOLO 
+(m)
+ALTURA DO PISO MAIS 
+ELEVADO 
+(m)
+TIPO 
+DA 
+EDIFICAÇÃO
+S 
+>4 
+4<S<8 
+8<S<12 
+H<6 
+6<H<12 
+6<H<12 
+C
+1,0 
+1,9 
+3,0 
+1,0 
+1,3 
+1,5 
+H
+1,3 
+2,4 
+4,0 
+1,3 
+1,6 
+2,0 
+V
+1,5 
+3,0 
+4,5 
+1,5 
+2,0 
+2,3 
+ 
+ 
+ 6.3.3 Quanto à distância do Corpo de Bombeiros – 
+fator f3 
+6.3.3.1 A edificação deve ser classificada quanto à sua 
+distância da instalação do Corpo de Bombeiros mais 
+próxima de acordo com a Tabela 4. 
+ 
+Tabela 4 – Classificação das edificações quanto à 
+distância do Corpo de Bombeiros – f3 
+ 
+ 
+DENOMINAÇÃO 
+DISTÂNCIA 
+(KM) 
+f3
+1- muito próximo 
+D < 16 
+1,0 
+2 – próximo 
+1 < D < 6 
+1,25 
+3 - Medianamente 
+distante 
+6 < D < 11 
+1,6 
+4 – Distante 
+6 < D < 16 
+1,8 
+5 – Muito distante 
+ou inexistente  
+D > 16 
+4,0 
+ 
+ 
+6.3.4 Quanto ao acesso à edificação –fator f4
+6.3.4.1 A uma edificação associa-se um fator de risco, 
+considerando as condições de acesso dos equipamentos 
+e da equipe de combate a incêndio, conforme a Tabela 
+5. 
+6.3.4.2 O Corpo de Bombeiros Militar de Minas Gerais 
+poderá determinar o emprego de outros fatores de risco 
+para situações especiais. 
+ 
+Tabela 5 – Classificação das edificações quanto às 
+condições de acesso - f4 
+ 
+DENOMINAÇÃO 
+ DO ACESSO 
+CONDIÇÕES 
+ DA EDIFICAÇÃO 
+f4
+Fácil 
+Acesso da viatura pelo menos a 
+duas fachadas da edificação, 
+quando a edificação e do tipo C 
+ou H ou a três fachadas,, 
+quando a edificação é do tipo 
+V; hidrante público a até 75 m 
+da edificação ou instalação de 
+hidrante interno ou externo na 
+edificação. 
+1,0 
+Restrito 
+Acesso a uma das fachadas, 
+quando a edificação é do tipo C 
+ou H ou a duas fachadas quando 
+a edificação é do tipo V; 
+hidrante público a até 75 m da 
+edificação ou instalação de 
+hidrante interno ou externo na 
+edificação.    
+1,25
+Difícil 
+Acesso a uma só fachada da 
+edificação; hidrante público a 
+mais de 75 m da edificação ou 
+instalação de hidrante interno 
+ou externo na edificação. 
+1,6 
+Muito difícil 
+Acesso a uma só fachada da 
+edificação; hidrante público a 
+mais de 75 m da edificação. 
+1,9 
+ 
+6.3.5 Quanto ao risco de generalização – fator f5
+6.3.5.1 A uma edificação que forme um conjunto 
+arquitetônico para fins de segurança contra incêndio 
+com outras edificações associa-se um fator de risco de 
+generalização que é determinado segundo a Tabela 6. 
+ 
+ 
+Tabela 6 – Fator de risco de generalização 
+ 
+DENOMINAÇÃO 
+DA SITUAÇÃO
+ DE PERIGO 
+ 
+DESCRIÇÃO 
+f 5
+Paredes 
+Resistência ao fogo de 
+120minutos, 
+sem 
+aberturas 
+ou 
+com 
+aberturas 
+de 
+acordo 
+com a Tabela 1 
+Fachadas Incombustível 
+com 
+aberturas obedecendo 
+a Tabela 1 
+Empenas Incombustível 
+com 
+resistência ao fogo de 
+120minutos, 
+sem 
+aberturas 
+ 
+ 
+ 
+ 
+I 
+Cobertura Incombustível 
+ou 
+combustível protegida 
+em uma faixa de pelo 
+menos 1,5m a partir 
+das bordas 
+ 
+ 
+ 
+ 
+1,0
+Paredes Resistência ao fogo de 
+120 
+minutos, 
+sem 
+aberturas 
+ou 
+com 
+aberturas 
+de 
+acordo 
+com a Tabela 1 
+Fachadas Incombustível 
+com 
+aberturas obedecendo 
+a Tabela 1 
+Empenas Combustíveis 
+ou 
+incombustível 
+com 
+resistência 
+ao 
+fogo 
+inferior a 120minutos 
+ou 
+com 
+aberturas 
+acima dos limites da 
+Tabela 1 
+ 
+ 
+ 
+ 
+ 
+II 
+Cobertura Combustível 
+sem 
+a 
+faixa de proteção de 
+largura 1,5m a partir 
+das bordas 
+ 
+ 
+ 
+ 
+ 
+1,5
+ 
+ 
+ 
+ 
+ 
+ 
+Paredes Resistência ao fogo de 
+120minutos, 
+sem 
+aberturas 
+ou 
+com 
+aberturas 
+de 
+acordo
+com a Tabela 1 
+ 
+ 
+ 
+ 
+ 
+2,0
+
+--- PÁGINA 6 ---
+Fachadas Combustíveis ou com
+aberturas 
+acima 
+dos
+limites da Tabela 1 
+Empenas Combustíveis 
+ou
+incombustível 
+com
+resistência 
+ao 
+fogo
+inferior a 120minutos
+ou 
+com 
+aberturas
+acima dos limites da
+Tabela 1 
+ 
+ 
+ 
+III 
+Cobertura Combustível 
+sem 
+a 
+faixa de proteção de
+largura 1,5m a partir
+das bordas 
+ 
+Paredes Combustíveis 
+ou
+incombustíveis 
+com
+resistência 
+ao 
+fogo
+inferior a 120minutos
+ou 
+com 
+aberturas
+acima 
+dos 
+limites
+dados na Tabela 1 
+Fachadas Combustíveis ou com
+aberturas 
+acima 
+dos
+limites da Tabela 1 
+Empenas Combustíveis 
+ou
+incombustível 
+com
+resistência 
+ao 
+fogo
+inferior a 120 minutos
+ou 
+com 
+aberturas
+acima dos limites da
+Tabela 1 
+ 
+ 
+ 
+ 
+ 
+IV 
+Cobertura Combustível 
+sem 
+a
+faixa de proteção de
+largura 1,5m a partir
+das bordas 
+ 
+ 
+ 
+ 
+ 
+3,0
+ 
+6.3.6 
+Quanto 
+à 
+importância 
+específica 
+da 
+edificação – fator f6
+ 
+A cada edificação associa-se um fator de risco 
+específico que será determinado pelo Corpo de 
+Bombeiros Militar do Estado de Minas Gerais, 
+conforme documento emitido pelo órgão de proteção 
+do patrimônio histórico no qual conste o nível de 
+tombamento.  
+ 
+Tabela 7 – Fator de Risco específico - f6
+ 
+NÍVEIS DE TOMBAMENTO DA EDIFICAÇÃO 
+f6
+Tombamento em todos os níveis 
+1,2 
+Patrimônio Histórico da Humanidade 
+1,5 
+Tombada pela União 
+1,7 
+Tombada pelo Estado 
+1,9 
+Tombada pelo Município 
+2,2 
+ 
+7 EXPOSIÇÃO AO RISCO DE INCÊNDIO 
+ 
+7.1 A exposição ao risco de incêndio de uma edificação 
+determinada “E” se calcula pelo produto dos fatores, 
+isto é, 
+6
+5
+4
+3
+2
+1
+.
+.
+.
+.
+.
+f
+f
+f
+f
+f
+f
+E =
+. 
+ 
+8 RISCO DE INCÊNDIO 
+ 
+8.1 O risco de incêndio, R, associado à edificação ou 
+conjunto de edificações é determinado pelo produto da 
+exposição ao risco de incêndio, E, pelo fator de risco 
+de ativação de incêndio, isto é, 
+  
+R = E . A 
+ 
+8.2 Os fatores de riscos de ativação de incêndio, A, são 
+de três classes: 
+a) riscos decorrentes da atividade humana;  
+b) riscos decorrentes das instalações;  
+c) risco devidos a fenômenos naturais. 
+ 
+ 
+ isto é: 
+ 
+A = A1. A2 . A3. A4
+ 
+8.3 Entre os riscos decorrentes da atividade 
+humana consideram-se os riscos devidos à 
+natureza da ocupação, conforme a Tabela 8 
+e os riscos devidos à falha humana conforme 
+a Tabela 9. 
+ 
+8.4 Os riscos de ativação decorrentes da qualidade das 
+instalações elétricas e de gás liquefeito de petróleo 
+devem ser determinados de acordo com a Tabela 10 
+ 
+8.5 Entre os risco de ativação por fenômenos naturais 
+considera-se o risco de ativação por descargas 
+atmosféricas de acordo com a Tabela 11. 
+ 
+8.6 Os riscos de ativação de incêndios devidos a falhas 
+humanas, a deficiências das instalações elétricas e de 
+gás 
+e 
+a 
+descargas 
+atmosféricas 
+excluem-se 
+mutuamente, devendo-se adotar o maior deles (A*) que 
+possa afetar a edificação.  
+ 
+Isto é: 
+ 
+A = A1 . A* 
+ 
+ 
+Tabela 8 – Fatores de risco devidos aos 
+riscos de ativação conforme a natureza 
+da ocupação 
+ 
+DESCRIÇÃO
+GRUPO DE 
+OCUPAÇÃO 
+FATOR DE RISCO 
+A 1
+Habitações 
+unifamiliares 
+multifamiliar
+es e coletivas
+ 
+A 
+Hotéis, 
+pensões, 
+pousadas, 
+apart-hotéis e 
+assemelhados
+ 
+ 
+B 
+ 
+ 
+ 
+1,25
+
+--- PÁGINA 7 ---
+Escolas 
+de 
+todos 
+os 
+tipos, 
+espaços para 
+cultura 
+física, 
+centros 
+de 
+treinamento e 
+outros 
+ 
+ 
+ 
+ 
+E 
+ 
+Comércios 
+e 
+centros 
+de 
+compras 
+ 
+ 
+C 
+Escritórios, 
+agências 
+bancárias, 
+oficinas 
+de 
+eletrodomésti
+cos, 
+laboratórios 
+fotográficos, 
+de 
+análises 
+clínicas 
+e 
+químicos 
+ 
+ 
+ 
+ 
+ 
+ 
+D 
+Restaurantes, 
+lanchonetes, 
+bares, cafés, 
+boates, 
+clubes, salões 
+de baile 
+F-6, F-8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,50 
+Locais de 
+reunião de 
+público que 
+não os 
+anteriores 
+F-1 a F-11, 
+exceto os 
+grupos 
+anteriores 
+ 
+ 
+1,0 
+ 
+ 
+Tabela 9 – Fatores de risco de ativação 
+devidos à falhas humanas. 
+ 
+DESCRIÇÃO 
+FATOR DE 
+RISCO 
+A 2
+Usuários 
+treinados 
+e 
+reciclados 
+no 
+treinamento 
+ao 
+menos 
+uma vez por ano 
+1,0 
+Usuários 
+treinados 
+e 
+reciclados 
+no 
+treinamento 
+ao 
+menos 
+uma vez a cada dois anos 
+1,25 
+Usuários não treinados 
+1,75 
+ 
+ 
+Tabela 10 – Fatores de risco de ativação devidos à 
+qualidade das instalações elétricas e de gás 
+ 
+CARACTERIZAÇÃO 
+DAS INSTALAÇÕES 
+ 
+FATOR DE RISCO
+A 3
+Instalações projetadas 
+e executadas segundo 
+as normas técnicas 
+aplicáveis; uso e 
+manutenção regulares.
+1,0 
+Instalações projetadas 
+e executadas segundo 
+as normas técnicas 
+aplicáveis; uso 
+inadequado (extensões 
+sem projeto) e 
+manutenção irregular. 
+1,25 
+Instalações não 
+projetadas segundo as 
+normas técnicas 
+aplicáveis 
+1,50 
+ 
+ 
+Tabela 11 – Fatores de risco de ativação por 
+descarga atmosférica 
+ 
+CARACTERIZAÇÃO 
+DAS INSTALAÇÕES 
+ 
+FATOR DE 
+RISCO 
+A 4
+Instalações projetadas e 
+executadas 
+segundo 
+as 
+normas 
+técnicas 
+aplicáveis; 
+manutenção 
+regular. 
+1,0 
+Instalações projetadas e 
+executadas 
+segundo 
+as 
+normas 
+técnicas 
+aplicáveis; 
+manutenção 
+irregular. 
+1,25 
+Inexistente  
+1,50 
+ 
+ 
+9 FATORES DE SEGURANÇA 
+ 
+9.1 O fator de segurança total, S, se obtém pelo 
+produto dos fatores de segurança associados às 
+medidas de proteção ativa e passiva que se empregam 
+em cada edificação, conforme a Tabelas 12A, 12B, 
+12C, 12D e 12E. 
+9.2 Salvo autorização do Corpo de Bombeiros Militar 
+de Minas Gerais, todo projeto deve incluir pelo menos 
+uma medida sinalizadora do incêndio, uma medida 
+extintiva e uma medida estrutural.  
+ 
+ 
+10 COEFICIENTE DE SEGURANÇA 
+ 
+O coeficiente de segurança γ contra incêndio se 
+determina pela razão entre o fator de segurança S e o 
+risco global de incêndio R, isto é: 
+ 
+ 
+ 
+γ     =   Σ 
+           R 
+ 
+11 
+COEFICIENTE 
+DE 
+SEGURANÇA 
+MÍNIMO ACEITÁVEL 
+O coeficiente de segurança mínimo, γmin, aceitável é 
+definido periodicamente pelo Corpo de Bombeiros 
+Militar do Estado de Minas Gerais.
+
+--- PÁGINA 8 ---
+12 EDIFICAÇÃO SEGURA 
+ 
+Uma edificação ou conjunto de edificações é seguro 
+para os propósitos dessa Instrução Técnica se γ ≥ γmin. 
+ 
+ 
+Tabela 12A – Medidas sinalizadoras do 
+incêndio e fatores de segurança 
+ 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA
+Alarme de 
+incêndio com 
+acionamento 
+manual 
+ 
+s 1
+ 
+1,5 
+Detector de 
+calor e fumaça 
+s 2
+2,0 
+Detector de 
+calor e fumaça 
+com transmissão 
+automática do 
+sinal de alarme 
+para o Corpo de 
+Bombeiros ou 
+para central de 
+segurança 
+ 
+ 
+ 
+s 3
+ 
+ 
+ 
+3,0 
+ 
+ 
+Tabela 12B – Medidas extintivas e fatores 
+de segurança 
+ 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA
+Aparelhos 
+extintores 
+s 4
+1,0 
+Sistema fixo de 
+gases 
+s 5
+6,0 
+Brigada de 
+incêndio em 
+plantão durante o 
+expediente 
+s 6
+8,0 
+Brigada de 
+incêndio em 
+plantão 
+permanente 
+s 7
+6,0 
+Instalação 
+interna de 
+chuveiros 
+automáticos 
+s 8 a
+10,0 
+Instalação 
+externa de 
+chuveiros 
+automáticos 
+s 8 b
+6,0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabela 12C – Medidas de infra-estrutura 
+e fatores de segurança 
+ 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA
+Sistema de 
+hidrantes com 
+abastecimento 
+por meio de 
+reservatório 
+público 
+ 
+ 
+s 9
+ 
+ 
+6,0 
+Sistema de 
+hidrantes com 
+abastecimento 
+por meio de 
+reservatório 
+particular ou 
+comunitário 
+ 
+ 
+ 
+S 1 0
+ 
+ 
+ 
+6,0 
+Reserva de água 
+S 1 1
+2,0 
+ 
+ 
+Tabela 12D – Medidas estruturais e 
+fatores de segurança 
+ 
+RESISTÊNCIA 
+AO FOGO DA 
+ESTRUTURA 
+(minutos) 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA
+≥ 30 
+s 1 2
+1,0 
+≥ 60 
+s 1 3
+2,0 
+≥ 90 
+s 1 4
+3,0 
+≥ 120 
+s 1 5
+4,0 
+ 
+ 
+Tabela 12E – Medidas acessórias e fatores 
+de segurança 
+ 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA
+Planta de risco 
+S 1 6
+1,0 
+Plano de 
+intervenção 
+S 1 7
+1,2 
+Plano de escape 
+S 1 8
+1,2 
+Sinalização das 
+saídas de 
+emergência e 
+rotas de fuga 
+S 1 9
+1,0

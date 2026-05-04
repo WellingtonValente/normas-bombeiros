@@ -1,0 +1,54 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 13501099 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=15642149&infra…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 16 de abril de 2020.
+  
+ERRATA CBMMG/DAT Nº. 11/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 06 - 1ª Edição
+(Segurança Estrutural das Ediﬁcações): 
+ 
+1. ALTERAR o item 5.15. 
+Onde se lê: 
+5.15 Ocupação mista
+À ediﬁcação que apresentar ocupação mista, aplicam-se os seguintes critérios para o estabelecimento
+dos Tempos Requeridos de Resistência ao Fogo (TRRF)
+a) o valor correspondente à ocupação que deve atender às exigências mais rigorosas, caso não haja
+comparƟmentação garanƟndo a separação destas ocupações;
+b) o valor correspondente a cada uma das ocupações, caso haja comparƟmentação garanƟndo a
+separação entre elas.
+Leia-se:
+5.15 Ocupação mista
+A ediﬁcação que possuir ocupação mista, havendo ou não comparƟmentação entre as ocupações,
+adotará o Tempo Requerido de Resistência ao Fogo (TRRF) da ocupação que possuir a exigência mais
+rigorosa, observando-se a altura especíﬁca da ocupação.
+ 
+2. ALTERAR a Nota 4 da Tabela A – Tempos requeridos de resistência ao fogo (TRRF). 
+Onde se lê: 
+4. Para ediﬁcações com altura entre 54m a 80m, poderão ser exigidos os mesmos TRRF das ediﬁcações da
+Classe P5. 
+Leia-se:
+4. Para ediﬁcações com altura entre 54m a 80m, serão exigidos os mesmos TRRF das ediﬁcações da
+Classe P5, sem necessidade de consulta ao CT.
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 23/04/2020, às
+16:42, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+
+--- PÁGINA 2 ---
+09/10/2020
+SEI/GOVMG - 13501099 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=15642149&infra…
+2/2
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 13501099
+e o código CRC 95605B66.
+Referência: Processo nº 1400.01.0021409/2020-67
+SEI nº 13501099

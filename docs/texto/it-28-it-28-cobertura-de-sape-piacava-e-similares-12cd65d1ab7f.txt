@@ -1,0 +1,162 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 28 
+1ª edição 
+COBERTURA DE SAPÉ, PIAÇAVA E 
+SIMILARES 
+ 
+Aprovada pela portaria n. 05, de 25out2005.  
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+SUMÁRIO 
+1– Objetivo  
+2– Aplicação  
+3– Referências 
+4– Definições  
+5– Procedimentos 
+ 
+ANEXO 
+Afastamentos da cobertura combustível
+
+--- PÁGINA 2 ---
+CBMMG IT 28 – Cobertura de Sapê, Piaçava e Similares  
+1ª edição 
+2/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica estabelece condições mínimas de segurança para edificações que 
+tenham suas coberturas construídas com fibras de sapé, piaçava e similares, atendendo ao 
+previsto no Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais. 
+2 APLICAÇÃO 
+Esta Instrução Técnica se aplica a todas as edificações cuja cobertura seja de fibras de sapé, 
+piaçava e similares. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las. 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 5628 – Componentes construtivos estruturais – Determinação da resistência ao fogo – 
+método de ensaio. 
+NBR 9050 – Acessibilidade de pessoas portadoras de deficiências a edificações, espaço, 
+mobilidade e equipamentos urbanos. 
+NBR 9442 – Materiais de Construção – Determinação do índice de propagação superficial de 
+chama pelo método do painel radiante – Método de Ensaio. 
+NBR 13523 – Central Predial de gás liquefeito de petróleo. 
+NBR 5410 – Instalações Elétricas de BaixaTensão. 
+NBR 13932 – Instalações Internas de Gás Liquefeito de Petróleo (GLP) – Projeto e execução. 
+NBR 10898 – Sistema de Iluminação de Emergência. 
+NR 23 – Proteção contra incêndios – Portaria 3214 do Ministério doTrabalho. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção Contra Incêndio e Pânico). 
+5 PROCEDIMENTOS 
+5.1 Instalações elétricas 
+5.1.1 
+As instalações elétricas devem ser projetadas e executadas segundo normas da ABNT.
+
+--- PÁGINA 3 ---
+CBMMG IT 28 – Cobertura de Sapê, Piaçava e Similares  
+1ª edição 
+3/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+5.1.2 A fiação e os componentes da instalação elétrica devem ser corretamente dimensionados 
+para evitar superaquecimentos e curtos-circuitos que possam inflamar as fibras vegetais. 
+5.1.3 A fiação que não estiver embutida em alvenaria ou concreto deve estar totalmente 
+protegida por eletrodutos metálicos. 
+5.2 Fontes decalor 
+5.2.1 As fontes de calor que podem inflamar as fibras combustíveis devem ser isoladas e 
+mantidas à distância mínima de 5,0 m. 
+5.2.2 Fogões, fornos, churrasqueiras e similares devem estar no interior de compartimentos 
+com piso, paredes e cobertura incombustíveis. 
+5.2.3 As saídas de chaminés, coifas e congêneres devem também estar à distância mínima de 
+2,0 m de qualquer parte da cobertura combustível e nunca acima de sua projeção, de forma a 
+evitar que fagulhas ou gases quentes sejam conduzidos para a cobertura de fibras. 
+5.2.4 Depósitos de combustíveis como gás liquefeito de petróleo (GLP) devem estar fora da 
+projeção da cobertura e distante pelo menos a 3 (três) m do seu alinhamento, respeitada a 
+NBR13523. 
+5.3 Afastamentos 
+5.3.1 As edificações de Cobertura de Sapé devem ter isolamento de risco conforme IT 05 
+(Separação entre Edificações). 
+5.3.2 Manter distância mínima de 100 m de depósitos ou postos de abastecimento de 
+combustíveis, gases inflamáveis como o gás liquefeito de petróleo e fábricas ou revendas de 
+explosivos ou fogos de artifício. 
+5.4 Saídas 
+5.4.1 As saídas devem ser mantidas livres e desimpedidas, de acesso facilitado, de forma que 
+os ocupantes não tenham dificuldade em abandonar a edificação em caso de sinistro. 
+5.4.2 As portas de saída não devem estar alinhadas em uma única parede; e, 
+preferencialmente, em lados opostos. 
+5.4.3 A largura das saídas, corredores, escadas ou rampas será calculada tomando como base 
+0,55 m por pessoa. O valor mínimo da largura é 2,0m. 
+5.4.3.1 Para cálculo do número de pessoas, adotar a área ocupada por pessoa como sendo 0,50 
+m2 (área construída). 
+5.4.4 No caso em que a população total, incluindo clientes e funcionários, for superior a 50 
+(cinquenta) pessoas, será obrigatória a instalação de sistema de iluminação de emergência, 
+projetado e executado segundo normas técnicas oficiais, bem como barras antipânico nas 
+saídas de emergência. 
+5.4.5 A distância máxima a ser percorrida para a saída da edificação nunca poderá ser superior 
+a 15m. 
+5.4.6 Devem ser previstos acessos e saídas para deficientes físicos, segundo a NBR 9050.
+
+--- PÁGINA 4 ---
+CBMMG IT 28 – Cobertura de Sapê, Piaçava e Similares  
+1ª edição 
+4/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+5.5 Pessoal treinado 
+Todos os funcionários, independentemente da área construída, devem possuir treinamento 
+teórico e prático de técnicas de prevenção e combate a incêndios, especialmente voltado para 
+os riscos locais, conforme IT 12 (Brigada de Incêndio). 
+5.6 Medidas de segurança contraincêndio 
+5.6.1 Para as edificações com área construída total, independentemente da área de cobertura, 
+até 200,0 m2, serão exigidos extintores portáteis, sinalização e saídas. 
+5.6.2 Para as edificações com área construída superior a 200 m², independentemente da área 
+de cobertura do sapé, serão exigidas as seguintes medidas de segurança: 
+a) Extintores portáteis; 
+b) sinalização; 
+c) extintores sobre rodas; 
+d) rotas de fuga e saídas de emergência; e possuir índice médio de propagação superficial de 
+chama (I) menor que 25 (NBR 9442) e densidade ótica específica máxima de fumaça (Dm) 
+menor ou igual a 450 (ASTM E 662), portanto Classe IIA, acima e abaixo da cobertura; 
+e) Admite-se Dm>450, mantendo-se a mesma classe II (I<25), no caso de edificações totalmente 
+abertas (apenas fechado na cobertura). 
+5.6.3 Edificações com área superior a 930 m², além das medidas de segurança exigidas em 
+5.6.2, deverão ainda contar com sistema de hidrantes e alarme manual, sendo dispensados os 
+extintores sobre rodas. A proteção estrutural deve atender à IT 06 (Segurança Estrutural das 
+Edificações). 
+5.6.4 Quando a área de cobertura de sapé, piaçava e similares for igual ou superior a 200 m², 
+deverá ser usado sistema de aspersão de água que vise manter as fibras permanentemente 
+úmidas ou destinadas ao próprio combate das chamas, sem prejuízo das demais medidas 
+constantes nesta IT. 
+5.7 Disposiçõesgerais 
+5.7.1 As edificações enquadradas nesta Instrução Técnica devem possuir, no máximo, dois 
+pavimentos (térreo e primeiro andar). 
+5.7.1.1 Nas edificações consideradas acima, não são permitidos subsolos. 
+5.7.2 Chapas metálicas, abaixo da cobertura de fibras vegetais, podem ser empregadas sem 
+prejuízo às demais medidas de proteção contra incêndio acima definidas. 
+5.7.3 Esta Instrução Técnica aplica-se a edificações com cobertura de até 930 m². A viabilidade 
+de instalação de tais coberturas em edificações com área superior a este valor deverão ser 
+submetidas à apreciação prévia do Corpo Técnico do CBMMG para decisão.
+
+--- PÁGINA 5 ---
+CBMMG IT 28 – Cobertura de Sapê, Piaçava e Similares  
+1ª edição 
+5/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO 
+AFASTAMENTOS DA COBERTURA COMBUSTÍVEL 
+ 
+ 
+ 
+d - Distância entre projeções verticais

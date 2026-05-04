@@ -1,0 +1,160 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+ERRATA DA INSTRUÇÃO TÉCNICA Nº 40 / 2016 
+ 
+ADEQUAÇÃO DE MEDIDAS DE SEGURANÇA PARA EDIFICAÇÕES 
+EXISTENTES E EDIFICAÇÕES CONSTRUÍDAS 
+ 
+CORRIGE os seguintes itens da Instrução Técnica 40 (Adequação de 
+medidas de segurança para edificações existentes e edificações construídas): 
+ 
+A. Item 2 Aplicação 
+Onde se lê: 
+2.1.Esta Instrução Técnica (IT) aplica-se às edificações existentes com 
+deficiência em medidas de segurança perante a legislação atual e consequente 
+impossibilidade técnica de execução; 
+Leia-se: 
+2.1 Esta Instrução Técnica (IT) aplica-se às edificações existentes com 
+deficiência em medidas de segurança perante a legislação atual e consequente 
+impossibilidade técnica de execução, justificadas por laudo técnico de 
+profissional habilitado acompanhada da respectiva ART/RRT. 
+ 
+B. Item 5 Geral 
+Onde se lê: 
+5.14. Sempre que uma edificação existente se apresentar sem as medidas 
+“brigada de incêndio”, “iluminação de emergência” ou “sinalização de 
+emergência” deverá ser notificada a adotar tais medidas (Art. 21, Dec. 
+46.595/2014); 
+Leia-se: 
+5.14. A edificação existente que se apresentar sem as medidas “brigada de 
+incêndio”, “iluminação de emergência” ou “sinalização de emergência” deverá
+
+--- PÁGINA 2 ---
+ser notificada a adotar tais medidas caso haja exigência das mesmas na 
+legislação atual (Art. 21, Dec. 46.595/2014); 
+ 
+ 
+C. Item 6 Procedimentos 
+Onde se lê: 
+6.4.2. Atendido o previsto em 6.4.1 e subitens será admitido a utilização de 
+cálculo inverso de modo a definir a população tendo por base as unidades de 
+passagem disponíveis nas saídas de emergência existentes. Deverá haver 
+sinalização complementar por mensagens escritas (placa M2) informando a 
+lotação máxima permitida para cada recinto atendido pelo cálculo inverso. 
+Leia-se: 
+6.4.2 Atendido o previsto em 6.4.1 e subitens será admitido a utilização de 
+cálculo inverso de modo a definir a população tendo por base as unidades de 
+passagem disponíveis na(s) saída (s) de emergência existente(s), podendo 
+desconsiderar o número de saídas previsto na tabela 6 da IT 08. Deverá haver 
+sinalização complementar por mensagens escritas (placa M2) informando a 
+lotação máxima permitida para cada recinto atendido pelo cálculo inverso. 
+ 
+Onde se lê: 
+6.6.1. A aceitação de ausência de balanceamento e dimensionamento de 
+degraus e patamares serão aceitas quando:  
+a) Sejam, para as escadas de lanços retos, as alturas máximas dos espelhos (h) 
+e largura do degrau (b) as seguintes condições:  
+a.1) Ocupações A até G (exceto condição a.2): h = 20cm, b = 27 a 32cm;  
+a.2) Ocupações H, F-2, F-3, F-5, F-6, F-7, E-5 e E-6: h = 19 cm, b = 27 a 30cm; 
+a.3) Ocupações I até M: h = 23 cm, b = 40 a 45cm.  
+b) A linha de percurso estiver a até 0,55m do corrimão, nas escadas de lanços 
+curvos;  
+c) O lanço curvo estiver presente apenas em edificações de até 12m de altura; 
+d) Houver lanço curvo em substituição ao patamar em escada de lanço reto 
+(escadas de lanço misto) (figura 3);  
+e) Houver lanço mínimo inferior a 03 degraus sem a possibilidade de substituição 
+por rampa (inclusive considerando o previsto nesta IT). 
+ 
+Leia-se: 
+6.6.1. A aceitação de ausência de balanceamento e dimensionamento de 
+degraus e patamares serão aceitas quando:  
+a) Sejam, para as escadas de lanços retos, as alturas máximas dos espelhos (h) 
+e largura do degrau (b) as seguintes condições:  
+a.1) Ocupações A até G (exceto condição a.2): h = 20cm, b = 27 a 32cm;  
+a.2) Ocupações H, F-2, F-3, F-5, F-6, F-7, E-5 e E-6: h = 19 cm, b = 27 a 30cm; 
+a.3) Ocupações I até M: h = 23 cm, b = 40 a 45cm.
+
+--- PÁGINA 3 ---
+b) A linha de percurso estiver a até 0,55m do corrimão, nas escadas de lanços 
+curvos;  
+c) O lanço curvo estiver presente apenas em edificações de até 12m de altura; 
+d) Houver lanço curvo em substituição ao patamar em escada de lanço reto 
+(escadas de lanço misto) (figura 3);  
+e) Houver lanço mínimo inferior a 03 degraus sem a possibilidade de substituição 
+por rampa (inclusive considerando o previsto nesta IT). 
+f) Na impossibilidade técnica de executar patamares, o lanço não deve 
+ultrapassar 4,00 m de altura. 
+ 
+Onde se lê: 
+6.7.1. Nas ocupações dos grupos B, D, G, I, J e divisões A-1, A-2, E-1 a E-4, 
+ainda que mistas entre si, de altura até 12m e população total máxima de 50 
+pessoas, serão aceitas escadas NE com largura mínima de 90cm, quando: 
+Leia-se: 
+6.7.1. Nas ocupações dos grupos B, D, G, I, J e divisões A-1, A-2, E-1 a E-4, 
+ainda que mistas entre si, de altura até 12m e população a ser atendida por 
+escada igual ou inferior 50 a pessoas, serão aceitas escadas NE com largura 
+mínima de 90cm, quando: 
+ 
+Onde se lê: 
+6.8.3. Na impossibilidade de execução de porta corta-fogo nas portas de acesso 
+a escada adotar-se-á o enclausuramento do hall de acesso à escada por porta 
+cortafogo P-60 (P-30 para as unidades autônomas de A-2); (figura 5) 
+Leia-se: 
+6.8.3. Na impossibilidade de execução de porta corta-fogo nas portas de acesso 
+a escada adotar-se-á o enclausuramento do hall de acesso à escada por porta 
+cortafogo P-60 (P-30 para as unidades autônomas de A-2); (figura 5) 
+6.8.3.1 Na impossibilidade de enclausuramento do hall de acesso à escada por 
+porta corta-fogo P-60 (P-30 para as unidades autônomas de A-2), poderá ser 
+aceita a aplicação de produtos intumescentes (tintas, vernizes, tiras) nas portas, 
+com a apresentação de laudo do responsável técnico e certificado de 
+atendimento ao TRRF. 
+ 
+Onde se lê: 
+6.9.4. Em caso de impossibilidade técnica de execução de pressurização da 
+escada de segurança adotar a pressurização da escada conforme IT10; 
+  
+Leia-se:
+
+--- PÁGINA 4 ---
+6.9.4 Em caso de impossibilidade técnica de execução do previsto no item 6.9.3  
+adotar a pressurização da escada conforme IT10. 
+ 
+ 
+Onde se lê: 
+6.10.1. A adaptação da escada ocorrerá se forem atendidas as seguintes 
+condições:  
+a) Não haver utilização da escada por ocupação das divisões F-2, F-3, F-5, F-6, 
+F-7, H-2, H-3, E-5 e E-6, considerando o sentido da saída;  
+b) Ter mínimo de 1,0m de largura com N≤2 (admite-se limitação de público 
+conforme previsto nesta IT);  
+c) Ter degraus e patamares dimensionados, (admite-se lanço misto quando 
+considerando o definido nesta IT);  
+d) Ter interrupção da prumada de escada no pavimento de descarga. 
+ 
+Leia-se: 
+6.10.1. A adaptação da escada ocorrerá se forem atendidas as seguintes 
+condições:  
+a) Não haver utilização da escada por ocupação das divisões F-2, F-3, F-5, F-6, 
+F-7, H-2, H-3, E-5 e E-6, considerando o sentido da saída;  
+b) Ter mínimo de 1,0m de largura com N≤2 (admite-se limitação de público 
+conforme previsto nesta IT);  
+c) Ter degraus e patamares dimensionados, (admite-se lanço misto quando 
+considerando o definido nesta IT);  
+d) Ter interrupção da prumada de escada no pavimento de descarga. 
+e) Ser enclausurada com porta corta-fogo P-60, no mínimo. 
+ 
+ 
+Onde se lê: 
+ 
+6.10.4. Em caso de impossibilidade técnica de execução de pressurização da 
+escada de segurança adotar sistema de pressurização da escada de segurança; 
+ 
+Leia-se: 
+6.10.4. Em caso de impossibilidade técnica de execução do previsto no item 
+6.10.3  adotar a pressurização da escada conforme IT10. 
+ 
+ 
+ 
+Marcus José Tibúrcio Lima, Coronel BM 
+Diretor de Atividades Técnicas

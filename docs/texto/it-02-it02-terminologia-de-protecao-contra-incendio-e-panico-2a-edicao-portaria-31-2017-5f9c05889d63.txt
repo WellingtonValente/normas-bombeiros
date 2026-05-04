@@ -1,0 +1,1880 @@
+--- PÁGINA 1 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+ 
+ 
+INSTRUÇÃO TÉCNICA Nº 02 
+TERMINOLOGIA DE PROTEÇÃO CONTRA INCÊNDIO E 
+PÂNICO 
+SUMÁRIO 
+1 – Objetivo 
+2 – Aplicação 
+3 – Referências normativas e bibliográficas 
+4 – Termos e Definições
+
+--- PÁGINA 2 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+1 OBJETIVO  
+Esta Instrução Técnica padroniza os termos e definições utilizados no CBMMG.  
+2 APLICAÇÃO  
+Esta Instrução Técnica se aplica a todas as atividades de Segurança Contra Incêndio do CBMMG.  
+3 REFERÊNCIAS NORMATIVAS E BIBLIOGRÁFICAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las:  
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe sobre a prevenção contra incêndio e pânico 
+no Estado de Minas Gerais.  
+Decreto 44.746 de 29 de fevereiro de 2008 – Regulamenta a Lei nº 14.130, de 19 de dezembro de 
+2001, que dispõe sobre a prevenção contra incêndio e pânico no Estado e dá outras providências. 
+NBR 13860/97 Glossário de termos relacionados com a segurança contra incêndio;  
+ISO 8421-1 – General Terms and phenomena of fire;  
+ISO 8421-2 – Strutural fire protection;  
+ISO 8421-3 – Fire detection and alarm;  
+ISO 8421-4 – Fire extinction equipment;  
+ISO 8421-5 – Smoke control;  
+ISO 8421-6 – Evacuation and means of escape;  
+ISO 8421-7 – Explosion detection and suppression means;  
+ISO 8421-8 – Terms specific to fire-fighting, rescul services and handling hazardous materials.  
+ISO 8421-1 – General Terms and phenomena of fire; 
+4 DEFINIÇÕES  
+Para efeitos desta Instrução Técnica, aplicam-se os seguintes termos e definições.  
+4.1 Abandono de edificação: O mesmo que evacuação da edificação, é a retirada organizada e 
+segura da população usuária de uma edificação conduzida à via pública ou espaço aberto exterior 
+à edificação, ficando em local seguro.  
+4.2 Abertura desprotegida: Porta, janela ou qualquer outra abertura não dotada de vedação com 
+o exigido índice de proteção ao fogo, ou qualquer parte da parede externa da edificação com índice 
+de resistência ao fogo menor que o exigido para a face exposta da edificação.  
+4.3 Abrigo de mangueiras: Compartimento, embutido ou aparente, dotado de porta trinco e visor 
+transparente, destinado a armazenar mangueiras, esguichos, carretéis e outros equipamentos de 
+combate a incêndio, capaz de proteger contra intempéries e danos diversos.
+
+--- PÁGINA 3 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.4 Acesso: Caminho a ser percorrido pelos usuários do pavimento ou do setor, constituindo a 
+rota de saída horizontal (rota de fuga), para alcançar a escada ou rampa, área de refúgio ou 
+descarga para saída do recinto do evento. Os acessos podem ser constituídos por corredores, 
+passagens, vestíbulos, balcões, varandas e terraços.  
+4.5 Acervo: Edificação, elementos artísticos integrados ou musealizados, pinturas, esculturas, 
+mobiliário, gravuras, livros, documentos, vestuário, armaria, artefatos arqueológicos, etnográficos, 
+paleontológicos, maquinário, equipamentos e peças de origem ferroviária ou outra (expostos ou 
+não) considerados bem cultural protegido. 
+4.6 Acompanhante: Pessoa com conhecimentos da operacionalidade dos sistemas e 
+equipamentos de proteção contra incêndios instalados na edificação, que acompanha o 
+vistoriador, executando os testes necessários na vistoria.  
+4.7 Adutora: Canalização, geralmente de grande diâmetro, que tem como finalidade conduzir a 
+água da Estação de Tratamento de Águas (ETA), até as redes de distribuição. 
+4.8 Afastamento horizontal entre aberturas: Distância mínima entre as aberturas nas fachadas 
+(parede externa) dos setores compartimentados.  
+4.9 Agente extintor: substância utilizada para a extinção do fogo.  
+4.10 Alambrado: Tela de arame ou outro material similar, com resistências mecânicas de 5000 N 
+/ m.  
+4.11 Alarme de incêndio: Dispositivo de acionamento automático ou manual e desligamento 
+manual, destinado a alertar as pessoas sobre a existência de um incêndio no risco protegido.  
+4.12 Altura ascendente: é a medida em metros entre o ponto que caracteriza a saída ao nível de 
+descarga, sob a projeção do paramento externo da parede da edificação, ao ponto mais baixo do 
+nível do piso do pavimento mais baixo da edificação; 
+4.13 Altura da edificação ou altura descendente: é a medida em metros entre o ponto que 
+caracteriza a saída ao nível de descarga, sob a projeção do paramento externo da parede da 
+edificação, ao piso do último pavimento, excluindo o ático, casa de máquinas, elevação para 
+acessar equipamentos industriais, barrilete, reservatório d'água, pavimento superior da cobertura 
+- duplex - e assemelhados; havendo mais de um nível de descarga em uma edificação, a altura a 
+ser considerada será a menor; 
+4.14. Altura específica de cada ocupação: medida em metros entre o ponto que caracteriza o 
+nível de descarga ao piso do último pavimento com uso/ocupação/divisão cujas medidas devem 
+ser definidas. 
+4.15 Ampliação: Aumento da área construída da edificação.  
+4.16 Análise: Ato formal de verificação das exigências das medidas de proteção contra incêndio 
+das edificações e áreas de risco, no processo de segurança contra incêndio.  
+4.17 Análise preliminar de risco: Estudo prévio sobre a existência de riscos, elaborado durante 
+a concepção e o desenvolvimento de um projeto ou sistema.  
+4.18 Andar: Volume compreendido entre dois pavimentos consecutivos, ou entre o nível do piso 
+e o nível imediatamente superior.  
+4.19 Anemômetro: Instrumento que realiza a medição da velocidade de gases.
+
+--- PÁGINA 4 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.20 Anemômetro de fio quente ou termo anemômetro: Tipo de anemômetro que opera 
+associando o efeito de troca de calor convectiva no elemento sensor (fio quente) com a velocidade 
+do ar que passa pelo mesmo. Possibilita realizar medições de valores baixos de velocidade, em 
+geral com valores em torno de 0,1 m/s.  
+4.21 Antecâmara: Recinto que antecede a caixa da escada, com ventilação natural garantida por 
+janela para o exterior, por dutos de entrada e saída de ar ou por ventilação forçada (pressurização).  
+4.22 Aplicação por espuma:  
+Tipo I: utiliza aplicador que deposita a espuma suavemente na superfície do líquido, provocando 
+o mínimo de submergência;  
+Tipo II: Utiliza aplicadores que não depositam a espuma suavemente na superfície do líquido, mas 
+que são projetados para reduzir a submergência e agitar a superfície do líquido;  
+Tipo III: Utiliza equipamentos que aplicam a espuma por meio de jatos que atingem a superfície 
+do líquido em queda livre. 
+4.23 Área coberta: entende-se por área coberta toda a área que possuir piso e teto construídos, 
+pertencentes ao imóvel, compreendendo a área delimitada pelo perímetro interno das paredes 
+externas, podendo ser excluídas as áreas destinadas a reservatórios, barriletes, elevadores, 
+beirais, piscinas, shafts e similares e outras especificadas em instrução específica do Corpo de 
+Bombeiros; 
+4.24 Área a construir: Somatória da área em metros quadrados a serem construídas da 
+edificação.  
+4.25 Área comum – área destinada ao uso comum, representada por corredores, átrios, hall, 
+saguão, acessos, descargas, escadas, praça de alimentação, etc; 
+4.26 Área a construir: é a somatória das áreas cobertas a serem construídas de uma edificação, 
+em metros quadrados; 
+4.27 Área construída: é a somatória das áreas cobertas já construídas de uma edificação, em 
+metros quadrados; 
+4.28 Área da edificação: Somatória da área a construir e da área construída de uma edificação.  
+4.29 Área de aberturas na fachada de uma edificação: Superfície aberta nas fachadas (janelas, 
+portas, elementos vazados – cobogó, treliça, etc.), paredes, parapeitos e vergas que não 
+apresentam resistência ao fogo, e pelas quais pode-se irradiar o incêndio.  
+4.30 Área de armazenagem: Local destinado à estocagem de fogos de artifício industrializado.  
+4.31 Área de armazenamento: Aquela destinada à guarda de materiais, podendo ser edificada 
+ou aberta, sobre piso, com ou sem acabamento ou em terreno natural, esta área poderá estar 
+inclusa na área de risco ou na área edificada, conforme o caso.  
+4.32 Área de estacionamento: Local destinado ao estacionamento de helicópteros, localizado 
+dentro dos limites do heliporto ou heliponto.  
+4.33 Área do empreendimento ou área do estabelecimento: área destinada ao exercício de 
+uma atividade econômica, podendo ou não corresponder à área total de uma edificação;
+
+--- PÁGINA 5 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.34 Área do pavimento: Área em metro quadrado (m2), calculada a partir das paredes externas.  
+4.35 Área de pouso e decolagem de emergência para helicópteros: Local construído sobre 
+edificações, cadastrado no Comando Aéreo Regional respectivo, que poderá ser utilizado para 
+pousos e decolagens de Helicópteros, exclusivamente em casos de emergência ou de calamidade.  
+4.36 Área de pouso e decolagem: Local do Heliponto ou Heliporto, com dimensões definidas, 
+onde o Helicóptero pousa e decola.  
+4.37 Área de pouso e decolagem ocasional (APDO): Local de dimensões definidas, que pode 
+ser usado, em caráter temporário, para pousos e decolagens de helicópteros mediante autorização 
+prévia, específica e por prazo limitado, do órgão regional do Comando Aéreo Regional.  
+4.38 Área de refúgio para helipontos: Local ventilado, previamente delimitado, com acesso à 
+escada de emergência, separado desta por porta corta-fogo e situado em helipontos ou heliportos 
+elevados, próximo ao local de resgate de vítimas com uso de helicópteros para casos de 
+impossibilidade de abandono da edificação pelas rotas de fuga previamente dimensionadas.  
+4.39 Área de refúgio: Local seguro que é utilizado temporariamente pelo usuário, acessado 
+através das saídas de emergência de um setor ou setores, ficando entre este (s) e o logradouro 
+público ou área externa com acesso aos setores.  
+4.40 Área de risco: Área onde haja possibilidade de ocorrência de um sinistro. 
+4.41 Área de toque: Parte da área de pouso e decolagem, com dimensões definidas, na qual é 
+recomendado o toque do helicóptero ao pousar.  
+4.42 Área de venda: Local destinado à permanência de pessoas para escolha e compra de 
+produtos.  
+4.43 Área do maior pavimento: Área do maior pavimento da edificação, excluindo-se o de 
+descarga.  
+4.44 Áreas de produção: Locais onde se localizam poços de petróleo.  
+4.45 Área edificada: Entende-se por área edificada toda a área que possuir piso e teto 
+construídos, pertencentes ao imóvel. Inclui-se nesta definição toldos e coberturas.  
+4.46 Área imprópria ao uso: São áreas que por sua característica geológica ou topográfica 
+impossibilitam a sua exploração. Exemplificam esta definição os taludes em aclive acentuado, 
+barrancos em pedra, lagos (mesmo os artificiais), riachos e poços, dentre outros.  
+4.47 Área privativa – adotar-se-á este conceito, como sendo a área específica de propriedade do 
+estabelecimento, delimitada pela área comum e divisas com demais estabelecimentos; 
+4.48 Área protegida: é a área dotada de medidas de segurança contra incêndio e pânico; 
+4.49 Área total da edificação: somatória da área a construir e da área construída de uma 
+edificação, em metros quadrados, devendo ser somada a área utilizável que for contabilizada para 
+fins de definição de medidas de segurança; 
+4.50 Área utilizável: é toda aquela que de alguma forma pode ser utilizada para manobra de 
+veículos, ações de carga e descarga, movimentação de pessoas e/ou materiais sem parte 
+edificada. Excetua-se desta as áreas destinadas a jardinagens, passeios públicos e áreas 
+impróprias ao uso.
+
+--- PÁGINA 6 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.51 Armazém de líquidos inflamáveis: Construção destinada, exclusivamente a armazenagem 
+de recipientes de líquidos inflamáveis.  
+4.52 Armazém de produtos acondicionados: Área coberta ou não, onde são acondicionados 
+recipientes (tais como tambores, tonéis, latas, baldes, etc.) que contenham produtos ou materiais 
+combustíveis ou produtos inflamáveis.  
+4.53 Assistente de produção: ferramenta do sistema Infoscip que auxilia a elaboração do pré-
+cadastro de PSCIP. 
+4.54 Aspersor: Dispositivo utilizado nos chuveiros automáticos ou sob comando, para aplicação 
+de agente extintor  
+4.55 Atestado de brigada contra incêndio: Documento que atesta que os ocupantes da 
+edificação receberam treinamentos teórico e prático de prevenção e combate a incêndio e pânico.  
+4.56 Ático: Parte do volume superior de uma edificação, destinada a abrigar máquinas e 
+equipamentos, casa de máquinas de elevadores, placas e equipamentos de aquecimento solar, 
+aquecedores de água a gás ou elétricos localizados na cobertura do edifício, caixas de água e 
+circulação vertical.  
+4.57 Atividade econômica: o ramo de atividade identificada a partir da Classificação Nacional de 
+Atividades Econômicas (CNAE) e da lista de estabelecimentos auxiliares a ela associados, se 
+houver, regulamentada pela Comissão Nacional de Classificação (CONCLA); 
+4.58 Átrio (“Atrium”): Espaço amplo criado por um andar aberto ou conjuntos de andares abertos, 
+conectando dois ou mais pavimentos cobertos, com fechamento na cobertura, excetuando-se os 
+locais destinados à escada, escada rolante e “shafts” de hidráulica, eletricidade, ar condicionado 
+e cabos de comunicação.  
+4.59 Auto de Vistoria do Corpo de Bombeiros (AVCB): Documento emitido pelo CBMMG 
+impresso em papel moeda especifico ou de forma digital pelo Infoscip, certificando que a edificação 
+possui as condições de segurança contra incêndio e pânico, previstas na legislação, 
+estabelecendo um período de revalidação.  
+4.60 Autonomia do sistema: Tempo mínimo em que o sistema se mantém em funcionamento, 
+garantindo a eficiência desse sistema.  
+4.61 Autos do processo digital: conjunto de dados, metadados e documentos digitalizados 
+correspondentes a todos os atos, termos e informações do processo; 
+4.62 Avisador: Dispositivo previsto para chamar a atenção de todas as pessoas dentro de uma 
+área de perigo, controlado pela central.  
+4.63 Avisador sonoro: Dispositivo que emite sinais audíveis de alerta.  
+4.64 Avisador sonoro e visual: Dispositivo que emite sinais audíveis e visíveis de alerta 
+combinados.  
+4.65 Avisador visual: Dispositivo que emite sinais visuais de alerta.  
+4.66 Axiomas: São premissas contidas em cartas, recomendações, declarações e resoluções 
+referentes à conservação e preservação do patrimônio protegido, definidos pelos órgãos de 
+preservação.
+
+--- PÁGINA 7 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.67 Bacia de contenção de óleo isolante: Dispositivo constituído por grelha, duto de coleta e 
+dreno, preenchido com pedra britada, com a finalidade de coletar vazamentos de óleo isolante.  
+4.68 Bacia de contenção: Região delimitada por uma depressão do terreno ou diques destinada 
+a conter integralmente o vazamento de produtos líquidos dos tanques.  
+4.69 Balcão ou sacada: Parte do pavimento da edificação em balanço em relação à parede 
+externa do prédio, tendo, pelo menos, uma face aberta para o espaço livre exterior.  
+4.70 Banzo: Parte lateral das escadas de incêndio onde se fixam os degraus.  
+4.71 Barreiras de fumaça (“smoke barriers”): Membrana, tanto vertical quanto horizontal, tal 
+como uma parede, andar ou teto, que é projetada e construída para restringir o movimento da 
+fumaça. As barreiras de fumaça podem ter aberturas que são protegidas por dispositivos de 
+fechamento automático ou por dutos de ar, adequados para controlar o movimento da fumaça.  
+4.72 Barreiras de proteção: Dispositivos que evitam a passagem de gases, chamas ou calor de 
+um local ou instalação para outro contíguo.  
+4.73 Bocel ou nariz do degrau: Borda saliente do degrau sobre o espelho, arredondada 
+inferiormente ou não. Nota: Se o degrau não possui bocel, a linha de concorrência dos planos do 
+degrau e do espelho, neste caso obrigatoriamente inclinada, chama-se quina do degrau; a 
+saliência do bocel ou da quina sobre o degrau imediatamente inferior não pode ser menor que 15 
+mm em projeção horizontal.  
+4.74 Bomba com motor de combustão interna (motores do ciclo Otto ou Diesel): 
+Equipamento para o combate a incêndio cuja força provém da expansão do combustível misturado 
+com o ar na presença de fonte ígnea ou pela variação de pressão.  
+4.75 Bomba com motor elétrico: Equipamento para combate a incêndio cuja força provém da 
+eletricidade.  
+4.76 Bomba de pressurização (“jockey”): Dispositivo hidráulico centrífugo destinado a manter 
+o sistema pressurizado em uma faixa preestabelecida.  
+4.77 Bomba de reforço: Dispositivo hidráulico destinado a fornecer água aos hidrantes ou 
+mangotinhos mais desfavoráveis hidraulicamente, quando estes não puderem ser abastecidos 
+pelo reservatório elevado.  
+4.78 Bomba principal: Dispositivo hidráulico centrífugo destinado a recalcar água para os 
+sistemas de combate a incêndio.  
+4.79 Bombeiro profissional civil: Pessoa pertencente a uma empresa especializada, ou da 
+própria administração do estabelecimento, com dedicação exclusiva, que presta serviços de 
+prevenção de incêndio e atendimento de emergência em edificações e eventos, e que tenha sido 
+aprovado no curso de formação, de acordo com a norma específica.  
+4.80 Bombeiro público (Militar ou civil): Pessoa pertencente a uma corporação de atendimento 
+às emergências públicas.  
+4.81 Bombeiro voluntário: Pessoa pertencente a uma organização não governamental que 
+presta serviços de atendimento às emergências públicas.  
+4.82 Botijão: Recipiente transportável de gás liquefeito de petróleo (GLP), com capacidade 
+nominal de até 13 kg de GLP.
+
+--- PÁGINA 8 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.83 Botijão portátil: Recipiente transportável de gás liquefeito de petróleo (GLP) com capacidade 
+nominal de até 5 kg de GLP.  
+4.84 Botoeira “liga-desliga”: Acionador manual, do tipo liga-desliga, para bomba principal.  
+4.85 Brigada de incêndio: Grupo organizado de pessoas, voluntárias ou não, treinadas e 
+capacitadas para atuar na prevenção, abandono da edificação, combate a um princípio de incêndio 
+e prestar os primeiros socorros, dentro de uma área preestabelecida.  
+4.86 Camada de fumaça (“smoke layer”): Espessura acumulada de fumaça abaixo de uma 
+barreira física ou térmica.  
+4.87 Câmara de espuma: Dispositivo dotado de selo de vapor destinado a conduzir a espuma 
+para o interior do tanque de armazenamento de teto cônico.  
+4.88 Canalização: Rede de tubos, conexões e acessórios, destinada a conduzir água para 
+alimentar o sistema de combate a incêndio.  
+4.89 Capacidade de armazenamento: espaço disponível para alocar informações na forma de 
+dados digitais. 
+4.90 Capacidade extintora: Medida do poder de extinção de fogo de um extintor, obtida em 
+ensaio prático normalizado.  
+4.91 Capacidade volumétrica: Capacidade total em volume que o recipiente pode comportar, 
+medida em m3.  
+4.92 Carga de incêndio: Soma das energias caloríficas possíveis de serem liberadas pela 
+combustão completa de todos os materiais combustíveis contidos em um espaço, inclusive o 
+revestimento das paredes, divisórias, pisos e tetos.  
+4.93 Carga de incêndio específica: é a soma das energias caloríficas possíveis de serem 
+liberadas pela combustão completa de todos os materiais combustíveis em um espaço, inclusive 
+o revestimento das paredes, divisórias, pisos e tetos, dividida pela área de piso do espaço 
+considerado, medida em megajoule por metro quadrado (MJ/m²); 
+4.94 Carretel axial: Dispositivo rígido destinado ao enrolamento de mangueiras semirrígidas. 
+4.95 Carta de liberação: documentação emitida pelo Corpo de Bombeiros Militar de Minas Gerais 
+antes de 01jan2006 certificando que a edificação atendia aos parâmetros de segurança contra 
+incêndio e pânico definidos pelo CBMMG. 
+4.96 Cartas Patrimoniais: Consolidações de recomendações e orientações objetivando a 
+salvaguarda de bens elegidos como possuidores de valor cultural. Se originam das atividades 
+decorrentes das Convenções internacionais que abordaram o tema da preservação, conservação 
+e promoção do patrimônio cultural, promovidas pela UNESCO, tendo o Brasil ratificado o expresso 
+nestes documentos. 
+4.97 Causa: Origem de caráter humano ou material, relacionada com um acidente.  
+4.98 Central de alarme: Equipamento destinado a processar os sinais provenientes dos circuitos 
+de detecção, convertê-los em indicações adequadas, comandar e controlar os demais 
+componentes do sistema.
+
+--- PÁGINA 9 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.99 Central de gás: Área devidamente delimitada, que contém os recipientes transportáveis ou 
+estacionário (s) e acessórios, destinados ao armazenamento de gás liquefeito de petróleo (GLP) 
+para consumo. Classificação segundo sua capacidade máxima de armazenamento de recipientes:  
+a) Classe I: até 540 kg ou 1,0 m3 de GLP (equivalente a 41 botijões de 13 kg ou 12 de 45 kg);  
+b) Classe II: até 1.080 kg ou 2,0 m3 de GLP (equivalente a 83 botijões de 13 kg ou 24 de 45 kg);  
+c) Classe III: até 2.520 kg ou 5,5 m3 de GLP (equivalente a 193 botijões de 13 kg ou 56 de 45 kg);  
+d) Classe IV: até 4000 kg ou 8,0 m3 de GLP (equivalente a 307 botijões de 13 kg ou 88 de 45 kg);  
+e) Classe V: acima de 4000 kg ou 8,0 m3 de GLP (acima de 307 botijões de 13 kg ou 88 de 45 
+kg).  
+4.100 Certificado de Funcionamento Provisório: é o documento eletronicamente emitido aos 
+empreendimentos classificados como baixo risco que, dentro do seu período de validade (um ano), 
+licencia o empreendimento para o início das atividades, sem que haja necessidade de vistoria 
+prévia do Corpo de Bombeiros Militar de Minas Gerais; 
+4.101 Chuveiro automático: Dispositivo destinado a projetar água, em forma de chuva, dotado 
+de elemento sensível à elevação de temperatura.  
+4.102 Circulação de uso comum: Passagem que dá acesso à saída de mais de uma unidade 
+autônoma, quarto de hotel ou assemelhado.  
+4.103 Classes de fogo: Classificação do fogo de acordo com as características dos materiais 
+combustíveis ou inflamáveis.  
+4.104 Classe A: Fogo em materiais combustíveis sólidos, que queimam em superfície e 
+profundidade através do processo de pirólise, deixando resíduos.  
+4.105 Classe B: Fogo em líquidos e/ou gases combustíveis ou inflamáveis e sólidos combustíveis 
+que se liquefazem por ação do calor, como graxas, que queimam somente em superfície, podendo 
+ou não deixar resíduos.  
+4.106 Classe C: Fogo em materiais, equipamentos e instalações elétricas energizadas.  
+4.107 Classe D: Fogo em metais combustíveis, como magnésio, titânio, alumínio, zircônio, sódio, 
+potássio e lítio.  
+4.108 Classe K: Fogo em óleos e gorduras, animais e vegetais, utilizados na cocção de alimentos. 
+4.109 Cobertura: Elemento construtivo, localizado no topo da edificação, com a função de 
+protegê-la da ação dos fenômenos naturais (chuva, calor, vento etc.).  
+4.110 Combate a incêndio: Conjunto de ações táticas destinadas a extinguir ou isolar o incêndio 
+com uso de equipamentos manuais ou automáticos.  
+4.111 Combustibilidade dos elementos de revestimento das fachadas das edificações: 
+Característica de reação ao fogo dos materiais utilizados no revestimento das fachadas dos 
+edifícios, que podem contribuir para a propagação e radiação do fogo, determinados nas normas 
+técnicas em vigor.
+
+--- PÁGINA 10 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.112 Como construído (“as built”): Documentos, desenhos ou plantas do sistema, que 
+correspondem exatamente ao que foi executado pelo instalador.  
+4.113 Compartimentação vertical e horizontal: Medidas de proteção passiva, constituída de 
+elementos de construção resistentes ao fogo, destinados a evitar ou minimizar a propagação do 
+fogo, calor e gases, interna ou externamente ao edifício, no mesmo pavimento ou para pavimentos 
+elevados consecutivos. Incluem-se neste conceito os elementos de vedação abaixo descritos:  
+Compartimentação vertical  
+a) entrepisos ou lajes corta-fogo de compartimentação de áreas;  
+b) vedadores corta-fogo nos entrepisos ou lajes corta-fogo;  
+c) enclausuramento de dutos (“shafts”) por meio de paredes corta-fogo;  
+d) enclausuramento das escadas por meio de paredes e portas  
+-fogo;  
+e) selagem corta-fogo dos dutos (“shafts”) na altura dos pisos e/ou entrepisos;  
+f) paredes resistentes ao fogo na envoltória do edifício; 
+g) parapeitos ou abas resistentes ao fogo, separando aberturas de pavimentos consecutivos;  
+h) registros corta-fogo nas aberturas em cada pavimento dos dutos de ventilação e de ar 
+condicionado.  
+Compartimentação horizontal  
+a) paredes corta-fogo de compartimentação de áreas;  
+b) portas e vedadores corta-fogo nas paredes de compartimentação de áreas;  
+c) selagem corta-fogo nas passagens das instalações prediais existentes nas paredes de 
+compartimentação;  
+d) registros corta-fogo nas tubulações de ventilação e de ar condicionado que transpassam as 
+paredes de compartimentação;  
+e) paredes corta-fogo de isolamento de riscos entre unidades autônomas;  
+f) paredes corta-fogo entre unidades autônomas e áreas comuns;  
+g) portas corta-fogo de ingresso de unidades autônomas.  
+4.114 Compartimentação: Característica construtiva, concebida pelo arquiteto ou engenheiro, na 
+qual se tem a divisão em nível (cômodos) ou vão vertical (pé direito), cujas características básicas 
+são a vedação térmica e a estanqueidade à fumaça, onde o elemento construtivo estrutural e de 
+vedação, possui resistência mecânica à variação térmica no tempo requerido de resistência ao 
+fogo - TRRF, determinado pela norma correspondente, impedindo a passagem de calor ou fumaça, 
+conferida à edificação em relação às suas divisões internas.
+
+--- PÁGINA 11 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.115 Compartimentação horizontal: Medida de proteção, constituída de elementos construtivos 
+resistentes ao fogo, separando ambientes, de tal modo que o incêndio fique contido no local de 
+origem e evite a sua propagação no plano horizontal.  
+4.116 Compartimentação vertical: Medida de proteção, constituída de elementos construtivos 
+resistentes ao fogo, separando pavimentos consecutivos, de tal modo que o incêndio fique contido 
+no local de origem e dificulte a sua propagação no plano vertical.  
+4.117 Compartimentar: Separar um ou mais locais do restante da edificação por intermédio de 
+paredes resistentes ao fogo, portas, selos e “dampers” corta-fogo.  
+4.118 Compartimento: Parte de uma edificação, compreendendo um ou mais cômodos, espaços 
+ou andares, construídos para evitar ou minimizar a propagação do incêndio de dentro para fora de 
+seus limites.  
+4.119 Compensadores síncronos: Equipamento que compensa reativos do sistema, trabalhando 
+como carga quando o sistema está com a tensão alta, e trabalhando como gerador quando o 
+sistema está com a tensão baixa.  
+4.120 Comunicação visual: Conjunto de informações visuais aplicadas em uma edificação, com 
+a finalidade de orientar sua população, tais como: localização de ambientes, saídas, prestação de 
+serviços e propagandas, não se tratando especificamente de sinalização de emergência. 4.100 
+Contêiner: Grande caixa metálica de dimensões e características padronizadas, para 
+acondicionamento de cargas em geral a transportar, com a finalidade de facilitar o seu embarque, 
+desembarque e transbordo entre diferentes meios de transporte.  
+4.121 Condições mínimas aceitáveis de segurança contra incêndio: São o conjunto de 
+medidas de segurança ativas e passivas capazes de gerar na edificação o risco máximo 
+admissível de incêndio. 
+4.122 Conjunto arquitetônico: Conjunto de edificações que por suas características 
+arquitetônicas peculiares delimitam área especifica dentro de determinado espaço urbano ou rural. 
+4.123 Conjunto urbano protegido: Conjunto arquitetônico formado por pelo menos uma 
+edificação tombada e edificações vizinhas, ainda que não tombadas, de tal modo que os efeitos 
+do incêndio gerado em uma delas possam atingir as outras. 
+4.124 Conservações: Conjunto de medidas preventivas de caráter técnico ou administrativo 
+destinadas a prolongar o tempo de vida de determinado bem cultural (edificação). 
+4.125 Cor de contraste: Aquela que contrasta com a cor de segurança a fim de fazer com que a 
+última se sobressaia.  
+4.126 Cor de segurança: Aquela para a qual é atribuída uma finalidade ou um significado 
+específico de segurança ou saúde.  
+4.127 Corpo técnico: Grupo de estudos formado por profissionais qualificados do CBMMG, 
+legalmente habilitado no âmbito de segurança contra incêndio e pânico, tendo como objetivos 
+propor normas de prevenção contra incêndio e pânico (PCIP), analisar, avaliar e emitir pareceres 
+relativos aos casos que necessitarem de soluções técnicas complexas ou apresentarem dúvidas 
+quanto às exigências previstas no Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco do Estado de Minas Gerais.
+
+--- PÁGINA 12 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.128 Corrimão ou mainel: Barra, cano ou peça similar, com superfície lisa, arredondada e 
+contínua, aplicada em áreas de escadas e rampas destinadas a servir de apoio para as pessoas 
+durante o deslocamento.  
+4.129 Dano: Lesões a pessoas, destruição de recursos naturais (água, ar, solo, animais, plantas 
+ou ecossistemas) ou de bens materiais.  
+4.130 Declaração de Dispensa de Licenciamento: é o documento eletronicamente emitido aos 
+empreendimentos classificados como “Domicílio Fiscal” e aos classificados como baixo risco 
+instalados em imóveis com área total igual ou inferior a 200m², que licencia o empreendimento 
+para o início das atividades, sem que haja necessidade de vistoria prévia do Corpo de Bombeiros 
+Militar de Minas Gerais. Possui validade por prazo indeterminado, enquanto perdurarem as 
+características declaradas pelo responsável 
+4.131 Degrau: Conjunto de elementos de uma escada composta pela face horizontal conhecida 
+como “piso”, destinado ao pisoteio e o espelho que é a parte vertical do degrau, que lhe define a 
+altura.  
+4.132 Densidade populacional (d): Número de pessoas em uma área determinada 
+(pessoas/m2). 
+4.133 Descarga: Parte da saída de emergência de uma edificação que fica entre a escada e o 
+logradouro público ou área externa com acesso a este.  
+4.134 Deslizador de espuma: Dispositivo destinado a facilitar a aplicação suave da espuma sobre 
+líquidos combustíveis armazenados em tanques.  
+4.135 Destravadores eletromagnéticos: Dispositivo de controle de abertura com travamento 
+determinado pelo acionamento magnético, decorrente da passagem de corrente elétrica.  
+4.136 Detector automático de incêndio: Dispositivo que, quando sensibilizado por fenômenos 
+físicos e/ou químicos, detecta princípios de incêndio podendo ser ativado, basicamente, por calor, 
+chama ou fumaça.  
+4.137 Diretrizes de Preservação: São as diretrizes relativas às intervenções de restauração, 
+requalificação e conservação a serem consideradas pelos órgãos de preservação, de forma a 
+subsidiar a análise pelos seus técnicos, em relação a projetos que se enquadram nesta Instrução 
+Técnica. São expressas através das portarias e outros instrumentos internos, exarados pelas 
+autoridades competentes, além das legislações norteadoras das atividades de cada órgão. 
+4.138 Dispositivo de recalque: Registro para uso do Corpo de Bombeiros, que permite o recalque 
+de água para o sistema, podendo ser dentro da propriedade quando o acesso do Corpo de 
+Bombeiros estiver garantido.  
+4.139 Dispositivos de descarga: Equipamentos que aplicam a espuma sob forma de neblina e 
+que aplicam o agente numa corrente compacta de baixa velocidade. Podem ser: Dispositivos que 
+descarregam a espuma sob a forma de aspersão e terminam em um defletor ou uma calha que 
+distribui a espuma; dispositivos que descarregam a espuma sob a forma de uma corrente 
+compacta de baixa velocidade; podem ter ou não defletores ou calhas incluídos como partes 
+integrantes do sistema. Estes dispositivos podem ter formas como as de tubos abertos, esguichos 
+de fluxo direcional, ou pequenas câmaras de geração com bocas de saídas abertas.  
+4.140 Distância de segurança: Afastamento entre uma face exposta da edificação ou de um local 
+compartimentado à divisão do lote, ao eixo da rua ou a uma linha imaginária entre duas edificações
+
+--- PÁGINA 13 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+ou áreas compartimentadas do mesmo lote, medida perpendicularmente à face exposta da 
+edificação.  
+4.141 Distância máxima a ser percorrida: Distância máxima real, em metros, a ser percorrida 
+pelo operador, do ponto de fixação do extintor a qualquer ponto da área protegida por ele. 
+4.142 Distância máxima horizontal de caminhamento: Afastamento máximo a ser percorrido 
+pelo usuário para alcançar um acesso.  
+4.143 Distância mínima de segurança: Afastamento mínimo entre a área de armazenamento de 
+recipientes transportáveis de gás liquefeito de petróleo (GLP) e outra instalação necessária para 
+a segurança do usuário, do manipulador, de edificação e do público em geral, estabelecida a partir 
+do limite de área de armazenamento.  
+4.144 Distribuição de GNL a granel: Compreende as atividades de aquisição ou recepção, 
+armazenamento, transvasamento, controle de qualidade e comercialização do gás natural 
+liquefeito (GNL), por meio de transporte próprio ou contratado, podendo também exercer a 
+atividade de liquefação de gás natural, que serão realizadas por pessoas jurídicas constituídas 
+sob as leis brasileiras, com sede e administração no País.  
+4.145 Dispositivo de recalque:  Dispositivo para uso do corpo de Bombeiros, que permite 
+recalque de água para o sistema, podendo ser dentro da propriedade quando o acesso do Corpo 
+de Bombeiros estiver garantido. 
+4.146 Divisória ou tabique: Parede interna, baixa ou atingindo o teto, sem efeito estrutural e que, 
+portanto, pode ser suprimida facilmente em caso de reforma.  
+4.147 Documento digitalizado: reprodução digital de documento originalmente impresso; 
+4.148 Domicílio Fiscal: para o Corpo de Bombeiros é o endereço utilizado somente registro da 
+empresa, caracterizado pelo fato das atividades não são exercidas no imóvel ou, caso sejam 
+exercidas, não utilizem a estrutura física deste para recepção de pessoas ou armazenamento de 
+produtos, sendo as atividades desenvolvidas apenas pelo (s) sócio (s) residente (s). 
+4.149 Dosador: Equipamento destinado a misturar quantidades determinadas de “extrato 
+formador” de espuma e água.  
+4.150 Download: ato de transferir (descarregar, baixar) cópia de um arquivo de dados de um 
+computador remoto para um dispositivo eletrônico local; 
+4.151 Duplex: ao apartamento ou casa que apresenta dois pavimentos, ligados por uma escada 
+construída no seu interior. 
+4.152 Duto de entrada de ar (DE): Espaço no interior da edificação, que conduza ar puro, coletado 
+ao nível inferior desta, às escadas, antecâmaras ou acessos, exclusivamente, mantendo-os, com 
+isso, devidamente ventilados e livres de fumaça em caso de incêndio. Duto de saída de ar (DS): 
+Espaço vertical no interior da edificação, que permite a saída, em qualquer pavimento, de gases 
+e fumaça para o ar livre, acima da cobertura da edificação. 
+4.153 Duto (“plenum”): Condição de dimensionamento do sistema de pressurização no qual se 
+admite apenas um ponto de pressurização, dispensando-se o duto interno e/ou externo para 
+pressurização.  
+4.154 DWG: Drawing (desenho) - Extensão de arquivo de desenho para utilização em softwares 
+assistentes de desenho ou similares;
+
+--- PÁGINA 14 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.155 Edificação: Área construída destinada a abrigar atividade humana ou qualquer instalação, 
+equipamento ou material.  
+4.156 Edificação aberta lateralmente: Edificação ou parte de edificação que, em cada 
+pavimento:  
+a) tenha ventilação permanente em duas ou mais fachadas externas, providas por aberturas que 
+possam ser consideradas uniformemente distribuídas e que tenham comprimentos em planta que 
+somados atinjam pelo menos 40% do perímetro do edifício e áreas que somadas correspondam a 
+pelo menos 20% da superfície total das fachadas externas ou.  
+b) tenha ventilação permanente em duas ou mais fachadas externas, provida por aberturas cujas 
+áreas somadas correspondam a pelo menos 1/3 da superfície total das fachadas externas, e pelo 
+menos 50% destas áreas abertas situadas em duas fachadas opostas. Observação: Em qualquer 
+caso, as áreas das aberturas nas laterais externas somadas devem possuir ventilação direta para 
+o meio externo e devem corresponder a pelo menos 5% da área do piso no pavimento e as 
+obstruções internas eventualmente existentes devem ter pelo menos 20% de suas áreas abertas, 
+com aberturas dispostas de forma a poderem ser consideradas uniformemente distribuídas, para 
+permitir a ventilação.  
+4.157 Edificação destinada ao comércio de fogos de artifício no varejo: Local destinado ao 
+armazenamento e venda de fogos de artifício e estampido industrializados.  
+4.158 Edificações de Valor Cultural Protegidas: Construções que pelo seu valor arquiteto nico, 
+histórico, artístico ou simbólico se revestem de significado para uma municipalidade, estado, país 
+ou mesmo para a humanidade, sendo elemento importante para o entendimento da trajetória de 
+determinada parcela da população em sua interação com o meio ambiente. 
+4.159 Edificação em exposição: Construção que recebe a radiação de calor, convecção de 
+gases quentes ou a transmissão direta de chama.  
+4.160 Edificação expositora: Construção na qual o incêndio está ocorrendo, responsável pela 
+radiação de calor, convecção de gases quentes e ou transmissão direta de chamas.  
+4.161 Edificação principal: Construção que abriga a atividade principal sem a qual as demais 
+edificações não teriam função.  
+4.162 Edificação térrea: Edificação de um pavimento podendo possuir mezaninos, sobrelojas e 
+jiraus. 
+4.163 Edificação com tombamento isolado: Edificação de elevado valor cultural cujas 
+características externas e internas devem ser rigorosamente mantidas. Necessariamente, 
+intervenções nestas edificações deverão ser autorizadas pelos órgãos de preservação pertinentes. 
+4.164 Edificação Histórica: Edificação de interesse do patrimônio histórico cultural que, 
+comprovadamente, possui certidão de preservação do imóvel ou documento equivalente, fornecido 
+pelos órgãos oficiais competentes e legalmente habilitados para certificação. 
+4.165 Edificações inseridas em conjuntos urbanos protegidos: Edificações com valor cultural 
+agregado com certa flexibilidade nas intervenções internas mediante autorização dos órgãos de 
+preservação pertinentes 
+4.166 Edificação do tipo Q: é a edificação dividida em unidades de ocupação que, por suas 
+características construtivas, não permite, ou pelo menos, dificulta significativamente a propagação 
+do incêndio nas direções horizontal e vertical
+
+--- PÁGINA 15 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.167 Edificação do tipo T: é a edificação que, por suas características construtivas, não permite 
+ou, pelo menos, dificulta significativamente a propagação do incêndio na direção vertical. 
+4.168 Edificações do tipo V: é a edificação que não se classifica nos tipos Q ou T. 
+4.169 Edificação protegida: Bem imóvel ou edificação que por suas características históricas, 
+estéticas ou arquitetônicas integram-se ao património sociocultural de uma localidade, 
+devidamente reconhecido por órgão de preservação. 
+4.170 Efeito chaminé (“Stack effect”): Fluxo de ar vertical dentro das edificações, causado pela 
+diferença de temperatura interna e externa.  
+4.171 Efeito do sistema: Efeito causado pelo erro de projeto e/ou instalação com configurações 
+inadequadas do sistema onde o ventilador está instalado, ocasionando redução do desempenho 
+do ventilador em termos de vazão.  
+4.172 
+Elemento 
+de 
+compartimentação: 
+Elemento 
+de 
+construção 
+que 
+compõe a 
+compartimentação da edificação.  
+4.173 Elemento artístico: Objetos que são testemunhos da criação humana que possuem valor 
+histórico, artístico, científico, religioso e etc., sendo divididos em: Elementos Artísticos Móveis e 
+Elementos artísticos integrados. 
+4.174 Elemento artístico integrado: Objetos que são testemunhos da criação humana que 
+possuem valor histórico, artístico, religioso, científico e etc. Incluem-se aqueles que integram um 
+determinado local para o qual eles foram especificamente pensados e produzidos, não podendo, 
+por essa razão, ser transferidos ou removidos sem acarretar em danos e descaracterização do 
+local ocupado originariamente por eles. Ex.: retábulos, retábulos com elementos com douramento, 
+balaustrada, cimalha, coro, entre outros. 
+4.175 Elementos Artísticos Móveis: Objetos que são testemunhos da criação humana que 
+possuem valor histórico, artístico, científico, religiosos etc. São objetos que não necessariamente 
+complementam uma edificação ou sítio, os quais podem ser transferidos sem prejuízo para a peça 
+ou para o conjunto. Ex.: obras de arte, prataria, esculturas, peças sacras, peças litúrgicas, lustres, 
+entre outros. 
+4.176 Elemento estrutural: Todo e qualquer elemento de construção do qual dependa a 
+resistência e a estabilidade total ou parcial da edificação.  
+4.177 Elemento existente: Guarda corpo, corrimão, escada ou outros elementos arquitetônicos 
+existentes na época de tombamento. 
+4.178 Emergência: Situação crítica e fortuita que representa perigo à vida, ao meio ambiente e 
+ao patrimônio, decorrente de atividade humana ou fenômeno da natureza que obriga a uma rápida 
+intervenção operacional.  
+4.179. Empreendimento: Pessoa física ou jurídica que exerce atividades econômicas com 
+assunção de responsabilidades e direitos, reguladas por legislação específica; e que necessitam 
+de licenciamento, alvará ou documento similar para o exercício dessas atividades, salvo os casos 
+de dispensa desse licenciamento previstos em legislação específica. Para fins da legislação de 
+Segurança Contra Incêndio e Pânico o termo “Empreendimento” é equivalente ao termo 
+“empresa”.
+
+--- PÁGINA 16 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.180 Empreendimentos de alto risco: são aqueles que exercem qualquer das atividades 
+econômicas previstas no Anexo “A” desta Portaria ou que apresentem qualquer uma das 
+características condicionantes elencadas no mesmo Anexo. 
+4.181 Empreendimentos de baixo risco: são aqueles que não se enquadraram como sendo de 
+risco alto e estão instalados em imóvel com área total construída inferior a 750m² e superior a 
+200m². 
+4.182 Entrepiso: Conjunto de elementos de construção, com ou sem espaços vazios, 
+compreendidos entre a parte inferior do forro de um pavimento e a parte superior do piso do 
+pavimento imediatamente superior.  
+4.183 EPI: Equipamentos de proteção individual.  
+4.184 EPI de nível “A”: É o nível máximo de proteção para todas as possíveis vias de intoxicação, 
+sendo por inalação, ingestão ou absorção cutânea. Utiliza-se roupa encapsulada de proteção 
+química, com proteção respiratória de pressão positiva.  
+4.185 EPI de nível “B”: É o nível de proteção intermediário, para exposições de produtos com 
+possibilidade de respingos. Utiliza-se roupa de proteção química conforme especificação da tabela 
+de compatibilidade da roupa.  
+4.186 EPI de nível “C”: É o nível mínimo necessário a qualquer tipo de acidente envolvendo 
+produtos químicos.  
+4.187 EPR: Equipamentos de proteção respiratória.  
+4.188 Escada aberta: Escada não enclausurada por paredes e porta corta-fogo.  
+4.189 Escada aberta externa (AE): Escada de emergência precedida de porta corta-fogo (PCF) 
+no seu acesso, cuja projeção esteja fora do corpo principal da edificação, sendo dotada de guarda-
+corpo ou gradil (Barreiras) e corrimãos em toda sua extensão (degraus e patamares), permitindo 
+desta forma eficaz ventilação, propiciando um seguro abandono.  
+4.190 Escada à prova de fumaça pressurizada (PFP): Escada à prova de fumaça, cuja condição 
+de estanqueidade à fumaça é obtida por intermédio de pressurização.  
+4.191 Escada enclausurada: Escada protegida com paredes resistentes ao fogo e portas corta-
+fogo.  
+4.192 Escada enclausurada à prova de fumaça (EPF): Escada cuja caixa é envolvida por 
+paredes corta-fogo e dotada de portas corta-fogo, cujo acesso é por antecâmara igualmente 
+enclausurada ou local aberto, de modo a evitar fogo e fumaça em caso de incêndio.  
+4.193 Escada enclausurada protegida (EP): Escada devidamente ventilada situada em 
+ambiente envolvido por paredes resistentes ao fogo e dotada de portas corta-fogo.  
+4.194 Escada não enclausurada ou escada comum (NE): Escada que embora possa fazer parte 
+de uma rota de saída, comunica-se diretamente com os demais ambientes como corredores, 
+“halls” e outros, em cada pavimento, não possuindo portas corta-fogo.  
+4.195 Escoamento (E): Número máximo de pessoas possíveis de abandonar um recinto dentro 
+do tempo máximo de abandono.
+
+--- PÁGINA 17 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.196 Esguicho: Dispositivo adaptado na extremidade das mangueiras, destinado a dar forma, 
+direção e controle ao jato, podendo ser do tipo regulável (neblina ou compacto) ou de jato 
+compacto.  
+4.197 Esguicho regulável: Acessório hidráulico que dá forma ao jato, permitindo o uso d’água 
+em forma de chuveiro de alta velocidade.  
+4.198 Espaço confinado: Local onde a presença humana é apenas momentânea para prestação 
+de um serviço de manutenção em máquinas, tubulações e sistemas.  
+4.199 Espaço livre exterior: Espaço externo à edificação para o qual abram seus vãos de 
+ventilação e iluminação. Pode ser constituído por logradouro público ou pátio amplo.  
+4.200 Espaços comuns (“communicating space”): Espaços dentro de uma edificação com 
+comunicação com espaços amplos adjacentes, nos quais a fumaça proveniente de um incêndio 
+pode propagar-se livremente. Os espaços comuns podem permitir aberturas diretamente dentro 
+dos espaços amplos ou podem conectar-se por meio de passagens abertas.  
+4.201 Espaços comuns e amplos (“large volume spaces”): Espaço descompartimentado, 
+geralmente com dois ou mais pavimentos que se comunicam internamente, dentro do qual a 
+fumaça proveniente de um incêndio, tanto no espaço amplo como no espaço comum, pode mover-
+se ou acumular-se sem restrições. Os átrios e shoppings cobertos são exemplos de espaços 
+amplos.  
+4.202 Espaços separados (“separated spaces”): Espaços dentro de edificações que são 
+isolados das áreas grandes por barreiras de fumaça, os quais não podem ser utilizados no 
+suprimento de ar, visando restringir o movimento da fumaça.  
+4.203 Espuma mecânica: Agente extintor constituído por um aglomerado de bolhas produzidas 
+por agitação da água com Líquido Gerador de Espuma (LGE) e ar.  
+4.204 Estabelecimento: local que ocupa, no todo ou em parte, um imóvel individualmente 
+identificado, edificado ou não, onde é exercida atividade econômica por empresário ou pessoa 
+jurídica, de caráter permanente, periódico ou eventual. 
+4.205 Estação de carregamento: Instalação especialmente construída para carregamento de 
+caminhões-tanques ou de vagões-tanques.  
+4.206 Estação fixa de emulsificação: Local onde se situam bombas, dosadores, válvulas e 
+reservatórios de extrato formador de espuma. 
+4.207 Estação móvel de emulsificação: Veículo especificado para transporte de extrato 
+formador de espuma (EFE) e o seu emulsionamento com a água.  
+4.208 Estado de flutuação: Condição em que a bateria de acumuladores elétricos recebe uma 
+corrente necessária para a manutenção de sua capacidade nominal.  
+4.209 Estado de funcionamento do sistema: Condição na qual a (s) fonte (s) de energia alimenta 
+(m), efetivamente, os dispositivos da iluminação de emergência.  
+4.210 Estado de repouso do sistema: Condição na qual o sistema foi inibido de iluminar 
+propositadamente. Tanto inibido manualmente com religamento automático ou por meio de célula 
+fotoelétrica, para conservar energia e manter a bateria em estado de carga para uso em 
+emergência, quando do escurecimento da noite.
+
+--- PÁGINA 18 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.211 Estado de vigília do sistema: Condição em que a fonte de energia alternativa (sistema de 
+iluminação de emergência) está pronta para entrar em funcionamento na falta ou na falha da rede 
+elétrica da concessionária.  
+4.212 Estanqueidade: Propriedade de um elemento construtivo da vedação de impedir a 
+passagem de gases e/ou chamas.  
+4.213 Exaustão: Princípio pelo qual os gases e produtos de combustão são retirados do interior 
+do túnel.  
+4.214 Exercício simulado: Atividade prática realizada periodicamente para manter a brigada e os 
+ocupantes das edificações com condições de enfrentar uma situação real de emergência.  
+4.215 Exercício simulado parcial: Atividade prática abrangendo apenas uma parte da planta, 
+respeitando-se os turnos de trabalho.  
+4.216 Expedidor: Pessoa responsável pela contratação do embarque e transporte de logística 
+envolvendo produtos perigosos expressos em nota fiscal ou conhecimento de transporte 
+internacional. É responsável pela segurança veicular, compatibilidade entre os produtos e a 
+identificação de seus riscos.  
+4.217 Explosivos: Substâncias capazes de rapidamente se transformarem em gases, produzindo 
+calor intenso e pressões elevadas.  
+4.218 Extensão de arquivo: são sufixos que identificam o formato do arquivo e a função que 
+desempenham em um computador; 
+4.219 Extintor de incêndio: Aparelho de acionamento manual, constituído de recipiente e 
+acessórios contendo o agente extintor destinado a combater princípios de incêndio.  
+4.220 Extintor portátil: Extintor de incêndio que pode ser transportado manualmente, sendo que 
+sua massa total não pode ultrapassar 20 kg.  
+4.221 Extintor sobre rodas: Extintor de incêndio, montado sobre rodas, cuja massa total não 
+pode ultrapassar 250 kg, operado e transportado por um único operador. 
+4.222 Fachada: Face de uma edificação constituída de vedos e aberturas, que emitirá ou receberá 
+a propagação de um incêndio.  
+4.223 Fachada de acesso operacional: Face da edificação localizada ao longo de uma via 
+pública ou privada com largura livre maior ou igual a 6 m, sem obstrução, possibilitando o acesso 
+operacional dos equipamentos de combate e seu posicionamento em relação a ela. A fachada 
+deve possuir pelo menos um meio de acesso ao interior do edifício e não ter obstáculos.  
+4.224 Faixa de estacionamento: Trecho das vias de acesso que se destina ao estacionamento 
+e operação das viaturas do Corpo de Bombeiros Militar de Minas Gerais (CBMMG).  
+4.225 Fator de massividade (“fator de forma”) (m-1): Razão entre o perímetro exposto ao 
+incêndio e a área da seção transversal de um perfil estrutural, de acordo com a descrição da NBR 
+14432.  
+4.226 Filtro de partículas: Elemento destinado a realizar retenção de partículas existentes no 
+escoamento de ar e que estão sendo arrastadas por este fluxo.
+
+--- PÁGINA 19 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.227 Fluxo (F): Número de pessoas que passam por unidade de tempo (pessoas/min) em um 
+determinado meio de abandono, adotando-se para o cálculo do escoamento, fluxo igual a 88 
+pessoas por minuto (F=88), contemplando duas unidades de passagem.  
+4.228 Fluxo luminoso nominal: Fluxo luminoso medido após 2 min de funcionamento do sistema.  
+4.229 Fluxo luminoso residual: Fluxo luminoso medido após o tempo de autonomia garantida 
+pelo fabricante no funcionamento do sistema.  
+4.230 Fogos de artifício e estampido: Artefato pirotécnico, que produz ruídos e efeitos 
+luminosos.  
+4.231 Fonte de energia alternativa: Dispositivo destinado a fornecer energia elétrica ao(s) 
+ponto(s) de luz de emergência na falta ou falha de alimentação na rede elétrica da concessionária.  
+4.232 Formulário de segurança contra incêndios: Documento que contém os dados básicos da 
+edificação, signatários, sistemas previstos e trâmite no Corpo de Bombeiros Militar de Minas 
+Gerais (CBMMG).  
+4.233 Formulário para atendimento técnico (FAT): Instrumento administrativo utilizado pelo 
+interessado para sanar dúvidas, solicitar alterações em Processo e Auto de Vistoria do Corpo de 
+Bombeiros, solicitar juntada de documentos, solicitar reconsideração de ato em vistoria, entre 
+outros.  
+4.234 Fumaça (“smoke”): Partículas de ar transportadas na forma sólida, líquida e gasosa, 
+decorrente de um material submetido a pirólise ou combustão, que juntamente com a quantidade 
+de ar que é conduzida, ou de qualquer outra forma, misturada formando uma massa.  
+4.235 Gás liquefeito de petróleo (GLP): Produto constituído de hidrocarbonetos com três ou 
+quatro átomos de carbono (propano, propeno, butano, buteno), podendo apresentar-se em mistura 
+entre si e com pequenas frações de outros hidrocarbonetos.  
+4.236 Gás natural liquefeito (GNL): Fluido no estado líquido em condições criogênicas, composto 
+predominantemente de metano e que pode conter quantidades mínimas de etano, propano, 
+nitrogênio ou outros componentes normalmente encontrados no gás natural.  
+4.237 Gases limpos: Agentes extintores na forma de gás que não degradam a natureza e não 
+afetam a camada de ozônio. São inodoros, incolores, maus condutores de eletricidade e não 
+corrosivos.  
+4.238 Gerador de espuma: Equipamento que se destina a facilitar a mistura da solução com o ar 
+para a formação de espuma.  
+4.239 Grelha de insuflamento: Dispositivo utilizado nas redes de distribuição de ar, posicionado 
+no final de cada trecho. Este elemento terminal é utilizado para direcionar e/ou distribuir de modo 
+adequado o fluxo de ar em determinado ambiente.  
+4.240 Grupo motoventilador: Equipamento composto por motor elétrico e ventilador, com a 
+finalidade de insuflar ar dentro de um corpo de escada de segurança para pressuriza-lá e expulsar 
+a possível entrada de fumaça.  
+4.241 Grupo motogerador: Equipamento cuja força provém da explosão do combustível 
+misturado ao ar, com a finalidade de gerar energia elétrica.
+
+--- PÁGINA 20 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.242 Guarda ou guarda-corpo: Barreira protetora vertical, maciça ou não delimitando as faces 
+laterais abertas de escadas, rampas, patamares, terraços, balcões, galerias e assemelhados, 
+servindo como proteção contra eventuais quedas de um nível para outro.  
+4.243 Habite-se: Documento em que a Prefeitura Municipal local aceita as obras e serviços 
+realizados e autoriza a sua ocupação.  
+4.244 Heliponto: Área homologada ou registrada, ao nível do solo ou elevada, utilizada para 
+pousos e decolagens de helicópteros.  
+4.245 Heliponto civil: Local destinado, em princípio, ao uso de helicópteros civis.  
+4.246 Heliponto elevado: Local instalado sobre edificações.  
+4.247 Heliponto militar: Local destinado ao uso de helicópteros militares.  
+4.248 Heliponto privado: Local destinado ao uso de helicópteros civis, de seu proprietário ou de 
+pessoas por ele autorizadas, sendo vedada sua utilização em caráter comercial.  
+4.249 Heliponto público: Local destinado ao uso de helicópteros em geral.  
+4.250 Heliportos: Helipontos públicos dotados de instalações e facilidades para apoio de 
+helicópteros e de embarque e desembarque de pessoas, tais como: pátio de estacionamento, 
+estação de passageiros, locais de abastecimento, equipamentos de manutenção etc.  
+4.251 Heliportos elevados: Heliportos localizados sobre edificações.  
+4.252 Help Desk: é o serviço de atendimento aos usuários do Infoscip; 
+4.253 Hidrante: Ponto de tomada de água onde há uma (simples) ou duas (duplo) saídas 
+contendo válvulas angulares com seus respectivos adaptadores, tampões, mangueiras de 
+incêndio e demais acessórios.  
+4.254 Hidrante de coluna: Aparelho ligado à rede pública de distribuição de água, que permite a 
+adaptação de bombas e/ou mangueiras para o serviço de extinção de incêndios.  
+4.255 Hidrante de parede: Ponto de tomada de água instalado na rede particular, embutido em 
+parede, podendo estar no interior de um abrigo de mangueira.  
+4.256 Hidrante para sistema de espuma: Equipamento destinado a alimentar com água ou 
+solução de espuma as mangueiras para combate a incêndio.  
+4.257 Hidrante urbano: Ponto de tomada de água provido de dispositivo de manobra (registro) e 
+união de engate rápido, ligado à rede pública de abastecimento de água, podendo ser emergente 
+(de coluna) ou subterrâneo (de piso).  
+4.258 Iluminação auxiliar: Iluminação destinada a permitir a continuação do trabalho, em caso 
+de falha do sistema normal de iluminação. Por exemplo: centros médicos, aeroportos, metrô, etc.  
+4.259 Iluminação de ambiente ou aclaramento: Iluminação com intensidade suficiente para 
+garantir a saída segura de todas as pessoas do local em caso de emergência.  
+4.260 Iluminação de balizamento: Sistema composto por símbolos iluminados que indicam a 
+rota de fuga em caso de emergência.
+
+--- PÁGINA 21 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.261 Iluminação de balizamento ou de sinalização: Iluminação de sinalização com símbolos 
+e/ou letras que indicam a rota de saída que pode ser utilizada em caso de emergência.  
+4.262 Iluminação de emergência: Sistema que permite clarear áreas escuras de passagens, 
+horizontais e verticais, incluindo áreas de trabalho e áreas técnicas de controle de 
+restabelecimento de serviços essenciais e normais, na falta de iluminação normal.  
+4.263 Iluminação de emergência e de aclaramento: Sistema composto por dispositivos de 
+iluminação de ambientes para permitir a saída fácil e segura das pessoas para o exterior da 
+edificação, bem como proporcionar a execução de intervenção ou garantir a continuação do 
+trabalho em certas áreas, em caso de interrupção da alimentação normal.  
+4.264 Iluminação não permanente: Sistema no qual, as lâmpadas de iluminação de emergência 
+não são alimentadas pela rede elétrica da concessionária e, só em caso de falta da fonte normal, 
+são alimentadas automaticamente pela fonte de alimentação de energia alternativa. 
+4.265 Iluminação permanente: Sistema no qual, as lâmpadas de iluminação de emergência são 
+alimentadas pela rede elétrica da concessionária, sendo comutadas automaticamente para a fonte 
+de alimentação de energia alternativa em caso de falta e/ou falha da fonte normal. 
+4.266 Incêndio: é o fogo sem controle. 
+4.267 Incêndio natural: Variação de temperatura que simula o incêndio real, em função da 
+geometria, ventilação, características térmicas dos elementos de vedação e da carga de incêndio 
+específica.  
+4.268 Incêndio-padrão: Elevação padronizada de temperatura em função do tempo, dada pela 
+seguinte expressão: θg=θo + 345 logs (8t+1). Onde: t é o tempo, expresso em minutos; θO é a 
+temperatura do ambiente antes do início do aquecimento em graus Celsius, geralmente tomada 
+igual a 20º C; e. θg é a temperatura dos gases, em graus Celsius no instante t.  
+4.269 Inibidor de vórtice: Acessório de tubulação de sucção da bomba destinado a eliminar o 
+efeito do vórtice (redemoinho) dentro de um reservatório.  
+4.270 Instalação: Toda montagem mecânica, hidráulica, elétrica, eletroeletrônica, ou outra, para 
+fins de atividades de produção industrial, geração ou controle de energia, contenção ou 
+distribuição de fluídos líquidos ou gasosos, ocupação de toda espécie, cuja montagem tenha 
+caráter permanente ou temporária, que necessite de proteção contra incêndio previsto na 
+legislação.  
+4.271 Instalação de gás liquefeito de petróleo (GLP): Sistema constituído de tubulações, 
+acessórios e equipamentos que conduzem e utilizam o GLP para consumo, por meio da queima 
+e/ou outro meio previsto e autorizado na legislação competente.  
+4.272 Instalações fixas de aplicação local: Dispositivos com suprimento de gás 
+permanentemente conectados a uma tubulação que alimenta esguichos difusores distribuídos de 
+maneira a descarregar o gás carbônico diretamente sobre o material que queima. Podem ser de 
+comando automático ou manual.  
+4.273 Instalações fixas de mangotinhos: Dispositivo com suprimento fixo de gases 
+compreendendo um ou mais cilindros que alimentam um mangotinho acondicionado em um 
+carretel de alimentação axial, equipado na sua extremidade livre um esguicho difusor com válvula 
+de comando manual de jato. Este equipamento é de comando manual.
+
+--- PÁGINA 22 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.274 Instalações industriais: Conjunto de equipamentos que não se enquadram como 
+depósitos, postos de serviço ou refinarias, mas, onde líquidos inflamáveis são armazenados e 
+processados.  
+4.275 Instalação interna: Conjunto de tubulações, medidores, reguladores, registros e aparelhos 
+de utilização de gás, com os necessários complementos, destinado à condução e ao uso do gás 
+no interior da edificação.  
+4.276 Instalações sob comando: O agente extintor fica armazenado em depósitos fixos e é 
+conduzido através de tubulações rígidas até pontos táticos, onde existem válvulas terminais 
+(difusores). Destes pontos, por meio da intervenção do homem, as tubulações são 
+complementadas com mangotinhos até o local do foco de incêndio onde o agente é aplicado. 
+ 4.277 Instalações temporárias: Locais que não possuem características construtivas em caráter 
+definitivo podendo ser desmontadas e transferidas para outros locais.  
+4.278 Instalador: Pessoa física ou jurídica responsável pela execução da instalação do sistema 
+de proteção contra incêndio em uma edificação.  
+4.279 Instrução técnica: Documento elaborado pelo Corpo de Bombeiros Militar de Minas Gerais 
+com objetivo de normalizar medidas e procedimentos de segurança, prevenção e proteção contra 
+incêndio e pânico nas edificações e áreas de risco.  
+4.280 Interface da camada de fumaça (“smoke layer interface”): Limite teórico entre uma 
+camada de fumaça e a fumaça provinda do ar externo (livre). Na prática, a interface da camada 
+de fumaça é um limite efetivo dentro da zona de diminuição de impacto, que pode ter vários metros 
+de espessura. Abaixo desse limite efetivo, a densidade da fumaça na zona de transição cai a zero.  
+4.281 Intervenções: Todas as medidas técnicas implementadas em uma edificação. Em 
+especifico no âmbito desta normativa, além das premissas de segurança contra incêndio, devem 
+atender ao disposto na legislação patrimonial tendo o objetivo primordial de garantir ao acervo 
+cultural sua conservação e/ou integridade. Portanto, se busca que não acarretem quaisquer 
+alterações em seu aspecto físico, em suas condições de visibilidade ou ambiência, ou minimizem 
+ao máximo. 
+4.282 Inundação total: Descarga de gases limpos, por meio de difusores fixos no interior do 
+recinto que contém o equipamento protegido, de modo a permitir uma atmosfera inerte com uma 
+concentração determinada de gás a ser atingida em tempo determinado.  
+4.283 Isolamento de risco: Característica construtiva, concebida pelo arquiteto/engenheiro, na 
+qual se tem a separação física de uma edificação em relação às demais circunvizinhas, cuja 
+característica básica é a impossibilidade técnica de uma edificação ser atingida pelo calor 
+irradiado, conduzido ou propagado pela convecção de massas gasosas aquecidas, emanadas de 
+outra atingida por incêndio.  
+4.284 Itinerário: Trajeto a ser percorrido pelas guarnições do Corpo de Bombeiros na ida ou no 
+regresso do atendimento de uma emergência, previamente estabelecido por meio de croqui. 
+4.285 Jato compacto: Tipo de jato de água caracterizado por linhas de corrente de escoamento 
+paralelas, observado na extremidade do esguicho.  
+4.286 Jato de espuma de monitor (canhão): Jato de grande capacidade de esguicho, que está 
+apoiado em posição e que pode ser dirigido por um homem. O fluxo de solução de 1200L/min ou 
+mais pode ser usado.
+
+--- PÁGINA 23 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.287 Jato de fumaça sob o teto (“ceiling jet”): Fluxo de fumaça sob o teto, estendendo-se 
+radialmente do ponto de choque da coluna de fogo contra o teto. Normalmente, a temperatura do 
+jato de fumaça sob o teto será maior que a camada de fogo adjacente.  
+4.288 Jato de linha de mangueira: Jato de espuma de um esguicho que pode ser segurado e 
+dirigido manualmente. A reação do esguicho usualmente limita o fluxo da solução a 
+aproximadamente 1000L/min no máximo.  
+4.289 Jirau: Entende-se por jirau o piso compreendido entre dois pavimentos contíguos, os quais 
+tenham entre si altura suficiente para a interposição de um terceiro nível, o qual não configure um 
+pavimento, possuindo altura do pé direito diferenciado do pé direito do pavimento tipo e com área 
+de projeção em planta que não ultrapasse a metade da área do piso imediatamente abaixo. A 
+principal característica do jirau em relação à sobreloja ou ao mezanino reside na característica de 
+poder ser contido lateralmente apenas por duas paredes e com a possibilidade de ter ou não 
+guarda corpo nas outras laterais. Sua função principal é de acondicionamento de materiais, 
+servindo como área de depósito. Não constitui jirau, níveis cujo aproveitamento seja constituído 
+por escritórios, ou fechamentos de área para fins de qualquer espécie. O acesso a este nível pode 
+utilizar a escada principal da edificação ou possuir escada exclusiva. É comum o seu emprego em 
+edificações industriais e comércio atacadista. 
+4.290 Lanço de escada: Sucessão ininterrupta de degraus entre dois patamares sucessivos. 
+Nota: Um lanço de escada nunca pode ter menos de três degraus, nem subir altura superior a 
+3,70m.  
+4.291 Largura do degrau (b): Distância entre o bocel do degrau e a projeção do bocel do degrau 
+imediatamente superior, medida horizontalmente sobre a linha de percurso da escada. 
+4.292 Laudo: Peça na qual o profissional habilitado relata o que observou e dá as suas 
+conclusões.  
+4.293 Leiaute: Distribuição física de elementos num determinado espaço.  
+ 
+4.294 Licenciamento definitivo: ato no qual o Corpo de Bombeiros Militar emite o Auto de Vistoria 
+do Corpo de Bombeiros (AVCB) atestando através de vistoria que a edificação ou espaço 
+destinado a uso coletivo (respeitados os casos de dispensa de AVCB) se encontra em 
+conformidade com a legislação de Segurança Contra Incêndio e Pânico no Estado; 
+4.295 Licenciamento prévio de empreendimentos: Procedimento que resulta na emissão do 
+Certificado de Funcionamento Provisório que o Corpo de Bombeiros Militar aos empreendimentos 
+com atividades econômicas de baixo risco mediante o fornecimento de informações e declarações 
+pelo empreendedor, firmadas visando permitir o reconhecimento formal do cumprimento dos 
+requisitos de prevenção contra incêndios e pânico, em que é dispensada a vistoria prévia da 
+edificação ou espaço destinado a uso coletivo para início do exercício empresarial, sem que haja 
+prejuízo das vistorias de fiscalização e aplicação de sanções administrativas em caso de 
+irregularidades. 
+4.296 Licenciamento de empresários e pessoas jurídicas: etapa do processo de registro e 
+legalização, presencial ou eletrônica, que conduz o interessado à autorização para o exercício de 
+determinada atividade econômica em estabelecimento indicado. 
+4.297 Limite de área de armazenamento: Linha fixada pela fileira externa de recipientes 
+transportáveis de gás liquefeito de petróleo (GLP), em um lote de recipientes, acrescida da largura 
+do corredor de inspeção, quando este for exigido.
+
+--- PÁGINA 24 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.298 Limite do lote de recipientes: Linha fixada pela fileira externa de recipientes transportáveis 
+de gás liquefeito de petróleo (GLP), em um lote de recipientes.  
+4.299 Linha de espuma: Tubulação ou linha de mangueiras destinada a conduzir a espuma. 
+4.300 Linha de percurso de uma escada: Linha imaginária sobre a qual sobe ou desce uma 
+pessoa que segura o corrimão, estando afastada 0,55m da borda livre da escada ou da parede. 
+Nota: Sobre esta linha, todos os degraus possuem piso de largura igual, inclusive os degraus 
+ingrauxidos nos locais em que a escada faz deflexão. Nas escadas de menos de 1,10 m de largura, 
+a linha de percurso coincide com o eixo da escada, ficando, pois, mais perto da borda. 
+4.301 Linha de solução: Tubulação ou linha de mangueiras destinada a conduzir a solução de 
+espuma mecânica.  
+4.302 Líquido combustível: Líquido que possui ponto de fulgor igual ou superior a 37,8ºC, 
+subdividido como segue:  
+a) classe II: líquidos que possuem ponto de fulgor igual ou superior a 37,8ºC e inferior a 60ºC – 
+todos os tipos de óleo diesel, aguarrás e querosene (iluminante e de aviação).  
+b) classe IIIA: líquidos que possuem ponto de fulgor igual ou superior a 60º C e inferior a 93,4º C 
+- todos os tipos de óleo combustível.  
+c) classe IIIB: Líquidos que possuem ponto de fulgor igual ou superior a 93,4ºC - todos os tipos de 
+lubrificantes.  
+4.303 Líquido inflamável: Líquido que possui ponto de fulgor inferior a 37,8ºC, também conhecido 
+como líquido Classe I, subdividindo-se em:  
+a) classe IA: líquido com ponto de fulgor abaixo de 22,8ºC e ponto de ebulição abaixo de 37,8ºC 
+– todos os tipos de gasolina (incluindo gasolina de aviação).  
+b) classe IB: líquido com ponto de fulgor abaixo de 22,8ºC e ponto de ebulição igual ou acima de 
+37,8ºC – todos os tipos de álcool.  
+c) classe IC: líquido com ponto de fulgor igual ou acima de 22,8ºC e ponto de ebulição abaixo de 
+37,8ºC. – solventes (conforme ficha de segurança do produto).  
+4.304 Líquidos instáveis ou reativos: Líquidos que, no estado puro ou nas especificações 
+comerciais, por efeito de variação de temperatura e pressão, ou de choque mecânico, na 
+estocagem ou no transporte, se tornem auto reativos e, em consequência, se decomponham, 
+polimerizem ou venham a explodir.  
+4.305 Listagem confiável: Relação de dados e características de projeto de equipamentos ou 
+dispositivos, publicada pelo fabricante e reconhecida por órgãos regulamentadores ou normativos, 
+aceita pelo proprietário da instalação ou seu preposto legal designado.  
+4.306 Local de abastecimento: Área determinada pelo conjunto de veículo abastecedor, 
+mangueira flexível de abastecimento e central de gás liquefeito de petróleo (GLP).  
+4.307 Local de segurança: local fora da edificação ou fora do perímetro do evento, no qual as 
+pessoas estão sem perigo imediato dos efeitos do fogo e fumaça.  
+4.308 Local de risco: Área interna ou externa da edificação, onde haja a probabilidade de um 
+perigo se materializar causando um dano.
+
+--- PÁGINA 25 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.309 Local de saída única: Condição de um pavimento da edificação, onde a saída é possível 
+apenas em um sentido.  
+4.310 Lojas âncoras – são estabelecimentos onde a abrangência e cobertura do sistema de 
+hidrantes previsto e instalado na área comum da edificação se apresentam insuficientes, havendo 
+necessidade de instalação de sistema de hidrante em seu interior, a serem dimensionados 
+através do PSCIP Geral. Será considerado também como loja âncora, o estabelecimento que não 
+possua sistema de hidrante em seu interior, em razão de estar protegido por mais de um ponto de 
+tomada de água localizado na área comum. A apresentação de PSCIP específico para loja âncora 
+será obrigatória, exceto se todas as medidas estiverem projetadas no PSCIP Geral; 
+4.311 Lojas satélites – são estabelecimentos onde não há necessidade de instalação de sistema 
+de hidrantes em sua área privativa, devido ao fato de estarem protegidas pela medida instalada 
+na área comum da edificação. Não deverá ser apresentado PSCIP específico para sua área 
+privativa; 
+4.312 Loteamento: Parcelamento do solo com abertura de novos sistemas de circulação ou 
+prolongamento, modificação ou ampliação dos existentes.  
+4.313 Lotes de recipientes: Conjunto de recipientes transportáveis de gás liquefeito de petróleo 
+(GLP) sem que haja corredor de inspeção entre estes.  
+4.314 Maior risco: Aquele que possa existir oriundo de instalações projetadas ou existentes que 
+requeira a maior demanda de água para o combate a incêndio.  
+4.315 Mangotinho: Ponto de tomada de água onde há uma simples saída contendo válvula de 
+abertura rápida, adaptador (se necessário), mangueira semirrígida, esguicho regulável e demais 
+acessórios.  
+4.316 Mangueira de incêndio: Tubo flexível, fabricado com fios naturais ou artificiais, usado para 
+canalizar água, solução ou espuma.  
+4.317 Mangueira flexível: Tubo flexível de material sintético com características comprovadas 
+para uso do gás liquefeito de petróleo (GLP), podendo ou não possuir proteção metálica ou têxtil.  
+4.318 Manômetro: Instrumento que realiza a medição de pressões efetivas ou relativas.  
+4.319 Manômetro de líquido ajustável: Tipo de manômetro que permite a realização da 
+avaliação da diferença de pressão entre dois ambientes por meio da comparação entre alturas de 
+colunas de líquido dito manométrico. Permite o ajuste do valor inicial, antes do início da medição 
+(ajuste do “zero”).  
+4.320 Manutenção: Conjunto de operações destinadas a manter, principalmente, a edificação em 
+bom funcionamento e uso. 
+4.321 Mapeamento de risco: Estudo desenvolvido pelo responsável por uma edificação em 
+conjunto com o Corpo de Bombeiros, visando relacionar os meios humanos e materiais disponíveis 
+por uma empresa, seguido da qualificação e otimização da capacidade de reação. 
+4.322 Materiais combustíveis: Produtos ou substâncias (não resistentes ao fogo) que sofrem 
+ignição ou combustão quando sujeitos a calor.  
+4.323 Materiais de acabamento: Produtos ou substâncias que, não fazendo parte da estrutura 
+principal, são agregados à mesma com fins de conforto, estética ou segurança.
+
+--- PÁGINA 26 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.324 Materiais fogo-retardantes: Produtos ou substâncias que, em seu processo químico, 
+recebem tratamento para melhor se comportarem frente à ação do calor, ou ainda aqueles 
+protegidos por produtos que dificultem a queima.  
+4.325 Materiais incombustíveis: Produtos ou substâncias que, submetidos à ignição ou 
+combustão, não apresentam rachaduras, derretimento, deformações excessivas e não 
+desenvolvem elevada quantia de fumaça e gases.  
+4.326 Materiais sem combustíveis: Produtos ou substâncias que, submetidos à ignição ou 
+combustão, apresentam baixa taxa de queima e pouco desenvolvimento de fumaça.  
+4.327 Máximo enchimento: Volume máximo de gás liquefeito de petróleo (GLP) em estado 
+líquido que um recipiente pode armazenar com segurança.  
+4.328 Medidas de proteção contra incêndio e pânico: Conjunto de ações e dispositivo a serem 
+instalados nas edificações e áreas de risco necessários a evitar o surgimento de incêndio e pânico, 
+limitar sua propagação, possibilitar sua extinção e ainda propiciar a proteção à incolumidade das 
+pessoas, ao meio ambiente e ao patrimônio.  
+4.329 Medida sinalizadora de incêndio: medidas que visam detectar o início de um incêndio, 
+possibilitando comunicar a usuários, autoridades públicas e demais pessoas vizinhas da 
+edificação. 
+4.330 Medida extintiva: medidas que visam extinguir um incêndio, seja pela ação humana ou 
+automaticamente, minimizando prejuízos decorrentes do calor excessivo e da fumaça. 
+4.331 Megajoule (MJ): Medida de capacidade calorífica dos corpos e materiais, estabelecida pelo 
+Sistema Internacional de Unidades – SI. 4.270  
+4.332 Meio defensável (“tenable environment”): Meio no qual a fumaça e o calor estão limitados 
+e restritos, visando preservar os ocupantes num nível que não exista ameaça de vida.  
+4.333 Meio de Alerta: Dispositivos ou equipamentos destinados a avisar os ocupantes de uma 
+edificação por ocasião de uma emergência qualquer.  
+4.334 Meio de Fuga: Medidas que estabelecem rotas de fuga seguras aos ocupantes de uma 
+edificação.  
+4.335 Meio digital: ambiente de tráfego ou armazenamento de informações digitais. 
+4.336 Memorial: Conceitos, premissas e etapas utilizados para definir, localizar, caracterizar e 
+detalhar o projeto do sistema de hidrantes e mangotinhos de uma edificação, desde a concepção 
+até a sua implantação e manutenção. É composto de parte descritiva, cálculos, ábacos e tabelas.  
+4.337 Mezanino: Pavimento que subdivide parcialmente um andar em dois andares, sendo 
+considerado andar o mezanino que possuir área superior à metade da área do andar subdividido.  
+4.338 Microempreendedor Individual - MEI: empresário individual, optante pelo Simples 
+Nacional, que atende, cumulativamente, ao disposto no art. 18-A, da Lei Complementar nº 123, de 
+2006. 
+4.339 Módulo habitável: Contêiner adaptado, que recebeu portas e janelas, além de instalação 
+elétrica e/ou hidráulica; empregado como escritório, sala de reuniões, sala de treinamento ou de 
+aula, depósito, almoxarifado ou guarita. O módulo habitável pode ser formado por um ou mais
+
+--- PÁGINA 27 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+contêineres conjugados, dispostos horizontalmente (afastados ou não entre si) ou verticalmente, 
+havendo comunicação entre os módulos, através de portas, com ou sem emprego de escadas.  
+4.340 Monitor (canhão): Equipamento destinado a formar e orientar jatos de água ou espuma de 
+grande volume e alcance.  
+4.341 Monitor fixo (canhão): Equipamento que lança jato de espuma e está montado num 
+suporte estacionário fixo ao nível do solo ou em elevação. O monitor pode ser alimentado com a 
+solução mediante tubulação permanente ou mangueiras.  
+4.342 Monitor portátil (canhão): Equipamento que lança jato de espuma e encontra-se num 
+suporte móvel ou sobre rodas, de modo que pode ser transportado para cena do incêndio. 
+4.343 Mudança de ocupação: consiste na alteração de uso da edificação que motive a mudança 
+de classificação da ocupação, prevista na tabela do Anexo deste Decreto 46595/2014.  
+4.344 Neblina de água: Jato de pequenas partículas d’água, produzido por esguichos especiais. 
+4.345 Nível: Parte da edificação não contida em um mesmo plano.  
+4.346 Nível de acesso: Ponto do terreno em que atravessa a projeção do paramento externo da 
+parede do prédio, ao se entrar na edificação. Nota: É aplicado para a determinação da altura da 
+edificação.  
+4.347 Nível de descarga: Nível no qual uma porta externa conduz ao exterior. 
+4.348 Nível de segurança: Enquadramento dado ao nível potencial de risco que a edificação 
+oferece em sua utilização prevista, conforme concebida pelo arquiteto ou engenheiro.  
+4.349 Ocupação: é a classificação do uso da edificação; 
+4.350 Ocupação mista: Edificação que abriga mais de um tipo de ocupação.  
+4.351 Ocupação principal: é a atividade ou uso principal exercido na edificação; 
+4.352 Ocupação temporária: Atividade desenvolvida de caráter temporário, tais como: circos, 
+feiras, espetáculos e parques de diversões.  
+4.353 Ocupações temporárias em instalações permanentes: Instalações de caráter temporário 
+e transitório, não definitivo em local com características de estrutura construtiva permanente, 
+podendo ser anexadas ocupações temporárias. 
+4.354 Operação automática: Atividade que não depende de qualquer intervenção humana para 
+determinar o funcionamento da instalação de gás.  
+4.355 Operação de abastecimento: Atividade de transferência de gás liquefeito de petróleo 
+(GLP) entre o veículo abastecedor e a central de GLP.  
+4.356 Operação manual: Atividade que depende da ação do elemento humano.  
+4.357 Operador: Profissional habilitado a executar a operação de transferência de gás liquefeito 
+de petróleo (GLP) entre o veículo abastecedor e a central de GLP podendo acumular a função de 
+motorista, desde que reúna as habilitações necessárias.
+
+--- PÁGINA 28 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.358 Órgão competente: Órgão público, federal, estadual, municipal, ou ainda autarquias ou 
+entidades por estes designadas capacitadas legalmente para determinar aspectos relevantes dos 
+sistemas de proteção contra incêndio.  
+4.359 Órgão de Preservação: Órgão que atua na gestão, proteção e preservação do patrimônio 
+histórico, artístico e cultural, podendo ser nas esferas, municipal, estadual, federal ou internacional. 
+4.360 Pânico: Susto ou pavor repentino, que provoca nas pessoas, reação desordenada, 
+individual ou coletiva, de propagação rápida; susto ou pavor que repentino, provoca nas pessoas, 
+reação desordenada, individual ou coletiva, de propagação rápida.  
+4.361 Pantográfica: Porta constituída por paralelogramos articulados.  
+4.362 Parâmetros: características referentes ao tipo, configuração, distribuição, grandeza e 
+instalação das medidas ou sistemas preventivos. 
+4.363 Parede corta-fogo: Elemento construtivo que, sob a ação do fogo, conserva suas 
+características de resistência mecânica, é estanque à propagação da chama e proporciona um 
+isolamento térmico tal que a temperatura medida sobre a superfície não exposta não ultrapasse 
+140ºC durante um tempo especificado.  
+4.364 Parede corta-fogo portante: Elemento construtivo, com características de resistência ao 
+fogo (estanqueidade, isolação térmica e estabilidade), visando a separar uma edificação em 
+relação à outra.  
+4.365 Parede resistente ao fogo (parede de compartimentação): Elemento estrutural 
+resistente ao fogo por um determinado período de tempo, mantendo sua integridade e as 
+características de vedação contra gases e fumaça.  
+4.366 Passagem subterrânea: Obra de arte destinada à transposição de vias, em desnível 
+subterrâneo, e ao uso de pedestres ou veículos.  
+4.367 Passarela: Obra de arte destinada à transposição de vias, em desnível aéreo, e ao uso de 
+pedestres.  
+4.368 Pavimento: Está compreendido entre o plano de piso e o plano do teto imediatamente acima 
+do piso de referência.  
+4.369 Pavimento de descarga: Parte da saída de emergência de uma edificação que fica entre 
+a escada e o logradouro público ou área externa com acesso a este.  
+4.370 Percentual de aberturas em uma fachada: Relação entre a área total (edificações não 
+compartimentadas) ou área parcial (edificações compartimentadas) da fachada de uma edificação, 
+dividido pela área de aberturas existentes na mesma fachada.  
+4.371 PDF: portable document format (formato de documento portátil). Extensão de arquivo que 
+permite a visualização de um documento. 
+4.372 Perícia técnica: Consiste no levantamento e apuração efetuado por profissional do 
+CBMMG, legalmente habilitado, para emissão de parecer técnico quanto aos sinistros e exigências 
+de proteção contra incêndio e pânico nas edificações, mediante exame circunstanciado e 
+descrição minuciosa dos elementos que o constituem, bem como das causas do desenvolvimento 
+e consequências dos incêndios, através do exame técnico das edificações, materiais e 
+equipamentos, no local ou em laboratório especializado, apontando as causas que o motivaram.
+
+--- PÁGINA 29 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.373 Perigo: Propriedade de causar dano inerente a uma substância, a uma instalação ou a um 
+procedimento.  
+4.374 Pesquisa de incêndio: Apuração das causas, desenvolvimento e consequências dos 
+incêndios atendidos pelo CBMMG, mediante exame técnico das edificações, materiais e 
+equipamentos, no local ou em laboratório especializado.  
+4.375 Pilotis: Local edificado de uso comum, aberto em pelo menos três lados. Considera-se, 
+também, como tal, o local coberto, aberto em pelo menos duas faces opostas, cujo perímetro 
+aberto tenha, no mínimo, 70% do perímetro total. Também se inclui nesta categoria, o nível de 
+transição das estruturas da edificação, onde os pilares se encontram com os elementos de 
+fundação ou onde os pilares mudam de forma e ficam aparentes, em atendimento ao projeto 
+arquitetônico.  
+4.376 Piso: Superfície superior do elemento construtivo horizontal sobre a qual haja previsão de 
+estocagem de materiais ou onde os usuários da edificação tenham acesso irrestrito.  
+4.377 Pista de rolagem: Pista de dimensões definidas, destinada à rolagem de helicópteros entre 
+área de pouso ou de decolagem e a área de estacionamento ou de serviços. 
+4.378 Planilha de levantamento de dados: Instrumento utilizado para a catalogação de todas as 
+informações e dados da empresa, indispensável à elaboração de um PPI.  
+4.379 Plano de Auxílio Mútuo (PAM): Plano que tem por objetivo conjugar os esforços dos 
+órgãos públicos (Corpo de Bombeiros, Defesa Civil, Polícia etc.) e brigadas de incêndio e de 
+abandono das empresas privadas, em caso de sinistro.  
+4.380 Plano de intervenção de incêndio: Plano estabelecido em função dos riscos da edificação 
+para definir a melhor utilização dos recursos materiais e humanos em uma situação de 
+emergência.  
+4.381 Plano global de segurança: Integração de todas as medidas de prevenção contra 
+incêndios e pânico que garantam a segurança efetiva das pessoas (aspecto humano) e do edifício, 
+envolvendo as medidas de proteção ativa e passiva.  
+4.382 Plano particular de intervenção (PPI): Procedimento peculiar de atendimento de 
+emergência em locais previamente definidos, elaborado por profissionais de grupo multidisciplinar 
+(Engenheiros ou Técnicos que atuem na área de segurança de incêndio e ambiental), em conjunto 
+com o Corpo de Bombeiros.  
+4.383 Planta de bombeiro: Representação gráfica da edificação, contendo informações através 
+de legenda específica da localização, arranjo e previsão dos meios de segurança contra incêndio 
+e riscos existentes.  
+4.384 Planta de risco: Mapa simplificado no formato A0, A1, A2, A3 ou A4, em escala 
+padronizada, podendo ser em mais de uma folha/ prancha, indicando:  
+a) principais riscos;  
+b) paredes corta-fogo e de compartimentação;  
+c) hidrantes externos;  
+d) número de pavimentos;
+
+--- PÁGINA 30 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+e) registro de recalque; f) reserva de incêndio;  
+g) armazenamento de produtos perigosos;  
+h) vias de acesso às viaturas do Corpo de Bombeiros;  
+i) hidrantes públicos próximos da edificação (se houver).  
+4.385 Planta: Desenho onde estão situadas uma ou mais empresas, com uma única ou mais 
+edificações.  
+4.386 Poço de instalação: Passagem essencialmente vertical deixada numa edificação com 
+finalidade específica de facilitar a instalação de serviços tais como: dutos de ar-condicionado, 
+ventilação, tubulações hidráulico-sanitárias, eletrodutos, cabos, tubos de lixo, elevadores, monta-
+cargas e outros.  
+4.387 Poço de sucção: Elemento construtivo do reservatório, destinado a maximizar a utilização 
+do volume de água acumulado, bem como para evitar a entrada de impurezas no interior das 
+tubulações.  
+4.388 Ponto de abastecimento: Ponto de interligação entre o engate de enchimento da 
+mangueira de abastecimento e a válvula do recipiente que deve ser abastecido.  
+4.389 Ponto de luz: Dispositivo constituído de lâmpada (s) ou outros dispositivos de iluminação, 
+invólucro (s) e/ou outros (s) componente (s) que têm a função de promover o aclaramento do 
+ambiente ou a sinalização.  
+4.390 População: Número de pessoas para as quais uma edificação, ou parte dela é projetada.  
+4.391 População fixa: Número de pessoas que permanece regularmente na edificação, 
+considerando-se os turnos de trabalho e a natureza da ocupação, bem como os terceiros nestas 
+condições.  
+4.392 População flutuante: Número de pessoas que não se enquadra no item de população fixa. 
+Será sempre pelo número máximo diário de pessoas.  
+4.393 Porta corta-fogo (PCF): Dispositivo construtivo (Conjunto de folha (s) de porta, marco e 
+acessórios), com tempo mínimo de resistência ao fogo, instalado nas aberturas da parede de 
+compartimentação, destinadas à circulação de pessoas e de equipamentos. É um dispositivo 
+móvel que, vedando aberturas em paredes, retarda a propagação do incêndio de um ambiente 
+para outro. Quando instaladas nas escadas de segurança, possibilitam que os ocupantes das 
+edificações atinjam os pisos de descarga com as suas integridades físicas garantidas. Deve 
+atender ás exigências de resistência mecânica, estanqueidade e isolamento térmico.  
+4.394 Portal da Prevenção: página da rede mundial de computadores onde estão disponíveis os 
+serviços prestados pelo Infoscip (www.prevencaobombeiros.mg.gov.br). 
+4.395 Posto de abastecimento: Local restrito onde são abastecidos os tanques de combustível 
+de motores de veículos, aeronaves, barcos, etc. 
+4.396 Posto de abastecimento e serviço: Atividade onde são abastecidos os tanques de 
+combustível de motores de veículos.
+
+--- PÁGINA 31 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.397 Posto de abastecimento interno: Instalação interna a uma indústria ou empresa cuja 
+finalidade única é o abastecimento de combustível e ou lubrificantes para sua frota própria ou de 
+seu uso.  
+4.398 Posto de comando: Local fixo ou móvel, com representantes de todos os órgãos envolvidos 
+no atendimento de uma emergência.  
+4.399 Prevenção contra incêndio e pânico: Conjunto de ações e medidas que visam a 
+orientação das pessoas, objetivando diminuir a possibilidade da ocorrência de um princípio de 
+incêndio e pânico, e estabelecer o comportamento a ser adotado frente à emergência.  
+4.400 Princípio de incêndio: Período inicial da queima de materiais, compostos químicos ou 
+equipamentos, enquanto o incêndio é incipiente. 
+4.401 Procedimento sumário: Constitui-se na ação de análise e vistoria do CBMMG em 
+edificações de uso coletivo, com área de até 750 m2 (setecentos e cinquenta metros quadrados) 
+regulados por meios de instrução técnica.  
+4.402 Processo de segurança contra incêndio e pânico (PSCIP): é composto pela 
+documentação que contém informações sobre edificações ou áreas de risco e o respectivo projeto 
+técnico contendo as medidas de segurança contra incêndio e pânico, que deve ser apresentada 
+no CBMMG para avaliação em análise técnica; 
+4.403 Processo de Segurança Contra Incêndio e Pânico digital (PSCIP digital): é o conjunto 
+de documentos digitalizados, dados e metadados necessários à regularização de uma edificação; 
+4.404 Produtos perigosos: Todas as substâncias cuja liberação ou ameaça de liberação cause 
+risco ao ser humano, ao meio ambiente e às propriedades. Ou ainda, conforme o Manual de 
+Defesa Civil Estudos de Riscos e Medicina de Desastres, aqueles produtos cujo manuseio e 
+tráfego apresentam risco à vida, ao meio ambiente e ao patrimônio individual ou público  
+4.405 Autônomo: pessoa física que exerce atividade econômica por conta própria. Para o Corpo 
+de Bombeiros se iguala a domicílio fiscal para fins de licenciamento. 
+4.406 Profissional habilitado: Toda pessoa com formação em higiene, segurança e medicina do 
+Trabalho, engenharias, etc., devidamente registrado nos Conselhos Regionais competentes, 
+conforme sua área de especialização.  
+4.407 Profissional legalmente habilitado: Pessoa física ou jurídica que goza do direito, segundo 
+as leis vigentes, de prestar serviços especializados de proteção contra incêndio.  
+4.408 Profundidade de piso em subsolo: Profundidade medida em relação ao nível de descarga 
+da edificação.  
+4.409 Projetista: Pessoa física ou jurídica responsável pela elaboração de todos os documentos 
+de um projeto, assim como do memorial. 
+4.410 Projeto: Conjunto de peças gráficas e escritas, necessárias à definição das características 
+principais do sistema de combate a incêndio, composto de plantas, seções, elevações, detalhes e 
+perspectivas isométricas e, inclusive das especificações de materiais e equipamentos.  
+4.411 Propagação por condução: Decorrente do contato direto de chamas pela fachada ou pela 
+cobertura (em colapso) de um incêndio em uma edificação, que se propaga para outra edificação 
+contígua.
+
+--- PÁGINA 32 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.412 Propagação por convecção: Decorrente de gases quentes emitidos pelas aberturas 
+existentes na fachada ou pela cobertura da edificação incendiada, que atingem a fachada da outra 
+edificação adjacente.  
+4.413 Propagação por radiação térmica: Aquela emitida por um incêndio em uma edificação, 
+que se propaga por radiação por meio de aberturas existentes na fachada, pela cobertura (em 
+colapso), ou pela própria fachada (composta de material combustível) para uma outra edificação 
+adjacente.  
+4.414 Proteção: Ações técnicas, administrativas ou legais que visem garantir a perenidade do 
+bem (edificação) reconhecido como possuidor de valor cultural. 
+4.415 PSCIP aprovado: Situação na qual o Projeto analisado pelo CBMMG que recebeu 
+aprovação do militar do SSCIP responsável pela análise. 
+4.416 PSCIP Geral/Principal – Processo de Segurança Contra Incêndio e Pânico que contempla 
+toda a edificação onde se encontram os estabelecimentos; 
+4.417 PSCIP liberado ou licenciamento definitivo: Situação na qual a edificação ou área de 
+risco foi vistoriada pelo CBMMG e recebeu AVCB ou documento similar. 
+4.418 Quadra de armazenamento: área totalmente destinada ao armazenamento de cargas, 
+desconsideradas as vias internas, os raios de giro e os corredores, podendo ter formato regular e 
+irregular. 
+4.419 Quadro de áreas: Tabela que contém as áreas individualizadas das edificações e seus 
+pavimentos.  
+4.420 QR code: quick response code (código de resposta rápida). Tipo de código gráfico 
+bidimensional que compõe um dos dispositivos de segurança do AVCB; 
+4.421 Rampa: Parte construtiva inclinada de uma rota de saída, que se destina a unir dois níveis 
+ou setores de um recinto de evento.  
+4.422: Intervenções destinadas à revitalização física e cultural do bem, que pode eventualmente 
+implicar em mudança de ocupação. 
+4.423 Recalque: Válvula angular diâmetro 2½”corpo em latão, pressão mínima de trabalho 13,8 
+Kgf/cm2 (200PSI), vedação em borracha (etileno-propileno), conexão de entrada de 2½”, rosca 
+interna 11FPP (BSTP), conexão de saída rosca externa 5FPP, haste ascendente com castelo 
+quadrado para uso específico do CBMMG, com chave especial. 
+4.424 Recipiente estacionário: Recipiente fixo, com capacidade superior a 0,25m³.  
+4.425 Recipiente transportável: Recipiente que pode ser transportado manualmente ou por 
+qualquer outro meio. É considerado transportável para efeito de proteção contra incêndio o 
+recipiente com volume máximo de 500L.  
+4.426 Reconstrução: Intervenção destinada a reproduzir as características arquitetônicas e 
+técnicas de edificações pré-existentes. Reedificação de prédio ou edifício, total ou parcialmente, 
+arruinado por motivo de sinistros (incêndio, desabamento, outros) ou demolição. 
+4.427 Rede de alimentação: Conjunto de condutores elétricos, dutos e demais equipamentos 
+empregados na transmissão de energia do sistema, inclusive a sua proteção.
+
+--- PÁGINA 33 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.428 Rede de detecção, sinalização e alarme: Conjunto de dispositivos de atuação automática 
+destinados a detectar calor, fumaça ou chama e a atuar equipamentos de proteção e dispositivos 
+de sinalização e alarme.  
+4.429 Rede de distribuição: Parte do sistema de abastecimento formado de tubulações e órgãos 
+acessórios, destinada a colocar água potável à disposição dos consumidores, de forma contínua, 
+em quantidade e pressão recomendada.  
+4.430 Rede elétrica da concessionária: Energia elétrica fornecida pela concessionária do 
+município, a qual opera independente da vontade do usuário.  
+4.431 Refinaria: Unidade industrial na qual são produzidos líquidos inflamáveis, em escala 
+comercial, a partir de petróleo, gasolina natural ou outras fontes de hidrocarbonetos.  
+4.432 Reforma: Alterações nas edificações e áreas de risco sem aumento de área construída. 
+4.433 Registro (“dumper”) de sobre pressão: Dispositivo que atua como regulador em ambiente 
+que deva ser mantido em determinado nível de pressão, evitando que a pressão assuma valores 
+maiores por onde ocorra escape do ar.  
+4.434 Registro de fluxo: Dispositivo com a função de direcionar o fluxo de ar, normalmente 
+utilizado na saída dos grupos motoventiladores, quando utilizada duplicidade de equipamentos.  
+4.435 Registro de fumaça (“smoke damper”): Dispositivo utilizado no sistema de controle de 
+fumaça, projetado para resistir à passagem de ar ou fumaça. Um registro de fumaça pode ser 
+combinado, atendendo a requisitos de resistência a fogo e fumaça.  
+4.436 Registro de paragem: Dispositivo hidráulico manual, destinado a interromper o fluxo de 
+água das instalações hidráulicas de combate a incêndio em edificações.  
+4.437 Registro de recalque: Dispositivo hidráulico destinado a permitir a introdução de água 
+proveniente de fontes externas, na instalação hidráulica de combate a incêndio das edificações.  
+4.438 Registros corta-fogo (“dampers”): Dispositivos construtivos com tempo mínimo de 
+resistência ao fogo, instalados nos dutos de ventilação e dutos de exaustão, que cruzam as 
+paredes de compartimentação ou entrepisos.  
+4.439 Reserva de incêndio: Volume de água destinado exclusivamente ao combate a incêndio.  
+4.440 Reservatório ao nível do solo: Reserva de incêndio cujo fundo se encontra instalado no 
+mesmo nível do terreno natural.  
+4.441 Reservatório de escorva: Reservatório de água com volume necessário para manter a 
+tubulação de sucção da bomba de incêndio sempre cheia d’água.  
+4.442 Reservatório elevado: Reserva de incêndio cujo fundo se encontra instalado acima do nível 
+do terreno natural com a tubulação formando uma coluna d’água.  
+4.443 Reservatório enterrado ou subterrâneo: Reserva de incêndio cuja parte superior 
+encontra-se instalada abaixo do nível do terreno natural.  
+4.444 Reservatório semienterrado: Reserva de incêndio cujo fundo se encontra instalado abaixo 
+do nível do terreno natural e com a parte superior acima do nível do terreno natural.
+
+--- PÁGINA 34 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.445 Resistência ao fogo: Propriedade de um elemento construtivo, de resistir à ação do fogo 
+por um determinado período de tempo, mantendo sua integridade, estanqueidade e isolação e/ou 
+características de vedação aos gases e chamas.  
+4.446 Responsável técnico: Profissional habilitado para elaboração e/ou execução de atividades 
+relacionadas à segurança contra incêndio e pânico.  
+4.447 Restauração: Ações técnicas que tenham por objetivo restabelecer a unidade do bem 
+cultural. Buscam garantir sua integridade, preservando as características essenciais ao seu pleno 
+entendimento. Para tanto, deve respeitar sua concepção original, os valores de tombamento e seu 
+processo histórico de intervenções 
+4.448 Reversibilidade: Ações técnicas implementadas com o objetivo de garantir as condições 
+para o pleno restabelecimento, após sua retirada ou desfazimento, de suas condições estruturais, 
+plásticas, ambientais e de ambiência do bem cultural originais que foram objeto de intervenção. 
+4.449 Risco Máximo Admissível de Incêndio: Corresponde à exigência de implantação na 
+edificação de medidas de segurança ativas e passivas em certo número, admitida como 
+suficientemente seguras e economicamente viáveis, as quais se sobrepõem aos parâmetros que 
+favorecem a ocorrência de um incêndio de severidade máxima provável admissível. 
+4.450 Risco: Acontecimento possível, futuro e incerto seja quanto a sua realização, seja quanto à 
+época em que poderá ocorrer, independente da vontade humana ou não e de cuja ocorrência 
+decorrem prejuízos de qualquer natureza.  
+4.451 Risco iminente: É a constatação de situação atual e iminente de exposição ao perigo e a 
+probabilidade de ocorrência de um sinistro que deve ser fundamentada pelo bombeiro militar 
+durante a realização de vistoria levando se em consideração a exposição ao perigo potencial e as 
+medidas de proteção adotadas no local.  
+4.452 Risco isolado: Risco separado dos demais por paredes ou espaços desocupados, 
+suficientes para evitar a propagação de incêndio de uma edificação para a outra.  
+4.453 Risco isolado de central de GLP: Distância da central de gás liquefeito de petróleo (GLP) 
+à projeção da edificação.  
+4.454 Risco predominante: Atividade principal exercida na edificação, que também pode ser 
+definido como risco principal na edificação, ou que predomina sobre os demais, ou ainda o maior 
+nível de risco, desde que na ocorrência de um sinistro ele contribua de alguma forma para o 
+agravamento da situação de forma significativa e em termos proporcionais.  
+Notas:  
+a) ocorrendo equivalência na somatória da carga de incêndio, adotar-se-á para efeito da 
+classificação do maior risco, a ocupação que possuir maior carga de incêndio pôr m².  
+b) ocorrendo concentração de público, prevalecerá como sendo o maior risco, para o 
+dimensionamento das saídas de emergências.  
+4.455 Risco primário: Risco principal do produto de acordo com tabela do Decreto 96.044, 
+18Mai88, Regulamento Federal para o transporte rodoviário de produtos perigosos.  
+4.456 Risco secundário: Risco subsidiário do produto de acordo com tabela do Decreto 96.044, 
+18Mai88, Regulamento Federal para o transporte rodoviário de produtos perigosos.
+
+--- PÁGINA 35 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.457 Rolagem: Movimento do helicóptero de um ponto para outro, realizado na superfície ou 
+pouco acima desta, conforme o tipo de trem de pouso do helicóptero.  
+4.458 Rota de fuga: Trajeto que deve ser percorrido pelos ocupantes da edificação a partir de 
+qualquer ponto, de qualquer pavimento, até um local seguro completamente livre dos efeitos de 
+um incêndio. 
+4.459 Rota de Retirada de Acervo: Caminho destinado para retirada de acervos de edificações. 
+4.460 Saída de emergência: Caminho contínuo, devidamente protegido e sinalizado, 
+proporcionado por portas, corredores, “halls”, passagens externas, balcões, vestíbulos, escadas, 
+rampas ou outros dispositivos de saída ou combinações destes, a ser percorrido pelo usuário em 
+caso de incêndio e pânico, que conduzam o usuário de qualquer ponto da edificação até atingir a 
+via pública ou espaço aberto, protegido do incêndio ou pânico, em comunicação com o logradouro.  
+4.461 Saída ou rota de fuga: Caminho contínuo proporcionado por portas, corredores, “halls”, 
+escadas, rampas ou outros dispositivos de saída ou combinações destes, a ser percorrido pelo 
+usuário, para acesso e descarga.  
+4.462 Saída horizontal: Passagem de um edifício para outro por meio de porta corta-fogo, 
+vestíbulo, passagem coberta, passadiço ou balcão.  
+4.463 Saída única: Local em um setor do recinto de evento, onde a saída é possível apenas em 
+um sentido.  
+4.464 Salvaguardo: Toda ação de proteção de acervo cultural visando resguardar sua integridade 
+podendo ser de ordem administrativa, técnica ou legal. 
+4.465 Sapé, piaçava (ou piaçaba): Fibras vegetais de fácil combustão, de largo emprego na zona 
+rural para cobertura de ranchos, no fabrico de vassouras e também utilizadas como cobertura de 
+edificações destinadas à reunião de público, tais como bares, lanchonetes, restaurantes, casas de 
+espetáculos etc.  
+4.466 Segurança contra incêndio: Conjunto de ações e recursos internos e externos à edificação 
+ou área de risco, que permitem controlar a situação de incêndio e pânico e remoção das pessoas 
+do local do sinistro em segurança.  
+4.467 Segurança: Compromisso acerca da relativa proteção da exposição a riscos.  
+4.468 Selos corta-fogo: Dispositivos construtivos com tempo mínimo de resistência ao fogo, 
+instalados nas passagens de eletrodutos e tubulações que cruzam as paredes de 
+compartimentação ou entrepisos.  
+4.469 Separação corta-fogo: Elemento de construção que funciona como barreira contra a 
+propagação do fogo, avaliado conforme norma existente.  
+4.470 Separação de riscos de incêndio: Recursos que visam a separar fisicamente edificações 
+ou equipamentos. Podem ser áreas livres, barreiras de proteção, anteparos e/ou paredes de 
+material incombustível, com resistência mínima à exposição ao fogo de 2 horas.  
+4.471 Separação entre edificações: Distância segura entre cobertura e fachada de edificações 
+adjacentes, que se caracteriza pela distância medida horizontalmente entre a cobertura de uma 
+edificação e a fachada de outra edificação adjacente. Fachadas de edificações adjacentes, que se 
+caracterizam pela distância medida horizontalmente entre as fachadas de edificações adjacentes.
+
+--- PÁGINA 36 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.472 Serviço de segurança contra incêndio e pânico: Compreende a Diretoria de Atividades 
+Técnicas, Batalhões, Companhias e Pelotões do CBMMG que têm por finalidade desenvolver as 
+atividades relacionadas à prevenção e proteção contra incêndio e pânico nas edificações e áreas 
+de risco, observando-se o cumprimento das exigências estabelecidas Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais.  
+4.473 Setor: Espaço delimitado por elementos construtivos que condicionam a circulação das 
+pessoas para outras partes do recinto, permitindo ainda a lotação ordenada do local.  
+4.474 Severidade da exposição: Soma total da energia produzida com a evolução de um 
+incêndio, que resulta na intensidade de uma exposição.  
+4.475 Máxima provável de um incêndio em uma edificação: É determinada em função do risco 
+de incêndio decorrente de suas características construtivas, de sua ocupação, de sua relação com 
+as edificações vizinhas e o meio ambiente e das medidas de segurança nela já implementadas ou 
+disponibilizadas pela infraestrutura pública. 
+4.476 “Shaft”: Abertura existente na edificação, vertical ou horizontal, que permite a passagem e 
+interligação de instalações elétricas, hidráulicas ou outros dispositivos necessários.  
+4.477 “Shopping” coberto (“covered mall”): Espaço amplo criado por uma área coberta de 
+pedestre em uma edificação agregando um número de ocupantes, tais como lojas de varejo, bares, 
+entretenimento e diversão, escritórios ou outros usos similares, onde esses espaços ocupados 
+são abertos permitindo comunicação direta com a área de pedestres.  
+4.478 Simulado: Emprego técnico e tático dos meios disponíveis, realizados por pessoal 
+especializado, em situação não real, visando o treinamento dos participantes.  
+4.479 Sinais visuais: Compreendem a combinação de símbolos, mensagens, formas 
+geométricas, dimensões e cores.  
+4.480 Sinalização de emergência: Conjunto de sinais visuais que indicam, de forma rápida e 
+eficaz, a existência, a localização e os procedimentos referentes a saídas de emergência, 
+equipamentos de segurança contra incêndios e riscos potenciais de uma edificação ou áreas 
+relacionadas a produtos perigosos.  
+4.481 Sinistro: Ocorrência de prejuízo ou dano, causado por incêndio ou acidente, explosão etc.  
+4.482 Sistema de aspersão de espuma: Sistema especial, ligado à fonte da solução produtora, 
+estando equipado com aspersores de neblina para descarga e distribuição na área a ser protegida.  
+4.483 Sistema de carregamento: Dispositivo para o abastecimento de tanques de combustível 
+de motores de veículos, que engloba uma ou mais unidades de abastecimento.  
+4.484 Sistema de chuveiros automáticos: Conjunto integrado de tubulações, acessórios, 
+abastecimento de água, válvulas e dispositivos sensíveis à elevação de temperatura, de forma a 
+processar água sobre o foco de incêndio em uma densidade adequada para extingui-lo ou 
+controlá-lo em seu estágio inicial.  
+4.485 Sistema de controle de fumaça (“smoke management system”): Sistema projetado, que 
+inclui todos os métodos isolados ou combinados, para modificar o movimento da fumaça.  
+4.486 Sistema de detecção e alarme: Conjunto de dispositivos que visa a identificar um princípio 
+de incêndio, notificando sua ocorrência a uma central, que repassará este aviso a uma equipe de 
+intervenção, ou determinará o alarme para a edificação, com o consequente abandono da área.
+
+--- PÁGINA 37 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.487 Sistemas de hidrantes ou de mangotinhos: Conjunto de dispositivos de combate a 
+incêndio composto por reserva de incêndio, bombas de incêndio (quando necessário), rede de 
+tubulação, hidrantes ou mangotinhos e outros acessórios descritos nesta norma.  
+4.488 Sistema de Informações do Serviço de Segurança Contra Incêndio e Pânico (Infoscip): 
+sistema de regularização de edificações, controle e gestão de processos por meio digital; 
+4.489 Sistema de prevenção contra incêndio e pânico: Sistema constituído de equipamentos, 
+materiais e conjuntos que atuam na proteção da vida e das edificações.  
+4.489 Sistema preventivo eficaz automático: Entendesse por todo equipamento que não 
+dependa da ação humana para entrar em funcionamento e que debele o incêndio ainda no início, 
+permitindo o menor dano possível ao patrimônio e preservando a vida humana.  
+4.490 Sistema preventivo eficiente: Entende-se pelo conjunto de equipamentos, cujo 
+funcionamento dependa da ação humana para funcionar e possua carga extintora de comprovada 
+eficiência.  
+4.491 Sobreloja: Entende-se por sobreloja o piso compreendido entre dois pavimentos contíguos, 
+os quais tenham entre si altura suficiente para a interposição de um terceiro nível, o qual não 
+configure um pavimento, possuindo altura do pé direito diferenciado do pé direito do pavimento 
+tipo. A principal característica da sobreloja em relação ao jirau ou ao mezanino reside na 
+característica de poder ser contido lateralmente por quatro paredes e com a possibilidade de ter 
+ou não guarda-corpo em uma ou mais laterais. Sua função principal é de acondicionamento de 
+materiais, servindo como área de depósito. Não se exclui destes níveis cujo aproveitamento seja 
+constituído por escritórios, ou fechamentos de área para provadores, área de apoio aos 
+funcionários e afins. A sobreloja pode ocupar toda a área de projeção em planta do pavimento 
+imediatamente abaixo, mas com acesso exclusivo por este. Só existe sobreloja em edificações 
+comercial ou mista, neste caso onde existir lojas (sala, escritório ou loja).  
+4.492 Solicitação de vistoria por autoridade pública: Instrumento administrativo, utilizado para 
+atender solicitação de autoridade pública, no setor de prevenção de incêndio do Corpo de 
+Bombeiros Militar de Minas Gerais para realização de vistoria na edificação.  
+4.493 Sprinkler: Ver chuveiro automático.  
+4.494 Subestação atendida: Instalação operada localmente e que dispõe de pessoas 
+permanentes ou estacionadas.  
+4.495 Subestação compacta: Instalação atendida ou não, localizada em região urbana, com os 
+tipos descritos abaixo:  
+a) Subestação abrigada: Instalação total ou parcialmente abrigada, devido a fatores diversos, com 
+limitação de área do empreendimento, aspectos econômicos e sociais.  
+b) Subestação subterrânea: instalações que se encontram situadas abaixo do nível do solo.  
+c) Subestação de uso múltiplo: Instalação localizada em uma única área compartilhada pelo 
+proprietário e por terceiros.  
+4.496 Subestação de uso múltiplo: Instalação convencional, acrescida de outras edificações 
+separadas e distanciadas entre si, de único proprietário.  
+4.497 Subestação elétrica convencional: Instalação de pátio que se encontra ao ar livre, 
+podendo os transformadores permanecer ou não enclausurados.
+
+--- PÁGINA 38 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.498 Subestação não-atendida: Instalação tele controlada ou operada localmente por pessoas 
+não permanentes ou não estacionadas.  
+4.499 Subsolo: Pavimento situado abaixo do perfil do terreno. Não será considerado subsolo o 
+pavimento que possuir ventilação natural e tiver sua laje de cobertura acima de 1,20m do perfil do 
+terreno.  
+4.500 Supervisão (“supervision”): Auto teste do sistema de controle de fumaça, na qual o 
+circuito de condutores ou dispositivos de função são monitorados para acompanhar a falha ou 
+integridade dos condutores e dos equipamentos que controlam o sistema.  
+4.501 Tanque: Reservatório cilíndrico para armazenar líquidos combustíveis ou inflamáveis.  
+4.502 Tanque atmosférico não refrigerado: Reservatório não equipado com sistema de 
+refrigeração.  
+4.503 Tanque atmosférico refrigerado: Reservatório equipado com sistema de refrigeração, que 
+visa a controlar a temperatura entre – 35ºC a – 40ºC de forma a manter o gás liquefeito de petróleo 
+(GLP) em estado líquido sem a necessidade de pressurização.  
+4.504 Tanques de maior risco: Reservatório contendo líquidos combustíveis ou inflamáveis e 
+que possui maior demanda de vazão de espuma mecânica.  
+4.505 Tanque de teto cônico: Reservatório com teto soldado na parte superior do costado.  
+4.506 Tanque de teto flutuante: Reservatório cujo teto será diretamente apoiado na superfície 
+do líquido no qual flutua.  
+4.507 Tanque vertical: Reservatório de base apoiada sobre o solo.  
+4.508 Taxa de aplicação: Vazão de solução de espuma a ser lançada sobre a área da superfície 
+líquida em chamas.  
+4.509 Temperatura crítica: Temperatura que causa o colapso no elemento estrutural.  
+4.510 Tempo de comutação: Intervalo de tempo entre a interrupção da alimentação da rede 
+elétrica da concessionária e a entrada em funcionamento do sistema de iluminação de 
+emergência.  
+4.511 Tempo máximo de abandono (t): Duração considerada para que todos os ocupantes do 
+recinto consigam atingir o espaço livre exterior.  
+4.512 Tempo requerido de resistência ao fogo (TRRF): Duração de resistência ao fogo dos 
+elementos construtivos de uma edificação, estabelecida pelas normas.  
+4.513 Terceiros: Prestadores de serviço.  
+4.514 Terraço: Local descoberto sobre uma edificação ou ao nível de um de seus pavimentos 
+acima do pavimento térreo.  
+4.515 Teste: Verificação ou prova (fazer funcionar experimentalmente), para determinar a 
+qualidade ou comportamento de um sistema de acordo com as condições estabelecidas na 
+Instrução Técnica.
+
+--- PÁGINA 39 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.516 Tombamento: Ato administrativo oriundo dos órgãos de preservação atuantes no Estado 
+de Minas Gerais, nas esferas Federal, Estadual e Municipais, que tem por finalidade proteger, por 
+intermédio da aplicação de leis específicas, bens de valor cultural, impedindo que venham a ser 
+destruídos ou descaracterizados. Compreende o documento legal hábil para situar a edificação no 
+campo de abrangência desta Instrução Técnica. 
+4.517 Tombamento de Fachada: O acabamento e/ou detalhes do acabamento da fachada, casos 
+em que a estrutura e volumes já foram mexidos, mas a fachada e/ou seus detalhes são importantes 
+para serem preservados.  
+4.518 Tombamento de Gabarito: Altura da edificação, ou seja, as alturas do telhado e cumeeira 
+não podem ser alteradas, para não destoar em relação a um conjunto de imóveis.  
+4.519 Tombamento Volumétrico: Toda a envoltória da edificação, fachada telhado e paredes 
+externas (casca da edificação), suas dimensões, podem também ser de um conjunto de 
+edificações, neste caso as paredes internas podem ser mexidas. 
+4.520 Torre de espuma: Equipamento portátil destinado a facilitar a aplicação da espuma em 
+tanques.  
+4.521 Trajetórias de escape: Vazão de ar que sai dos ambientes pressurizados, definida no 
+projeto do sistema, e é através deste fluxo de ar que são estabelecidas a trajetória que serão 
+percorridas pelo ar que gera a pressurização.  
+4.522 Tubo-luva de proteção: Dispositivo no interior do qual a tubulação de gás (GLP, nafta, 
+natural ou outro similar) é montada, e cuja finalidade é diminuir o risco de um princípio de incêndio, 
+próximo às juntas, soldas e conexões; atingir a proteção contra incêndio existente nos dutos de 
+sucção e/ou pressurização, visando ainda ao não confinamento de gás em locais não ventilados.  
+4.523 Tubulação: Conjunto de tubos, conexões e outros acessórios destinados a conduzir água, 
+desde a reserva de incêndio até os hidrantes ou mangotinhos.  
+4.524 Tubulação seca: Parte do sistema de hidrantes, que por condições específicas, fica 
+permanentemente sem água no seu interior, sendo pressurizada por viatura de combate a 
+incêndios.  
+4.525 Túnel rodoviário: Passagem horizontal construída embaixo da terra ou da água usado para 
+o tráfego de automóveis.  
+4.526 Unidade autônoma: Parte da edificação vinculada a uma fração ideal de terreno, sujeita às 
+limitações da lei, constituída de dependências e instalações de uso privativo e de parcela de 
+dependências e instalações de uso comum da edificação, assinalada por designação especial 
+numérica, para efeitos de identificação, nos termos da Lei Federal nº 4591, de 16 de dezembro de 
+1964.  
+4.527 Unidade de passagem: Largura mínima para a passagem de uma fila de pessoas, fixada 
+em 0,55 m. Nota: Capacidade de uma unidade de passagem é o número de pessoas que passa 
+por esta unidade em 1,0 minuto.  
+4.528 Unidade de processamento: Estabelecimento ou parte de estabelecimento cujo objetivo 
+principal é misturar, aquecer, separar ou processar, de outra forma, líquidos inflamáveis. Nesta 
+definição não estão incluídas as refinarias, destilarias ou unidades químicas.  
+4.529 Unidade extintora: Extintor que atende a capacidade extintora mínima prevista em norma 
+em função do risco e natureza do fogo.
+
+--- PÁGINA 40 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.530 Usuário externo: indivíduo que acessa os serviços fornecidos pelo Portal da Prevenção 
+(Serviços, Consultas e Downloads). 
+4.531 Usuário interno: bombeiro militar que acessa os ambientes e recursos do sistema de 
+acordo com suas funções, por meio de identificação própria (login) e senha pessoal intrasferível. 
+4.532 Usuário RT: é o usuário Responsável Técnico, habilitado pelo respectivo conselho 
+profissional, para a elaboração e execução de PSCIP, cadastrado para utilização do assistente de 
+produção de processos digitais e demais procedimentos disponíveis no Infoscip, por meio de 
+identificação própria (login) e senha pessoal e intrasferível. 
+4.533 Válvula de retenção: Dispositivo hidráulico destinado a evitar o retorno da água para o 
+reservatório.  
+4.534 Válvulas: Acessórios de tubulação destinado a controlar ou bloquear o fluxo de água no 
+interior das tubulações.  
+4.535 Varanda: Parte da edificação, não em balanço, limitada pela parede perimetral do edifício, 
+tendo pelo menos uma das faces aberta para o logradouro ou área de ventilação.  
+4.536 Vazamento: Vazão de ar que sai do ambiente e/ou da rede de dutos de modo não desejável 
+causando perda de uma parcela do ar que é insuflado. 
+4.537 Vedadores corta-fogo: Dispositivos construtivos com tempo mínimo de resistência ao fogo, 
+instalados nas aberturas das paredes de compartimentação ou dos entrepisos, destinadas à 
+passagem de instalações elétricas, hidráulicas, etc.  
+4.538 Veículo abastecedor: Veículo especificamente homologado para transporte e transferência 
+de gás liquefeito de petróleo (GLP) a granel.  
+4.539 Veículo transportador: Veículo que dispõe de tanque criogênico, especialmente projetado 
+e utilizado para o transporte e transvasamento de gás natural liquefeito (GNL) e devidamente 
+certificado pelo INMETRO.  
+4.540 Veios: Dispositivos instalados no interior de curvas, bifurcações ou outros acessórios com 
+a finalidade de direcionar o fluxo de ar, visando, também, à diminuição da perda de carga 
+localizada.  
+4.541 Velocidade (v): Distância percorrida por uma pessoa em uma unidade de tempo (m/min).  
+4.542 Veneziana de tomada de ar: Dispositivo localizado em local fora do risco de contaminação 
+por fumaça proveniente do incêndio e por partículas que proporcionam o suprimento de ar 
+adequado para o sistema de pressurização.  
+4.543 Ventilação constante: Movimentação constante de ar em um ambiente.  
+4.544 Ventilação cruzada: Movimentação de ar, que se caracteriza por aberturas situadas em 
+lados opostos das paredes de uma edificação, sendo uma localizada junto ao piso e a outra situada 
+junto ao teto.  
+4.545 Via de acesso: Espaço destinado para as viaturas do CBMMG adentrarem no entorno à 
+edificação, à área de risco e à faixa de estacionamento.
+
+--- PÁGINA 41 ---
+IT 02 – Terminologia contra incêndio e pânico 
+2ª Edição 2017 
+ 
+Página 
+Corpo de Bombeiros Militar de Minas Gerais 
+ 
+4.546.Via urbana: Espaços abertos destinados à circulação pública (tais como ruas, avenidas, 
+vielas, ou caminhos e similares), situados na área urbana e caracterizados principalmente por 
+possuírem imóveis edificados ao longo de sua extensão.  
+4.547 Viaduto: Obra de construção civil destinada a transpor uma depressão de terreno ou servir 
+de passagem superior.  
+4.548 Vias de acesso para atendimento a emergências: Áreas ou locais definidos para 
+passagem de pessoas, em casos de abandono de emergência, e/ou para transporte de 
+equipamentos ou materiais para extinção de incêndios.  
+4.549 Vigas principais: Elementos estruturais ligados diretamente aos pilares ou a outros 
+elementos estruturais que sejam essenciais à estabilidade do edifício como um todo.  
+4.550 Vistoria: É o ato de certificar o cumprimento das exigências das medidas de proteção contra 
+incêndio e pânico nas edificações e áreas de risco por meio de exame no local.  
+4.551 Vistoriador: Servidor público militar, credenciado para o serviço de vistoria do Corpo de 
+Bombeiros Militar de Minas Gerais.  
+4.552 Vítima: Pessoa ou animal que sofreu qualquer tipo de lesão ou danos.

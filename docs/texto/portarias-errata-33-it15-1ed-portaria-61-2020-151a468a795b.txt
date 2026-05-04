@@ -1,0 +1,204 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23209533 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27169006&infra_sist…
+1/5
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 16 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 33/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 15 – 1ª
+Edição (Sinalização de Emergência):
+ 
+1. ALTERAR o item 1 
+Onde se lê: 
+"1 OBJETIVO
+Esta Instrução Técnica ﬁxa as condições exigíveis que devem saƟsfazer o sistema de sinalização
+de emergência em ediﬁcações e áreas de risco, atendendo ao previsto no Regulamento de Segurança Contra
+Incêndio e Pânico nas ediﬁcações e áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"1 OBJETIVO
+Esta Instrução Técnica ﬁxa as condições exigíveis que devem saƟsfazer o sistema de sinalização
+de emergência em ediﬁcações e espaços desƟnados ao uso coleƟvo, atendendo ao previsto no Regulamento
+de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 2 
+Onde se lê: 
+"2 APLICAÇÃO
+Esta Instrução Técnica se aplica a todas as ediﬁcações e áreas de risco, exceto residências
+unifamiliares.
+Leia-se:
+"2 APLICAÇÃO
+Esta Instrução Técnica aplica-se a todas as ediﬁcações e espaços desƟnados ao uso coleƟvo,
+salvo os casos de isenção previstos na legislação de segurança contra incêndio e pânico do Estado de Minas
+Gerais."
+ 
+3. ALTERAR o item 5.2.1
+Onde se lê: 
+"5.2.1 CaracterísƟcasbásicas
+A sinalização de emergência faz uso de símbolos, mensagens e cores, deﬁnidos nesta
+Instrução Técnica, que devem ser alocados convenientemente no interior da ediﬁcação e áreas derisco."
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23209533 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27169006&infra_sist…
+2/5
+Leia-se:
+"5.2.1 CaracterísƟcas básicas
+A sinalização de emergência faz uso de símbolos, mensagens e cores, deﬁnidos nesta
+Instrução Técnica, que devem ser alocados convenientemente no interior da ediﬁcação e espaços desƟnados
+ao uso coleƟvo."
+ 
+4. ALTERAR o número '2' do item 5.3.2
+Onde se lê: 
+"2) informar circunstâncias especíﬁcas em uma ediﬁcação ou áreas de risco, através de
+mensagens escritas;"
+Leia-se:
+"2) informar circunstâncias especíﬁcas em uma ediﬁcação ou espaço desƟnado ao uso
+coleƟvo, através de mensagens escritas;"
+ 
+5. ALTERAR as alíneas 'b' e 'c' do item 5.3.2.3
+Onde se lê: 
+"b) as medidas de proteção contra incêndio existentes na ediﬁcação ou áreas de risco;
+  c) as circunstâncias especíﬁcas de uma ediﬁcação e áreas de risco;"
+Leia-se:
+"b) as medidas de proteção contra incêndio existentes na ediﬁcação ou espaço desƟnado ao
+uso coleƟvo;
+  c) as circunstâncias especíﬁcas de uma ediﬁcação e espaço desƟnado ao uso coleƟvo;"
+ 
+6. ALTERAR o item  6.1.1
+Onde se lê: 
+"6.1.1 Sinalização de proibição
+A sinalização de proibição própria de segurança contra incêndio e pânico deve ser instalada
+em local visível e a uma altura de 1,80 m medida do piso acabado à base da sinalização, distribuída em mais
+de um ponto dentro da área de risco, de modo que pelo menos uma delas possa ser claramente visível de
+qualquer posição dentro da área, distanciadas em no máximo 15,0 m entre si."
+Leia-se:
+"6.1.1 Sinalização de proibição
+A sinalização de proibição própria de segurança contra incêndio e pânico deve ser instalada
+em local visível e a uma altura de 1,80 m medida do piso acabado à base da sinalização, distribuída em mais
+de um ponto dentro da ediﬁcação e/ou espaço desƟnado ao uso coleƟvo, de modo que pelo menos uma
+delas possa ser claramente visível de qualquer posição dentro da área, distanciadas em no máximo 15,0 m
+entre si."
+ 
+7. ALTERAR a alínea "a" do item  6.1.4
+Onde se lê:
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 23209533 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27169006&infra_sist…
+3/5
+"a) quando houver, na área de risco, obstáculos que diﬁcultem ou impeçam a visualização
+direta da sinalização básica no plano verƟcal, a mesma sinalização deve ser repeƟda a uma altura suﬁciente
+para a sua visualização;"
+Leia-se:
+"a) quando houver, na ediﬁcação ou espaço desƟnado ao uso coleƟvo, obstáculos que
+diﬁcultem ou impeçam a visualização direta da sinalização básica no plano verƟcal, a mesma sinalização deve
+ser repeƟda a uma altura suﬁciente para a sua visualização;"
+ 
+8. ALTERAR o item  6.2.4
+Onde se lê: 
+"6.2.4 As mensagens que indicam circunstâncias especíﬁcas de uma ediﬁcação e área de risco
+devem ser uƟlizadas em placas a serem instaladas nas seguintes situações:"
+Leia-se:
+"6.2.4 As mensagens que indicam circunstâncias especíﬁcas de uma ediﬁcação e
+espaço desƟnado ao uso coleƟvo devem ser uƟlizadas em placas a serem instaladas nas seguintes situações:"
+ 
+9. ALTERAR o número "3" do item  6.2.4 e sua alínea "a"
+Onde se lê: 
+"3) no acesso principal da área de risco, informando o público sobre:
+a) os sistemas de proteção contra incêndio (aƟvos e passivos) instalados na área de risco;"
+Leia-se:
+"3) no acesso principal do espaço desƟnado ao uso coleƟvo, informando o público sobre:
+a) os sistemas de proteção contra incêndio (aƟvos e passivos) instalados no
+espaço desƟnado ao uso coleƟvo;"
+ 
+10. ALTERAR o item 6.2.6.2 
+Onde se lê: 
+"6.2.6.2 As portas dos abrigos dos hidrantes:
+a) devem ser pintadas na cor vermelha devidamente idenƟﬁcadas com o dísƟco “incêndio” –
+fundo vermelho com inscrição na cor branca ou amarela."
+Leia-se:
+"6.2.6.2 As portas dos abrigos dos hidrantes:
+a) devem ser pintadas na cor vermelha devidamente idenƟﬁcadas com o dísƟco “incêndio” –
+fundo vermelho com inscrição na cor branca ou amarela.
+b) podem possuir abertura no centro com área mínima de 0,04 m², fechada com material
+transparente (vidro, acrílico, etc.), idenƟﬁcado com o dísƟco “incêndio” – fundo vermelho com inscrição na
+cor branca ou amarela."
+ 
+11. ALTERAR o item 6.2.6.3
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 23209533 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27169006&infra_sist…
+4/5
+Onde se lê: 
+"6.2.6.3 Podem possuir abertura no centro com área mínima de 0,04 m², fechada com
+material transparente (vidro, acrílico, etc.), idenƟﬁcado com o dísƟco “incêndio” – fundo vermelho com
+inscrição na cor branca ou amarela. Os acessórios hidráulicos (válvulas de retenção, registros de paragem,
+válvulas de governo e alarme) devem receber pintura na cor vermelha."
+Leia-se:
+"6.2.6.3 Os acessórios hidráulicos (válvulas de retenção, registros de paragem, válvulas de
+governo e alarme) devem receber pintura na cor vermelha."
+ 
+12. ALTERAR o item 6.3 
+Onde se lê: 
+"6.3 Requisitos
+São requisitos básicos para que a sinalização de emergência possa ser visualizada e
+compreendida no interior da ediﬁcação ou área de risco:"
+Leia-se:
+"6.3 Requisitos
+São requisitos básicos para que a sinalização de emergência possa ser visualizada e
+compreendida no interior da ediﬁcação ou espaço desƟnado ao uso coleƟvo:"
+ 
+13. ALTERAR o item 6.4
+Onde se lê: 
+"6.4 Projeto de sinalização de emergência
+Para ﬁns de apresentação junto ao Corpo de Bombeiros, deve ser indicada uma nota no
+projeto técnico de segurança contra incêndio e pânico referente ao atendimento das exigências conƟdas
+nesta IT, conforme abaixo:
+Nota: O sistema de sinalização de emergência atenderá ao conƟdo na IT15 do CBMMG."
+Leia-se:
+"6.4 Projeto de sinalização de emergência
+Para ﬁns de apresentação junto ao Corpo de Bombeiros, deve ser indicado, no quadro
+informaƟvo previsto no Anexo E.2 da IT 03 (Composição do Processo de Segurança Contra Incêndio e
+Pânico), que o sistema de sinalização de emergência atenderá ao conƟdo na IT 15."
+ 
+14. ALTERAR o item 6.6
+Onde se lê: 
+"6.6 Manutenção
+A sinalização de emergência uƟlizada na ediﬁcação e áreas de risco deve ser objeto de
+inspeção periódica para efeito de manutenção, desde a simples limpeza até a subsƟtuição por outra nova,
+quando suas propriedades İsicas e químicas deixarem de produzir o efeito visual para as quais foram
+confeccionadas."
+Leia-se:
+
+--- PÁGINA 5 ---
+04/01/2021
+SEI/GOVMG - 23209533 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27169006&infra_sist…
+5/5
+"6.6 Manutenção
+A sinalização de emergência uƟlizada na ediﬁcação e espaços desƟnados ao uso coleƟvo deve
+ser objeto de inspeção periódica para efeito de manutenção, desde a simples limpeza até a subsƟtuição por
+outra nova, quando suas propriedades İsicas e químicas deixarem de produzir o efeito visual para as quais
+foram confeccionadas."
+ 
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:20, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23209533 e o
+código CRC 9C3A4D98.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23209533

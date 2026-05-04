@@ -1,0 +1,95 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23582004 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27585906&infra_sist…
+1/3
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 23 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 39/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 16 – 3ª
+Edição (Sistema de proteção por exƟntores de incêndio):
+ 
+1. ALTERAR o item 1
+Onde se lê: 
+"1 OBJETIVO
+Estabelecer critérios para proteção contra incêndio em ediﬁcações e/ou áreas de risco por
+meio de exƟntores de incêndio (portáteis ou sobre rodas), para combate a princípios de incêndio, atendendo
+ao previsto no Regulamento de Segurança Contra Incêndio e Pânico no Estado de Minas Gerais."
+Leia-se:
+"1 OBJETIVO 
+Estabelecer critérios para proteção contra incêndio em ediﬁcações e/ou espaços desƟnados
+ao uso coleƟvo por meio de exƟntores de incêndio (portáteis ou sobre rodas), para combate a princípios de
+incêndio, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas
+Gerais."
+ 
+2. ALTERAR o item 2.1
+Onde se lê: 
+"2.1 Aplica-se a todas as ediﬁcações e áreas de risco onde houver necessidade de instalação
+de exƟntores de incêndio."
+Leia-se:
+"2.1 Aplica-se a todas as ediﬁcações e espaços desƟnados ao uso coleƟvo onde houver
+necessidade de instalação de exƟntores de incêndio."
+ 
+3. ALTERAR o item 5.2.2.5
+Onde se lê: 
+"5.2.2.5 O exƟntor com agente de múlƟplo uso ABC poderá subsƟtuir qualquer Ɵpo de
+exƟntor de classes especíﬁcas A, B e C dentro de uma ediﬁcação ou área de risco."
+Leia-se:
+"5.2.2.5 O exƟntor com agente de múlƟplo uso ABC poderá subsƟtuir qualquer Ɵpo de
+exƟntor de classes especíﬁcas A, B e C dentro de uma ediﬁcação ou espaço desƟnado ao uso coleƟvo."
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23582004 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27585906&infra_sist…
+2/3
+ 
+4. ALTERAR o item 5.2.2.9
+Onde se lê: 
+"5.2.2.9 Deve haver, no mínimo, um exƟntor de incêndio não distante mais de 5 (cinco) m da
+porta de acesso da entrada principal da ediﬁcação, entrada do pavimento ou da área de risco."
+Leia-se:
+"5.2.2.9 Deve haver, no mínimo, um exƟntor de incêndio não distante mais de 5 (cinco) m da
+porta de acesso da entrada principal da ediﬁcação, entrada do pavimento ou do espaço desƟnado ao uso
+coleƟvo."
+ 
+5. ALTERAR o item 5.2.3.2
+Onde se lê: 
+"5.2.3.2 Os exƟntores sobre rodas são complementares aos exƟntores portáteis requeridos
+para a ediﬁcação ou área de risco, devendo ser instalados em pontos estratégicos, sendo sua proteção
+restrita ao nível do piso em que se encontram."
+Leia-se:
+"5.2.3.2 Os exƟntores sobre rodas são complementares aos exƟntores portáteis requeridos
+para a ediﬁcação ou espaço desƟnado ao uso coleƟvo, devendo ser instalados em pontos estratégicos, sendo
+sua proteção restrita ao nível do piso em que se encontram."
+ 
+6. ALTERAR o item 6.2.2
+Onde se lê: 
+"6.2.2 Classiﬁcação do risco quanto à carga incêndio
+A classiﬁcação do risco será determinada de acordo com a carga incêndio da ediﬁcação/área
+de risco, conforme IT 09."
+Leia-se:
+"6.2.2 Classiﬁcação do risco quanto à carga incêndio
+A classiﬁcação do risco será determinada de acordo com a carga incêndio da
+ediﬁcação/espaço desƟnado ao uso coleƟvo, conforme IT 09."
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 28/12/2020, às
+21:39, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23582004 e o
+código CRC C2DC6A9C.
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 23582004 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27585906&infra_sist…
+3/3
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23582004

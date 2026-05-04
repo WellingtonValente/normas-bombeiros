@@ -1,0 +1,859 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 39 
+4ª edição 
+ 
+BLOCOS DE CARNAVAL E OUTRAS 
+MANIFESTAÇÕES CULTURAIS EM 
+VIAS PÚBLICAS 
+ 
+Aprovada pela portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15.  
+SUMÁRIO 
+1 – Objetivo 
+2 – Aplicação 
+3 – Referências 
+4 – Definições 
+5 – Regularização 
+6 – Atribuições 
+7 – Trios elétricos e similares 
+8 – Generalidades 
+9 – Procedimentos de fiscalização 
+ANEXO 
+A – Figuras ilustrativas 
+ 
+B – Gerenciamento de Riscos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.bombeiros.mg.gov.br 
+ 
+Bombeiro: o amigo certo nas horas incertas.
+
+--- PÁGINA 2 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+2/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+1 OBJETIVO 
+ 
+Estabelecer as considerações mínimas de segurança para concentrações, deslocamentos e 
+dispersão dos Blocos Carnavalescos e outras manifestações culturais em vias públicas, em 
+qualquer época do ano, desde que apresentem características de similaridade, visando à proteção 
+da vida humana e do patrimônio contra o risco de incêndio e pânico, bem como dotar o poder público 
+de informações para prevenção, preparação e atendimento aos participantes. 
+2 APLICAÇÃO 
+2.1 A presente Instrução Técnica aplica-se aos Blocos Carnavalescos e outras manifestações 
+culturais que ocorrerão em via pública, com ou sem previsão de utilização de trios elétricos e 
+similares, que atendam aos seguintes requisitos: 
+2.1.1 Não haja delimitação por barreiras que impeçam o trânsito livre de pessoas. 
+2.1.2 Não haja previsão de público sobre estruturas provisórias como arquibancadas, camarotes e 
+similares. 
+2.1.3 Não haja estruturas provisórias para comercialização, como barracas, tendas e similares, 
+sendo permitido vendedores ambulantes ou food trucks. 
+2.1.4 Não haja uso de artefatos e artifícios pirotécnicos ou utilização de brinquedos mecânicos. 
+2.1.5 Não haja público sob tendas cujo somatório das áreas ultrapasse 150 metros quadrados. 
+2.1.6 Não haja utilização de palcos e similares. 
+2.1.7 Caso utilizem trio elétrico ou similares, estes não poderão ficar estacionados durante o 
+desfile/deslocamento do bloco ou outra manifestação cultural. 
+2.2 Não atendido qualquer um dos requisitos previstos nos subitens de 2.1, a atividade desenvolvida 
+passará a se enquadrar como evento temporário, devendo ser licenciado conforme Instrução 
+Técnica 33 (Eventos Temporários). 
+2.3 Esta Instrução Técnica não se aplica: 
+2.3.1 Às festividades de carnaval no interior de edificações permanentes e/ou construções 
+provisórias. 
+2.3.2 Aos eventos temporários regulamentados por norma específica. 
+2.3.3 Às manifestações políticas e partidárias e/ou reivindicatórias, desde que não tenham caráter 
+festivo ou artístico.  
+ 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, levando- 
+se em consideração todas as suas atualizações e outras que vierem a substituí-las.
+
+--- PÁGINA 3 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+3/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+3.1 Legislação 
+Constituição da República Federativa do Brasil – 1988. 
+Constituição Estadual de Minas Gerais – 1989. 
+Lei Federal n. 9.503/1997 – Código de Trânsito Brasileiro. 
+Lei Federal n. 14.845/2024 – Reconhece como manifestação da cultura nacional os blocos e as 
+bandas de carnaval. 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Lei Estadual n. 20.374/2012 – Proíbe a produção, a distribuição, a comercialização e a utilização, 
+no Estado, de serpentinas metalizadas destinadas a festejos e produtos similares. 
+Lei Estadual n. 22.839/2018 - Dispõe sobre a prática de atividades da área de competência do 
+Corpo de Bombeiros Militar de Minas Gerais por voluntários, profissionais e instituições civis e dá 
+outras providências. 
+Decreto Estadual n. 47.998/2020 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e espaços destinados ao uso coletivo no Estado de Minas Gerais. 
+Resolução n. 922 – CONTRAN, de 28 de março de 2022 – Estabelece procedimentos para a 
+prestação de serviços por Instituição Técnica Licenciada (ITL) e Entidade Técnica Pública ou 
+Paraestatal (ETP), para emissão do Certificado de Segurança Veicular (CSV), de que trata o art. 
+106 do Código de Trânsito Brasileiro (CTB). 
+NR 10 - Segurança em instalações e serviços em eletricidade. 
+3.2 
+Normas 
+Instrução Técnica n. 33 – Eventos Temporários, CBMMG.  
+ 
+4 DEFINIÇÕES 
+Para entendimento desta norma, além dos conceitos descritos na Instrução Técnica 02 
+(Terminologia de Proteção Contra Incêndio e Pânico), aplicam-se os seguintes conceitos: 
+4.1 Altura do Trio Elétrico: distância medida verticalmente do ponto em que o veículo toca o solo 
+(base dos pneus) até o ponto mais alto da estrutura do veículo, observados os seguintes critérios: 
+a) Quando houver previsão de utilização de cobertura na parte superior do veículo, a parte mais alta 
+desse elemento deverá ser considerada para a definição da altura do trio elétrico. 
+b) Quando não houver previsão de cobertura, mas existir previsão de público na parte superior do 
+veículo, deverá ser acrescida a medida de 2,50 m (dois metros) na aferição da altura do trio elétrico, 
+a partir do ponto mais alto da estrutura do veículo. 
+4.2 Barreiras: estruturas físicas destinadas a impedir ou dificultar a livre circulação de pessoas.
+
+--- PÁGINA 4 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+4/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+4.3 Bateria: componentes do bloco carnavalesco responsáveis pela sonorização com 
+instrumentos de percussão ou de outra espécie, que devem acompanhar o canto e conduzir o ritmo 
+(seção rítmica) do desfile. 
+4.4 Bloco Carnavalesco ou Bloco: manifestação cultural de especial interesse público, com 
+aglomeração de pessoas em determinada via pública, com finalidade festiva de carnaval, de caráter 
+momentâneo, estacionário ou itinerante, inclusive aquelas ocorridas em qualquer época do ano, 
+desde que apresentem características de similaridade. 
+4.5 Comprimento do Trio Elétrico: distância existente entre a face frontal e posterior do trio 
+elétrico, medida horizontalmente, sendo incluídas, nessa medida, quaisquer ornamentações ou 
+estruturas que se estendam além dos limites da carroceria. 
+4.6 Concentração: para os efeitos desta instrução, trata-se de aglomeração de pessoas 
+(foliões/participantes) em vias públicas. 
+4.7 Cordão de Isolamento: elemento móvel que isola os veículos dos foliões/participantes. 
+4.8 Equipe de Isolamento: equipe dotada de pessoas, responsáveis pela manutenção do cordão 
+de isolamento e pelo distanciamento mínimo entre o público e os trios elétricos e similares. 
+4.9 Evento temporário: acontecimento de especial interesse público, ocorrendo em período 
+limitado, com aglomeração de pessoas em determinado espaço físico construído ou preparado, 
+classificados como ocupação de divisão F-7 pela Tabela do Decreto 47.998/2020, independente da 
+finalidade, podendo ser momentâneo, quando realizado em horas, continuado, quando realizado 
+em dias, intermitente, quando realizado de forma repetitiva no mesmo local, ou itinerante, quando 
+realizado de forma repetitiva em locais distintos, devendo ser licenciado de acordo com a IT 33 do 
+CBMMG. 
+4.10 Fase de Concentração do Bloco: período que antecede a fase de desfile do bloco, em que 
+ocorre a concentração de público na área prevista para o início do cortejo. 
+4.11 Fase de Desfile do Bloco: período que compreende o deslocamento do bloco na rota 
+previamente estabelecida. 
+4.12 Fase de Dispersão do Bloco: período que sucede a fase de desfile do bloco, em que ocorre 
+a interrupção do deslocamento para desmobilização do bloco conforme rota previamente 
+estabelecida. 
+4.13 Foliões: pessoas que participam dos blocos carnavalescos, com intuito de se entreter. 
+4.14 Infoscip (Sistema de Informações do Serviço de Segurança Contra Incêndio e Pânico): 
+sistema de regularização de edificações, controle e gestão de processos por meio digital. 
+4.15 Largura do Trio Elétrico: maior distância existente entre as laterais do veículo, medida 
+horizontalmente, sendo incluídas, nessa medida, quaisquer ornamentações ou estruturas que se 
+estendam além dos limites da carroceria. 
+4.16 Local de Concentração: local inicial para reunião de público para posterior deslocamento dos 
+participantes/foliões.
+
+--- PÁGINA 5 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+5/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+4.17 Local de Dispersão: ponto final do deslocamento dos participantes/foliões. 
+4.18 Manifestação cultural: refere-se às expressões de um povo que refletem sua identidade, 
+história e valores. Caracterizam-se pelo teor festivo e de entretenimento, com riscos semelhantes 
+aos dos blocos de carnaval, não se confundindo com manifestações político-partidárias e/ou 
+reivindicatórias, e que não se enquadrem como eventos temporários. 
+4.19 Palco: estrutura permanente ou provisória destinada à realização de palestras, comícios, 
+shows, apresentações artísticas, dentre outras atividades, desde que apresente desnível superior a 
+55 cm do solo. 
+4.20 Participante: aquele que participa da manifestação cultural. 
+4.21 Proteção física: estrutura montada com a finalidade de garantir a segurança do público. 
+4.22 Trio elétrico e similares: caminhão, reboque e semirreboque adaptado com aparelhos de 
+sonorização para a apresentação de ritmos musicais, através de alto-falantes e/ou com carroceria 
+adaptada para comportar grupos de pessoas. Entende-se por similares os: 
+a) veículos de pequeno e médio porte adaptados para a sonorização e acomodação de pequenos 
+grupos de pessoas; 
+b) automóveis, caminhonetes e caminhões, com ou sem reboque tipo carretinha, utilizados para 
+sonorização. 
+4.23 Via Pública: vias terrestres urbanas e rurais, abertas e destinadas à circulação pública, tais 
+como: praças, ruas, avenidas, vielas, caminhos, rodovias e similares. 
+4.24 Via Principal: são acessos, corredores de movimentação de veículos e pessoas tais como: 
+vias de trânsito rápido, via arterial e via coletora. 
+4.25 Via Secundária: são logradouros cuja dimensão não permite a aglomeração de pessoas e 
+tráfego de veículos simultâneo tais como: vias locais, vielas, ruas de tráfego lento. 
+ 
+ 
+5 REGULARIZAÇÃO 
+5.1 Em atenção ao contido no inciso XVI do art. 5º da Constituição Federal de 1988, respeitadas as 
+condições descritas no item 2 desta IT, as manifestações culturais e blocos de carnaval, no que 
+tange à sua concentração, deslocamento e dispersão em via pública, ficam dispensados de 
+licenciamento como Evento Temporário junto ao Corpo de Bombeiros Militar de Minas Gerais 
+(CBMMG). Entretanto, é necessária a comunicação prévia da realização e das características do 
+bloco/manifestação cultural ao CBMMG, pelo organizador/responsável. 
+5.2 A comunicação da sua realização será feita por meio do Infoscip, com antecedência mínima de 
+10 (dez) dias à realização da festividade, contendo as seguintes informações complementares: 
+a) Croqui, foto aérea, imagem de satélite, planta baixa, itinerário descrito ou outro documento que 
+permita visualizar e reconhecer as vias de deslocamento e as áreas de concentração e dispersão 
+dos foliões/participantes, para fins de conhecimento prévio pelo CBMMG;
+
+--- PÁGINA 6 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+6/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+b) Informações sobre existência e quantidade de trios elétricos e similares, acompanhadas das 
+seguintes características: 
+b.1) altura do trio elétrico ou similar; 
+b.2) comprimento do trio elétrico ou similar; 
+b.3) largura do trio elétrico ou similar; 
+b.4) lotação de público sobre o trio elétrico ou similar; 
+b.5) altura mínima dos obstáculos aéreos existentes no trajeto; 
+b.6) compatibilidade do trio elétrico ou similar com a via; 
+c) Estimativa de público geral, devendo-se considerar o histórico do bloco/manifestação cultural, 
+característica da atração, adesão em mídias sociais ou outros instrumentos disponíveis; 
+c.1) Para dimensionamento do público, deve-se observar a área do trajeto a ser percorrido, 
+admitindo-se, no máximo, 4 (quatro) pessoas por metro quadrado. 
+5.2.1 O organizador, no ato da comunicação do bloco de carnaval ou outra manifestação cultural 
+ao CBMMG, deverá informar que o veículo a ser utilizado como trio elétrico ou similar está licenciado 
+junto aos órgãos de trânsito para os fins a que se pretende sua utilização. 
+5.2.2 A comunicação do bloco de carnaval ou outra manifestação cultural ao CBMMG não desobriga 
+o organizador do bloco do cadastro e eventuais autorizações junto à prefeitura e órgão de trânsito 
+local, conforme legislação própria. 
+5.2.3 As informações sobre altura dos obstáculos aéreos existentes no trajeto e compatibilidade do 
+trio elétrico ou similar com a via deverão ser comunicadas ao CBMMG após realização de 
+levantamento junto aos órgãos locais responsáveis (prefeitura, órgão de trânsito, concessionária de 
+energia elétrica, dentre outros). 
+5.2.4 Excepcionalmente para concentrações, deslocamentos e dispersões de foliões/participantes 
+ocorridos em períodos diversos ao calendário oficial de Carnaval no município, a comunicação de 
+que trata o item 5.2 poderá ser feita com antecedência mínima de 02 (dois) dias úteis à realização 
+da festividade. 
+5.3 No período de carnaval, havendo um grande número de blocos e fiscalização por diversos 
+órgãos, recomenda-se que seja realizada reunião de preparação entre todos os envolvidos (órgãos 
+públicos e organizadores), podendo ser por meio da Comissão de Monitoramento da Violência em 
+Eventos Esportivos e Culturais (COMOVEEC), outro comitê existente no município ou simples 
+convocação, seja pelo executivo municipal ou pelo CBMMG. 
+5.4 Não será exigida a contratação de Responsável Técnico para os blocos carnavalescos e demais 
+manifestações culturais em vias públicas. 
+5.5 A comunicação realizada fora do prazo estabelecido no item 5.2 desta norma não exime o 
+CBMMG de receber o formulário. Contudo, poderá resultar em parecer desfavorável à realização 
+do bloco/manifestação cultural, caso não haja tempo hábil para avaliação e correção dos 
+apontamentos feitos pelo CBMMG ao responsável, ou para o adequado planejamento da resposta
+
+--- PÁGINA 7 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+7/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+operacional à demanda. 
+5.6 Não será recolhida taxa de segurança pública para declaração de blocos carnavalescos e 
+demais manifestações culturais em vias públicas. 
+ 
+6 ATRIBUIÇÕES 
+6.1 Caberá ao organizador do bloco/manifestação cultural: 
+a) Comunicar a realização do bloco/manifestação cultural com a antecedência prevista nesta 
+Instrução Técnica, ao CBMMG, fornecendo as informações solicitadas no Infoscip; 
+b) Emitir, por meio do Infoscip, a declaração de consonância com as características estabelecidas 
+nesta Instrução Técnica, nos casos de conformidade; 
+c) Cuidar para que o local escolhido para a concentração, deslocamento e dispersão dos 
+foliões/participantes seja compatível com o público estimado e com os veículos (trios elétricos e 
+similares) utilizados, observando as recomendações dos órgãos competentes (CBMMG, Prefeitura, 
+órgãos de trânsito, Polícia Militar, etc.); 
+d) Garantir que os trios elétricos e similares ofereçam as condições mínimas de segurança contra 
+incêndio e pânico, por meio de regularização junto aos órgãos de trânsito, e assegurar a 
+compatibilidade dimensional e a segurança do deslocamento do veículo em todo o trajeto previsto, 
+especialmente em relação à altura livre e à largura das vias; 
+e) No caso de utilização de trios elétricos e similares, providenciar equipe de isolamento conforme 
+item 7.8 e subitens desta Instrução Técnica; 
+f) Zelar pelo cumprimento dos horários das fases de concentração, desfile e dispersão previamente 
+estabelecidos e comunicados às autoridades competentes; 
+g) Zelar pelo cumprimento do trajeto previamente estabelecido e comunicado às autoridades 
+competentes; 
+h) Zelar para que o estacionamento e o deslocamento de trios elétricos e similares não ocorra em 
+locais próximos à rede elétrica, respeitando-se a distância mínima de 1,50 metros de qualquer 
+fiação; 
+ 
+i) Orientar o público em caso de incidente, por meio do sistema de som utilizado pelo bloco, acerca 
+dos procedimentos para evacuação ordenada e das vias a serem utilizadas; 
+ 
+j) Atentar para que não haja conflito entre as áreas de concentração e dispersão de diferentes 
+blocos/manifestações, de modo a não frustrar outra reunião anteriormente convocada para o mesmo 
+local. 
+6.1.1 Sempre que houver exigências por parte da equipe de avaliação/fiscalização para correção 
+de irregularidades, caberá ao organizador do bloco/manifestação cultural providenciar as 
+adequações necessárias, em tempo hábil, para garantir a segurança do público. 
+6.1.2 Havendo a proibição de deslocamento de trios elétricos ou similares pelo não cumprimento
+
+--- PÁGINA 8 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+8/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+das medidas previstas na presente instrução, caberá a seu organizador providenciar divulgação aos 
+foliões/participantes sobre a situação, em tempo hábil, para evitar eventuais transtornos. 
+6.2 Caberá ao Corpo de Bombeiros Militar de Minas Gerais (CBMMG): 
+a) Receber a documentação apresentada pelos organizadores, mediante protocolo eletrônico, 
+recepcionando a declaração quando em consonância com as características estabelecidas nesta 
+Instrução Técnica; 
+b) Cassar a declaração caso sejam verificadas irregularidade nas informações; 
+c) Avaliar as características de bloco carnavalesco/manifestação cultural conforme definição do 
+item 2.1 e as condições de segurança relativas aos itens 7.5, 7.8 e 8.1 desta Instrução Técnica (e 
+seus respectivos subitens); 
+d) Definir a necessidade de se realizar vistorias de fiscalização, conforme planejamento do setor 
+específico, nas festividades tratadas nesta norma, observando o item 9 desta IT; 
+e) Planejar ações de resposta operacional para atendimento ao público presente, seguindo as 
+diretrizes internas da corporação. 
+6.2.1 Poderão ser definidas outras exigências em reuniões de preparação, sendo recomendável a 
+formulação de uma matriz de responsabilidades incluindo todos os órgãos participantes. 
+6.2.2 Poderão ser formalizados protocolos entre o CBMMG e os municípios, com outras atribuições 
+relativas à Gestão do Risco de Desastres (GRD) para blocos de carnaval e outras manifestações 
+culturais em vias públicas, desde que respeitado e cumprido o teor desta IT. 
+ 
+7 TRIOS ELÉTRICOS E SIMILARES 
+7.1 Os Trios Elétricos e similares constituem, a rigor, veículos de transporte regulados pelo Código 
+de Trânsito Brasileiro, sob fiscalização dos órgãos de trânsito. 
+7.1.1 Cabe ao organizador do bloco/manifestação cultural e ao proprietário de trios elétricos e 
+similares a responsabilidade por providenciar a liberação destes junto aos órgãos de trânsito. 
+7.2 Trios elétricos e similares deverão possuir dimensões, condições mecânicas e características 
+de deslocamento compatíveis com as vias de tráfego, de modo a não oferecer risco aos 
+foliões/participantes e integrantes dos blocos. 
+7.2.1 O organizador do bloco/manifestação cultural e os responsáveis pelos trios elétricos e 
+similares deverão assegurar e responsabilizar-se pelo atendimento ao disposto no item 7.2. 
+7.2.2 A fim de se evitar o risco de contato das pessoas sobre os trios com os obstáculos existentes 
+na via, recomenda-se a utilização de veículos do tipo pranchão/“trem elétrico”, conforme figura A.4. 
+7.3 Não será alvo de análise e inspeção pelo Corpo de Bombeiros: 
+a) a autorização/documentação junto ao órgão de trânsito para deslocamento desses veículos;
+
+--- PÁGINA 9 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+9/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+b) as condições de segurança para tráfego e sua compatibilidade às vias; 
+c) a aferição das dimensões de trios elétricos ou similares, para fins de compatibilização do veículo 
+com a via. 
+ 
+7.4 O não cumprimento do item 7.1.1 poderá ser alvo de autuação por meio de acionamento do 
+órgão de trânsito. 
+7.5 Para fins de aplicação desta Instrução Técnica, não poderá haver a utilização de trios elétricos 
+e similares para exibição ou apresentação quando estacionados – ocasião em que este recurso é 
+considerado como palco. 
+7.5.1 Para os blocos/manifestações que não contenham trios elétricos e similares, como, por 
+exemplo, baterias a pé, será permitido permanecerem parados, desde que seja respeitada a 
+proibição da utilização de palco. 
+7.5.2 O trio elétrico ou similar estacionado poderá ser utilizado exclusivamente para sonorização 
+durante o período máximo de 1 (uma) hora durante a fase de concentração do bloco e 1 (uma) hora 
+durante a fase de dispersão. 
+7.6 É recomendável que o veículo possua extintores de incêndio nas áreas do palco e nos 
+compartimentos que abrigam os geradores de energia e aparelhos de sonorização. 
+7.6.1 É recomendável que cada nível do veículo possua, no mínimo, um extintor tipo ABC, com 
+capacidade extintora mínima 2-A;20-BC. 
+7.6.2 Caso haja o grupo gerador de energia recomenda-se que esteja disponível um extintor tipo 
+ABC, com capacidade extintora mínima de 3-A;40-B:C.  
+7.7 Na parte superior do veículo, destinada à ocupação humana, é recomendável: 
+a) A existência de barreiras nas partes laterais, anterior e posterior do trio elétrico, que impeçam a 
+queda de pessoas, com altura mínima de 92 cm. Preferencialmente, as distâncias entre longarinas 
+não devem ultrapassar 15 cm; 
+b) Sinalização visível com indicação da população máxima, observando-se a capacidade de 
+escoamento oferecida pela saída disponível. 
+7.8 Durante todo o deslocamento do trio elétrico e similares, deverá ser guardada distância mínima 
+de 1 (um) metro entre o veículo e a equipe de isolamento, conforme figura A.5. 
+7.8.1 Deve haver 1 (um) membro da equipe a cada 2 (dois) metros no cordão de isolamento, 
+obedecendo à Equação 7.8.1: 
+ 
+Equação 7.8.1: Cálculo de número de pessoas em cordão de isolamento 
+ 
+𝐏 
+𝐍𝐏 =  
+𝟐
+
+--- PÁGINA 10 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+10/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+Onde: 
+NP – Número pessoas na equipe de isolamento; 
+P – Perímetro (em metros). 
+ 
+7.8.2 A equipe de isolamento deve ser composta por pessoal especificamente contratado para esse 
+fim, ou por membros da organização do bloco designados formalmente e devidamente orientados, 
+sendo expressamente vedada a composição por foliões/participantes. 
+7.8.3 A equipe de isolamento e os organizadores do bloco carnavalesco/manifestação cultural 
+devem estar devidamente identificados, de modo que seja possível diferenciar seus integrantes do 
+público de foliões/participantes. A identificação poderá ocorrer por uniforme ou elemento de 
+vestuário que permita essa clara distinção. 
+7.8.4 O isolamento será feito por cordas que atendam às seguintes características: 
+a) Abrangência de todo o perímetro em volta dos veículos; 
+b) Material de composição com resistência mecânica condizente com os esforços aos quais serão 
+submetidos. 
+7.9 É recomendado que os materiais utilizados na ornamentação e coberturas dos trios elétricos ou 
+similares possuam características não propagantes de fogo. 
+7.10 É recomendado que os trios elétricos e similares possuam gradil de proteção nas rodas 
+traseiras, tanto do cavalo mecânico quanto do reboque ou semirreboque, conforme figura A.6. 
+ 
+8 GENERALIDADES 
+8.1 Não serão permitidos a concentração, deslocamento e dispersão de blocos/manifestações nos 
+seguintes locais, considerados como de risco: 
+8.1.1 Áreas hospitalares, todo perímetro e vias de acesso imediato; 
+8.1.2 Áreas de segurança pública, impedindo a movimentação de veículos de urgência e 
+emergência; 
+8.1.3 Áreas de risco hidrológico (sujeitas a inundações, enxurradas e/ou alagamentos); 
+8.1.4 No interior de túneis ou locais com deficiência de ventilação; 
+ 
+8.1.5 Sobre pontes e/ou viadutos; 
+8.1.6 Nas marginais de córregos, rios, lagos e lagoas, onde haja risco de queda de altura; 
+8.1.7 Em logradouros em desnível, onde haja risco de queda de altura; 
+8.1.8 Áreas no entorno de rodoviárias, impedindo a movimentação de veículos de transporte de 
+pessoas; 
+8.1.9 Sobre ferrovias;
+
+--- PÁGINA 11 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+11/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+8.1.10 Dentro de postos de combustíveis; 
+8.1.11 Áreas de risco geológico (sujeitas a movimentos de massa/deslizamento); 
+8.2 
+A Unidade/Fração responsável pela área de ocorrência dos blocos/manifestações poderá 
+autorizar a utilização de tais áreas, desde que garantidas a adoção de medidas que minimizem os 
+riscos de acidentes ou a interferência em direitos constitucionais das demais pessoas. 
+8.3 
+Para a minimização de risco de quedas de alturas, deve ser adotada no mínimo proteção física 
+com afastamento de 2 (dois) metros da margem e altura mínima de 1,05 metros, conforme indicado 
+na  figura A.1.  
+8.4 
+São recomendadas medidas como controle de público, avaliação climática, garantia de faixa 
+para deslocamento de veículos de emergência, dentre outras. 
+8.5 As áreas de concentração e/ou dispersão dos blocos devem permitir acesso do público por no 
+mínimo duas vias de acesso distintas, não sendo permitido ocorrer em logradouros sem saída. 
+8.6 Recomenda-se que, durante o deslocamento dos blocos/manifestações, existam vias paralelas 
+desobstruídas, com manutenção de corredor de acesso para veículos de urgência e de intervenção 
+no caso de utilização de vias principais ou permitindo acessos laterais em vias secundárias, 
+conforme indicado nas figuras A.2 e A.3. 
+8.7 O trajeto dos blocos/manifestações culturais deve contemplar vias de acesso laterais, 
+perpendiculares ou transversais ao trajeto principal, para viabilizar o escoamento seguro do público 
+em situação de emergência, pânico ou grande aglomeração que implique risco à integridade dos 
+foliões/participantes. 
+8.7.1 A distância entre qualquer ponto do trajeto do bloco/manifestação cultural e a via de acesso 
+lateral mais próxima não deve ultrapassar 120 metros, visando a segurança do público e a 
+efetividade do escoamento em situação de emergência ou pânico. 
+8.7.2 Nos casos em que não seja possível a adequação do trajeto para atendimento da distância 
+disposta no item 8.7.1, deverá ser realizada criteriosa avaliação de risco pelos órgãos públicos 
+competentes, a fim de verificar a viabilidade de realização do bloco/manifestação cultural no local 
+previamente indicado, considerando a atração artística a se apresentar. Caso se conclua pela 
+inexistência de condições seguras para a atividade, deverá ser definido outro local que atenda às 
+prescrições desta Instrução Técnica. 
+8.8 É proibida a utilização de serpentinas metalizadas destinadas a festejos e de produtos similares 
+que possam representar perigo de acidentes envolvendo energia elétrica, conforme Lei Estadual n. 
+20.374/12. 
+8.9 Mastros, bandeiras e similares poderão ser utilizados, desde que mantenha a distância mínima 
+de 1,50 m de qualquer fiação. 
+8.10 É proibido o lançamento de qualquer material próximo à rede elétrica, sendo, portanto, vedada 
+a utilização de itens como “bola show”, canhões de papel, entre outros, (ver figura A.7). 
+8.11 Recomenda-se que seja tratada junto ao órgão municipal a viabilidade de contratação de 
+brigadistas e ambulâncias, ao passo que o CBMMG avaliará a possibilidade e conveniência de
+
+--- PÁGINA 12 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+12/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+apoiar na coordenação das equipes de brigadistas. 
+8.11.1 A eventual contratação de brigadistas profissionais ou de empresas especializadas na 
+prestação deste serviço deverá observar as exigências de credenciamento e demais requisitos 
+estabelecidos nas normativas vigentes do CBMMG. 
+8.12 Caso haja cilindros pressurizados, como, por exemplo, os de gás carbônico para efeitos 
+especiais (“show de fumaça”), recomenda-se que estes sejam mantidos presos, de forma que, em 
+caso de vazamento, não causem acidentes. 
+8.13 O veículo de som deverá respeitar a distância de 1,50 m (um metro e cinquenta centímetros) 
+para qualquer fiação a partir do ponto mais alto da estrutura do veículo, incluindo equipamentos, 
+ornamentação e até pessoas, quando existir previsão de público na parte superior. 
+8.13.1 Quando for constatada a incompatibilidade entre o veículo de som e as condições da via, 
+deverão ser adotadas as seguintes providências: 
+a) remover qualquer elemento da estrutura do veículo, ou instalado em sua parte superior (como 
+cobertura, caixas de som, entre outros), que ofereça risco de contato ou colisão com a fiação; 
+b) interromper a execução de música e determinar que todas as pessoas posicionadas na parte 
+superior do veículo desembarquem, podendo retornar apenas após o veículo ultrapassar o 
+obstáculo. 
+8.13.2 Se a situação não puder ser solucionada conforme as alíneas de 8.13.1, o deslocamento do 
+veículo de som deverá ser interrompido e iniciada sua dispersão, conforme disposto no item 7.5.2. 
+8.14 Não haverá vistoria para fins de licenciamento. 
+8.15 Não há necessidade de aguardar avaliação do CBMMG para início das atividades do 
+bloco/manifestação cultural. 
+ 
+9 PROCEDIMENTOS DE FISCALIZAÇÃO 
+9.1 As vistorias de fiscalização em blocos carnavalescos e demais manifestações culturais em vias 
+públicas, quando realizadas, tem intuito de minimizar os riscos aos foliões/participantes e às demais 
+pessoas, permitindo a verificação do atendimento desta norma, bem como, quando necessário, a 
+adoção de medidas corretivas pelos responsáveis. 
+9.2 Em caso de fiscalização nos blocos carnavalescos ou em outros tipos de manifestações 
+culturais em vias públicas, serão consideradas condições de fundamentação de risco iminente para 
+a interdição: 
+9.2.1 Constatação das condições de risco previstas no item 8.1, exceto no caso de autorização pela 
+Unidade/Fração do CBMMG, conforme previsto no item 8.2. 
+9.2.2 Identificação de risco aos foliões e integrantes dos blocos conforme item 7.2 em razão das 
+dimensões, condições mecânicas, características de deslocamento e compatibilidade dos veículos 
+com as vias. 
+9.2.3 Ausência da equipe de isolamento para trios elétricos e similares, conforme item 7.8 e 
+subitens.
+
+--- PÁGINA 13 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+13/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+9.2.4 Descaracterização da condição de “bloco carnavalesco” ou manifestação cultural em vias 
+públicas pelo não atendimento ao previsto no item 2.1 desta norma, ocasião em que deverá ser 
+observado o previsto na Instrução Técnica 33 (Eventos Temporários). 
+9.3 A interdição prevista no item 9.2 limita-se ao local ou à condição/elemento de risco, não 
+interferindo no direito constitucional de reunião.
+
+--- PÁGINA 14 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+14/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+ANEXO A 
+ 
+Figuras ilustrativas 
+ 
+ 
+Figura A.1 – Via de acesso em marginais 
+ 
+ 
+ 
+Figura A.2 – Via principal
+
+--- PÁGINA 15 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+15/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+ 
+ 
+ 
+Figura A.3 – Via secundária 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura A.4 – Veículo do tipo pranchão/”trem elétrico”1 
+ 
+                                               
+1 Fonte: https://www.facebook.com/photo/?fbid=2476159885805213&set=pcb.2476159909138544
+
+--- PÁGINA 16 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+16/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+ 
+ 
+Figura A.5 –  Distâncias entre os membros da equipe de isolamento e o trio elétrico (fora de 
+escala). 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura A.6 – Gradil de proteção nas rodas do trio elétrico2 
+ 
+ 
+ 
+                                               
+2 Fonte:https://arede.info/ponta-grossa/135201/trio-eletrico-canibal-sera-atracao-do-desfile-de-abertura-damunchen?d=1
+
+--- PÁGINA 17 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+17/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+ 
+ 
+Figura A.7 – Bola show3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                               
+3 Fonte: https://www.baloesecia.com.br/bola-show
+
+--- PÁGINA 18 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+18/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+ANEXO B – GERENCIAMENTO DE RISCOS 
+B.1 Objetivo 
+Fornecer orientações técnicas para o gerenciamento dos riscos durante as fases de concentração, 
+deslocamento e dispersão de blocos carnavalescos e outras manifestações culturais em vias 
+públicas, com vistas à prevenção de situações de pânico, acidentes e incidentes decorrentes de 
+grandes aglomerações. 
+B.2 Aplicação 
+Aplica-se aos blocos de carnaval e manifestações culturais tratadas nesta Instrução Técnica, servindo 
+de referência para o planejamento interinstitucional e às ações dos organizadores, órgãos municipais 
+e do Corpo de Bombeiros Militar de Minas Gerais (CBMMG). 
+B.3 Diretrizes gerais 
+O gerenciamento de riscos deve acontecer de forma integrada entre os órgãos de segurança, trânsito, 
+saúde, limpeza urbana e organizadores dos blocos de carnaval/manifestações culturais, 
+contemplando: 
+a) estimativa realista de público, com base em dados históricos, divulgação e capacidade das vias; 
+b) definição de áreas de escape e rotas alternativas; 
+c) monitoramento contínuo do comportamento do público; 
+d) planejamento da comunicação com o público, para informações e dispersão ordenada em caso de 
+emergência; 
+e) coordenação das fases do bloco/manifestação cultural (concentração, deslocamento e dispersão), 
+de modo a evitar sobreposição de trajetos ou gargalos no deslocamento. 
+B.4 Fase de Planejamento 
+O planejamento do bloco/manifestação cultural deve ser efetivo e voltado, sobretudo, para a 
+prevenção de sinistros, através de identificação, controle e eliminação dos riscos existentes. Especial 
+atenção deve ser dada ao gerenciamento de público, que consiste no conjunto de ações de 
+planejamento, supervisão e controle sistemático do comportamento e do movimento de pessoas, de 
+modo a garantir a reunião e o deslocamento ordenado, prevenindo situações de risco, pânico, 
+superlotação e acidentes. 
+B.4.1 Fatores comportamentais e análise preditiva 
+B.4.1.1 O comportamento do público é um dos elementos determinantes para o sucesso do 
+gerenciamento de risco envolvendo grandes multidões. Em aglomerações, reações individuais podem 
+gerar efeitos coletivos e, em determinadas situações, causar pânico, tumulto ou superlotação. 
+B.4.1.2 Pequenas ações não autorizadas — como o acesso de pessoas por passagens bloqueadas 
+— podem induzir comportamentos de massa, resultando em acúmulo de público em áreas críticas e 
+aumento do risco de acidentes. 
+B.4.1.3 Deve-se considerar o perfil do público no planejamento (faixa etária predominante, presença 
+de pessoas com deficiência, rivalidade entre grupos, consumo de bebida alcoólica, etc.), uma vez que
+
+--- PÁGINA 19 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+19/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+essas variáveis influenciam a propensão a comportamentos de risco e afetam o dimensionamento de 
+equipes de segurança e infraestrutura. 
+B.4.1.4 Pessoas não familiarizadas com o local necessitam de maior orientação e tendem a seguir o 
+fluxo da multidão; grupos familiares ou de amigos se deslocam e evacuam em conjunto, o que 
+aumenta o tempo de reação em emergências. 
+B.4.2 Influência da informação e planejamento da comunicação 
+B.4.2.1 Nos momentos iniciais de uma emergência, o comportamento do público tende a ser 
+influenciado por indivíduos que aparentam conhecimento da situação, o que reforça a necessidade 
+de o organizador e suas equipes estarem preparados para orientar o público de forma segura. 
+B.4.2.2 A ausência de informações claras compromete a tomada de decisão das pessoas, podendo 
+gerar reações individuais e desordenadas. Assim, é essencial que o público receba informações 
+visuais e sonoras adequadas — por meio de sistemas de som, sinalização, telões, profissionais 
+identificados, entre outros — garantindo a orientação e o movimento ordenado em situações normais 
+e emergenciais. 
+B.4.2.3 No planejamento, deve ser definido um plano de comunicação com mensagens padronizadas 
+para orientar o público em situações de rotina e de emergência, incluindo uso do sistema de som, 
+pontos de informação, sinalização de rotas de fuga e profissionais identificados para orientação. 
+B.4.3 Aspectos psicológicos e sociais 
+B.4.3.1 O estado emocional e psicológico do público — como rivalidade, histeria, agressividade, 
+excitação ou insatisfação — influencia diretamente seu comportamento e pode provocar movimentos 
+indesejáveis e aumento repentino da densidade em determinadas áreas. 
+B.4.3.2 A visibilidade e a busca por melhor posição para assistir ao desfile tendem a concentrar 
+público em pontos específicos (próximos a trios elétricos, palcos e atrações), devendo o trajeto e as 
+zonas de atração serem planejados para reduzir pontos de pressão. 
+B.4.3.3 No planejamento, devem ser previstos pontos de observação e comando, equipe de 
+orientação ao público, sinalização reforçada e dispersão da sonorização (caixas de som ao longo das 
+vias, quando recomendadas) para favorecer a distribuição do público. 
+B.4.4 Densidade de público: parâmetros para planejamento e limites operacionais 
+B.4.4.1 A densidade de público é o principal parâmetro para avaliar o risco de acidentes em 
+aglomerações. À medida que a densidade aumenta, reduz-se a liberdade de movimento e cresce o 
+potencial de compressão e asfixia. 
+B.4.4.2 Para fins de planejamento, deve-se observar o limite de 4 pessoas por m² em áreas de 
+concentração, dispersão e fluxo contínuo nas vias de deslocamento. Em adição, os seguintes 
+parâmetros devem orientar a avaliação de risco: 
+Densidade aproximada 
+Situação observada 
+Risco associado 
+3 a 4 pessoas/m² 
+Mobilidade razoável 
+Controle possível 
+5 pessoas/m² 
+Mobilidade reduzida 
+Necessário monitoramento 
+6 a 7 pessoas/m² 
+Movimento involuntário 
+Risco de onda de movimento 
+8 pessoas/m² 
+Compressão torácica 
+Risco de morte por asfixia
+
+--- PÁGINA 20 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+20/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+B.4.4.3 Em densidades críticas (a partir de 6 pessoas/m²), a multidão passa a se comportar como um 
+fluido, e as ondas de movimento podem levantar e deslocar indivíduos por vários metros. Nessa 
+condição, a perda de controle individual é total, o que demanda a avaliação quanto à necessidade de 
+interrupção do bloco de carnaval ou da manifestação cultural, conforme B.5.3.  
+B.4.5 Levantamento e análise de risco 
+B.4.5.1 Avaliar previamente as características físicas das vias (largura, acessos laterais, obstáculos, 
+redes aéreas, topografia). 
+B.4.5.2 Identificar pontos críticos: estreitamentos, aclives, áreas sujeitas a alagamento ou desnível 
+(vide item 8.1 desta IT). 
+B.4.5.3 Considerar a previsão meteorológica e a vulnerabilidade do local a chuvas intensas. 
+B.4.5.4 Considerar o período (diurno e/ou noturno) e o tempo de duração do bloco/manifestação 
+cultural. 
+B.4.5.5 Garantir que o trajeto esteja em conformidade com o item 8.7 desta IT, com distância máxima 
+de 120 m até via de escape lateral. 
+B.4.5.6 Incluir na análise de risco a identificação de locais com maior propensão a concentração por 
+fatores sociais/psicológicos (zonas de melhor visibilidade, proximidade de bares e sanitários, pontos 
+de atração sonora), e prever medidas mitigadoras (redistribuição sonora, rotas alternativas, barreiras 
+controladas). 
+B.4.6 Estimativa e dimensionamento do público 
+B.4.6.1 A estimativa deve observar o histórico do bloco/manifestação cultural e a projeção de público 
+informada no Infoscip.  
+B.4.6.2 Deve-se observar o limite de 4 pessoas por m² em áreas de concentração, dispersão e fluxo 
+contínuo nas vias de deslocamento.  
+B.4.6.3 Deve ser considerado o perfil do público, como a faixa etária predominante, pessoas com 
+deficiência, rivalidade, consumo de bebida alcoólica, etc.  
+B.4.6.4 Se necessário, alterar o local de desfile ou ajustar o tamanho dos trajetos e áreas utilizadas 
+à capacidade prevista, evitando superlotação.  
+B.4.6.5 Em blocos de carnaval e em manifestações culturais com artistas de grande notoriedade, 
+recomenda-se a instalação de caixas de som ao longo das vias para melhorar a propagação sonora 
+e favorecer a distribuição do público, buscando-se evitar a extrapolação da densidade máxima 
+recomendada. 
+B.4.7 Planejamento operacional 
+B.4.7.1 Definir os horários de concentração, desfile e dispersão, de forma escalonada, evitando 
+conflito com outros blocos de carnaval ou manifestações culturais.  
+B.4.7.2 Avaliar a circunvizinhança - espaço para dispersão de público, tráfego de veículos, etc.  
+B.4.7.3 Planejar pontos de observação e comando para acompanhamento do público.
+
+--- PÁGINA 21 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+21/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+B.4.7.4 Garantir vias de acesso livre para viaturas de emergência.  
+B.4.7.5 Verificar a presença de riscos ou elementos não permitidos - estruturas provisórias 
+(arquibancadas, palcos, camarotes, tendas), artifícios pirotécnicos, gás liquefeito de petróleo 
+(barraquinhas).  
+B.4.7.6 Verificar a capacidade de atendimento do município – existência de hospitais, equipes de 
+urgência e emergência, Corpo de Bombeiros Militar.  
+B.4.7.7 Definir, junto aos órgãos municipais, a possibilidade de contratação de brigadistas e 
+ambulâncias (vide item 8.11 da IT).  
+B.4.7.8 Realizar reunião preparatória com os órgãos envolvidos (CBMMG, PMMG, Prefeitura, Saúde, 
+Trânsito). 
+B.5 Fase de Execução / Operação 
+A mudança de comportamento do público deve ser monitorada continuamente pelas equipes de 
+segurança, com atenção especial a indicadores que demandam intervenção imediata. O conjunto de 
+ações operacionais visa identificar sinais precoces de risco e acionar medidas de controle, 
+comunicação e, quando necessário, interrupção ou evacuação. 
+B.5.1 Controle de fluxo e monitoramento operacional 
+B.5.1.1 Monitorar e avaliar o nível de densidade do público em tempo real, observando sinais de 
+compressão ou gargalo, utilizando pontos de observação, câmeras, patrulhamento a pé e relatórios 
+de campo. 
+B.5.1.2 Coordenar com o órgão de trânsito a interdição temporária de vias adjacentes, quando 
+necessário, para dispersão controlada. 
+B.5.1.3 Monitorar indicadores que demandam intervenção imediata, como:  
+a) Sinais de sofrimento ou mal-estar visível;  
+b) Movimentos indesejados, empurrões ou avanço desordenado;  
+c) Gritos, reclamações ou excitação anormal.  
+d) Esmagamento entre pessoas ou contra estruturas fixas;  
+e) Pisoteamento;  
+f) Correria desordenada e ondas de movimento;  
+B.5.1.4 Considerar, ainda, as situações típicas de perigo ao público durante a operação, entre elas:  
+a) Deslocamento em áreas íngremes ou de piso inadequado;  
+b) Interferência de veículos em áreas de pedestres;  
+c) Cruzamento de fluxos de pessoas em direção a instalações auxiliares como sanitários, por 
+exemplo.
+
+--- PÁGINA 22 ---
+CBMMG IT 39 – Blocos de Carnaval e Outras Manifestações Culturais em Vias Públicas 
+4ª edição 
+22/22 
+Aprovada pela Portaria n. 79, de 20dez2025, publicada no DOEMG n. 251, ano 133, p. 15. 
+ 
+B.5.2 Comunicação e orientação ao público 
+B.5.2.1 O sistema de som do bloco/manifestação cultural deve ser utilizado também para mensagens 
+de orientação e segurança, com mensagens claras e repetidas sobre rotas de saída e comportamento 
+esperado em emergência. 
+B.5.2.2 Em caso de emergência, indicar ao público as vias mais próximas que sirvam como rotas de 
+saída e pontos seguros. 
+B.5.2.3 Recomenda-se manter canal direto de comunicação entre o organizador e as forças públicas. 
+B.5.2.4 Em caso de chuva intensa, ventos fortes ou risco elétrico, orientar a suspensão temporária 
+da atividade. 
+B.5.3 Condições para interrupção do bloco de carnaval ou manifestação cultural 
+B.5.3.1 Caso se verifique risco de pânico, queda ou tumulto, avaliar a necessidade de interromper o 
+som e orientar a evacuação gradual pelas vias laterais. 
+B.5.3.2 O risco de pânico, queda ou tumulto será caracterizado quando a densidade de público aferida 
+for igual ou maior do que 6 pessoas por m². 
+B.5.3.3 Ao decidir pela interrupção, coordenar com órgãos de trânsito e segurança para abrir rotas 
+laterais, suspender movimentação de trios elétricos/estruturas móveis e orientar o público mediante 
+mensagens sonoras e equipes em campo. 
+B.6 Fase de Encerramento / Dispersão 
+B.6.1 Desmobilização organizada 
+B.6.1.1 Encerrar gradualmente a sonorização e a movimentação de trios elétricos. 
+B.6.1.2 Manter as equipes de isolamento até a completa dispersão do público. 
+B.6.1.3 Evitar que veículos ou equipamentos bloqueiem as vias de saída. 
+B.7 Comunicação entre órgãos 
+B.7.1 Recomenda-se a criação de um ponto focal de coordenação entre organizador, CBMMG, 
+PMMG, órgão de trânsito, defesa civil e outros órgãos municipais pertinentes. 
+B.7.2 Sempre que possível, utilizar grupos de comunicação em tempo real (rádio, aplicativo ou 
+sistema de monitoramento). 
+B.7.3 Em municípios com alto número de blocos de carnaval, recomenda-se a atuação integrada por 
+meio da Comissão de Monitoramento da Violência em Eventos Esportivos e Culturais (COMOVEEC) 
+ou comitês equivalentes. 
+B.8 Recomendações adicionais 
+B.8.1 Elaborar relatório pós-evento com indicadores de segurança e público estimado, subsidiando o 
+planejamento do próximo ciclo carnavalesco.

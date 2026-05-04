@@ -1,0 +1,4879 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA Nº 03 
+2ª edição 
+COMPOSIÇÃO DO PROCESSO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+(PSCIP) 
+Aprovada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+Alterada pela portaria n. 65, de 17jun2021, publicada no DOEMG n. 118, ano 129, p. 08.  
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+Alterada pela portaria n. 72, de 31ago2023, publicada no DOEMG n. 172, ano 131, p. 24. 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+SUMÁRIO 
+1 – Objetivo 
+2 – Aplicação 
+3 – Referências 
+4 – Definições 
+ 
+5 – Procedimentos 
+ANEXOS 
+A 
+– 
+Apresentação 
+das 
+medidas 
+de 
+segurança no projeto 
+B – Apresentação do risco e de situações 
+especiais no projeto 
+C – Documentos que compõem o PSCIP 
+D – Simbologia 
+E – Formulários e modelos
+
+--- PÁGINA 2 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+2 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+1 OBJETIVOS 
+1.1 Padronizar os documentos que compõem o Processo de Segurança Contra Incêndio e Pânico 
+(PSCIP) estabelecido pela Instrução Técnica nº 01 (IT 01) do Corpo de Bombeiros Militar de Minas 
+Gerais (CBMMG). 
+1.2 Especificar o conteúdo das plantas/pranchas para apresentação gráfica do processo de 
+segurança contra incêndio das edificações e espaços destinados ao uso coletivo. 
+1.3 Estabelecer os símbolos gráficos e a representação das medidas de segurança que compõem 
+as plantas/pranchas do PSCIP. 
+1.4 Descrever os tipos e modelos de documentos que complementarão o PSCIP. 
+2 APLICAÇÃO  
+2.1 Os documentos, modelos e símbolos gráficos constantes desta IT se aplicam aos PSCIPs no 
+âmbito do Serviço de Segurança Contra Incêndio e Pânico (SSCIP) do CBMMG. 
+2.2 Os documentos previstos nesta IT e os detalhes específicos existentes nas demais Instruções 
+Técnicas serão utilizados no PSCIP. Os modelos propostos são de utilização obrigatória, sendo 
+permitida a retirada de símbolos e brasões existentes. 
+3 REFERÊNCIAS NORMATIVAS  
+Para compreensão desta IT, recomenda-se consultar as seguintes normas, suas alterações ou 
+outras que vierem a complementá-las ou substituí-las:  
+3.1 Legislação 
+Lei Federal nº 13.425/2017 - Estabelece diretrizes gerais sobre medidas de prevenção e combate 
+a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de público. 
+Lei Estadual nº 14.130/2001 - Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual nº 47.998/2020 - Regulamenta a Lei nº 14.130/2001. 
+3.2 Normas 
+Instrução Técnica 01 - Procedimentos Administrativos, CBMMG. 
+Instrução Técnica 02 - Terminologia de Proteção Contra Incêndio e Pânico, CBMMG. 
+Instrução Técnica 06 - Segurança Estrutural das Edificações, CBMMG. 
+Instrução Técnica 11 - Plano de Intervenção de Incêndio, CBMMG. 
+Instrução Técnica 15 - Sinalização de Emergência, CBMMG. 
+Instrução Técnica 33 - Eventos Temporários, CBMMG. 
+Instrução Técnica 41 - Controle de Fumaça, CBMMG. 
+NBR 6492 - Representação de projetos de arquitetura.
+
+--- PÁGINA 3 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+3 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+NBR 10067 - Princípios gerais de representação em desenho técnico. 
+NBR 10897 - Sistema de proteção contra incêndio por chuveiros automáticos. 
+NBR 10898 - Sistema de iluminação de emergência. 
+NBR 14100 - Proteção contra incêndio – Símbolos gráficos para projeto. 
+NBR 14323 - Projeto de estruturas de aço e de estruturas mistas de aço e concreto de edifícios 
+em situação de incêndio. 
+NBR 14611 - Desenho técnico – representação simplificada em estruturas metálicas. 
+NBR 16752 – Desenho Técnico – Requisitos para apresentação em folhas de desenho. 
+NBR 17240 - Sistemas de detecção e alarme de incêndio – Projeto, instalação, comissionamento 
+e manutenção de sistemas de detecção e alarme de incêndio. 
+NR 13 - Caldeiras e vasos de pressão. 
+4 DEFINIÇÕES  
+Para efeito desta IT, aplicam-se as definições constantes da IT 02 (Terminologia de proteção 
+contra incêndio e pânico) do CBMMG, além das definições existentes nas demais Instruções 
+Técnicas e no Decreto Estadual nº 47.998/2020. 
+5 PROCEDIMENTOS 
+5.1 Composição do PSCIP 
+5.1.1 O PSCIP terá a seguinte composição: 
+a) informações relativas ao PSCIP nos campos específicos do Sistema de Informações do Serviço 
+de Segurança contra Incêndio e Pânico (Infoscip); 
+b) plantas, cortes, detalhes, diagramas e isométricos de representação das medidas de segurança 
+em formato DWG; 
+c) documentos no formato PDF, tais como: 
+c.1) documento de responsabilidade técnica emitido junto ao conselho profissional do responsável 
+pela elaboração e/ou pela execução do Projeto; 
+c.2) memoriais de cálculo obrigatórios, quando for o caso; 
+c.3) documentos complementares, quando for o caso; 
+c.4) quadro resumo de informações gerais ou de resultados obtidos nos cálculos de 
+dimensionamento dos sistemas, quando for o caso. 
+5.1.1.1 As informações relativas ao PSCIP nos campos próprios do Infoscip deverão atender às 
+especificações contidas nos manuais do usuário, disponíveis para consulta em portal eletrônico 
+através do endereço: http://www.prevencaobombeiros.mg.gov.br. 
+5.1.1.2 As plantas, cortes, detalhes, diagramas e isométricos de representação das medidas de 
+segurança deverão ser apresentados em um único arquivo DWG, com tamanho máximo de 60
+
+--- PÁGINA 4 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+4 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+(sessenta) Megabytes (MB).  
+5.1.1.3 O conjunto de arquivos PDF e DWG a serem lançados no Infoscip deverá possuir, no 
+máximo, 100 (cem) Megabytes (MB) para cada PSCIP. 
+5.2 Características do arquivo DWG 
+5.2.1 O arquivo DWG que contém as plantas, cortes, detalhes, diagramas e isométricos de 
+representação das medidas de segurança deverá possuir as seguintes características e 
+configurações: 
+a) apresentação de forma organizada na aba Model dos softwares de desenho assistido por 
+computador (CAD), sendo vedada a apresentação somente na aba Layout; 
+b) os desenhos das plantas, cortes, detalhes, diagramas e isométricos deverão seguir as diretrizes 
+de representação da NBR 6492, entretanto, o arquivo DWG não necessita seguir os formatos 
+padronizados de impressão; 
+c) A escala a ser utilizada nas plantas deve ser: 
+c.1) planta baixa, cortes e fachadas de 1/1 ou 1/100; 
+c.2) planta de localização de 1/1, 1/100, 1/200 ou 1/500; 
+c.3) planta de situação de 1/1000 ou 1/2000, se necessário. 
+Nota: É vedado o uso de escalas intermediárias como 1/50, 1/75, 1/125, 1/250, 1/750, etc. 
+d) as cotas devem ser apresentadas em metros ou em centímetros e estarem compatíveis com as 
+escalas utilizadas (à exceção dos diagramas, isométricos e cortes, que podem ser apresentados 
+sem escala, porém com cotas), sendo vedado o escalonamento do desenho, a fim de propiciar a 
+correta verificação dos distanciamentos e dimensões requeridas para as medidas de proteção 
+contra incêndio e pânico. 
+5.2.1.1 Na aba Model do CAD, não serão obrigatórias layers (camadas) distintas, entretanto o 
+seguinte padrão será exigido: 
+a) as medidas de segurança contra incêndio e pânico deverão estar na cor vermelha; 
+b) os detalhes da sinalização poderão estar nas cores correspondentes às definidas na IT 15 
+(Sinalização de Emergência); 
+c) as demais linhas representativas que não estejam relacionadas com as medidas de segurança 
+deverão estar na cor branca ou cinza. 
+5.2.1.2 A representação gráfica da edificação deverá se ater à apresentação dos elementos 
+construtivos (paredes, pisos, escadas, vigas, pilares, aberturas, shafts, entre outros), leiautes e 
+equipamentos/maquinários exclusivamente necessários para interpretação do analista e 
+vistoriador do CBMMG. 
+5.2.1.3 A representação em planta baixa e corte de equipamentos/maquinários que fazem parte 
+da atividade desenvolvida na ocupação deverá ser feita por formas geométricas básicas 
+acompanhadas das respectivas hachuras, notas e citações em legenda, com finalidade de ocupar 
+menos memória no arquivo. 
+5.2.2 O arquivo DWG deve manter um padrão de organização que subsidie as ações de análise e 
+vistoria, em conjunto de elementos simulando pranchas numeradas sequencialmente.
+
+--- PÁGINA 5 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+5 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+5.2.2.1 Na(s) primeira(s) prancha(s), serão representados: 
+a) quadro informativo das medidas de segurança, conforme Anexo E.2; 
+b) quadro de áreas com terminologia correspondente àquela adotada no título das plantas baixas; 
+c) detalhes executivos/de instalação das medidas de segurança, constando as dimensões e 
+demais características exigidas pela norma específica, necessárias à avaliação da conformidade 
+do projeto; 
+d) notas e informações relativas às medidas de segurança, quando for o caso ou quando for 
+solicitado pelo SSCIP; 
+e) localização e independência do sistema elétrico em relação à chave geral de energia da 
+edificação e espaços destinados ao uso coletivo sempre que a medida de segurança tiver seu 
+funcionamento baseado em motores elétricos; 
+f) legenda dos elementos de segurança contra incêndio e pânico e símbolos de sinalização de 
+emergência adotados no PSCIP; 
+Nota: Na legenda deverá constar apenas os elementos adotados no PSCIP em trâmite, previstos 
+nesta IT, em IT específica ou outras normas adotadas. 
+g) planta de situação da edificação, com escala, indicando as edificações circunvizinhas, a 
+natureza de suas ocupações e os logradouros que delimitam a quadra, observando-se as 
+distâncias de segurança estabelecidas na IT 23 entre locais de revenda de GLP e locais de 
+concentração de pessoas; 
+h) planta de implantação de representação complementar, em escala, das edificações ou espaços 
+destinados ao uso coletivo, sem necessidade de indicação das medidas de segurança, obrigatória 
+nas seguintes situações: 
+h.1) quando houver mais de uma edificação e espaço destinado ao uso coletivo a serem 
+representados; 
+h.2) quando houver uma única edificação e espaço destinado ao uso coletivo, cujas dimensões 
+não possam ser representadas em uma única planta ou que não seja possível evitar o 
+fracionamento da planta baixa das medidas de segurança; 
+Nota: Como não há necessidade de seguir formatos de impressão, o fracionamento de plantas 
+deve ser evitado. 
+h.3) quando houver separação entre edificações ou espaços destinados ao uso coletivo, com a 
+representação da distância de isolamento de risco, seja no mesmo PSCIP ou para fins de 
+condições de protocolo de PSCIP; 
+i) diagramas e isométricos relativos às medidas de segurança, quando for o caso; 
+j) cortes e fachadas, quando for o caso, constando as dimensões necessárias à avaliação da 
+conformidade do projeto; 
+k) Quadro de áreas cobertas não computadas, nos termos do item E.5.7 da IT 01. 
+5.2.2.2 Nas demais pranchas, serão representadas as plantas baixas com a localização das 
+medidas de segurança, riscos especiais e situações especiais pertinentes ao PSCIP, que deverão 
+atender às seguintes características:
+
+--- PÁGINA 6 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+6 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+a) localização das medidas de segurança, riscos especiais e elementos de segurança contra 
+incêndio e pânico conforme símbolos gráficos do Anexo D; 
+ 
+a.1) Caso não haja, no Anexo D, a simbologia referente ao equipamento ou sistema projetado, 
+devem ser utilizados os símbolos sugeridos pela NBR pertinente ou correlacionada ao tipo de 
+sistema, os quais deverão estar devidamente relacionados no quadro de legenda; 
+a.2) Na falta de simbologia apropriada, tanto na IT 03, quanto nas NBRs, poderá ser criada, pelo 
+Responsável Técnico (RT), simbologia referente ao equipamento ou sistema projetado, 
+observando-se critérios de simplicidade e facilidade de leitura e identificação, devendo os 
+símbolos criados serem relacionados no quadro de legenda, com a devida descrição; 
+b) as dimensões dos símbolos devem estar em escala proporcional à escala de desenho do 
+projeto, de modo a não dificultar a visualização; 
+c) nota em planta com a indicação dos equipamentos móveis ou fixos ou sistemas de segurança 
+constando a capacidade ou dimensão; 
+d) as medidas de segurança contra incêndio e pânico de uma edificação ou espaço destinado ao 
+uso coletivo devem ser apresentadas em conjunto na mesma planta; 
+d.1) a representação do sistema de chuveiros automáticos deve ser feita em planta separada, 
+porém em ordem numérica sequencial do projeto; 
+e) indicação do título de cada planta com terminologia correspondente àquela adotada no quadro 
+de áreas do PSCIP; 
+f) indicação da respectiva área representada sob o título de cada planta, em conformidade com o 
+quadro de áreas do PSCIP; 
+g) quando o projeto apresentar dificuldade para visualização das medidas de segurança alocadas 
+em um espaço da planta, devido à grande quantidade de elementos gráficos, devem ser feitas 
+linhas de chamada em círculos, com linhas pontilhadas com alocação dos símbolos exigidos; 
+h) cotas dos desníveis em planta baixa, quando for o caso, devendo ser expostas principalmente 
+junto aos locais com diferenças de nível, como degraus, escadas e rampas; 
+i) memória de cálculo de população e saídas de emergência ao lado das respectivas áreas 
+representadas; 
+j) para as ocupações do Grupo F, deverá ser apresentado o arranjo interno (leiaute). 
+5.2.2.3 O modelo ilustrativo da apresentação do conteúdo em formato DWG se encontra no Anexo 
+E.7. 
+5.2.3 Para as edificações construídas que possuam mais de 01 (um) condômino, poderá ser 
+apresentado projeto arquitetônico sem os arranjos físicos internos (leiaute) contendo as medidas 
+de segurança que atendam a toda a área da edificação.  
+5.2.4 Para edificações e espaços destinados ao uso coletivo, as plantas do projeto deverão conter 
+somente informações pertinentes ao Regulamento de Segurança Contra Incêndio e Pânico, 
+evitando-se dados em excesso, tais como mobiliário e outros objetos/equipamentos que não 
+interfiram no dimensionamento das saídas de emergência e na eficiência das demais medidas de 
+segurança.
+
+--- PÁGINA 7 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+7 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+5.3 Documentos em formato PDF 
+5.3.1 Os documentos em formato PDF para análise pelo SSCIP deverão ser apresentados no 
+Infoscip separadamente (cada documento em um arquivo próprio), conforme Anexo C. 
+5.3.2 Os documentos em PDF poderão conter mais de uma página caso necessário, mas o 
+conteúdo do arquivo não deve ser diferente da “descrição do documento” escolhida no Infoscip. 
+5.3.3 Os documentos de responsabilidade técnica, atestados, declarações e os demais que 
+necessitem de assinatura do proprietário e/ou do responsável pelo uso deverão ser assinados e 
+digitalizados com resolução apropriada para a legibilidade do documento. 
+5.3.3.1 Todos os documentos inseridos no PSCIP que não foram produzidos por seu Responsável 
+Técnico e necessitem de assinatura, deverão estar assinados para validade.  
+5.3.3.2 Os documentos com assinatura eletrônica deverão possuir meio de conferência da 
+autenticidade. 
+5.3.4 Os memoriais descritivos relativos às medidas de segurança deverão conter apenas as 
+características dos sistemas pertinentes à segurança contra incêndio e pânico. Compete ao 
+Responsável Técnico, dentro de sua esfera de responsabilidade, avaliar as normas técnicas e 
+condensar as principais informações de forma objetiva. 
+5.4 PSCIP de Eventos Temporários (PET) 
+5.4.1 Além das diretrizes gerais de apresentação e composição indicados na presente IT, o arquivo 
+DWG também deverá conter:  
+a) toda área utilizada pelo evento, com cotas de todos os perímetros, áreas e larguras das saídas 
+de emergência; 
+b) lotação da edificação e espaço destinado ao uso coletivo; 
+c) indicação de todas as dependências, espaços destinados ao uso coletivo, arquibancadas, 
+tendas, arenas, estruturas para controle de entrada e outras áreas destinadas à permanência de 
+público, instalações, equipamentos, brinquedos de parques de diversões, palcos, centrais de 
+gases inflamáveis e tudo o que for fisicamente instalado, respeitando escalas e cotas; 
+d) para espetáculos pirotécnicos: 
+d.1) croqui da área contendo cotas do perímetro; 
+d.2) distâncias de rede elétrica, estacionamento, edificações, local de concentração de público; 
+d.3) diâmetro dos fogos de artifício e seus principais efeitos sonoros e visuais; 
+e) nas áreas, regiões ou ambientes estabelecidos para concentração do público, nota em planta 
+com a lotação do ambiente e com a respectiva área foco destinada à população; 
+Nota: Deverá evidenciar a densidade máxima, conforme norma específica, e atentar que esta não 
+leva em conta simplesmente a área total, mas, sim, a área efetivamente destinada à presença de 
+público. 
+f) indicação das entradas e saídas do evento; 
+g) indicação dos mecanismos de controle de entrada de público;
+
+--- PÁGINA 8 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+8 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+h) indicação do posto médico, conforme norma específica; 
+i) indicação da área de localização e estacionamento de ambulâncias e veículos de emergência, 
+conforme norma específica; 
+j) informação, por meio de nota em planta, das características de resistência mecânica, resistência 
+ao fogo, resistência estrutural e natureza retardante de propagação de chamas de estruturas 
+provisórias (quando houver previsão). 
+5.4.2 Quando houver previsão de utilização de edificação permanente no evento temporário, 
+deverá constar em planta: 
+a) indicação do número do respectivo Auto de Vistoria do Corpo de Bombeiros (AVCB) da 
+edificação, por meio de nota em planta; 
+b) arranjo interno da edificação com as respectivas previsões de medidas de segurança 
+(existentes e/ou adicionais). 
+5.4.3 Quando a área do evento temporário contemplar edificação permanente sem previsão de 
+utilização, ou utilizada conforme IT 33, a informação deverá ser constada em planta por meio de 
+nota. Nessa situação, não há necessidade de representar o arranjo interno da área edificada, 
+podendo apenas constar o perímetro interno hachurado. 
+5.4.4 Deverão ser informados nos campos do Infoscip a data e horário de realização do evento 
+temporário, inclusive eventos itinerantes. 
+5.5 PSCIP de Shoppings Centers e Galerias Comerciais 
+5.5.1 Nos PSCIPs de C-2 e C-3 apresentados separados, além das diretrizes gerais de 
+apresentação e composição indicados na presente IT, o arquivo DWG também deverá abranger: 
+a) no PSCIP Geral da edificação: 
+a.1) serão apresentadas as áreas comuns, lojas satélites, áreas técnicas e as áreas hachuradas 
+prevendo futuras lojas âncoras; 
+Nota: As áreas das futuras lojas âncoras não deverão ser lançadas junto ao PSCIP geral para fins 
+de cobrança de taxa, devendo, contudo, serem consideradas na verificação das medidas de 
+segurança e seus parâmetros (tipo de sistema de hidrante, volume de RTI, etc.). 
+a.2) indicar a localização de todas as lojas, em planta chave, na forma de implantação, constando 
+numeração sequencial para identificação de cada loja; 
+a.3) não será necessária a projeção dos sistemas hidráulicos e demais medidas de segurança 
+para áreas hachuradas destinadas aos PSCIP das lojas âncoras; 
+b) no PSCIP das lojas âncoras: 
+b.1) constar a área total da loja;  
+b.2) projetar medidas de segurança;  
+b.3) constar o corredor de acesso da rota de fuga da área comum da edificação;  
+b.4) indicar a localização da loja âncora e seu pavimento, em planta chave, através de 
+implantação, constando sua numeração e demais estabelecimentos do pavimento com hachura e
+
+--- PÁGINA 9 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+9 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+numeração;  
+b.5) constar o resumo do dimensionamento das medidas de segurança, inclusive dos sistemas 
+hidráulicos. 
+5.6 PSCIP de edificações separadas em endereço comum 
+5.6.1 Para os casos de protocolo de PSCIP de edificações separadas, além das diretrizes gerais 
+de apresentação e composição indicados na presente IT, deverão ser apresentados: 
+a) planta-chave demonstrando a distribuição das edificações no terreno;  
+b) planta de situação;  
+c) memorial de cálculo de dimensionamento de isolamento de risco e informações previstas no 
+item A.2 do Anexo A desta IT. 
+5.7 PSCIP independentes para uma mesma edificação 
+5.7.1 Para os casos de protocolo de PSCIP independentes para uma mesma edificação, além das 
+diretrizes gerais de apresentação e composição indicados na presente IT, deverão ser 
+apresentados: 
+a) planta contendo a área total da edificação, podendo estar hachuradas as áreas não 
+compreendidas no PSCIP;  
+b) planta de situação; 
+c) caso alguma medida de segurança esteja instalada em área comum externa ao PSCIP em 
+questão (ponto de hidrante, por exemplo), deverão ser apresentadas todas as informações 
+pertinentes (exemplo: localização, comprimento da mangueira, RTI, etc.); 
+d) deverá ser apresentado laudo, devidamente acompanhado de documento de responsabilidade 
+técnica (ART/RRT), comprovando o atendimento ao item 6.1.3.2 da IT 01; 
+e) todas as medidas de segurança projetadas para a edificação deverão ser apresentadas no 
+PSCIP, devidamente acompanhadas de toda documentação necessária que comprove seu fiel 
+atendimento às normas de SCIP. 
+5.8 Documentos para solicitação de vistoria 
+5.8.1. Para fins de vistoria, deverão ser apresentados documentos de responsabilidade técnica, 
+emitidos junto aos conselhos profissionais, para as seguintes situações, observando-se a 
+competência de cada profissional e suas respectivas atribuições legais: 
+a) execução/instalação e/ou manutenção das medidas de segurança contra incêndio e pânico; 
+b) instalação e/ou de manutenção e ensaio de estanqueidade dos sistemas de utilização de gases 
+inflamáveis/ combustíveis; 
+c) instalação e/ou de manutenção do grupo gerador de energia, quando utilizado como fonte de 
+energia elétrica para medidas preventivas; 
+d) instalação e/ou manutenção do sistema de pressurização da escada de segurança; 
+e) instalação e/ou de manutenção do revestimento dos elementos estruturais protegidos contra o
+
+--- PÁGINA 10 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+10 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+fogo; 
+f) instalação e/ou de manutenção de vasos sob pressão para classe A ou B de fluídos prevista na 
+NR 13 (Caldeiras, vasos de pressão e tubulação); 
+g) instalação e/ou de manutenção do emprego de material de acabamento e revestimento; 
+h) elaboração do projeto estrutural; 
+i) declaração de responsabilidade pela execução do projeto estrutural; 
+j) outras. 
+5.8.1.1 Para a vistoria nos eventos temporários será necessária, ainda, a apresentação dos 
+documentos de responsabilidade técnica para as seguintes instalações/equipamentos, quando 
+necessário: 
+a) instalação elétrica; 
+b) resistência a chama de lonas e revestimentos em tecido; 
+c) montagem de arquibancadas; 
+d) arenas desmontáveis; 
+e) montagem de tendas, camarotes, dentre outras estruturas provisórias; 
+f) brinquedos de parques de diversão; 
+g) palcos/palanques de madeira e estrutura metálica; 
+h) grupo gerador de energia; 
+i) outras montagens eletroeletrônicas. 
+5.8.1.2 Fica dispensada a apresentação de documento de responsabilidade técnica de instalação 
+e/ou manutenção de extintores, sinalização e iluminação de emergência (exceto com alimentação 
+centralizada com baterias ou grupo gerador de energia). 
+5.8.1.3 Pode ser emitida um único documento de responsabilidade técnica, quando houver apenas 
+um Responsável Técnico pelas medidas de segurança contra incêndio e pânico instaladas. 
+5.8.1.4 Podem ser emitidos vários documentos de responsabilidade técnica desmembrados com 
+as respectivas responsabilidades por medidas específicas, quando houver mais de um 
+Responsável Técnico pelas medidas de segurança contra incêndio e pânico instaladas. 
+5.8.1.5 É obrigatória a assinatura do documento de responsabilidade técnica pelo contratante 
+(proprietário ou responsável pelo uso), e pelo Responsável Técnico. 
+5.8.1.5.1 O RRT que não possuir campo para assinatura do contratante fica dispensado da referida 
+exigência. 
+5.8.1.6 Devem ser especificados os serviços prestados no documento de responsabilidade técnica 
+em campo próprio do documento. 
+5.8.2 Além dos documentos de responsabilidade técnica, serão apresentados os seguintes
+
+--- PÁGINA 11 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+11 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+documentos para a vistoria, conforme a exigência de medida de segurança: 
+a) Atestado de Formação de Brigada de Incêndio realizada em Centro de Formação (Anexo 
+E.6.1); 
+b) Atestado de Formação de Brigada de Incêndio realizada na própria edificação ou espaço 
+destinado ao uso coletivo (Anexo E.6.2); 
+c) Atestado de Composição de Brigada de Incêndio para evento temporário (Anexo E.6.3); 
+d) Atestado de Abrangência do Grupo Gerador de Energia, sempre quando for utilizado como 
+fonte de energia elétrica para medidas preventivas (Anexo E.6.4); 
+e) Declaração de conformidade do dimensionamento estrutural em relação às Normas Brasileiras 
+e IT 06 do CBMMG (Anexo E.6.5); 
+f) Declaração do Responsável Técnico pela conformidade da execução da segurança estrutural 
+(Anexo E.6.6); 
+g) Declaração de Responsabilidade Técnica pela Execução do Controle de Materiais de 
+Acabamento e Revestimento (CMAR), exceto para materiais incombustíveis (Anexo E.6.7); 
+h) Autorização ou protocolo de documentação da Delegacia especializada de Armas, Munições e 
+Explosivos (DEMAE). 
+6 DISPOSIÇÕES FINAIS 
+6.1 O login e senha de acesso no Infoscip serão considerados como assinatura do Responsável 
+Técnico nas plantas, memoriais e quadros resumos do PSCIP. 
+6.1.1 Os documentos inseridos por meio de senha estão dispensados de assinatura, observado o 
+item 5.3.3.  
+6.2 Caso haja mais de um Responsável Técnico envolvido no PSCIP (engenheiro civil, arquiteto, 
+engenheiro de automação, técnico eletricista, entre outros), cada um deve emitir seu respectivo 
+documento de responsabilidade técnica para ser incluído no Infoscip. 
+6.3 Os documentos assinados digitalmente serão aceitos, desde que haja averiguação de 
+autenticidade disponível no documento. 
+6.4 Os PSCIPs que estiverem tramitando em formato impresso serão apresentados conforme 
+parâmetros desta IT e poderão aproveitar os modelos de formulários previstos no Anexo E.1. 
+6.5 Os casos omissos relativos aos procedimentos administrativos do Serviço de Segurança 
+Contra Incêndio e Pânico serão solucionados pelo Diretor de Atividades Técnicas.
+
+--- PÁGINA 12 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+12 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+ANEXO A 
+APRESENTAÇÃO DAS MEDIDAS DE SEGURANÇA NO PSCIP 
+A.1 Acesso de viaturas nas edificações e espaços destinados ao uso coletivo 
+A.1.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, a localização do registro de recalque quando o dispositivo for adotado 
+para fins de acesso de viaturas; 
+b) cotar, em planta, largura do portão de entrada e da via de acesso; 
+c) informar, por meio de nota em planta, o peso suportado pela pavimentação da via (Kgf); 
+d) informar, por meio de nota em planta, a altura mínima livre, quando for o caso. 
+A.2 Separação entre edificações 
+A.2.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) cotar, em planta de implantação, as distâncias entre as edificações e/ou espaços destinados ao 
+uso coletivo; 
+b) indicar, por meio de nota em planta de implantação, a ocupação das edificações e/ou espaços 
+destinados ao uso coletivo relativas à avaliação de isolamento;  
+c) apresentar as fachadas das edificações consideradas para o cálculo de isolamento de risco, 
+especificando a edificação expositora e a edificação em exposição; 
+d) cotar, em corte, a(s) abertura(s) nas fachadas relativas à avaliação de isolamento; 
+e) representar, em planta e por meio de notas e detalhes, parede corta-fogo de isolamento de 
+risco, quando for o caso. 
+A.2.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar memorial de cálculo de isolamento de risco para cada edificação envolvida na 
+demonstração da distância de separação, conforme Anexo E.4.4. 
+A.3 Segurança estrutural das edificações 
+A.3.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, os elementos construtivos protegidos com material resistente ao fogo, 
+indicando o respectivo tempo requerido de resistência ao fogo (TRRF); 
+b) informar, por meio de nota em planta ou na declaração prevista no Anexo E.6.5, os locais 
+isentos de TRRF, conforme instrução técnica específica, se for o caso. 
+A.3.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar memorial de segurança contra incêndio das estruturas, conforme Anexo E.4.2; 
+b) no ato de solicitação da vistoria, apresentar as declarações do(s) RT(s) de elaboração do projeto 
+e de execução de segurança estrutural, conforme Anexos E.6.5 e E.6.6.
+
+--- PÁGINA 13 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+13 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+A.4 Compartimentação horizontal e compartimentação vertical 
+A.4.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta baixa, as paredes de compartimentação horizontal com os respectivos 
+tempos de resistência ao fogo; 
+b) indicar, em corte, os elementos de compartimentação vertical, tanto construtivos, quanto os da 
+envoltória do edifício, com as respectivas indicações de TRRF e cotas entre aberturas; 
+c) cotar, em planta, os afastamentos de aberturas perpendiculares à parede corta-fogo de 
+compartimentação; 
+d) representar, em planta, os elementos de proteção das aberturas nos entrepisos e nas paredes 
+de compartimentação (portas corta-fogo, vedadores corta-fogo, selos-corta fogo, registros ou 
+dampers corta-fogo); 
+e) informar, por meio de nota em planta, os elementos de proteção das aberturas nos entrepisos 
+e nas paredes de compartimentação que não forem possíveis de serem representados em planta; 
+f) indicar, por meio de nota em planta e simbologia de legenda, o tempo de resistência ao fogo 
+dos elementos de compartimentação quando for o caso; 
+g) apresentar, ao lado da respectiva planta baixa, as áreas compartimentadas e o quadro de áreas 
+de compartimentação. 
+A.4.2 Informações que devem ser apresentadas em arquivo PDF. 
+a) no ato da análise, declaração de não colocação de materiais combustíveis ou fontes de ignição 
+nas varandas, sacadas e balcões da edificação, conforme Anexo E.6.9, quando aplicável. 
+A.5 Saídas de emergência 
+A.5.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) indicar, em planta, as rotas de fuga de cada pavimento ou espaço destinado ao uso coletivo por 
+meio da simbologia própria de início, meio (direção do fluxo) e fim da rota de fuga; 
+b) cotar, em planta, largura das escadas, rampas, acessos, portas, vãos e demais elementos que 
+correspondam ao fluxo de saída; 
+c) representar, em planta, barra antipânico, quando houver previsão; 
+d) representar, em planta, as antecâmaras de segurança, quando houver previsão; 
+e) representar, em planta, as portas corta-fogo, quando houver previsão; 
+f) representar, em planta, os elementos da escada de segurança (portas corta-fogo, paredes com 
+resistência ao fogo, janelas/aberturas de ventilação, dutos, entre outros, conforme o projeto 
+apresentado); 
+g) indicar, em planta, as dimensões das janelas/aberturas de ventilação com as respectivas 
+dimensões e área efetiva de ventilação; 
+h) representar, em planta, os elevadores de emergência, quando houver previsão;
+
+--- PÁGINA 14 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+14 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+i) apresentar, por meio de nota em planta ou memorial descritivo, características e elementos do 
+elevador de emergência, conforme normas específicas; 
+j) nas áreas de reunião de público, indicar, por meio de nota em planta, a lotação do ambiente e a 
+respectiva área foco destinada à população, individualizando a lotação por ambiente; 
+k) apresentar cálculo de população e saídas de emergência ao lado de cada planta baixa, junto 
+às respectivas áreas que estiverem sendo representadas; 
+k.1) nas áreas isentas de aplicação da norma específica de saídas de emergência, constar nota 
+em planta informando se tratar da respectiva isenção; 
+Nota: Quando a planta inteira for isenta, a informação deverá constar sob o título da respectiva 
+planta baixa. 
+k.2) em edificações mistas e em edificações com ocupações secundárias, deverão ser indicadas 
+as classificações de ocupação considerada para o ambiente na memória de cálculo; 
+l) apresentar detalhes de degraus; 
+m) apresentar detalhes de corrimãos; 
+n) apresentar detalhes de guarda-corpos; 
+o) no corte da edificação, representar ou indicar elementos da escada de saída de emergência. 
+A.6 Pressurização de escadas de segurança 
+A.6.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, a sala do grupo motoventilador; 
+b) indicar, em planta baixa e/ou corte, a localização do ponto de captação e escape do ar; 
+c) representar, em planta, os detectores de incêndio que compõem o sistema de pressurização; 
+d) representar, em planta, a central de detecção de incêndio; 
+e) representar, em planta, a fonte de energia alternativa do sistema; 
+f) indicar, em corte, as grelhas de insuflamento; 
+g) representar, em planta e em corte, o caminhamento dos dutos; 
+h) representar, em planta, o grupo gerador de energia, quando houver previsão; 
+i) representar, em planta, os acionadores manuais dos motoventiladores localizados na sala do 
+grupo motoventilador e no local de supervisão predial com permanência humana constante; 
+j) representar, em planta, elementos de compartimentação de risco (parede e porta corta-fogo) da 
+sala do grupo motoventilador; 
+k) representar, em planta, antecâmara de segurança e indicação da porta estanque quando a sala 
+do grupo motoventilador estiver localizada em local que possa causar risco de captação de fumaça 
+de um incêndio;
+
+--- PÁGINA 15 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+15 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+l) apresentação esquemática do sistema em corte. 
+A.6.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar quadro resumo de dimensionamento do sistema de pressurização, conforme Anexo 
+E.3.7; 
+b) no ato de solicitação de vistoria, apresentar Laudo de Comissionamento/ Inspeção do sistema 
+de pressurização de escadas (Anexo E.5.5). 
+A.7 Plano de intervenção de incêndio 
+A.7.1 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar planta de risco de incêndio, conforme Anexo E.8; 
+b) apresentar planilha de levantamento de dados e demais documentos exigidos pela norma 
+específica. 
+A.8 Brigada de incêndio 
+A.8.1 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar o quadro resumo de brigada de incêndio, conforme Anexo E.3.1; 
+b) no ato de solicitação da vistoria, apresentar as declarações de formação da brigada de incêndio, 
+conforme Anexo E.6.1, Anexo E.6.2 e Anexo E.6.3. 
+A.9 Sistema de iluminação de emergência 
+A.9.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) apresentar memorial descritivo com as características do sistema conforme normas específicas 
+(poderá ser apresentado na própria prancha, junto ao detalhe de instalação da iluminação de 
+emergência); 
+b) apresentar detalhe de instalação da iluminação de emergência com a respectiva altura de 
+instalação; 
+c) no memorial descritivo, identificar o tipo de sistema de iluminação de emergência conforme 
+norma específica; 
+d) quando o sistema for centralizado por grupo gerador de energia ou baterias recarregáveis, 
+deverá constar em memorial descritivo ou nota em planta a abrangência, autonomia e 
+características do sistema de automação; 
+e) representar os pontos de iluminação de emergência; 
+e.1) quando forem adotados pontos de iluminação com alturas de instalação distintas, poderão ser 
+indicadas as alturas específicas ao lado dos símbolos em planta; 
+e.2) em sistemas centralizados com baterias recarregáveis ou grupo gerador de energia, quando 
+a abrangência da iluminação de emergência contemplar todas as luminárias da edificação, não há 
+necessidade de representar os pontos de iluminação em planta; 
+Nota: Essa informação deverá ser esclarecida no Quadro Informativo de Medidas de Segurança.
+
+--- PÁGINA 16 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+16 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+e.3) em sistemas centralizados com baterias recarregáveis ou grupo gerador de energia, quando 
+a abrangência da iluminação de emergência não contemplar todas as luminárias da edificação, 
+deverão ser representadas, em planta, as luminárias a serem acionadas em caso de emergência; 
+f) em sistemas centralizados, representar, em planta, a central e fonte de energia alternativa do 
+sistema em local de fácil acesso e supervisão constante; 
+g) em sistemas centralizados com grupo gerador de energia, representar, em planta, o reservatório 
+de combustível e sua capacidade, bem como indicar, por nota, as dimensões do dique de 
+contenção; 
+h) representar, em planta, duto de entrada, duto de saída, parede corta-fogo e porta corta-fogo da 
+sala do grupo gerador, quando o mesmo estiver localizado em área com risco de captação de 
+fumaça ou gases quentes provenientes de um incêndio, bem como em detalhe ou nota em planta 
+da proteção dos dutos quando passarem por edificação ou espaço destinado ao uso coletivo. 
+A.9.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) atestado de abrangência do grupo gerador de energia, conforme Anexo E.6.4, no ato de 
+solicitação da vistoria. 
+A.10 Sistema de alarme e detecção de incêndio 
+A.10.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, os acionadores manuais de alarme de incêndio; 
+b) representar, em planta, os sinalizadores sonoros e visuais; 
+c) representar, em planta, a central do sistema em local de fácil acesso e supervisão constante; 
+d) representar, em planta, o painel repetidor, quando houver; 
+e) representar, em planta, a fonte alternativa de energia do sistema; 
+f) representar, em planta, os pontos de detecção automática. 
+A.10.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar memorial descritivo com as características do sistema conforme normas específicas, 
+constando, entre outras, as seguintes informações: 
+a.1) tipo de sistema de detecção e alarme; 
+a.2) fonte de alimentação e autonomia; 
+a.3) esquema de ligação e identificação dos dispositivos (isométrico); 
+a.4) especificação dos equipamentos e características; 
+a.5) quantidade, tipo de detectores e parâmetro para escolha; 
+a.6) número de acionadores manuais; 
+a.7) interligação com outros sistemas preventivos.
+
+--- PÁGINA 17 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+17 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+A.11 Sistema de sinalização de emergência 
+A.11.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar as sinalizações de emergência por meio dos símbolos de identificação 
+estabelecidos em norma específica; 
+Nota: Constar, na planta de detalhes, a dimensão mínima das placas de sinalização em milímetros 
+(mm). 
+b) apresentar legenda contendo todos os símbolos de sinalização adotados no PSCIP conforme 
+norma específica; 
+c) nos locais de reunião de público cujas atividades se desenvolvam em ambientes com 
+aclaramento prejudicado, representar as luminárias de balizamento com a indicação de saída; 
+d) na entrada principal da edificação ou espaço destinado ao uso coletivo, representar placa de 
+sinalização que indique as medidas de segurança existentes; 
+e) indicar, por meio de placa de sinalização representada em planta, a lotação do ambiente quando 
+se tratar de local de reunião de público (individualizando a lotação por ambiente destinado a 
+abrigar o público). 
+A.12 Sistema de proteção por extintores de incêndio 
+A.12.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, as unidades extintoras; 
+b) quando forem usadas unidades de extintores com capacidades diferentes de um mesmo 
+agente, deve ser indicada a capacidade ao lado de cada símbolo; 
+c) apresentar detalhe de instalação do extintor de incêndio; 
+c.1) quando a sinalização de equipamento for representada no detalhe de instalação de extintores, 
+não há necessidade de representar a sinalização do equipamento em planta baixa. 
+A.13 Sistema de hidrantes e mangotinhos para combate a incêndio 
+A.13.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, os hidrantes ou mangotinhos; 
+b) apresentar detalhes do abrigo e ponto de tomada d’água; 
+c) representar, em planta, as botoeiras de acionamento da bomba de incêndio; 
+d) representar, em planta, o dispositivo responsável pelo acionamento manual quando o sistema 
+de acionamento for automatizado, bem como, a localização do acionador manual alternativo da 
+bomba de incêndio em local de supervisão predial, e com permanência humana constante; 
+e) representar, em planta, o registro de recalque, e apresentar detalhe que mostre suas condições 
+de instalação; 
+f) representar, em planta, o reservatório de incêndio com seu respectivo volume, em metros 
+cúbicos (m3);
+
+--- PÁGINA 18 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+18 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+f.1) informar, por meio de nota em planta, o material de confecção do reservatório (concreto, fibra, 
+metálico, entre outros); 
+f.2) representar detalhe do poço de sucção; 
+g) representar, em planta, a localização da bomba de incêndio principal e jockey, quando houver, 
+com indicação de pressão, vazão e potência; 
+h) quando forem usadas mangueiras de incêndio e esguichos com comprimentos e requintes 
+diferentes, deve-se informar, por meio de nota em planta, as respectivas medidas ao lado do 
+símbolo do hidrante; 
+i) apresentar diagrama vertical ou perspectiva isométrica do sistema (sem necessidade de escala); 
+j) apresentar detalhe da sucção quando o reservatório for subterrâneo ou no nível do solo; 
+k) quando o sistema de abastecimento de água for através de fonte natural (lagoa, lago, açude, 
+etc.), representar sua localização em planta; 
+l) quando for utilizado o mesmo reservatório de consumo, distinguir, em corte, as diferentes saídas 
+existentes. 
+A.13.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar o quadro resumo do sistema de hidrantes e mangotinhos para combate a incêndio, 
+conforme Anexo E.3.2. 
+A.14 Sistema de Chuveiros automáticos 
+A.14.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, as bombas do sistema com indicação, em nota, legenda ou linha de 
+chamada, da pressão, vazão e potência; 
+b) informar área de aplicação dos chuveiros, por meio de hachura em planta, para os respectivos 
+riscos; 
+c) informar, por meio de nota em planta ou simbologia de legenda, os tipos de chuveiros 
+especificados; 
+d) representar, em planta, a localização dos cabeçotes de testes; 
+e) representar, em planta, localização das válvulas de governo e alarme (VGA) e dos comandos 
+secundários (CS); 
+e.1) informar, por meio de nota em planta, a área de cobertura das VGA ou CS; 
+f) representar, em planta, localização do painel de alarme; 
+g) cotar, em perspectiva isométrica ou diagrama, toda a tubulação abrangida pelo cálculo; 
+Nota: Toda a tubulação abrangida pelo cálculo deve ter seu diâmetro e comprimento cotado no 
+esquema isométrico ou diagrama. 
+h) apresentar perspectiva isométrica ou diagrama do sistema (sem necessidade de escala);
+
+--- PÁGINA 19 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+19 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+i) representar, em planta, os pontos de chuveiros automáticos em toda a edificação; 
+j) representar, em planta, o registro de recalque, e apresentar detalhe que mostre suas condições 
+de instalação; 
+k) representar, em planta, o dispositivo responsável pelo acionamento do sistema no barrilete, 
+bem como a localização do acionador manual alternativo da bomba de incêndio em local de 
+supervisão predial com permanência humana constante; 
+l) quando o sistema de abastecimento de água for através de fonte natural (lagoa, lago, açude, 
+etc.), representar sua localização em planta; 
+m) representar, em planta, o reservatório de incêndio com seu respectivo volume, em metros 
+cúbicos (m3); 
+m.1) informar, por meio de nota em planta, o material de confecção do reservatório (concreto, 
+fibra, metálico, entre outros) e sua capacidade de armazenamento. 
+A.14.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar o quadro resumo do sistema de chuveiros automáticos, conforme Anexo E.3.3. 
+A.15 Sistema de resfriamento para líquidos inflamáveis e gases inflamáveis e combustíveis 
+A.15.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, as instalações, tanques, cilindros ou esferas de GLP; 
+b) indicar, por meio de nota em planta, qual tanque é considerado o de maior risco para efeito de 
+cálculo; 
+c) indicar, por meio de nota em planta, os tanques considerados vizinhos ao tanque de maior risco; 
+d) informar, por meio de nota em planta, as taxas de vazão para o resfriamento do tanque em 
+chama e tanques vizinhos; 
+e) informar, por meio de nota em planta, as áreas dos costados e tetos dos tanques considerados 
+no cálculo hidráulico; 
+f) informar, por meio de nota em planta, a vazão e pressão das bombas de incêndio; 
+g) representar, em planta, o reservatório de incêndio; 
+g.1) informar, por meio de nota em planta, o material de confecção do reservatório (concreto, fibra, 
+metálico, entre outros) e sua capacidade de armazenamento, em metros cúbicos (m³); 
+h) representar, em planta, os canhões monitores, aspersores, bomba de incêndio e registro de 
+recalque; 
+i) apresentar perspectiva isométrica ou diagrama do sistema (sem necessidade de escala). 
+A.15.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar o quadro resumo referente a líquidos e gases inflamáveis e combustíveis, conforme 
+Anexo E.3.5.
+
+--- PÁGINA 20 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+20 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+A.16 Sistema de proteção por espuma 
+A.16.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, os esguichos lançadores ou proporcionadores e canhões monitores; 
+b) representar, em planta, os reservatórios do extrato formador de espuma (EFE); 
+c) indicar, por meio de nota em planta, as câmaras de espuma; 
+d) apresentar perspectiva isométrica ou diagrama do sistema (sem necessidade de escala); 
+e) indicar, por meio de nota em planta, o volume e forma de armazenagem do extrato formador de 
+espuma (EFE); 
+f) informar, por meio de nota em planta, a definição do maior risco a proteger. 
+A.16.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar o quadro resumo referente a líquidos e gases inflamáveis e combustíveis, conforme 
+Anexo E.3.5. 
+A.17 Sistema fixo de gases 
+A.17.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, a botoeira alternativa para acionamento do sistema fixo; 
+b) representar, em planta, a botoeira de desativação do sistema de gases; 
+c) representar, em planta, a central do sistema de detecção e alarme; 
+d representar, em planta, os detectores de incêndio do sistema fixo de gases; 
+e) representar, em planta, a localização da bateria de cilindros de gases; 
+f) informar, por meio de nota em planta, as áreas protegidas pelo sistema fixo de gases; 
+g) apresentar perspectiva isométrica do sistema (sem necessidade de escala). 
+A.17.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar o quadro resumo de sistema fixo de gases para combate a incêndio, conforme 
+Anexo E.3.4; 
+b) no ato de solicitação da vistoria, apresentar: 
+b.1) laudo de funcionamento do sistema fixo e respectivo documento de responsabilidade técnica; 
+b.2) laudo técnico do agente extintor (gás) que declare a não toxidade à saúde humana e a não 
+agressividade ao meio ambiente na concentração de projeto. 
+A.18 Controle de materiais de acabamento e revestimento 
+A.18.1 Elementos que devem ser apresentados em arquivo DWG:
+
+--- PÁGINA 21 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+21 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+a) caso utilize materiais retardantes, indicar por meio de nota em planta. 
+A.18.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar quadro resumo com indicação, localização e classificação dos materiais utilizados e 
+as respectivas normas de ensaio, conforme Anexo E.3.6; 
+b) no ato de solicitação da vistoria, apresentar Declaração de Responsabilidade Técnica pela 
+Execução do Controle de Materiais de Acabamento e Revestimento, conforme Anexo E.6.7; 
+c) caso utilize materiais retardantes, é necessário laudo com o respectivo documento de 
+responsabilidade técnica. 
+A.19 Controle de fumaça 
+A.19.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta e em corte específico do sistema, as entradas de ar (aberturas, grelhas, 
+venezianas e insuflação mecânica); 
+b) representar, em planta e em corte específico do sistema, exaustores naturais (entradas, 
+aberturas, grelhas, venezianas, claraboias e alçapões); 
+c) representar, em planta e em corte específico do sistema, exaustores mecânicos; 
+d) representar, em planta e em corte específico do sistema, dutos e peças especiais; 
+e) representar, em planta e em corte específico do sistema, registro corta-fogo e fumaça; 
+f) representar, em planta, pontos de acionamento alternativo do sistema; 
+g) representar, em planta, detectores de incêndio; 
+h) representar, em planta, central de alarme/detecção de incêndio; 
+i) representar, em planta, localização da casa de máquinas dos insufladores e exaustores; 
+j) representar, em planta, localização da fonte de alimentação, quadros e comandos; 
+k) indicar, em corte, dimensões em escala das barreiras de fumaça, altura de referência (H) e 
+altura da zona livre de fumaça (H’); 
+l) informar, por meio de nota em planta, distâncias dos exaustores em relação à divisa do terreno. 
+A.19.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar o quadro resumo de controle de fumaça, conforme Anexo E.3.8; 
+b) apresentar memorial de descrição da lógica de funcionamento do sistema, quando se tratar dos 
+sistemas tipo 2 e tipo 3.
+
+--- PÁGINA 22 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+22 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+ANEXO B 
+APRESENTAÇÃO DO RISCO E DE SITUAÇÕES ESPECIAIS NO PSCIP 
+B.1 Armazenamento de líquidos inflamáveis e combustíveis 
+B.1.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, tanques, instalações, cilindros ou esferas consideradas de maior risco 
+para elaboração dos cálculos; 
+b) cotar, em planta, afastamentos entre tanques, edificações, vias públicas, limites de 
+propriedades e dimensões das bacias de contenção; 
+c) representar, em planta, distribuição dos hidrantes, canhões monitores, aspersores, bomba de 
+incêndio, capacidade e localização da reserva de incêndio, registro de recalque e forma de 
+acionamento do sistema; 
+d) para cada tanque, apresentar quadro que contenha as seguintes informações: 
+d.1) indicação do tanque; 
+d.2) tipo do tanque (elevado, subterrâneo, vertical ou horizontal); 
+d.3) material de construção do tanque; 
+d.4) produto armazenado; 
+d.5) volume; 
+d.6) classificação do líquido inflamável/combustível conforme norma específica; 
+d.7) diâmetro e altura do tanque; 
+d.8) indicar tipo de superfície do tanque (teto flutuante ou fixo, quando for do tipo vertical); 
+e) informar, por meio de nota em planta, a pressão manométrica medida no topo do tanque para 
+que se possam utilizar as tabelas de afastamentos. 
+B.2 Locais de utilização de gás liquefeito de petróleo (central de GLP)  
+B.2.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) indicar, por meio de nota em planta, a capacidade dos cilindros, bem como da capacidade total 
+da central de GLP; 
+b) representar, em planta, localização da central de GLP; 
+c) cotar afastamentos das divisas de terrenos, áreas edificadas no mesmo lote e local de risco; 
+d) indicar, em planta, o afastamento de muretas, ralos, fontes de ignição e entradas de ar-
+condicionado e poços de ventilação, quando necessário; 
+e) representar, em planta, local de estacionamento do veículo abastecedor, quando o 
+abastecimento for a granel;
+
+--- PÁGINA 23 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+23 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+f) representar, em planta, local de instalação da linha líquida e tomada de abastecimento; 
+g) representar, em planta, medidas de segurança da central. 
+B.3 Manipulação, armazenamento e comercialização de GLP 
+B.3.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, área de instalação e armazenamento; 
+b) representar, em planta, corredores de inspeção, quando houver; 
+c) cotar, em planta, afastamentos das divisas de terrenos, áreas edificadas no mesmo lote e local 
+de risco; 
+d) informar, por meio de nota em planta, quantidade e capacidade dos recipientes; 
+e) representar, em planta, localização dos recipientes cheios e vazios; 
+f) informar, por meio de nota em planta, as distâncias de segurança; 
+g) informar, por meio de notas e/ou em planta de implantação, os afastamentos de segurança para 
+áreas de armazenamento de recipientes transportáveis de GLP em relação aos locais de 
+concentração de pessoas (aplicável para ocupações do Grupo F, supermercados, escolas e 
+hospitais, com capacidade superior a 200 (duzentas) pessoas, conforme normas específicas) e de 
+comercialização de fogos de artifício. 
+B.4 Comercialização, distribuição e utilização de gás natural 
+B.4.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, os compressores, estocagem e unidades de abastecimento de gás; 
+b) representar, em planta, local de estacionamento do veículo abastecedor quando o gás natural 
+for distribuído por este meio de transporte; 
+c) representar, em planta, o caminhamento da tubulação de distribuição do gás natural; 
+d) em postos que comercializem gás combustível comprimido, informar, por meio de nota em 
+planta, as distâncias mínimas de afastamentos previstos nas normas específicas. 
+B.5 Armazéns, depósitos, comércios e paióis de explosivos (fogos de artifício e explosivos 
+em geral) 
+B.5.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, disposição do imóvel e medidas de segurança contra incêndio e pânico; 
+b) apresentar croqui das edificações limítrofes (ocupação identificada), atendendo ao raio de 
+distanciamento definido em legislação específica; 
+c) indicar em planta área de circulação de público; 
+d) representar, em planta, disposição das prateleiras de estocagem e balcão de vendas; 
+e) informar, por meio de nota em planta, quantidade de carga pirotécnica armazenada.
+
+--- PÁGINA 24 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+24 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+B.6 Fabricação, comercialização de explosivos e fogos de artifício no atacado 
+B.6.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, disposição do imóvel e medidas de segurança contra incêndio e pânico; 
+b) cotar, em planta, distância entre as edificações no imóvel; 
+c) no caso de depósitos, apresentar detalhe com características das paredes, lajes de cobertura, 
+telhados, pisos, posicionamento das portas de saída de emergência, conforme norma específica. 
+B.7 Espetáculos pirotécnicos 
+B.7.1 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar croqui da área, contendo cotas do perímetro, distâncias de rede elétrica, 
+estacionamento, edificações, públicos e outros; 
+b) apresentar termo de responsabilidade (conforme norma específica), constando o endereço do 
+local onde ocorrerá o espetáculo, o horário, nome do Responsável Técnico ou do blaster, tipo e 
+quantidade de fogos de artifício empregados com descrição de cada artefato, com o efeito 
+desejável; 
+c) cópia do documento que comprove a capacidade técnica do Responsável Técnico ou blaster. 
+B.8 Heliponto, heliporto ou área de pouso e decolagem ocasional (APDO) 
+B.8.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, a sinalização do heliponto conforme previsto na IT 26 (Heliponto e 
+Heliporto); 
+b) representar, em planta, as medidas de segurança do heliponto; 
+c) informar, por meio de nota em planta, a capacidade de carga do heliponto. 
+B.9 Produtos perigosos 
+B.9.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) indicar, por meio de nota em planta, os produtos perigosos existentes; 
+b) informar, por meio de nota em planta, a forma de armazenamento dos produtos perigosos 
+previstos; 
+c) informar, por meio de nota em planta, volume ou massa de cada substância; 
+d) indicar a localização da guarita externa que abriga o(s) EPI para atuação em caso de 
+emergência. 
+B.9.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) apresentar memorial descritivo de produtos perigosos, conforme item C.4.6.
+
+--- PÁGINA 25 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+25 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+B.10 Cobertura de sapê, piaçava e similares 
+B.10.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) informar, por meio de notas e/ou em planta de implantação, os afastamentos dos limites do 
+terreno e de postos de abastecimento de combustíveis, gases inflamáveis, fogos de artifício ou 
+seus depósitos; 
+b) representar, em planta, localização de fogões, coifas e similares; 
+c) representar, em planta, localização da central de GLP, quando houver; 
+d) representar, em planta, o sistema de aspersão, quando houver; 
+e) informar o tipo de cobertura utilizada. 
+B.11 Túnel rodoviário 
+B.11.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, a interligação dos túneis paralelos, quando for o caso; 
+b) representar, em planta, o sistema de exaustão; 
+c) representar, em planta, as defensas das laterais do túnel; 
+d) apresentar detalhes de corrimãos; 
+e) representar, em planta, as áreas de refúgio, quando houver; 
+f) indicar, por meio de símbolo específico em planta, as rotas de fuga e as saídas de emergência; 
+g) informar, por meio de nota em planta, as medidas de segurança contra incêndio e pânico 
+adotadas; 
+h) indicar, em planta, o sistema de drenagem de líquidos e bacia de contenção; 
+i) indicar, em planta, o sistema de comunicação interna; 
+j) indicar, em planta, o sistema do circuito interno de televisão. 
+B.12 Pátio de contêineres 
+B.12.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) indicar, em planta, as áreas de segregação de cargas e respectivas proteções. 
+B.13 Subestações elétricas 
+B.13.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, as áreas destinadas aos reatores, transformadores, reguladores de 
+tensão, áreas de instalação de baterias, casa de compensadores síncronos, local de 
+armazenamento dos cilindros de hidrogênio e sala de controle; 
+b) informar, por meio de nota em planta, as vias de acesso a veículos de emergência;
+
+--- PÁGINA 26 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+26 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+c) representar, em planta, as paredes corta-fogo de isolamento de risco utilizadas no local; 
+d) indicar o sistema de contenção do líquido isolante, conforme norma específica; 
+e) representar, em planta, elementos de compartimentação e proteção de aberturas; 
+f) representar, em planta, os meios de proteção contra incêndio conforme norma específica; 
+g) representar em planta e apresentar detalhamento dos sistemas fixos automáticos para proteção 
+contra incêndios e sistema manual de resfriamento; 
+h) indicar, por meio de nota em planta, o volume do líquido isolante; 
+j) apresentar detalhamento do dispositivo de supressão de chama, conforme norma específica. 
+i) indicação do tipo de líquido isolante ou tipo de transformador conforme norma específica. 
+B.14 Cozinhas profissionais 
+B.14.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta, o caminhamento dos dutos de exaustão; 
+b) representar, em planta, o sistema fixo de extinção a ser instalado (quando for o caso); 
+c) representar, em planta, elementos de selagem; 
+d) informar, por meio de nota em planta, a classificação do equipamento de cocção conforme 
+norma específica; 
+e) informar, por meio de nota em planta, a proteção exigida conforme classificação dos 
+equipamentos de cocção conforme norma específica. 
+B.15 Instalações Fotovoltaicas 
+B.15.1 Elementos que devem ser apresentados em arquivo DWG: 
+a) representar, em planta ou em detalhe, os locais de instalação dos painéis fotovoltaicos; 
+b) representar, em planta, as áreas de instalação de baterias; 
+c) representar em planta e apresentar detalhamento do dispositivo de desligamento rápido do 
+sistema fotovoltaico; 
+d) representar em planta e apresentar detalhamento das sinalizações previstas na norma 
+específica. 
+B.15.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) laudo e documento de responsabilidade técnica do responsável técnico pela aplicação de 
+produto retardante e/ou intumescente em telhado/cobertura combustível. 
+B.16 Grupos geradores 
+B.16.1 Elementos que devem ser apresentados em arquivo DWG:
+
+--- PÁGINA 27 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+27 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+a) representar, em planta, o local de instalação do grupo gerador de energia; 
+b) representar, em planta, a localização e o volume do tanque de consumo diário empregado para 
+a alimentação de cada gerador; 
+c) representar os tanques de armazenamento de óleo diesel instalados em área externa, 
+apresentando suas características, atentando para o que prescreve a instrução técnica específica 
+e a NBR 17505; 
+d) representar, em planta, elementos de compartimentação de risco (parede e porta corta-fogo) 
+da sala do grupo gerador de energia, com seus respectivos tempos de resistência ao fogo; 
+e) indicar, em planta baixa e/ou corte, o ponto de captação do ar de ventilação da sala do grupo 
+gerador de energia; 
+f) representar, em planta e em corte, o caminhamento dos dutos de entrada e saída do ar, quando 
+for o caso, além de seus materiais de composição e tempos de resistência ao fogo; 
+g) indicar o sistema de contenção do líquido combustível, conforme instrução técnica específica; 
+h) representar o sistema de proteção e combate a incêndio, conforme instrução técnica específica. 
+B.16.2 Informações que devem ser apresentadas em arquivo PDF: 
+a) Atestado de Abrangência do Grupo Gerador de Energia, sempre quando for utilizado como fonte 
+de energia elétrica para medidas preventivas, conforme Anexo E.6.4, no ato de solicitação da 
+vistoria. 
+B.17 Riscos especiais diversos e situações especiais diversas 
+B.17.1 A critério do Responsável Técnico ou do SSCIP, riscos especiais diversos e situações 
+especiais diversas poderão ser apresentados em planta conforme especificidade de cada 
+edificação/espaço destinado ao uso coletivo. 
+B.17.2 Compete ao Responsável Técnico, dentro de sua esfera de responsabilidade, avaliar a 
+situação e condensar as principais informações relativas à segurança contra incêndio e pânico 
+para fins de apreciação por parte do SSCIP.
+
+--- PÁGINA 28 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+28 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+ANEXO C 
+DOCUMENTOS QUE COMPÕEM O PSCIP 
+C.1 Anotação de Responsabilidade Técnica (ART) ou Registro de Responsabilidade Técnica 
+(RRT) 
+C.1.1 Deverá ser apresentado(a) pelo Responsável Técnico que elaborou/executou o PSCIP, 
+habilitado para o exercício da atividade conforme Conselho competente. 
+Nota: No caso de elaboração de PSCIP, serviço que pode ser realizado remotamente, a ART 
+poderá ser registrada no Crea de outra unidade da federação. 
+C.1.1.1 Quando houver mais de um responsável técnico pelas medidas de segurança contra 
+incêndio e pânico projetadas e/ou instaladas, podem ser emitidos vários documentos de 
+responsabilidade técnica desmembrados, com as respectivas responsabilidades devidamente 
+identificadas. 
+C.1.2 Deverá ser apresentada a digitalização do documento original emitido pelo Conselho 
+competente. 
+C.1.3 Para preenchimento da ART/RRT, deverão ser observadas as seguintes orientações: 
+a) Para a ART: 
+a.1) Referente à elaboração de projeto do PSCIP: 
+a.1.1) No campo “Nível atividade”, anotar "2014-ELABORAÇÃO"; 
+a.1.2) No campo “Atividade profissional”, anotar "80-PROJETO" ou “82-PROJETO DE 
+INSTALAÇÕES”; 
+a.1.3) No Campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE 
+PREVENÇÃO E COMBATE A INCÊNDIO > 1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO 
+E PÂNICO;” 
+a.1.4) No campo “Observações”, poderão ser inseridas informações complementares para 
+detalhar as atividades descritas no campo “Atividade técnica”; 
+a.1.5) Os demais campos serão utilizados pelo Responsável Técnico para relacionar o documento 
+ao respectivo PSCIP. 
+a.2) Referente à execução de medidas de segurança do PSCIP: 
+a.2.1) No campo “Nível atividade”, anotar "2016-EXECUÇÃO"; 
+a.2.2) No campo “Atividade profissional”: 
+a.2.2.1) Se Engenheiro Civil, anotar "80-PROJETO" ou “82-PROJETO DE INSTALAÇÕES”; 
+a.2.2.2) Se Engenheiro Mecânico ou Engenheiro de Segurança do trabalho, anotar "80- 
+PROJETO" ou “82-PROJETO DE INSTALAÇÕES” ou “55-EXECUÇÃO DE SERVIÇO TÉCNICO”. 
+a.2.3) No campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE 
+PREVENÇÃO E COMBATE A INCÊNDIO > 1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO 
+E PÂNICO” e demais itens que julgar necessários para complementar a(s) atividade(s) técnica(s) 
+a ser(em) executada(s); 
+a.2.4) No campo “Observações”, poderão ser inseridas informações complementares para 
+detalhar as atividades descritas no campo “Atividade técnica”; 
+a.2.5) Os demais campos serão utilizados pelo Responsável Técnico para relacionar o documento 
+ao respectivo PSCIP. 
+a.3) Referente à confecção de Laudos de interesse do PSCIP (renovação de AVCB, teste de 
+estanqueidade, impossibilidade técnica, etc.), deverá ser anotada, além da atividade
+
+--- PÁGINA 29 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+29 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+referente 
+à 
+elaboração 
+do 
+laudo, 
+a 
+atividade 
+relativa 
+à 
+vistoria 
+da 
+edificação/instalação/sistema preventivo objeto do laudo, conforme se segue: 
+a.3.1) No campo “Nível atividade”, anotar "2016-EXECUÇÃO"; 
+a.3.2) No campo “Atividade profissional”, anotar "85-VISTORIA"; 
+a.3.3) No campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE 
+PREVENÇÃO E COMBATE A INCÊNDIO > 1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO 
+E PÂNICO”, exceto quando o Laudo for referente a especialidade diversa; 
+a.3.4) O RT, então, deverá inserir nova atividade e, no campo “Nível atividade”, anotar "2014-
+ELABORAÇÃO"; 
+a.3.5) No campo “Atividade profissional”, anotar "66- LAUDO"; 
+a.3.6) No campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE 
+PREVENÇÃO E COMBATE A INCÊNDIO > 1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO 
+E PÂNICO”, exceto quando o Laudo for referente a especialidade diversa; 
+a.3.7) No campo “Observações”, poderão ser inseridas informações complementares para 
+detalhar as atividades descritas no campo “Atividade técnica”; 
+a.3.8) Os demais campos serão utilizados pelo Responsável Técnico para relacionar o documento 
+ao respectivo PSCIP. 
+a.4) Referente a outros serviços específicos no âmbito do PSCIP: 
+a.4.1) Poderá, ainda, ser apresentada ART distinta das supracitadas, quando o serviço se referir 
+a uma atividade específica no âmbito do PSCIP, a exemplo de laudos referentes a especialidades 
+diversas, projeto elétrico, execução de sistema elétrico, dentre outras atividades afetas ao PSCIP; 
+a.4.1.1) Neste caso, o campo “Observações” deverá ser utilizado para especificar e relacionar o 
+serviço realizado ao PSCIP. 
+a.5) Leitura da ART: 
+a.5.1 Para fins de leitura e avaliação da conformidade da ART em relação ao serviço pretendido, 
+todas as informações anotadas pelo RT nos campos ‘Nível atividade’, ‘Atividade profissional’ e 
+‘Atividade técnica’, bem como aquelas relativas à quantidade e unidade, estarão dispostas no 
+campo “Atividade Técnica” (campo 4) do documento apresentado pelo profissional habilitado para 
+composição do PSCIP. 
+b) Para o RRT: 
+b.1) No campo “Dados da Atividades técnicas” (campo 3.1.4), anotar as seguintes atividades, 
+conforme o caso: 
+b.1.1) Projeto de instalações prediais de prevenção e combate a incêndio; 
+b.1.2) Projeto de sistemas prediais de proteção contra incêndios e catástrofes; 
+b.1.3) Execução de instalações prediais de prevenção e combate a incêndio; 
+b.1.4) Execução de sistemas prediais de proteção contra incêndios e catástrofes; 
+b.1.5) Laudo Técnico. 
+b.2) No campo "Descrição da Obra/Serviço Técnico" (campo 3.1.2), poderão ser inseridas 
+informações complementares para detalhar a atividade descrita no campo “Dados da Atividades 
+técnicas” (campo 3.1.4). 
+C.1.3.1 Deverão ser, ainda, respeitadas as seguintes prescrições: 
+a) O endereço da obra/serviço deverá corresponder ao endereço da edificação ou espaço 
+destinado ao uso coletivo informado no Infoscip;
+
+--- PÁGINA 30 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+30 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+b) A quantidade indicada no documento deverá refletir a área total do PSCIP, a parcela da área 
+sob responsabilidade do profissional ou o serviço submetido ao CBMMG; 
+b.1) Quando a área indicada em campo próprio da ART/RRT divergir da área total informada no 
+Infoscip ou quando for utilizada outra unidade de medida para definir a quantidade, a área total do 
+PSCIP ou a área sob responsabilidade do profissional deverá ser especificada e expressamente 
+indicada, em metros quadrados, no campo "Observações" da ART ou no campo "Descrição da 
+Obra/Serviço Técnico" (campo 3.1.2) do RRT; 
+b.1.1) Quando o serviço sob responsabilidade do profissional se referir a laudo, em que não seja 
+possível especificar a área, a quantidade indicada no campo "Observações" (ART) ou no campo 
+"Descrição da Obra/Serviço Técnico" (RRT) poderá ser em "unidades" ou outra medida autorizada 
+pelo respectivo Conselho Profissional; 
+c) Os documentos deverão estar datados e assinados pelo contratante e pelo RT no caso da ART 
+e apenas pelo RT, no caso do RRT; 
+c.1) Será admitida a assinatura eletrônica, caso a funcionalidade encontre-se disponível e passível 
+de validação por meio de endereço eletrônico; 
+d) A ART/RRT poderá se referir a mais de um serviço, devendo o preenchimento do documento 
+contemplar todos os serviços prestados. 
+C.2 Atestados e declarações 
+C.2.1 Documento comprobatório 
+É o documento que comprova a existência ou construção da edificação/espaço destinado ao uso 
+coletivo. 
+C.2.1.1 A comprovação da existência ou construção da edificação ocorrerá, preferencialmente, 
+por meio de documentos comprobatórios emitidos pela administração pública (processos no 
+CBMMG, prefeituras, secretarias, empresas e/ou outros órgãos públicos, autarquias, etc.) ou 
+cartórios (registro do imóvel, atas de condomínio, etc.), desde que informe ocupação, área 
+construída e data da edificação. 
+C.2.1.2 Poderá ser apresentado laudo técnico utilizando imagem fotogramétrica para 
+comprovação de edificação existente ou construída, devendo ser emitido por profissional 
+devidamente habilitado, acompanhada do respectivo documento de responsabilidade técnica. 
+C.2.1.3 Na impossibilidade de apresentar documentos oficiais e laudo fotogramétrico, a 
+comprovação poderá ser feita através de declaração, conforme Anexo E.6.8. 
+C.2.2 Atestados sobre brigada de incêndio 
+C.2.2.1 Atestado de formação de brigada de incêndio realizada em Centro de Formação 
+(Anexo E.6.1) 
+Documento que atesta que os ocupantes da edificação receberam treinamentos teóricos e práticos 
+de prevenção e combate a incêndio e pânico realizados em centro de formação devidamente 
+credenciado ou em Unidade do CBMMG. 
+C.2.2.2 Atestado de formação de brigada de incêndio realizada na própria edificação ou 
+espaço destinado ao uso coletivo (Anexo E.6.2) 
+Documento que atesta a relação dos ocupantes da edificação que receberam treinamentos 
+teóricos e práticos de prevenção e combate a incêndio e pânico realizados na própria edificação 
+ou espaço destinado ao uso coletivo onde se dará a atuação.
+
+--- PÁGINA 31 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+31 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+C.2.2.3 Atestado de composição de brigada de incêndio para evento temporário (Anexo 
+E.6.3) 
+Documento que atesta a relação dos brigadistas de incêndio, devidamente formados, que atuarão 
+no evento temporário.  
+C.2.3 Declarações sobre segurança estrutural 
+C.2.3.1 Declaração do Responsável Técnico pela conformidade da execução da segurança 
+estrutural 
+Declaração assinada por Responsável Técnico, atestando a conformidade da execução da 
+segurança estrutural, conforme modelo do Anexo E.6.6, exigida no ato da solicitação de vistoria. 
+C.2.3.2 Declaração de conformidade do dimensionamento estrutural em relação às Normas 
+Brasileiras e IT 06 do CBMMG  
+Declaração assinada por Responsável Técnico, atestando a conformidade do dimensionamento 
+estrutural, conforme modelo do Anexo E.6.5, exigida no ato da solicitação de vistoria.  
+C.2.4 Atestado de abrangência do Grupo Gerador de Energia  
+Documento que contém informações sobre a abrangência, autonomia e automatização do grupo 
+gerador de energia, conforme Anexo E.6.4, exigido no ato da solicitação de vistoria. 
+C.2.5 Declaração de Responsabilidade Técnica pela Execução do Controle de Materiais de 
+Acabamento e Revestimento (CMAR) 
+Declaração assinada pelo Responsável Técnico pela execução do CMAR e pelo proprietário da 
+edificação, conforme Anexo E.6.7, exigida no ato da solicitação de vistoria. 
+C.2.6 Declaração de não colocação de materiais combustíveis ou fontes de ignição nas 
+varandas, sacadas e balcões da edificação 
+Declaração assinada pelo Responsável Técnico e pelo proprietário ou responsável pelo uso da 
+edificação, conforme Anexo E.6.9, exigida no ato da análise do PSCIP. 
+C.3 Quadro Resumo 
+C.3.1 Quadro contendo informações gerais e/ou resultados obtidos nos cálculos. 
+Nota: Ressalta-se que a memória de cálculo não deverá ser anexada no PSCIP, devendo ser 
+apresentados apenas os resultados com os valores exigidos pelas Instruções Técnicas específicas 
+e Normas Técnicas. Os procedimentos de cálculo ou ensaios são de responsabilidade exclusiva 
+do Responsável Técnico. 
+C.3.2 Conforme a exigência de medida de segurança, serão apresentados no PSCIP, além de 
+outros já definidos, os seguintes quadros resumo em formato PDF: 
+a) quadro resumo da brigada de incêndio (Anexo E.3.1); 
+b) quadro resumo do sistema de hidrantes e mangotinhos (Anexo E.3.2); 
+c) quadro resumo do sistema de chuveiros automáticos (Anexo E.3.3); 
+d) quadro resumo do sistema fixo de gases para combate a incêndio (Anexo E.3.4);
+
+--- PÁGINA 32 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+32 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+e) quadro resumo de líquidos inflamáveis e combustíveis (Anexo E.3.5); 
+f) quadro resumo de controle de materiais de acabamento e revestimento (Anexo E.3.6); 
+g) quadro resumo do sistema de pressurização de escada de segurança (Anexo E.3.7); 
+h) quadro resumo do sistema de controle de fumaça (Anexo E.3.8). 
+C.4 Memoriais descritivos 
+C.4.1 Memorial industrial (Anexo E.4.1) 
+C.4.1.1 Obrigatório em PSCIP com presença da atividade Industrial. Contém a descrição dos 
+processos industriais, matérias-primas, produtos acabados, líquidos inflamáveis ou combustíveis 
+com indicação do ponto de fulgor, estoques, entre outros. 
+C.4.2 Memorial de modificações 
+C.4.2.1 Apresentado em tramitações de substituição de PSCIP. É o memorial descritivo com o 
+detalhamento das modificações realizadas em relação à aprovação anterior para subsidiar o foco 
+da análise do projeto substituto.  
+C.4.2.2 A descrição das modificações deverá detalhar, pormenorizadamente, folha a folha, planta 
+a planta, as modificações e intervenções realizadas em relação à aprovação anterior do PSCIP. 
+C.4.2.3 O memorial deverá ser apresentado em campo próprio do Infoscip para detalhamento das 
+modificações. 
+C.4.2.4 Quando o Responsável Técnico ou o Analista julgar insuficiente o detalhamento inserido 
+no sistema, a descrição das modificações deverá ser apresentada como documento complementar 
+em formato PDF. 
+C.4.2.5 O RT também poderá indicar, no arquivo DWG, os locais onde houve a mudança através 
+de círculos, balões ou nuvens, com linhas de chamada (remissivas) diretamente nas plantas, de 
+forma a identificar e facilitar a verificação das modificações. 
+C.4.2.5.1 Tais indicações em planta poderão ser em cor diferente do cinza ou do branco. 
+C.4.3 Memorial de Segurança Contra Incêndio das Estruturas (Anexo E.4.2) 
+C.4.3.1 Documento com a descrição das características estruturais da edificação, conforme 
+Instrução Técnica 06 e modelo específico. 
+C.4.4 Memorial de iluminação de emergência 
+C.4.4.1 Documento com a descrição das principais características técnicas do sistema conforme 
+normas específicas. Poderá ser apresentado junto às plantas do PSCIP sob a forma de detalhe.  
+C.4.5 Memorial do sistema de detecção e alarme 
+C.4.5.1 Documento com a descrição das principais características técnicas do sistema conforme 
+norma específica.
+
+--- PÁGINA 33 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+33 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+C.4.6 Memorial de produtos perigosos 
+C.4.6.1 Documento que sintetiza o estudo de risco dos produtos e substâncias perigosas 
+existentes na edificação ou espaço destinado ao uso coletivo.  
+C.4.6.2 Deverão ser apresentados os riscos principais de cada substância, as principais 
+incompatibilidades, os procedimentos em caso de emergência e EPI necessários com base na 
+FISPQ (Ficha de Informação de Segurança de Produtos Químicos) das substâncias e normas 
+específicas. 
+C.4.6.3 As FISPQ não serão apresentadas no PSCIP, mas deverão subsidiar a elaboração do 
+memorial, devendo estar presentes na edificação, podendo ser solicitadas durante vistoria in loco. 
+C.4.7 Memorial de controle de fumaça 
+C.4.7.1 Documento com a descrição da lógica de funcionamento com as principais características 
+técnicas do sistema conforme normas específicas (quando exigido). 
+C.4.7.2 Deverá ser redigido no campo 10 (Informações complementares e observações) do 
+Quadro Resumo de Controle de Fumaça (Anexo E.3.8). 
+C.4.8 Memorial de avaliação de risco de edificações históricas (Anexo E.4.3) 
+C.4.8.1 Documento que avalia e descreve riscos nas edificações históricas, como: características 
+construtivas, densidade da carga de incêndio, altura do compartimento, profundidade do piso de 
+subsolo, distância de Unidade do Corpo de Bombeiros (em Km), condições de acesso, etc. 
+C.4.9 Memorial descritivo complementar 
+C.4.9.1 Memorial descritivo complementar solicitado pelo serviço de segurança contra incêndio e 
+pânico do CBMMG, a fim de subsidiar a avaliação do PSCIP quando as características da 
+edificação e/ou espaço destinado ao uso coletivo o exigirem. 
+C.5 Memoriais de cálculos 
+Os memoriais de cálculo que deverão compor o PSCIP são somente os de dimensionamento de 
+saídas de emergência, dimensionamento de carga incêndio e de isolamento de risco. 
+C.5.1 Dimensionamento de saídas de emergência  
+Memorial descritivo dos cálculos realizados para dimensionamento da população e saídas de 
+emergência, conforme Instruções Técnicas específicas. Apresentado junto às respectivas plantas 
+baixas do PSCIP (ao lado das áreas representadas). 
+C.5.2 Dimensionamento da carga de incêndio  
+C.5.2.1 Memorial descritivo dos cálculos de dimensionamento da carga de incêndio específica, 
+conforme Anexo E.4.5, quando utilizado o método determinístico, atendendo aos critérios da IT 
+09.  
+C.5.2.2 Em PSCIP de depósitos a construir ou de depósitos já construídos que estejam 
+desocupados, o RT deve definir a carga incêndio da edificação com base nas características 
+informadas pelo proprietário ou responsável pelo uso.
+
+--- PÁGINA 34 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+34 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+C.5.2.2.1 Quando da ocupação da edificação, verificando-se o acréscimo de carga incêndio que 
+enseje em novas medidas de segurança ou em parâmetros mais rigorosos, deverá ser feita a 
+modificação do PSCIP no CBMMG. 
+C.5.2.3 Nos casos em que seja necessário o dimensionamento da carga incêndio específica, 
+quando se tratar de materiais incombustíveis sem embalagens em estruturas de 
+acondicionamento incombustíveis, não há necessidade de apresentação da memória de cálculo, 
+devendo apenas indicar se tratar de materiais incombustíveis. 
+C.5.2.4 Nos casos em que houver previsão de carga incêndio superior a 1.200 MJ/m², não haverá 
+necessidade de apresentação do memorial de dimensionamento para fins de classificação da 
+carga de incêndio. 
+C.5.2.4.1 Quando a determinação do valor exato da carga incêndio classificada como alta for 
+necessária para avaliação do PSCIP, deverá ser apresentada a memória de cálculo. 
+C.5.3 Dimensionamento de isolamento de risco 
+C.5.3.1 O memorial descritivo dos cálculos realizados para o dimensionamento do isolamento de 
+risco entre edificações e espaço destinado ao uso coletivo deverá ser elaborado conforme Anexo 
+E.4.4, atendendo aos critérios da IT 05. 
+C.6 Plano de Intervenção 
+C.6.1 O Plano de Intervenção será elaborado conforme IT 11 (Plano de Intervenção de Incêndio). 
+C.6.2 Planilha de levantamento de dados 
+C.6.2.1 Planilha que descreve o estudo prévio sobre a existência de riscos, elaborada durante a 
+concepção e o desenvolvimento de um processo ou sistema, quando houver exigência. 
+C.6.3 Planta de risco de incêndio (Anexo E.8) 
+C.6.3.1 Obrigatória quando houver a exigência de Plano de Intervenção de incêndio, devendo 
+indicar: 
+a) os principais riscos; 
+b) paredes corta-fogo e de compartimentação; 
+c) hidrantes internos e externos; 
+d) número de pavimentos; 
+e) registro de recalque; 
+f) reserva de incêndio; 
+g) armazenamento de produtos perigosos – tipo e quantidade; 
+h) vias de acesso para as viaturas do Corpo de Bombeiros; 
+i) hidrantes urbanos próximos da edificação, se houver; e 
+j) tipo e localização das escadas.
+
+--- PÁGINA 35 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+35 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+C.7 Laudos técnicos 
+C.7.1 Laudo Técnico de Segurança contra Incêndio e Pânico  
+C.7.1.1 Laudo Técnico para aplicação de adaptações previstas na IT 40 
+  
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de 
+responsabilidade técnica, indicando a limitação técnica e a fundamentação que justifique a 
+impossibilidade de execução de uma medida de segurança, bem como propondo medidas 
+mitigadoras previstas na IT 40, conforme Anexo E.5.1.A. 
+C.7.1.2 Laudo Técnico para análise por Corpo Técnico 
+Laudo técnico de profissional habilitado para encaminhamento de PSCIP para apreciação de 
+Corpo Técnico sobre impossibilidade técnica, ausência de normas, omissão de regras gerais e 
+específicas ou casos especiais. O laudo deverá estar acompanhado do respectivo documento de 
+responsabilidade técnica, indicando a situação específica e a fundamentação que justifique o 
+acionamento do CT. O envio para CT deverá seguir o modelo previsto no Anexo E.5.1.B. 
+C.7.2 Laudo Técnico Declaratório 
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de 
+responsabilidade técnica, indicando a limitação técnica e a fundamentação que justifique a 
+impossibilidade de execução de uma medida de segurança, bem como propondo medidas 
+mitigadoras e atestando a segurança dos ocupantes da edificação, conforme Anexo E.5.2. 
+C.7.3 Laudo técnico para eventos temporários de risco baixo e médio 
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de 
+responsabilidade técnica, indicando as características e as medidas de segurança que serão 
+instaladas no evento de risco baixo ou médio, declarando o atendimento aos parâmetros 
+normativos, conforme Anexo E.5.3. 
+C.7.4 (Revogado pela Portaria Nº 72 de 31 de agosto de 2023) 
+C.7.5 Laudo de Comissionamento/ Inspeção do sistema de pressurização de escadas 
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de 
+responsabilidade técnica, contendo checklist das características e funcionamento dos 
+componentes do sistema de pressurização de escadas, conforme Anexo E.5.5.
+
+--- PÁGINA 36 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+36 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+ANEXO D  
+SIMBOLOGIA 
+D.1 Extintores de incêndio 
+Extintores Portáteis 
+Carga 
+D’água 
+ 
+Carga de 
+Espuma 
+Mecânica 
+ 
+Carga de 
+Dióxido de 
+Carbono (CO2) 
+ 
+Carga de pó 
+BC 
+ 
+Carga de Pó 
+ABC 
+ 
+Carga de Pó D 
+ 
+Carga classe 
+K 
+ 
+Carga Halon 
+ 
+ 
+ 
+Extintores Sobre Rodas 
+Carga 
+D’água 
+ 
+Carga de 
+Espuma 
+Mecânica 
+ 
+Carga de Dióxido 
+de Carbono 
+(CO2) 
+ 
+Carga de Pó 
+BC 
+ 
+Carga de Pó 
+ABC 
+ 
+Carga de Pó D
+
+--- PÁGINA 37 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+37 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.2 Sistema de Hidrantes e Mangotinhos 
+Sistema de Hidrantes 
+Hidrante Simples 
+ 
+Hidrante Duplo 
+ 
+Hidrante Urbano de 
+Coluna 
+ 
+Hidrante Urbano 
+subterrâneo 
+ 
+Mangotinho 
+ 
+Registro de Recalque 
+com válvula de retenção 
+ 
+Registro de recalque 
+sem válvula de 
+retenção 
+ 
+Acionador de Bomba de 
+Incêndio (Botoeira Tipo 
+Liga Desliga) 
+ 
+Bomba de Incêndio 
+ 
+Reserva de Incêndio 
+ 
+D.3 Sistema de Chuveiros Automáticos 
+Sistema de Chuveiros Automáticos 
+Ponto (Bico de 
+Sprinkler) 
+ 
+Área protegida pelo 
+sistema de chuveiros 
+automáticos 
+ 
+Registro de Recalque 
+para chuveiros 
+automáticos 
+ 
+Bomba de incêndio para 
+chuveiros automáticos 
+ 
+Reserva de Incêndio 
+para sistema de 
+chuveiros automáticos 
+ 
+Válvula de Comando 
+central sistema de 
+chuveiros automáticos 
+ 
+Válvula de Governo e 
+Alarme (VGA) e/ou 
+Comando Seccional 
+(CS)
+
+--- PÁGINA 38 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+38 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.4 Sistema fixo de extinção por Gás Carbônico 
+Gás Carbônico (CO2) 
+Área Protegida pelo 
+sistema Fixo de CO2 
+ 
+Bateria de Cilindro do 
+sistema fixo de CO2 
+ 
+Acionador Manual do 
+sistema Fixo de CO2 
+ 
+ 
+ 
+Halon 
+Área Protegida - 
+Halon 
+ 
+Central de Baterias – 
+Halon 
+ 
+Acionador Manual - 
+Halon
+
+--- PÁGINA 39 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+39 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.5 Sistema fixo de extinção por espuma 
+Sistema de Espuma 
+Tanque Atmosférico 
+de EFE sistema fixo 
+de espuma 
+ 
+Estação fixa de 
+Emulsionamento 
+ 
+Estação móvel de 
+Emulsionamento 
+ 
+Canhão monitor (portátil) 
+Sistema fixo de Espuma 
+ 
+Canhão monitor 
+(portátil) sistema fixo 
+de resfriamento 
+ 
+Área Protegida pelo 
+sistema fixo de espuma 
+ 
+Câmara de espuma 
+do sistema fixo de 
+espuma 
+ 
+Extrato Formador de 
+Espuma (EFE) - Portátil 
+ 
+Sistema portátil de 
+espuma (esguicho 
+lançador) 
+ 
+ 
+ 
+Nebulizadores 
+Área protegida pelo 
+sistema de 
+nebulizadores 
+ 
+Registro Manual do 
+sistema de 
+nebulizadores 
+ 
+D.6 Sistema de detecção e alarme 
+Sistema de Detecção e alarme 
+Sistema de Alarme 
+Avisador Sonoro tipo 
+sirene 
+ 
+Avisador sonoro tipo alto 
+falante 
+ 
+Avisador sonoro tipo 
+gongo 
+ 
+Avisador visual 
+ 
+Avisador sonoro e 
+visual 
+ 
+Avisador sonoro e visual 
+(com alto falante) 
+ 
+Avisador sonoro e 
+visual (com gongo)
+
+--- PÁGINA 40 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+40 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.6.1 Detectores lineares para sistema de detecção e alarme 
+Sistema de Detecção e alarme 
+Detectores Lineares 
+Detector de Calor tipo 
+linear 
+ 
+Detector de fumaça tipo 
+linear 
+ 
+Detector de chama 
+tipo linear 
+ 
+Detector de gás tipo 
+linear 
+ 
+Detectores Lineares entre Forro 
+Detector de calor 
+entre forro tipo linear 
+ 
+Detector de fumaça entre 
+forro tipo linear 
+ 
+Detector de chama 
+entre forro tipo linear 
+ 
+Detector de gás entre 
+forro tipo linear 
+ 
+Detectores Lineares entre Piso 
+Detector de calor 
+entre piso tipo linear 
+ 
+Detector de fumaça entre 
+piso tipo linear 
+ 
+Detector de chama 
+entre piso tipo linear 
+ 
+Detector de gás entre 
+piso tipo linear 
+ 
+Detectores Lineares em Armário 
+Detector de calor em 
+armário tipo linear 
+ 
+Detector de fumaça em 
+armário tipo linear 
+ 
+Detector de chama 
+em armário tipo linear 
+ 
+Detector de gás em 
+armário tipo linear
+
+--- PÁGINA 41 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+41 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.6.2 Detectores pontuais para sistema de detecção e alarme 
+Sistema de Detecção e alarme 
+Detectores Pontuais 
+Detector de calor 
+tipo pontual 
+ 
+Detector de fumaça 
+tipo pontual 
+ 
+Detector de chama 
+tipo pontual 
+ 
+Detector de gás tipo 
+pontual 
+ 
+Detectores Pontuais entre Forro 
+Detector de calor 
+entre forro tipo 
+pontual 
+ 
+Detector de fumaça 
+entre forro tipo 
+pontual 
+ 
+Detector de chama 
+entre forro tipo 
+pontual 
+ 
+Detector de gás entre 
+forro tipo pontual 
+ 
+Detectores Pontuais entre Piso 
+Detector de calor 
+entre piso tipo 
+pontual 
+ 
+Detector de fumaça 
+entre piso tipo 
+pontual 
+ 
+Detector de chama 
+entre piso tipo 
+pontual 
+ 
+Detector de gás entre 
+piso tipo pontual 
+ 
+Detectores Pontuais em Armário 
+Detector de calor 
+em armário tipo 
+pontual 
+ 
+Detector de fumaça 
+em armário tipo 
+pontual 
+ 
+Detector de chama 
+em armário tipo 
+pontual 
+ 
+Detector de gás em 
+armário tipo pontual
+
+--- PÁGINA 42 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+42 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.6.3 Detectores com proteção contra intempéries 
+Sistema de Detecção e alarme 
+Detectores Lineares com Proteção contra Intempéries 
+Detector de calor 
+com proteção 
+contra intempérie 
+tipo linear 
+ 
+Detector de fumaça 
+com proteção contra 
+intempérie tipo linear 
+ 
+Detector de chama 
+com proteção 
+contra intempérie 
+tipo linear 
+ 
+Detector de gás com 
+proteção contra 
+intempérie tipo linear 
+ 
+Detectores Pontuais com Proteção contra Intempéries 
+Detector de calor 
+com proteção 
+contra intempérie 
+tipo pontual 
+ 
+Detector de fumaça 
+com proteção contra 
+intempérie tipo pontual 
+ 
+Detector de chama 
+com proteção 
+contra intempérie 
+tipo pontual 
+ 
+Detector de gás com 
+proteção contra 
+intempérie tipo pontual 
+ 
+D.6.4 Complementos ao sistema de detecção e alarme 
+Sistema de Detecção e alarme 
+Complementos 
+Acionador manual do 
+sistema de detecção e 
+alarme 
+ 
+Central de detecção e 
+alarme 
+ 
+Baterias do sistema 
+de detecção e alarme 
+ 
+Painel repetidor do 
+sistema 
+ 
+Telefone de 
+emergência / Interfone
+
+--- PÁGINA 43 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+43 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.7 Sistema de iluminação de emergência 
+Sistema de iluminação de emergência 
+Iluminação de emergência 
+Ponto de iluminação 
+de emergência 
+ 
+Baterias de 
+acumuladores para o 
+sistema de iluminação 
+de emergência 
+ 
+Ponto de iluminação 
+de emergência tipo 
+balizamento 
+ 
+Grupo gerador de 
+energia 
+ 
+Central do sistema 
+de iluminação de 
+emergência 
+ 
+Ponto de Iluminação 
+tipo farol duplo 
+ 
+D.8 Sistema de Sinalização de emergência 
+Sistema de sinalização de emergência 
+Sinalização de emergência 
+Sinalização circular 
+ 
+Sinalização retangular 
+ 
+Sinalização 
+quadrada 
+ 
+Sinalização triangular 
+ 
+Luminária de sinalização de emergência 
+Luminária tipo 
+balizamento
+
+--- PÁGINA 44 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+44 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.9 Vasos e tanques 
+Vasos e Tanques 
+Central de GLP 
+Central Predial de GLP ou Gás Natural 
+ 
+Vaso pressão 
+Vaso sobre pressão 
+ 
+Tanques 
+Tanque horizontal abaixo do solo 
+(enterrado) 
+ 
+Tanque horizontal acima do solo 
+(superfície) 
+ 
+Tanque horizontal semi- enterrado 
+ 
+Tanque vertical 
+abaixo do solo 
+(enterrado) 
+ 
+Tanque vertical 
+acima do solo 
+(superfície) 
+ 
+Tanque vertical semi-enterrado
+
+--- PÁGINA 45 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+45 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.10 Representação de áreas de risco 
+Riscos 
+Áreas de Risco 
+Área de risco 
+especial 
+ 
+Área fria 
+ 
+D.11 Representação de produtos perigosos 
+Produtos Perigosos 
+Risco Radioativo 
+ 
+Risco Tóxico 
+ 
+Risco Corrosivo 
+ 
+Risco Explosivo 
+ 
+Risco Combustível 
+ 
+Risco Comburente - 
+Oxidante 
+ 
+D.12 Rotas de fuga 
+Sinalização de Rotas de fuga 
+Direcionamento 
+Início do fluxo da rota 
+de fuga 
+ 
+Direção do fluxo da rota 
+de fuga 
+ 
+Final da rota de fuga 
+ 
+D.13 Sistemas elétricos 
+Sistemas elétricos 
+Instalações elétricas 
+Chave Elétrica 
+principal 
+ 
+Chave elétrica 
+secundária 
+ 
+Quadro de Distribuição de Luz (QDL)
+
+--- PÁGINA 46 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+46 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.14 Compartimentação 
+Sistema Passivo 
+Aberturas 
+Porta Corta Fogo P-
+60 
+ 
+Porta Corta Fogo P-
+90 
+ 
+Porta Corta Fogo P-
+120 
+’ 
+Abertura Protegida P-
+60 
+ 
+Abertura Protegida 
+P-30 
+ 
+Porta Corta Chama 
+Para elevador 
+ 
+D.15 Segurança estrutural 
+Layout da edificação / vedação 
+Parede Corta Fogo 
+ 
+Parede de 
+Compartimentação 
+ 
+Parede Comum 
+ 
+Parede divisória leve 
+ 
+D.16 Controle de fumaça 
+Sistema Passivo 
+Dâmpers Corta 
+Fogo 
+ 
+Dâmpers Corta 
+Fumaça 
+ 
+Dâmpers Corta 
+Fogo e Fumaça 
+ 
+Exaustor para controle 
+de fumaça 
+ 
+Veneziana de 
+entrada de ar para 
+sistema de controle 
+de fumaça (junto ao 
+piso) 
+ 
+Veneziana de 
+exaustão para sistema 
+de controle de fumaça 
+(junto ao teto) 
+ 
+Grelha para sistema 
+de controle de 
+fumaça
+
+--- PÁGINA 47 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+47 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+D.17 Sistema de pressurização e exaustão 
+Sistema de pressurização ou exaustão 
+Grupo Moto-
+ventilador ou grupo 
+moto-exaustor 
+ 
+Dâmper de 
+sobrepressão 
+ 
+Veneziana de 
+tomada de ar com 
+filtro metálico 
+lavável 
+ 
+Grelha com dispositivo 
+de ajuste de 
+balanceamento 
+ 
+Registro de fluxo 
+ 
+Acionador manual 
+pressurização/exaustã
+o 
+ 
+D.1.18 Elevadores 
+Elevadores 
+Elevador Monta 
+Carga 
+ 
+Elevador Simples 
+ 
+Elevador de emergência 
+ 
+D.1.19 Outros símbolos 
+Outros 
+Acesso de viatura na edificação e espaço 
+destinado ao uso coletivo 
+ 
+Pára-raios 
+ 
+Barra Antipânico 
+ 
+Shafts Protegidos
+
+--- PÁGINA 48 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+48 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+ANEXO E 
+FORMULÁRIOS E MODELOS 
+E.1 FORMULÁRIOS PARA PSCIP IMPRESSO 
+E.1.1 FORMULÁRIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA PT 
+ 
+FORMULÁRIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO DE PROJETO TÉCNICO 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO OU ESPAÇO DESTINADO AO USO COLETIVO 
+Logradouro Público: 
+N.º:               Complemento: 
+Lote: 
+Quarteirão: 
+Bairro: 
+CEP: 
+Município: 
+UF:MG 
+Proprietário: 
+CPF/CNPJ 
+Responsável pelo uso: 
+CPF/CNPJ 
+Responsável Técnico: 
+CREA/CAU: 
+Fone: 
+N.º do Processo anterior: 
+Decreto Adotado (nº e ano): 
+Uso, Divisão e Descrição: 
+Área existente: 
+a construir: 
+total: 
+Altura da edificação: 
+n.º de pav.: 
+Carga Incêndio (MJ/m²) 
+Baixa 
+Média 
+Alta 
+Estrutura portante (concreto, aço, madeira, outros): 
+Estrutura de sustentação da cobertura (concreto, aço, madeira, outros): 
+*Classificação do evento: 
+*Público previsto: 
+2.  FORMADEAPRESENTAÇÃO 
+3.PROTOCOLO (uso do Corpo de Bombeiros) 
+Projeto Técnico 
+*Projeto Técnico para Evento Temporário 
+4. RESERVA D’ÁGUA 
+Reservatório(   )Elevado( 
+) subterrâneo - Reserva de Consumo      m³, RTI de HI 
+m³, RTI de SPK       m³ 
+5. MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+Acesso de viatura do Corpo de Bombeiros 
+Alarme de incêndio 
+Separação entre edificações 
+Sinalização de emergência 
+Segurança estrutural das edificações 
+Extintores 
+Compartimentação horizontal 
+Hidrantes e/ou mangotinhos 
+Compartimentação vertical 
+Chuveiros automáticos 
+Saídas de emergência 
+Resfriamento 
+Elevador de emergência 
+Espuma 
+Gerenciamento de risco de incêndio 
+Sistema fixo de gases limpos e dióxido de carbono 
+Brigada de incêndio 
+Plano de intervenção de incêndio (quando da renovação de 
+AVCB) 
+Iluminação de emergência 
+Escada pressurizada 
+Detecção de incêndio 
+Controle de fumaça 
+Controle de materiais de acabamento 
+Outros (especificar) 
+6. RISCOS ESPECIAIS 
+Armazenamento de líquidos e gases inflamáveis/combustíveis: ( ) Tanques ( ) cilindros Volume:m3 
+Túneis: Extensão 
+Fogos de artifício 
+Gás Liquefeito de Petróleo– capacidade: Kg 
+Vaso sob pressão (caldeira) 
+Armazenamento de produtos perigosos 
+Outros (especificar) 
+NOTA: 
+- A projeção das medidas descritas neste anexo são de responsabilidade do autor do Projeto (Responsável Técnico), 
+signatário deste documento. 
+- O proprietário/empreendedor é responsável pela manutenção das medidas descritas neste anexo em perfeitas 
+condições de utilização. 
+- Ao Corpo de Bombeiros cabe o reconhecimento das medidas descritas neste anexo, considerando as informações 
+prestadas pelo Responsável Técnico acerca da edificação ou espaço destinado ao uso coletivo. 
+Ass. do Responsável Técnico: 
+Ass. do Proprietário/Resp. /uso: 
+Data: ________/_______/___________ 
+Ass. Analista:
+
+--- PÁGINA 49 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+49 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.1.2 FORMULÁRIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA PTS 
+ 
+FORMULÁRIO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA PTS 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO OU ESPAÇO DESTINADO AO USO COLETIVO 
+Logradouro Público: 
+N.º: 
+Complemento: 
+Lote: 
+Quarteirão: 
+Bairro: 
+CEP: 
+Município: 
+UF:MG 
+Proprietário: 
+CPF/CNPJ: 
+Fone: ( ) 
+Responsável pelo uso: 
+CPF/CNPJ : 
+Fone: ( ) 
+Existente: 
+A construir: 
+Total: 
+Altura: 
+m 
+n.º de pav.: 
+Ocupação do subsolo: 
+Uso, divisão e descrição: 
+Carga Incêndio (MJ/m²): 
+2. ELEMENTOS ESTRUTURAIS 
+Estrutura portante (concreto, aço, madeira, outros): 
+Estrutura de sustentação da cobertura (concreto, aço, madeira, outros): 
+3. FORMADEAPRESENTAÇÃO 
+Protocolo (uso do CBMMG) 
+Projeto Técnico Simplificado 
+4. MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+Iluminação de Emergência 
+Sinalização de Emergência 
+Controle de materiais de acabamento 
+Extintores 
+Saídas de Emergência 
+Outros 
+5. RISCOSESPECIAIS 
+Armazenamento de líquidos inflamáveis/combustíveis 
+Fogos de artifício 
+Gás Liquefeito de Petróleo– capacidade: Kg 
+Vaso sob pressão (caldeira) 
+Armazenamento de produtos perigosos 
+Outros (especificar) 
+__________________________________ 
+Ass.: Proprietário ou Responsável pelo uso 
+___________________________________ 
+Ass.: Responsável Técnico Nº CREA/CAU 
+___________________________________ 
+Ass.: Vistoriador do Corpo de Bombeiros
+
+--- PÁGINA 50 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+50 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.1.3 FORMULÁRIO PARA ATENDIMENTO TÉCNICO 
+ 
+FORMULÁRIO PARA ATENDIMENTO TÉCNICO 
+DATA: 
+/ 
+/ 
+ 
+Nº: 
+Solicitante: 
+E-mail: 
+Tel.: 
+Proprietário 
+Resp. pelo uso 
+Procurador 
+Resp. Técnico 
+Finalidade da Consulta: 
+Retorno de análise 
+Reclamação 
+2ª Via de AVCB (extravio) 
+2ª Via de AVCB (correção – pós atualização) 
+2ª Via de Protocolo 
+Declaração de Cadastramento 
+Anexar documento ao PSCIP 
+Solicitação de Documentos para cópia 
+Anexar Laudo Técnico ao PSCIP 
+Dúvida sobre procedimento administrativo 
+Complemento de TSP 
+Dúvida Técnica 
+Declaração para ressarcimento de TSP 
+Solicitação de PSCIP para cópia 
+Declaração de Isenção de AVCB (residência) 
+Reunião para esclarecimento sobre PSCIP 
+Solicitação de Vistoria(1) 
+Informações sobre edificações ou eventos 
+Informações sobre recurso 
+Outros 
+INFORMAÇÕES SOBRE A EDIFICAÇÃO, INSTALAÇÃO OU ESPAÇO DESTINADO AO USO COLETIVO 
+Endereço: 
+Área (m²): 
+Altura (m): 
+Ocupação: 
+Projeto técnico nº: 
+Vistoria nº: 
+Razão Social: 
+ 
+Nome: Assinatura RG/CREA/CAU 
+ 
+(¹) Informar área a ser vistoriada em caso de vistoria parcial.
+
+--- PÁGINA 51 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+51 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.1.4 RECONSIDERAÇÃO DE ATO E REQUERIMENTO EM GRAU DE RECURSO 
+ 
+RECONSIDERAÇÃO DE ATO / REQUERIMENTO EM GRAU DE RECURSO 
+Solicitante: 
+( ) Reconsideração de ato ao militar 
+( ) Recurso à Unidade/CAT  
+( ) Recurso ao DAT 
+INFORMAÇÕES SOBRE A EDIFICAÇÃO/ESPAÇO DESTINADO AO USO COLETIVO 
+Endereço: 
+Proprietário/Resp. p/ uso: 
+Área (m²): 
+Altura (m): 
+Ocupação: 
+Projeto técnico nº: 
+Vistoria nº: 
+Documento de referência: 
+Item notificado que deseja recorrer: 
+Motivo do pedido: (incluir fundamentação legal, quando for ocaso). 
+ 
+Local: Data: 
+Assinatura do requerente
+
+--- PÁGINA 52 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+52 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.2 QUADRO INFORMATIVO – MEDIDAS DE SEGURANÇA 
+ 
+QUADRO INFORMATIVO MEDIDAS DE SEGURANÇA¹ 
+LEGISLAÇÃO 
+Norma adotada para definição de medidas 
+Decreto nº 47.998/2020 
+Tabela²  
+Tabela 15 da IT 01 8ª Edição 
+Situação da Edificação³ 
+Nova 
+MEDIDAS DE SEGURANÇA 
+REFERÊNCIAS NORMATIVAS⁴ E OBSERVAÇÕES⁵ 
+Acesso de Viaturas 
+Conforme IT04  
+Segurança Estrutural 
+Conforme IT06  
+Compartimentação Horizontal 
+Conforme IT07. A edificação já atende a área máxima de 
+compartimentação prevista no Anexo B da IT07, não 
+sendo necessário implementar elementos da medida. 
+Saídas de Emergência 
+Conforme IT08 
+Brigada de Incêndio 
+Conforme IT12 
+Iluminação de Emergência 
+Conforme NBR 10.898:2013 
+Detecção de Incêndio 
+Conforme IT14 e NBR 17.240:2010. Medida de segurança 
+projetada apenas para fins de distância máxima a ser 
+percorrida conforme Tabela 05 da IT08. 
+Alarme de Incêndio 
+Conforme IT14 
+Sinalização De Emergência 
+Conforme IT15 
+Extintores 
+Conforme IT16 
+Hidrantes 
+Conforme IT17 
+CLASSIFICAÇÃO DE OCUPAÇÃO E CARGA INCÊNDIO⁶ 
+GRUPO 
+OCUPAÇÃO 
+DIVISÃO 
+DESCRIÇÃO/EXEMPL
+O 
+CARGA DE 
+INCÊNDIO 
+EM MJ/m² 
+I 
+INDUSTRIAL 
+I-2 
+TÊXTIL EM GERAL 
+700 MJ/m² 
+NOTAS GERAIS: 
+A) Esse quadro deverá ser apresentado na primeira prancha do PSCIP. 
+ 
+NOTAS ESPECÍFICAS: 
+1) Em edificações mistas com compartimentação entre as ocupações, deverá ser apresentado um Quadro 
+Informativo de Medidas de Segurança para cada ocupação compartimentada. O mesmo se aplica a projetos que 
+representam mais de uma edificação de diferentes ocupações com isolamento de risco. 
+2) Projetos cujas medidas de segurança não foram definidas pela IT-01 não necessitam indicar a tabela adotada 
+(por exemplo, PSCIP elaborado conforme legislação municipal de SCIP). Projetos elaborados na vigência de 
+edições anteriores da IT-01 deverão especificar a edição da norma adotada. 
+3) A Situação da edificação deve ser especificada entre Nova, Existente (anterior a 02 de julho de 2005) ou 
+Construída (entre 02 de julho de 2005e31 de dezembro de 2016). 
+4) Especificar a norma ou o conjunto de normas adotado como referência para projeção de cada medida de 
+segurança.  
+5) Constar observações referentes à medida de segurança para subsidiar análise e vistoria em situações 
+específicas. 
+6) Indicar a divisão de ocupação, sua respectiva carga incêndio e o exemplo/descrição adotado para definição da 
+carga de incêndio. 
+OBSERVAÇÃO: As informações inseridas no quadro acima são meramente exemplificativas, devendo seu 
+preenchimento ser procedido com informações condizentes com as especificidades de cada PSCIP.
+
+--- PÁGINA 53 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+53 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3 QUADROS RESUMOS 
+E.3.1 QUADRO RESUMO DE INFORMAÇÕES DA BRIGADA DE INCÊNDIO 
+QUADRO RESUMO DE INFORMAÇÕES DA BRIGADA DE INCÊNDIO 
+Nº do 
+pavimento 
+População fixa do 
+pavimento 
+Número de 
+brigadistas 
+Nível de Treinamento 
+1 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+...  
+ 
+ 
+ 
+TOTAL DE BRIGADISTAS: 
+ 
+(Outras informações) 
+ 
+ 
+ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 54 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+54 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3.2 QUADRO RESUMO DO SISTEMA DE HIDRANTES E MANGOTINHOS PARACOMBATE 
+A INCÊNDIO 
+QUADRO RESUMO DO SISTEMA DE HIDRANTES E MANGOTINHOS PARA COMBATE AINCÊNDIO 
+1 
+Tipo do sistema adotado   
+ 
+2 
+Reserva Técnica de Incêndio (m³)   
+ 
+3 
+Tipo de reservatório (elevado ou subterrâneo)   
+ 
+4 
+Vazão no HI mais desfavorável (Lpm)   
+ 
+5 
+Pressão no HI mais desfavorável (mca)   
+ 
+6 
+Pressão no HI mais favorável (mca)   
+ 
+7 
+Potência da bomba de incêndio (CV)   
+ 
+8 
+Potência da bomba jockey (CV) - caso haja   
+ 
+9 
+Tipos de mangueiras   
+ 
+10  
+(Outras informações)   
+ 
+NOTAS GENÉRICAS: 
+1) Em sistemas de hidrantes ou mangotinhos projetados conforme legislação anterior à IT-17, o 
+campo “Tipo do Sistema” deverá ser assinalado com um traço. Para esses casos, no campo 
+“Outras informações”, deverá ser indicado o atendimento à legislação anterior. 
+2) Quando for projetado Hidrante de Coluna Seca, a informação deverá ser especificada no campo 
+“Tipo do sistema adotado”, e deverá ser assinalado um traço no campo referente à RTI. 
+2.1) Deverá constar, no campo “Outras informações”, a pressão mínima necessária para 
+pressurização do sistema e a pressão máxima que o sistema suporta. 
+2.2) A medida “Coluna seca (Hidrante) deverá ser assinalada no Infoscip. 
+3) Poderá, a critério do RT, ser executada bomba com potência superior à mínima definida no 
+Quadro Resumo, desde que observados os limites de pressão, vazão e tempo de funcionamento 
+do sistema estabelecidos na IT 17. 
+ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 55 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+55 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3.3 QUADRO RESUMO DE SISTEMA DE CHUVEIROS AUTOMÁTICOS 
+QUADRO RESUMO DE CHUVEIROS AUTOMÁTICOS 
+Parte Geral(1) 
+1 
+Classificações de Riscos da Ocupação – Grupo (classificar todos 
+os riscos da edificação conforme norma pertinente) 
+ 
+2 
+Tipo de Sistema Adotado (tubo molhado, seco, pré-ação simples 
+ou bloqueio duplo, ou dilúvio) 
+ 
+3 
+Duração da reserva de SPK (min) 
+ 
+4 
+Quantidade total de bicos e quantidade de bicos reservas 
+ 
+5 
+Quantidade de VGA / CS 
+ 
+Outras(3) informações gerais: 
+ 
+Parte Específica(2) 
+A 
+Classificação do risco (especificar conforme norma pertinente) 
+ 
+B 
+Ambiente (especificar o ambiente/localização do risco 
+classificado) 
+ 
+C 
+Distância máxima (m) e distância mínima (m) adotada entre bicos 
+ 
+D 
+Distância máxima (m) e distância mínima (m) adotada entre bico 
+e parede 
+ 
+E 
+Área máxima (m) e área mínima (m) adotada por bico 
+ 
+F 
+Área máxima por VGA / CS (m²) 
+ 
+G 
+Tipo de velocidade de operação (rápida ou padrão) 
+ 
+H 
+Tipo de desempenho (CMDA, CCAE, CMSA, ESFR) 
+ 
+I 
+Área de operação (m²) e número de bicos na área de operação 
+ 
+J 
+Vazão mínima por bico (LPM) 
+ 
+L 
+Pressão mínima por bico 
+ 
+M 
+Temperatura (°C) e cor do líquido do bulbo 
+ 
+Outras(4) informações específicas (referentes ao risco de ocupação classificado): 
+ 
+NOTA GENÉRICA: 
+Em sistemas de chuveiros automáticos projetados conforme normas anteriores à publicação da legislação estadual 
+de SCIP (por exemplo, Decretos Municipais), deverá ser preenchida e apresentada somente a Parte Geral (1) do 
+Quadro. Para esses casos, no campo “Outras informações”, deverá ser indicado o atendimento à legislação 
+anterior. 
+NOTAS ESPECÍFICAS:  
+1) Na parte geral, serão apresentadas as características gerais do sistema de chuveiros automáticos projetado. 
+No Campo “1”, deverão ser listadas todas as classificações de riscos de ocupação conforme NBR 10897 (ou norma 
+adotada para projeção do sistema); 
+2)Na parte específica, as informações serão detalhadas para cada classificação de risco da ocupação conforme 
+NBR 10897 (ou norma adotada). Caso haja mais de um risco, serão apresentados tantos quadros da Parte 
+Específica conforme forem as classificações de risco existentes. 
+3) Os campos de outras informações deverão ser preenchidos quando for necessário apresentar demais 
+informações para subsidiar a avaliação do sistema; 
+4) Para sistemas de chuveiros automáticos destinados à proteção de armazenamento/depósito, informações 
+complementares como altura máxima de estocagem, altura máxima de teto, inclinação de teto, tipo de estocagem, 
+dentre outras necessárias à definição dos critérios de proteção, deverão ser apresentadas nos campos de outras 
+informações. 
+_________________________________________________________ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 56 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+56 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3.4 QUADRO RESUMO DE SISTEMA FIXO DE GASES PARA COMBATE A INCÊNDIO 
+QUADRO RESUMO DE SISTEMA FIXO DE GASES PARA COMBATE A INCÊNDIO 
+1 
+Gás utilizado no sistema  
+ 
+2 
+Tipo do sistema fixo  
+ 
+3 
+Forma de acionamento (manual ou automática)  
+ 
+4 
+Tempo de retardo (para evacuação do local) 
+ 
+5 
+(Outras informações)  
+ 
+ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 57 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+57 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3.5 QUADRO RESUMO REFERENTE A LÍQUIDOS E GASES INFLAMÁVEIS E 
+COMBUSTÍVEIS 
+QUADRO RESUMO REFERENTE A LÍQUIDOS E GASES INFLAMÁVEIS E COMBUSTÍVEIS 
+1 
+Classe do líquido 
+ 
+2 
+Forma de resfriamento (linha manual, canhão monitor 
+ou aspersores fixos) 
+ 
+3 
+Tempo de duração da reserva de resfriamento (min)  
+ 
+4 
+Vazão do sistema (Lpm)  
+ 
+5 
+Forma de aplicação da espuma (linha, canhão ou 
+câmara de espuma) 
+ 
+6 
+Volume de LGE  
+ 
+7 
+Taxa de aplicação do LGE  
+ 
+8 
+Tempo de operação do sistema de espuma (min)  
+ 
+9 
+Potência da bomba de incêndio (CV)  
+ 
+10  
+Potência da bomba reserva (CV) - caso haja  
+ 
+11  
+Potência da bomba jockey (CV) - caso haja  
+ 
+12  
+Capacidade do armazenamento dos tanques (m³)  
+ 
+13  
+Capacidade máxima estocada no interior de edifícios  
+ 
+14  
+(Outras informações)  
+ 
+NOTA GENÉRICA: 
+1) Poderá, a critério do RT, ser executada bomba com potência superior à mínima definida no 
+Quadro Resumo, desde que observados os limites de pressão, vazão e tempo de funcionamento 
+do sistema estabelecidos na IT 17. 
+_________________________________________ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 58 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+58 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3.6 QUADRO RESUMO DE CONTROLE DE MATERIAIS DE ACABAMENTO E 
+REVESTIMENTO 
+QUADRO RESUMO DE CONTROLE DE MATERIAIS DE ACABAMENTO E REVESTIMENTO 
+EDIFICAÇÃO/ 
+AMBIENTE 
+ELEMENTO 
+CONSTRUTIVO 
+CLASSE 
+ADOTADA 
+MATERIAL 
+NORMAS DE 
+ENSAIO 
+ 
+Piso  
+ 
+ 
+ 
+Parede/divisórias  
+ 
+ 
+ 
+Teto/forro  
+ 
+ 
+ 
+Cobertura  
+ 
+ 
+ 
+Isolamento termo 
+acústico  
+ 
+ 
+ 
+ 
+ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 59 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+59 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3.7 QUADRO RESUMO DO SISTEMA DE PRESSURIZAÇÃO DE ESCADA DE 
+SEGURANÇA 
+QUADRO RESUMO DO SISTEMA DE PRESSURIZAÇÃO DE ESCADA DE SEGURANÇA 
+1 
+Quantidade de pavimentos com acesso à escada pressurizada 
+ 
+2 
+Número de estágios (1 ou 2)  
+ 
+3 
+Vazão requerida para o conjunto motoventilador - Qtpf (m³/s ou 
+m³/h)  
+ 
+4 
+Vazão adotada no conjunto motoventilador (m³/s ou m³/h)  
+ 
+5 
+Vazão do damper de alívio - Qd (m³/s ou m³/h)  
+ 
+6 
+(Outras informações)  
+ 
+ 
+ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 60 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+60 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.3.8 QUADRO RESUMO DE CONTROLE DE FUMAÇA 
+QUADRO RESUMO DE CONTROLE DE FUMAÇA 
+01  
+Tipo de Sistema de Controle de Fumaça (1) 
+(    ) 1     (    ) 2     (    ) 3  
+02  
+Área onde será instalado sistema de controle de 
+fumaça 
+Pavimento(s):  
+ 
+03  
+Quantidade de acantonamentos(2) 
+ 
+04  
+Área útil de entrada de ar total (m²) 
+ 
+05  
+Área útil de extração de fumaça total (m²) 
+ 
+06  
+Vazão de entrada de ar – Vv (m³/s) 
+ 
+07  
+Vazão de extração de fumaça – Ve (m³/s)  
+ 
+08  
+Comando automático duplicado por comando manual  Sim (   )    Não se aplica (   )  
+09  
+Alimentação por Motogerador ou baterias (3) 
+Autonomia:              horas  
+Potência:                   kW 
+Não se aplica (  ) 
+10  
+Informações complementares e observações: 
+NOTAS ESPECÍFICAS: 
+1) Tabela 01, item 5.2.2 da IT 41. 
+2) Item 6.1 da IT 41. 
+3) Preencher com a autonomia em horas e características do equipamento (Item 6.9 da IT-41). 
+NOTAS GENÉRICAS: 
+A) Deverão ser preenchidos apenas os campos contemplados pelo projeto. 
+ 
+ 
+ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 61 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+61 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.4 MEMORIAIS 
+E.4.1 MEMORIAL INDUSTRIAL DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+ 
+MEMORIAL INDUSTRIAL DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+1.IDENTIFICAÇÃO 
+ 
+ Empresa:  
+N.º do PSCIP:  
+ CNPJ:  
+Atividade industrial:  
+Endereço:  
+ Município:                                                                                                      e-mail: 
+2. MATÉRIA(S)-PRIMA(S) UTILIZADA(S) 
+ 
+3. PRODUTO(S) ACABADO(S) 
+ 
+4. PROCESSO INDUSTRIAL  
+(Obs.: pode ser anexado também o fluxograma de produção)  
+ 
+5. INFORMAÇÕES COMPLEMENTARES 
+ 
+6. ESPECIFICAR QUANTIDADE DO PROCESSO DE LÍQUIDOS E GASES INFLAMÁVEIS 
+ 
+ 
+ 
+Ass. do Responsável Técnico 
+ 
+ 
+Ass. do Proprietário ou Resp. p/ uso
+
+--- PÁGINA 62 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+62 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.4.2 MEMORIAL DE SEGURANÇA CONTRA INCÊNDIO DAS ESTRUTURAS 
+MEMORIAL DE SEGURANÇA ESTRUTURAL 
+(Nome)_______________________________________, registrado no CREA/CAU sob o n° 
+____________, atendendo o disposto no item 5.18 da IT 06, declara, para fins de aprovação do PSCIP 
+junto ao CBMMG, que a edificação em questão será projetada em conformidade com as informações 
+abaixo: 
+Edificação: (Nome da Edificação) Logradouro Público/n°: (Endereço) Responsável pelo Uso: (nome)  
+Altura da Edificação (m):  _____ Ocupação:  Data: ____/_____/_______. 
+Estrutura: (Concreto armado, aço, mista, alvenaria estrutural) 
+METODOLOGIA PARA SE ATINGIR OS TRRF DOS ELEMENTOS ESTRUTURAIS 
+[citar norma(s)empregada(s)] 
+A metodologia adotada foi... [descrever a metodologia, seja por ensaios, cartas de coberturas, métodos 
+analíticos etc e norma(s)] ... Os ensaios de resistência ao fogo adotado foram o Relatório (IPT nº, ou 
+UL nº etc – citar os ensaios, e especificar se é para pilares, vigas etc.). 
+DETERMINAÇÃO DO TEMPO REQUERIDO DE RESISTÊNCIA AO FOGO (TRRF) CRITÉRIOS 
+PARA DETERMINAÇÃO DO TRRF: 
+Para a definição do TRRF foi adotada (por exemplo: Tabela A da IT 06, conforme o item “5. Procedimentos” 
+da referida Instrução Técnica; ou método do tempo equivalente ou outros devidamente comprovados, tudo 
+conforme Instrução Técnica n°06). 
+Tempo Requerido de Resistência ao Fogo (TRRF): 
+Exemplos: As estruturas principais terão TRRF de 90 min para colunas, contraventamentos e vigas principais 
+conforme Tabela A, Grupo D, Classe P4 da IT 06. 
+As vigas secundárias terão TRRF de 60 min, conforme Anexo A, da Instrução Técnica n°06. 
+As compartimentações, escadas de segurança, selagens de shafts e divisórias entre unidades autônomas serão    
+executadas conforme segue: ______ 
+, com os seguintes TRRF: ______, tudo conforme item 5.7 da 
+Instrução Técnica n°06. 
+Observações: ____________________________ 
+. 
+ISENÇÕES OU REDUÇÕES DE TRRF 
+Exemplos: (Não foi adotada nenhuma condição para redução ou isenção de TRRF na presente edificação...  Ou 
+isenção de TRRF para os pilares externos protegidos por alvenaria cega... Ou Isenção dos perfis confinados em 
+área fria, conforme folhas...). 
+MATERIAIS DE PROTEÇÃO CONTRA FOGO E RESPECTIVAS ESPESSURAS DE PROTEÇÃO 
+E/OU DIMENSIONAMENTO DOS ELEMENTOS ESTRUTURAIS: 
+Para fins de dimensionamento dos elementos estruturais e dos revestimentos para proteção passiva 
+das estruturas, será contratado especialista em estruturas, que deverá seguir as normas prescritas na 
+IT 06, ou outras que surgirem ou que vierem a substituí-las, conforme TRRF previsto neste Memorial. 
+No ato da vistoria, serão apresentados Documentos de Responsabilidade Técnica referente ao Projeto 
+de Estruturas e execução, juntamente com as respectivas declarações de que o projeto e execução 
+foram realizados conforme o prescrito na IT 06. 
+(Nos casos de edificação já construída em que a medida “Segurança Estrutural” seja exigida e nos casos de 
+edificação existente - anterior a 02 de julho de 2005 - em que o Responsável Técnico opte por apresentar a referida 
+medida para se valer de alguma condição mais benéfica, será apresentado Documento de Responsabilidade 
+Técnica de Profissional Legalmente habilitado referente à verificação das condições de segurança estrutural e 
+ações para cumprimento ao disposto na IT 06). 
+___________________________________ 
+Nome: 
+Resp. Técnico pelo PSCIP – CREA/CAU 
+___________________________________ 
+Nome: 
+Proprietário ou responsável pela Edificação
+
+--- PÁGINA 63 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+63 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.4.3 MEMORIAL DE AVALIAÇÃO DE RISCO (Frente) 
+MEMÓRIA DE CÁLCULO DO RISCO - ANÁLISE GLOBAL DE RISCO DE INCÊNDIO 
+Edificação: 
+Localização: 
+Exposição ao risco de incêndio (Fatores) 
+Características construtivas 
+Tipo: 
+f1 ═ 
+Densidade da carga de incêndio (MJ /m²) 
+q ═ 
+f2 ═ 
+Altura do compartimento (m) 
+H ═ 
+f3 ═ 
+Profundidade do piso de subsolo (m) 
+S ═ 
+Distância do CB (Km) 
+D ═ 
+f4 ═ 
+Condições de acesso  
+Tipo: 
+f5 ═ 
+Risco de Ativação (Fatores) 
+Natureza da Ocupação 
+A1 ═ 
+Falhas Humanas 
+A2 ═ 
+Qualidade das instalações elétricas e de gás 
+A3 ═ 
+Risco Global de Incêndio 
+E ═ f1. f2.f3.f4.f5 
+Valor obtido E: 
+R ═ E x A 
+A ═ A1(A2 ou A3) (1) 
+Valor obtido A: 
+Valor obtido R: 
+Fatores de Segurança 
+Descrição 
+Fator 
+Valor Calculado 
+Encontrad
+o 
+Proposto 
+Alarme de incêndio com acionamento manual 
+S1 
+ 
+ 
+Detector de incêndio 
+S2 
+ 
+ 
+Detector de calor e fumaça com transmissão automática do sinal de 
+alarme para o Corpo de Bombeiros ou para Central de segurança da 
+Brigada de Incêndio da Edificação 
+S3 
+ 
+ 
+Aparelhos extintores 
+S4 
+ 
+ 
+Sistema de hidrantes internos à edificação sem reserva técnica 
+conforme as normas 
+S5 
+ 
+ 
+Sistema de hidrantes internos à edificação com reserva técnica 
+conforme as normas 
+S6 
+ 
+ 
+Brigada de incêndio em plantão durante o funcionamento 
+S7 
+ 
+ 
+Brigada de incêndio em plantão permanente 
+S8 
+ 
+ 
+Instalação interna de chuveiros automáticos 
+S9 
+ 
+ 
+Instalação externa de chuveiros automáticos 
+S10 
+ 
+ 
+Sistema de hidrantes externo com abastecimento por meio de 
+reservatório público 
+S11 
+ 
+ 
+Sistema de hidrantes externo com abastecimento por meio de 
+reservatório particular ou comunitário 
+S12 
+ 
+ 
+Reserva de água 
+S13 
+ 
+ 
+Resistência ao fogo ≥ 30 
+S14 
+ 
+ 
+Resistência ao fogo ≥ 60 
+S15 
+ 
+ 
+Resistência ao fogo ≥ 90 
+S16 
+ 
+ 
+Resistência ao fogo ≥ 120 
+S17 
+ 
+ 
+Planta de risco 
+S18 
+ 
+ 
+Plano de intervenção 
+S19 
+ 
+ 
+Plano de abandono 
+S20 
+ 
+ 
+Sinalização das saídas de emergência e rotas de fuga 
+S21 
+ 
+ 
+Iluminação de emergência 
+S22 
+ 
+ 
+Controle de Materiais de Acabamento e de Revestimento 
+S23 
+ 
+ 
+Controle de fumaça 
+S24 
+ 
+ 
+Compartimentação horizontal 
+S25 
+ 
+ 
+Compartimentação vertical 
+S26 
+ 
+ 
+Fator de Segurança total 
+S ═ S11A x S11B x S11C x S11D x S11E 
+Valor 
+obtido S: 
+ 
+ 
+Coeficiente de segurança 
+ 
+Valor 
+obtido ɤ:
+
+--- PÁGINA 64 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+64 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+Nota: 1) A ativação de incêndios devida às falhas humanas e deficiências das instalações elétricas e de gás 
+liquefeito de petróleo excluem-se mutuamente, devendo-se adotar o maior valor obtido deles (A*) que possa 
+afetar a edificação. 
+E.4.3.1 MEMORIAL DE AVALIAÇÃO DE RISCO (Verso) 
+FUNDAMENTAÇÃO TÉCNICA 
+ 
+DECLARAÇÃO 
+Eu declaro, sob pena de incorrer no Art. 299¹ da Lei 2.848 de 07 de dezembro de 1940 (Código Penal 
+Brasileiro) que vistoriei a edificação/espaço destinado ao uso coletivo em lide e que as informações por mim 
+prestadas neste laudo são verídicas. 
+ 
+_____Cidade __, ____dia__, ___mês___, 20_____ 
+ 
+ 
+_____________________________________________________ 
+Assinatura do RT 
+1 Falsidade ideológica 
+Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou 
+fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação 
+ou alterar a verdade sobre fato juridicamente relevante: 
+Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, 
+se o documento é particular. 
+Parágrafo único - Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a 
+falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 65 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+65 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.4.4 – MEMORIAL DE CÁLCULO DE ISOLAMENTO DE RISCO ENTRE EDIFICAÇÕES 
+ 
+Nº 
+MEMORIAL DE CÁLCULO DE ISOLAMENTO DE RISCO 
+01 
+Edificação expositora (item 4.1.1 da IT 05): 
+ 
+02 
+Edificação em exposição (item 4.1.2 da IT 05): 
+ 
+03 
+Número de pavimentos: 
+ 
+04 
+Atende aos critérios(1) para se enquadrar como “unidade 
+autônoma compartimentada”? 
+ 
+Sim 
+ 
+Não 
+05 
+Possui compartimentação horizontal? (2) 
+ 
+Sim 
+ 
+Não 
+06 
+Possui compartimentação vertical? 
+ 
+Sim 
+ 
+Não 
+07 
+Parte da fachada considerada no cálculo (Tabela 1 da IT 05) (3): 
+ 
+08 
+Maior dimensão da fachada (m):  
+ 
+09 
+Menor dimensão da fachada (m):  
+ 
+10 
+Área da fachada de cálculo (m²):  
+ 
+11 
+Carga incêndio da edificação (MJ/m²):  
+ 
+12 
+Classificação da severidade (Tabela 2 da IT 05): 
+ 
+13 
+X(4) = maior dimensão/menor dimensão: 
+ 
+14 
+Somatória das áreas de aberturas (portas, janelas, vãos, etc.) 
+da fachada de cálculo (m²): 
+ 
+15 
+Y(5) = (área das aberturas/área da fachada) x 100 (%): 
+ 
+16 
+Índice α = interseção entre a linha da Intensidade de Exposição 
+(dada pela classificação de severidade e a % de aberturas 
+arredondada - Y) e a coluna do valor X (Tabela 4 da IT 05): 
+ 
+17 
+Índice β = o município possui Unidade do CBMMG? 
+ 
+Sim 
+ 
+Não 
+β = 1,5m 
+β = 3,0m 
+18 
+D = (menor dimensão da fachada x α) + β (m): 
+ 
+19 
+Será adotado algum critério de proteção para a redução da 
+distância D? (Item 6.1.4 da IT 05) 
+ 
+Sim 
+ 
+Não 
+20 
+Qual é o tipo de proteção? (Tabela 5 da IT 05) 
+ 
+21 
+Qual é a característica do elemento de vedação das paredes 
+externas? (Tabela 5 da IT 05) 
+ 
+22 
+Qual é o fator de redução adotado? (Tabela 5 da IT 05) 
+ 
+23 
+Dr = D com o fator de redução (m): 
+ 
+24 
+Qual a distância em projeto (m)?  
+ 
+25 
+A distância em projeto é ≥D ou Dr? 
+ 
+Sim 
+ 
+Não 
+ 
+Notas específicas: 
+1) Caso a edificação atenda aos itens 6.1.1.2.5-b da IT 05, 5.7.3 da IT 06 e 5.1.5.3 da IT 07, as unidades 
+residenciais serão consideradas “unidades autônomas compartimentadas”. 
+2) Para os casos que se enquadrarem como “unidade autônoma compartimentada”, será considerada a 
+existência de compartimentação horizontal. 
+3) Havendo compartimentação horizontal, será considerada a área do maior compartimento (unidade 
+autônoma compartimentada, no caso de residencial). 
+4) Se o valor X obtido for um valor intermediário na Tabela 4 da IT 05, deve-se adotar o valor 
+imediatamente superior. 
+5) Se o valor obtido Y for um valor intermediário na Tabela 4 da IT 05, utilizar o valor imediatamente 
+superior. 
+ 
+Notas Gerais: 
+1 –Os valores a serem preenchidos nos itens 3 a 15referem-se à edificação expositora. 
+2 – Os valores a serem preenchidos nos itens 19 a 22 referem-se à edificação em exposição. 
+ 
+______________________________________________ 
+Assinatura do Responsável Técnico – CREA/CAU 
+E.4.5 – MEMORIAL DE CÁLCULO DE CARGA DE INCÊNDIO
+
+--- PÁGINA 66 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+66 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+MEMORIAL DE CÁLCULO DE CARGA DE INCÊNDIO 
+MÓDULO 1 (1) 
+ITEM 
+TIPO DO MATERIAL 
+EXISTENTE NA ÁREA 
+CONSIDERADA 
+MASSA TOTAL DE 
+CADA MATERIAL NA 
+ÁREA CONSIDERADA 
+Mi (Kg) 
+POTENCIAL 
+CALORÍFICO 
+ESPECÍFICO (2) 
+Hi (MJ/Kg) 
+POTENCIAL CALORÍFICO 
+POR MATERIAL 
+Mi x Hi (MJ) 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+Total do potencial calorífico da área considerada  
+ΣMi x Hi (MJ) 
+ 
+Área considerada para o cálculo Af(1) (m²) 
+ 
+Carga de incêndio específica da área considerada para o 
+cálculo 
+Qfi = Σ Mi x Hi   (MJ/m²) 
+Af 
+ 
+MÓDULO 2 (1) 
+ITEM 
+TIPO DO MATERIAL 
+EXISTENTE NA ÁREA 
+CONSIDERADA 
+MASSA TOTAL DE 
+CADA MATERIAL NA 
+ÁREA CONSIDERADA 
+Mi (Kg) 
+POTENCIAL 
+CALORÍFICO 
+ESPECÍFICO (2) 
+Hi (MJ/Kg) 
+POTENCIAL CALORÍFICO 
+POR MATERIAL 
+Mi xHi (MJ) 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+Total do potencial calorífico da área considerada  
+ΣMi x Hi (MJ) 
+ 
+Área considerada para o cálculo Af(1) (m²) 
+ 
+Carga de incêndio específica da área considerada para o 
+cálculo  
+Qfi = Σ Mi x Hi   (MJ/m²) 
+Af 
+ 
+RESULTADO 
+Média dos 02 módulos de maior valor (MJ/m²) 
+(quando houver) 
+ 
+85% do módulo de maior valor (MJ/m²) 
+(quando houver) 
+ 
+Carga incêndio adotada (MJ/m²) 
+ 
+Bibliografia utilizada (se for o caso) 
+ 
+Notas: 
+1- O levantamento da carga de incêndio específica deve ser realizado em módulos de, no máximo, 1000 m² de área de piso 
+considerado para o cálculo. Módulos maiores de 1000 m² podem ser utilizados, a critério do RT, quando o espaço analisado possuir 
+materiais combustíveis com potenciais caloríficos semelhantes ou materiais uniformemente distribuídos. Quando houver mais de 
+1 (um) módulo, deverão ser apresentados apenas os 2 (dois) de maior valor em MJ/m² (Qfi). 
+2- Conforme Tabela C.1 da IT 09 ou, na omissão desta, conforme bibliografia sugerida. 
+Legenda: 
+qfi - valor da carga de incêndio específica, em megajoule por metro quadrado de área de piso considerada para o cálculo; 
+Mi - massa total de cada componente “i” do material combustível, em quilograma. Esse valor não poderá ser excedido durante a 
+vida útil da edificação, exceto quando houver alteração de ocupação, ocasião em que “Mi” deverá ser reavaliado; 
+Hi - potencial calorífico específico de cada componente do material combustível, em megajoule por quilograma, conforme Tabela 
+C.1 da IT 09 ou bibliografia sugerida; 
+Af - área do piso considerada para o cálculo, em m². 
+______________________________________________ 
+Assinatura do Responsável Técnico – CREA/CAU
+
+--- PÁGINA 67 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+67 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.5 LAUDOS 
+E.5.1.A LAUDO TÉCNICO PARA APLICAÇÃO DE ADAPTAÇÔES PREVISTAS NA IT 40 
+LAUDO TÉCNICO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ESPAÇO DESTINADO AO USO COLETIVO 
+Razão social: 
+CNJP: 
+Logradouro: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+Proprietário: 
+CPF/CNPJ: 
+Resp. pelo uso: 
+CPF/CNPJ: 
+Uso, divisão e descrição: 
+Nº PSCIP: 
+2. IDENTIFICAÇÃO DO RESPONSÁVEL PELO LAUDO TÉCNICO 
+Nome: 
+CREA/CAU: 
+Endereço: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+E-mail: 
+Fone: 
+Nº do documento de responsabilidade técnica: 
+3. FUNDAMENTAÇÃO TÉCNICA 
+3.1 Itens das normas de referência não atendidos: 
+Deve-se indicar qual item da norma acerca da medida de segurança não está sendo atendido. Por exemplo, caso a 
+impossibilidade técnica se refira à janela de ventilação da caixa de escada tipo EP, o item de norma a ser indicado neste 
+campo deve ser o 5.7.8.2 da IT 08. 
+ 
+3.2 Descrição detalhada da impossibilidade técnica: 
+Demonstrar que há na edificação situação na qual, para o cumprimento das exigências de norma, é necessária a 
+demolição, modificação ou sobrecarga de elemento estrutural (viga, laje, pilar ou parede estrutural), que possa prejudicar 
+a estabilidade ou o funcionamento da edificação. 
+ 
+Citar as irregularidades existentes e justificar as impossibilidades técnicas de adequação à legislação vigente. 
+ 
+Indicar as adaptações propostas para cada irregularidade conforme os itens da IT 40. 
+3.3 Imagens e detalhes (obrigatório): 
+4. DECLARAÇÃO 
+Eu declaro, sob pena de incorrer no Art. 299¹ da Lei 2.848 de 07 de dezembro de 1940 (Código Penal Brasileiro) que 
+vistoriei a edificação/espaço destinado ao uso coletivo em lide e que as informações por mim prestadas neste laudo são 
+verídicas. 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______ 
+  
+_____________________________________________________ 
+Assinatura 
+_____________________________ 
+1 Falsidade ideológica 
+Art. 299– Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir 
+declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade 
+sobre fato juridicamente relevante: 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 68 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+68 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.5.1.B LAUDO PARA ANÁLISE POR CORPO TÉCNICO 
+ 
+ 
+LAUDO TÉCNICO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ESPAÇO DESTINADO AO USO COLETIVO 
+Razão social: 
+CNJP: 
+Logradouro: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+Proprietário: 
+CPF/CNPJ: 
+Resp. pelo uso: 
+CPF/CNPJ: 
+Uso, divisão e descrição: 
+Nº PSCIP: 
+2. IDENTIFICAÇÃO DO RESPONSÁVEL PELO LAUDO TÉCNICO 
+Nome: 
+CREA/CAU: 
+Endereço: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+E-mail: 
+Fone: 
+Nº do documento de responsabilidade técnica: 
+3. FUNDAMENTAÇÃO TÉCNICA 
+3.1 MOTIVAÇÃO PARA ANÁLISE PELO CORPO TÉCNICO 
+Assinalar a situação em projeto que motiva o encaminhamento para o Corpo Técnico: 
+ 
+Impossibilidade técnica  
+ 
+Ausência de normas  
+ 
+Casos especiais 
+ 
+Omissão de regras gerais e específicas 
+3.1.1 
+APLICAÇÃO DE NORMAS ESTRANGEIRAS 
+a) Assinalar se é proposta de aplicação de norma estrangeira (literatura internacional consagrada. 
+• 
+Destaca-se que a proposta será pertinente somente mediante um dos casos previstos no item 3.1 deste anexo.  
+ 
+Utilização de literaturas internacionais consagrada 
+O Responsável Técnico pode apresentar o dimensionamento de um sistema ou medidas contra incêndio e 
+pânico com fundamentação em literaturas internacionais consagradas, nos casos de ausência de normas, de 
+omissão de regras gerais e específicas, de impossibilidade técnica, nos casos especiais, ou quando o sistema 
+de segurança sugerido pelo RT oferecer melhor nível de segurança.  
+ 
+É necessário que o RT apresente em anexo o texto na íntegra da norma aplicada ao projeto (versão original 
+e/ou traduzida).  
+ 
+Indicar os itens específicos, tabelas, anexos da norma utilizada de forma detalhada, e sua aplicação em cada 
+parâmetro da medida preventiva projetada.  
+3.2  DESCRIÇÂO DA SITUAÇÂO EM PROJETO 
+3.2.1 Descrever detalhadamente a situação que será objeto de análise pelo Corpo Técnico, conforme cada caso 
+assinalado no item 3.1 deste anexo. O RT deverá elaborar o laudo de acordo com o (s) caso (s) existente em 
+projeto, com as informações pertinentes conforme a motivação indicada no item 3.1 deste anexo. 
+3.2.2 Destaca-se ainda que, para os casos nos quais a edificação já estiver construída ou parte de sua estrutura 
+estiver executada, este laudo deverá ser acompanhado de imagens da(s) área(s) onde será aplicada a norma 
+estrangeira ou onde se encontra a impossibilidade de intervenção com legenda/ indicação de detalhes 
+pertinentes. 
+PARA CASOS DE IMPOSSIBILIDADE TÉCNICA: 
+Comprovar que há em projeto situação na qual, para o cumprimento das exigências de norma, é necessária a demolição, 
+modificação ou sobrecarga de elementos estruturais (vigas, lajes, pilares ou paredes estruturais), que possa prejudicar 
+a estabilidade ou o funcionamento da edificação.  Para a análise pelo Corpo Técnico o RT deverá ainda demonstrar e 
+justificar a inviabilidade da adaptação da medida exigida segundo a IT 40 e demais normas vigentes, como preconizam 
+os itens 2.2 e 5.5.1 da IT 40.  Observar ainda o disposto no item 5 da IT 40.
+
+--- PÁGINA 69 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+69 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+PARA CASOS ESPECIAIS: 
+Demonstrar que há em projeto pelo menos um dos casos descritos a seguir: 
+a) 
+Situação na qual o risco de incêndio e pânico ultrapassa a capacidade das medidas de segurança, ou ainda quando 
+a tecnologia proposta para permitir a proteção da edificação e do público não é prevista/exigida em Instrução Técnica 
+ou Norma da ABNT. Para esse caso em especifico é necessário que se apresente uma revisão das normas 
+pertinentes ao caso e que se comprove a inexistência de normas. 
+b) 
+Situação na qual é necessário solicitar isenção de medida de segurança por incompatibilidade ou inviabilidade desta 
+em relação à natureza da atividade praticada ou ao arranjo físico do local, desde que devidamente fundamentadas 
+e desde que se aplique medidas alternativas para mitigar o risco existente. Nesse caso, o RT deverá comprovar de 
+forma inequívoca a incompatibilidade da medida com a atividade exercida no local e atentar, em especial, para a 
+comprovação da eficiência da medida proposta para mitigar o risco. 
+PARA  CASOS DE AUSÊNCIA DE NORMAS: 
+Apresentar uma revisão das normas adotadas pelo CBMMG para a projeção de uma medida de segurança, de modo a 
+demonstrar que há em projeto uma situação, que essa medida é exigida em norma, mas não há Instrução Técnica 
+específica ou, na sua falta, Norma técnica da ABNT que definam os critérios/parâmetros de dimensionamento, instalação 
+ou funcionamento. 
+PARA  CASOS DE OMISSÃO DE REGRAS GERAIS E ESPECÍFICAS: 
+Apresentar uma relação das normas adotadas pelo CBMMG, com seus respectivos itens, para a projeção de determinada 
+medida de segurança. Ainda, demonstrar que há em projeto uma situação na qual uma Instrução Técnica e/ou Norma 
+da ABNT aborde a medida de segurança sem, contudo, apresentar os critérios/parâmetros de dimensionamento, 
+instalação ou funcionamento, bem como as especificidades de ocupação, leiaute, estrutura ou tecnologia da edificação. 
+4. MODELO DE PROPOSTA DE MEDIDA PARA MITIGAR O RISCO EXISTENTE 
+O RT deverá propor medidas alternativas proporcionais ao risco existente para garantir a segurança em projeto. Para 
+mitigar risco referente à inviabilidade de implementação de chuveiros automáticos, é necessária a projeção de outra 
+medida que promova a extinção automática do incêndio. A eficiência da medida proposta deverá ser comprovada pelo 
+RT da seguinte forma:  
+a) 
+Pela aplicação de parâmetro, projeção de sistema ou medida prevista em norma estrangeira, conforme indicação 
+do item 3.1 deste anexo.  
+b) 
+Pela analogia à adaptação prevista na IT 40, demais instruções técnicas e normas da ABNT, desde que se observe 
+a majoração dos parâmetros de segurança conforme o risco existente e as possibilidades de adaptação do projeto. 
+c) 
+Pela comprovação em laudo do desempenho da medida projetada por meio de simulação computacional, de 
+cálculos e equacionamento dos fenômenos relativos ao incêndio ou outro método científico válido para tal fim.  
+5. DECLARAÇÃO 
+Eu declaro, sob pena de incorrer no Art. 299¹ da Lei 2.848 de 07 de dezembro de 1940 (Código Penal Brasileiro) que 
+vistoriei a edificação/espaço destinado ao uso coletivo em lide e que as informações por mim prestadas neste laudo são 
+verídicas. 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______ 
+  
+_____________________________________________________ 
+Assinatura 
+_____________________________ 
+1 Falsidade ideológica 
+Art. 299– Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir 
+declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade 
+sobre fato juridicamente relevante: 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 70 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+70 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.5.2 LAUDO TÉCNICO DECLARATÓRIO 
+ 
+LAUDO TÉCNICO DECLATÓRIO DE SEGURANÇA CONTRA INCÊNDIO E 
+PÂNICO 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ESPAÇO DESTINADO AO USO COLETIVO 
+Razão social: 
+CNJP: 
+Logradouro: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+Proprietário: 
+CPF/CNPJ: 
+Resp. pelo uso: 
+CPF/CNPJ: 
+Uso, divisão e descrição: 
+Nº PSCIP: 
+2. IDENTIFICAÇÃO DO RESPONSÁVEL PELO LAUDO TÉCNICO DECLARATÓRIO 
+Nome: 
+CREA/CAU: 
+Endereço: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+E-mail: 
+Fone: 
+Nº do documento de responsabilidade técnica: 
+3. FUNDAMENTAÇÃO TÉCNICA 
+3.1 Citar as irregularidades existentes e justificar as impossibilidades técnicas de adequação à legislação vigente. 
+ 
+3.2 Indicar as medidas mitigadoras propostas para cada irregularidade. 
+ 
+ 
+ 
+3.3 Discorrer sobre como a medida mitigadora adotada garantirá a segurança contra incêndio e pânico para a edificação 
+e seus usuários. 
+ 
+ 
+4. DECLARAÇÃO 
+Eu declaro, sob pena de incorrer no Art. 299¹ da Lei 2.848 de 07 de dezembro de 1940 (Código Penal Brasileiro), que 
+executei as medidas de segurança alternativas necessárias a mitigar os riscos decorrentes das irregularidades acima 
+descritas e atesto a segurança dos ocupantes da edificação/espaço destinado ao uso coletivo em caso de incêndio ou 
+pânico. 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______ 
+_____________________________________________________ 
+Assinatura 
+_____________________________ 
+1 Falsidade ideológica 
+Art. 299– Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir 
+declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade 
+sobre fato juridicamente relevante: 
+Pena– reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único– Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 71 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+71 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.5.3 LAUDO TÉCNICO PARA EVENTO DE RISCO BAIXO E MÉDIO 
+ 
+LAUDO TÉCNICO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO 
+PARA EVENTO DE RISCO BAIXO E RISCO MÉDIO 
+1. IDENTIFICAÇÃO DO EVENTO 
+Nome do evento: 
+Grau de Risco: 
+Descrição do evento: 
+Início: 
+/ 
+/ 
+Horário 
+:______ 
+Encerramento: 
+/ 
+/Horário: :______ 
+Área do evento: 
+Público Estimado: 
+End.: 
+Nº 
+Ponto de Referência: 
+Bairro: 
+Cidade: 
+Organizador: 
+CNPJ/CPF: 
+Fone: 
+Preposto (em caso de organizador PJ): 
+CPF: 
+Fone: 
+Resp. pela edificação: 
+CPF: 
+Fone: 
+2. SEGURANÇA CONTRA INCÊNDIO E PÂNICO DO EVENTO 
+Requisito 
+SIM 
+NÃO 
+2.1 Local do evento é ao ar livre ou em área externa à edificação? 
+ 
+ 
+2.2 O local é delimitado fisicamente (gradil, alambrado, muro, fechamento metálico, entre outros)? 
+ 
+ 
+2.3 Há previsão de público sobre estruturas provisórias como arquibancadas, camarotes e 
+similares? 
+ 
+ 
+2.4 Há espetáculo pirotécnico? 
+ 
+ 
+2.5 Há tendas destinadas à concentração de público com área total superior a 150 m²? 
+ 
+ 
+2.6 Há prática de esportes radicais que implique em risco para os espectadores? 
+ 
+ 
+2.7 Há utilização de trio elétrico? 
+ 
+ 
+2.8 Há utilização de brinquedos mecânicos? 
+ 
+ 
+2.9 Saídas de emergência possuem dimensões suficientes para evacuação do público esperado? 
+ 
+ 
+2.10 Há mecanismo de controle de público? Especificar no Campo 4. 
+ 
+ 
+2.11 As rotas de fuga estão sinalizadas e desimpedidas? 
+ 
+ 
+2.12 Há extintores distribuídos no local do evento em áreas com material combustível? 
+ 
+ 
+2.13 Há instalação de palco e similares, para uso específico da coordenação do evento e 
+apresentações artísticas e culturais? 
+ 
+ 
+2.14 Os riscos específicos do evento foram avaliados? 
+ 
+ 
+2.15 A utilização de GLP, caso haja, atenderá aos requisitos de segurança das normas técnicas? 
+ 
+ 
+3. ASPECTOS TÉCNICOS 
+Medidas preventivas 
+SIM 
+ 
+Saídas de Emergência 
+ 
+Nº de saídas:                       Dimensão total: 
+Sinalização 
+ 
+ 
+Extintores 
+ 
+Nº de extintores: 
+Iluminação de Emergência 
+ 
+Tipo de iluminação: 
+Brigada de Incêndio 
+ 
+Nº de brigadistas: 
+Plano de Intervenção 
+ 
+ 
+Controle de Material de Acabamento 
+ 
+Onde se aplica:                     Classe do material: 
+Exigências complementares 
+SIM 
+ 
+Ambulância 
+ 
+Tipo de Ambulância: 
+Aviso de segurança 
+ 
+ 
+Controle de entrada 
+ 
+Mecanismo de controle: 
+Corredor de segurança 
+ 
+ 
+DEA 
+ 
+ 
+Grupo gerador de energia 
+ 
+Autonomia: 
+Posto médico 
+ 
+Composição: 
+Setorização de público 
+ 
+ 
+Riscos Específicos1 
+Descrição: 
+Medidas para o risco específico: 
+ Responsável:(nome completo, RG, CPF e nº de inscrição no 
+Conselho Profissional)
+
+--- PÁGINA 72 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+72 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+1 – A documentação do responsável deve ser anexa via upload no ato de cadastro do evento no INFOSCIP 
+Esportes radicais ou de aventura2 
+Descrição: 
+Responsável: (incluir nome completo, RG, CPF e qualificação, se 
+exigido, para a prática da atividade) 
+Houve liberação de outros órgãos licenciadores: (ANAC, Marinha 
+do Brasil, Detran etc., se necessária) 
+2 – A documentação do responsável e de licenciamento nos outros órgãos (quando necessária) deve ser anexa via 
+upload no ato de cadastro do evento no INFOSCIP 
+Espetáculos pirotécnicos e efeitos especiais com produtos de uso restrito³ 
+Descrição: 
+Medidas para o risco especial: 
+Responsável: (Blaster para o caso de show pirotécnico que exigir 
+esse profissional – nome completo, RG, CPF e nº de Blaster) 
+3– A documentação do responsável deve ser anexa via upload no ato de cadastro do evento no INFOSCIP 
+4. OBSERVAÇÕES 
+Outras informações pertinentes referentes a medidas preventivas ou exigências complementares: 
+5. ANEXOS (DOCUMENTOS COMO ART, RRT, OUTROS LAUDOS, ETC) 
+“Numerar os documentos na ordem anexada”. Exemplo: 
+1 –ART/RRT DO LAUDO TÉCNICO 
+2 –DEMAIS DOCUMENTOS DE RESPONSABILIDADE TÉCNICACABÍVEIS. 
+3 - ..... 
+ 
+6. RESPONSÁVELTÉCNICOPELOLAUDOTÉCNICO 
+ART/RRT: 
+Nome: 
+Nº CREA/CAU: 
+Endereço  
+Nº 
+Compl. 
+Bairro: 
+Cidade: 
+E-mail: 
+Fone(s) 
+7. DECLARAÇÃO 
+ 
+Declaro, sob pena de incorrer no art. 2994do Decreto-Lei 2.848, de 07 de dezembro de 1940 (Código Penal 
+Brasileiro),sem prejuízo das demais sanções civis e administrativas cabíveis, que todas as informações 
+prestadas são verdadeiras e que as medidas de segurança e exigências complementares previstas pela IT 33 e 
+demais instruções técnicas específicas serão adotadas para o evento, conforme sua característica e riscos 
+específicos. 
+(4) Falsidade ideológica 
+Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir 
+declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade 
+sobre fato juridicamente relevante. 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular.  
+Assinatura do organizador:                                                                                                RG: 
+Assinatura do Responsável Técnico:                                        RG:
+
+--- PÁGINA 73 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+73 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.5.4 LAUDO TÉCNICO PARA RENOVAÇÃO DE AVCB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Revogado pela Portaria n. 72, de 31ago2023, publicada no DOEMG n. 172, ano 131, p.24)
+
+--- PÁGINA 74 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+74 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.5.5 Laudo de Comissionamento/Inspeção do sistema de pressurização de escadas 
+ 
+Laudo de Comissionamento/Inspeção do sistema de pressurização de escadas 
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO 
+Razão social: 
+CNJP: 
+Logradouro:                                                                      
+Nº:          Complemento: 
+Bairro:                                                                         Cidade: 
+CEP: 
+Proprietário: 
+CPF/CNPJ: 
+Resp. pelo uso: 
+CPF/CNPJ: 
+Uso, divisão e descrição: 
+Nº PSCIP: 
+Altura da edificação:  
+2. DADOS DA EDIFICAÇÃO 
+Uso, divisão e descrição: 
+Níveis de pressurização adotados: 
+Altura da edificação: 
+Número de estágios: 
+Níveis de pressurização adotados: 
+3. SEGURANÇA CONTRA INCÊNDIO 
+3.1 VENTILADOR: 
+SIM 
+NÃO 
+NA 
+3.1.1 
+Foram previstos conjuntos moto-ventiladores em duplicata? 
+ 
+ 
+ 
+3.1.2 
+Os conjuntos moto-ventiladores estão instalados especificamente para atuarem em 
+situação de emergência? 
+ 
+ 
+ 
+3.1.3 
+Os ventiladores que operam em paralelo são dotados de registros de retenção que 
+impeçam refluxo do ar quanto um dos equipamentos não está operando? 
+ 
+ 
+ 
+3.2 TOMADA DE AR: 
+SIM 
+NÃO 
+NA 
+3.2.1 
+Existe risco de contaminação pela fumaça de um incêndio na edificação? 
+ 
+ 
+ 
+3.2.2 
+Existem medidas complementares para minimizarem a ação dos ventos (na entrada 
+e na saída)? 
+ 
+ 
+ 
+3.2.3 
+Os pontos de tomada de ar estão instalados no pavimento térreo ou próximo deste? 
+ 
+ 
+ 
+3.2.4 
+A tomada de ar possui filtro de partículas classe G-1, conforme NBR 6401, do tipo 
+metálico lavável?
+
+--- PÁGINA 75 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+75 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+3.2.5 
+Caso necessário, a tomada de ar é realizada através de duto de captação de um 
+local sem  risco de fumaça de incêndio até o compartimento que abriga o conjunto 
+motoventilador? 
+ 
+ 
+ 
+3.2.6 
+A captação de ar do sistema de pressurização é conjugada com a saída da 
+extração de fumaça dos  subsolos? 
+ 
+ 
+ 
+3.2.7 
+O compartimento que abriga o conjunto motoventilador permite facilidades de 
+acesso para manutenção, mesmo quando estiver posicionado em nível 
+subterrâneo? 
+ 
+ 
+ 
+3.3 SISTEMA DE DISTRIBUIÇÃO DE AR PARA PRESSURIZAÇÃO: 
+SIM 
+NÃO 
+NA 
+3.3.1 
+Os dutos são construídos em chapas de metal laminado? 
+ 
+ 
+ 
+3.3.2 
+As chapas de metal dos dutos possuem costuras longitudinais lacradas à máquina? 
+ 
+ 
+ 
+3.3.3 
+As costuras longitudinais, lacradas à máquina, estão vedadas com material 
+adequado? 
+ 
+ 
+ 
+3.3.4 
+Os dutos construídos em alvenaria são exclusivos para a distribuição do ar de 
+pressurização? 
+ 
+ 
+ 
+3.3.5 
+A superfície do duto de alvenaria está revestida com argamassa rebocada? 
+ 
+ 
+ 
+3.3.6 
+A superfície do duto de alvenaria está revestida com chapas metálicas? 
+ 
+ 
+ 
+3.3.7 
+A superfície do duto de alvenaria está revestida com material incombustível, com 
+baixa rugosidade? 
+ 
+ 
+ 
+3.3.8 
+Foram detectados vazamentos no duto? 
+ 
+ 
+ 
+3.3.9 
+Os dutos possuem níveis aceitáveis de vazamentos? 
+ 
+ 
+ 
+3.3.10 
+O nível de ruído transmitido para o interior da escada de segurança, estando 
+desocupada, é inferior a 85 dbA? 
+ 
+ 
+ 
+3.3.11 
+Foram utilizados registros corta-fogo na rede de distribuição dos dutos? 
+ 
+ 
+ 
+3.3.12 
+Os dutos e os elementos de ancoragem possuem características construtivas que 
+garantam TRRF mínimo de 2 h? 
+ 
+ 
+ 
+3.3.13 
+Os revestimentos garantem a manutenção da integridade física dos dutos se 
+submetidos ao fogo, fumaça e gases quentes? 
+ 
+ 
+ 
+3.3.14 
+Os revestimentos garantem a estabilidade construtiva dos dutos se submetidos ao 
+fogo, fumaça e gases quentes? 
+ 
+ 
+ 
+3.3.15 
+Os revestimentos garantem o isolamento térmico dos dutos, evitando a temperatura 
+média no interior entre 140 °C e 180 °C? 
+ 
+ 
+ 
+3.3.16 
+Os revestimentos são constituídos por materiais que não propagam chamas, 
+fumaça e gases tóxicos? 
+ 
+ 
+ 
+3.4 GRELHAS DE INSUFLAÇÃO DE AR: 
+SIM 
+NÃO 
+NA 
+3.4.1 
+As grelhas estão instaladas em toda a altura da escada em intervalos de, no 
+máximo, dois pavimentos? 
+ 
+ 
+ 
+3.4.2 
+As grelhas possuem registros de regulagem para balanceamento da distribuição de 
+ar no interior da escada? 
+ 
+ 
+ 
+3.4.3 
+Foi prevista uma grelha próxima ao piso de descarga e uma próxima ao último 
+pavimento (topo)?
+
+--- PÁGINA 76 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+76 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+3.5 SISTEMA DE SUPRIMENTO ELÉTRICO: 
+SIM 
+NÃO 
+NA 
+3.5.1 
+Existe fornecimento de energia elétrica alternativa para o sistema? 
+ 
+ 
+ 
+3.5.2 
+O fornecimento de energia alternativa é realizado por grupo moto-gerador 
+automatizado? 
+ 
+ 
+ 
+3.5.3 
+O grupo moto-gerador possui autonomia mínima de 4 h de funcionamento 
+ininterrupto? 
+ 
+ 
+ 
+3.5.4 
+Existem outros sistemas de emergência alimentados pelo mesmo grupo moto-
+gerador? 
+ 
+ 
+ 
+3.5.5 
+O circuito de energia elétrica dos ventiladores está conectado à linha de 
+alimentação antes da chave geral? 
+ 
+ 
+ 
+3.5.6 
+As instalações elétricas estão de acordo com a ABNT NBR 5410? 
+ 
+ 
+ 
+3.6 SISTEMA DE CONTROLE DE PRESSÃO 
+SIM 
+NÃO 
+NA 
+3.6.1 
+Foi previsto dispositivo de segurança que impede o aumento da pressão no interior 
+da escada de segurança para nível acima de 60 Pa? 
+ 
+ 
+ 
+3.6.2 
+O dispositivo de segurança (registro de sobrepressão) está instalado entre o 
+espaço pressurizado e um espaço interno à edificação, posicionado fora das áreas 
+de risco de incêndio? 
+ 
+ 
+ 
+3.7 SISTEMA DE DETECÇÃO E ALARME DE INCÊNDIO 
+SIM 
+NÃO 
+NA 
+3.7.1 
+O sistema de pressurização é acionado por detecção automática de fumaça? 
+ 
+ 
+ 
+3.7.2 
+O sistema de detecção de incêndio está instalado nos halls de acesso à escada de 
+segurança? 
+ 
+ 
+ 
+3.7.3 
+Foi observado o impedimento quanto à instalação de detectores de fumaça no 
+interior de espaço pressurizado? 
+ 
+ 
+ 
+3.7.4 
+Foram instalados acionadores manuais do sistema de alarme de incêndio? 
+ 
+ 
+ 
+3.7.5 
+O sistema de pressurização também é acionado pelos acionadores manuais do 
+sistema de alarme de incêndio? 
+ 
+ 
+ 
+3.7.6 
+Foi previsto um acionador manual do sistema de pressurização (tipo "liga") na sala 
+de controle central de serviços da edificação? 
+ 
+ 
+ 
+3.7.7 
+Foi previsto um acionador manual do sistema de pressurização (tipo "liga") no 
+compartimento do ventilador de pressurização? 
+ 
+ 
+ 
+3.7.8 
+Foi previsto um acionador manual do sistema de pressurização (tipo "liga") na 
+portaria ou guarita de entrada da edificação? 
+ 
+ 
+ 
+3.7.9 
+Foi previsto, no painel de controle dos ventiladores, um acionador manual de 
+parada do sistema para uma situação de emergência? 
+ 
+ 
+ 
+3.7.10 
+O detector de incêndio no interior do compartimento dos ventiladores foi instalado 
+com a lógica de acionamento invertida? 
+ 
+ 
+ 
+3.7.11 
+Existe condição para a realização de teste do sistema de alarme de incêndio sem a 
+necessidade de operar o sistema de pressurização? 
+ 
+ 
+ 
+3.7.12 
+O painel da central de comando de detecção e alarme de incêndio permite a 
+identificação do setor atingido?
+
+--- PÁGINA 77 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+77 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+3.7.13 
+O painel da central de comando detecção e alarme de incêndio permite monitorar 
+todos os detectores e botoeiras de alarme de incêndio instalados? 
+ 
+ 
+ 
+3.7.14 
+As portas corta-fogo possuem sistema de destravamento eletromagnético 
+automático? 
+ 
+ 
+ 
+3.7.15 
+As portas corta-fogo destravam automaticamente no caso de falta de energia 
+elétrica? 
+ 
+ 
+ 
+3.7.16 
+O sistema de destravamento automático eletromagnético é monitorado pela central 
+de detecção e alarme de incêndio? 
+ 
+ 
+ 
+3.8 SISTEMA DE ESCAPE DO AR UTILIZADO PARA PRESSURIZAÇÃO 
+SIM 
+NÃO 
+NA 
+3.8.1 
+Foi necessária a instalação de sistema automático de escape de ar mediante 
+sensores independentes? 
+ 
+ 
+ 
+3.8.2 
+Os sensores independentes do sistema automático de escape de ar são acionados 
+pelo mesmo sistema dos ventiladores de pressurização? 
+ 
+ 
+ 
+3.8.9 
+Os sensores independentes do sistema automático de escape de ar estão 
+interligados à rede elétrica do sistema de pressurização? 
+ 
+ 
+ 
+3.9 PROCEDIMENTOS DE MANUTENÇÃO 
+SIM 
+NÃO 
+NA 
+3.9.1 
+Os equipamentos do sistema de pressurização estão instalados em local de fácil 
+acesso? 
+ 
+ 
+ 
+3.9.2 
+O local de instalação dos equipamentos possui iluminação adequada? 
+ 
+ 
+ 
+3.9.3 
+Existem materiais armazenados na casa de máquinas? 
+ 
+ 
+ 
+3.9.4 
+As manutenções realizadas no sistema de pressurização possuem arquivo para 
+controle? 
+ 
+ 
+ 
+3.9.5 
+Existem cópias dos documentos técnicos referentes à instalação do sistema? 
+ 
+ 
+ 
+3.9.6 
+O local de instalação dos equipamentos possui ponto de energia elétrica 
+compatível? 
+ 
+ 
+ 
+4. IDENTIFICAÇÃO DO RESPONSÁVEL PELO LAUDO TÉCNICO 
+Nome: 
+CREA/CAU: 
+Endereço: 
+Nº 
+Complemento: 
+Bairro: 
+Cidade: 
+CEP: 
+E-mail: 
+Fone: 
+Nº do documento de responsabilidade técnica: 
+_____________________________________, de _____________ de _____________ 
+_________________________________________________ 
+Assinatura do Responsável Técnico
+
+--- PÁGINA 78 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+78 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6 ATESTADOS E DECLARAÇÕES 
+E.6.1 ATESTADO DE FORMAÇÃO DE BRIGADA DE INCÊNDIO REALIZADA EM  
+CENTRO DE FORMAÇÃO 
+ATESTADO 
+Atesto, para os devidos fins, que as pessoas abaixo relacionadas, funcionários da 
+__________________________, situada na Rua/Av. ______________________, nº______, no 
+bairro__________________, na cidade de _________________, participaram do curso de 
+treinamento de Brigada de Incêndio com ______ horas/aula, realizado no período de 
+___/____/____ a ___/____/____, no Centro de Formação_________________________, 
+credenciado no CBMMG sob o nº __________. Tendo concluído com aproveitamento o curso, 
+estão aptos para operarem os sistemas e equipamentos de proteção e combate a incêndios 
+instalados na edificação ou espaço destinado ao uso coletivo: 
+NOME 
+CPF 
+NÍVEL DE TREINAMENTO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________, de _________________________de ________. 
+___________________________________________ 
+Assinatura do responsável pelo treinamento 
+Dados da instituição que ofereceu o treinamento 
+Obs.: A declaração deverá conter dados da instituição de ensino/formação (endereço, nº de 
+credenciamento) e dados do responsável pelo treinamento (RG, CPF, Registro em conselho 
+profissional ou nº de credenciamento do instrutor).
+
+--- PÁGINA 79 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+79 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.2 ATESTADO DE FORMAÇÃO DE BRIGADA DE INCÊNDIO NA 
+PRÓPRIA EDIFICAÇÃO OU ESPAÇO DESTINADO AO USO COLETIVO 
+ATESTADO 
+Atesto para os devidos fins que as pessoas abaixo relacionadas participaram com bom 
+aproveitamento do treinamento de "Brigada de Incêndio" ministrado na Edificação/Espaço 
+destinado ao uso coletivo localizado na rua __________________, nº____, bairro__________, 
+município de _________________ - MG e estão aptas ao manuseio dos equipamentos de 
+prevenção e combate a incêndio do local: 
+NOME 
+CPF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________, ______de________________de__________. 
+NOME COMPLETO 
+Qualificação Profissional/ Registro Nº00000 
+Obs.: Só é válido com a comprovação da capacitação técnica do signatário (Anexar cópia da 
+credencial).
+
+--- PÁGINA 80 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+80 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.3 ATESTADO DE COMPOSIÇÃO DE BRIGADA DE INCÊNDIO  
+PARA EVENTO TEMPORÁRIO 
+ATESTADO 
+Atesto, para os devidos fins, que os brigadistas profissionais abaixo relacionados atuarão no 
+evento temporário denominado _________________, a ocorrer no(s) dia(s) ___/___/___ a 
+___/___/___, 
+no 
+endereço 
+Rua/Av. 
+______________________, 
+nº______, 
+no 
+bairro__________________, na cidade de _________________.  
+NOME 
+CPF 
+CENTRO DE 
+TREINAMENTO 
+Nº DE 
+CREDENCIAMENTO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________, de _________________________de ________. 
+___________________________________________ 
+Assinatura do Responsável Técnico – CREA/CAU 
+Obs.: Não há necessidade de juntada dos certificados individuais de formação dos brigadistas 
+profissionais, bastando o preenchimento da coluna “Nº DE CREDENCIAMENTO”.
+
+--- PÁGINA 81 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+81 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.4 ATESTADO DE ABRANGÊNCIA DO GRUPO GERADOR DE ENERGIA 
+ 
+ATESTADO DE ABRANGÊNCIA DO GRUPO GERADOR DE ENERGIA 
+Eu, _____________________, registrado no CREA/CAU/CFT sob o nº _______, visando a 
+concessão do Auto de Vistoria do CBMMG, atesto que o grupo gerador de energia existente 
+na edificação situada na __________________________, encontra-se instalado de acordo 
+com as normas específicas, tendo as seguintes características: 
+ 
+Motor (marca e modelo): 
+Potência: 
+Tensão: 
+Tipo de acionamento: 
+Tempo de acionamento do Grupo Gerador de Energia: 
+Combustível: 
+Capacidade do Tanque: 
+Autonomia: 
+Abrangência: 
+Local: 
+Data: 
+Assinatura do Responsável Técnico 
+Nº do documento de responsabilidade 
+técnica:
+
+--- PÁGINA 82 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+82 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.5 DECLARAÇÃO DE CONFORMIDADE DO DIMENSIONAMENTO ESTRUTURAL EM 
+RELAÇÃO ÀS NORMAS BRASILEIRAS E IT 06 DO CBMMG  
+ 
+DECLARAÇÃO 
+ 
+Declaro 
+para 
+os 
+devidos 
+fins 
+que 
+as 
+estruturas 
+da 
+edificação 
+localizada 
+na 
+rua________________________________, nº _________, bairro ________________________, 
+na cidade ________________/MG foram dimensionadas em conformidade com a Instrução 
+Técnica nº 06 do Corpo de Bombeiros Militar de Minas Gerais, sendo previstas as devidas medidas 
+de segurança para as estruturas com as seguintes características: 
+Estrutura de aço/mista: 
+Procedimento adotado: Foi adotado o método de cálculo previsto na NBR14.323 / Eurocode. 
+Materiais Utilizados: (Citar todos materiais utilizados na proteção dos elementos estruturais, se for ocaso). 
+Espessuras Adotadas: As espessuras foram calculadas com base nos seguintes ensaios 
+laboratoriais / de acordo com os procedimentos da Norma________/ conforme carta de cobertura 
+em anexo... 
+Estrutura de Concreto: 
+Procedimento adotado: Foi adotado o método tabular / método simplificado de cálculo/método 
+experimental/outros métodos, conforme norma____________. 
+Dimensões adotadas: Para vigas/pilares/outros foram adotadas as seguintes dimensões. 
+Outras estruturas: 
+Procedimento adotado: Foi adotado o método conforme norma . 
+Dimensões adotadas: Para vigas/pilares/outros foram adotadas as seguintes dimensões. 
+Materiais Utilizados: (Citar todos materiais utilizados na proteção dos elementos estruturais, se for ocaso). 
+TRRF: Foram adotados os TRRF previstos no PSCIP ou os TRRF foram redimensionados 
+adotando-se o método _______________________________, cujo memorial segue em anexo. 
+ 
+_______________________________________________ 
+Nome:                   CREA/CAU nº 
+Resp. Técnico pela Declaração 
+ 
+Obs.: A presente declaração deverá ser acompanhada do respectivo documento de 
+responsabilidade técnica.
+
+--- PÁGINA 83 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+83 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.6 DECLARAÇÃO DO RESPONSÁVEL TÉCNICO PELA CONFORMIDADE DA 
+EXECUÇÃO DA SEGURANÇA ESTRUTURAL 
+DECLARAÇÃO 
+Declaro, para os devidos fins, que as estruturas da edificação localizada na rua 
+_________________________________, nº _______, bairro ___________________, cidade 
+_______________/MG foram executadas em conformidade com as Normas Brasileiras e a 
+Instrução Técnica nº 06 do Corpo de Bombeiros Militar de Minas Gerais. 
+______________________________ 
+Nome: 
+Nº de Registro CREA/CAU: 
+Obs.: A presente declaração deverá ser acompanhada do respectivo documento de 
+responsabilidade técnica.
+
+--- PÁGINA 84 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+84 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.7 DECLARAÇÃO DE RESPONSABILIDADE TÉCNICA PELA EXECUÇÃO DO 
+CONTROLE DE MATERIAIS DE ACABAMENTO E REVESTIMENTO 
+DECLARAÇÃO 
+Declaro, para os devidos fins, que os materiais de acabamento e revestimento empregados na 
+edificação localizada na rua (av., pça., etc.)________________ 
+, 
+nº 
+, 
+bairro 
+____________,(cidade)__________/MG, estão em conformidade com o respectivo projeto de 
+Controle de Materiais de Acabamento e Revestimento. 
+______________________________ 
+Responsável Técnico: 
+Nº CREA/CAU: 
+Nota: Caso o Responsável Técnico pela execução do CMAR não seja o responsável pela 
+execução das demais medidas de segurança contra incêndio e pânico, a declaração deverá ser 
+acompanhada do respetivo documento de responsabilidade técnica.
+
+--- PÁGINA 85 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+85 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.8 DECLARAÇÃO DE COMPROVAÇÃO DE EXISTÊNCIA/CONSTRUÇÃO 
+ 
+DECLARAÇÃO DE COMPROVAÇÃO DE 
+EXISTÊNCIA/CONSTRUÇÃO 
+EU,_____________________________________________,CPFNº_________________________
+,RGNº________________________________________________,PROPRIETÁRIODA 
+EDIFICAÇÃO 
+SITUADAÀ_________________________________________, 
+BAIRRO________________________, 
+NA 
+CIDADE 
+DE 
+______________________________________________, 
+MINAS 
+GERAIS, 
+E 
+DEMAIS 
+TESTEMUNHAS, DECLARAMOS, PARA FINS DE COMPROVAÇÃO JUNTO AO CBMMG, QUE 
+NÃO HÁ DOCUMENTOS COMPROBATÓRIOS NA ADMINISTRAÇÃO PÚBLICA OU CARTÓRIOS 
+QUE COMPROVEM A DATA DA CONCLUSÃO DOS ELEMENTOS ESTRUTURAIS DA 
+EDIFICAÇÃO. 
+ 
+DESTA FORMA, NOS UTILIZAMOS DESTE INSTRUMENTO PARA DECLARAR A CONCLUSÃO 
+DA CONSTRUÇÃO EM DATA ANTERIOR A _________________________ (DIA/MÊS/ANO) COM 
+AOCUPAÇÃO __________________________E A ÁREA TOTAL DE ___________ m².  
+ 
+DECLARAMOS ESTAR CIENTES DA RESPONSABILIDADE PELA VERACIDADE DAS 
+INFORMAÇÕES PRESTADAS, SOB PENA DE INCORRER NO ARTIGO 299¹ DA LEI 2.848 DE 07 
+DE DEZEMBRO DE 1940 (CÓDIGO PENAL BRASILEIRO). 
+ 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______ 
+ 
+______________________________________________ 
+PROPRIETÁRIO DA EDIFICAÇÃO 
+ 
+______________________________________________ 
+TESTEMUNHA 
+CPF: 
+______________________________________________ 
+TESTEMUNHA 
+CPF: 
+ 
+_________________________ 
+1Falsidade ideológica 
+Art. 299– Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer 
+inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar 
+a verdade sobre fato juridicamente relevante: 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único– Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 86 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+86 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.6.9 DECLARAÇÃO DE NÃO COLOCAÇÃO DE MATERIAIS COMBUSTÍVEIS OU 
+FONTES DE IGNIÇÃO NAS VARANDAS, SACADAS E BALCÕES DA EDIFICAÇÃO. 
+ 
+DECLARAÇÃO 
+ 
+O proprietário/responsável pelo uso da edificação localizada na rua (av., pça., 
+etc.)________________, 
+nº 
+___, 
+bairro 
+____________,(cidade)__________/MG, 
+foi 
+devidamente orientado pelo responsável técnico a respeito do item 5.2.2.1.2.3 da IT 07, e 
+declara que as varandas, sacadas e balcões não serão ocupados com qualquer tipo de material 
+combustível ou fonte de ignição. 
+ 
+Declaramos estar cientes da responsabilidade pela veracidade das informações prestadas, sob 
+pena de incorrer no artigo 299¹ da lei 2.848 de 07 de dezembro de 1940 (código penal brasileiro). 
+ 
+Cidade de ______________________, ___ de ____________ de 20_______ 
+ 
+ 
+ 
+______________________________ 
+______________________________ 
+Responsável Técnico: Nº CREA/CAU: 
+Proprietário/Resp. pelo uso: Nº CPF/CNPJ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1Falsidade ideológica 
+Art. 299 – Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer 
+inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou 
+alterar a verdade sobre fato juridicamente relevante: 
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, 
+se o documento é particular. 
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a 
+falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+
+--- PÁGINA 87 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+87 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.7 MODELO DE CONTEÚDO DO ARQUIVO DWG (Ilustrativo) 
+FL. 01/05
+
+--- PÁGINA 88 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+88 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+FL. 02/05
+
+--- PÁGINA 89 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+89 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+FL. 03/05
+
+--- PÁGINA 90 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+90 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+FL. 04/05
+
+--- PÁGINA 91 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+91 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+FL. 05/05
+
+--- PÁGINA 92 ---
+CBMMG IT 03 – Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP) 
+2ª edição 
+ 
+ 
+92 / 92 
+Alterada pela portaria n. 74, de 29fev2024, publicada no DOEMG n. 44, ano 132, p. 05. 
+E.8 MODELO DE PLANTA DE RISCO (Ilustrativo)

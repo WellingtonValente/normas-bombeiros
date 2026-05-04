@@ -1,0 +1,51 @@
+--- PÁGINA 1 ---
+02/08/2019
+SEI/GOVMG - 6146697 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7305250&infra_…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS
+ERRATA 03/2019 DA INSTRUÇÃO TÉCNICA Nº 16/2017 – 3ª Edição 
+(Sistema de Proteção por ExƟntores de Incêndio)
+Esta Errata nº 03/2019 tem por objeƟvo ALTERAR o seguinte item da Instrução Técnica 16 (Sistema de
+Proteção por ExƟntores de Incêndio) 3ª edição/2017:
+1. ALTERA o item 5.2 e subitem 5.2.1.
+Onde se lê:
+5.2 Para a seleção dos exƟntores de incêndio deverão ser observadas as classes de fogo abrangidas pelo
+agente exƟntor, observando-se as Normas Brasileiras perƟnentes.
+5.2.1 Enquanto não houver Norma Brasileira que estabeleça requisitos para as classes D e K, deverão ser
+adotadas normas internacionalmente reconhecidas para a determinação do agente exƟntor.
+Leia-se:
+5.1.1 Para a seleção dos exƟntores de incêndio deverão ser observadas as classes de fogo abrangidas
+pelo agente exƟntor, observando-se as Normas Brasileiras perƟnentes.
+5.1.2 Enquanto não houver Norma Brasileira que estabeleça requisitos para as classes D e K, deverão ser
+adotadas normas internacionalmente reconhecidas para a determinação do agente exƟntor.
+2. ALTERA o item 6.2.3.1.
+Onde se lê:
+6.2.3.1 Para determinar a capacidade exƟntora mínima dos exƟntores de incêndio e a distância máxima a
+ser percorrida, de acordo com o risco, deve-se observar o constante nas tabelas 4 e 5.
+Leia-se:
+6.2.3.1 Para determinar a capacidade exƟntora mínima dos exƟntores de incêndio e a distância máxima a
+ser percorrida, de acordo com o risco predominante, deve-se observar o constante nas tabelas 4 ou 5.
+Belo Horizonte, 12 de julho de 2019.
+ 
+ 
+TADEU DO ESPÍRITO SANTO, CORONEL BM
+Diretor de aƟvidades técnicas
+ 
+Documento assinado eletronicamente por Tadeu do Espirito Santo, Diretor(a), em 12/07/2019, às
+16:49, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+
+--- PÁGINA 2 ---
+02/08/2019
+SEI/GOVMG - 6146697 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7305250&infra_…
+2/2
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 6146697 e
+o código CRC A5F54017.
+Referência: Processo nº 1400.01.0034848/2019-94
+SEI nº 6146697

@@ -1,0 +1,3853 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+ 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA Nº 09 
+2ª edição 
+CARGA DE INCÊNDIO NAS 
+EDIFICAÇÕES E ESPAÇOS 
+DESTINADOS AO USO COLETIVO 
+ 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências  
+4 – Definições 
+5 – Procedimentos 
+ANEXOS 
+A – Cargas de incêndio específicas por 
+ocupação 
+B – Carga de incêndio relativa à altura de 
+armazenamento (depósito) 
+C 
+– 
+Método 
+determinístico 
+para 
+levantamento da carga de incêndio 
+específica 
+D – Exemplos de determinação de carga 
+de incêndio
+
+--- PÁGINA 2 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+2 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+1 OBJETIVO 
+1.1 Estabelecer valores característicos de carga de incêndio nas edificações e espaços 
+destinados ao uso coletivo, conforme a ocupação e uso específico.  
+2 APLICAÇÃO 
+2.1 As cargas de incêndio constantes nesta Instrução Técnica (IT) aplicam-se às edificações e 
+espaços destinados ao uso coletivo no Estado de Minas Gerais, conforme prescreve o 
+Regulamento de Segurança Contra Incêndio e Pânico, para fins de determinar: 
+a) a classificação da severidade; 
+b) a classificação do risco; 
+c) os parâmetros das medidas de segurança contra incêndio e pânico; 
+d) a isenção de medidas de segurança contra incêndio e pânico; 
+e) a análise global de risco das edificações que compõem o Patrimônio Cultural.  
+3 
+REFERÊNCIAS  
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, 
+levando-se em consideração suas atualizações ou outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual nº 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado 
+de Minas Gerais. 
+Lei Federal nº 13.425/2017 – Estabelece diretrizes gerais sobre medidas de prevenção e 
+combate a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de 
+público. 
+Decreto Estadual nº 47.998/2020 – Regulamenta a Lei Estadual nº 14.130/2001. 
+3.2 Normas 
+Instrução Técnica nº 01 – Procedimentos Administrativos, CBMMG. 
+Instrução Técnica nº 05 – Separações entre Edificações (Isolamento de Risco), CBMMG. 
+Instrução Técnica nº 06 – Segurança Estrutural das Edificações, CBMMG. 
+Instrução Técnica nº 11 – Plano de Intervenção de Incêndio, CBMMG. 
+Instrução Técnica nº 12 – Brigada de Incêndio, CBMMG. 
+Instrução Técnica nº 14/2019 – Carga de Incêndio nas Edificações e Áreas de Risco, 
+CBPMESP. 
+Norma Técnica nº 04/2020 – Carga de Incêndio nas Edificações e Áreas de Risco, CBMES. 
+Norma Técnica nº 14/2020 – Carga de Incêndio nas Edificações e Áreas de Risco, CBMGO.
+
+--- PÁGINA 3 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+3 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Norma Técnica nº 07/2017 – Carga Incêndio nas Edificações e Áreas de risco, CBMMT. 
+Instrução Técnica nº 16 – Sistema de Proteção por Extintores de Incêndio, CBMMG. 
+Instrução Técnica nº 17 – Sistema de Hidrantes e Mangotinhos para Combate a Incêndio, 
+CBMMG. 
+Instrução Técnica nº 23 – Manipulação, Armazenamento, Comercialização e Utilização de Gás 
+Liquefeito de Petróleo (GLP), CBMMG. 
+Instrução Técnica nº 25 – Fogos de Artifício e Pirotecnia, CBMMG. 
+Instrução Técnica nº 35 – Segurança Contra Incêndio em Edificações que Compõem o 
+Patrimônio Cultural, CBMMG. 
+NBR 5628 – Componentes construtivos estruturais – Determinação da resistência ao fogo. 
+NBR 6118 – Projetos de estrutura de concreto. 
+NBR 6479 – Portas e vedadores – Determinação da resistência ao fogo. 
+NBR 10636 – Paredes divisórias sem função estrutural – Determinação da resistência ao fogo. 
+NBR 11711 – Portas e vedadores corta-fogo com núcleo de madeira para isolamento de riscos 
+em ambientes comerciais e industriais. 
+NBR 11742 – Porta corta-fogo para saídas de emergência – Especificação. 
+NBR 13768 – Acessórios destinados à porta corta-fogo para saída de emergência – Requisitos. 
+NBR 14323 – Dimensionamento de estrutura de aço de edifício em situação de incêndio –
+Procedimento. 
+NBR 14432 – Exigências de resistência ao fogo de elementos construtivos de edificações –
+procedimento. 
+NBR 14925 – Unidades envidraçadas resistentes ao fogo para uso em edificações. 
+ 
+NBR 17240 – Sistema de Detecção e Alarme de Incêndio – Projeto, instalação, 
+comissionamento e manutenção de sistemas de detecção e alarme de incêndio – Requisitos. 
+3.2.1 Normas Internacionais 
+European Committee for Standardization. Eurocode 1 – ENV 1991-2-2.1995. 
+Liga Federal de Combate a Incêndio da Áustria. TRVB – 126.1987.  
+BS EN 1991-1-2:2002. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se, além daquelas previstas no Regulamento 
+de Segurança contra Incêndio e Pânico e na IT 02 (Terminologia de proteção contra incêndio e 
+pânico), as seguintes definições:
+
+--- PÁGINA 4 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+4 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+4.1 Carga de incêndio: Soma das energias caloríficas possíveis de serem liberadas pela 
+combustão completa de todos os materiais combustíveis contidos em um espaço, inclusive o 
+revestimento das paredes, divisórias, pisos e tetos. 
+4.2 Carga de incêndio específica: é a soma das energias caloríficas possíveis de serem 
+liberadas pela combustão completa de todos os materiais combustíveis em um espaço, inclusive 
+o revestimento das paredes, divisórias, pisos e tetos, dividida pela área de piso do espaço 
+considerado, medida em megajoule por metro quadrado (MJ/m²). 
+4.3 Método de cálculo probabilístico: é o método de cálculo baseado em resultados 
+estatísticos do tipo de atividade exercida na edificação em estudo.  
+4.4 Método de cálculo determinístico: é o método de cálculo baseado no prévio conhecimento 
+da quantidade e qualidade de materiais existentes na edificação em estudo.  
+5 PROCEDIMENTOS 
+5.1 Para determinação da carga de incêndio específica das edificações e espaços destinados 
+ao uso coletivo, aplicam-se, em regra, as tabelas previstas nos Anexos A e B (método 
+probabilístico). 
+5.1.1 Para fins de aplicação do Anexo A, caso determinada atividade específica não esteja 
+expressamente descrita na Tabela A.1, será adotada a descrição da atividade genérica que 
+melhor contemple a referida atividade específica. (Exemplo: “Impressão de material publicitário” 
+se enquadrará na descrição de “Impressão em Geral”). 
+5.2 Ocupações não listadas nas tabelas do Anexos A poderão ter os valores da carga de 
+incêndio específica determinados por similaridade, a critério do Responsável Técnico, ou 
+mediante a metodologia prevista no Anexo C (método determinístico).  
+5.2.1 A similaridade de que trata o item 5.2 será admitida entre as edificações comerciais (grupo 
+“C”) e industriais (grupo “I”). 
+5.3 As ocupações do Grupo “J” adotarão a tabela relativa à altura de armazenamento prevista 
+no Anexo B para a definição da carga de incêndio. 
+5.3.1 Quando algum tipo de material armazenado não estiver especificado no Anexo B, aplica-
+se a metodologia prevista no Anexo C (método determinístico). 
+5.4 Para edificações destinadas a explosivos (Grupo “L”) e ocupações especiais (Grupo “M”) 
+não especificadas no Anexo A, aplica-se a metodologia prevista no Anexo C (método 
+determinístico). 
+5.5 A critério do Responsável Técnico, nas edificações e espaços destinados ao uso coletivo 
+em que a carga de incêndio divergir dos valores previstos nos Anexos A e B desta Instrução 
+Técnica, poderá ser utilizado o Anexo C (método determinístico) para definição da carga de 
+incêndio. 
+5.6 Para instalações destinadas ao processamento de lixo (Grupo “I”), a carga de incêndio 
+específica deverá ser definida por meio das metodologias do Anexo B ou do Anexo C, a critério 
+do Responsável Técnico. 
+5.7 
+Em 
+edificações 
+da 
+classificação 
+Comercial 
+(Grupo 
+“C”) 
+com 
+altura 
+de 
+armazenamento/estocagem superior a 3,7 metros, deverá ser adotado o parâmetro de 
+Depósitos (Grupo “J”) para fins de definição da carga de incêndio específica.
+
+--- PÁGINA 5 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+5 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+5.8 Nas edificações e espaços destinados ao uso coletivo que desenvolvam atividades de 
+processamento, produção, estocagem e comércio de fertilizantes cujos componentes possuam 
+característica potencialmente explosiva ou combustível, a carga de incêndio específica deverá 
+ser definida por meio da metodologia do Anexo C. 
+5.9 Para fins de exigências de medidas de segurança e aplicação de seus parâmetros, quando 
+houver ocupação mista sem compartimentação entre as ocupações, será considerada a maior 
+carga de incêndio encontrada para toda a edificação. Havendo compartimentação entre as 
+ocupações, as cargas de incêndio serão definidas de maneira individual para cada ocupação. 
+5.10 Para a classificação do risco de carga de incêndio, as edificações e espaços destinado ao 
+uso coletivo se subdividem em:  
+CLASSIFICAÇÃO DAS EDIFICAÇÕES E ESPAÇOS DESTINADOS AO 
+USO COLETIVO QUANTO À CARGA DE INCÊNDIO 
+Risco 
+Carga de Incêndio (MJ/m²) 
+Baixo 
+Até 300 MJ/m² 
+Médio 
+Acima de 300 até 1.200 MJ/m² 
+Alto 
+Acima de 1.200 MJ/m²
+
+--- PÁGINA 6 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+6 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ANEXO A 
+Cargas de incêndio específicas por ocupação 
+Tabela A.1 de cargas de incêndio específica por ocupação  
+Para a classificação detalhada das ocupações (Divisão), consultar o Anexo do Regulamento de 
+Segurança Contra Incêndio e Pânico do Estado de Minas Gerais 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Residencial 
+Alojamentos 
+A-3 
+300 
+Casas térreas ou assobradadas (isoladas e não isoladas) 
+A-1 
+300 
+Condomínios horizontais 
+A-1 
+300 
+Conventos 
+A-3 
+300 
+Edifícios de apartamentos 
+A-2 
+300 
+Internatos 
+A-3 
+300 
+Mosteiros 
+A-3 
+300 
+Pensionatos 
+A-3 
+300 
+Residências geriátricas (com capacidade máxima de 16 
+leitos), sem acompanhamento médico 
+A-3 
+300 
+Residências terapêuticas 
+A-1 
+300 
+Serviço de 
+Hospedagem 
+Albergues 
+B-1 
+500 
+Apart-hotéis 
+B-2 
+500 
+Campings 
+B-1 
+500 
+Flats 
+B-2 
+500 
+Habitação coletiva com mais de 16 leitos 
+B-1 
+500 
+Hospedarias 
+B-1 
+500 
+Hotéis 
+B-1 
+500 
+Hotéis e assemelhados com cozinha própria nos 
+apartamentos 
+B-2 
+500 
+Hotéis residenciais 
+B-2 
+500 
+Motéis 
+B-1 
+500 
+Pensões 
+B-1 
+500 
+Pousadas 
+B-1 
+500 
+Comercial 
+Açúcar 
+C-2 
+1000 
+Algodão 
+C-2 
+600 
+Andaimes - aluguel 
+C-1 
+300 
+Animais - atacado de animais vivos e ovos 
+C-1 
+300 
+Animais - varejo de animais vivos, de artigos e alimentos 
+para animais de estimação ("pet shop") 
+C-2 
+600 
+Antiguidades 
+C-2 
+700 
+Aparelhos eletrodomésticos e equipamentos de áudio e 
+vídeo, incluindo peças e acessórios 
+C-1 
+300 
+Aparelhos eletrônicos e componentes, equipamentos de 
+telefonia, comunicação e informática 
+C-2 
+400 
+Armarinhos - varejo 
+C-1 
+300 
+Armas e munições 
+C-2 
+800 
+Artesanatos e souvenirs 
+C-1 
+300
+
+--- PÁGINA 7 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+7 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Comercial 
+Bebidas - água, cerveja, chope, refrigerante 
+C-1 
+80 
+Bebidas - vinho, saquê, cidra 
+C-1 
+200 
+Bebidas destiladas 
+C-2 
+500 
+Bijuteria, artigos de metal e vidro 
+C-1 
+300 
+Bolsas, malas e artigos de viagem 
+C-2 
+600 
+Bombas e compressores; partes e peças 
+C-1 
+200 
+Borracha, cortiça, couro, feltro, espuma - artigos 
+C-2 
+600 
+Brinquedos e artigos recreativos 
+C-2 
+500 
+Caça, pesca e camping - artigos 
+C-2 
+800 
+Cacau 
+C-2 
+400 
+Café 
+C-2 
+400 
+Caixões e urnas 
+C-2 
+500 
+Cal, areia, pedra britada, tijolos e telhas 
+C-1 
+300 
+Calçados 
+C-2 
+600 
+Carnes - atacado ou varejo (açougue) de carnes e 
+derivados, pescados e frutos do mar 
+C-1 
+40 
+Carvão e lenha 
+C-2 
+3000 
+Centros comerciais de compras (Shopping centers) 
+C-3 
+800 
+Cera, artigos de 
+C-2 
+2100 
+Cereais e leguminosas beneficiados, farinhas, amidos e 
+féculas 
+C-2 
+2000 
+Cimento 
+C-1 
+40 
+Comércio atacadista de cigarros, cigarrilhas, charutos 
+C-2 
+800 
+Cosméticos, produtos de perfumaria e higiene pessoal 
+C-2 
+400 
+Couros, lãs, peles e outros subprodutos não-comestíveis 
+de origem animal - atacado 
+C-2 
+500 
+Defensivos agrícolas, adubos, fertilizantes e corretivos do 
+solo (exceto cujos componentes possuem característica 
+potencialmente explosiva ou combustível) 
+C-1 
+200 
+Doces, chocolates, confeitos, balas, bombons e 
+semelhantes 
+C-2 
+400 
+Embalagens 
+C-2 
+800 
+Esporte, artigos de 
+C-2 
+800 
+Ferragens e ferramentas 
+C-1 
+300 
+Filmes, CDs, DVDs, fitas e discos 
+C-2 
+600 
+Floricultura - sementes, flores, plantas e gramas 
+C-1 
+80 
+Fotografia - artigos fotográficos e para filmagem 
+C-1 
+300 
+Galeria de quadros 
+C-1 
+200 
+Hortifrutigranjeiros 
+C-1 
+200 
+Iluminação - artigos 
+C-2 
+500 
+Instrumentos e materiais para uso médico, cirúrgico, 
+hospitalar e de laboratórios 
+C-1 
+300 
+Instrumentos musicais e acessórios 
+C-2 
+600 
+Joalheria 
+C-1 
+300 
+Leite, laticínios e frios 
+C-1 
+200 
+Livros, jornais, revistas e outras publicações 
+C-2 
+1000 
+Lojas de conveniência 
+C-2 
+400
+
+--- PÁGINA 8 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+8 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Comercial 
+Lojas de departamentos ou magazines 
+C-2 
+800 
+Lojas de variedades, exceto lojas de departamentos ou 
+magazines 
+C-2 
+600 
+Lubrificantes (comércio varejista) 
+C-2 
+1000 
+Lustres, luminárias e abajures 
+C-1 
+40 
+Madeira - estruturas para locação 
+C-2 
+1000 
+Madeira e artefatos - varejo 
+C-2 
+800 
+Madeira e artefatos com tratamento ou impregnação - 
+varejo 
+C-2 
+3000 
+Madeira e produtos derivados - atacado 
+C-2 
+3000 
+Máquinas e equipamentos não especificados nesta tabela; 
+partes e peças 
+C-1 
+300 
+Máquinas e equipamentos para costura ou escritórios 
+C-1 
+300 
+Máquinas e equipamentos para uso comercial; partes e 
+peças 
+C-1 
+300 
+Máquinas e equipamentos para uso industrial; partes e 
+peças 
+C-1 
+200 
+Máquinas, aparelhos e equipamentos para uso 
+agropecuário; partes e peças 
+C-1 
+300 
+Máquinas, aparelhos e equipamentos para uso odonto-
+médico-hospitalar; partes e peças 
+C-1 
+200 
+Máquinas, equipamentos para terraplenagem, mineração 
+e construção; partes e peças 
+C-1 
+300 
+Massas alimentícias 
+C-2 
+1000 
+Materiais de construção em geral 
+C-2 
+800 
+Materiais elétricos e hidráulicos 
+C-1 
+300 
+Materiais para festas 
+C-2 
+1000 
+Matérias-primas agrícolas (exceto cujos componentes 
+possuem característica potencialmente explosiva ou 
+combustível) 
+C-2 
+500 
+Móveis (exceto colchoaria) 
+C-2 
+600 
+Móveis com colchoaria 
+C-2 
+1000 
+Objetos de arte 
+C-1 
+200 
+Odontológico, produtos 
+C-1 
+300 
+Óleos e gorduras 
+C-2 
+1000 
+Óptica 
+C-1 
+300 
+Pães, bolos, biscoitos e similares 
+C-2 
+1000 
+Palcos, coberturas e outras estruturas de uso temporário 
+(exceto andaimes) - aluguel 
+C-2 
+400 
+Papel de parede e similares 
+C-2 
+500 
+Papel e papelão em geral - atacado 
+C-2 
+800 
+Papelão betuminado 
+C-2 
+2000 
+Papelaria e artigos de escritórios 
+C-2 
+700 
+Pedras para acabamento e revestimento 
+C-1 
+40 
+Pilhas, baterias e acumuladores elétricos 
+C-2 
+800 
+Plástico - artigos 
+C-2 
+1000 
+Pneus, pneumáticos e câmaras-de-ar 
+C-2 
+700 
+Produtos adesivos 
+C-2 
+1000 
+Produtos da extração mineral, exceto combustíveis 
+C-1 
+200 
+Produtos de limpeza 
+C-2 
+2000
+
+--- PÁGINA 9 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+9 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Comercial 
+Produtos e artigos de argila, barro e olaria 
+C-1 
+200 
+Produtos farmacêuticos, medicamentos e drogas de uso 
+humano e veterinário 
+C-2 
+1000 
+Produtos para piscina, inseticidas, repelentes 
+C-2 
+500 
+Produtos químicos e petroquímicos 
+C-2 
+4000 
+Produtos siderúrgicos e metalúrgicos (exceto para 
+construção) 
+C-1 
+200 
+Próteses e artigos de ortopedia 
+C-1 
+300 
+Rações/alimentos para animais - atacado de alimentos 
+para animais 
+C-2 
+2000 
+Relojoaria 
+C-2 
+600 
+Resíduos e sucatas metálicos 
+C-1 
+200 
+Resíduos e sucatas não metálicos 
+C-2 
+800 
+Resinas e elastômeros 
+C-2 
+3000 
+Sisal 
+C-2 
+600 
+Soja 
+C-2 
+1700 
+Solventes 
+C-2 
+4000 
+Sorvetes 
+C-1 
+80 
+Supermercado (mercados em geral) 
+C-2 
+400 
+Tabacaria 
+C-1 
+200 
+Tapeçaria, persianas e cortinas 
+C-2 
+800 
+Têxteis e tecidos em geral 
+C-2 
+700 
+Tintas (incluindo material de pintura), vernizes e similares 
+C-2 
+1000 
+Toldos - aluguel 
+C-2 
+800 
+Veículos automotores e embarcações (incluindo peças e 
+acessórios) 
+C-1 
+200 
+Veículos recreativos - bicicletas, triciclos, entre outros 
+(incluindo peças e acessórios) 
+C-1 
+200 
+Vidros, espelhos e vitrais 
+C-1 
+300 
+Serviço 
+profissional 
+Administração pública em geral 
+D-1 
+700 
+Agências bancárias e similares 
+D-2 
+300 
+Agências de correios, de serviços de postagem e similares 
+D-1 
+400 
+Agências de notícias 
+D-1 
+400 
+Agências de publicidade 
+D-1 
+700 
+Agências de turismo 
+D-1 
+700 
+Agências matrimoniais 
+D-1 
+700 
+Alojamento, higiene e embelezamento de animais 
+D-1 
+300 
+Aluguel de imóveis próprios 
+D-1 
+700 
+Atividades auxiliares dos transportes aéreos, exceto 
+operação dos aeroportos e campos de aterrissagem 
+D-1 
+700 
+Atividades auxiliares dos transportes aquaviários 
+D-1 
+700 
+Atividades de estética e outros serviços de cuidados com 
+a beleza 
+D-1 
+300 
+Atividades de gravação de som e de edição de música 
+D-1 
+700 
+Atividades de limpeza não especificadas nesta tabela 
+D-1 
+700 
+Atividades de produção cinematográfica, de vídeos e de 
+programas de televisão, exceto auditórios 
+D-1 
+300 
+Atividades de produção de fotografias 
+D-1 
+300
+
+--- PÁGINA 10 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+10 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Serviço 
+profissional 
+Atividades de rádio 
+D-1 
+300 
+Atividades de serviços de complementação diagnóstica e 
+terapêutica não especificadas nesta tabela 
+D-4 
+200 
+Atividades de transporte de valores 
+D-1 
+700 
+Atividades de vigilância e segurança privada 
+D-1 
+700 
+Cabeleireiros 
+D-1 
+200 
+Captação, tratamento e distribuição de água e/ou esgoto 
+D-1 
+Conforme atividade 
+(ocupação) específica 
+Cartórios 
+D-1 
+700 
+Centrais telefônicas (telefonistas, telemarketing, callcenter, 
+serviço de atendimento ao consumidor) 
+D-1 
+200 
+Chaveiros 
+D-3 
+200 
+Copiadora 
+D-1 
+400 
+Distribuição de água por caminhões 
+D-1 
+80 
+Encadernadoras 
+D-1 
+400 
+Escafandria e Mergulho 
+D-1 
+700 
+Escritórios e unidades de administração em geral 
+D-1 
+700 
+Fornecimento de alimentos preparados (delivery), serviços 
+de alimentação para eventos e recepções (buffet), cocção 
+de alimentos, todos sem consumo no local de produção e 
+sem caráter industrial 
+D-1 
+300 
+Imunização e controle de pragas urbanas 
+D-1 
+700 
+Instalação de máquinas e equipamentos industriais 
+D-3 
+200 
+Instituições financeiras não incluídas em D-2 
+D-1 
+700 
+Laboratórios clínicos 
+D-4 
+200 
+Laboratórios de anatomia patológica e citológica 
+D-4 
+200 
+Laboratórios fotográficos 
+D-4 
+300 
+Laboratórios químicos 
+D-4 
+500 
+Lavanderias 
+D-3 
+300 
+Manutenção e reparação de aparelhos eletroeletrônicos 
+fotográficos ópticos 
+D-3 
+300 
+Manutenção e reparação de instrumentos musicais 
+D-3 
+600 
+Manutenção e reparação elétricas em geral 
+D-3 
+600 
+Manutenção e reparação hidráulicas ou mecânicas em 
+geral, exceto automotivas 
+D-3 
+200 
+Organismos internacionais e outras instituições 
+extraterritoriais 
+D-1 
+700 
+Organização logística do transporte de carga 
+D-1 
+700 
+Outras atividades profissionais, científicas e técnicas não 
+especificadas nesta tabela 
+D-1 
+700 
+Pesquisa científica e desenvolvimento experimental 
+D-4 
+300 
+Reparação de artigos do mobiliário 
+D-3 
+500 
+Reparação de artigos têxteis em geral (roupas, calçados, 
+bolsas e similares) 
+D-3 
+700 
+Reparação de joias 
+D-3 
+200 
+Reparação de relógios 
+D-3 
+300 
+Reparação e manutenção de artigos borracha, cortiça, 
+couro, feltro, espuma 
+D-3 
+700 
+Reparação e manutenção de computadores e de 
+equipamentos periféricos 
+D-3 
+600 
+Repartições públicas 
+D-1 
+700
+
+--- PÁGINA 11 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+11 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Serviço 
+profissional 
+Restauração de obras-de-arte 
+D-1 
+300 
+Salas de acesso à internet 
+D-1 
+400 
+Serviços advocatícios 
+D-1 
+700 
+Serviços de adestramento de cães de guarda 
+D-1 
+700 
+Serviços de arquitetura, engenharia e similares 
+D-1 
+700 
+Serviços de bancos de células e tecidos humanos 
+D-4 
+200 
+Serviços de cartografia, topografia e geodésia 
+D-1 
+700 
+Serviços de computação em geral 
+D-1 
+400 
+Serviços de cremação sem previsão de reunião de 
+pessoas 
+D-1 
+400 
+Serviços de diagnóstico por imagem, métodos ópticos ou 
+registro gráfico 
+D-4 
+200 
+Serviços de funerárias (exceto aqueles especificados no 
+grupo F) 
+D-1 
+400 
+Serviços de gravação de carimbos, exceto confecção 
+D-1 
+700 
+Serviços de montagem de móveis de qualquer material 
+D-3 
+200 
+Serviços de pintura 
+D-3 
+500 
+Serviços de tatuagem e colocação de piercing 
+D-1 
+300 
+Serviços de tradução, interpretação e similares 
+D-1 
+700 
+Testes e análises técnicas 
+D-4 
+300 
+Tinturarias 
+D-3 
+300 
+Educacional e 
+cultura física 
+Academias e espaços para atividades físicas em geral 
+E-3 
+300 
+Atividades de fisioterapia 
+E-3 
+200 
+Cursos de pilotagem 
+E-2 
+300 
+Cursos preparatórios para concursos 
+E-1 
+300 
+Educação infantil – creche, pré-escola e similares 
+E-5 
+400 
+Educação profissional de nível técnico e tecnológico 
+E-4 
+300 
+Educação superior – graduação, pós-graduação, extensão 
+e similares 
+E-1 
+300 
+Ensino de arte e cultura não especificado nesta tabela 
+E-2 
+300 
+Ensino de artes cênicas, exceto dança 
+E-2 
+300 
+Ensino de dança 
+E-3 
+300 
+Ensino de esportes 
+E-3 
+300 
+Ensino de idiomas 
+E-2 
+300 
+Ensino de música 
+E-2 
+300 
+Ensino fundamental 
+E-1 
+300 
+Ensino médio 
+E-1 
+300 
+Escola para portadores de deficiências 
+E-6 
+300 
+Formação de condutores 
+E-4 
+300 
+Sauna 
+E-3 
+300 
+Treinamento em desenvolvimento profissional e gerencial 
+E-4 
+300 
+Reunião de 
+público 
+ 
+Arquivos 
+F-1 
+2000 
+Bibliotecas 
+F-1 
+2000 
+Bibliotecas de acervo exclusivamente digital 
+F-1 
+450 
+Casas de bingo, casas de apostas e similares 
+F-11 
+600
+
+--- PÁGINA 12 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+12 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Reunião de 
+público 
+Casas de show, casas noturnas, boates, restaurantes 
+dançantes e assemelhados 
+F-6 
+600 
+Cemitérios, crematórios, necrotérios, salas de funerais e 
+assemelhados 
+F-2 
+200 
+Centros de documentos históricos 
+F-1 
+2000 
+Centros esportivos e de exibição (com arquibancada) 
+F-3 
+150 
+Cinemas, teatros, auditórios e similares 
+F-5 
+600 
+Circos e assemelhados 
+F-7 
+500 
+Clubes sociais, esportivos e assemelhados 
+F-11 
+300 
+Construções provisórias 
+F-7 
+500 
+Estações e terminais de passageiros 
+F-4 
+200 
+Eventos temporários, shows e assemelhados 
+F-7 
+500 
+Exposições de objetos e de animais 
+F-10 
+Anexo B ou C 
+Feiras e similares 
+F-7 
+500 
+Igrejas, templos, capelas, sinagogas, mesquitas e espaços 
+assemelhados para reunião ou celebração religiosa 
+F-2 
+200 
+Jogos recreativos eletrônicos, de cartas, de tabuleiro e 
+similares 
+F-11 
+600 
+Lanchonetes, cantinas, casas de chá, de sucos e similares 
+F-8 
+300 
+Museus 
+F-1 
+300 
+Padarias destinadas ao consumo in loco, sem fabricação 
+própria 
+F-8 
+300 
+Parques recreativos permanentes e assemelhados 
+F-9 
+500 
+Restaurantes e bares 
+F-8 
+300 
+Salões de festa, buffet e similares (todos com palco) 
+F-6 
+600 
+Salões de festa, buffet e similares (todos sem palco) 
+F-11 
+600 
+Sinuca, bilhar, boliches e similares 
+F-11 
+600 
+Tiro ao alvo, estandes de tiro e similares 
+F-11 
+600 
+Zoológicos, jardins botânicos, reservas ecológicas, áreas 
+de proteção ambiental e assemelhados 
+F-9 
+500 
+Serviço 
+automotivo e 
+assemelhados 
+Abrigo para aeronaves com ou sem abastecimento 
+G-5 
+300 
+Estacionamentos automáticos e estacionamentos com 
+manobristas 
+G-1 
+200 
+Estacionamentos de veículos com acesso de público 
+G-2 
+200 
+Estacionamentos de veículos sem acesso de público 
+G-1 
+200 
+Estacionamentos de veículos sem automação 
+G-2 
+200 
+Local dotado de abastecimento de combustível 
+G-3 
+300 
+Manutenção e reparação de aeronaves 
+G-5 
+300 
+Oficinas de alinhamento e balanceamento de veículos 
+automotores 
+G-4 
+200 
+Oficinas de lanternagem ou funilaria e pintura de veículos 
+automotores 
+G-4 
+500 
+Oficinas de manutenção de máquinas agrícolas 
+G-4 
+300 
+Oficinas de manutenção e reparação elétrica de veículos 
+automotores 
+G-4 
+600 
+Oficinas e serviços de manutenção, conservação e 
+reparação de veículos 
+G-4 
+300 
+Postos de abastecimento e serviço 
+G-3 
+300 
+Serviços de borracharia para veículos automotores (sem 
+recauchutagem) 
+G-4 
+300
+
+--- PÁGINA 13 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+13 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Serviço de 
+saúde e 
+institucional 
+Asilos, abrigos geriátricos e similares 
+H-2 
+350 
+Atividades de acupuntura 
+H-6 
+200 
+Atividades de apoio à gestão de saúde 
+H-6 
+200 
+Atividades de banco de leite humano 
+H-6 
+200 
+Atividades de enfermagem sem internação 
+H-6 
+200 
+Atividades de fonoaudiologia 
+H-6 
+200 
+Atividades de podologia 
+H-6 
+200 
+Atividades de profissionais da nutrição 
+H-6 
+200 
+Atividades de psicologia e psicanálise 
+H-6 
+200 
+Atividades de reprodução humana assistida 
+H-6 
+200 
+Atividades de terapia ocupacional 
+H-6 
+200 
+Atividade odontológica 
+H-6 
+200 
+Casas de saúde, clínicas, unidades de urgência, 
+ambulatórios e similares (todos com internação) 
+H-3 
+300 
+Clínicas médicas e consultórios em geral (todos sem 
+internação) 
+H-6 
+200 
+Hospitais em geral 
+H-3 
+300 
+Hospitais psiquiátricos 
+H-2 
+350 
+Hospitais psiquiátricos, manicômios, reformatórios (todos 
+com celas) 
+H-5 
+100 
+Hospitais veterinários, clínicas e consultórios veterinários 
+e similares 
+H-1 
+300 
+Locais para tratamento de dependentes químicos e 
+assemelhados 
+H-2 
+350 
+Orfanatos e similares 
+H-2 
+350 
+Outras atividades de atenção à saúde humana sem 
+internação não especificadas nesta tabela 
+H-6 
+200 
+Penitenciárias, casas de detenção, presídios e similares 
+H-5 
+100 
+Postos policiais, Postos de bombeiros, Delegacias, entre 
+outros 
+H-4 
+700 
+Quartéis 
+H-4 
+700 
+Reformatórios (sem celas) 
+H-2 
+350 
+Serviços de vacinação e imunização humana 
+H-6 
+200 
+Unidades de diálise e nefrologia 
+H-6 
+200 
+Unidades de hemodiálise 
+H-6 
+200 
+Unidades de hemoterapia 
+H-6 
+200 
+Unidades de litotripsia 
+H-6 
+200 
+Unidades de quimioterapia 
+H-6 
+200 
+Unidades de radioterapia 
+H-6 
+200 
+Indústria 
+Abrasivos 
+I-1 
+200 
+Absorventes higiênicos 
+I-2 
+1000 
+Acabamentos gráficos, exceto encadernação e 
+plastificação 
+I-2 
+400 
+Aço (fundição) 
+I-1 
+40 
+Aço em geral (arames, forjados, ao carbono, especiais, 
+laminados, relaminados, trefilados, perfilados, produtos 
+semi-acabados, tubos) exceto fundição 
+I-1 
+200 
+Açúcar em geral (de cana refinado, de cereais, de 
+beterraba, em bruto) 
+I-2 
+800
+
+--- PÁGINA 14 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+14 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Indústria 
+Adesivos e selantes 
+I-2 
+1000 
+Aditivos de uso industrial 
+I-2 
+500 
+Adoçantes naturais e artificiais 
+I-2 
+1000 
+Adubos, fertilizantes e similares (exceto cujos 
+componentes possuem característica potencialmente 
+explosiva ou combustível) 
+I-1 
+200 
+Aeronaves 
+I-2 
+600 
+Água 
+I-1 
+80 
+Álcool 
+I-3 
+4000 
+Alimentos dietéticos e complementos alimentares 
+I-2 
+1000 
+Alimentos e pratos prontos 
+I-2 
+800 
+Alimentos para animais e rações 
+I-3 
+2000 
+Alumínio em geral (ligas em formas primárias, laminados) 
+I-1 
+200 
+Alvejamento, tingimento e torção em fios, tecidos, 
+artefatos têxteis e peças do vestuário 
+I-2 
+700 
+Amidos e féculas de vegetais ( produtos, moagem, 
+beneficiamento) 
+I-3 
+2000 
+Aparelhamento de pedras para construção, exceto 
+associado à extração 
+I-1 
+40 
+Aparelhamento de placas e execução de trabalhos em 
+mármore, granito, ardósia e outras pedras 
+I-1 
+40 
+Aparelhos de recepção, reprodução, gravação e 
+amplificação de áudio e vídeo 
+I-1 
+300 
+Aparelhos e equipamentos de medida, teste e controle 
+I-1 
+300 
+Aparelhos e equipamentos para distribuição e controle de 
+energia elétrica 
+I-1 
+200 
+Aparelhos e utensílios para correção de defeitos físicos e 
+aparelhos ortopédicos em geral 
+I-2 
+500 
+Aparelhos elétricos de uso pessoal, peças e acessórios 
+I-1 
+300 
+Aparelhos eletromédicos e eletroterapêuticos e 
+equipamentos de irradiação 
+I-1 
+200 
+Aparelhos eletrodomésticos, outros não especificados 
+nesta tabela, peças e acessórios 
+I-1 
+300 
+Aparelhos fotográficos e cinematográficos, peças e 
+acessórios 
+I-1 
+300 
+Aparelhos telefônicos e de outros equipamentos de 
+comunicação, peças e acessórios 
+I-1 
+300 
+Aparelhos, equipamentos e acessórios de ar 
+condicionado, refrigeração e ventilação 
+I-2 
+1000 
+Arroz (produtos, moagem, beneficiamento) 
+I-3 
+1700 
+Artefatos de joalheria e ourivesaria 
+I-1 
+200 
+Artefatos de tanoaria e de embalagens de madeira 
+I-2 
+800 
+Artefatos de tapeçaria 
+I-2 
+700 
+Artefatos diversos de cortiça, bambu, palha, vime e outros 
+materiais trançados, exceto móveis 
+I-2 
+800 
+Artefatos diversos de madeira, exceto móveis 
+I-2 
+800 
+Artefatos para pesca e esporte 
+I-2 
+800 
+Artefatos têxteis para uso doméstico 
+I-2 
+700 
+Artigos de carpintaria para construção 
+I-2 
+800 
+Artigos de cutelaria 
+I-1 
+200 
+Artigos de serralheria, exceto esquadrias 
+I-1 
+200 
+Artigos ópticos 
+I-1 
+300 
+Artigos para viagem, bolsas e semelhantes de qualquer 
+material 
+I-2 
+600
+
+--- PÁGINA 15 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+15 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Indústria 
+Automóveis, camionetas e utilitários 
+I-1 
+300 
+Aviamentos para costura 
+I-2 
+700 
+Azulejos pisos e semelhantes 
+I-1 
+200 
+Bancos e estofados para veículos automotores 
+I-2 
+600 
+Baterias e acumuladores para veículos automotores 
+I-2 
+800 
+Bebidas - cervejas, chopes, refrigerantes, isotônicos, chá 
+mate e outros chás prontos para consumo 
+I-1 
+80 
+Bebidas - destilados e aguardentes em geral 
+I-2 
+500 
+Bebidas - sucos de frutas, hortaliças e legumes 
+I-1 
+200 
+Bebidas - vinho e outros fermentados não especificados 
+nesta tabela 
+I-1 
+200 
+Bebidas não-alcoólicas não especificadas nesta tabela 
+I-1 
+80 
+Beneficiamento de café 
+I-2 
+400 
+Bicicletas e triciclos não-motorizados, peças e acessórios 
+I-1 
+200 
+Bijuterias e artefatos semelhantes 
+I-1 
+200 
+Biocombustíveis 
+I-3 
+4000 
+Biscoitos e bolachas 
+I-2 
+400 
+Borracha (artefatos não especificados nesta tabela) 
+I-2 
+600 
+Brinquedos e jogos recreativos não especificados nesta 
+tabela 
+I-2 
+500 
+Britamento de pedras  
+I-1 
+40 
+Cabines, carrocerias e reboques para veículos 
+automotores 
+I-1 
+300 
+Cal e gesso 
+I-1 
+80 
+Calçados e partes de calçados 
+I-2 
+600 
+Caldeiras geradoras de vapor, exceto para aquecimento 
+central e para veículos 
+I-1 
+200 
+Caminhões e ônibus 
+I-1 
+300 
+Canetas, lápis e outros artigos para escritório 
+I-2 
+600 
+Cartolina e papel-cartão 
+I-2 
+800 
+Casas de madeira pré-fabricadas 
+I-2 
+800 
+Catalisadores 
+I-2 
+500 
+Cera (produtos e artefatos em geral) 
+I-3 
+2000 
+Cerâmicas e refratários (incluindo artefatos e produtos) 
+I-1 
+200 
+Cerâmicos não-refratários não especificados nesta tabela 
+I-1 
+200 
+Chapas e de embalagens de papelão ondulado 
+I-2 
+800 
+Chapas, filmes, papéis e outros materiais e produtos 
+químicos para fotografia 
+I-2 
+500 
+Chassis com motor para automóveis, camionetas e 
+utilitários 
+I-1 
+300 
+Cigarros, fumo, cigarrilhas, charutos e semelhantes 
+I-1 
+200 
+Cloro e álcalis 
+I-3 
+2000 
+Colchões 
+I-3 
+3000 
+Combustíveis nucleares 
+I-3 
+4000 
+Componentes eletrônicos 
+I-1 
+300 
+Compressores, peças e acessórios 
+I-1 
+200 
+Concreto, argamassa, cimento, fibrocimento e materiais 
+semelhantes (incluindo artefatos e produtos) 
+I-1 
+40
+
+--- PÁGINA 16 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+16 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Indústria 
+Conservas de frutas, vegetais, legumes e semelhantes 
+I-1 
+40 
+Conservas de peixes, crustáceos e moluscos 
+I-2 
+500 
+Construção de embarcações  
+I-1 
+300 
+Coquerias 
+I-3 
+4000 
+Cordoaria (artefatos) 
+I-2 
+700 
+Corte e dobra de metais 
+I-1 
+200 
+Cosméticos, produtos de perfumaria e de higiene pessoal 
+I-1 
+300 
+Couro (artefatos em geral, curtimento e outras 
+preparações) 
+I-2 
+600 
+Cronômetros e relógios 
+I-1 
+300 
+Cunhagem de moedas e medalhas 
+I-1 
+200 
+Decoração, lapidação, gravação, vitrificação e outros 
+trabalhos em cerâmica, louça, vidro e cristal 
+I-1 
+200 
+Defensivos agrícolas 
+I-1 
+200 
+Desinfestantes domissanitários 
+I-2 
+500 
+Edição de cadastros, listas e de outros produtos gráficos 
+(com ou sem impressão) 
+I-2 
+400 
+Edição de livros, jornais, revistas (com ou sem impressão) 
+I-2 
+400 
+Elastômeros 
+I-3 
+3000 
+Eletrodomésticos em geral, peças e acessórios 
+I-1 
+300 
+Eletrodos, contatos e outros artigos de carvão e grafita 
+para uso elétrico, eletroímãs e isoladores 
+I-1 
+300 
+Equipamentos de informática 
+I-1 
+300 
+Equipamentos de transmissão para fins industriais, exceto 
+rolamentos 
+I-1 
+200 
+Equipamentos de transporte não especificados nesta 
+tabela 
+I-1 
+300 
+Equipamentos e acessórios para segurança pessoal e 
+profissional 
+I-2 
+600 
+Equipamentos e aparelhos elétricos não especificados 
+nesta tabela 
+I-1 
+300 
+Equipamentos e instrumentos ópticos, peças e acessórios 
+I-1 
+300 
+Equipamentos hidráulicos e pneumáticos, peças e 
+acessórios, exceto válvulas 
+I-1 
+200 
+Equipamentos para irrigação agrícola, peças e acessórios 
+I-1 
+300 
+Equipamentos para sinalização e alarme 
+I-1 
+300 
+Equipamentos transmissores de comunicação, peças e 
+acessórios 
+I-1 
+300 
+Escovas, pincéis e vassouras 
+I-2 
+700 
+Especiarias, molhos, temperos e condimentos 
+I-1 
+40 
+Esquadrias de madeira e de peças de madeira para 
+instalações industriais e comerciais 
+I-2 
+800 
+Estamparia e texturização em fios, tecidos, artefatos 
+têxteis e peças do vestuário 
+I-2 
+700 
+Estruturas metálicas 
+I-1 
+200 
+Estufas e fornos elétricos para fins industriais, peças e 
+acessórios 
+I-1 
+200 
+Extração de gemas (pedras preciosas e semipreciosas) 
+I-1 
+40 
+Extração de minerais não-metálicos (grafita, quartzo, 
+amianto, etc.) 
+I-1 
+40 
+Extração de minerais para fabricação de adubos, 
+fertilizantes e outros produtos químicos (exceto cujos 
+componentes possuem característica potencialmente 
+explosiva ou combustível) 
+I-1 
+200
+
+--- PÁGINA 17 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+17 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Indústria 
+Extração de petróleo e gás natural 
+I-3 
+4000 
+Extração e beneficiamento de areias betuminosas 
+I-3 
+3000 
+Extração e beneficiamento de carvão mineral 
+I-3 
+3000 
+Extração e beneficiamento de xisto 
+I-3 
+3000 
+Extração e britamento de pedras e outros materiais para 
+construção e beneficiamento associado (ardósia, granito, 
+mármore, calcário, dolomita, gesso, caulim, areia, 
+cascalho, pedregulho, argila, saibro, basalto, etc.) 
+I-1 
+40 
+Extração, beneficiamento, britamento, pelotização e 
+sinterização de minérios ferrosos e não-ferrosos (ferro, 
+alumínio, estanho, manganês, metais preciosos, minerais 
+radioativos, nióbio, titânio, tungstênio, níquel, cobre, 
+chumbo, zinco, etc.) 
+I-1 
+200 
+Extração, refino e outros tratamentos de sal 
+I-1 
+40 
+Farinha de mandioca e derivados (produtos, moagem, 
+beneficiamento) 
+I-3 
+2000 
+Farinha de milho e derivados, exceto óleos de milho  
+(produtos, moagem, beneficiamento) 
+I-3 
+2000 
+Farmoquímicos 
+I-1 
+300 
+Fermentos e leveduras 
+I-2 
+800 
+Ferramentas 
+I-1 
+200 
+Ferro (fundição) 
+I-1 
+40 
+Ferro (outros tubos) 
+I-1 
+200 
+Ferro-gusa 
+I-1 
+200 
+Ferroligas 
+I-1 
+200 
+Fiação de fibras de algodão e fibras têxteis naturais 
+I-2 
+700 
+Fibras artificiais e sintéticas 
+I-1 
+300 
+Fios, cabos e condutores elétricos isolados 
+I-1 
+300 
+Flores artificiais 
+I-1 
+300 
+Formulação de combustíveis 
+I-3 
+4000 
+Formulários contínuos 
+I-2 
+500 
+Fornos industriais, aparelhos e equipamentos não- 
+elétricos para instalações térmicas, peças e acessórios 
+I-1 
+200 
+Fraldas descartáveis 
+I-2 
+1000 
+Frigorífico 
+I-3 
+2000 
+Frutas cristalizadas, balas e semelhantes 
+I-2 
+400 
+Gases em geral (exceto inflamáveis) 
+I-2 
+700 
+Gelo 
+I-1 
+80 
+Geradores de corrente contínua e alternada, peças e 
+acessórios 
+I-1 
+300 
+Guarda-chuvas e similares 
+I-1 
+300 
+Impermeabilizantes, solventes e produtos afins 
+I-3 
+4000 
+Impressão em geral (livros, jornais, revistas e outros) 
+I-2 
+400 
+Instrumentos musicais, peças e acessórios 
+I-2 
+600 
+Instrumentos não- eletrônicos e utensílios para uso 
+médico, cirúrgico, odontológico e de laboratório 
+I-1 
+300 
+Intermediários para plastificantes, resinas e fibras 
+I-3 
+3000 
+Jogos eletrônicos 
+I-1 
+300 
+Lâmpadas, luminárias e outros equipamentos de 
+iluminação 
+I-1 
+40
+
+--- PÁGINA 18 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+18 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Indústria 
+Lapidação de gemas 
+I-1 
+200 
+Leite e laticínios 
+I-1 
+200 
+Linhas para costura e bordar 
+I-2 
+600 
+Locomotivas, vagões e outros materiais rodantes 
+I-1 
+200 
+Madeira (embalagens) 
+I-2 
+800 
+Madeira laminada e de chapas de madeira compensada, 
+prensada e aglomerada 
+I-2 
+800 
+Máquinas de escrever, calcular e outros equipamentos 
+não-eletrônicos para escritório, peças e acessórios 
+I-1 
+300 
+Máquinas e equipamentos para a agricultura e pecuária, 
+peças e acessórios, exceto para irrigação 
+I-1 
+300 
+Máquinas e equipamentos para a indústria do plástico, 
+peças e acessórios 
+I-1 
+200 
+Máquinas e equipamentos para a indústria têxtil, peças e 
+acessórios 
+I-1 
+200 
+Máquinas e equipamentos para a prospecção e extração 
+de petróleo, peças e acessórios 
+I-1 
+200 
+Máquinas e equipamentos para as indústrias de alimentos, 
+bebidas e fumo, peças e acessórios 
+I-1 
+200 
+Máquinas e equipamentos para as indústrias de celulose, 
+papel e papelão e artefatos, peças e acessórios 
+I-1 
+200 
+Máquinas e equipamentos para as indústrias do vestuário, 
+do couro e de calçados, peças e acessórios 
+I-1 
+200 
+Máquinas e equipamentos para saneamento básico e 
+ambiental, peças e acessórios 
+I-1 
+200 
+Máquinas e equipamentos para terraplenagem, 
+pavimentação e construção, peças e acessórios, exceto 
+tratores 
+I-1 
+300 
+Máquinas e equipamentos para uso geral não 
+especificados nesta tabela, peças e acessórios 
+I-1 
+200 
+Máquinas e equipamentos para uso industrial específico 
+não especificados nesta tabela, peças e acessórios 
+I-1 
+200 
+Máquinas para a indústria metalúrgica, peças e 
+acessórios, exceto máquinas- ferramenta 
+I-1 
+200 
+Máquinas, equipamentos e aparelhos para transporte e 
+elevação de cargas, peças e acessórios 
+I-1 
+200 
+Máquinas, equipamentos e aparelhos para transporte e 
+elevação de pessoas, peças e acessórios 
+I-1 
+200 
+Máquinas-ferramenta, peças e acessórios em geral 
+I-1 
+200 
+Margarina e outras gorduras vegetais e de óleos não- 
+comestíveis de animais 
+I-2 
+1000 
+Massas alimentícias 
+I-2 
+1000 
+Matadouro / Abate de Animais 
+I-1 
+40 
+Materiais para medicina e odontologia 
+I-1 
+300 
+Material elétrico e eletrônico para veículos automotores, 
+exceto baterias 
+I-1 
+300 
+Material elétrico para instalações em circuito de consumo 
+I-1 
+200 
+Medicamentos alopáticos, homeopáticos e fitoterápicos 
+I-1 
+300 
+Mesas de bilhar, de sinuca e acessórios 
+I-2 
+600 
+Metais não-ferrosos e suas ligas (forja) 
+I-1 
+200 
+Metais não-ferrosos e suas ligas (fundição) 
+I-1 
+40 
+Metal (produtos em geral, trefilados, esquadrias, artefatos 
+estampados, artigos para uso doméstico e pessoal) 
+I-1 
+200 
+Metal e ligas metálicas (embalagens) 
+I-1 
+200 
+Metalurgia de metais não-ferrosos e suas ligas não 
+especificados nesta tabela 
+I-1 
+200 
+Metalurgia em geral (do pó, do cobre, dos metais 
+preciosos) 
+I-1 
+200
+
+--- PÁGINA 19 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+19 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Indústria 
+Mídias virgens, magnéticas e ópticas 
+I-2 
+600 
+Minerais não-metálicos não especificados nesta tabela 
+I-1 
+40 
+Mobiliário para uso médico, cirúrgico, odontológico e de 
+laboratório 
+I-2 
+600 
+Motocicletas 
+I-1 
+300 
+Motores e turbinas, peças e acessórios, exceto para 
+aviões e veículos rodoviários 
+I-1 
+200 
+Motores elétricos, peças e acessórios 
+I-1 
+300 
+Motores para automóveis 
+I-1 
+300 
+Móveis em geral 
+I-2 
+600 
+Obras de caldeiraria pesada 
+I-1 
+200 
+Óleos lubrificantes (exceto combustíveis ou inflamáveis) 
+I-3 
+4000 
+Óleos vegetais (exceto combustíveis ou inflamáveis) 
+I-2 
+1000 
+Padaria e Confeitaria com produção própria 
+I-2 
+1000 
+Painéis e letreiros Luminosos 
+I-2 
+600 
+Papel (embalagens) 
+I-2 
+800 
+Papel e papelão em geral (exceto papelão betuminado) 
+I-2 
+800 
+Papel e similares para uso comercial e de escritório 
+I-2 
+800 
+Papelão betuminado 
+I-3 
+2000 
+Peças e acessórios para veículos automotores 
+I-1 
+300 
+Peças e acessórios para veículos ferroviários 
+I-1 
+200 
+Periféricos para equipamentos de informática 
+I-1 
+300 
+Petróleo (produtos do refino e derivados em geral) 
+I-3 
+4000 
+Pilhas, baterias e acumuladores elétricos 
+I-2 
+800 
+Placas e letreiros de qualquer material, exceto luminosos 
+I-2 
+500 
+Plástico em geral (artefatos em geral, embalagens, 
+aminados planos, tubulares, tubos e acessórios de uso na 
+construção) 
+I-2 
+1000 
+Plastificantes:  produtos químicos orgânicos não 
+especificados nesta tabela (não solventes) 
+I-3 
+2000 
+Plastificantes: produtos químicos orgânicos não 
+especificados nesta tabela (solventes) 
+I-3 
+4000 
+Pneus, pneumáticos e câmaras de ar 
+I-2 
+700 
+Pós alimentícios (alimentos ou preparados em pó) 
+I-2 
+800 
+Preparações farmacêuticas 
+I-1 
+300 
+Processamento de lixo com alta carga de incêndio 
+I-3 
+Anexo B ou C 
+Processamento de lixo com baixa carga de incêndio 
+I-1 
+Anexo B ou C 
+Processamento de lixo com média carga de incêndio 
+I-2 
+Anexo B ou C 
+Produção e distribuição de vapor, água quente e ar 
+condicionado 
+I-1 
+200 
+Produtos à base de café 
+I-2 
+400 
+Produtos alimentícios não especificados nesta tabela 
+I-2 
+1000 
+Produtos de carne 
+I-2 
+500 
+Produtos de limpeza e polimento 
+I-3 
+2000 
+Produtos de origem vegetal não especificados nesta 
+tabela 
+I-3 
+2000 
+Produtos de panificação industrial 
+I-2 
+1000
+
+--- PÁGINA 20 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+20 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Indústria 
+Produtos derivados do cacau e de chocolates 
+I-2 
+400 
+Produtos para infusão (chá, mate e similares) 
+I-2 
+1000 
+Produtos petroquímicos básicos 
+I-3 
+4000 
+Produtos químicos inorgânicos não especificados nesta 
+tabela 
+I-2 
+500 
+Produtos químicos orgânicos não especificados nesta 
+tabela 
+I-2 
+1000 
+Recondicionamento e recuperação de motores para 
+veículos Automotores (exceto oficina de conserto de 
+veículos) 
+I-1 
+300 
+Refrescos, xaropes e pós solúveis para refrescos 
+I-1 
+80 
+Resinas termofixas e resinas termoplásticas 
+I-3 
+3000 
+Rolamentos para fins industriais 
+I-1 
+200 
+Roupas em geral, peças de vestuário e acessórios 
+I-2 
+500 
+Sabões e detergentes sintéticos 
+I-1 
+300 
+Sanitário de cerâmica 
+I-1 
+200 
+Serrarias  
+I-2 
+800 
+Serviços de confecção de armações metálicas para a 
+construção 
+I-1 
+200 
+Serviços de pré-impressão 
+I-2 
+400 
+Serviços de prótese dentária 
+I-1 
+200 
+Serviços de tratamento e revestimento em metais 
+I-1 
+200 
+Serviços de usinagem, tornearia e solda 
+I-1 
+200 
+Soldas e ânodos para galvanoplastia 
+I-1 
+200 
+Som em qualquer suporte 
+I-2 
+600 
+Sorvetes e outros gelados comestíveis 
+I-1 
+80 
+Tanques, reservatórios metálicos e caldeiras para 
+aquecimento central 
+I-1 
+200 
+Tecelagem de fios de fibras têxteis naturais 
+I-2 
+600 
+Tecidos especiais, inclusive artefatos 
+I-2 
+700 
+Têxteis e tecidos em geral 
+I-2 
+700 
+Tintas de impressão 
+I-3 
+4000 
+Tintas, vernizes, esmaltes e lacas 
+I-3 
+4000 
+Torrefação e moagem de café 
+I-2 
+400 
+Transformadores, indutores, conversores, sincronizadores 
+e semelhantes, peças e acessórios 
+I-1 
+200 
+Tratores, peças e acessórios 
+I-1 
+300 
+Trigo (produtos, moagem, beneficiamento) 
+I-3 
+2000 
+Turbinas, motores e outros componentes e peças para 
+aeronaves 
+I-2 
+600 
+Válvulas, registros e dispositivos semelhantes, peças e 
+acessórios 
+I-1 
+200 
+Veículos militares de combate 
+I-1 
+300 
+Velas (inclusive decorativa) 
+I-3 
+2000 
+Vidro (embalagens) 
+I-2 
+700 
+Vidro (outros não especificado nesta tabela) 
+I-2 
+700 
+Vidro plano e de segurança 
+I-1 
+200 
+Vinagres 
+I-1 
+80 
+Zinco (laminados e em formas primárias) 
+I-1 
+200
+
+--- PÁGINA 21 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+21 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Depósito 
+Depósitos e similares de material incombustível (sem 
+embalagem ou com embalagem incombustível) 
+J-1 
+Anexo B ou C 
+Depósitos e similares com carga de incêndio baixa 
+J-2 
+Anexo B ou C 
+Depósitos e similares com carga de incêndio média 
+J-3 
+Anexo B ou C 
+Depósitos e similares com carga de incêndio alta 
+J-4 
+Anexo B ou C 
+Explosivos 
+Comércio varejista de fogos de artifício e artigos 
+pirotécnicos 
+L-1 
+4000 
+Depósito de pólvora, explosivos, detonantes e similares 
+L-3 
+Anexo C 
+Fabricação de armas de fogo, outras armas e munições 
+L-2 
+4000 
+Fabricação de artigos pirotécnicos 
+L-2 
+4000 
+Fabricação de equipamento bélico pesado, exceto 
+veículos militares de combate 
+L-2 
+4000 
+Fabricação de fertilizantes cujos componentes possuem 
+característica potencialmente explosiva ou combustível 
+L-2 
+4000 
+Fabricação de fósforos de segurança 
+L-2 
+4000 
+Fabricação de pólvoras, explosivos e detonantes 
+L-2 
+4000 
+Especial 
+Agronegócio (edificações e instalações destinadas à 
+plantação ou criação de animais) 
+M-8 
+Anexo C 
+Armazenamento e processos de grãos e assemelhados 
+M-5 
+Anexo C 
+Canteiro de obras e assemelhados (instalações de apoio) 
+M-4 
+Conforme atividade 
+(ocupação) específica 
+Centrais de processamento de dados 
+M-3 
+400 
+Centrais de transmissão e de distribuição de energia 
+M-3 
+200 
+Centrais telefônicas 
+M-3 
+100 
+Centros de comunicação 
+M-3 
+100 
+Comércio atacadista de biodiesel, gasolina e demais 
+derivados de petróleo 
+M-2 
+4000 
+Comércio atacadista de combustíveis de origem vegetal e 
+mineral em bruto 
+M-2 
+4000 
+Comércio atacadista de lubrificantes 
+M-2 
+4000 
+Comércio de gás liquefeito de petróleo (GLP) 
+M-2 
+4000 
+Distribuição de combustíveis gasosos por redes urbanas 
+M-2 
+4000 
+Florestas, reservas ecológicas, parques florestais e 
+assemelhados 
+M-6 
+3000 
+Geração de energia elétrica 
+M-3 
+600 
+Geração de energia - outras (eólica, solar, fotovoltaica, 
+termoelétrica) 
+M-3 
+Anexo C 
+Pátio de containers 
+M-7 
+Anexo C 
+Produção de gás; processamento de gás natural 
+M-2 
+4000 
+Silos 
+M-5 
+Anexo C 
+Túnel 
+M-1 
+Anexo C
+
+--- PÁGINA 22 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+22 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ANEXO B 
+Carga de incêndio relativa à altura de armazenamento (depósito) 
+B.1 Os valores das cargas de incêndio específicas de depósitos poderão ser definidos por meio 
+da altura de armazenamento, conforme Tabela B.1. 
+B.2 Havendo previsão de materiais distintos e/ou alturas de armazenamento distintas, o 
+levantamento da carga de incêndio será realizado em função de módulos. 
+B.2.1 Cada módulo será constituído por uma área que possua a mesma característica de 
+armazenamento. 
+B.2.2 Poderá haver, no mesmo módulo, a sobreposição de materiais, devendo, neste caso, os 
+valores definidos pela Tabela B.1 serem somados, considerando a altura de cada material 
+sobreposto. 
+B.3 Quando houver previsão de módulos distintos, para fins de definição da carga de incêndio 
+através da aplicação da Tabela B.1, será considerado o maior valor de carga de incêndio 
+encontrado.  
+B.3.1 Alternativamente, o RT poderá definir a carga de incêndio através da realização da média 
+ponderada entre os valores encontrados, em razão da área ocupada por cada módulo. 
+B.4 Alturas de armazenamento não especificadas na Tabela B.1 poderão ser definidas por meio 
+de proporcionalidade a partir da progressão de valores (valor da coluna de 1 metro multiplicado 
+pela altura a ser considerada). 
+Tabela B.1 - Cargas de incêndio em relação à altura de armazenamento (depósitos) 
+Tipo de Material 
+Carga de incêndio (qfi) em MJ/m² 
+Altura de armazenamento (em metros) 
+1 
+2 
+4 
+6 
+8 
+10 
+Açúcar 
+3780 
+7560 
+15120 
+22680 
+30240 
+37800 
+Açúcar (produtos de:) 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Acumuladores/baterias 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Adubos químicos 
+90 
+180 
+360 
+540 
+720 
+900 
+Alcatrão 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Algodão 
+585 
+1170 
+2340 
+3510 
+4680 
+5850 
+Alimentação (alimentos industrializados) 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Aparelhos eletroeletrônicos 
+180 
+360 
+720 
+1080 
+1440 
+1800 
+Aparelhos fotográficos 
+270 
+540 
+1080 
+1620 
+2160 
+2700 
+Bebidas alcoólicas 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Borracha 
+12870 
+25740 
+51480 
+77220 
+102960 
+128700 
+Artigos de borracha 
+2250 
+4500 
+9000 
+13500 
+18000 
+22500 
+Brinquedos 
+360 
+720 
+1440 
+2160 
+2880 
+3600
+
+--- PÁGINA 23 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+23 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Tipo de Material 
+Carga de incêndio (qfi) em MJ/m² 
+Altura de armazenamento (em metros) 
+1 
+2 
+4 
+6 
+8 
+10 
+Cabos elétricos 
+270 
+540 
+1080 
+1620 
+2160 
+2700 
+Cacau, produtos de: 
+2610 
+5220 
+10440 
+15660 
+20880 
+26100 
+Café cru 
+1305 
+2610 
+5220 
+7830 
+10440 
+13050 
+Caixas de madeira 
+270 
+540 
+1080 
+1620 
+2160 
+2700 
+Calçado 
+180 
+360 
+720 
+1080 
+1440 
+1800 
+Celuloide 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Cera 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Cera, artigos de: 
+945 
+1890 
+3780 
+5670 
+7560 
+9450 
+Chocolate 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Colas combustíveis 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Colchões não sintéticos 
+2250 
+4500 
+9000 
+13500 
+18000 
+22500 
+Cosméticos 
+248 
+495 
+990 
+1485 
+1980 
+2475 
+Couro 
+765 
+1530 
+3060 
+4590 
+6120 
+7650 
+Couro, artigos de: 
+270 
+540 
+1080 
+1620 
+2160 
+2700 
+Couro sintético 
+765 
+1530 
+3060 
+4590 
+6120 
+7650 
+Couro sintético, artigos de: 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Depósitos de mercadorias incombustíveis em pilhas 
+de caixas de madeira ou de papelão 
+90 
+180 
+360 
+540 
+720 
+900 
+Depósitos de mercadorias incombustíveis em pilhas 
+de caixa de plástico 
+90 
+180 
+360 
+540 
+720 
+900 
+Depósitos 
+de 
+mercadorias 
+incombustíveis 
+em 
+estantes metálicas (sem embalagem) 
+9 
+18 
+36 
+54 
+72 
+90 
+Depósitos de paletes de madeira 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Espumas sintéticas 
+1125 
+2250 
+4500 
+6750 
+9000 
+11250 
+Espumas sintéticas, artigos de: 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Farinha em sacos 
+3780 
+7560 
+15120 
+22680 
+30240 
+37800 
+Feltro 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Feno, fardos de: 
+450 
+900 
+1800 
+2700 
+3600 
+4500 
+Fiação, produtos de fio 
+765 
+1530 
+3060 
+4590 
+6120 
+7650 
+Fiação, produtos de lã 
+855 
+1710 
+3420 
+5130 
+6840 
+8550 
+Fósforos 
+360 
+720 
+1440 
+2160 
+2880 
+3600
+
+--- PÁGINA 24 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+24 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Tipo de Material 
+Carga de incêndio (qfi) em MJ/m² 
+Altura de armazenamento (em metros) 
+1 
+2 
+4 
+6 
+8 
+10 
+Gorduras 
+8100 
+16200 
+32400 
+48600 
+64800 
+81000 
+Gorduras comestíveis 
+8505 
+17010 
+34020 
+51030 
+68040 
+85050 
+Grãos, sementes 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Instrumentos de ótica 
+90 
+180 
+360 
+540 
+720 
+900 
+Legumes, verduras, hortifrutigranjeiros 
+158 
+315 
+630 
+945 
+1260 
+1575 
+Leite em pó 
+4050 
+8100 
+16200 
+24300 
+32400 
+40500 
+Lenha 
+1125 
+2250 
+4500 
+6750 
+9000 
+11250 
+Madeira em troncos 
+2835 
+5670 
+11340 
+17010 
+22680 
+28350 
+Madeira, aparas 
+945 
+1890 
+3780 
+5670 
+7560 
+9450 
+Madeira, restos de: 
+1350 
+2700 
+5400 
+8100 
+10800 
+13500 
+Madeira, vigas e tábuas 
+1890 
+3780 
+7560 
+11340 
+15120 
+18900 
+Malte 
+6030 
+12060 
+24120 
+36180 
+48240 
+60300 
+Massas alimentícias 
+765 
+1530 
+3060 
+4590 
+6120 
+7650 
+Materiais de construção 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Materiais sintéticos 
+2655 
+5310 
+10620 
+15930 
+21240 
+26550 
+Material de escritório 
+585 
+1170 
+2340 
+3510 
+4680 
+5850 
+Medicamentos, embalagem 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Móveis de madeira 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Móveis, estofados sem espuma sintética 
+180 
+360 
+720 
+1080 
+1440 
+1800 
+Painel de madeira aglomerada 
+3015 
+6030 
+12060 
+18090 
+24120 
+30150 
+Papel 
+3780 
+7560 
+15120 
+22680 
+30240 
+37800 
+Papel prensado 
+945 
+1890 
+3780 
+5670 
+7560 
+9450 
+Papelaria, estoque 
+495 
+990 
+1980 
+2970 
+3960 
+4950 
+Produtos farmacêuticos, estoque 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Peças automotivas 
+360 
+720 
+1440 
+2160 
+2880 
+3600 
+Perfumaria, artigos de: 
+225 
+450 
+900 
+1350 
+1800 
+2250 
+Pneus 
+810 
+1620 
+3240 
+4860 
+6480 
+8100
+
+--- PÁGINA 25 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+25 / 39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+Tipo de Material 
+Carga de incêndio (qfi) em MJ/m² 
+Altura de armazenamento (em metros) 
+1 
+2 
+4 
+6 
+8 
+10 
+Portas de madeira 
+810 
+1620 
+3240 
+4860 
+6480 
+8100 
+Produtos químicos combustíveis 
+450 
+900 
+1800 
+2700 
+3600 
+4500 
+Queijos 
+1125 
+2250 
+4500 
+6750 
+9000 
+11250 
+Resinas sintéticas 
+1890 
+3780 
+7560 
+11340 
+15120 
+18900 
+Resinas sintéticas, placas de: 
+1530 
+3060 
+6120 
+9180 
+12240 
+15300 
+Sabão 
+1890 
+3780 
+7560 
+11340 
+15120 
+18900 
+Sacos de papel 
+5670 
+11340 
+22680 
+34020 
+45360 
+56700 
+Sacos de plástico 
+11340 
+22680 
+45360 
+68040 
+90720 
+113400
+Tabaco em bruto 
+765 
+1530 
+3060 
+4590 
+6120 
+7650 
+Tabaco, artigos de: 
+945 
+1890 
+3780 
+5670 
+7560 
+9450 
+Tapeçarias 
+765 
+1530 
+3060 
+4590 
+6120 
+7650 
+Tecidos em geral 
+900 
+1800 
+3600 
+5400 
+7200 
+9000 
+Tecidos sintéticos 
+585 
+1170 
+2340 
+3510 
+4680 
+5850 
+Tecidos, fardos de algodão 
+585 
+1170 
+2340 
+3510 
+4680 
+5850 
+Tecidos, seda artificial 
+450 
+900 
+1800 
+2700 
+3600 
+4500 
+Toldos ou lonas 
+450 
+900 
+1800 
+2700 
+3600 
+4500 
+Velas de cera 
+10080 
+20160 
+40320 
+60480 
+80640 
+100800
+Vernizes 
+1125 
+2250 
+4500 
+6750 
+9000 
+11250 
+Vernizes de cera 
+2250 
+4500 
+9000 
+13500 
+18000 
+22500
+
+--- PÁGINA 26 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+26/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO C 
+Método determinístico para levantamento da carga de incêndio específica 
+C.1 Os valores da carga de incêndio específica serão calculados através do método 
+determinístico pela seguinte expressão: 
+𝒒𝒇𝒊= ∑(𝑴𝒊.𝑯𝒊)
+𝑨𝒇
+ 
+Onde: 
+qfi–valor da carga de incêndio específica, em megajoule por metro quadrado de área de piso;  
+Mi–massa total de cada componente i do material combustível, em quilograma. Esse valor não poderá ser 
+excedido durante a vida útil da edificação, exceto quando houver alteração de ocupação, ocasião em que Mi 
+deverá ser reavaliado;  
+Hi– potencial calorífico específico de cada componente i do material combustível, em megajoule por quilograma, 
+conforme Tabela C.1 abaixo;  
+Af–área do piso, em metro quadrado (m²), do módulo considerado ou da área de armazenamento.  
+C.1.1 O cálculo deverá ser apresentado por meio do Memorial de Cálculo de Carga de Incêndio 
+previsto no Anexo E.4.5 da IT 03.  
+C.2 O levantamento da carga de incêndio específica deve ser realizado em módulos de, no 
+máximo, 1000 m² de área de piso considerado para o cálculo. Módulos maiores de 1000 m² 
+podem ser utilizados, a critério do RT, quando o espaço analisado possuir materiais 
+combustíveis com potenciais caloríficos semelhantes ou materiais uniformemente distribuídos. 
+C.2.1 Para definição do módulo de armazenamento, a área do módulo deverá corresponder à 
+área do piso em que o material está armazenado, e não a área total do pavimento.   
+C.3 A carga de incêndio específica deve ser tomada como sendo o maior valor entre: 
+a) a média das cargas de incêndio dos dois módulos de maior valor; ou  
+b) 85% da carga de incêndio do módulo de maior valor.  
+C.4 Deverá ser considerado para o cálculo os seguintes valores:  
+a) 1 kg (um quilograma) de madeira equivale a 19,0 megajoules (MJ);  
+b) 1 caloria equivale a 4,185 joules (J); e  
+c) 1 BTU equivale a 252 calorias (cal). 
+C.5 Valores de materiais não listados na Tabela C.1 poderão ser apresentados pelo RT, desde 
+que apresentada a fonte bibliográfica. 
+C.6 A carga de incêndio de pallets, embalagens, revestimentos e demais materiais existentes 
+na área a ser avaliada deverão ser considerados no dimensionamento da carga de incêndio 
+específica.
+
+--- PÁGINA 27 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+27/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+Tabela C.1 - Valores do potencial calorífico específico 
+Tipo de Material 
+Hi 
+(MJ/kg) 
+Acetileno 
+50 
+Acetileno dissolvido 
+17 
+Acetona 
+30 
+Acrílico 
+28 
+Açúcar 
+17 
+Amido 
+17 
+Algodão 
+18 
+Álcool Alílico 
+34 
+Álcool Amílico 
+42 
+Álcool Etílico 
+25 
+Álcool metílico 
+21 
+Benzeno 
+40 
+Benzina 
+42 
+Celulose 
+16 
+Biodiesel 
+39 
+Borracha espuma 
+37 
+Borracha em tiras 
+32 
+Butano 
+46 
+Cacau em pó 
+17 
+Café 
+17 
+Cafeína 
+21 
+Cálcio 
+4 
+Carbono 
+34 
+Carvão 
+36 
+Celulose 
+16 
+Tipo de Material 
+Hi 
+(MJ/kg) 
+Dietilcetona 
+34 
+Dietileter 
+37 
+Epóxi 
+34 
+Etano 
+47 
+Etanol 
+26 
+Eteno 
+50 
+Éter amílico 
+42 
+Éter etílico 
+34 
+Etileno 
+50 
+Etino 
+48 
+Enxofre 
+8,4 
+Farinha de trigo 
+17 
+Hexaptano 
+46 
+Fenol 
+34 
+Fibra sintética 6,6 
+29 
+Fósforo 
+25 
+Gás Natural 
+26 
+Gasolina 
+47 
+Glicerina 
+17 
+Gordura e óleo vegetal 
+42 
+Grãos 
+17 
+Graxa, lubrificante 
+41 
+Heptano 
+46 
+Hexametileno 
+46 
+Hexano 
+46 
+Tipo de Material 
+Hi 
+(MJ/kg) 
+Metanol 
+19 
+Monóxido de carbono 
+10 
+Nafta 
+42 
+N-Butano 
+45 
+Nitrocelulose 
+8,4 
+N-Octano 
+44 
+N-Pentano 
+45 
+Óleo de linhaça 
+37 
+Óleo vegetal 
+42 
+Palha 
+16 
+Papel 
+17 
+Parafina 
+46 
+Petróleo 
+41 
+Plástico 
+31 
+Poliacrilonitrico 
+30 
+Policarbonato 
+29 
+Poliéster 
+31 
+Poliestireno 
+39 
+Polietileno 
+44 
+Polimetilmetacrilico 
+24 
+Polioximetileno 
+15 
+Poliuretano 
+23 
+Polivinilclorido 
+16 
+Polipropileno 
+43 
+Propano 
+46
+
+--- PÁGINA 28 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+28/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+Cereais 
+17 
+C-Heptano 
+46 
+C-Pentano 
+46 
+C-Propano 
+50 
+C-Hexano 
+46 
+Chocolate 
+25 
+Chá 
+17 
+Cloreto de polivinil 
+21 
+Couro 
+19 
+Creosoto/fenol 
+37 
+D-glucose 
+15 
+Diesel 
+43 
+Dietilamina 
+42 
+Hidreto de sódio 
+9 
+Hidrogênio 
+143 
+Hidreto de magnésio 
+17 
+Látex 
+44 
+Lã 
+23 
+Leite em pó 
+17 
+Linho 
+17 
+Linóleo 
+2 
+Lixo de cozinha 
+18 
+Madeira 
+19 
+Magnésio 
+25 
+Manteiga 
+37 
+Metano 
+50 
+PVC 
+17 
+Resina de fenol 
+25 
+Resina de uréia 
+21 
+Resina melamínica 
+18 
+Seda 
+19 
+Sisal 
+17 
+Sódio 
+4,5 
+Sulfureto de carbono 
+12,5 
+Tabaco 
+17 
+Tolueno    
+42 
+Turfa 
+34 
+Ureia (ver também resina de 
+ureia) 
+9 
+Viscose 
+17
+
+--- PÁGINA 29 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+29/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO D 
+Exemplos de determinação de carga de incêndio  
+D.1 - 1º EXEMPLO (Anexo A): 
+Determinar a carga de incêndio específica de uma edificação ocupada totalmente por uma 
+Instituição Financeira (Agência Bancária). 
+1º Passo: 
+Considerando a descrição acima, nota-se que se trata de uma edificação classificada como D-
+2. 
+Assim, conforme a Tabela A.1 desta IT, a carga de incêndio da edificação é definida como 300 
+MJ/m². 
+ 
+D.2 - 2º EXEMPLO (Anexo A): 
+Determinar a carga de incêndio específica de uma edificação de ocupação mista com presença 
+das atividades “Instituição Financeira (Agência Bancária)” e “Boate”, sem compartimentação 
+entre as ocupações.  
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação mista classificada como D-2 e F-6. 
+Assim, conforme a Tabela A.1 desta IT, a carga de incêndio da edificação é definida em 600 
+MJ/m² para a ocupação F-6 e 300 MJ/m² para a ocupação D-2. Para a classificação geral de 
+carga de incêndio da edificação, uma vez que não há compartimentação entre as ocupações, 
+adota-se o maior valor entre os presentes: 600 MJ/m². 
+Obs: Caso houvesse compartimentação entre as ocupações, as cargas de incêndio seriam 
+consideradas individualmente para fins de exigência de medidas de segurança e seus 
+parâmetros. 
+ 
+D.3 - 3º EXEMPLO (Anexo B): 
+Determinar a carga de incêndio específica de uma edificação com 10 metros de armazenamento 
+de alcatrão (Depósito). 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Nesse caso,  de acordo com 
+o item 5.3 desta IT, será realizado o levantamento de carga de incêndio específica em função 
+da altura de armazenamento (Anexo B).  
+Portanto, de acordo com a Tabela B.1, a carga de incêndio da edificação será definida em 
+15.300 MJ/m².
+
+--- PÁGINA 30 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+30/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+D.4 - 4º EXEMPLO (Anexo B): 
+Determinar a carga de incêndio específica de um depósito com um módulo de 10.000 m² de 
+pilhas de couro com 12 metros de altura, um módulo de 3.000 m² de pilhas de couro com 5 
+metros de altura e outro módulo de 7.000 m² de pilhas de couro com 8 metros de altura. 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Nesse caso,  de acordo com 
+o item 5.3 desta IT, será realizado o levantamento de carga de incêndio específica em função 
+da altura de armazenamento (Anexo B).  
+2º Passo: 
+Levantamento dos valores de carga de incêndio definidos para os 3 módulos, em relação à 
+altura de armazenamento de cada material, conforme estabelecido na Tabela B.1: 
+Módulo 1 (ocupando 10.000 m²): Couro com altura de armazenagem de 12 metros: 9.180 
+MJ/m² (valor proporcional a 12 m de altura, conforme previsto no item B.4) 
+Módulo 2 (ocupando 3.000 m²): Couro com altura de armazenagem de 5 metros: 3.825 MJ/m² 
+(valor proporcional a 5 m de altura, conforme previsto no item B.4)  
+Módulo 3 (ocupando 7.000 m²): Couro com altura de armazenagem de 8 m: 6.120 MJ/m²  
+3º Passo: 
+Tendo em vista a existência de módulos com diferentes alturas de armazenamento, o RT poderá 
+realizar a média ponderada entre as cargas de incêndio encontradas na Tabela B.1, em razão 
+da área ocupada por cada módulo: 
+ 
+(9.180 MJ/m² x 10.000 m²) + (3.825 MJ/m² x 3.000 m²) + (6.120 MJ/m² x 7.000 m²) = 7.305,75 MJ/m² 
+10.000 m² + 3.000 m² + 7.000 m² 
+ 
+Carga de incêndio encontrada = 7.305,75 MJ/m² 
+ 
+Obs: A critério do RT (item B.3), poderá ser apresentado o maior valor encontrado por módulo 
+(Módulo 1 - 9.180 MJ/m²), sem necessidade, neste caso, de realização da média ponderada 
+entre os valores encontrados. 
+ 
+D.5 - 5º EXEMPLO (Anexo B): 
+Determinar a carga de incêndio específica de um depósito com um módulo de 5.000 m² de 
+prateleiras que possuam, sobrepostos, 8 metros de altura de alcatrão e 2 metros de altura de 
+feltro; e outro módulo de 3.000 m² de pilhas de algodão com 5 metros de altura.
+
+--- PÁGINA 31 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+31/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Nesse caso,  de acordo com 
+o item 5.3 desta IT, será realizado o levantamento de carga de incêndio específica em função 
+da altura de armazenamento (Anexo B).  
+2º Passo: 
+Levantamento dos valores de carga de incêndio definidos para os 2 módulos, em relação à 
+altura de armazenamento de cada material, conforme estabelecido na Tabela B.1: 
+Módulo 1 (ocupando 5.000 m²): Alcatrão com altura de armazenagem de 8 metros e feltro com 
+altura de armazenagem de 2 metros: 12.240 MJ/m² + 720 MJ/m² = 12.960 MJ/m²  
+Módulo 2 (ocupando 3.000 m²): Algodão com altura de armazenagem de 5 m: 2.925 MJ/m² 
+(valor proporcional a 5 m de altura, conforme previsto no item B.4)  
+3º Passo: 
+Tendo em vista a existência de módulos com diferentes materiais e alturas de armazenamento, 
+o RT poderá realizar a média ponderada entre as cargas de incêndio encontradas na Tabela 
+B.1, em razão da área ocupada por cada módulo: 
+ 
+(12.960 MJ/m² x 5.000 m²) + (2.925 MJ/m² x 3.000 m²) = 9.196,88 MJ/m² 
+5.000 m² + 3.000 m² 
+ 
+Carga de incêndio encontrada = 9.196,88 MJ/m² 
+ 
+Obs: A critério do RT (item B.3), poderá ser apresentado o maior valor encontrado por módulo 
+(Módulo 1 - 12.960 MJ/m²), sem necessidade, neste caso, de realização da média ponderada 
+entre os valores encontrados. 
+ 
+D.6 - 6º EXEMPLO (Anexo C – método determinístico): 
+Edificação com área de 5.000 m² que possui uma área de 400 m² de armazenamento 
+uniformemente distribuído com 3000 Kg de Acetona: 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Neste caso, como o material 
+“Acetona” não está previsto no Anexo B, deve ser utilizada a metodologia do Anexo C, 
+conforme dispõe o item 5.3.1.  
+2º Passo: 
+Consultar a Tabela C.1 para verificarmos o potencial calorífico do material armazenado: 
+a) Acetona – 30 MJ/Kg
+
+--- PÁGINA 32 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+32/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+3º Passo: 
+Munidos da massa do produto armazenado, de seu potencial calorífico e da área total de 
+armazenamento (observar a área máxima prevista pelo item C.2 desta IT), vamos efetuar os 
+cálculos conforme a fórmula prevista no item C.1: 
+𝑞𝑓𝑖 = 
+3000 𝑥 30
+400
+ = 225 MJ/m² 
+Carga de incêndio encontrada: 225 MJ/m². 
+ 
+D.7 - 7º EXEMPLO  (Anexo C – método determinístico): 
+Uma edificação com área total de 30.000 m², com uma área de armazenamento uniformemente 
+distribuída de acetona de 10.000 m², dividida em 10 módulos de 500 m² com 50 toneladas de 
+acetona em cada módulo e 20 módulos de 250 m² com 50 toneladas de acetona em cada 
+módulo: 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Neste caso, como o material 
+“Acetona” não está previsto no Anexo B, deve ser utilizada a metodologia do Anexo C, 
+conforme dispõe o item 5.3.1.  
+2º Passo: 
+Consultar a tabela C.1 para verificarmos o potencial calorífico do material armazenado 
+a) Acetona – 30 MJ/Kg 
+3º Passo: 
+Munidos da massa do produto armazenado, de seu potencial calorífico e da área total de 
+armazenamento (observar a área máxima prevista pelo item C.2 desta IT), vamos efetuar os 
+cálculos conforme a fórmula prevista no item C.1: 
+a) Para os módulos de 500 m²: 
+𝑞𝑓𝑖 = 
+50.000 𝑥 30
+500
+= 3000 
+b) Para os módulos de 250 m²: 
+𝑞𝑓𝑖 = 
+50.000 𝑥 30
+250
+= 6000 
+4º Passo: 
+Em se tratando de armazenamento com mais de um módulo, deve-se observar o previsto pelo 
+item C.3 desta IT.
+
+--- PÁGINA 33 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+33/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+Assim: 
+𝑆𝑜𝑚𝑎 𝑑𝑎𝑠 𝑑𝑢𝑎𝑠 𝑚𝑎𝑖𝑜𝑟𝑒𝑠 𝑐𝑎𝑟𝑔𝑎 𝑖𝑛𝑐ê𝑛𝑑𝑖𝑜 𝑒𝑛𝑐𝑜𝑛𝑡𝑟𝑎𝑑𝑎𝑠
+2
+ 
+OU 
+85 % da maior carga de incêndio encontrada, adotando sempre o maior valor 
+Calculando: 
+(3.000)+(6.000)
+2
+= 4.500 MJ/m² 
+OU 
+85% x 6000 = 5.100 MJ/m² (valor a ser adotado) 
+Carga de incêndio encontrada: 5.100 MJ/m². 
+ 
+D.8 - 8º EXEMPLO (Anexo C – método determinístico): 
+Uma edificação com área total de 5.000 m², com uma área de armazenagem uniformemente 
+distribuída em 900 m² com 10.000 Kg de acetona e 30.000 Kg de benzeno, em um mesmo 
+módulo. 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Neste caso, como os 
+materiais “Acetona” e “Benzeno“ não estão previstos no Anexo B, deve ser utilizada a 
+metodologia do Anexo C, conforme dispõe o item 5.3.1.  
+2º Passo:  
+Consultar a Tabela C.1 para verificarmos o potencial calorífico dos materiais armazenados: 
+a) Para a acetona: 30 MJ/Kg 
+b) Para o benzeno: 40 MJ/Kg 
+3º Passo: 
+Munidos da massa do produto armazenado, de seu potencial calorífico e da área total de 
+armazenamento (observar a área máxima prevista pelo item C.2 desta IT), vamos efetuar os 
+cálculos para a área de armazenamento, conforme a fórmula prevista no item C.1: 
+𝑞𝑓𝑖 = 
+(10.000 𝑥 30) + (30.000 𝑥 40)
+900
+ = 1.666,66 MJ/m² 
+Carga de incêndio encontrada: 1.666,66 MJ/m².
+
+--- PÁGINA 34 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+34/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+D.9 - 9º EXEMPLO (Anexo C – método determinístico): 
+Uma edificação com área total de 5.000 m², com uma área de armazenagem uniformemente 
+distribuída contendo um módulo de 400 m² com 10.000 Kg de acetona e um módulo de 500 m² 
+com 30.000 Kg de benzeno. 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Neste caso, como os 
+materiais “Acetona” e “Benzeno“ não estão previstos no Anexo B, deve ser utilizada a 
+metodologia do Anexo C, conforme dispõe o item 5.3.1.  
+2º Passo  
+Consultar a Tabela C.1 para verificarmos o potencial calorífico do material armazenado 
+a) Para a acetona 30 MJ/Kg 
+b) Para o benzeno 40 MJ/Kg 
+3º Passo 
+Munidos da massa do produto armazenado, de seu potencial calorífico e da área total de 
+armazenamento (observar a área máxima prevista pelo item C.2 desta IT), vamos efetuar os 
+cálculos para a área de armazenamento, conforme a fórmula prevista no item C.1: 
+a) Para a acetona: 
+𝑞𝑓𝑖 = 
+(10.000𝑥 30)
+400
+ = 750 MJ/m² 
+ 
+b) Para o benzeno: 
+𝑞𝑓𝑖 = 
+(30.000𝑥 40)
+500
+= 2.400 MJ/m² 
+ 
+4º Passo 
+Em se tratando de armazenamento em módulos diferentes, deve-se observar o previsto no item 
+C.3 desta IT. 
+Assim: 
+𝑆𝑜𝑚𝑎 𝑑𝑎𝑠 𝑑𝑢𝑎𝑠 𝑚𝑎𝑖𝑜𝑟𝑒𝑠 𝑐𝑎𝑟𝑔𝑎 𝑖𝑛𝑐ê𝑛𝑑𝑖𝑜 𝑒𝑛𝑐𝑜𝑛𝑡𝑟𝑎𝑑𝑎𝑠
+2
+ 
+OU 
+85 % da maior carga de incêndio encontrada, adotando sempre o maior valor
+
+--- PÁGINA 35 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+35/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+Calculando: 
+750+2400
+2
+= 1.575 MJ/m² 
+OU 
+85% x 2.400 = 2.040 MJ/m² (valor a ser adotado) 
+Carga de incêndio encontrada: 2.040 MJ/m². 
+ 
+D.10 - 10º EXEMPLO (Anexo C – método determinístico): 
+Uma edificação com área total de 5.000 m², com uma área de armazenagem uniformemente 
+distribuída contendo um módulo de 400 m² com 10000 Kg de acetona, um módulo de 500 m² 
+com 30000 Kg de benzeno, e um módulo de 1000 m² com 5000 Kg de madeira. 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Neste caso, como os 
+materiais “Acetona” e “Benzeno“ não estão previstos no Anexo B, deve ser utilizada a 
+metodologia do Anexo C, conforme dispõe o item 5.3.1.  
+2º Passo:  
+Consultar a Tabela C.1 para verificarmos o potencial calorífico dos materiais armazenados: 
+a) Para a acetona: 30 MJ/Kg 
+b) Para o benzeno: 40 MJ/Kg 
+c) Para madeira:  19 MJ/Kg 
+3º Passo: 
+Munidos da massa do produto armazenado, de seu potencial calorífico e da área total de 
+armazenamento (observar a área máxima prevista pelo item C.2 desta IT), vamos efetuar os 
+cálculos para a área de armazenamento, conforme a fórmula prevista no item C.1: 
+a) Para a acetona: 
+𝑞𝑓𝑖 = 
+(10.000𝑥 30)
+400
+ = 750 MJ/m² 
+b) Para o benzeno: 
+𝑞𝑓𝑖 = 
+(30.000𝑥 40)
+500
+= 2.400 MJ/m² 
+c) Para madeira:  
+𝑞𝑓𝑖 = 
+(5.000 𝑥 19)
+1000
+ = 95 MJ/m²
+
+--- PÁGINA 36 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+36/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+4º Passo 
+Em se tratando de armazenamento em módulos diferentes, deve-se observar o previsto no item 
+C.3 desta IT. 
+Assim: 
+𝑆𝑜𝑚𝑎 𝑑𝑎𝑠 𝑑𝑢𝑎𝑠 𝑚𝑎𝑖𝑜𝑟𝑒𝑠 𝑐𝑎𝑟𝑔𝑎 𝑖𝑛𝑐ê𝑛𝑑𝑖𝑜 𝑒𝑛𝑐𝑜𝑛𝑡𝑟𝑎𝑑𝑎𝑠
+2
+ 
+OU 
+85 % da maior carga de incêndio encontrada, adotando sempre o maior valor 
+Calculando: 
+2400 + 750
+2
+= 1.575 𝑀𝐽/𝑚² 
+ou 
+85% x 2.400 = 2.040 MJ/m² (valor a ser adotado) 
+Carga de incêndio encontrada: 2.040 MJ/m². 
+ 
+D.11 - 11º EXEMPLO (Anexo C – método determinístico): 
+Uma edificação com área de 20.000 m² e uma área de armazenamento uniformemente 
+distribuída de acetona e benzeno distribuídos em 5 módulos de 1000 m² com 1.000.000 Kg de 
+acetona e 500.000 Kg de poliéster, cada, e 5 módulos de 500 m² com 300.000 Kg de benzeno 
+e 200.000 Kg de glicerina, cada.  
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Neste caso, como os 
+materiais “Acetona”, “Benzeno“, “Poliéster” e “Glicerina” não estão previstos no Anexo B, deve 
+ser utilizada a metodologia do Anexo C, conforme dispõe o item 5.3.1.  
+2º Passo: 
+Consultar a Tabela C.1 para verificarmos o potencial calorífico do material armazenado: 
+a) Para a acetona: 30 MJ/Kg 
+b) Para o poliéster: 31 MJ/Kg 
+c) Para o benzeno: 40 MJ/Kg 
+d) Para a glicerina: 17 MJ/Kg
+
+--- PÁGINA 37 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+37/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+3º Passo: 
+Munidos da massa do produto armazenado, de seu potencial calorífico e da área total de 
+armazenamento (observar a área máxima prevista pelo item C.2 desta IT), vamos efetuar os 
+cálculos para a área de armazenamento, conforme a fórmula prevista no item C.1: 
+a) Para os módulos de armazenamento de acetona e poliéster: 
+𝑞𝑓𝑖 = 
+(1.000.000 𝑥 30)+(500.000 𝑋 31)
+1000
+ = 45.500 MJ/m² 
+b) Para os módulos de armazenamento de benzeno e glicerina: 
+𝑞𝑓𝑖 = 
+(300.000 𝑥 40) +(200.000 𝑥 17)
+500
+ = 30.800 MJ/m² 
+4º Passo 
+Em se tratando de armazenamento em módulos diferentes, deve-se observar o previsto no item 
+C.3 desta IT. 
+Assim: 
+𝑆𝑜𝑚𝑎 𝑑𝑎𝑠 𝑑𝑢𝑎𝑠 𝑚𝑎𝑖𝑜𝑟𝑒𝑠 𝑐𝑎𝑟𝑔𝑎 𝑖𝑛𝑐ê𝑛𝑑𝑖𝑜 𝑒𝑛𝑐𝑜𝑛𝑡𝑟𝑎𝑑𝑎𝑠
+2
+ 
+OU 
+85 % da maior carga de incêndio encontrada, adotando sempre o maior valor 
+ 
+ 
+ 
+Calculando: 
+45.500+30.800
+2
+= 38.150 𝑀𝐽/𝑚²  
+OU 
+85% x 45.500= 38.675 MJ/m² (valor a ser adotado) 
+Carga de incêndio encontrada: 38.675 MJ/m². 
+ 
+D.12 - 12º EXEMPLO (Anexo C – método determinístico): 
+Uma edificação com área de 20.000 m² e uma área de armazenamento uniformemente 
+distribuída em 5 módulos de 1000 m² com 1.000.000 Kg de acetona, cada, e 5 módulos de 500 
+m² com 300.000 Kg de benzeno, cada, sendo que sob cada módulo de armazenamento há  
+pallets de madeira com massa total de 200 kg.
+
+--- PÁGINA 38 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+38/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+1º Passo: 
+Considerando a descrição, trata-se de uma edificação do grupo J. Neste caso, como os 
+materiais “Acetona” e “Benzeno“ não estão previstos no Anexo B, deve ser utilizada a 
+metodologia do Anexo C, conforme dispõe o item 5.3.1.  
+2º Passo:  
+Consultar a Tabela C.1 para verificarmos o potencial calorífico do material armazenado: 
+a) Para a acetona: 30 MJ/Kg 
+b) Para o benzeno: 40 MJ/Kg 
+c) Para madeira: 19 MJ/Kg 
+3º Passo: 
+Munidos da massa do produto armazenado, de seu potencial calorífico e da área total de 
+armazenamento (observar a área máxima prevista pelo item C.2 desta IT), vamos efetuar os 
+cálculos para a área de armazenamento, conforme a fórmula prevista no item C.1: 
+a) Para os módulos de armazenamento de acetona (considerar os pallets existentes): 
+𝑞𝑓𝑖 = 
+(1.000.000 𝑥 30)+(200𝑥19)
+1.000
+ = 30.003,8 MJ/m² 
+b) Para os módulos de armazenamento de benzeno (considerar os pallets existentes): 
+𝑞𝑓𝑖 = 
+(300.000 𝑥 40)+(200𝑥19)
+500
+ = 24.007,6 MJ/m² 
+ 
+ 
+4º Passo 
+Em se tratando de armazenamento em módulos diferentes, deve-se observar o previsto no item 
+C.3 desta IT. 
+Assim: 
+𝑆𝑜𝑚𝑎 𝑑𝑎𝑠 𝑑𝑢𝑎𝑠 𝑚𝑎𝑖𝑜𝑟𝑒𝑠 𝑐𝑎𝑟𝑔𝑎 𝑖𝑛𝑐ê𝑛𝑑𝑖𝑜 𝑒𝑛𝑐𝑜𝑛𝑡𝑟𝑎𝑑𝑎𝑠
+2
+ 
+OU 
+85 % da maior carga de incêndio encontrada, adotando sempre o maior valor
+
+--- PÁGINA 39 ---
+CBMMG IT 09 – Carga de Incêndio nas edificações e espaços destinados a uso coletivo 
+2ª edição 
+ 
+39/39 
+Aprovada pela portaria nº 61, de 28dez2020, publicada no DOEMG nº 260, ano 128, pp. 06 e 07. 
+ 
+Calculando: 
+30.003,8 +24.007,6 
+2
+ = 27.005,7 MJ/m² (valor a ser adotado) 
+OU 
+85% x 30003,8= 25.503,23 MJ/m² 
+ 
+Carga de incêndio encontrada: 27.005,7 MJ/m².

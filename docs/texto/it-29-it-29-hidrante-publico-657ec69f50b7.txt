@@ -1,0 +1,240 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 29 
+1ª edição 
+HIDRANTE PÚBLICO 
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências  
+4 – Definições  
+5 – Procedimentos 
+ 
+ 
+ANEXOS 
+A – Cor padrão para a identificação dos 
+hidrantes públicos 
+B – Esquema de instalação do hidrante 
+público e relação de seus 
+C – Posicionamento do hidrante público 
+no passeio das edificações
+
+--- PÁGINA 2 ---
+CBMMG IT 29 – Hidrante Público 
+1ª edição 
+2/7 
+Aprovada pela portaria n. 05, de 25out2005 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica estabelece a regulamentação das condições mínimas para a instalação de 
+hidrante público. 
+2 APLICAÇÃO 
+Esta Instrução Técnica se aplica à instalação de hidrantes públicos na rede pública de distribuição 
+de água e em loteamentos e condomínios dos municípios de todo Estado, respeitadas as 
+respectivas legislações municipais vigentes. 
+3 REFERÊNCIAS NORMATIVAS E BIBLIOGRÁFICAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 5667 – Hidrantes urbanos de incêndio, suas atualizações ou outra norma que vier substituí-
+la. 
+NBR 12218 – Projeto de rede de distribuição de água para abastecimento público, suas 
+atualizações ou outra norma que vier substituí-la. 
+4  DEFINIÇÕES 
+Para efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 (Terminologia 
+de Proteção Contra incêndio e Pânico). 
+5  PROCEDIMENTOS 
+5.1 Da instalação de hidrantes públicos em loteamentos e condomínios horizontais 
+5.1.1 
+O loteador deverá projetar e instalar, além dos demais serviços e equipamentos urbanos 
+obrigatórios, hidrantes públicos, nas redes de distribuição de água do loteamento ou condomínio 
+horizontal. 
+5.1.2 
+Deverão ser observados os seguintes parâmetros para o projeto: 
+5.1.2.1 Loteamentos industriais: 
+a) 
+Os hidrantes públicos terão, cada um, um raio de ação de, no máximo 300 (trezentos) metros, 
+devendo atender a toda área do loteamento; 
+b) O hidrante público mais desfavorável deverá fornecer uma vazão mínima de 1890 (mil 
+oitocentos e noventa) l/min, sendo que haverá, no mínimo, 2 (dois) hidrantes públicos no 
+loteamento;
+
+--- PÁGINA 3 ---
+CBMMG IT 29 – Hidrante Público 
+1ª edição 
+3/7 
+Aprovada pela portaria n. 05, de 25out2005 
+ 
+c) 
+Os hidrantes públicos serão instalados em rede de diâmetro mínimo de 100 (cem) mm. 
+5.1.2.2 Demais loteamentos e condomínios: 
+a) Os hidrantes públicos terão, cada um, um raio de ação de, no máximo 300 (trezentos) metros, 
+devendo atender a toda área do loteamento; 
+b) O hidrante público mais desfavorável deverá fornecer uma vazão entre 1000 (mil) l/min e 1890 
+(mil oitocentos e noventa) l/min, sendo que haverá, no mínimo, 02 (dois) hidrantes públicos no 
+loteamento; 
+c) Os hidrantes públicos serão instalados em rede de diâmetro mínimo de (cem)100 mm. 
+5.1.3 
+Recomenda-se que a concessionária local dos serviços de água e esgotos ou a prefeitura 
+municipal somente assine o “aceite” da rede de distribuição de água do loteamento, após a 
+inspeção e testes dos hidrantes públicos e a verificação de que foram instalados conforme projeto 
+aprovado, além do cumprimento dos demais requisitos legais pertinentes. 
+5.1.4 
+O disposto neste parágrafo aplica-se igualmente aos loteamentos implantados pela 
+administração direta ou indireta. 
+5.2 
+Da instalação de hidrante público na rede pública 
+5.2.1 
+A concessionária local dos serviços de águas e esgotos, é atribuída a competência para o 
+projeto, a instalação, a substituição e a manutenção dos hidrantes públicos. 
+5.2.2 
+A concessionária, em conjunto com o Corpo de Bombeiros da área, estabelecerá os locais 
+para a instalação dos hidrantes públicos, acompanhando os trabalhos de instalação. 
+5.2.3 
+O espaçamento entre os hidrantes públicos, vazão e pressão serão estipulados pela 
+concessionária em conjunto com o Corpo de Bombeiros, com base nesta Instrução Técnica, nas 
+normas técnicas brasileiras vigentes e nas condições da rede pública de distribuição de água local. 
+5.2.4 
+Os hidrantes públicos serão preferencialmente instalados nas esquinas das vias públicas 
+e no meio das grandes quadras. 
+5.2.5 
+Os hidrantes públicos serão desta forma instalados até que toda a área urbana e distritos 
+do município sejam totalmente atendidos por este benefício, após o que ele poderá ser estendido 
+à área rural. 
+5.2.6 
+Recomenda-se que a concessionária local dos serviços de água e esgotos, ao implantar 
+novas redes de distribuição de água ou substituir as antigas, faça a previsão e a instalação dos 
+hidrantes públicos respectivos, atendendo ao disposto no item 5.2.3. 
+5.2.6.1 A concessionária procederá gradativamente à substituição dos hidrantes subterrâneos 
+existentes por hidrantes públicos, bem como a substituição da rede de água em obras de reforço 
+do abastecimento. 
+5.2.7 A unidade do Corpo de Bombeiros daquela determinada área solicitará à concessionária 
+local dos serviços de água o conserto dos defeitos constatados nos hidrantes públicos, de forma 
+a mantê-los sempre em perfeitas condições de funcionamento. 
+5.2.8 
+O Corpo de Bombeiros solicitará à concessionária local dos serviços de água que indique 
+a localização dos hidrantes públicos em mapa circunstanciado, mantendo-o constantemente 
+atualizado.
+
+--- PÁGINA 4 ---
+CBMMG IT 29 – Hidrante Público 
+1ª edição 
+4/7 
+Aprovada pela portaria n. 05, de 25out2005 
+ 
+5.2.9 A instalação de que trata o item 5.2.5 será feita em redes de, no mínimo, 100 (cem) 
+milímetros de diâmetro. 
+5.2.9.1 No município com população de até 100.000 (cem mil) habitantes, excepcionalmente, será 
+aceita a instalação de hidrantes públicos em redes de diâmetro inferior a 100 (cem) milímetros, 
+desde que as mesmas já sejam redes existentes. 
+5.3 Da identificação do hidrante público 
+5.3.1 
+Os hidrantes públicos devem ser pintados na cor vermelha conforme o padrão constante 
+do Anexo A. 
+5.3.2 
+A unidade do Corpo de Bombeiros daquela determinada área de atuação enviará à 
+Concessionária local dos serviços de águas e esgotos cópia do relatório com o resultado dos 
+testes da vazão dos hidrantes públicos para avaliação do desempenho da rede.  
+5.4 Recomendação 
+5.4.1 Tendo em vista a dificuldade de visualização, a grande possibilidade de obstrução e de 
+contaminação da água, recomenda-se que não seja mais aceita a instalação de hidrante do tipo 
+subterrâneo na rede pública de distribuição de água e nas redes dos loteamentos e condomínios. 
+5.4.2 Pelos mesmos motivos elencados em 5.4.1 recomenda-se que os hidrantes subterrâneos 
+existentes sejam gradativamente desativados para a finalidade de combate a incêndios e, após 
+análise de viabilidade, sejam substituídos por hidrantes públicos, fabricados de acordo com a 
+norma da ABNT. 
+5.5 Dos Hidrantes públicos já instalados 
+5.5.1 Os hidrantes em operação antes da vigência do Regulamento de Segurança Contra Incêndio 
+e Pânico nas edificações e áreas de risco no Estado de Minas Gerais, continuam a operar com as 
+atuais pressões e vazões.
+
+--- PÁGINA 5 ---
+CBMMG IT 29 – Hidrante Público 
+1ª edição 
+5/7 
+Aprovada pela portaria n. 05, de 25out2005 
+ 
+ANEXO A 
+ 
+Cor padrão para a identificação dos hidrantes públicos 
+ 
+ 
+ 
+ 
+ 
+HIDRANTE 
+ 
+ 
+Cor vermelha
+
+--- PÁGINA 6 ---
+CBMMG IT 29 – Hidrante Público 
+1ª edição 
+6/7 
+Aprovada pela portaria n. 05, de 25out2005 
+ 
+ANEXO B 
+ 
+Esquema de instalação do hidrante público e relação de seus componentes 
+ 
+ 
+ 
+ 
+1 
+HIDRANTE DE COLUNA DN=100 
+1 
+2 
+CURVA DISSIMÉTRICA C/ FLAGES 
+1 
+3 
+REGISTRO COM GLANGES E CABEÇOTE DN=100 
+1 
+4 
+REGISTRO DUCTIL JUNTA ELÁSTICA E CAB. DN=100 
+1 
+5 
+LUVAS JUNTA ELÁSTICA DN=* 
+2 
+6 
+TÊ PONTA-PONTA *x100 
+1 
+7 
+ARRUELA DE BORRACHA P/FLANGE DN100 (REGISTRO/HIDRANTE) 
+3 
+8 
+PARAFUSOS 5/8” x 3 1/2” (REGISTRO/HIDRANTE) 
+24 
+9 
+TAMPA P/ REGISTRO 
+1 
+10 
+ANEL DE BORRACHA P/ JUNTA ELÁSTICA DN * (P/LUVAS) 
+4 
+11 
+ANEL DE BORRACHA P/ JUNTA ELÁSTICA DN 100 (REGISTRO EXTR) 
+3 
+12 
+EXTREMIDADE BOLSA JUNTA ELÁSTICA x FLANGE DN 100 
+1
+
+--- PÁGINA 7 ---
+CBMMG IT 29 – Hidrante Público 
+1ª edição 
+7/7 
+Aprovada pela portaria n. 05, de 25out2005 
+ 
+ANEXO C 
+ 
+Posicionamento do hidrante público no passeio das edificações

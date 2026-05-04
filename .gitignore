@@ -1,7 +1,8 @@
-﻿.venv/
+.venv/
 __pycache__/
 *.pyc
 .env
 .DS_Store
 Thumbs.db
 sync_cbmmg.log
+docs/debug/

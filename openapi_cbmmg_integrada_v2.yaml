@@ -1,46 +1,49 @@
 openapi: 3.1.0
 info:
   title: CBMMG Base Integrada - Normas, Textos e Templates
-  version: 2.1.0
-  description: >-
-    API estática para Custom GPT consultar a base atualizada de normas técnicas do CBMMG,
-    manifesto de PDFs oficiais, textos extraídos e catálogo de templates profissionais.
+  version: 2.1.1
+  description: API estática para Custom GPT consultar a base atualizada de normas técnicas do CBMMG, manifestos oficiais, textos extraídos, endereços e templates profissionais.
+
 servers:
   - url: https://wellingtonvalente.github.io
+
 paths:
   /normas-bombeiros/normas_com_texto.json:
     get:
-      summary: Compatibilidade com o endpoint antigo das ITs com texto extraído
+      summary: Compatibilidade com o endpoint antigo de normas com texto extraído
       operationId: listarNormasComTextoCompat
       responses:
         '200':
-          description: Base textual das ITs do CBMMG extraída dos PDFs oficiais sincronizados.
+          description: Base textual extraída dos PDFs oficiais sincronizados.
           content:
             application/json:
               schema:
                 type: object
+
   /normas-bombeiros/normas_manifest.json:
     get:
       summary: Compatibilidade com o manifesto de normas na raiz do GitHub Pages
       operationId: listarManifestoNormasCompat
       responses:
         '200':
-          description: Manifesto auditável publicado também na raiz do GitHub Pages.
+          description: Manifesto auditável publicado também na raiz.
           content:
             application/json:
               schema:
                 type: object
+
   /normas-bombeiros/instrucoes_tecnicas_manifest.json:
     get:
-      summary: Compatibilidade com o manifesto de ITs na raiz do GitHub Pages
+      summary: Compatibilidade com o manifesto de Instruções Técnicas na raiz do GitHub Pages
       operationId: listarInstrucoesTecnicasCompat
       responses:
         '200':
-          description: Manifesto de Instruções Técnicas publicado também na raiz do GitHub Pages.
+          description: Manifesto de Instruções Técnicas publicado também na raiz.
           content:
             application/json:
               schema:
                 type: object
+
   /normas-bombeiros/data/normas_manifest.json:
     get:
       summary: Lista todos os documentos oficiais sincronizados da página do CBMMG
@@ -52,9 +55,10 @@ paths:
             application/json:
               schema:
                 type: object
+
   /normas-bombeiros/data/instrucoes_tecnicas_manifest.json:
     get:
-      summary: Lista somente as Instruções Técnicas detectadas na página do CBMMG
+      summary: Lista somente as Instruções Técnicas detectadas
       operationId: listarInstrucoesTecnicasCBMMG
       responses:
         '200':
@@ -63,20 +67,22 @@ paths:
             application/json:
               schema:
                 type: object
+
   /normas-bombeiros/data/normas_com_texto.json:
     get:
-      summary: Lista as Instruções Técnicas com texto extraído dos PDFs oficiais
+      summary: Lista normas com texto extraído dos PDFs oficiais
       operationId: listarNormasComTexto
       responses:
         '200':
-          description: Base textual das ITs do CBMMG extraída dos PDFs oficiais sincronizados.
+          description: Base textual das normas/ITs extraída dos PDFs oficiais sincronizados.
           content:
             application/json:
               schema:
                 type: object
+
   /normas-bombeiros/data/enderecos_cbmmg.json:
     get:
-      summary: Lista unidades/endereço CBMMG com SSCIP cadastradas na base local
+      summary: Lista unidades/endereço CBMMG cadastradas na base local
       operationId: listarEnderecosCBMMG
       responses:
         '200':
@@ -85,6 +91,7 @@ paths:
             application/json:
               schema:
                 type: object
+
   /normas-bombeiros/data/links_nao_pdf.json:
     get:
       summary: Lista links detectados que não retornaram PDF ou foram ignorados
@@ -96,6 +103,19 @@ paths:
             application/json:
               schema:
                 type: object
+
+  /normas-bombeiros/data/erros_download.json:
+    get:
+      summary: Lista erros de download detectados na sincronização
+      operationId: listarErrosDownload
+      responses:
+        '200':
+          description: Auditoria de links com falha de download.
+          content:
+            application/json:
+              schema:
+                type: object
+
   /normas-bombeiros/templates/formularios/modelos_laudos.json:
     get:
       summary: Lista modelos e templates disponíveis para uso profissional

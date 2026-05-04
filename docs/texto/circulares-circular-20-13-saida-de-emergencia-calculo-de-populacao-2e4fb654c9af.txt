@@ -1,0 +1,78 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+CIRCULAR Nº 20/2013  
+Padroniza 
+procedimentos 
+para 
+dimensionamento 
+das 
+saídas 
+de 
+emergência de acordo com a tabela 4 da 
+Instrução Técnica nº 08. 
+ 
+O CORONEL BM DIRETOR DE ATIVIDADES TÉCNICAS, no uso de suas atribuições 
+legais consoante ao disposto no inciso I, artigo 6º da Resolução 169/2005, que trata da 
+competência e estrutura da Diretoria de Atividades Técnicas, combinado com o disposto no 
+inciso III, artigo 2º da Lei 14.130/2001, que dispõe sobre a prevenção contra incêndio e 
+pânico no Estado de Minas Gerais, 
+ 
+CONSIDERANDO QUE:  
+a)  Tem surgido solicitações de profissionais para dimensionamento de saída de 
+emergência com concentração de público por área superior ao estabelecido na tabela 4 da 
+IT 08, prevendo a utilização de “cálculo inverso”. 
+b) O item 5.3 da IT 08 prevê que as saídas de emergência são dimensionadas em função 
+da população da edificação, sendo que o cálculo da população de cada pavimento deve ser 
+de acordo com os coeficientes da tabela 4, considerando as respectivas ocupações. 
+c) O requisito da IT 08 é o mesmo apresentado pela NBR 9077/1993, saída de 
+emergência em edifícios, quanto ao cálculo de população e dimensionamento das saídas 
+de emergência. 
+d) A tabela 4 da IT 08 e tabela 5 do anexo da NBR 9077/1993 apresentam várias 
+densidades populacionais, sendo que a maior prevista para edificações é de 02 pessoas 
+por m², para divisões F-3, F-6 e F-7. 
+e) A nota A da tabela 4 da IT 08 e tabela 5 do anexo dispõe que: 
+(A) Os parâmetros dados nesta tabela são os mínimos aceitáveis para o cálculo 
+da população. Em projetos específicos, devem ser cotejados com os obtidos em 
+função da localização de assentos, máquinas, arquibancadas e outros, e adotados 
+os mais exigentes, para maior segurança (g.n).
+
+--- PÁGINA 2 ---
+f) 
+No caso das divisões F-3, F-6 e F-7, haja vista que os parâmetros apresentados pela IT 
+08 e NBR 9077 são os mínimos aceitáveis, a largura das saídas não pode ser inferior ao 
+estabelecido em função da densidade populacional de 02 pessoas por m².  
+g) Os coeficientes previstos na tabela 4 da IT 08 de densidade populacional representam 
+o número provável de pessoas por área para cada ocupação,  podendo haver acréscimo do 
+número total de pessoas além do previsto, conforme as características de uso das 
+edificações. 
+h)  Densidade populacional superior a 02 pessoas por m² dificulta e reduz o movimento 
+das pessoas durante a evacuação em situação de emergência em edificações, devendo 
+ser adotado como coeficiente limite. 
+ 
+RESOLVE: 
+1. O dimensionamento das saídas de emergência deverá observar os parâmetros da 
+tabela 4 da IT 08, inclusive nota A. 
+2. Quanto à densidade populacional, as edificações poderão apresentar coeficientes 
+superiores ao previsto na tabela 4 da IT 08, desde que seja observado o limite de 02 
+pessoas por m² e as saídas sejam dimensionadas em quantidade e largura suficientes para 
+atender à população prevista. 
+3. Será permitida para edificações existentes a limitação de público, de forma a utilizar 
+densidade populacional (quantidade de pessoas por unidade de área) com coeficientes 
+inferiores ao previsto na tabela 4 da IT 08. 
+3.1  A largura total das saídas existentes deve corresponder a uma redução de, no 
+máximo, 02 unidades de passagem, em comparação à largura  exigida pela tabela 4 da IT 
+08.  Nestes casos a aprovação da limitação de público poderá ser feita pelo próprio 
+analista. Para reduções com quantidade superior a 02 unidades de passagem, o PSCIP 
+deverá ser encaminhado para parecer de Corpo Técnico.  
+4. Para salões de festa, caracterizados como ocupação secundária, pertencentes a 
+edifícios residenciais, poderá ser admitida a limitação de público para fins de 
+dimensionamento das saídas de emergência.  
+5. Revoga-se o item 2.7 do anexo A do ofício nº 163/2013. 
+ 
+Publique-se. 
+Belo Horizonte, 01 de novembro de 2013 
+ 
+ 
+MIGUEL NOVAIS BORGES –  CORONEL BM 
+DIRETOR

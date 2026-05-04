@@ -1,0 +1,200 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 18 
+1ª edição 
+SISTEMA DE CHUVEIROS 
+AUTOMÁTICOS  
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências  
+4 – Definições  
+5 – Procedimentos 
+6 – Certificação e validade/garantia  
+ANEXOS 
+A – Hidrantes de recalque do sistema de 
+chuveiros automáticos 
+B – Sinalização dos Hidrantes de 
+Recalque do Sistema de chuveiros 
+automáticos e do Sistema de Hidrantes
+
+--- PÁGINA 2 ---
+CBMMG IT 18 – Sistema de Chuveiros Automáticos 
+1ª Edição 
+2/7 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica visa a adequar o texto da norma NBR 10.897 – Proteção contra incêndio 
+por chuveiro automático para aplicação na análise e vistoria de processos submetidos ao Corpo 
+de Bombeiros, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica se aplica a todas as edificações onde é exigida a instalação de 
+chuveiros automáticos, de acordo com o Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas Gerais. 
+2.2 Adota-se a NBR 10.897 – Proteção contra incêndio por chuveiro automático, suas 
+atualizações ou outra norma que vier substituí-la com as adequações constantes no item 5 desta 
+instrução. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 10897 – Proteção contra incêndio por chuveiro automático. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de proteção contra incêndio e pânico). 
+5 PROCEDIMENTOS 
+5.1 Os sistemas de proteção por chuveiros automáticos serão elaborados de acordo com critérios 
+estabelecidos em normas técnicas brasileiras, sendo aceita a norma NFPA – 13 da National Fire 
+Protection Association, se o assunto não for por elas contemplado. 
+5.2 A classificação do risco, área de operação, tabelas e demais parâmetros técnicos deverão 
+seguir os critérios contidos nas normas técnicas. 
+5.3 Para fins de apresentação junto ao Corpo de Bombeiros, deve ser elaborada uma proposta 
+de Projeto Técnico, com simbologia atendendo ao contido na IT 03, devendo ser apresentado o 
+projeto executivo de chuveiros automáticos, contendo além do especificado nas normas técnicas 
+da ABNT, as exigências previstas na IT 01 (Procedimentos Administrativos). 
+5.3.1 Deverá haver uma cópia do projeto citado no item anterior à disposição na edificação para 
+dirimir possíveis dúvidas do agente vistoriador.
+
+--- PÁGINA 3 ---
+CBMMG IT 18 – Sistema de Chuveiros Automáticos 
+1ª Edição 
+3/7 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+5.4 Nas edificações, onde houver exigência da instalação do sistema de chuveiros automáticos, 
+deve-se atender a toda área de edificação, podendo deixar de abranger certas áreas, como 
+espaços ocultos, conforme estabelece a NBR 10897, suas atualizações ou outra norma que vier 
+substituí-la. 
+5.5 Para as edificações já construídas anteriores à vigência desta IT, que não atendam às normas 
+atuais, cabe ao Responsável Técnico apresentar requerimento detalhando os itens que 
+necessitam de dispensa da exigências com as argumentações e a impossibilidade técnica, 
+apresentando as medidas mitigadoras adotadas, para apreciação do Corpo Técnico. 
+5.6 A área de aplicação deve ser sempre considerado como a área do piso. 
+5.7 Não é permitida a falta de chuveiros pela simples presença de equipamentos elétricos. Estes 
+equipamentos podem ser protegidos contra a descarga de água proveniente destes por meio de 
+anteparos não-combustíveis. 
+5.8 Nos casos de edificações com ocupação mista, a reserva de incêndio deve ser calculada em 
+função da vazão de risco mais grave e do tempo de funcionamento do risco predominante. 
+5.9 Para edificações que possuam estoques de mercadorias, a distância livre mínima do defletor 
+do chuveiro ao topo do estoque deverá ser de 456,0 mm para chuveiros standard e para chuveiros 
+especiais, deverá ser de 916,0 mm. 
+5.10 Os procedimentos de cálculo e seu conteúdo são de responsabilidade exclusiva do 
+Responsável Técnico. 
+5.10.1 O sistema de chuveiros automáticos deve ser apresentado seguindo os critérios definidos 
+em instrução técnica específica. 
+5.11 Nos casos em que hidrantes e mangotinhos são instalados em conjunto com o sistema de 
+chuveiros automáticos, devem ser garantidas as vazões e pressões mínimas exigidas, sendo 
+somadas as reservas efetivas de água para o combate a incêndios, e que atendam aos requisitos 
+técnicos previstos nas normas técnicas oficiais. 
+5.12 O hidrante de Recalque do Sistema de chuveiros automáticos deverá possuir duas entradas 
+de água de 63 mm de diâmetro, providas de adaptadores de engate rápido conforme figura do 
+anexo B. 
+5.12.1 Em prédios comerciais a tomada de recalque pode ser localizada preferencialmente na 
+fachada principal ou muro de divisa com a rua, a uma altura mínima de 0,60 m e máxima de 1,00m 
+em relação ao piso, segundo o anexo A desta IT. 
+5.12.2 Se for comprovado tecnicamente ser impossível a especificação anterior, a tomada de 
+recalque pode ser localizada dentro de uma caixa de alvenaria, com tampa metálica, segundo 
+anexo A, com as indicações constantes no anexo B e especificações da NBR 10897, suas 
+atualizações ou outra norma que vier substituí-la. 
+5.12.3 O hidrante de recalque para chuveiros automáticos e o hidrante de recalque para hidrantes, 
+quando independentes obedecerão à sinalização segundo o anexo B desta IT. 
+5.12.4 Quando a rede de alimentação for comum para chuveiros e hidrantes e existir franco e fácil 
+acesso aos hidrantes externos, estes podem substituir o hidrante de recalque. 
+5.13 As tubulações para hidrantes e mangotinhos devem ser conectadas às tubulações 
+principais, antes das válvulas de governo e alarme, de forma que estejam em condições de operar
+
+--- PÁGINA 4 ---
+CBMMG IT 18 – Sistema de Chuveiros Automáticos 
+1ª Edição 
+4/7 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+mesmo quando o sistema de chuveiros estiver em manutenção. Admite-se a conexão da tubulação 
+de mangotinhos após a válvula de governo e alarme se protegerem área diferente daquela que os 
+chuveiros estejam dando cobertura. 
+5.14 Quando não houver necessidade da instalação de mais do que uma válvula de governo e 
+sendo a reserva efetiva, situada acima do pavimento mais elevado, a instalação desta válvula de 
+governo pode ser dispensada, substituindo-se por válvula de retenção instalada na expedição da 
+bomba e chave de fluxo para acionamento do alarme, de modo que atenda às funções da válvula 
+de governo e alarme. 
+5.15 Nas edificações elevadas, constituídas de múltiplos pavimentos, serão aceitos os limites 
+máximos para cada válvula de governo e alarme, previstos na NBR 10897, para cada válvula de 
+governo e alarme, sendo que após a instalação de pelo menos uma para cada limite de área 
+atendida, os demais pavimentos podem conter apenas as chaves de fluxo secundárias, ficando 
+sob o controle da respectiva válvula de governo e alarme. 
+5.16 Para o sistema de pressurização, o painel de comando(s) da(s) bomba(s) principal(is) 
+deverá permitir que, após a partida do(s) motor(es), o desligamento somente possa ser ativado 
+manualmente. 
+5.17 O gongo hidráulico, normalmente presente nas válvulas de governo e alarme, pode ser 
+substituído pelo alarme elétrico, interligando a mesma ao sistema de alarme principal da 
+edificação, de forma a avisar quando passar água no sistema a partir do funcionamento de um 
+único chuveiro. 
+15.17.1 O circuito do alarme de que trata este item deverá ser supervisionado. 
+5.18 O painel de comando elétrico que compõe o sistema de proteção por chuveiros automáticos 
+deve ser conforme prevê a NBR 10897, suas atualizações ou outra norma que vier substituí-la, 
+possuindo mecanismos que possibilitem a fácil supervisão dos circuitos. 
+5.18.1 O painel de comando deve ser localizado o mais próximo possível do motor da bomba e 
+convenientemente protegido contra os respingos provenientes destas. 
+5.19 Não são aceitas placas de orifícios para balanceamento do sistema de chuveiros 
+automáticos. 
+5.20 Quando for necessária a redução de pressão, em sistemas conjugados ou não, deverão ser 
+utilizadas válvulas redutoras de pressão, aprovadas para o uso em instalações de proteção contra 
+incêndios. 
+5.21 Em reservatórios elevados o ponto de tomada de água para consumo deve ser lateral, 
+ficando as tomadas de fundo para o sistema de chuveiros automáticos, mantendo- se a reserva 
+exclusiva definida para o sistema. 
+5.22 A bomba deve operar com sua capacidade nominal dentro de 30 segundos após a partida. 
+5.23 Sempre que possível, as bombas devem ser instaladas sob condição de sucção positiva 
+(afogadas), sendo permitida a sucção negativa quando comprovadamente for inviável a primeira 
+condição. 
+5.24 As bombas devem ser diretamente acopladas por meio de luva elástica a motores elétricos 
+ou a diesel, sem interposição de correias ou correntes.
+
+--- PÁGINA 5 ---
+CBMMG IT 18 – Sistema de Chuveiros Automáticos 
+1ª Edição 
+5/7 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+5.25 Deverá o sistema de chuveiros automáticos, ser provido de uma conexão de ensaio (dreno), 
+de conformidade com a NBR 10897, suas atualizações ou outra norma que vier substituí-la, para 
+verificação em vistoria e manutenção da tubulação. 
+5.26 A instalação e o ensaio deverão ser elaborados por profissional legalmente habilitado, sendo 
+confeccionada a respectiva ART de Execução, que será apresentada durante o pedido de vistoria 
+conforme a IT 01. 
+6 CERTIFICAÇÃO E VALIDADE/GARANTIA 
+Os componentes do sistema deverão possuir selo de homologação dos laboratórios responsáveis: 
+ABNT, FM, UL, ULC e LPC.
+
+--- PÁGINA 6 ---
+CBMMG IT 18 – Sistema de Chuveiros Automáticos 
+1ª Edição 
+6/7 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ANEXO A 
+Hidrantes de recalque do sistema de chuveiros automáticos
+
+--- PÁGINA 7 ---
+CBMMG IT 18 – Sistema de Chuveiros Automáticos 
+1ª Edição 
+7/7 
+Alterada pela portaria n. 41, de 23mar2020, publicada no DOEMG n. 65, ano 128, p.10. 
+ 
+ 
+  
+ ANEXO B 
+Sinalização dos Hidrantes de Recalque do Sistema de Chuveiros Automáticos e do Sistema de Hidrantes

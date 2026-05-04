@@ -1,0 +1,240 @@
+--- PÁGINA 1 ---
+IT - 21 
+SISTEMA FIXO DE GASES PARA COMBATE A INCÊNDIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+1- Objetivo 
+ 
+ 
+2 - Aplicação 
+ 
+ 
+3 - Referências Bibliográficas 
+ 
+ 
+4 - Definições 
+ 
+ 
+5 – Procedimentos
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 21 
+ 
+   
+ 
+ 
+SISTEMA FIXO DE GASES PARA 
+COMBATE A INCÊNDIO 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+Esta Instrução Técnica estabelece as exigências técnicas 
+e operacionais para as instalações de sistema fixo de 
+gases para combate a incêndio, a fim de garantir o 
+correto funcionamento dos equipamentos e a segurança 
+das pessoas, atendendo ao previsto no Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais. 
+ 
+ 
+2 APLICAÇÃO 
+ 
+2.1 Esta Instrução Técnica se aplica em locais cujo 
+emprego de água é desaconselhável para o combate a 
+incêndios em virtude de riscos decorrentes de sua 
+utilização ou para aqueles locais cujo valor agregado dos 
+objetos, ou equipamentos é elevado, justificando o não 
+emprego da água. 
+ 
+3 REFERÊNCIA NORMATIVA 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+NBR 9441 – Execução de sistemas de detecção e alarme 
+de incêndio. 
+ 
+NBR 12232 – Execução de sistemas fixos automáticos 
+de proteção contra incêndio com gás carbônico (CO2) 
+por inundação total para transformadores e reatores de 
+potência contendo óleo isolante. 
+ 
+NFPA – 12 – Standard on carbon dioxide estinguinshing 
+systems. 
+ 
+NFPA – 2001 – Standard on clean agent fire 
+estinguinshing systems. 
+ 
+ 
+4 DEFINIÇÕES 
+ 
+4.1 Gases limpos: Agentes extintores na forma de gás 
+que não degradam a natureza e não afetam a camada de 
+ozônio.  São inodoros, incolores, maus condutores de 
+eletricidade e não corrosivos, dividem-se em compostos 
+halogenados em mistura de gases inertes. 
+ 
+Obs.: O CO2 não é considerado gás limpo por sua ação 
+asfixiante na concentração de extinção. 
+ 
+a) Inundação total: Descarga de gases, por meio de 
+difusores fixos no interior do recinto que contém o 
+equipamento protegido, de modo a permitir uma 
+atmosfera inerte com uma concentração determinada de 
+gás a ser atingida em tempo determinado. 
+b) Aplicação local: Dispositivos com suprimento de gás 
+permanentemente conectados a uma tubulação que 
+alimenta esguichos difusores distribuídos de maneira a 
+descarregar o gás diretamente sobre o material que 
+queima.  Podem ser de comando automático ou manual. 
+ 
+ 
+5 PROCEDIMENTOS 
+ 
+5.1 
+O 
+Responsável 
+Técnico 
+deve 
+analisar 
+as 
+características da edificação e de comum acordo com o 
+proprietário, decidir pelo emprego de sistemas fixos de 
+gases. 
+ 
+5.2 O emprego de sistemas fixos de gases é 
+recomendável nas situações em que o uso da água ou 
+outro agente extintor pode causar danos adicionais aos 
+objetos ou equipamentos daquela edificação, quando 
+houver risco pessoal no uso do agente extintor 
+convencional, ou ainda quando os resíduos do combate a 
+incêndio são difíceis de serem controlados e podem 
+trazer danos ao meio ambiente. 
+Exemplos: 
+a) objetos de valor inestimável (obras de arte, etc); 
+b) equipamentos ou objetos com alto valor agregado e 
+sensíveis ao uso dos agentes extintores convencionais
+
+--- PÁGINA 3 ---
+(máquinas automatizadas em linhas de produção, CPD, 
+centrais 
+de 
+sensoreamento 
+remoto, 
+centrais 
+de 
+telecomunicações, etc); 
+c) equipamentos energizados (transformadores, controles 
+de subestações elétricas, etc); 
+d) locais onde haja necessidade de isolamento do meio 
+externo (laboratórios onde se armazenam agentes 
+patológicos, produtos radioativos, etc); 
+e) dados ou informações de valor inestimável (CPD, 
+arquivos convencionais de documentos importantes, etc); 
+5.3 No projeto técnico de proteção contra incêndios 
+devem ser apresentadas as seguintes informações: 
+a) norma adotada; 
+b) tipo de sistema fixo (inundação total ou aplicação 
+local); 
+c) agente extintor empregado; 
+d) forma de acionamento (manual ou automático); 
+e) se automático, indicar em planta a localização do 
+ponto de acionamento alternativo do sistema; 
+f) localização em planta do ponto de desativação do 
+sistema; 
+g) indicar o tempo de retardo para evacuação do local 
+protegido antes do acionamento do sistema fixo; 
+h) indicar em planta o local ou equipamento a ser 
+protegido, localização da central de alarme e baterias do 
+sistema de detecção utilizado no acionamento do sistema 
+fixo, os pontos de detecção e a localização do(s) 
+cilindro(s) do sistema fixo; 
+i) apresentar especificações do agente utilizado, como: 
+nível de concentração onde não se observam efeitos 
+adversos às pessoas, nível mais baixo de concentração 
+onde se observam efeitos adversos às pessoas, 
+concentração de projeto em percentagem e em volume, 
+volume total armazenado nos cilindros e outras, 
+conforme seja necessário. 
+ 
+5.4 Nos locais onde houver presença humana não podem 
+ser utilizados sistemas de inundação total com agentes 
+extintores cuja concentração de projeto é superior ao 
+nível de concentração onde não se observam efeitos 
+adversos às pessoas. (Ex: sistema de inundação total com 
+CO2 nos CPD). 
+ 
+5.5 Nos locais onde não houver presença humana e 
+protegidos com sistema de inundação total utilizando 
+agente extintor na concentração acima daquela onde não 
+se observam efeitos adversos às pessoas, porém sujeitos 
+à manutenção eventual. Deve ser previsto desligamento 
+automático do sistema fixo de gás quando da entrada de 
+pessoa no ambiente. (Ex: quando da abertura da porta de 
+acesso em contêiner de torres de telefonia celular). 
+ 
+5.6 Não podem ser utilizados como agentes extintores 
+quaisquer gases que provoquem a destruição da camada 
+de ozônio, conforme Protocolo de Montreal. Para tanto, 
+o agente escolhido deve ser certificado como gás limpo, 
+exceto o CO2, por organismo de certificação reconhecido 
+pelo Sistema Brasileiro de Certificação, ou, na falta 
+deste, por organismo internacional de ensaio e 
+certificação. (Ex: HALON). 
+5.7 Deve ser adotada a simbologia gráfica conforme 
+dispõe a IT 03 - Símbolos Gráficos para Projeto de 
+Segurança Contra Incêndio. 
+5.8 Os sistemas fixos de gases para combate a incêndio 
+podem complementar, agindo antes dos sistemas 
+hidráulicos 
+(hidrantes, 
+mangotinhos 
+e 
+chuveiros 
+automáticos), mas não substituí-los. 
+ 
+5.9 Excepcionalmente, quando não é possível controlar a 
+água residual do combate a incêndios, nos casos onde 
+seja necessário evitar contaminação do ambiente externo, 
+os sistemas de chuveiros automáticos podem ser 
+substituídos pelo sistema fixo de gases limpos. 
+ 
+5.10 Nos locais onde o emprego da água pode danificar 
+equipamentos, o sistema de chuveiros automáticos pode 
+ser acionado manualmente quando o sistema fixo de 
+gases limpos não tiver sido eficiente. 
+ 
+5.11 Devem ser apresentados os seguintes laudos: 
+a) laudo de funcionamento do sistema fixo e respectiva 
+ART do Responsável Técnico; 
+b) laudo técnico do agente extintor (gás) que declare a 
+não toxidade à saúde humana e a não agressividade ao 
+meio ambiente na concentração de projeto.

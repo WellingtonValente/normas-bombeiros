@@ -1,0 +1,613 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ERRATA 01/2018 DA INSTRUÇÃO TÉCNICA Nº 01 / 2017 8ª Edição 
+PROCEDIMENTOS ADMINISTRATIVOS 
+Esta Errata nº 01/2018 tem por objetivo ALTERAR os seguintes itens, quadros, tabelas e anexos 
+da Instrução Técnica 01 (Procedimentos Administrativos) 8ª edição/2017: 
+5.3.2.1 O PSCIP deverá ser apresentado para vistoria como PTS quando atender as seguintes 
+situações, independente do grau de risco da edificação e área de risco: 
+a) não se enquadrar nos requisitos para PT ou PET; 
+b) não se enquadrar nas edificações e áreas de risco dispensadas de licenciamento; 
+c) edificações com área acima de 200 m² até 750 m² 
+Leia-se: 
+5.3.2.1 O PSCIP deverá ser apresentado para vistoria como PTS quando atender as seguintes 
+situações, independente do grau de risco da edificação e área de risco: 
+a) não se enquadrar nos requisitos para PT ou PET; 
+b) não se enquadrar nas edificações e áreas de risco dispensadas de licenciamento; 
+B. ALTERA o subitem 7.3.1 do item 7 Emissão do Auto de Vistoria do CBMMG (AVCB), 
+onde se lê: 
+7.3.1 Após aprovação do PET no formato impresso, o RT pode apresentar no máximo duas 
+cópias para que o CBMMG rubrique, carimbe e devolva-a ao requerente, observando que 01 
+(uma) das cópias deverá permanecer com o proprietário; 
+Leia-se: 
+7.3.1 Após aprovação do PET no formato impresso, o RT pode apresentar no máximo duas 
+cópias para que o CBMMG rubrique, carimbe e devolva-a ao requerente. 
+C. ALTERA o subitem 10.1.4 do item 10 Formulário para Atendimento Técnico (FAT), onde 
+se lê: 
+10.1.4 Para Unidades onde o Infoscip esteja instalado é permitido apenas o protocolo de FAT em 
+formato digital. 
+Leia-se: 
+10.1.4 O FAT deverá ser protocolado na Unidade de tramitação do PSCIP, através do formulário 
+ou por e-mail (a critério da Unidade). 
+10.1.4.1 Para Unidades onde o Infoscip esteja instalado é permitido apenas o protocolo de FAT 
+em formato digital.
+
+--- PÁGINA 2 ---
+D. ALTERA o subitem 10.2.1 do item 10 Formulário para Atendimento Técnico (FAT), onde 
+se lê: 
+10.2.1 O FAT deverá ser protocolado na Unidade de tramitação do PSCIP, através do formulário 
+ou por e-mail (a critério da Unidade). 
+Leia-se: 
+10.2.1 O FAT de dúvida técnica se destina a esclarecer informações sobre a tramitação de 
+PSCIP, interpretação de itens de norma, avaliação de casos especiais ou omissos. 
+E. ALTERA o subitem 11.2 do item 11 PRAZOS, onde se lê: 
+11.2 RDA: 
+Leia-se: 
+11.2 Reconsideração de Ato (RDA): 
+F. ALTERAR o subitem A.1 do Anexo A, onde se lê: 
+aplicam-se a todas as edificações e áreas de risco existentes ou a construir. 
+Leia-se: 
+A.1 As medidas de segurança contra incêndio e pânico são previstas neste Anexo e aplicam-se 
+a todas as 
+edificações e áreas de risco existentes ou a construir. 
+G. ALTERAR o subitem A.1.6 do Anexo A, onde se lê: 
+A.1.6 As medidas de segurança “Segurança Estrutural”, “Detecção de Incêndio” e 
+“Compartimentação Vertical” não se aplicam em áreas de risco abertas e descobertas. 
+Leia-se: 
+A.1.6 As medidas de segurança para riscos especiais estão previstas em IT específicas e outras 
+normas que forem aplicáveis. 
+H. SUBSTITUI os subitens do item A.2 do Anexo A, para a seguinte redação: 
+A.2 Exigência de medidas de segurança para ocupação mista 
+A.2.1 Será considerada ocupação mista, a edificação que possua mais de 01 (uma) ocupação ou 
+uso, com pelo menos 01 (uma) das seguintes características: 
+a) ocupações em pavimentos distintos; 
+b) edificação onde as ocupações utilizam a mesma saída de emergência; 
+c) ocupações que não possuam distância de separação entre si; 
+d) ocupações sem isolamento por paredes corta-fogo. 
+A.2.1.1 Na edificação ou área de risco onde predomina 01 (uma) atividade principal que possua 
+atividades secundárias fundamentais para a concretização da primeira, serão exigidas as 
+medidas de segurança da tabela da ocupação principal em toda a edificação, adotando-se os 
+parâmetros específicos de cada ambiente conforme instrução técnica ou norma. 
+A.2.2 Não havendo compartimentação entre as ocupações deverão ser observados os seguintes 
+critérios: 
+a) para definição das medidas de segurança deverá ser observada a tabela específica da 
+ocupação, considerando a área total e a altura da edificação; 
+b) o conjunto das medidas de segurança de cada tabela deverá ser projetado em toda a 
+edificação ou área de risco;
+
+--- PÁGINA 3 ---
+c) serão considerados os parâmetros mais rigorosos de cada medida de segurança para toda a 
+edificação ou área de risco. 
+A.2.3 Havendo compartimentação entre as ocupações deverão ser observados os seguintes 
+critérios: 
+a) para definição das medidas de segurança de cada ocupação deverá ser observada a tabela 
+específica da ocupação, considerando a área total da edificação e a altura específica de cada 
+ocupação; 
+b) as medidas de segurança de cada tabela serão projetadas em cada ocupação; 
+c) os parâmetros de cada medida de segurança devem ser considerados em cada ocupação; 
+d) o dimensionamento das medidas de segurança deve ser feito para cada tipo de sistema 
+individualmente ou dimensionado para atender ao maior risco. 
+A.2.3.1 As medidas “Segurança Estrutural Contra Incêndio”, “Alarme de Incêndio” ou “Sistema 
+de Hidrantes”, 
+quando exigidas em quaisquer das ocupações da edificação ou área de risco, deverão ser 
+projetadas em toda a edificação. 
+A.2.4 Quando for exigida a medida “Segurança Estrutural Contra Incêndio” para qualquer das 
+ocupações, havendo ou não compartimentação, devem ser adotados os parâmetros mais 
+rigorosos em toda a edificação. 
+I. SUBSTITUI o Quadro 01 do Anexo A, pelo seguinte: 
+Quadro 01 – Critérios para aplicação de legislação em PSCIP 
+SITUAÇÃO / ALTERAÇÃO 
+PSCIP APROVADO E 
+LIBERADO 
+PSCIP APROVADO 
+(EDIFICAÇÃO CONSTRUÍDA) 
+Redução 
+de 
+área 
+sem 
+alteração 
+da 
+eficiência de sistema preventivo 
+Aplica legislação da época de 
+aprovação do PSCIP 
+Aplica legislação da época de 
+aprovação do PSCIP 
+Atualização de dados ou documentos que 
+não alteram eficiência de sistema preventivo 
+Modificações 
+que 
+altere 
+eficiência 
+de 
+sistema preventivo 
+Aplica-se a legislação atual 
+(Mantém data de construção) 
+Aplica-se a legislação atual 
+(Mantém data de construção) 
+Mudança de ocupação/uso (1) (2) 
+Ampliações 
+de 
+área 
+construída (no caso de 
+mais 
+de 
+01 
+(uma) 
+ampliação em 01 (uma) 
+mesma 
+edificação, 
+o 
+percentual 
+relativo 
+ao 
+acréscimo de área será 
+cumulativo, levando em 
+consideração 
+a 
+área 
+construída 
+antes 
+da 
+primeira ampliação) 
+Ampliação igual 
+ou inferior a 
+25% 
+Aplica-se os parâmetros e 
+medidas de segurança 
+previstos à época de aprovação 
+(Mantém data de construção) 
+Aplica-se os parâmetros e 
+medidas de segurança 
+previstos à época de 
+aprovação 
+(Mantém data de construção) 
+Ampliação 
+superior a 25% 
+e inferior a 50% 
+Aplica-se a legislação atual 
+(Mantém data de construção) 
+Aplica-se a legislação atual 
+(Altera data de construção) 
+Ampliação 
+superior a 50% 
+Aplica-se a legislação atual 
+(Altera data de construção) 
+Edificação que possua tombamento por 
+Órgão de preservação 
+Atenderão às exigências de 
+Instrução Técnica especifica. 
+Atenderão às exigências de 
+Instrução Técnica especifica. 
+Notas:  
+1) Quando a mudança de ocupação ocorrer apenas em 01 (uma) área específica ou pavimento de 
+edificação devem ser adotadas as medidas de segurança previstas pela legislação atual na área 
+onde houve a mudança, devendo-se avaliar a interferência da nova ocupação no tocante às saídas 
+de emergência.  
+2) Quando a mudança de ocupação ocorrer em toda a edificação devem ser adotadas as medidas de 
+segurança previstas pela legislação atual. 
+J. SUBSTITUI os subitens do item A.4 do Anexo A, para a seguinte redação:
+
+--- PÁGINA 4 ---
+A.4 Casos de isenção de Medidas de Segurança 
+A.4.1 As edificações e áreas do risco abaixo relacionadas estão isentas de medidas de 
+segurança: 
+a) residência exclusivamente unifamiliar; 
+b) conjunto de residências unifamiliares com acessos independentes às unidades autônomas; 
+c) área destinada exclusivamente à instalação de torres de telefonia móvel; 
+d) empresa que utiliza apenas domicílio fiscal. 
+A.4.2 A área de risco descoberta está isenta das medidas de segurança “Segurança Estrutural 
+Contra Incêndios”, “Detecção de Incêndio”, “Alarme de Incêndio” e “Compartimentação Vertical”. 
+A.4.3 A área de risco descobertas utilizada como depósito ou estacionamento, que não estejam 
+sobre edificação, poderá ser dispensada da instalação de tomada de água do Sistema de 
+Hidrantes e Mangotinhos, quando atender os seguintes requisitos: 
+a) garantir acesso de viaturas do Corpo de Bombeiros; 
+b) atender ao isolamento de risco em relação às edificações adjacentes conforme a IT05; 
+c) haja distanciamento mínimo de 4,0 m entre as quadras de armazenamento/estacionamento; 
+d) carga de incêndio do material armazenado até 200 MJ/m². 
+K. ACRESCENTA o item A.7 do Anexo A, com a seguinte redação: 
+A.7 Exigência de medidas de segurança para ocupação (Divisão A-1) 
+A.7.1 O conjunto arquitetônico tombado pelo patrimônio histórico que possuir edificação 
+residencial unifamiliar terá suas medidas de segurança definidas conforme os critérios de 
+Instrução Técnica específica. 
+A.7.2 A ocupação residencial unifamiliar (Divisão A-1), que fizer parte de uma edificação com 
+outra ocupação ou uso, será isenta de medidas de segurança. 
+A.7.2.1 A área da unidade autônoma com ocupação residencial unifamiliar (Divisão A-1), desde 
+que sem circulação de uso comum (acesso independente) com as demais ocupações, não será 
+computada como área construída para: 
+a) definição de medidas de segurança; 
+b) definição do tipo de PSCIP; 
+c) cálculo de cobrança da TSP, para fins de análise e vistoria; 
+d) área a ser informada no AVCB. 
+A.7.2.2 Os projetos com ocupação Divisão A-1 deverão conter nas plantas as respectivas 
+residências sem o arranjo físico interno (leiaute).
+
+--- PÁGINA 5 ---
+L. SUBSTITUI a Tabela 6 do Anexo A, pela seguinte: 
+TABELA 6 
+EDIFICAÇÕES DO GRUPO E 
+COM ÁREA SUPERIOR A 750 m² OU ALTURA SUPERIOR A 12m 
+ 
+Divisão 
+E-1, E-2, E-3, E-4, E-5 e E-6 
+Medidas de Segurança contra Incêndio e 
+Pânico 
+Classificação quanto à altura (em metros) 
+H ≤ 12 
+12 < H ≤ 30 
+30 < H ≤ 54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural contra Incêndio 
+- 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+X
+1 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Plano de Intervenção de Incêndio 
+- 
+- 
+X 
+X 
+Brigada de Incêndio 
+X 
+X 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Detecção de Incêndio 
+- 
+- 
+X 
+X 
+Alarme de Incêndio 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+- 
+X 
+X 
+X 
+Controle de Fumaça 
+- 
+- 
+- 
+X 
+NOTAS ESPECÍFICAS: 
+1 – Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e 
+selagens dos shafts e dutos de instalações. 
+NOTAS GENÉRICAS: 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências 
+previstas será superior a 1.200 m². 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser 
+subdividida se os riscos forem isolados. 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma 
+Brasileira vigente à época da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical”, 
+“Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 
+2005. 
+E – Os locais destinados a laboratórios devem ter proteção em função dos produtos utilizados.
+
+--- PÁGINA 6 ---
+M. SUBSTITUI a Tabela 10 do Anexo A, pela seguinte: 
+TABELA 10 
+EDIFICAÇÕES DO GRUPO G 
+COM ÁREA SUPERIOR A 750 m² OU ALTURA SUPERIOR A 12 m 
+ 
+Divisão 
+G-1 e G-2  
+Medidas de Segurança contra 
+Incêndio e Pânico 
+Classificação quanto à altura (em metros) 
+H ≤12 
+12 < H ≤30 
+30 < H ≤ 54 
+Acima de 54 
+Acesso de Viaturas 
+X 
+X 
+X 
+X 
+Segurança Estrutural Contra Incêndio 
+X 
+X 
+X 
+X 
+Compartimentação Vertical 
+- 
+- 
+X 
+X 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+Brigada de Incêndio 
+- 
+- 
+X 
+X 
+Iluminação de Emergência 
+X 
+X 
+X 
+X 
+Alarme de Incêndio 
+- 
+X¹ 
+X¹ 
+X¹ 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X 
+Hidrantes e Mangotinhos 
+X 
+X 
+X 
+X 
+Chuveiros Automáticos 
+- 
+- 
+X 
+X 
+Controle de Materiais de Acabamento e 
+de Revestimento 
+- 
+- 
+X 
+X 
+NOTAS ESPECÍFICAS: 
+1 – Para a divisão G-1, pode haver apenas um acionador manual por pavimento, no máximo a 10 m da saída 
+de Emergência. 
+NOTAS GENÉRICAS: 
+A – A área a ser considerada para a definição de exigências é a área total da edificação mais as áreas 
+internas descobertas da propriedade utilizadas para estacionamento de veículos, podendo ser subdividida se 
+os riscos forem isolados. 
+B – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências 
+previstas será superior a 1.200 m². 
+C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norma 
+Brasileira vigente à época da construção. 
+D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical” e 
+“Chuveiros Automáticos” não se aplicam às edificações construídas até 01 de julho de 2005.
+
+--- PÁGINA 7 ---
+N.SUBSTITUI a Tabela 18 do Anexo A, pela seguinte: 
+TABELA 18 
+EDIFICAÇÕES E ÁREAS DE RISCO DO GRUPO M 
+Divisão 
+M-1 
+Para definição das medidas de segurança é necessário consultar as seguintes normas, levando-se em 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
+NBR 15.661 - Proteção contra incêndio em túneis; 
+NBR 15.981 - Sistemas de proteção contra incêndio em túneis - Sistemas de sinalização e de comunicação de 
+emergência em túneis. 
+Divisão 
+M-2 
+1)Para definição das medidas de segurança das áreas de risco que abriguem tanques, cilindros ou produtos 
+acondicionados, GLP ou GN será necessário consultar as seguintes normas, levando-se em consideração 
+todas as suas atualizações e outras que vierem substituí-las, bem como demais documentos por elas citados: 
+a)IT23-Manipulação,armazenamento,comercializaçãoeutilizaçãodegásliquefeitodepetróleo(GLP); 
+b)IT 24 - Comercialização, distribuição e utilização de gásnatural; 
+c)NBR 17.505 – Armazenamento de líquidos inflamáveis e combustíveis (todas aspartes). 
+2)Quando houver a previsão de sistema hidráulico por parte das normas supracitadas, será obrigatória a 
+previsão das medidas de segurança “Alarme de Incêndio”, “Brigada de Incêndio” e “Acesso de Viaturas”, 
+sendo o acesso de viaturas recomendado para as edificações construídas até 1 de julho de2005. 
+3)As medidas de segurança contra incêndio e pânico para as edificações serão as exigidas para o uso 
+específico. Ex.: escritório (D-1), indústria (I), depósito (J), refeitório(F-8). 
+Divisão 
+M-4, M-5,M-6 eM-7 
+1)As medidas de segurança contra incêndio e pânico para as edificações localizadas no interior de terra 
+selvagem, propriedades em transformação, processamento de lixo e pátio de containers serão as exigidas 
+para o uso específico. Ex.: administração (D-1), alojamento da obra (A-3), refeitório(F-8). 
+2) Os pátios de contêineres descobertos devem atender à Instrução Técnica específica. 
+3) As edificações envolvidas em processamento industrial de lixo deverão ter as medidas de segurança 
+definidas para ocupação I-2. 
+O. ALTERA o item C.7.1 do Anexo C, onde se lê: 
+C.7.1 Substituição de PSCIP 
+Para a substituição de PSCIP digital, o Responsável Técnico deverá proceder sempre a 
+substituição total, com a apresentação de outro arquivo DWG contendo todas as plantas, tanto 
+as alteradas quanto as inalteradas. Será gerado um novo número para o processo. 
+Leia-se: 
+C.7 Substituição de PSCIP 
+C.7.1 Para a substituição de PSCIP digital, o Responsável Técnico deverá proceder sempre a 
+substituição total, com a apresentação de novo arquivo DWG (contendo todas as plantas, 
+detalhes, etc.). Será gerado um novo número para o processo. 
+P. ALTERA as alíneas “b” e “f” do item D.1.1do Anexo D, onde se lê: 
+D.1.1 Deverão ser apresentadas, conforme as medidas de segurança e tipos de PSCIP, as 
+seguintes ART/RRT: 
+[...] 
+b) instalação e/ou de manutenção dos sistemas de utilização de gases inflamáveis; 
+[...] 
+f) instalação e/ou de manutenção de vasos sob pressão;
+
+--- PÁGINA 8 ---
+Leia-se: 
+D.1.1 Deverão ser apresentadas, conforme as medidas de segurança e tipos de PSCIP, as 
+seguintes ART/RRT: 
+[...] 
+b) instalação e/ou de manutenção e ensaio de estanqueidade dos sistemas de utilização de 
+gases inflamáveis/ combustíveis; 
+[...] 
+f) instalação e/ou de manutenção de vasos sob pressão para classe A ou B de fluídos prevista 
+na NR 13 (Caldeiras, vasos de pressão e tubulação); 
+Q. ALTERA o item D.1.2.1 do Anexo D, onde se lê: 
+D.1.2.1 Para a vistoria nos eventos temporários será necessária à apresentação das seguintes 
+ART/RRT quando necessário: [...] 
+b) lona de cobertura com material retardante a ignição; [...] 
+Leia-se: 
+D.1.2.1 Para a vistoria nos eventos temporários será necessária à apresentação das seguintes 
+ART/RRT quando necessário: [...] 
+b) resistência a chama de lonas e revestimentos em tecido; [...]. 
+R. ALTERA o item E.1.5 do Anexo E, onde se lê: 
+E.1.5 Quadro Resumo 
+Quadro contendo informações gerais e os resultados obtidos nos cálculos do sistema de 
+pressurização de escada de segurança; da brigada de incêndio; do sistema de hidrantes e 
+mangotinhos; do sistema de chuveiros automáticos; do sistema fixo de gases para combate a 
+incêndio, do sistema de controle de fumaça tipo 1. 
+Leia se: 
+E.1.5 Quadro Resumo 
+Quadro contendo informações gerais e os resultados obtidos nos cálculos: 
+a) do sistema de pressurização de escada de segurança; 
+b) da brigada de incêndio; 
+c) do sistema de hidrantes e mangotinhos; 
+d) do sistema de chuveiros automáticos; 
+e) do sistema fixo de gases para combate a incêndio; 
+f) do sistema de controle de fumaça. 
+S. ALTERA o item E.1.7.2 do Anexo E, onde se lê: 
+E.1.7.2 Memorial descritivo dos cálculos 
+a) Do dimensionamento dos sistemas hidráulicos de combate a incêndio (hidrantes, chuveiros 
+automáticos, sistema de espuma e resfriamento, sistema fixo de gases para combate a incêndio 
+etc.),
+
+--- PÁGINA 9 ---
+b) Da lógica do funcionamento do sistema de controle de fumaça do Tipo 2 e 3; 
+c) Memória de Cálculo do Risco da definição do coeficiente de segurança para edificações 
+tombadas pelo patrimônio cultural, quando necessário. 
+Leia se: 
+E.1.7.2 Memorial descritivo dos cálculos 
+a) Lógica do funcionamento do sistema de controle de fumaça do Tipo 2 e 3; 
+b) Memorial de avaliação de risco para edificações tombadas pelo patrimônio cultural, quando 
+necessário. 
+T. ALTERA o item E.1.16 do Anexo E, onde se lê: 
+E.1.16 Memorial de Cálculo 
+Os Memoriais de cálculo que deverão compor o PSCIP serão somente serão somente os de 
+dimensionamento de saídas de emergência, carga incêndio, isolamento de risco, e o memorial 
+de avaliação de risco, quando necessário. Os demais memoriais de cálculo não deverão ser 
+anexados ao PSCIP, devendo ser apresentados apenas os resultados com os valores exigidos 
+pelas Instruções Técnicas específicas e Normas Técnicas. Os procedimentos de cálculo e seu 
+conteúdo são de responsabilidade exclusiva do Responsável Técnico. 
+Leia se: 
+E.1.16 Memorial de Cálculo 
+Os Memoriais de cálculo que deverão compor o PSCIP serão somente os de dimensionamento 
+de saídas de emergência, carga incêndio, isolamento de risco, e o memorial de avaliação de 
+risco, quando necessário. Os demais memoriais de cálculo não deverão ser anexados ao PSCIP, 
+devendo ser apresentados apenas os resultados com os valores exigidos pelas Instruções 
+Técnicas específicas e Normas Técnicas. Os procedimentos de cálculo e seu conteúdo são de 
+responsabilidade exclusiva do Responsável Técnico. 
+U. SUBSTITUI o Anexo F.20, pelo seguinte: 
+F.20 - QUADRO RESUMO DE CONTROLE DE MATERIAIS DE ACABAMENTO 
+QUADRO RESUMO DE CONTROLE DE MATERIAIS DE ACABAMENTO 
+EDIFICAÇÃO/ 
+AMBIENTE 
+ELEMENTO 
+CONSTRUTIVO 
+CLASSE 
+ADOTADA 
+MATERIAL 
+NORMAS DE 
+ENSAIO 
+ 
+Piso  
+ 
+ 
+ 
+Parede/divisórias  
+ 
+ 
+ 
+Teto/forro  
+ 
+ 
+ 
+Cobertura  
+ 
+ 
+ 
+Isolamento termo acústico   
+ 
+ 
+ 
+____________________________________________ 
+Ass. Responsável Técnico - CREA/CAU
+
+--- PÁGINA 10 ---
+V.SUBSTITUI o campo 5 do Anexo F.22, pelo seguinte: 
+F.22 - FORMULÁRIO DE RENOVAÇÃO DE AVCB 
+5.DECLARAÇÃO 
+Eu________________portador da cédula deRG nº_________, CPF_________, estado civil________, residente 
+e domiciliado a ,____________________________________________________________________ 
+Engenheiro ou Arquiteto, devidamente habilitado e registrado no CREA/CAU sob nº_____, e ART/RRT 
+nº,________________ comprovados através de cópia dos documentos em anexo, na qualidade de responsável 
+técnico, DECLARO sob pena de falsidade ideológica,prevista  no  artigo  299 do Código  Penal,  que  vistoriei  o  
+imóvel  identificado no campo 1 deste laudo, em _____/______/______     e que as informações técnicas deste 
+Laudo Técnico de Segurança Contra Incêndio e Pânico, por mim prestadas, são verídicas. 
+____________________________, ______ de ______________ de 2017. 
+ 
+Assinatura do Responsável pelo laudo 
+Assinatura do proprietário ou responsável pelo uso 
+ 
+W. ACRESCENTA o verso do Anexo F.23, a seguir: 
+F. 23 – VERSO 
+FUNDAMENTAÇÃO TÉCNICA 
+ 
+DECLARAÇÃO 
+Eu declaro, sob pena de incorrer no Art. 299¹ da Lei 2.848 de 07 de dezembro de 1940 (Código Penal 
+Brasileiro) que vistoriei a edificação/área de risco em lide e que as informações por mim prestadas neste laudo 
+são verídicas. 
+_____Cidade __, ____dia__, ___mês___, 20_____ 
+ 
+ 
+_____________________________________________________ 
+Assinatura do RT 
+1 Falsidade ideológica 
+Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir 
+declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade 
+sobre fato juridicamente relevante: 
+Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único - Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação ou 
+alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte. 
+X. ACRESCENTA o subitem I.1.1.3 no Anexo I, com a seguinte redação: 
+I.1.1.3 Nos casos em que o profissional autônomo não possuir CNPJ, a Declaração de Dispensa de 
+Licenciamento poderá ser emitida pela Unidade do Corpo de Bombeiros da localidade. 
+Belo Horizonte, 02 de janeiro de 2018. 
+(a)  MARCUS JOSÉ TIBÚRCIO LIMA, CORONEL BM 
+DIRETOR DE ATIVIDADES TÉCNICAS

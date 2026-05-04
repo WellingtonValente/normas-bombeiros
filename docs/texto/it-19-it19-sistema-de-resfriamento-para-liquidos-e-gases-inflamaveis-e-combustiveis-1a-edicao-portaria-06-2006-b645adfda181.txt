@@ -1,0 +1,481 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 19 
+1ª edição 
+SISTEMA DE RESFRIAMENTO PARA 
+LÍQUIDOS E GASES  
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Considerações gerais 
+6 – Procedimentos
+
+--- PÁGINA 2 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+2/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica estabelece as condições necessárias para segurança contra incêndio, 
+exigências e práticas recomendadas para a elaboração de projetos de sistemas de resfriamento 
+com água. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica aplica-se às edificações e áreas de risco destinadas a produção, 
+manipulação, armazenamento, transferência, distribuição de gases e líquidos inflamáveis ou 
+combustíveis, relacionados a: 
+a) destilaria, refinaria e unidade de processamento; 
+b) plataforma de carregamento, estação de carregamento, e envasamento de gás liquefeito de 
+petróleo ( GLP ); 
+c) parques de tanques ou tanques isolados; 
+d) armazém e áreas destinadas a líquidos e gases combustíveis e inflamáveis, acondicionados 
+em recipientes transportáveis. 
+2.2 Esta Instrução Técnica não se aplica: 
+a) armazenagem de líquidos reativos ou instáveis; 
+b) instalações marítimas off-shore; 
+c) armazenagem de líquidos criogênicos e gases liquefeitos; 
+d) aspectos toxicológicos dos produtos; 
+e) instalações de armazenagem de líquidos combustíveis e inflamáveis que disponham de 
+Normas Brasileiras específicas, tais como aeroportos. 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 7505 – Armazenagem de petróleo, seus derivados líquidos e álcool carburante. 
+NBR 13860 – Glossário de termos relacionados a segurança contra incêndios. 
+NB – 98 – Armazenamento e manuseio de líquidos inflamáveis e combustíveis.
+
+--- PÁGINA 3 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+3/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+N –1203 D, de julho de 1997 – Projetos de sistemas fixos de combate a incêndio com água e 
+espuma. Petrobrás 
+N–1645 D, de dezembro de 1999 – Critérios de segurança para projetos de instalações fixas de 
+armazenamento de gás liquefeito de petróleo. Petrobrás 
+NFPA –15 – Standard for Water Spray Fixed Systems for Fire Protection – edição 1996. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições da IT 02 (Terminologia de 
+Proteção Contra Incêndio e Pânico), complementada pelas seguintes definições: 
+4.1 Líquido combustível: Líquido que possui ponto de fulgor igual ou superior a 37,8 ºC, 
+subdividido como segue: 
+a) classe II: líquidos que possuem ponto de fulgor igual ou superior a 37,8 ºC e inferior a 60 ºC 
+– todos os tipos de óleo diesel, aguarrás e querosene (iluminante e de aviação). 
+b) classe IIIA: líquidos que possuem ponto de fulgor igual ou superior a 60 ºC e inferior a 93,4 
+ºC - todos os tipos de óleo combustível. 
+c) classe IIIB: Líquidos que possuem ponto de fulgor igual ou superior a 93,4 ºC – todos os 
+tipos de lubrificantes. 
+4.2 Líquido inflamável: Líquido que possui ponto de fulgor inferior a 37,8 ºC, também conhecido 
+como líquido Classe I, subdividindo-se em: 
+a) classe IA: líquido com ponto de fulgor abaixo de 22,8 ºC e ponto de ebulição abaixo de 37,8 
+ºC – todos os tipos de gasolina (incluindo gasolina de aviação). 
+b) classe IB: líquido com ponto de fulgor abaixo de 22,8 ºC e ponto de ebulição igual ou acima 
+de 37,8 ºC – todos os tipos de álcool. 
+c) classe IC: líquido com ponto de fulgor igual ou acima de 22,8 ºC e ponto de ebulição abaixo 
+de 37,8 ºC. – solventes (conforme ficha de segurança do produto). 
+4.3 Líquidos instáveis ou reativos: Líquidos que, no estado puro ou nas especificações 
+comerciais, por efeito de variação de temperatura e pressão, ou de choque mecânico, na 
+estocagem ou no transporte, se tornem auto - reativos e em consequência se decomponham, 
+polimerizem ou venham a explodir. 
+4.4 Área a construir: é a somatória das áreas em metros quadrados a serem construídas de 
+uma edificação. 
+4.5 Área construída: é a somatória das áreas em metros quadrados cobertas de uma 
+edificação. 
+4.6 Área total da edificação: somatória da área a construir e da área construída de uma 
+edificação. 
+4.7 Área de armazenamento: é aquela destinada à guarda de materiais, podendo ser edificada 
+ou aberta, sobre piso, com ou sem acabamento ou em terreno natural, esta área poderá estar 
+inclusa na área de risco ou na área edificada, conforme o caso.
+
+--- PÁGINA 4 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+4/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+4.8 Risco isolado: é o risco separado dos demais por paredes ou espaços desocupados, 
+suficientes para evitar a propagação de incêndio de uma edificação para a outra. 
+4.9 Posto de abastecimento interno: Instalação interna a uma indústria ou empresa cuja 
+finalidade única é o abastecimento de combustível e ou lubrificantes para sua frota própria ou de 
+seu uso. 
+4.10 Posto de abastecimento: Local restrito onde são abastecidos os tanques de combustível 
+de motores de veículos, aeronaves, barcos, etc. 
+5 PROCEDIMENTOS 
+5.1 O resfriamento pode ser realizado por meio de: 
+a) linha manual com esguicho regulável; 
+b) canhão monitor manual ou automático; 
+c) aspersores fixos. 
+5.2 O armazenamento em tanques subterrâneos não necessita de proteção contra incêndios por 
+resfriamento. 
+5.3 Para o projeto dos sistemas de proteção consideram-se dois conceitos fundamentais: 
+a) dimensionamento pelo maior risco isolado; 
+b) não simultaneidade de eventos, isto é, o dimensionamento deve ser feito baseando-se na 
+ocorrência de apenas um incêndio. 
+5.4 Independentemente das facilidades de combate ao fogo, grupos de vasos com espaçamento 
+horizontal inferior a 7,5 metros devem ser considerados como único risco. 
+5.5 Cada quadra de unidade de processo constitui um risco isolado. 
+5.6 O suprimento deve ser baseado em uma fonte inesgotável (mar, rio, lago) o qual deve ser 
+capaz de demanda de 100% da vazão de projeto em qualquer época do ano ou condição 
+climática. Na inviabilidade desta solução, deve ser previsto um reservatório com capacidade 
+para atender à demanda de 100% da vazão de projeto durante o período de tempo descrito 
+abaixo: 
+a) 06 horas para refinarias, terminais, bases de distribuição e outras instalações com 
+capacidade de armazenamento de petróleo e derivados igual ou superior a 40.000 m³; 
+b) 04 horas para parques de tanques ou outras instalações com capacidade entre 10.000 m³ e 
+40.000 m³; 
+c) 03 horas para parques de armazenamento de gases liquefeitos de petróleo, sob pressão, em 
+esferas e cilindros, plataforma de carregamento, estação de carregamento e envasamento com 
+qualquer capacidade e em qualquer tipo de instalação. Os casos particulares tratados nesta 
+instrução técnica devem atender às respectivas autonomias estabelecidas; 
+d) 02 horas para parques de tanques, tanques isolados, ou outras instalações com capacidade 
+entre 1.000 m³ e 10.000 m³;
+
+--- PÁGINA 5 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+5/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+e) 01 hora para parques de tanques, tanques isolados, ou outras instalações com capacidade 
+entre 120 m³ e 1.000 m³; 
+f) 45 minutos para parques de tanques, tanques isolados, ou outras instalações com 
+capacidade entre 50 m³ e 120 m³; 
+g) 30 minutos para parques de tanques, tanques isolados, ou outras instalações com 
+capacidade entre 20 m³ e 50 m³. 
+5.6.1 Para o cálculo do volume do reservatório, deve ser considerada a capacidade de 
+armazenamento do maior risco isolado. 
+5.6.1.1 Os casos citados nas alíneas a, b e c do item 5.6, se o abastecimento do reservatório for 
+simultâneo ao incêndio, o seu volume poderá ser reduzido proporcionalmente às condições 
+deste abastecimento, desde que o volume mínimo do reservatório atende a demanda para 120 
+minutos. No caso de reabastecimento por bombeamento, as bombas e os respectivos 
+acionadores devem atender aos mesmos requisitos das bombas principais de combate a 
+incêndio. 
+5.6.2 A água usada no sistema em operação pode ser doce ou salgada e sem tratamento. 
+5.6.3 O sistema deve ficar pressurizado com água doce, a fim de evitar-se a rápida formação de 
+incrustações e corrosão. No caso de utilização de água salgada, toda a tubulação deve estar 
+adequada para esta finalidade. 
+5.6.4 No caso de material sólido em suspensão deve ser previsto dispositivo para a retenção das 
+impurezas e limpeza das linhas sem interrupção do abastecimento. 
+5.6.5 Para cálculo do suprimento de água deve ser adotado o valor correspondente ao maior 
+risco para: 
+a) resfriamento de unidade de processo; 
+b) resfriamento de um tanque atmosférico em chamas e dos tanques vizinhos; 
+c) aplicação de espuma a um tanque e resfriamento dos tanques vizinhos; e. 
+d) resfriamento de vasos de pressão para o armazenamento de gases liquefeitos. 
+5.6.6 Para a aplicação da espuma consultar a IT 20 (Sistema de Proteção por Espuma). 
+5.6.7 No(s) dimensionamento(s) da(s) bomba(s) de incêndio dos hidrantes que atenderem a 
+sistemas de resfriamento de líquidos e gases combustíveis ou inflamáveis, será obrigatória a 
+instalação de duas bombas de incêndio, sendo uma elétrica e a outra movida com motor à 
+explosão (não sujeita à automatização); ambas as bombas deverão possuir as mesmas 
+características de vazão e pressão. Outros arranjos de bombas de incêndio aceitáveis são duas 
+bombas elétricas principais alimentadas por um grupo motogerador automatizado com 
+autonomia mínima de 06 horas de funcionamento ou duas bombas de incêndio com motor a 
+explosão (podendo uma delas ter acionamento manual). 
+5.6.7.1 Será permitida a instalação de uma única bomba para locais que contenham tanques de 
+armazenamento com capacidade máxima de 120 m³, bem como para os recipientes de GLP 
+citados nos itens 5.12.1.1 e 5.12.2.2.
+
+--- PÁGINA 6 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+6/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.7 Hidrantes e canhões monitores 
+5.7.1 Em todos os locais onde haja risco de vazamento ou derrame de produto devem ser 
+previstos hidrantes. 
+5.7.2 Os hidrantes devem ser instalados em locais de fácil acesso, mesmo que haja necessidade 
+de estender uma derivação da rede principal. 
+5.7.3 A quantidade mínima de linhas de resfriamento e canhões monitores deve ser calculada 
+em função da demanda de água de combate a incêndio. No caso de utilização de anéis de 
+resfriamento nos tanques, esta demanda pode ser abatida da vazão total para dimensionamento 
+da quantidade de hidrantes. Deve ser previsto pelo menos uma linha ou canhão para cada 
+tanque vizinho e duas linhas ou canhões para o tanque em chamas, simultaneamente 
+considerando o cenário do cálculo hidráulico. 
+5.7.3.1 Após a definição do cenário de combate a incêndio pelo maior risco, os 
+dimensionamentos do sistema hidráulico deve levar em consideração o funcionamento 
+simultâneo de todas as linhas manuais e canhões monitores necessários para atender à 
+demanda de água para o sistema de resfriamento. O projetista deve levar em consideração 
+também o sistema de proteção por espuma, de acordo com a IT 20. 
+5.7.4 Em bacias com capacidade de armazenamento não superior a 35.000 m³, a distância 
+máxima entre hidrantes deve ser de 60 m e devem ser localizados de tal forma que o 
+comprimento de mangueira seja no máximo 60 m. 
+5.7.5 Em bacias com capacidade de armazenamento superior a 35.000 m³, a distância máxima 
+entre hidrantes deve ser de 100 m e devem ser localizados de tal forma que o comprimento de 
+mangueira seja no máximo 90 m. 
+5.7.6 Os hidrantes devem possuir no mínimo duas saídas com diâmetro nominal de 65 mm, 
+dotadas de válvulas e de conexões de engate rápido. A altura destas válvulas em relação ao 
+piso deve estar compreendida entre 1,0 m e 1,5 m. 
+5.7.7 Os canhões monitores podem ser fixos ou portáteis para água ou espuma, ou ainda para 
+ambos. 
+5.7.8 Os hidrantes e os canhões fixos, quando manualmente operados, devem ser localizados a 
+distância de 1,5 (uma vez e meia) a altura do tanque, a partir do seu costado, para aqueles com 
+diâmetro até 9,0 metros, e de 15 metros a 75 metros do costado para os tanques com diâmetros 
+superiores a 9,0 metros. 
+5.7.9 Atendendo-se às necessidades de vazão e pressão da rede de hidrantes, os canhões 
+monitores usados para resfriamento ou extinção de incêndio em tanques verticais ou horizontais 
+devem ser capazes de resfriar teto e o costado. 
+5.7.10 A vazão mínima de água para as linhas manuais de resfriamento deverá ser de 200 LPM, 
+com o emprego obrigatório de esguichos reguláveis. Para as áreas cobertas a pressão mínima 
+será de 343,2 KPa (35,00 mca) e para as áreas descobertas será de 441,3 Kpa (45,00 mca). 
+5.7.11 Cada ponto da área de risco ou dos tanques e cilindros a serem protegidos devem ser 
+atendidos pelo menos por uma linha manual de resfriamento. 
+5.7.12 Os canhões monitores devem ser especificados para permitir uma vazão mínima de 800 
+LPM na pressão de 549,25 kpa (56 mca), um giro horizontal de 360º e um curso vertical de 80º 
+para cima e de 15º para baixo da horizontal, admitindo-se o emprego de esguichos que
+
+--- PÁGINA 7 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+7/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+produzam somente jato sólido. Para efeito de projeto, deve ser considerado o alcance máximo 
+na horizontal de 45,0 m quando em jato. 
+5.8 Refinaria, destilaria ou unidade de processo de refinaria 
+5.8.1 Uma unidade de processo deve ser protegida por meio de hidrantes e canhões monitores 
+fixos. Em caso de vasos que armazenam gases inflamáveis liquefeitos sob pressão devem ser 
+usados aspersores fixos, conforme NFPA 15/96. 
+5.8.1.1 A vazão do sistema deve ser determinada em função da área definida pelo limite de 
+bateria da unidade de processo, multiplicada pela taxa de 3 LPM/m², devendo-se adotar como 
+vazão mínima 4.000 LPM e como vazão máxima 20.000 LPM. 
+5.8.2 Os canhões monitores podem ser substituídos por sistemas de aspersores fixos, 
+projetados conforme NFPA – 15/96. 
+5.9 Plataforma de carregamento, estação de carregamento e envasamento de cilindros de 
+gás liquefeito de petróleo 
+5.9.1 Nas instalações é indispensável à utilização de aspersores fixos projetados conforme a 
+NFPA – 15/96. 
+5.9.2 A área a ser considerada deve levar em conta o transbordamento decorrente das 
+operações de carga e descarga. O propósito que o dimensionamento deve considerar a proteção 
+das áreas da ilha de carregamento em torno do caminhão ou vagão tanque. Havendo canaleta 
+para captação de derrame de produto na área de carregamento e descarga, considerar a área 
+circunscrita ao canalete como referência para o direcionamento da proteção. 
+5.10 Parques de tanques ou tanques isolados 
+5.10.1 Os tanques de armazenamento de superfície ou aéreos com volume total e igual ou 
+inferior a 120 m³, contendo: 
+a) líquidos combustíveis classe IIIA, não necessitam de sistema de resfriamento, desde que 
+estejam isolados e em bacias de contenção individuais e observem os afastamentos previstos 
+nas normas técnicas oficiais; 
+b) líquidos classe IIIB, isenta-se do sistema de resfriamento, desde que o produto não seja pré-
+aquecido e os tanques estejam isolados e em bacias de contenção individuais e observem os 
+afastamentos previstos nas normas técnicas oficiais. 
+5.10.2 Para o resfriamento através de aspersores deverá haver uma superposição entre os jatos 
+dos aspersores, equivalente a 10% de dimensão linear coberta por cada aspersor. 
+5.10.2.1 Para tanques com altura acima de 10 m, será obrigatória a colocação de anéis de 
+aspersores a partir do topo do tanque, sendo o espaçamento entre os anéis dimensionados de 
+acordo com o desempenho do equipamento e especificação do fabricante, não havendo 
+necessidade de anéis na base do tanque. 
+5.10.2.2 Deverá ser previsto no mínimo um anel de resfriamento instalado a partir do topo do 
+tanque. 
+5.10.2.3 Quando a altura dos tanques for inferior a 10 metros, será aceito o resfriamento por 
+meio de linhas manuais, ou canhões monitores.
+
+--- PÁGINA 8 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+8/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.10.3 Para efeito de cálculo, são considerados vizinhos os tanques que atendam a um dos 
+seguintes requisitos: 
+a) quando o tanque considerado em chamas for vertical e a distância entre seu costado e o 
+costado (ou parede externa) do tanque vizinho for menor que 1,5 vez o diâmetro do tanque em 
+chamas ou 15 m, o que for menor; 
+b) quando o tanque considerado em chamas for horizontal e a distância entre o costado (ou 
+parede externa) do tanque vizinho e a base do dique do tanque considerado em chamas for 
+menor que 7,5 m. 
+5.10.4 Quando forem utilizados aspersores nos tanques verticais, estes devem ser distribuídos 
+de forma a possibilitar uma lâmina de água continua sobre a superfície a ser resfriada, sendo 
+permitido apenas sua instalação no costado, nos casos de tanques com solda de baixa 
+resistência entre costado e teto (conforme API 650). 
+5.10.4.1 Não é considerada proteção por aspersores a utilização de apenas um bico no centro 
+do teto do tanque. 
+5.10.4.2 Para cálculo da vazão necessária ao resfriamento dos tanques verticais atmosféricos 
+devem ser adotados os seguintes critérios: 
+a) tanque em chamas: 2 LPM/m² da área do costado; 
+b) tanques vizinhos: 
+b.1) utilizando aspersores 2 LPM/m² da área determinada na tabela 1; ou 
+b.2) utilizando canhões monitores ou linhas manuais: conforme a tabela 2. 
+Tabela 1 – Aspersores 
+(N(1)) 
+Área a ser resfriada 
+1 
+área do costado 
+>1 
+Soma das áreas dos costados 
+1) N = número de tanques verticais  vizinhos. 
+Tabela 2 – Canhões monitores ou linhas manuais 
+(N(1)) 
+Distância entre costados (m) 
+Taxa(2) 
+≤  2 
+≤ 8 
+8 
+> 8  e ≤  12 
+5 
+> 12 
+3 
+(N(1)) 
+Distância entre costados (m) 
+Taxa(3) 
+> 2 
+≤  8 
+8 
+> 8  e ≤  12 
+5 
+> 12 
+3 
+(1) N = número de tanques verticais vizinhos. 
+(2) L/min. por m² de 1/2 da soma das áreas do teto e costado do tanque vizinho. Para tanque de 
+teto flutuante não deverá ser considerada a área do teto. 
+(3) L/min. por m² de 1/3 da soma das áreas do teto e costado do tanque vizinho. Para tanque de 
+teto flutuante não deverá ser considerada a área do teto.
+
+--- PÁGINA 9 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+9/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+ 
+5.10.5 A vazão mínima necessária ao resfriamento dos tanques horizontais deve ser de 2 
+LPM/m² da área da sua projeção horizontal. 
+5.10.5.1 Para efeito de cálculo, somente são resfriados tanques horizontais vizinhos quando: 
+a) o tanque em chamas for vertical; 
+b) não estiverem no interior da mesma bacia de contenção do tanque em chamas. 
+5.10.5.2 Neste caso, não deve ser considerada a aplicação de água na bacia do tanque em 
+chamas, devido ao fato de que em um incêndio em tanque horizontal pode ocorrer vazamento 
+para a bacia de contenção. 
+5.10.6 Caso o tanque vizinho seja do tipo teto flutuante, para o resfriamento só deve ser 
+considerada a metade da área do costado. 
+5.10.7 Nos tanques para armazenamento refrigerado, deve ser prevista a aspersão de água com 
+baixa velocidade e distribuição uniforme sobre o teto e costado, calculada à base de 3 LPM/m2 
+de área a ser protegida. 
+5.10.7.1 Para o cálculo da vazão total, devem ser considerados os tanques situados a distância 
+inferior a 1,5 (uma vez e meia) o diâmetro do tanque em chamas, sendo válido dividir-se o 
+sistema de aspersão em setores, para melhor aproveitamento da quantidade de água disponível. 
+5.10.7.2 O teto deve ser totalmente resfriado e a superfície lateral mínima a ser molhada não 
+deve ser inferior a um terço (1/3) da superfície lateral total do tanque. 
+5.11 Armazém e áreas destinadas a líquidos combustíveis e inflamáveis acondicionados 
+em recipientes transportáveis 
+5.11.1 As áreas com capacidade acima de 20 m³ de líquidos inflamáveis ou combustíveis, 
+devem prever o sistema de resfriamento por meio de linhas manuais com esguichos reguláveis. 
+5.11.2 A altura e largura da pilhas de recipientes devem atender ao estabelecido nas Normas  
+Técnicas  Oficiais  (ex: NB 98 e NBR 7505). 
+5.11.3 Cada ponto da área de risco a ser protegido deve ser atendido, simultaneamente, por no 
+mínimo uma linha de resfriamento. 
+5.11.3.1 As tomadas de água para abastecimento das linhas de resfriamento (hidrantes) devem 
+atender aos parâmetros da IT 17 (Sistema de Hidrantes e de Mangotinhos para Combate a 
+Incêndio). 
+5.12 Resfriamento de vasos de pressão que armazenem Gases Liquefeitos de Petróleo 
+5.12.1 Recipientes transportáveis 
+5.12.1.1 Quando o volume armazenado for superior a 6.240 Kg e inferior a 49.920 kg será 
+exigida a proteção por linhas manuais de resfriamento, calculadas conforme os itens 5.7.10 e 
+5.7.11 com autonomia mínima de 30 (trinta) minutos para o reservatório de incêndio. 
+5.12.1.2 Quando o volume armazenado for superior a 49.920 e inferior a 99.840 kg de GLP será 
+exigida a proteção suplementar por canhões monitores com o funcionamento simultâneo das
+
+--- PÁGINA 10 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+10/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+linhas manuais, devendo ser atendidos os itens 5.7.10, 5.7.11 e 5.7.12, e autonomia mínima de 
+60 (sessenta) minutos do reservatório de incêndio, devendo ser considerado no mínimo 2 linhas 
+manuais e um canhão monitor em funcionamento simultâneo. 
+5.12.1.3 Quando o volume armazenado for superior a 99.840 kg de GLP o sistema de 
+resfriamento deverá ser avaliado pelo Corpo Técnico, ou poderá ser adotada Norma Técnica 
+estrangeira reconhecida internacionalmente. 
+5.12.2 Recipientes estacionários verticais e horizontais 
+5.12.2.1 Quando a bateria de cilindros de GLP possuir uma capacidade superior a 8.000 kg, 
+aplicam-se as exigências dos itens 5.12.2.2 a 5.12.2.5. 
+5.12.2.2 Quando a capacidade de armazenamento individual do tanque for inferior a 8.000 kg, 
+prever proteção por linhas manuais de resfriamento, calculado conforme os itens 5.7.10 e 5.7.11 
+com autonomia mínima de 30 minutos para o reservatório de incêndio. 
+5.12.2.3 Quando a capacidade de armazenamento individual do tanque for superior a 8.000 kg e 
+menor ou igual a 24.000 kg, além das linhas manuais de resfriamento, prever proteção 
+suplementar com o uso de canhões monitores com o funcionamento simultâneo das linhas 
+manuais, devendo ser atendidos os itens 5.7.10, 5.7.11 e 5.7.12, e autonomia mínima de 60 
+minutos do reservatório de incêndio. 
+5.12.2.4 Quando a capacidade de armazenamento individual do tanque for superior a 24.000 kg 
+e menor ou igual a 60.000 kg prever proteção por aspersores instalados de forma a proteger 
+toda a superfície exposta, inclusive os suportes (pés). A água deverá ser aplicada por meio de 
+aspersores fixos instalados em anéis fechados de tubulação com uma autonomia mínima de 120 
+minutos do reservatório de incêndio. 
+5.12.2.4.1 Os aspersores, instalados acima da linha do equador, dos tanques horizontais, 
+verticais e esferas de gás, não serão considerados para proteção da superfície situada abaixo 
+daquela, sendo necessária à instalação de um outro anel de aspersores abaixo da linha do 
+Equador. 
+5.12.2.4.2 Toda a superfície exposta do(s) tanque(s) deverá estar protegida com os jatos dos 
+aspersores da seguinte forma: os aspersores deverão ser distribuídos de forma que exista uma 
+superposição entre os jatos, equivalente a 10% de dimensão linear coberta por cada aspersor. 
+5.12.2.5 Quando a capacidade de armazenamento individual for superior a 60.000 kg prever 
+proteção por aspersores instalados de forma a proteger toda a superfície exposta, inclusive os 
+suportes (pés). A água deverá ser aplicada por meio de aspersores fixos instalados em anéis 
+fechados de tubulação com uma autonomia mínima de 180 minutos do reservatório de incêndio. 
+Atender inclusive os itens 5.12.2.4.1 e 5.12.2.4.2. 
+5.12.2.6 O emprego de aspersores não dispensa os hidrantes (linhas manuais) devendo 
+inclusive ser previsto pelo menos um canhão monitor portátil que poderão ser empregados no 
+caso de falha do sistema de aspersores. No entanto para o dimensionamento do sistema 
+hidráulico não haverá a necessidade de serem somadas as vazões necessárias para as linhas 
+manuais, canhão monitor e aspersores, sendo suficiente o dimensionamento da demanda de 
+água para os aspersores. 
+5.12.2.7 Os afastamentos requeridos para os recipientes de GLP tanto estacionários quanto 
+transportáveis devem atender as Normas Técnicas Oficiais e a IT 23.
+
+--- PÁGINA 11 ---
+CBMMG IT 19 – Sistema de Resfriamento para Líquidos e Gases Inflamáveis e Combustíveis  
+1ª edição  
+11/11 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.12.3 Esferas 
+5.12.3.1 A vazão de água destinada a cada esfera, por meios fixos, deve ser a soma dos valores 
+correspondentes a: 
+a) resfriamento de toda a superfície, calculada multiplicando-se a taxa de 5 LPM/m² pela 
+superfície total; 
+b) complementação do resfriamento definido no item anterior, com a colocação de um aspersor 
+para a região de junção do costado com coluna de suporte, a vazão de cada aspersor 
+corresponde a 10% do valor determinado na alínea a, dividido pelo número de colunas; 
+c) curva e válvula de retenção da linha de enchimento, quando esta penetra no cilindro pelo topo 
+(conforme  norma Petrobrás N – 1645 – D/99), o número de aspersores e a respectiva vazão 
+devem ser calculados para que o conjunto receba, pelo menos, 5 LPM/m², mas o total não deve 
+ser inferior a 100 LPM; 
+d) prever uma autonomia mínima de 180 minutos para o reservatório de incêndio. 
+5.12.4 A vazão destinada a cada cilindro horizontal ou vertical, por meios fixos (aspersores), 
+deve ser a soma dos valores determinados conforme os critérios abaixo: 
+a) lançamento de água segundo a taxa mínima de 5 LPM/m², uniformemente distribuídos por 
+aspersores sobre toda a superfície; 
+b) proteção, por aspersores, da válvula de bloqueio, curva e válvula de retenção da linha de 
+enchimento, quando esta penetra no cilindro pelo topo (conforme norma Petrobrás N – 1645 – 
+D/99), o número de aspersores e a respectiva  vazão devem ser calculados para que o conjunto 
+receba, pelo menos, 5 LPM/m² mas o total não deve ser inferior a 100 LPM. 
+5.12.5 Deve ser previsto resfriamento para a esfera submetida a fogo, bem como para as 
+esferas e baterias de cilindros cuja distância, costado a costado em chamas, seja inferior a 30 m. 
+5.12.6 Um ou mais cilindros de volume individual igual superior a 200 m³ devem ser 
+considerados equivalentes a uma esfera, para efeito do item 5.12.5. 
+5.12.7 Nos demais casos de cilindros, devem ser resfriadas esferas e baterias de cilindros cuja 
+distância, costado a costado, seja inferior a 7,5 m. 
+5.12.7.1 Caso as baterias de cilindros de GLP com capacidade individual de no máximo 60.000 
+kg estiverem afastados de 7,5 m entre si, podem ser considerados. 
+5.12.8 Quando o suprimento de água sair da rede de água de incêndio deve-se somar a maior 
+vazão estabelecida, segundo os critérios expressos em 5.12.5, 5.12.6 e 5.12.7, ao valor 
+correspondente ao uso de dois canhões monitores fixos, cada qual com 1.200 LPM, lançando 
+água sobre o bocal de saída do vaso em chamas, mais a vazão correspondente à injeção de 
+água prevista na norma Petrobras N – 1645 – D/99. 
+5.12.9 A localização dos cilindros e esferas de GLP devem atender às Normas Técnicas Oficiais.

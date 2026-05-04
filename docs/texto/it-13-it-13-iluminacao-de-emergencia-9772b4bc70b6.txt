@@ -1,0 +1,85 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 13 
+1ª edição 
+ILUMINAÇÃO DE EMERGÊNCIA 
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências normativas e 
+bibliográficas 
+4 – Definições  
+5 – Procedimentos
+
+--- PÁGINA 2 ---
+CBMMG IT 13 – Iluminação de Emergência 
+1ª edição 
+ 
+2/3 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+1 OBJETIVO  
+Esta Instrução Técnica fixa as condições necessárias para o projeto e instalação do sistema de 
+iluminação de emergência em edificações e áreas de risco, atendendo ao previsto no Regulamento 
+de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais.  
+2 APLICAÇÃO  
+2.1 Esta Instrução Técnica se aplica às edificações e áreas de risco onde é exigido o sistema de 
+iluminação de emergência.  
+2.2 Adota-se a NBR 10898 – Sistema de iluminação de emergência, naquilo que não contrariar o 
+disposto nesta Instrução Técnica.  
+3 REFERÊNCIAS NORMATIVAS E BIBLIOGRÁFICAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+NBR 6150 – Eletroduto de PVC rígido – Especificação.  
+NBR 10898 – Sistema de iluminação de emergência  
+IT 08 – Saída de Emergência em Edificações.  
+NBR 5410 – Instalações elétricas de baixa tensão  
+4 DEFINIÇÕES  
+4.1 Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção contra incêndio e Pânico) 
+5 PROCEDIMENTOS  
+5.1 Grupo Motogerador (GMG)  
+5.1.1 Deve-se garantir acesso controlado e desobstruído desde a área externa da edificação até 
+o grupo motogerador.  
+5.1.2 No caso de grupo motogerador instalado em local confinado, para o seu perfeito 
+funcionamento, deverá ser garantido que a tomada de ar frio seja realizada sem o risco de se 
+captar a fumaça oriunda de um incêndio.  
+5.1.3 Na condição acima descrita, o GMG deve ser instalado em compartimento resistente ao fogo 
+por 2 (duas) horas, com acesso protegido por PCF (P90).  
+5.1.4 Quando a tomada de ar externa for realizada por meio de duto, este deve ser construído ou 
+protegido por material resistente ao fogo por 2 (duas) horas.
+
+--- PÁGINA 3 ---
+CBMMG IT 13 – Iluminação de Emergência 
+1ª edição 
+ 
+3/3 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.2 Os componentes da fonte de energia centralizada de alimentação de iluminação de 
+emergência, bem como seus comandos, devem ser instalados em local não acessível ao público, 
+sem risco de incêndio, ventilado e que não ofereça risco de acidentes aos usuários.  
+5.3 No caso de instalação aparente, a tubulação e as caixas de passagem devem ser metálicas 
+ou em PVC rígido antichama, conforme NBR 6150.  
+5.4 A distância máxima entre dois pontos de iluminação de aclaramento deve ser de 15 m ponto 
+a ponto, levando-se em consideração o disposto na NBR 10898/1999.  
+5.4.1 Outro distanciamento entre pontos poderá ser aceito desde que atenda a NBR 10898.  
+5.5 As luminárias de aclaramento (ou de ambiente), quando instaladas a menos de 2,5 m de altura 
+e as luminárias de balizamento (ou de sinalização), devem ter tensão máxima de alimentação de 
+30 (trinta) volts.  
+5.5.1 Na impossibilidade de reduzir a tensão de alimentação das luminárias, pode ser utilizado um 
+interruptor diferencial de 30 (trinta) mA com disjuntor termomagnético de 10 (dez) A.  
+5.6 O CBMMG, na vistoria, poderá exigir que os equipamentos utilizados no sistema de iluminação 
+de emergência sejam devidamente certificados por órgão competente.

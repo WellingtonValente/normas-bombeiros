@@ -1,0 +1,257 @@
+--- PÁGINA 1 ---
+17/06/2021
+SEI/GOVMG - 29856229 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=34693892&infra_sist…
+1/4
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 24 de maio de 2021.
+  
+EMENDA CBMMG/DAT Nº. 2/2021
+Esta Emenda tem por objetivo promover a  seguinte  alteração na Instrução Técnica 03 - 2ª Edição (Composição do Processo de
+Segurança contra Incêndio e Pânico - PSCIP): 
+ 
+ 
+1. ALTERAR a alínea 'c' do item 5.2.1, que passa a vigorar com a seguinte redação:
+5.2.1 (...)
+c) A escala a ser utilizada nas plantas deve ser:
+c.1) planta baixa, cortes e fachadas de 1/1 ou 1/100;
+c.2) planta de localização de 1/1, 1/100, 1/200 ou 1/500;
+c.3) planta de situação de 1/1000 ou 1/2000, se necessário.
+Nota: É vedado o uso de escalas intermediárias como 1/50, 1/75, 1/125, 1/250, 1/750, etc.
+ 
+2. ALTERAR o item C.1, que passa a vigorar com a seguinte redação:
+C.1 Anotação de Responsabilidade Técnica (ART) ou Registro de Responsabilidade Técnica (RRT)
+C.1.1 Deverá ser apresentado(a) pelo Responsável Técnico que elaborou/executou o PSCIP, habilitado para o exercício da atividade
+conforme Conselho competente.
+C.1.1.1 Quando houver mais de um responsável técnico pelas medidas de segurança contra incêndio e pânico projetadas e/ou
+instaladas, podem ser emitidos vários documentos de responsabilidade técnica desmembrados, com as respectivas responsabilidades
+devidamente identificadas.
+C.1.2 Deverá ser apresentada a digitalização do documento original emitido pelo Conselho competente.
+C.1.3 Para preenchimento da ART/RRT, deverão ser observadas as seguintes orientações:
+a) Para a ART:
+a.1) Referente à elaboração de projeto do PSCIP:
+a.1.1) No campo “Nível atividade”, anotar "2014-ELABORAÇÃO";
+a.1.2) No campo “Atividade profissional”, anotar "80-PROJETO" ou “82-PROJETO DE INSTALAÇÕES”;
+a.1.3) No Campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE PREVENÇÃO E COMBATE A INCÊNDIO >
+1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO E PÂNICO;”
+a.1.4) No campo “Observações”, poderão ser inseridas informações complementares para detalhar as atividades descritas no campo
+“Atividade técnica”;
+a.1.5) Os demais campos serão utilizados pelo Responsável Técnico para relacionar o documento ao respectivo PSCIP.
+a.2) Referente à execução de medidas de segurança do PSCIP:
+a.2.1) No campo “Nível atividade”, anotar "2016-EXECUÇÃO";
+a.2.2) No campo “Atividade profissional”:
+a.2.2.1) Se Engenheiro Civil, anotar "80-PROJETO" ou “82-PROJETO DE INSTALAÇÕES”;
+a.2.2.2) Se Engenheiro Mecânico ou Engenheiro de Segurança do trabalho, anotar "80- PROJETO" ou “82-PROJETO DE INSTALAÇÕES”
+ou “55-EXECUÇÃO DE SERVIÇO TÉCNICO”.
+a.2.3) No campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE PREVENÇÃO E COMBATE A INCÊNDIO >
+1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO E PÂNICO” e demais itens que julgar necessários para complementar a(s) atividade(s)
+técnica(s) a ser(em) executada(s);
+
+--- PÁGINA 2 ---
+17/06/2021
+SEI/GOVMG - 29856229 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=34693892&infra_sist…
+2/4
+a.2.4) No campo “Observações”, poderão ser inseridas informações complementares para detalhar as atividades descritas no campo
+“Atividade técnica”;
+a.2.5) Os demais campos serão utilizados pelo Responsável Técnico para relacionar o documento ao respectivo PSCIP.
+a.3) Referente à confecção de Laudos de interesse do PSCIP (renovação de AVCB, teste de estanqueidade, impossibilidade técnica,
+etc.), deverá ser anotada, além da atividade referente à elaboração do laudo, a atividade relativa à vistoria da
+edificação/instalação/sistema preventivo objeto do laudo, conforme se segue:
+a.3.1) No campo “Nível atividade”, anotar "2016-EXECUÇÃO";
+a.3.2) No campo “Atividade profissional”, anotar "85-VISTORIA";
+a.3.3) No campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE PREVENÇÃO E COMBATE A INCÊNDIO >
+1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO E PÂNICO”, exceto quando o Laudo for referente a especialidade diversa;
+a.3.4) O RT, então, deverá inserir nova atividade e, no campo “Nível atividade”, anotar "2014-ELABORAÇÃO";
+a.3.5) No campo “Atividade profissional”, anotar "66- LAUDO";
+a.3.6) No campo “Atividade técnica”, anotar “1 - CONSTRUÇÃO CIVIL > 1.6 - INSTALAÇÕES DE PREVENÇÃO E COMBATE A INCÊNDIO >
+1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO E PÂNICO”, exceto quando o Laudo for referente a especialidade diversa;
+a.3.7) No campo “Observações”, poderão ser inseridas informações complementares para detalhar as atividades descritas no campo
+“Atividade técnica”;
+a.3.8) Os demais campos serão utilizados pelo Responsável Técnico para relacionar o documento ao respectivo PSCIP.
+a.4) Referente a outros serviços específicos no âmbito do PSCIP:
+a.4.1) Poderá, ainda, ser apresentada ART distinta das supracitadas, quando o serviço se referir a uma atividade específica no âmbito
+do PSCIP, a exemplo de laudos referentes a especialidades diversas, projeto elétrico, execução de sistema elétrico, dentre outras
+atividades afetas ao PSCIP;
+a.4.1.1) Neste caso, o campo “Observações” deverá ser utilizado para especificar e relacionar o serviço realizado ao PSCIP.
+a.5) Leitura da ART:
+a.5.1 Para fins de leitura e avaliação da conformidade da ART em relação ao serviço pretendido, todas as informações anotadas pelo
+RT nos campos ‘Nível atividade’, ‘Atividade profissional’ e ‘Atividade técnica’, bem como aquelas relativas à quantidade e unidade,
+estarão dispostas no campo “Atividade Técnica” (campo 4) do documento apresentado pelo profissional habilitado para composição
+do PSCIP.
+b) Para o RRT:
+b.1) No campo “Dados da Atividades técnicas” (campo 3.1.4), anotar as seguintes atividades, conforme o caso:
+b.1.1) Projeto de instalações prediais de prevenção e combate a incêndio;
+b.1.2) Projeto de sistemas prediais de proteção contra incêndios e catástrofes;
+b.1.3) Execução de instalações prediais de prevenção e combate a incêndio;
+b.1.4) Execução de sistemas prediais de proteção contra incêndios e catástrofes;
+b.1.5) Laudo Técnico;
+b.2) No campo "Descrição da Obra/Serviço Técnico" (campo 3.1.2), poderão ser inseridas informações complementares para detalhar
+a atividade descrita no campo “Dados da Atividades técnicas” (campo 3.1.4).
+C.1.3.1 Deverão ser, ainda, respeitadas as seguintes prescrições:
+a) O endereço da obra/serviço deverá corresponder ao endereço da edificação ou espaço destinado ao uso coletivo informado no
+Infoscip;
+b) A quantidade indicada no documento deverá refletir a área total do PSCIP, a parcela da área sob responsabilidade do profissional ou
+o serviço submetido ao CBMMG;
+b.1) Quando a área indicada em campo próprio da ART/RRT divergir da área total informada no Infoscip ou quando for utilizada outra
+unidade de medida para definir a quantidade, a área total do PSCIP ou a área sob responsabilidade do profissional deverá ser
+especificada e expressamente indicada, em metros quadrados, no campo "Observações"  da ART ou no campo "Descrição da
+Obra/Serviço Técnico" (campo 3.1.2) do RRT;
+b.1.1) Quando o serviço sob responsabilidade do profissional se referir a laudo, em que não seja possível especificar a área, a
+quantidade indicada no campo "Observações" (ART) ou no campo "Descrição da Obra/Serviço Técnico" (RRT) poderá ser em
+"unidades" ou outra medida autorizada pelo respectivo Conselho Profissional;
+c) Os documentos deverão estar datados e assinados pelo contratante e pelo RT no caso da ART e apenas pelo RT, no caso do RRT;
+
+--- PÁGINA 3 ---
+17/06/2021
+SEI/GOVMG - 29856229 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=34693892&infra_sist…
+3/4
+c.1) Será admitida a assinatura eletrônica, caso a funcionalidade encontre-se disponível e passível de validação por meio de endereço
+eletrônico;
+d) A ART/RRT poderá se referir a mais de um serviço, devendo o preenchimento do documento contemplar todos os serviços
+prestados.
+ 
+3. ALTERAR o ANEXO E.5.4, que passa a vigorar com a seguinte redação:
+ 
+E.5.4 LAUDO TÉCNICO PARA RENOVAÇÃO DE AVCB
+LAUDO TÉCNICO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA RENOVAÇÃO DE AUTO DE VISTORIA
+DO CORPO DE BOMBEIROS (AVCB)
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO E/OU ESPAÇO DESTINADO AO USO COLETIVO
+Razão Social:
+CNPJ:
+Logradouro (Rua, Av.):
+Nº:
+Compl.:
+Bairro:
+Cidade:
+CEP:
+Proprietário:
+CPF/CNPJ:
+FONE:
+Responsável pelo Uso:
+CPF/CNPJ:
+FONE:
+Nº PSCIP:
+Decreto Adotado:
+N.º AVCB:
+Ocupação e Divisão:
+Área existente:
+N.º Pavtos.:
+Altura:
+Carga Incêndio:
+ 
+Alta
+ 
+Média
+ 
+Baixa
+Valor:
+2. IDENTIFICAÇÃO DO RESPONSÁVEL PELO LAUDO TÉCNICO
+Nome:
+CREA/CAU:
+Endereço (Rua, Av.):
+Nº:
+Compl.:
+Bairro:
+Cidade:
+CEP:
+E-mail:
+FAX:
+Fone(s):
+3. VISTORIA DE VERIFICAÇÃO DAS MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO
+Obs: Assinalar as medidas de segurança que estejam em pleno funcionamento e conforme PSCIP aprovado/liberado.
+ 
+Controle de materiais de acabamento e de
+revestimento
+ 
+Alarme de incêndio
+ 
+Separação entre edificações
+ 
+Sinalização de emergência
+ 
+Segurança estrutural contra incêndio
+ 
+Extintores
+ 
+Compartimentação horizontal
+ 
+Hidrantes e/ou mangotinhos
+ 
+Compartimentação vertical
+ 
+Chuveiros automáticos
+ 
+Saídas de emergência
+ 
+Sistema de resfriamento
+ 
+Elevador de emergência
+ 
+Sistema de proteção por espuma
+
+--- PÁGINA 4 ---
+17/06/2021
+SEI/GOVMG - 29856229 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=34693892&infra_sist…
+4/4
+ 
+Detecção de incêndio
+ 
+Escada pressurizada
+ 
+Brigada de incêndio
+ 
+Sistema fixo de gases 
+ 
+Iluminação de emergência
+ 
+Controle de fumaça
+ 
+Outros(especificar)
+ 
+ 
+4. ATUALIZAÇÃO DE MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO
+Obs: Assinalar as medidas que foram executadas/atualizadas conforme IT específica vigente (art. 6º, § 4º do Decreto Estadual nº
+47.998/2020).
+ 
+Iluminação de emergência
+ 
+Sinalização de emergência
+ 
+Brigada de incêndio
+ 
+Extintores
+5. TIPO DE LAUDO (itens B.2.4 e B.2.4.3 da IT 01)
+ 
+ Manutenção
+ 
+ Inspeção
+6 OUTRAS INFORMAÇÕES
+- Acompanha(m) este Laudo o(s) seguinte(s) documento(s) (ver item B.2.4.2 da IT 01): a)_________, b)________, c)__________, etc.
+- Outras informações necessárias à verificação do cumprimento da legislação de segurança contra incêndio e pânico.
+7. DECLARAÇÃO
+Eu,                                      , portador da cédula de RG nº                    , CPF                    , estado civil                  , residente e domiciliado(a) na  
+                                                                                                                                                               Engenheiro(a)/Arquiteto(a) devidamente
+habilitado(a)  e  registrado(a)  no  CREA/CAU sob o nº                      , e ART/RRT nº                , comprovados através de cópia dos
+documentos em anexo, na qualidade de Responsável Técnico, DECLARO, sob pena de falsidade ideológica,  prevista  no  artigo  299 do
+Código   Penal,   que   vistoriei o     imóvel     identificado no campo 1 deste   laudo, em ___ /                                                   
+/                                                                 , atestando que as medidas de segurança contra incêndio e pânico encontram-se em plenas
+condições de uso e conforme PSCIP aprovado/liberado ou, quando aplicável, conforme Instrução Técnica específica em vigor, e que as
+informações técnicas deste Laudo Técnico de Segurança Contra Incêndio e Pânico, por mim prestadas, são verídicas.
+ 
+                                                                     ,               de                                 de ___.
+Assinatura do Responsável pelo laudo
+Assinatura do proprietário ou responsável pelo uso
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 14/06/2021, às 13:09, conforme horário oficial
+de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 29856229 e o código CRC 6B2D1374.
+Referência: Processo nº 1400.01.0026082/2021-90
+SEI nº 29856229

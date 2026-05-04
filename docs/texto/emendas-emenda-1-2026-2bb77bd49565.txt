@@ -1,0 +1,188 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 16 de janeiro de 2026.
+  
+EMENDA CBMMG/DAT Nº. 1/2026
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 01 - 10ª Edição
+(Procedimentos Administrativos):
+ 
+1. ALTERAR o item 6.1.5.1, que passa a vigorar com a seguinte redação:
+6.1.5.1 Nos casos em que houver necessidade de substituição de responsável técnico, deverá ser juntado ao
+processo termo/declaração constando os dados do profissional substituído e do profissional substituto.
+ 
+2. ALTERAR o item 6.1.5.1.3, que passa a vigorar com a seguinte redação:
+6.1.5.1.3 No ato de modificação de PSCIP, somente a documentação que necessitar ser substituída no
+PSCIP deverá estar no nome do novo RT. Caso algum documento permaneça sob a elaboração do RT
+anterior, o arquivo deverá ser reapresentado.
+ 
+3. ALTERAR a alínea “c” do item 6.3.5.2, que passa a vigorar com a seguinte redação:
+c) no ato da vistoria, haverá primeiramente a decisão quanto à emissão do AVCB (notificação ou
+liberação) e, em ato contínuo, a critério do Chefe do SSCIP local, a área já liberada pelo CBMMG poderá
+ser fiscalizada.
+ 
+4. REVOGAR a alínea “d” do item 6.3.5.2.
+ 
+5. ALTERAR o item 6.3.8, que passa a vigorar com a seguinte redação:
+6.3.8 Constatado em vistoria que as medidas de segurança não atendem à legislação, será emitido o
+relatório de notificações no Infoscip com as irregularidades verificadas. Neste caso, não será emitido o
+AVCB até a correção dos itens que se encontravam irregulares.
+ 
+6. ALTERAR o item 6.3.8.1, que passa a vigorar com a seguinte redação:
+6.3.8.1 O relatório de notificações poderá ser visualizado por meio de acesso ao Infoscip pelo Responsável
+Técnico do processo ou pelo proprietário cadastrado, conforme estabelecido pelo item 6.1.1 desta IT.
+ 
+7. ALTERAR o item 6.3.8.2, que passa a vigorar com a seguinte redação:
+6.3.8.2 O vistoriador deverá especificar a área notificada no relatório de notificações.
+ 
+8. ALTERAR a alínea “c” do item 6.4.2.2, que passa a vigorar com a seguinte redação:
+c) substituição de Gás Liquefeito de Petróleo por Gás Natural, nos casos em que seja utilizada a mesma
+infraestrutura interna à edificação e desde que não haja necessidade de intervenções para adequação da
+CBMMG - Emenda 1 (131331832)         SEI 1400.01.0003498/2026-04 / pg. 1
+
+--- PÁGINA 2 ---
+ventilação;
+9. ALTERAR a alínea “d” do item 6.5.2, que passa a vigorar com a seguinte redação:
+d) a forma de adaptação prevista na alínea “c” também se aplicará aos casos de PT, quando se tratar de
+edificações construídas ou existentes que atendam a todas as seguintes características:
+ 
+10. ALTERAR o item 6.5.4.1, que passa a vigorar com a seguinte redação:
+6.5.4.1 A avaliação dos casos por CT (impossibilidade técnica, ausência de normas, omissão de regras
+gerais e específicas ou casos especiais) ocorrerá mediante apresentação de laudo técnico de profissional
+habilitado, conforme modelo da IT 03, acompanhado do respectivo documento de responsabilidade
+técnica.
+ 
+11. ALTERAR o item 6.5.4.1.1, que passa a vigorar com a seguinte redação:
+6.5.4.1.1 A impossibilidade técnica será caracterizada quando o atendimento aos parâmetros normativos
+exigir a demolição, modificação ou sobrecarga de elementos estruturais (vigas, lajes, pilares ou outros
+elementos portantes), que comprometa a integridade estrutural da edificação ou, ainda, quando as
+alterações necessárias inviabilizarem o aproveitamento funcional do edifício.
+ 
+12. ALTERAR o item 6.5.4.2, que passa a vigorar com a seguinte redação:
+6.5.4.2 Quando a avaliação for relativa à impossibilidade técnica, o laudo deverá:
+a) apresentar o histórico do imóvel com datas de aprovação de projetos em outros órgãos públicos e/ou no
+CBMMG (se houver), bem como especificar a data/período de conclusão dos elementos estruturais;
+b) descrever as medidas de segurança contra incêndio exigíveis para o imóvel, sinalizando explicitamente
+quais não são atendidas em todo ou em parte (preferencialmente com relatório fotográfico);
+c) descrever e comprovar a limitação de execução da medida, indicando expressamente os itens
+normativos não atendidos e fundamentando a impossibilidade técnica existente na edificação;
+d) identificar e descrever detalhadamente os impactos à segurança contra incêndio acarretados pela
+deficiência das medidas de segurança exigíveis;
+e) apresentar propostas de medidas substitutas às que não atendem ao padrão normativo, relacionadas a
+cada um dos impactos mencionados no item anterior, descrevendo de modo pormenorizado de que forma
+tais medidas garantirão as condições de sobrevivência (tenability), tempo de escape proporcional ao
+exigível, não conflagração e possibilidade de combate ao incêndio, dentre outros impactos avaliados.
+ 
+13. ACRESCENTAR o item 6.5.4.2.1:
+6.5.4.2.1 O profissional habilitado deverá atestar a eficácia das medidas mitigadoras propostas e, para isso,
+poderá valer-se de método baseado em desempenho, simulação computacional, ensaios, estudos,
+simulação real ou outros métodos a seu critério.
+ 
+14. ALTERAR o item 6.5.4.3, que passa a vigorar com a seguinte redação:
+6.5.4.3 A elaboração de laudos genéricos e superficiais, sem a observância dos critérios mínimos
+estabelecidos por esta IT, poderá ensejar o cancelamento da solicitação de avaliação de corpo técnico ou
+indeferimento do pleito.
+ 
+15. ALTERAR o item 6.5.4.4, que passa a vigorar com a seguinte redação:
+6.5.4.4 É de competência do profissional habilitado a avaliação das características da edificação e/ou
+espaço destinado ao uso coletivo e a propositura de medidas mitigadoras, nos termos do Decreto Estadual
+CBMMG - Emenda 1 (131331832)         SEI 1400.01.0003498/2026-04 / pg. 2
+
+--- PÁGINA 3 ---
+vigente, cabendo ao CBMMG a verificação da compatibilidade dos resultados obtidos com os critérios de
+segurança previstos nas normas técnicas.
+ 
+16. ACRESCENTAR nova alínea "d" ao item 8.1, passando a antiga alínea "d" a ser alínea "e":
+d) retirada do PSCIP impresso para consulta;
+e) outras situações, a critério do CBMMG.
+ 
+17. ACRESCENTAR o item 8.1.5:
+8.1.5 A retirada do processo impresso ocorrerá mediante solicitação do proprietário, responsável pelo uso,
+responsável técnico pelo PSCIP ou por terceiro provido de procuração, mediante apresentação de FAT,
+devidamente preenchido pelo interessado, acompanhado de:
+a ) documento que comprove o vínculo do interessado com a edificação (Ex: IPTU, contrato social,
+contrato de locação, registro de imóvel, etc.);
+b) documento de identificação do interessado.
+ 
+18. ACRESCENTAR o item 9.4.2:
+9.4.2 O prazo contado em dias úteis terá como base o calendário estadual de feriados e pontos facultativos,
+publicado anualmente pelo Poder Executivo Estadual.
+ 
+19. SUPRIMIR a nota 4 na Tabela 3 – Grupo C – Comercial, que estava em duplicata à nota 3;
+RENUMERAR as notas subsequentes e as respectivas referências indicadas por “x” na Tabela 3 –
+Grupo C – Comercial, que passa a vigorar com a seguinte redação:
+ 
+CBMMG - Emenda 1 (131331832)         SEI 1400.01.0003498/2026-04 / pg. 3
+
+--- PÁGINA 4 ---
+20. ALTERAR o item B.2.3, que passa a vigorar com a seguinte redação:
+B.2.3 A renovação do AVCB/CLCB para edificação ou espaço destinado ao uso coletivo permanente é um
+ato declaratório realizado por meio de autosserviço e deve ser solicitada, preferencialmente, antes do final
+do respectivo prazo de validade.
+ 
+21. ALTERAR o item B.2.4.2, que passa a vigorar com a seguinte redação:
+B.2.4.2 Deverão ser anexados, quando necessários, os seguintes documentos:
+a) documento de responsabilidade técnica do laudo constando a inspeção ou manutenção das medidas de
+segurança contra incêndio e pânico, que indique a atividade conforme a alínea a.3 (ART) ou b.1.5
+CBMMG - Emenda 1 (131331832)         SEI 1400.01.0003498/2026-04 / pg. 4
+
+--- PÁGINA 5 ---
+(RRT) do item C.1.3 da IT 03;
+b) teste de estanqueidade da rede de gás (GLP/GN), acompanhado de laudo, no qual conste seu prazo de
+validade, e respectivo documento de responsabilidade técnica;
+c) relatório de inspeção de vaso sob pressão (caldeira), com validade conforme normas aplicáveis;
+d) Declaração de Responsabilidade Técnica pelo CMAR, acompanhada do documento de responsabilidade
+técnica registrado junto ao respectivo conselho profissional;
+e) atestado de formação da brigada de incêndio (Anexo E.6.1 ou E.6.2 da IT 03), acompanhado do
+certificado de credenciamento do centro de formação ou do instrutor responsável pela formação da brigada
+de incêndio (no caso de brigadista orgânico nível básico com formação realizada na própria edificação ou
+espaço destinado ao uso coletivo);
+f) plano de intervenção de incêndio;
+g) laudo de comissionamento de escada pressurizada, observado o item 6.1 da IT 10;
+h) outros, conforme exigência prevista em IT específica.
+ 
+22. ALTERAR o item B.2.5.1, que passa a vigorar com a seguinte redação:
+B.2.5.1 A solicitação de vistoria após a modificação do PSCIP não invalida o AVCB existente. Nesta
+hipótese, caso haja irregularidades na vistoria de emissão do AVCB, deverá ser feita notificação do PSCIP
+e a autuação da edificação em fiscalização.
+ 
+23. ACRESCENTAR o item B.2.5.1.1:
+B.2.5.1.1 A autuação em vistorias de emissão de AVCB se aplica somente para edificações que já
+possuem o AVCB anteriormente à modificação do PSCIP.
+ 
+24. CORRIGIR a Tabela C.2, passando a Denominação relativa ao CNAE 3520-4/0x para:
+Produção de gás; processamento de gás natural; distribuição de combustíveis gasosos por redes urbanas
+ 
+25. ALTERAR os Exemplos da Tabela C.2, que passa a vigorar com a seguinte redação:
+Exemplos:
+19xx-x/xx - Todas as atividades da divisão 19 representam nível de risco III;
+861x-x/xx  - Todas as atividades do grupo 86.1 representam nível de risco III.
+ 
+26. ACRESCENTAR o item E.5.9.4:
+E.5.9.4 Para os locais com arruamento interno, onde seja exigida a medida de Acesso de Viaturas, as telas
+de sombreamento e coberturas mencionadas nos itens E.5.9.2 e E.5.9.3 não podem limitar/impedir o
+deslocamento e manobra das viaturas de combate a incêndio, mantendo-se largura mínima livre de 6,0 m,
+nos termos da IT 04.
+ 
+27. REVOGAR os itens F.1.4 e F.1.4.1.
+ 
+28. REVOGAR o item F.1.8.1.
+ 
+ 
+ 
+CBMMG - Emenda 1 (131331832)         SEI 1400.01.0003498/2026-04 / pg. 5
+
+--- PÁGINA 6 ---
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 09/03/2026, às
+09:18, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 131331832 e
+o código CRC D1776F33.
+Referência: Processo nº 1400.01.0003498/2026-04
+SEI nº 131331832
+CBMMG - Emenda 1 (131331832)         SEI 1400.01.0003498/2026-04 / pg. 6

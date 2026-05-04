@@ -1,0 +1,58 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22394728 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26257840&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 27 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 27/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 32 – 1ª
+Edição (Proteção Contra Incêndio em Cozinhas Proﬁssionais):
+ 
+1. ALTERAR o item 2.1
+Onde se lê: 
+"2.1 Esta norma se aplica aos sistemas de venƟlação de cozinhas proﬁssionais dotados de
+equipamentos de cocção: leves, moderados, severos e combusơvel sólido, em ediﬁcações com área
+construída acima de 750 m², e/ou altura superior a 12 (doze) m, quando se caracterizar a
+descomparƟmentação do ambiente da cozinha. Constatada pela existência de comunicação por aberturas
+entre a cozinha e outros comparƟmentos da ediﬁcação."
+Leia-se:
+"2.1 Esta norma aplica-se aos sistemas de venƟlação de cozinhas proﬁssionais dotados de
+equipamentos de cocção: leves, moderados, severos e combusơvel sólido, em ediﬁcações com área
+construída acima de 930 m² e/ou altura superior a 12 (doze) m, quando se caracterizar a
+descomparƟmentação do ambiente da cozinha, constatada pela existência de comunicação por aberturas
+entre a cozinha e outros comparƟmentos da ediﬁcação."
+ 
+2. ALTERAR o item 6.5
+Onde se lê: 
+"6.5 Sistema ﬁxo de exƟnção de incêndio
+Este requisito só é aplicado nos sistemas de venƟlação das ediﬁcações que necessitem de
+proteção contra incêndio por chuveiros automáƟcos, conforme Regulamento de Segurança Contra Incêndio e
+Pânico nas ediﬁcações e áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"6.5 Sistema ﬁxo de exƟnção de incêndio 
+Este requisito só é aplicado nos sistemas de venƟlação das ediﬁcações que necessitem de
+proteção contra incêndio por chuveiros automáƟcos, conforme exigência da legislação de Segurança Contra
+Incêndio e Pânico do Estado de Minas Gerais."
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22394728 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26257840&infra_sist…
+2/2
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:16, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22394728 e o
+código CRC D62EAB86.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22394728

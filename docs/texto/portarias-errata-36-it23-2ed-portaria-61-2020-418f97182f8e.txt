@@ -1,0 +1,195 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23448124 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27436140&infra_sist…
+1/5
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 21 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 36/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 23 – 2ª
+Edição (Manipulação, armazenamento, comercialização e uƟlização de gás liquefeito de petróleo - GLP):
+ 
+1. ALTERAR o item 1
+Onde se lê: 
+"1 OBJETIVO
+Estabelecer medidas de segurança contra incêndio para os locais desƟnados a manipulação,
+armazenamento, comercialização, uƟlização, instalações internas e centrais de GLP (gás liquefeito de
+petróleo), atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico das ediﬁcações e
+áreas de risco do Estado de Minas Gerais."
+Leia-se:
+"1 OBJETIVO
+Estabelecer medidas de segurança contra incêndio para os locais desƟnados a manipulação,
+armazenamento, comercialização, uƟlização, instalações internas e centrais de GLP (gás liquefeito de
+petróleo), atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico do Estado de
+Minas Gerais."
+ 
+2. ALTERAR o item 5.2.2
+Onde se lê: 
+"5.2.2 A instalação para armazenamento de recipientes transportáveis de GLP deve ter
+proteção especíﬁca por exƟntores de acordo com a n."
+Leia-se:
+"5.2.2 A instalação para armazenamento de recipientes transportáveis de GLP deve ter
+proteção especíﬁca por exƟntores de acordo com a Tabela 5."
+ 
+3. ALTERAR o item 5.2.8.9
+Onde se lê: 
+"5.2.8.9 O a propriedade desƟnada a áreas de armazenamento de qualquer classe deve ter
+garanƟda a venƟlação efeƟva e permanente."
+Leia-se:
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23448124 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27436140&infra_sist…
+2/5
+"5.2.8.9 A propriedade desƟnada a áreas de armazenamento de qualquer classe deve ter
+garanƟda a venƟlação efeƟva e permanente."
+ 
+4. ALTERAR a numeração dos itens 5.5.6.3 e 5.5.6.4
+Onde se lê: 
+"5.5.6.3 Recomenda-se o uso mínimo de conexões nas tubulações situadas no interior do
+tubo-luva.
+5.5.6.4 Os abrigos de medidores de consumo de GLP devem ser protegidos por um exƟntor de
+Classe B e deve ser garanƟda sua venƟlação quando instalados internos à ediﬁcação."
+Leia-se:
+"5.5.7.3 Recomenda-se o uso mínimo de conexões nas tubulações situadas no interior do
+tubo-luva.
+5.5.7.4 Os abrigos de medidores de consumo de GLP devem ser protegidos por um exƟntor de
+Classe B e deve ser garanƟda sua venƟlação quando instalados internos à ediﬁcação."
+ 
+5. ALTERAR a numeração dos itens 5.5.7, 5.5.7.1 e 5.5.7.2
+Onde se lê: 
+"5.5.7 Válvula de bloqueio manual
+5.5.7.1 A rede de distribuição interna deve possuir válvulas de bloqueio manual que permitam
+a interrupção do suprimento de gás combusơvel à ediﬁcação, para manutenção de equipamentos de
+medição e regulagem, a cada unidade habitacional ou para um especíﬁco aparelho a gás.
+5.5.7.2 As válvulas devem ser idenƟﬁcadas e instaladas em local venƟlado, de fácil acesso e
+protegidas, de forma a se evitar acionamento acidental."
+Leia-se:
+"5.5.8 Válvula de bloqueio manual
+5.5.8.1 A rede de distribuição interna deve possuir válvulas de bloqueio manual que permitam
+a interrupção do suprimento de gás combusơvel à ediﬁcação, para manutenção de equipamentos de
+medição e regulagem, a cada unidade habitacional ou para um especíﬁco aparelho a gás.
+5.5.8.2 As válvulas devem ser idenƟﬁcadas e instaladas em local venƟlado, de fácil acesso e
+protegidas, de forma a se evitar acionamento acidental."
+ 
+6. ALTERAR a numeração dos itens 5.5.8, 5.5.8.1 e 5.5.8.2
+Onde se lê: 
+"5.5.8 Ensaio de estanqueidade
+5.5.8.1 Antes da uƟlização da central de GLP e para a renovação do AVCB, a rede de
+alimentação deve ser submeƟda a ensaio de estanqueidade com pressão pneumáƟca de no mínimo 1,70
+MPa ou pressão hidráulica de no mínimo 2,550 MPa, por pelo menos 15 (quinze) minutos, observando-se os
+demais requisitos das normas técnicas perƟnentes.
+5.5.8.2 Sempre que houver modiﬁcação na central de GLP que resulte em alteração na
+tubulação (mudança de trajeto, acréscimo ou redução, etc.) ou suspeita de vazamentos, a rede de
+alimentação deve ser submeƟda ao ensaio de estanqueidade."
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 23448124 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27436140&infra_sist…
+3/5
+Leia-se:
+"5.5.9 Ensaio de estanqueidade
+5.5.9.1 Antes da uƟlização da central de GLP e para a renovação do AVCB, a rede de
+alimentação deve ser submeƟda a ensaio de estanqueidade com pressão pneumáƟca de no mínimo 1,70
+MPa ou pressão hidráulica de no mínimo 2,550 MPa, por pelo menos 15 (quinze) minutos, observando-se os
+demais requisitos das normas técnicas perƟnentes.
+5.5.9.2 Sempre que houver modiﬁcação na central de GLP que resulte em alteração na
+tubulação (mudança de trajeto, acréscimo ou redução, etc.) ou suspeita de vazamentos, a rede de
+alimentação deve ser submeƟda ao ensaio de estanqueidade.
+ 
+7. ALTERAR a numeração do item 5.5.9
+Onde se lê: 
+"5.5.9 IdenƟﬁcação da tubulação.
+A idenƟﬁcação das tubulações para condução de GLP deve ser realizada através de pintura, de
+acordo com a Tabela 9."
+Leia-se:
+"5.5.10 IdenƟﬁcação da tubulação.
+A idenƟﬁcação das tubulações para condução de GLP deve ser realizada através de pintura, de
+acordo com a Tabela 9."
+ 
+8. ALTERAR a numeração dos itens 6.5.5, 6.5.5.1, 6.5.5.2, 6.5.5.2.1, 6.5.5.3, 6.5.5.4 e 6.5.5.5
+Onde se lê: 
+"6.5.5 Canhões monitores
+6.5.5.1 Os canhões monitores podem ser ﬁxos ou portáteis.
+6.5.5.2 O número mínimo de canhões monitores, quando exigido para área de
+armazenamento, deve atender à proporção mínima de 01 (um) canhão monitor para proteção de 49.920 kg
+de GLP dispostos em lotes.
+6.5.5.2.1 Para recipientes estacionários, quando houver exigência de canhão monitor, deverão
+ser instalados no mínimo dois canhões.
+6.5.5.3 Os canhões monitores devem ser especiﬁcados para permiƟr uma vazão mínima de
+800 LPM na pressão de 549,25 KPa (56,0 mca), um giro horizontal de 360° e um curso verƟcal de 80° para
+cima e de 15° para baixo da horizontal. Para efeito de projeto, deve ser considerado o alcance máximo, na
+horizontal, de 45,0 m quando em jato.
+6.5.5.4 Atendendo-se às necessidades de vazão e pressão da rede de hidrantes, os canhões
+monitores usados para resfriamento ou exƟnção de incêndio em tanques verƟcais ou horizontais devem ser
+capazes de resfriar teto e o costado.
+6.5.5.5 Quando for exigido canhão monitor, devem ser considerados em projeto para
+dimensionamento do sistema, no mínimo, o funcionamento simultâneo de um canhão monitor mais duas
+linhas manuais."
+Leia-se:
+"6.5.6 Canhões monitores
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 23448124 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27436140&infra_sist…
+4/5
+6.5.6.1 Os canhões monitores podem ser ﬁxos ou portáteis.
+6.5.6.2 O número mínimo de canhões monitores, quando exigido para área de
+armazenamento, deve atender à proporção mínima de 01 (um) canhão monitor para proteção de 49.920 kg
+de GLP dispostos em lotes.
+6.5.6.2.1 Para recipientes estacionários, quando houver exigência de canhão monitor, deverão
+ser instalados no mínimo dois canhões.
+6.5.6.3 Os canhões monitores devem ser especiﬁcados para permiƟr uma vazão mínima de
+800 LPM na pressão de 549,25 KPa (56,0 mca), um giro horizontal de 360° e um curso verƟcal de 80° para
+cima e de 15° para baixo da horizontal. Para efeito de projeto, deve ser considerado o alcance máximo, na
+horizontal, de 45,0 m quando em jato.
+6.5.6.4 Atendendo-se às necessidades de vazão e pressão da rede de hidrantes, os canhões
+monitores usados para resfriamento ou exƟnção de incêndio em tanques verƟcais ou horizontais devem ser
+capazes de resfriar teto e o costado.
+6.5.6.5 Quando for exigido canhão monitor, devem ser considerados em projeto para
+dimensionamento do sistema, no mínimo, o funcionamento simultâneo de um canhão monitor mais duas
+linhas manuais."
+ 
+9. ALTERAR o ơtulo do ANEXO D (cont.)
+Onde se lê: 
+ANEXO D (cont.)
+REVENDEDOR CLASSE II E RESIDÊNCIA COM ENTRADA INDEPENDENTE – CAPACIDADE 6.240 kg(informaƟvo)
+ 
+ 
+Leia-se:
+ 
+ANEXO D (cont.)
+REVENDEDOR CLASSE II E RESIDÊNCIA COM ENTRADA INDEPENDENTE – CAPACIDADE 1.560 kg(informaƟvo)
+ 
+ 
+10. ALTERAR a nota "b" do ANEXO D (cont.) - INSTALAÇÃO DE RECIPIENTES EM TETO E LAJES
+DE COBERTURA DE EDIFICAÇÕES (informaƟvo)
+ 
+Onde se lê:
+B - Distância mínima da mureta para a fachada da ediﬁcação – 1,5 m.
+Leia-se:
+B - Distância mínima da mureta para a fachada da ediﬁcação – 1,0 m.
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 28/12/2020, às
+21:36, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+
+--- PÁGINA 5 ---
+04/01/2021
+SEI/GOVMG - 23448124 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27436140&infra_sist…
+5/5
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23448124 e o
+código CRC ECE9D692.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23448124

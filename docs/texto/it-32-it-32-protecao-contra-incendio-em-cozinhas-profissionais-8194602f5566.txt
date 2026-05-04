@@ -1,0 +1,223 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 32 
+1ª edição 
+PROTEÇÃO CONTRA INCÊNDIO EM 
+COZINHAS PROFISSIONAIS 
+ 
+Aprovada pela portaria n. 05, de 25out2005.  
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências  
+4 – Definições  
+5 – Procedimentos 
+6 – Requisitos básicos de proteção contra 
+incêndio dos sistemas de exaustão 
+7 – Combustíveis sólidos procedimentos 
+adicionais  
+ANEXOS 
+Tabela 
+1 
+– 
+Classificação 
+dos 
+equipamentos de cocção
+
+--- PÁGINA 2 ---
+CBMMG IT 32–Proteção Contra Incêndio em Cozinhas Profissionais  
+1ª edição 
+2/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica estabelece as condições de aplicação dos requisitos básicos de proteção 
+ativa e passiva contra incêndio em sistemas de ventilação para cozinhas profissionais, visando 
+evitar e/ou minimizar o risco especial de incêndio ocasionado pelo calor, gordura, fumaça e 
+efluentes gerados no processo de cocção. 
+2 APLICAÇÃO 
+2.1 Esta norma aplica-se aos sistemas de ventilação de cozinhas profissionais dotados de 
+equipamentos de cocção: leves, moderados, severos e combustível sólido, em edificações com 
+área construída acima de 930 m² e/ou altura superior a 12 (doze) m, quando se caracterizar a 
+descompartimentação do ambiente da cozinha, constatada pela existência de comunicação por 
+aberturas entre a cozinha e outros compartimentos da edificação. 
+2.2 Esta Instrução Técnica não se aplica às cozinhas de uso residencial unifamiliar, e/ou cozinhas 
+próprias dos apartamentos que não são consideradas cozinhas profissionais, desde que não haja 
+um sistema de exaustão comum para mais de uma cozinha unifamiliar e/ou própria. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 10.897 – Proteção contra incêndio por chuveiros automáticos. 
+NBR 13.523 – Central Predial de GLP. 
+NBR 13.860/97 – Glossário de termos relacionados com a segurança contra incêndio. 
+NBR 13.932 – Instalações Internas de GLP – Projeto e Execução. 
+NBR 14.024 – Centrais Prediais e Industriais de GLP – Sistema de Abastecimento à Granel: 
+para questões relativas ao uso em instalações internas de GN ou GLP ou Operação de 
+Transbordo de GLP. 
+NBR 14.518 – Sistemas de ventilação para cozinhas profissionais. 
+NBR 14.570 – Instalações Internas para uso alternativo do gás natural e GLP – Projeto e 
+Execução. 
+NB 98 – Armazenamento de Combustível.
+
+--- PÁGINA 3 ---
+CBMMG IT 32–Proteção Contra Incêndio em Cozinhas Profissionais  
+1ª edição 
+3/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção Contra Incêndio e Pânico), e as definições contidas na NBR 14518. 
+4.1 Captor: Dispositivo para coleta deefluentes. 
+4.2 Charbroiler: Equipamento para grelhar alimentos, fundamentado no aquecimento, de 
+grande potência, de pedras, por exemplo, silicato de magnésio que aquecem a grelha. 
+Caracteriza-se por elevado potencial de geração de fumaça. 
+4.3 Cocção: utilização de energia térmica no preparo de alimentos. 
+4.4 Cozinha profissional: Instalação dotada de equipamentos e dispositivos com a finalidade 
+de preparode refeições coletivas, utilizada pela razão social responsável por esta atividade 
+econômica. A instalação pode ser localizada em um único compartimento ou em compartimentos 
+adjacentes, situados no mesmo piso ou em pisos distintos. Abrange toda cozinha que não seja 
+residencial unifamiliar. 
+4.5 Damper: Acessório tipo registro, para regular vazão do ar. 
+4.6 Descompartimentação de cozinha: primeiro ponto de travessia dos dutos de exaustão pela 
+parede, piso ou teto do compartimento da cozinha. 
+4.7 Efluente: Emanação de substâncias líquidas ou gasosas oriundas do processo de cocção, 
+por ação térmica ou não. 
+4.8 Selagem de travessia: Material estrutural e de acabamento, que ao ser utilizado na 
+travessia de um duto por uma parede, piso ou teto assegura no mínimo a mesma classificação 
+do elemento penetrado. 
+4.9 Sistema de ventilação: Conjunto de elementos harmonicamente integrados, de maneira a 
+garantir a movimentação controlada doar. 
+5 PROCEDIMENTOS 
+5.1 A descompartimentação ocorrerá: 
+5.1.1 No interior da edificação: quando os dutos de exaustão se comunicarem com outros 
+ambientes, através da travessia de paredes, entrepisos, etc. 
+5.1.2 No exterior da edificação: quando os dutos de exaustão estiverem próximos a aberturas na 
+fachada, tomadas de ar, etc. 
+5.2 Procedimentos gerais de proteção contra incêndio dos sistemas de exaustão 
+5.2.1 Todos o tachos e fritadeiras devem manter um espaçamento mínimo de 0,40 m para a 
+chama aberta de um equipamento de cocção adjacente. 
+5.2.2 Devem estar disponíveis, na área de funcionamento da cozinha, extintores portáteis para 
+combate a incêndio nos equipamentos de cocção, conforme legislação pertinente.
+
+--- PÁGINA 4 ---
+CBMMG IT 32–Proteção Contra Incêndio em Cozinhas Profissionais  
+1ª edição 
+4/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+6 REQUISITOS BÁSICOS DE PROTEÇÃO CONTRA INCÊNDIO DOS SISTEMAS DE EXAUSTÃO 
+6.1 Captores com filtros 
+Conforme especificado na NBR14.518. 
+6.2 Selagem de travessias dos dutos 
+Devem ser observados os requisitos de compartimentação estabelecidos na IT 07 e os TRRF 
+dessa selagem, conforme IT06. 
+6.3 Proteção passiva 
+Proteção do duto conforme IT 06 e IT 07. 
+6.4 Damper corta-fogo 
+Conforme IT 07 na passagem dos ambientes descompartimentados. 
+6.5 Sistema fixo de extinção de incêndio 
+Este requisito só é aplicado nos sistemas de ventilação das edificações que necessitem de 
+proteção contra incêndio por chuveiros automáticos, conforme exigência da legislação de 
+Segurança Contra Incêndio e Pânico do Estado de Minas Gerais. 
+7 COMBUSTÍVEIS SÓLIDOS PROCEDIMENTOS ADICIONAIS 
+7.1 Os equipamentos de cocção com combustível sólido devem dispor de captores 
+individualizados e conectados a uma rede de dutos independente, com damper corta-fogo com 
+acionamento eletromecânico. 
+7.2 Os captores devem ser dotados de filtros inerciais, que podem ter função adicional de reter 
+fagulhas e cinzas. 
+7.3 Os equipamentos que utilizam combustível sólido e o próprio estoque do combustível não 
+devem ser posicionados em locais onde outros vapores combustíveis e gases inflamados 
+possam estar presentes. 
+7.4 O sistema de extinção de incêndio deve ser de porte suficiente para extinguir totalmente os 
+incêndios em toda área de risco e prevenir a reignição do combustível. 
+7.5 Os equipamentos de cocção à base de combustíveis sólidos devem ser instalados sobre 
+pisos construídos com materiais não combustíveis, estendendo-se 0,90 m no mínimo, ao redor 
+da área de projeção do equipamento no piso.
+
+--- PÁGINA 5 ---
+CBMMG IT 32–Proteção Contra Incêndio em Cozinhas Profissionais  
+1ª edição 
+5/5 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+ 
+ANEXO 
+TABELA 1 – CLASSIFICAÇÃO DOS EQUIPAMENTOS DE COCÇÃO 
+RISCOS 
+EQUIPAMENTOS 
+PROTEÇÃO EXIGIDA 
+Leves 
+Banho Maria, caldeirão, cafeteiras, 
+lava- louças, leiteiras e corredor 
+demassas 
+Extintor portátil de PQS e afastamentos mínimo de 05 cm 
+Forno elétrico/gás, estufas, fornos 
+de micro-ondas e tostadeiras 
+Extintor portátil de PQS e afastamentos mínimo de 15 cm 
+Moderados 
+Fogões, 
+churrasqueiras 
+a 
+gás, 
+chapa 
+quente, 
+sanduicheira 
+e 
+galeteira 
+Extintor portátil de PQS e afastamentos mínimo de 
+20 cm, dutos em aço carbono (1,37mm) ou aço 
+inoxidável (1,09mm) captores com filtros, damper 
+corta-fogo 
+Fritadeiras, churrasqueira elétrica e 
+fornos combinados 
+Sistema 
+fixo 
+de 
+proteção 
+contra 
+incêndio, 
+afastamentos mínimo de 40 cm, dutos emaço 
+carbono (1,37mm) ou aço inoxidável (1,09mm), 
+selagem de travessias, captores com filtros, damper 
+corta-fogo. 
+Severos 
+Charbroiler, chapa de grelhados, 
+bifeteria, 
+frigideira 
+e 
+fornos 
+detorrefação. 
+Sistema 
+fixo 
+de 
+proteção 
+contra 
+incêndio, 
+afastamentos mínimo de 40 cm, dutos emaço 
+carbono (1,37mm) ou aço inoxidável (1,09mm), 
+selagem de travessias, captores com filtros, damper 
+corta-fogo e sistema antipoluição. 
+Combustível 
+sólido 
+Forno a lenha, churrasqueira a 
+carvão e fogão alenha 
+Sistema 
+fixo 
+de 
+proteção 
+contra 
+incêndio, 
+afastamentos mínimo de 40 cm, dutos emaço 
+carbono (1,37mm) ou aço inoxidável (1,09mm), 
+selagem de travessias, captores com filtros, damper 
+corta-fogo e sistema antipoluição.

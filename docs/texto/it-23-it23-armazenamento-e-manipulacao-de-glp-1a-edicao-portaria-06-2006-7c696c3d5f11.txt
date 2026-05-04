@@ -1,0 +1,1188 @@
+--- PÁGINA 1 ---
+IT - 23 
+MANIPULAÇÃO, ARMAZENAMENTO, COMERCIALIZAÇÃO E UTILIZAÇÃO 
+DE GÁS LIQUEFEITO DE PETRÓLEO (GLP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ANEXOS 
+ 
+1 – Objetivo 
+ 
+A – Tabela de afastamentos de segurança para as 
+áreas 
+de 
+amarzenamento 
+de 
+recipientes 
+transportáveis de GLP. 
+2 – Aplicação 
+B – Implantação da central de GLP e local de 
+estacionamento do veículo abastecedor. 
+3 – Referencias Normativas e Bibliográficas 
+ 
+ 
+4 – Definições 
+  
+ 
+5 – Procedimentos 
+ 
+ 
+6 - Condições de segurança para cerca elétrica 
+nas proximidades de centrais prediais de GLP
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 23 
+ 
+   
+ 
+ 
+MANIPULAÇÃO, ARMAZENAMENTO, 
+COMERCIALIZAÇÃO E UTILIZAÇÃO DE 
+GÁS LIQUEFEITO DE PETRÓLEO (GLP) 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+Esta Instrução Técnica estabelece as condições necessárias  
+para a proteção contra incêndio nos locais de manipulação, 
+armazenamento, comercialização, utilização, central GLP, 
+instalação interna e sistema de abastecimento a granel de 
+Gás Liquefeito de Petróleo (GLP), atendendo o prescrito 
+no Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas 
+Gerais. 
+  
+ 
+2 APLICAÇÃO 
+ 
+2.1 Esta Instrução Técnica aplica-se nas edificações e 
+áreas de riscos destinadas a: 
+a) terminais de armazenamento de GLP; 
+b) manipulação, 
+armazenamento 
+de 
+recipientes 
+estacionários, transportáveis e distribuição de GLP; 
+c) armazenamento de recipientes transportáveis de GLP, 
+destinados à comercialização; 
+d) central 
+de 
+GLP 
+(recipientes 
+transportáveis 
+e 
+estacionários) e abastecimento a granel. 
+ 
+2.2 A localização da instalação destinada à manipulação, 
+armazenamento, distribuição e revenda de GLP é 
+regulamentada pela Lei de uso e ocupação do solo de cada 
+município do Estado de Minas Gerais. 
+ 
+ 
+3 
+REFERÊNCIAS 
+NORMATIVAS 
+E 
+BIBLIOGRÁFICAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar as seguintes normas, levando em consideração 
+todas as suas atualizações e outras que vierem substituí-
+las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+ 
+Lei Federal nº 8.078 – Proteção do consumidor (e 
+outras providencias). 
+Decreto Federal nº 1.021 – Fiscalização da distribuição, do 
+armazenamento e comércio de combustíveis. 
+ 
+Decreto Federal nº 1.501 - Fiscalização da distribuição, do 
+armazenamento e comércio de combustíveis. 
+ 
+Portaria 
+nº 
+204/1997-MT. 
+Aprova 
+as 
+Instruções 
+Complementares aos Regulamentos dos transportes 
+Rodoviários e Ferroviários de Produtos Perigosos 
+(Suplemento ao Diário Oficial da União de nº 98, de 26 de 
+maio de 1997). 
+ 
+Decreto Federal Nº 2.455/98, anexo I. Exercício da 
+atividade de distribuição e revenda de GLP. 
+ 
+Portaria N° 76 de 21 de julho de 1966, do Conselho 
+Nacional de Petróleo, (instalação, operação de segurança 
+de terminais de gás liqüefeito de petróleo). 
+ 
+Norma Regulamentadora do Ministério do Trabalho, NR-
+20 de 08 de Junho de 1978 (líquidos combustíveis e 
+inflamáveis). 
+ 
+Portaria 27 de 16 de setembro de 1996, do Departamento 
+Nacional de Combustíveis, (condições de proteção contra 
+incêndio nos postos de revendas e depósitos de GLP). 
+ 
+NBR 5419 - Proteção de Estruturas contra descargas 
+atmosféricas/pára-raios. 
+ 
+NBR 13523 - Central predial de gás liqüefeito de petróleo 
+– procedimento. 
+ 
+NBR 13932 – Instalações internas de gás liqüefeito de 
+petróleo (GLP) – projeto e execução. 
+ 
+NBR 14.024 - Centrais prediais e industriais de gás 
+liqüefeito de petróleo ( GLP ) – sistema de abastecimento 
+a granel. 
+ 
+Portaria Nº 47 de 24 de março de 1999, da Agência 
+Nacional de Petróleo (ANP) – GLP a granel.
+
+--- PÁGINA 3 ---
+NBR 8460 – Recipiente transportável de aço para Gás 
+Liqüefeito de Petróleo (GLP) – Requisitos e métodos de 
+ensaios. 
+ 
+NBR 14.570 – Instalações Internas para uso alternativo 
+dos gases GN e GLP – Projeto e Execução. 
+ 
+4 DEFINIÇÕES 
+ 
+Para os efeitos desta Instrução Técnica, aplicam-se as 
+definições constantes da IT 02 - Terminologia de proteção 
+contra incêndio e Pânico. 
+ 
+ 
+5 PROCEDIMENTOS 
+ 
+5.1 Bases de armazenamento e engarrafamento das 
+distribuidoras, 
+manipulação, 
+armazenamento 
+de 
+recipientes estacionários, transportáveis e distribuição 
+de GLP 
+ 
+5.1.1 Para fins dos critérios de segurança na instalação e 
+operação de terminais de GLP, adotam-se as normas 
+brasileiras afins, a Portaria n° 76 do Conselho Nacional de 
+Petróleo e a NR-20. 
+5.1.2 As unidades de processo destinadas a envasamento 
+de recipientes (carrossel) devem ser providas de sistema 
+fixo de resfriamento (nebulizadores tipo dilúvio). Os 
+locais destinados ao carregamento de veículos-tanque 
+devem ser providos de sistema fixo de resfriamento, 
+(nebulizadores ou canhão monitor) com válvula de 
+acionamento à distância. 
+5.1.3 Os Tanques estacionários de GLP com volume 
+acima de 500 litros devem possuir dispositivos de 
+bloqueio de válvula automática (válvulas de excesso de 
+fluxo).  
+5.1.3.1 
+Os 
+Tanques 
+estacionários 
+destinados 
+a 
+envasamentos de recipientes devem possuir registro de 
+fechamento por meio de controle com acionamento à 
+distância para os casos de vazamento. 
+5.1.4 Os recipientes acima de 500 litros devem estar 
+afastados de edificações e divisas de outra propriedade e 
+entre tanques, conforme tabela 1: 
+ 
+Tabela 1 - Afastamento mínimo de segurança para os 
+tanques de armazenamento de GLP: 
+Capacidade 
+volumétrica 
+ (m3) 
+Afastamento de 
+edificações 
+ (m) 
+Afastamento 
+mínimo entre 
+tanques 
+(m) 
+0,50 a 2,00 
+3,0 
+1,0 
+2,01 a 8,00 
+7,5 
+1,0 
+8,01 a 120,00 
+15,0 
+1,5 
+120,01 a 265,00 
+23,0 
+( * ) 3,0 
+265,01 a 341,00 
+30,0 
+¼ da soma dos 
+diâmetros dos 
+tanques 
+adjacentes 
+341,01 a 454,00 
+38,0 
+¼ da soma dos 
+diâmetros dos 
+tanques 
+adjacentes 
+454,01 a 757,00 
+61,0 
+¼ da soma dos 
+diâmetros dos 
+tanques 
+adjacentes 
+757,01 a 
+3.785,00 
+91,0 
+¼ da soma dos 
+diâmetros dos 
+tanques 
+adjacentes 
+Maior que 
+3.785,01 
+120,0 
+¼ da soma dos 
+diâmetros dos 
+tanques 
+adjacentes. 
+(*) O afastamento entre tanques de capacidade acima de 
+120 m3, não pode ser inferior a três metros. 
+ 
+5.1.5 Os Sistemas de Proteção Contra Incêndios devem ser 
+previstos de acordo com as IT 16 - Extintores de Incêndio 
+e IT 17 - Hidrantes e Mangotinhos para Combate a 
+Incêndio. 
+ 
+5.2 Armazenamento de recipientes transportáveis de 
+GLP destinados à comercialização: 
+ 
+5.2.1 As áreas de armazenamento de recipientes 
+transportáveis estão divididas em função da quantidade de 
+GLP estocado; são classificadas em classes que requerem 
+afastamentos de segurança e devem atender a exigências 
+conforme anexo A. 
+5.2.2 A instalação para armazenamento de recipientes 
+transportáveis de GLP deve ter proteção específica por 
+extintores de pó BC e hidrantes de acordo com a tabela 2. 
+ 
+Tabela 2 - Unidade e capacidade extintora de pó BC para 
+armazenamento de recipientes transportáveis de GLP. 
+Armazenamento 
+Extintor 
+Classe 
+Quantidade 
+de GLP 
+Quantidade 
+Capacidade 
+I 
+Até 520 Kg ou 
+40 botijões 
+2 
+40 B 
+II 
+Até 1560 Kg 
+ou 120 
+botijões 
+3 
+40 B 
+III 
+( * ) 
+Até 6240 Kg 
+ou 480 
+botijões 
+4 
+40 B 
+IV 
+Até 24960 Kg 
+ou 1920 
+botijões 
+8 
+40 B 
+V 
+Até 49920 Kg 
+ou 3840 
+botijões 
+8 
+40 B 
+VI 
+Até 99840 Kg 
+10 
+40 B 
+(*) Prever sistema de proteção por hidrantes para área de 
+armazenamento acima de 6240 Kg ou 480 botijões.
+
+--- PÁGINA 4 ---
+5.2.3 Para as instalações de armazenamento transportáveis 
+de GLP cheios, parcialmente utilizados ou vazios, deve-se 
+exibir placas de advertências em lugares visíveis, 
+sinalizando 
+“PERIGO 
+– 
+INFLAMÁVEL”, 
+“É 
+EXPRESSAMENTE PROIBIDO FUMAR E USAR 
+FOGO OU QUALQUER INSTRUMENTO QUE 
+PRODUZA FAÍSCAS”. 
+5.2.4 O local que armazene 05 ou menos recipientes 
+transportáveis de GLP, com capacidade nominal de até 13 
+kg de GLP cheios, parcialmente utilizados ou vazios para 
+consumo próprio, devem ser observados os seguintes 
+requisitos: 
+5.2.4.1 Possuir ventilação natural; 
+5.2.4.2 Estar protegido do sol, da chuva e da umidade; 
+5.2.4.3 Estar afastado de outros produtos inflamáveis, de 
+fontes de calor e faíscas; 
+5.2.4.4 Estar afastado no mínimo 1,5 m de ralos, caixas de 
+gordura e esgotos, bem como de galerias subterrâneas e 
+similares. 
+5.2.5 A área de armazenamento Classe II deve possuir 
+acesso através de uma ou mais aberturas de no mínimo 
+1,20 m de largura e 2,10 m de altura, que abram de dentro 
+para fora. 
+5.2.6 A área de armazenamento Classe III deve possuir 
+acesso através de 02 ou mais aberturas de no mínimo 1,50 
+m de largura e 2,10 m de altura que abram de dentro para 
+fora, bem como possuir corredor de inspeção de, no 
+mínimo, 1,00 m de largura, entre os lotes de recipientes 
+transportáveis de GLP cheios, parcialmente utilizados ou 
+vazios e entre estes e os limites da área de armazenamento. 
+5.2.7 A área de armazenamento Classe IV deve comportar 
+botijões dispostos em lotes, possuir acesso através de 02 
+ou mais aberturas de no mínimo 1,50 m de largura e 2,10 
+m de altura que abram de dentro para fora, bem como 
+possuir corredor de inspeção de, no mínimo, 1,00 m de 
+largura, entre os lotes de recipientes transportáveis de GLP 
+cheios, parcialmente utilizados ou vazios e entre estes e os 
+limites da área de armazenamento. 
+5.2.8 A área de armazenamento Classe V deve comportar 
+botijões dispostos em lotes, possuir acesso através de 03 
+ou mais aberturas de no mínimo 1,50 m de largura e 2,10 
+m de altura que abram de dentro para fora, bem como 
+possuir corredor de inspeção de, no mínimo, 1,00 m de 
+largura entre os lotes de recipientes transportáveis de GLP 
+cheios, parcialmente utilizados ou vazios e entre estes e os 
+limites da área de armazenamento. 
+5.2.9 A área de armazenamento Classe VI deve comportar 
+botijões dispostos em lotes, possuir acesso através de 04 
+ou mais aberturas de no mínimo 2,00 m de largura e 2,10 
+m de altura que abram de dentro para fora, bem como 
+possuir corredor de inspeção de, no mínimo, 1,00 m de 
+largura entre os lotes de recipientes transportáveis de GLP 
+cheios, parcialmente utilizados ou vazios e entre estes e os 
+limites da área de armazenamento. 
+5.2.10 Em posto de serviços somente é permitida a 
+instalação de armazenamento de recipientes transportáveis 
+de GLP cheios, parcialmente utilizados ou vazios das 
+classes I e II. 
+5.2.11 Para o armazenamento de recipientes transportáveis 
+de GLP cheios, parcialmente utilizados ou vazios deverá 
+observar as seguintes condições gerais de segurança: 
+ 
+5.2.11.1 Situar-se ao nível de solo, ou em plataforma 
+elevada por meio de aterro, podendo ser coberta ou não; 
+5.2.11.2 Quando coberta deverá ter no mínimo 2,50 m de 
+pé direito e haver permanentemente 1,20 m de espaço livre 
+entre o topo da pilha de botijões e a cobertura, sendo esta 
+construída de material resistente ao fogo, porém com 
+menor resistência mecânica que a estrutura das paredes e 
+do muro. 
+5.2.11.3 Ter a área de armazenamento, no máximo, 
+metade do seu perímetro fechado ou vedado com muros ou 
+similares, desde que resistente ao fogo. 
+5.2.11.4 Ter o restante do perímetro da área de 
+armazenamento fechado com estrutura do tipo tela de 
+arame ou similar, de forma a permitir ampla ventilação. 
+5.2.11.5 Possuir até 7/8 (sete oitavos) do perímetro 
+fechado com muro ou similar, quando a área de 
+armazenamento não for cercada como indicado nos itens 
+5.2.11.3 e 5.2.11.4. 
+5.2.11.6 Possuir fechamento com estrutura do tipo tela de 
+arame ou similar, de forma a permitir ampla ventilação, 
+em complemento ao muro previsto no item 5.2.11.5. 
+5.2.11.7 Possuir, quando cercada, acesso através de 
+aberturas com as dimensões mínimas previstas para estas, 
+quando 
+aplicadas 
+ao 
+fechamento 
+das 
+áreas 
+de 
+armazenamento. 
+5.2.11.8 Não possuir no piso da área de armazenamento e 
+até a uma distância de 3,0 m desta, aberturas para a 
+captação de águas pluviais, para esgotos ou outra 
+finalidade, canaletas, ralos, rebaixos ou similares. 
+5.2.11.9 Possuir, no piso, demarcação delimitando a área 
+de armazenamento e os lotes de recipientes transportáveis 
+de GLP. 
+5.2.11.10 Acondicionar os recipientes transportáveis de 
+GLP cheios, parcialmente cheios ou vazios na área de 
+armazenamento em posição vertical com a válvula voltada 
+para cima. 
+5.2.11.11 Quando possuir instalações elétricas, estas 
+devem ser especificadas com equipamento que atendam as 
+normas de classificação de área da Associação Brasileira 
+de Normas Técnicas (ABNT). 
+5.2.11.12 Exibir placa, indicando a classe da área de 
+armazenamento e o limite máximo de recipientes 
+transportáveis de GLP, por capacidade nominal que a 
+instalação está apta a armazenar, conforme Portaria 27 do 
+DNC. 
+5.2.11.13 Armazenar os botijões cheios ou parcialmente 
+utilizados com empilhamento máximo de 04 (quatro) 
+unidades. 
+5.2.11.14 Armazenar os botijões vazios ou parcialmente 
+utilizados separadamente dos cheios, permitindo-se aos 
+vazios o empilhamento de até 05 (cinco) unidades, 
+observados os mesmos cuidados dispensados aos 
+recipientes cheios de GLP, devendo ser definidas e 
+demarcadas as respectivas áreas de armazenamento.  
+5.2.11.15 Empilhar somente recipiente transportável de 
+GLP com a capacidade nominal igual ou inferior a 13 kg 
+de GLP. 
+5.2.11.16 Não permitir a circulação de pessoas estranhas 
+ao manuseio dos recipientes transportáveis. 
+5.2.12 Manter no local para todas as áreas de 
+armazenamento, líquidos e materiais necessários para teste 
+de vazamento de GLP.
+
+--- PÁGINA 5 ---
+5.2.13 Os recipientes transportáveis de GLP com 
+capacidade nominal inferior a 13 kg, cheios, parcialmente 
+utilizados ou vazios, armazenados em áreas Classe I ou II 
+têm o seu empilhamento limitado a uma altura máxima de 
+1,50 m. 
+ 
+5.3 Central de GLP (recipientes transportáveis, 
+estacionários e abastecimento a granel) 
+ 
+5.3.1 Os recipientes (transportáveis ou estacionários) 
+devem atender aos afastamentos de segurança, de acordo 
+com a tabela 3: 
+ 
+Tabela 3 - Afastamentos de recipientes (transportáveis ou 
+estacionário) em relação a locais de risco: 
+Locais 
+Afastamento 
+(m) 
+Aberturas de dutos de esgoto, águas 
+pluviais, poços, canaletas, ralos. 
+1,5 
+Materiais de fácil combustão 
+3,0 
+Fontes de ignição (inclusive 
+estacionamento e trânsito de veículos) 
+3,0 
+Redes elétricas 
+3,0 
+Depósitos de materiais inflamáveis ou 
+comburentes, exceto oxigênio e hidrogênio. 
+6,0 
+Oxigênio ( Nm3), incluindo reserva 
+Capacidade 
+Conjunta 
+GLP 
+( m3) 
+Até 11 
+11,1 a 566 
+Acima de 566 
+Até 4,5 
+0 
+6 
+7,5 
+> 4,5 
+0 
+6 
+15 
+Hidrogênio ( Nm3), incluindo reserva  
+Capacidade 
+Conjunta 
+GLP 
+ ( m3) 
+Até 11 
+11 a 85 
+> 85 
+Até 1,9 
+0 
+3 
+7,5 
+Acima de 1,9 
+0 
+7,5 
+15 
+ 
+5.3.2 Os afastamentos acima podem ser reduzidos pela 
+metade, caso seja interposta uma parede entre o recipiente 
+e o ponto considerado com resistência ao fogo por duas 
+horas. 
+5.3.3 Os recipientes transportáveis devem atender aos 
+afastamentos mínimos em relação à projeção das 
+coberturas de edificações, constantes da tabela 4: 
+ 
+Tabela 4 - Afastamentos de recipientes transportáveis em 
+relação à projeção das edificações: 
+Quantidade de GLP 
+(kg) 
+Afastamento 
+(m) 
+Até 540 
+0 
+A partir de 540 até 1080 
+1,5 
+A partir de 1080 até 2520 
+3,0 
+ 
+A partir de 2520 até 4000 
+7,5 
+ 
+5.3.4 Os recipientes estacionários devem atender aos 
+afastamentos da projeção das edificações, constantes da 
+tabela 5: 
+Tabela 5 - Afastamentos de recipientes Estacionários em 
+relação à projeção das edificações: 
+Capacidade Volumétrica do tanque 
+(m³) 
+Afastamento 
+(m) 
+Até 1,0(1)
+0 
+De 1,1 até 2,0 
+1,5 
+De 2,1 até 5,5 
+3,0 
+De 5,6 até 8,0 
+7,5 
+Acima de 8,0 
+Adotar tabela 1 
+(1) Para centrais com reservatórios de capacidade 
+volumétrica de até 0,5 m3, o afastamento mínimo até a 
+cerca será desconsiderado, permitindo ser igual a zero.      
+ 
+ 
+5.3.5 A central de GLP deve ter proteção específica por 
+extintores de pó BC na capacidade conforme tabela 6. 
+ 
+Os extintores não deverão ser instalados na parede de 
+central de GLP, devendo ficar em locais que permitam o 
+acesso em caso de incêndio na central. 
+ 
+Tabela 6 - Unidade e capacidade extintora de pó BC, a ser 
+instalado junto à central de GLP. 
+Central de GLP 
+Extintor Portátil 
+Extintor sobre 
+rodas 
+Quantidade de GLP 
+(kg) 
+Nº 
+Capac. 
+Nº 
+Capac.
+Até 270 
+1 
+20 B 
+- 
+- 
+271 a 1800 
+2 
+20 B 
+- 
+- 
+Acima de 1800 
+2 
+20 B 
+1 
+80 B 
+ 
+5.3.6 Os recipientes estacionários e transportáveis de GLP 
+devem ser situados no exterior das edificações em locais 
+ventilados, sendo proibido sua instalação em locais 
+confinados, tais como porão, garagem subterrânea, forros, 
+etc. 
+5.3.6.1 As instalações de recipientes abastecidas com GLP 
+no local, laje e terraço de edificações, somente serão 
+permitidas se atenderem as seguintes exigências. 
+a) em locais que não disponham de área adequada no nível 
+de acesso principal à edificação; 
+b) só poderão ser executadas se atenderem às Normas 
+Técnicas Brasileiras de Construção Civil; 
+c) a laje ou terraço da edificação, onde ficará assentado 
+o(s) recipientes, deverá ter superfície plana e cercado por 
+muretas de 0,40 a 0,60 metros de altura com tempo de 
+resistência ao fogo de no mínimo 02 (duas) horas, 
+conforme NBR 10636; 
+d) a laje ou terraço, onde for instalado o(s) recipiente(s) 
+deve ser dimensionado para suportar o(s) recipiente(s) 
+cheio com água; 
+e) os recipientes devem ser instalados em áreas que 
+permitam a circulação de ar e com os distanciamentos 
+abaixo relacionados (os ralos e fontes de ignição devem 
+estar localizados fora do limite das muretas citadas na 
+alínea c do item 5.3.6.1: 
+   1) 1,5 metros de ralos; 
+   2) 3,0 metros de fontes de ignição; 
+   3) 6,0 metros de entrada de ar condicionado e poços de 
+ventilação.
+
+--- PÁGINA 6 ---
+f) o local da Central e da área de evaporação devem ser 
+impermeabilizados; 
+g) a localização dos recipientes deve permitir acesso fácil 
+e desimpedido par todas as válvulas e ter espaço suficiente 
+para manutenção; 
+h) o local da Central deve ser acessado por escada fixa ou 
+outro meio seguro e permanente de acesso; 
+i) limitados à capacidade volumétrica individual de 4,0 m3, 
+sendo permitida o limite total de 4,0 m3 para instalações 
+em residências, serviços de hospedagem e 16,0 m3 para 
+instalações comerciais e industriais; 
+j) o limite máximo de altura da instalação da Central em 
+relação ao nível de descarga da edificação fica restrito a 15 
+metros. Acima desta altura, caberá ao CBMMG através do 
+Corpo Técnico analisar e decidir, mediante propostas 
+encaminhadas pelo Responsável Técnico devidamente 
+fundamentadas com medidas de segurança adicionais;  
+k) a central não deve estar localizada sobre casa de 
+máquinas e reservatórios superior de água. 
+5.3.6.2 Quando a mangueira de enchimento não puder ser 
+observada pelos seus operadores em seu comprimento 
+total, poderá ser feita uma linha de abastecimento: 
+a) esta linha de abastecimento deve ser executada externa 
+à edificação, identificada e protegida mecanicamente de 
+forma a garantir a integridade da mesma em toda a sua 
+extensão, observando as seguintes distâncias: 
+1) 3,0 metros de aberturas (janelas, portas, tomada de ar, 
+etc) das edificações; 
+2) 6,0 metros de reservatórios que contenham fluídos 
+inflamáveis; 
+3) 1,5 metros de ralos, rebaixos ou canaletas e dos 
+veículos abastecedores; 
+4) 3,0 metros de materiais de fácil combustão e ponto de 
+combustão. 
+b) a linha de abastecimento deve ser executada com 
+tubulação, com ou sem costura, no mínimo SCH 40 se for 
+feita com conexos soldadas e no mínimo SCH 80 se for 
+feita com conexões roscadas; 
+c) o ponto de abastecimento em edificações que possuem 
+linha de abastecimento deve ser localizado a pelo menos, 
+2,8 metros acima do nível do solo, devidamente protegido 
+e identificado, e devem ser previstos acessórios que 
+garantam que a mangueira e engate de enchimento não 
+rompam devido ao peso; 
+d) o ponto de abastecimento quando instalado em linhas 
+de abastecimento deve ser provido de no mínimo uma 
+válvula de abastecimento e uma válvula de bloqueio 
+manual; 
+e) no caso de se utilizar uma linha de abastecimento a 
+mesma deve ser provida de válvula de alívio hidrostático 
+instalada dentro da central, próxima ao recipiente e 
+obedecendo ao distanciamento de segurança de 1,5 em 
+relação a aberturas situadas abaixo; 
+f) a linha de abastecimento deve estar distante de janelas, 
+aberturas e linha de para raios de pelo menos 1,5 metros; 
+g) na linha de abastecimento pode ter instalada uma 
+conexão para purga do gás. Esta conexão deve ser 
+instalada dentro da central, próximo ao recipiente e 
+obedecendo ao distanciamento referido na alínea. 
+  
+5.3.7 A central de GLP localizada junto à passagem de 
+veículos deve possuir obstáculo de proteção, garantindo os 
+afastamentos necessários contidos nesta instrução técnica. 
+5.3.8 Os recipientes de GLP não podem apresentar 
+vazamentos, corrosão, amassamentos, danos por fogo ou 
+outras evidências de condição insegura e devem apresentar 
+bom estado de conservação das válvulas, conexões e 
+acessórios. 
+ 
+5.4 Instalações internas de GLP: 
+ 
+5.4.1 As tubulações instaladas devem ser estanques e 
+desobstruídas. 
+5.4.2 A instalação de gás deve ser provida de válvula de 
+fechamento manual em cada ponto em que se tornarem 
+convenientes para a segurança, operação e manutenção da 
+instalação. 
+5.4.3 A tubulação não pode ser considerada como 
+elemento estrutural nem ser instalada interna a ele. 
+5.4.4 A tubulação da rede interna não pode passar no 
+interior de: 
+a) dutos de lixo, ar condicionado e águas pluviais; 
+b) reservatório de água; 
+c) dutos para incineradores de lixo; 
+d) poços e elevadores; 
+e) compartimentos de equipamentos elétricos; 
+f) compartimentos destinados a dormitórios, exceto 
+quando 
+destinada 
+à 
+conexão 
+de 
+equipamento 
+hermeticamente isolado; 
+g) poços de ventilação capazes de confinar o gás 
+proveniente de eventual vazamento; 
+h) qualquer vazio ou parede contígua a qualquer vão 
+formado pela estrutura ou alvenaria, ou por estas e o solo, 
+sem a devida ventilação. Ressalvados os vazios 
+construídos e preparados especificamente para esse fim 
+(shafts), os quais devem conter apenas as tubulações de 
+gás, líquido não inflamáveis e demais acessórios, com 
+ventilação permanente nas extremidades, sendo que estes 
+vazios devem ser sempre visitáveis e previstos em área de 
+ventilação permanente e garantida; 
+i) qualquer tipo de forro falso ou compartilhamento não 
+ventilado; 
+j) locais de captação de ar para sistemas de ventilação; 
+k) todo e qualquer local que propicie o acumulo de gás 
+vazado. 
+ 
+5.4.5 Proteção: 
+ 
+5.4.5.1 Em locais que possam ocorrer choques mecânicos, 
+as tubulações, quando aparentes, devem ser protegidas. 
+5.4.5.2 As válvulas e os reguladores de pressão devem ser 
+instalados de modo a permanecer protegidos contra danos 
+físicos e permitir fácil acesso, conservação e substituição a 
+qualquer tempo, além das exigências contidas na NBR 
+13932. 
+5.4.5.3 Na travessia de elementos estruturais, deve ser 
+utilizado um tubo-luva, conforme o item 5.4.6.2. 
+5.4.5.4 É proibida a utilização de tubulações de gás como 
+aterramento elétrico. 
+5.4.5.5 Quando o cruzamento de tubulações de gás e 
+condutores elétricos for inevitável, deve-se colocar entre 
+elas um material isolante elétrico. 
+ 
+5.4.6 Localização 
+ 
+5.4.6.1 As tubulações aparentes devem:
+
+--- PÁGINA 7 ---
+a) ter as distâncias mínimas entre a tubulação de gás e 
+condutores de eletricidade de 0,30 m, se o condutor for 
+protegido por conduite, e 0,50 m, nos casos contrários; 
+b) ter um afastamento das demais tubulações suficiente 
+para ser realizada manutenção nas mesmas; 
+c) ter afastamento de no mínimo 2 m de pára-raios e seus 
+respectivos pontos de aterramento, de acordo com a NBR 
+5419; 
+d) em caso de superposição de tubulação, a tubulação de 
+gás deve ficar abaixo das outras tubulações. 
+5.4.6.2 O tubo-luva quando for utilizado deve: 
+a) ter no mínimo duas aberturas situadas nas suas 
+extremidades, sendo que as duas devem ter saída para a 
+projeção horizontal fora da edificação, em local seguro e 
+protegido contra a entrada de água, animais e outros 
+objetos estranhos. Opcionalmente, podem ser previstos 
+dispositivos ou sistemas que garantam a exaustão de gás 
+eventualmente vazado. 
+b) nos casos em que não for possível a extremidade 
+inferior estar fora da projeção horizontal, possuir abertura 
+captada de algum ambiente permanentemente ventilado; 
+c) no caso de dutos, manter um afastamento mínimo de 25 
+mm entre a tubulação e as suas paredes internas; 
+d) ter resistência mecânica adequada a possíveis esforços 
+decorrentes das condições de uso; 
+e) estar convenientemente protegido contra a corrosão; 
+f) não apresentar vazamento em toda a sua extensão; 
+g) ser executado com material incombustível e resistente à 
+água; 
+h) estar adequadamente suportado. 
+ 
+5.4.6.3 Recomenda-se o uso mínimo de conexões nas 
+tubulações situadas no interior do tubo-luva. 
+5.4.6.4 Os abrigos de medidores de consumo de GLP 
+devem possuir proteção por um extintor de pó BC. 
+ 
+5.5 Instalações de GLP com abastecimento a granel: 
+ 
+5.5.1 O caminhamento máximo da mangueira flexível 
+deve ser de 55 (cinqüenta e cinco) metros, entre o ponto de 
+estacionamento do veículo abastecedor e a central de GLP. 
+O caminhamento deve ser feito de forma adequada, não 
+transpondo muros, grades ou em outros condições 
+inadequadas, que coloquem em risco a integridade dos 
+equipamentos, a segurança dos operadores ou dificultem o 
+contato visual e a manobra das mangueiras, sendo vedado 
+o içamento ou lançamento de mangueiras por cordas com 
+resistência a tração inferior a 1.000 Kgf ou outros métodos 
+inadequados. 
+5.5.2 Na impossibilidade de atender o item acima, é 
+vedado que a mangueira flexível passe por: 
+a) áreas internas às edificações, em locais sujeitos ao 
+tráfego de veículos sobre a mangueira; 
+b) nas proximidades de fontes de calor ou fontes de 
+ignição como tubulações de vapor, fornos, etc; 
+c) em áreas sociais tais como hall, salões de festas, 
+piscinas, play-grounds; 
+d) próximo a aberturas no piso, como ralos, caixas de 
+gordura, esgoto, bueiros, galerias subterrâneas e similares. 
+5.5.3 O abastecimento deve ser realizado no interior da 
+área onde é descarregado o produto, devendo atender aos 
+seguintes critérios: 
+a) o estacionamento do veículo abastecedor deve ser em 
+área 
+aberta 
+e 
+ventilada, 
+observando 
+o 
+correto 
+posicionamento, 
+desligamento, 
+estabilização 
+e 
+aterramento, dentre outros procedimentos que se façam 
+necessários; 
+b) deverá 
+haver 
+espaço 
+livre 
+para 
+manobra, 
+estacionamento e escape rápido do veículo abastecedor; 
+c) o veículo abastecedor não pode ficar posicionado de 
+forma a interferir na rota de fuga das pessoas, devendo 
+manter um afastamento mínimo de 3 (três) metros dessa. 
+5.5.4 No impedimento de atendimento aos critérios do 
+item acima, deve-se atender aos parágrafos 1º e 2º do 
+artigo 4º  da Portaria ANP nº 47, de 24 de março de 1999, 
+respeitando-se o horário de menor fluxo de pessoas no 
+local do abastecimento. 
+5.5.5 Deve haver comunicação ininterrupta entre os 
+operadores durante a manobra de abastecimento, podendo 
+ser visualmente ou por intermédio de aparelhos de 
+comunicação, à prova de geração de energia que possa 
+iniciar um incêndio. 
+5.5.6 Devem ser realizadas por, no mínimo, 02 (dois) 
+operadores com treinamento dirigido à operação de 
+abastecimento das centrais de GLP e operação de veículos 
+abastecedores; 
+5.5.7 O local de abastecimento deve ser sinalizado 
+(proibição e alerta), impedindo a aproximação de pessoa 
+não habilitada dentro de um raio mínimo de 3,00 metros a 
+contar do ponto de abastecimento e do módulo de 
+operação do veículo abastecedor (traseira do veículo 
+abastecedor). 
+5.5.8 A pessoa jurídica autorizada a exercer a atividade de 
+distribuição de Gás Liqüefeito de Petróleo (GLP) a granel, 
+é responsável pelo procedimento de segurança nas 
+operações de transvasamento, ficando obrigada a orientar 
+os usuários do sistema quanto às normas de segurança a 
+que devam ser obedecidas. 
+5.5.9 As Normas de Segurança acima citadas referem-se 
+ao correto posicionamento, desligamento, travamento e 
+aterramento do veículo transportador, bem como do 
+acionamento das luzes de alerta, sinalização por meio de 
+cones e placas de advertências “PERIGO - PROIBIDO 
+FUMAR”, e prevenção por extintores, dentre outros 
+procedimentos que se façam necessários. 
+ 
+6 CONDIÇÕES DE SEGURANÇA PARA 
+CERCA ELÉTRICA NAS PROXIMIDADES DE 
+CENTRAIS PREDIAIS DE GLP 
+ 
+6.1 A construção de centrais de GLP, em cujas adjacências 
+exista uma cerca eletrificada, para a coexistência de ambas 
+onde se encontram, a cerca eletrificada deverá possuir 
+apoios com isoladores, distante no máximo 50 cm entre 
+eles, de forma a não permitir que, na possibilidade que os 
+fios condutores se romperem, ele fique pendente em mais 
+de 50 cm na região sobre a central. 
+6.1.1 A cobertura da central de GLP deverá ser constituída 
+unicamente por materiais incombustíveis isolantes e que 
+estes, sob quaisquer condições atmosféricas mantenham 
+estas condições.  
+6.1.2 A cobertura da central de GLP deverá conter 
+rugosidades ou saliências que impeçam condutividade 
+elétrica através de água da chuva, de forma a
+
+--- PÁGINA 8 ---
+impossibilitar o aterramento no portão central, nas 
+venezianas 
+laterais 
+ou 
+cilindros, 
+impedindo 
+o 
+centelhamento. 
+6.1.3 A cerca elétrica deverá possuir os afastamentos entre 
+os apoios descritos no item 6.1, até atingir o afastamento 
+de 3 m da central, medidos da lateral destas, em ambos os 
+lados, até a projeção da cerca eletrificada no solo. 
+6.1.4 A cerca eletrificada deverá estar a uma altura mínima 
+de 100 cm acima da laje de cobertura da central de GLP, e 
+no lado oposto ao da abertura dos portões de acesso aos 
+cilindros, não admitindo que ele fique sobre a central de 
+GLP. 
+6.1.5 Não deverá possuir qualquer tipo de objeto metálico, 
+aparente, na construção da central ou na proteção desta, o 
+qual possa servir de aterramento, em caso de contato com 
+um ou mais fios da cerca eletrificada, de forma a produzir 
+centelhamento. 
+6.1.6 Será permitido o emprego de portões metálicos na 
+central de GLP, desde que este fique recuado um mínimo 
+de 30 cm da projeção da cobertura e laterais. 
+6.1.7 Para centrais de GLP de recipientes estacionários 
+com capacidade de 1m3, serão admitidas as condições 
+acima descritas, desde que esta cobertura e estrutura de 
+sustentação da cobertura sejam de materiais isolantes e 
+incombustíveis e mantenham as condições previstas na 
+NBR 13.523. 
+6.1.8 A cerca eletrificada, quando isolada sobre o muro ou 
+gradil, na direção zenital, deverá ter a sua primeira linha 
+eletrificada a uma altura superior a 250 cm, na parte mais 
+baixa, se inclinada para o lado do logradouro público, 
+deverá estar a uma altura superior a 300 cm, em sua parte 
+mais baixa. 
+6.1.9 Havendo algum obstáculo ou recuo do muro ou 
+gradil que impeça o contato acidental de objetos ou parte 
+do corpo na parte eletrificada, esta poderá ser instalada a 
+210 cm da continuidade do muro, em sua parte mais baixa 
+ou a 280 cm em sua parte mais alta, se inclinada na 
+direção do logradouro público.
+
+--- PÁGINA 9 ---
+ANEXO A 
+ 
+Tabela: Afastamentos de segurança para as áreas de armazenamento de recipientes transportáveis de GLP 
+ 
+ 
+ 
+EXIGÊNCIAS 
+CLASSE I 
+CLASSE II 
+CLASSE III 
+CLASSE IV 
+CLASSE V 
+CLASSE VI 
+Capacidade máxima (kg) 
+520 
+ 
+ 
+ 
+ 
+ 
+1560
+6240
+24960
+49920
+99840
+Número de botijões P-13 (unidades) 
+40 
+ 
+ 
+ 
+ 
+ 
+120
+480
+1.920
+3.840
+7680
+Área mínima de armazenamento (m2) 
+4,0 
+ 
+ 
+ 
+ 
+ 
+8,0
+----------
+----------
+----------
+----------
+Número e dimensões de portas para o exterior 
+(unidades) 
+---------- 
+Uma de 1,20 
+m x 2,10 m 
+Duas de 1,50 
+m x 2,10 m 
+Duas de 1,50 
+m x 2,10 m 
+Três de 1,50 
+m x 2,10 m 
+Quatro ou mais de 
+2,00 m x 2,10 m 
+Largura do corredor de inspeção (m) 
+Não 
+ 
+ 
+ 
+ 
+ 
+Não
+1
+1
+1
+1
+Obrigatoriedade de lotes 
+Não 
+ 
+ 
+ 
+ 
+ 
+Não
+Não
+Sim
+Sim
+Sim
+Proteção por sistema de hidrantes para combate a 
+incêndio e resfriamento 
+Não 
+ 
+ 
+ 
+ 
+ 
+Não
+Não
+Sim
+Sim
+Sim
+Detector de vazamento 
+Não 
+ 
+ 
+ 
+ 
+ 
+Não
+Sim
+Sim
+Sim
+Sim
+Limites da propriedade delimitada com muro de 
+1,80 (m) 
+1,5 
+ 
+ 
+ 
+ 
+ 
+3,0
+5,0
+6,0
+7,5
+10,0
+Limites da propriedade sem muro ou muro de 
+altura inferior a 1,80 (m) 
+5,0 
+ 
+ 
+ 
+ 
+ 
+7,5
+15,0
+20,0
+30,0
+50,0
+Vias públicas (m) 
+3,0 
+ 
+ 
+ 
+ 
+ 
+3,0
+7,5
+7,5
+7,5
+15,0
+Escolas, templos, cinemas, hospitais e demais 
+locais de reunião pública (m) 
+20 
+ 
+ 
+ 
+ 
+ 
+30
+80
+100
+150
+180
+Bombas de combustíveis, bocais e respiradores de 
+tanques de inflamáveis, descargas de motores a 
+explosão e máquinas que produzam calor (m) 
+5,0 
+ 
+ 
+ 
+ 
+ 
+7,5
+15,0
+15,0
+15,0
+15,0
+Outras fontes de ignição (m) 
+3,0 
+ 
+ 
+ 
+ 
+ 
+3,0
+5,0
+8,0
+8,0
+10,0
+
+--- PÁGINA 10 ---
+ANEXO B 
+ 
+IMPLANTAÇÃO DA CENTRAL DE GLP E LOCAL DE ESTACIONAMENTO DO VEÍCULO ABASTECEDOR
+
+--- PÁGINA 11 ---
+FIGURA 1 - PLANTA BAIXA DA CENTRAL DE GLP
+
+--- PÁGINA 12 ---
+FIGURA 2 - VISTA “A” DA CENTRAL DE GLP
+
+--- PÁGINA 13 ---
+FIGURA  3 - VISTA “B” DA CENTRAL DE GLP 
+ 
+ 
+ 
+ALTURA MÍNIMA 1,80 M
+
+--- PÁGINA 14 ---
+FIGURA 4 - VISTA “C” DA CENTRAL DE GLP 
+ 
+ 
+ 
+ 
+ 
+ABERTURA OPCIONAL

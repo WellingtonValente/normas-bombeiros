@@ -1,0 +1,317 @@
+--- PÁGINA 1 ---
+INSTRUÇÃO TÉCNICA Nº 14/2017 – SISTEMA DE DETECÇÃO E ALARME DE INCÊNDIO – 2ª Edição 
+ 
+INSTRUÇÃO TÉCNICA APROVADA PELA PORTARIA Nº 28, DE 29 DE ABRIL DE 2017. 
+PUBLICADA NO DOEMG ANO 125, Nº 80, PÁGINA 25 
+  
+  
+ 
+ 
+ 
+INSTRUÇÃO TÉCNICA Nº 14/2017 – 2ª Edição 
+ 
+SISTEMAS DE DETECÇÃO E ALARME DE 
+INCÊNDIO 
+  
+  
+ 
+  
+ SUMÁRIO  
+   
+  
+  
+1 – Objetivo  
+  
+  
+2 – Aplicação  
+  
+  
+  
+3 – Referências Normativas  
+  
+4 – Definições  
+  
+  
+  
+5 – Procedimentos    
+  
+  
+  
+  
+   
+  
+  ____________________________________________________________________________________________________________ 
+DIRETORIADEATIVIDADESTÉCNICAS 
+Rodovia Papa João Paulo II, 4143, 8º andar Prédio Minas - Bairro Serra Verde. Belo Horizonte, Minas Gerais. Cep: 31.630- 900. 
+www.bombeiros.mg.gov.br
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA Nº 14/2017 – SISTEMA DE DETECÇÃO E ALARME DE INCÊNDIO – 2ª Edição 
+ 
+INSTRUÇÃO TÉCNICA APROVADA PELA PORTARIA Nº 28, DE 29 DE ABRIL DE 2017. 
+PUBLICADA NO DOEMG ANO 125, Nº 80, PÁGINA 25 
+1 OBJETIVOS  
+  
+1.1 Estabelecer os requisitos mínimos necessários para o dimensionamento dos 
+sistemas de detecção e alarme de incêndio, na segurança e proteção de uma 
+edificação.  
+  
+1.2 Adequar ao texto da NBR 17240 – Sistema de detecção e alarme de incêndio – 
+Projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme 
+de incêndio, para aplicação na análise e vistoria dos Processos de Segurança Contra 
+Incêndio e Pânico (PSCIP) submetidos ao Corpo de Bombeiros Militar do Estado de 
+Minas Gerais (CBMMG), atendendo ao previsto no Regulamento de Segurança Contra 
+Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais.  
+  
+  
+2 APLICAÇÃO  
+  
+2.1 Esta Instrução Técnica (IT) se aplica a todas as edificações onde se exigem os 
+sistemas de detecção e alarme de incêndio, conforme Regulamento de Segurança 
+Contra Incêndio e Pânico nas edificações e áreas de risco do Estado de Minas Gerais.  
+ 
+2.2 Adota-se a NBR 17240 – Sistema de detecção e alarme de incêndio – Projeto, 
+instalação, comissionamento e manutenção de sistemas de detecção e alarme de 
+incêndio, naquilo que não contrariar o disposto nessa Instrução Técnica. 
+  
+  
+3 REFERÊNCIAS NORMATIVAS  
+  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes 
+normas, levando em consideração todas as suas atualizações e outras que vierem 
+substituí-las:  
+  
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe sobre a prevenção contra 
+incêndio e pânico no Estado de Minas Gerais.  
+  
+Decreto Estadual 44.746 de 29 de fevereiro de 2008, alterado pelo Decreto 46.595 de 
+10 de setembro de 2014. Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais.  
+  
+ABNT NBR17240 – Sistema de detecção e alarme de incêndio - Projeto, instalação, 
+comissionamento e manutenção de sistemas de detecção e alarme de incêndio - 
+Requisitos.  
+  
+ABNT NBR 11836 – Detectores Automáticos de Fumaça Para Proteção Contra 
+Incêndio.  
+ 
+ABNT NBR 13848 – Acionador Manual Para Utilização em Sistemas De Detecção e 
+Alarme de Incêndio.  
+ 
+ABNT NBR 9050 – Acessibilidade e Edificações, Mobiliários, Espaços e Equipamentos 
+Urbanos.
+
+--- PÁGINA 3 ---
+INSTRUÇÃO TÉCNICA Nº 14/2017 – SISTEMA DE DETECÇÃO E ALARME DE INCÊNDIO – 2ª Edição 
+ 
+INSTRUÇÃO TÉCNICA APROVADA PELA PORTARIA Nº 28, DE 29 DE ABRIL DE 2017. 
+PUBLICADA NO DOEMG ANO 125, Nº 80, PÁGINA 25 
+Instrução Técnica 19/2015 CBPMESP – Sistema de Detecção e Alarme De Incêndio. 
+ 
+Instrução Normativa 12/DAT/CBMSC – Sistema De Alarme e Detecção de Incêndio. 
+  
+4 DEFINIÇÕES  
+ 
+Para os efeitos desta Instrução são adotadas as definições da NBR  17240, do 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco 
+no Estado de Minas Gerais e da IT 02 - Terminologia de Proteção Contra Incêndio e 
+Pânico.  
+  
+5 PROCEDIMENTOS  
+  
+5.1 O Processo de Segurança Contra Incêndio e Pânico de sistemas de detecção e 
+alarme de incêndio deve conter os elementos necessários ao seu completo 
+entendimento, onde os procedimentos para elaboração do Projeto Técnico devem 
+atender à IT 01 - Procedimentos Administrativos.  
+  
+5.2 Os detalhes para execução gráfica do Processo de Segurança Contra Incêndio e 
+Pânico devem atender aos procedimentos exigidos pelo Corpo de Bombeiros 
+(CBMMG), conforme IT 03 – Símbolos Gráficos para Projeto de Segurança Contra 
+Incêndio.  
+  
+5.3 Todo sistema deve ter duas fontes de alimentação. A principal é a rede de tensão 
+alternada e a auxiliar é constituída por baterias ou “no-break”. Quando a fonte de 
+alimentação auxiliar for constituída por bateria de acumuladores ou “no-break”, esta 
+deve ter autonomia mínima de 24 horas em regime de supervisão, sendo que no 
+regime de alarme deve ser de no mínimo 15 minutos, para suprimento das indicações 
+sonoras e/ou visuais ou o tempo necessário para a evacuação da edificação. Quando a 
+alimentação auxiliar for por gerador, deverá ter os mesmos parâmetros de autonomia 
+mínima prevista anteriormente.  
+  
+5.4 As centrais de detecção e alarme deverão ter dispositivo de teste dos indicadores 
+luminosos e dos sinalizadores acústicos.   
+  
+5.5 Nas centrais de detecção e/ou alarme é obrigatório conter um painel/esquema 
+ilustrativo indicando a localização com identificação dos acionadores manuais ou 
+detectores dispostos na área da edificação, respeitadas as características técnicas da 
+central. Esse painel pode ser substituído por um display da central que indique a 
+localização do acionamento.  
+  
+5.6 A central de alarme/detecção, o painel repetidor e o painel sinóptico devem ser 
+localizados em áreas de fácil acesso, salas de controle, salas de segurança ou 
+bombeiros, portaria principal ou entrada de edifícios. A central deve ser monitorada, 
+local ou remotamente, 24 horas por dia, por pessoal instruído.  
+ 
+5.6.1 Caso a central não esteja localizada junto à entrada da edificação, recomenda-se 
+a instalação de um painel repetidor ou painel sinóptico próximo da entrada da 
+edificação.
+
+--- PÁGINA 4 ---
+INSTRUÇÃO TÉCNICA Nº 14/2017 – SISTEMA DE DETECÇÃO E ALARME DE INCÊNDIO – 2ª Edição 
+ 
+INSTRUÇÃO TÉCNICA APROVADA PELA PORTARIA Nº 28, DE 29 DE ABRIL DE 2017. 
+PUBLICADA NO DOEMG ANO 125, Nº 80, PÁGINA 25 
+5.6.2 A central não pode ser instalada próxima a materiais inflamáveis ou tóxicos. O 
+local deve ser ventilado e protegido contra a penetração de gases e fumaça.  
+ 
+5.6.3 A central deve ser instalada de forma que sua interface de operação 
+(teclado/visor) fique a uma altura entre 1,40 m e 1,60 m do piso acabado, para 
+operação em pé; para operadores sentados, a interface de operação dever estar entre 
+0,90 m e 1,20 m do piso acabado, para melhor visualização das informações.  
+ 
+5.6.4 O local de instalação da central deve possuir rotas de fuga seguras para os 
+operadores.  
+  
+5.6.5 O local de instalação da central deve permitir a rápida comunicação entre o 
+operador e o Corpo de Bombeiros e a brigada de incêndio.  
+ 
+5.6.6 Deve-se prever um espaço livre mínimo de 1 m² em frente à central, destinado à 
+sua operação e manutenção preventiva e corretiva. 
+  
+5.6.7 A localização do painel repetidor ou painel sinóptico deve atender ao descrito em 
+5.6.2 e 5.6.6 
+   
+5.7 A central deve acionar o alarme geral da edificação, que deve ser audível em toda 
+edificação.  
+5.7.1 Em locais de reunião de público, para se evitar tumulto, poderá haver um pré-
+alarme (sinal sonoro) apenas na sala de segurança, junto à central de alarme para que 
+sejam tomadas as medidas de evacuação por pessoal instruído. 
+ 
+5.7.1.1 A central deve possuir um temporizador para o acionamento posterior do 
+alarme geral, com tempo de retardo de no máximo 2 minutos, caso não sejam tomadas 
+às ações necessárias (na sala de segurança ou portaria 24 horas) para verificar o pré-
+alarme da central.  
+ 
+5.7.1.2 Nesses tipos de locais, pode-se ainda optar por uma mensagem eletrônica 
+automática de orientação de abandono, como pré-alarme, ao invés do alarme geral; 
+sendo que só será aceita essa comunicação, desde que exista brigada de incêndio na 
+edificação.  
+ 
+5.7.1.3 Mesmo com o pré-alarme na central de segurança, o alarme geral é obrigatório 
+para toda a edificação.  
+  
+5.7.2 Onde houver sistema de detecção instalado será obrigatória a instalação de 
+acionadores manuais, exceto para ocupação da divisão F-6, onde o acionador manual 
+é opcional nas áreas de concentração de público e obrigatório nas demais áreas.  
+ 
+5.7.3 Nos locais de reunião de público, divisão F-6 (Boates, salões de baile, 
+restaurantes dançantes e casas de show) onde se tem alta intensidade sonora, será 
+obrigatória também a instalação de avisadores visuais, quando houver a exigência de 
+sistema de Alarme de Incêndio.
+
+--- PÁGINA 5 ---
+INSTRUÇÃO TÉCNICA Nº 14/2017 – SISTEMA DE DETECÇÃO E ALARME DE INCÊNDIO – 2ª Edição 
+ 
+INSTRUÇÃO TÉCNICA APROVADA PELA PORTARIA Nº 28, DE 29 DE ABRIL DE 2017. 
+PUBLICADA NO DOEMG ANO 125, Nº 80, PÁGINA 25 
+  
+5.7.4 Nos locais onde, devido a sua atividade sonora intensa, não seja possível ouvir o 
+alarme geral, será obrigatória a instalação de avisadores visuais e sonoros.  
+ 
+5.8 A distância máxima a ser percorrida por uma pessoa, em qualquer ponto da área 
+protegida até o acionador manual mais próximo, não pode ser superior a 30 (trinta) 
+metros. 
+  
+5.9 Preferencialmente, os acionadores manuais devem ser localizados nas áreas 
+comuns de acesso e/ou circulação, próximo aos pontos de fuga ou próximo aos 
+equipamentos de combate a incêndio, como extintores ou hidrantes. 
+ 
+5.10 Os acionadores manuais devem ser instalados a uma altura entre 0,90 m e 1,35 m 
+do piso acabado, na forma embutida ou de sobrepor, na cor vermelho segurança.  
+ 
+5.11 Nas edificações com mais de um pavimento, devem ser previsto pelo menos um 
+acionador manual em cada pavimento. Os mezaninos estarão dispensados desta 
+exigência, caso o acionador manual do piso principal dê cobertura/caminhamento para 
+a área do mezanino, atendendo o item 5.8.  
+ 
+5.12 Os acionadores manuais instalados na edificação devem obrigatoriamente conter 
+a indicação de funcionamento (cor verde) e alarme (cor vermelha) indicando o 
+funcionamento e supervisão do sistema, quando a central do sistema for do tipo 
+convencional. Quando a central for do tipo inteligente, dispensa-se a presença dos leds 
+nos acionadores, mas obrigatoriamente devem ter essa supervisão na central.  
+  
+5.13 Quando houver exigência de sistema de detecção para uma edificação, será 
+obrigatória a instalação de detectores nos entreforros e entrepisos (pisos falsos) que 
+contenham instalações com materiais combustíveis.  
+  
+5.14 A seleção do tipo e do local de instalação dos detectores deve ser efetuada com 
+base nas características mais prováveis de um princípio de incêndio e do julgamento 
+técnico, considerando-se os parâmetros: aumento da temperatura, produção de 
+fumaça, produção de chama, materiais existentes nas áreas protegidas, forma e altura 
+do teto, ventilação do ambiente, temperaturas típica e máxima de aplicação, entre 
+outras características de cada instalação, conforme requisitos técnicos dos 
+equipamentos.  
+ 
+5.15 Se a área supervisionada possuir poeira, fumaça ou gases agressivos, que 
+eventualmente afetem a operação ou diminuam o intervalo entre as manutenções e a 
+vida útil projetada dos detectores, ou que indiquem a possibilidade de alarmes 
+indesejáveis, o projetista deve anotar essas considerações no projeto e manual de 
+manutenção.  
+ 
+5.16 Os tipos mais comuns de detectores utilizados são:  
+a) detectores pontuais de fumaça;   
+b) detectores pontuais de temperatura;   
+c) detectores de chama;   
+d) detectores de fumaça por amostragem de ar;   
+e) detectores lineares de fumaça;
+
+--- PÁGINA 6 ---
+INSTRUÇÃO TÉCNICA Nº 14/2017 – SISTEMA DE DETECÇÃO E ALARME DE INCÊNDIO – 2ª Edição 
+ 
+INSTRUÇÃO TÉCNICA APROVADA PELA PORTARIA Nº 28, DE 29 DE ABRIL DE 2017. 
+PUBLICADA NO DOEMG ANO 125, Nº 80, PÁGINA 25 
+f) detectores lineares de temperatura.  
+ 
+5.17 Os elementos de proteção contra calor que contenham a fiação do sistema 
+deverão ter resistência mínima de 60 minutos.  
+  
+5.18 Os eletrodutos e a fiação devem atender aos requisitos da NBR 17240.  
+  
+5.19 É admitida a utilização do sistema de detecção e alarme de incêndio com o uso de 
+dispositivos por radiofrequência e sem utilização de fiação analógica, para aplicação 
+nas edificações e demais áreas de risco no Estado de Minas Gerais.  
+  
+5.19.1 Para o dispositivo anterior, poderá ser observado o disposto na NFPA 72 em 
+seu Capítulo VI ou outra(s) literatura(s) internacional(is) científica(s) pertinente(s) 
+consagrada(s), desde que atenda ao dispositivo proposto, para fins de utilização do 
+sistema referenciado, além do contido nesta Instrução, no que for pertinente e demais 
+normas correlatas constantes no Regulamento de Segurança Contra Incêndio e Pânico 
+para as Edificações e Áreas de Risco no Estado de Minas Gerais.  
+ 
+5.19.2 Devem ser emitido o Laudo Técnico e a respectiva Anotação de 
+Responsabilidade Técnica - ART, assinados pelo Responsável Técnico pela empresa 
+que detém a responsabilidade técnica pelo sistema de detecção e alarme de incêndio 
+com o uso de dispositivo por radiofrequência e sem utilização de fiação analógica, de 
+forma a respaldar a eficiência do sistema referenciado frente a possíveis situações que 
+possam inviabilizar o seu funcionamento, a exemplo ações de eletroímãs e 
+interferências causadas por outros dispositivos por radiofrequência.  
+  
+5.20 Quando da apresentação do PSCIP deverá constar descrição do Sistema 
+Detecção e Alarme de Incêndio com as seguintes informações:  
+  
+a) tipo de sistema de detecção e alarme; 
+b) fonte de alimentação e autonomia;  
+c) esquema de ligação e identificação dos dispositivos (isométrico);  
+d) especificação dos equipamentos e características;  
+e) quantidade, tipo de detectores e parâmetro para escolha, conforme item 5.15;  
+f) número de acionadores manuais; 
+g) interligação com outros sistemas preventivos.  
+ 
+5.21 Os parâmetros e valores de referência devem ter por base a NBR 17240.   
+ 
+5.22 Sistema de detecção em edificações com escadas pressurizadas devem ser 
+seguidos os paramentos regulamentados na Instrução Técnica 10 – Pressurização de 
+Escada de Segurança. 
+5.23 Nos casos que houver a exigência da medida de segurança Controle de fumaça 
+devem ser seguidos os paramentos regulamentados na Instrução Técnica 41 - Controle 
+de Fumaça.

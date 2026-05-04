@@ -1,0 +1,1007 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 09 
+1ª edição 
+CARGA DE INCÊNDIO NAS 
+EDIFICAÇOES E ÁREAS DE RISCO 
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências normativas e 
+bibliográficas 
+4 – Definições e conceitos 
+5 – Procedimentos 
+ 
+ 
+ANEXOS 
+A – Cargas de Incêndio Específicas por 
+Ocupação 
+B – Método para Levantamento da 
+Carga de Incêndio Específica
+
+--- PÁGINA 2 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+2/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+1 OBJETIVO 
+Estabelecer valores característicos de carga de incêndio nas edificações e áreas de risco, 
+conforme a ocupação e uso específico.  
+2 APLICAÇÃO 
+2.1 As densidades de carga de incêndio constantes do anexo A desta instrução aplicam-se às 
+edificações e áreas de riscos para classificação do risco e determinação do nível de exigência 
+das medidas de segurança contra incêndio, conforme prescreve o contido no Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais, nas situações em que há uma aceitável uniformidade na sua distribuição espacial, a 
+critério do responsável técnico do projeto de segurança contra incêndio. 
+2.2 Quando a densidade de carga de incêndio não for uniformemente distribuída sobre a área de 
+piso da edificação, a critério do responsável técnico do projeto de segurança contra incêndio, a 
+densidade de carga de incêndio característica poderá ser determinada por medição direta, 
+segundo o método descrito no Anexo B. 
+2.3 Nas edificações em que a densidade de carga de incêndio superar em quantidade os valores 
+característicos dados nesta Instrução, a critério do responsável técnico pelo projeto de 
+segurança contra incêndio, deverá necessariamente ser feita a medição direta, conforme o item 
+2.2. 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, levando 
+em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR – 14432 – Exigências de resistência ao fogo de elementos construtivos de edificações – 
+Procedimento. 
+European Committee for Standardization. Eurocode 1 – ENV 1991-2-2. 1995. 
+Liga Federal de Combate a Incêndio da Áustria. TRVB – 126. 1987. 
+4 DEFINIÇÕES E CONCEITOS 
+4.1 Definições 
+Para efeito desta Instrução Técnica, aplicam-se as definições constantes da IT 02 (Terminologia 
+de Proteção Contra Incêndio e Pânico). 
+4.2 Conceitos
+
+--- PÁGINA 3 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+3/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+Para efeito desta Instrução, aplicam-se os conceitos abaixo descritos: 
+4.2.1 Carga de incêndio 
+É a soma das energias caloríficas possíveis de serem liberadas pela combustão completa de 
+todos os materiais combustíveis em um espaço, inclusive os revestimentos das paredes, 
+divisórias, pisos e tetos. 
+4.2.2 Densidade de carga de incêndio ou Carga de incêndio específica 
+É o valor da carga de incêndio dividido pela área de piso do espaço considerado, expresso em 
+megajaule (MJ) por metro quadrado (m²) ou em quilogramas equivalente de madeira seca.  
+5 PROCEDIMENTOS 
+5.1 Para determinação da carga de incêndio específica das edificações aplica-se a tabela 
+constante do Anexo A, sendo que para edificações, destinadas a depósitos (Grupo “J”), 
+explosivos (Grupo “L”) e ocupações especiais (Grupo “M”) aplica-se a metodologia constante do 
+Anexo B. 
+5.1.1 Ocupações não listadas na tabela do Anexo A devem ter os valores da carga de incêndio 
+específica determinados por similaridade, a critério do responsável técnico do projeto de 
+segurança contra incêndio. Pode-se admitir a similaridade entre as edificações comerciais (grupo 
+“C”) e industriais (grupo “I”). 
+5.2 O levantamento da carga de incêndio específica constante do Anexo B deve ser realizado 
+em módulos de área em que a distribuição da carga de incêndio seja considerada uniforme, a 
+critério do responsável técnico do projeto de segurança contra incêndio, sendo de no máximo 
+500 m². Excepcionalmente, módulos maiores de 500 m² podem ser utilizados quando o espaço 
+analisado possuir materiais 
+combustíveis 
+com potenciais 
+caloríficos 
+semelhantes e 
+uniformemente distribuídos. 
+5.2.1 A carga de incêndio específica do piso analisado deve ser tomada como sendo o maior 
+entre a média das cargas de incêndio dos dois módulos de maior valor ou 85% da carga de 
+incêndio do módulo de maior valor. 
+5.2.2 Em processos de segurança contra incêndio e pânico de depósitos a construir, ou de 
+depósitos já construídos que estejam desocupados, o Responsável Técnico deve definir a carga 
+incêndio da edificação com base nas características informadas pelo proprietário ou responsável 
+pelo uso. 
+5.2.3 Após a ocupação da edificação, verificando-se o acréscimo de carga incêndio que enseje 
+em novas medidas de segurança ou em parâmetros mais rigorosos, deverá ser feita a 
+modificação do PSCIP. 
+5.3 Considerar que 1 kg (um quilograma) de madeira seca equivale a 19 megajoules. 
+Para determinação do risco de incêndio a que se refere à tabela 3 e 4 do Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas 
+Gerais, as edificações e áreas de risco quanto à Carga Incêndio se classificam em:
+
+--- PÁGINA 4 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+4/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ 
+ 
+ 
+ 
+ 
+CLASSIFICAÇÃO DAS EDIFICAÇÕES E ÁREAS DE 
+RISCO QUANTO À CARGA INCÊNDIO 
+Risco 
+Carga Incêndio MJ/m² 
+Baixo 
+Até 300 MJ/m² 
+Médio 
+Acima de 300 até 1.200 MJ/m² 
+Alto 
+Acima de 1.200 MJ/m²
+
+--- PÁGINA 5 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+5/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ANEXO A 
+Cargas de incêndio específicas por ocupação (normativo) 
+Para a classificação detalhada das ocupações (Divisão) consultar a Tabela 1 do Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+ 
+Residencial 
+Alojamentos estudantis 
+A-3 
+300 
+Apartamentos 
+A-2 
+300 
+Casas térreas ou sobrados 
+A-1 
+300 
+Pensionatos 
+A-3 
+300 
+Serviço de 
+Hospedagem 
+Hotéis 
+B-1 
+500 
+Motéis 
+B-1 
+500 
+Apart-hotéis 
+B-2 
+300 
+Comercial varejista, 
+Loja 
+Açougue 
+C-1 
+40 
+Antiguidades 
+C-2 
+700 
+Aparelhos domésticos 
+C-1 
+300 
+Armarinhos 
+C-1 
+300 
+Armas 
+C-1 
+300 
+Artigos de bijouteria, metal ou vidro. 
+C-1 
+300 
+Artigos de cera 
+C-2 
+2100 
+Artigos de couro, borracha, esportivos. 
+C-2 
+800 
+Automóveis 
+C-1 
+200 
+Bebidas destiladas 
+C-2 
+700 
+Brinquedos 
+C-2 
+500 
+Calçados 
+C-2 
+500 
+Drogarias (incluindo depósitos) 
+C-2 
+1000 
+Ferragens 
+C-1 
+300 
+Floricultura 
+C-1 
+80 
+Galeria de quadros 
+C-1 
+200 
+Livrarias 
+C-2 
+1000 
+Lojas de departamento ou centro de 
+compras (Shoppings) 
+C-2 / C-3 
+800 
+Máquinas de costura ou de escritório 
+C-1 
+300 
+Materiais fotográficos 
+C-1 
+300 
+Móveis 
+C-2 
+400 
+Papelarias 
+C-2 
+700 
+Perfumarias 
+C-2 
+400 
+Produtos têxteis 
+C-2 
+600 
+Relojoarias 
+C-2 
+600 
+Supermercados 
+C-2 
+400 
+Tapetes 
+C-2 
+800 
+Tintas e vernizes 
+C-2 
+1000 
+Verduras frescas 
+C-1 
+200 
+Vinhos 
+C-1 
+200 
+Vulcanização 
+C-2 
+1000 
+Serviços profissionais, 
+pessoais e técnicos 
+Agências bancárias 
+D-2 
+300 
+Agências de correios 
+D-1 
+400 
+Centrais telefônicas 
+D-1 
+100 
+Cabeleireiros 
+D-1 
+200 
+Copiadora 
+D-1 
+400 
+Encadernadoras 
+D-1 
+1000 
+Escritórios 
+D-1 
+700 
+Estúdios de rádio ou de televisão ou de 
+fotografia 
+D-1 
+300 
+Laboratórios químicos 
+D-4 
+500 
+Laboratórios (outros) 
+D-4 
+300 
+Lavanderias 
+D-3 
+300 
+Oficinas elétricas 
+D-3 
+600 
+Oficinas hidráulicas ou mecânicas 
+D-3 
+200 
+Pinturas 
+D-3 
+500 
+Processamentos de dados 
+D-1 
+400
+
+--- PÁGINA 6 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+6/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Educacional e 
+cultura física 
+Academias de ginástica e similares 
+E-3 
+300 
+Pré-escolas e similares 
+E-5 
+300 
+Creches e similares 
+E-5 
+300 
+Escolas em geral 
+E1/E2/E4/E6 
+300 
+Locais de reunião de 
+público 
+Bibliotecas 
+F-1 
+2000 
+Cinemas, teatros e similares 
+F-5 
+600 
+Circos e assemelhados 
+F-7 
+500 
+Centros esportivos e de exibição 
+F-3 
+150 
+Clubes sociais, boates e similares. 
+F-6 
+600 
+Estações e terminais de passageiros 
+F-4 
+200 
+Exposições 
+F-10 
+Adotar Anexo B 
+Igrejas e templos 
+F-2 
+200 
+Museus 
+F-1 
+300 
+Restaurantes 
+F-8 
+300 
+Serviços automotivos e 
+assemelhados 
+Estacionamentos 
+G-1/G-2 
+200 
+Oficinas de conserto de veículos e 
+manutenção 
+G-4 
+300 
+Postos de abastecimentos (tanque 
+anterrado) 
+G-3 
+300 
+Hangares 
+G-5 
+200 
+Serviços de saúde e 
+Institucionais 
+Asilos 
+H-2 
+350 
+Clínicas e consultórios médicos ou 
+odontológicos. 
+H-6 
+200 
+Hospitais em geral 
+H-1/H-3 
+300 
+Presídios e similares 
+H-5 
+100 
+Quartéis e similares 
+H-4 
+450 
+Industrial 
+Aparelhos eletroeletrônicos, 
+fotográficos, ópticos. 
+I-2 
+400 
+Acessórios para automóveis 
+I-1 
+300 
+Acetileno 
+I-2 
+700 
+Alimentação 
+I-2 
+800 
+Artigos de borracha, cortiça, couro, 
+feltro, espuma.  
+I-2 
+600 
+Artigos de argila, cerâmica ou 
+porcelanas. 
+I-1 
+200 
+Artigos de bijuteria 
+I-1 
+200 
+Artigos de cera 
+I-2 
+1000 
+Artigos de gesso 
+I-1 
+80 
+Artigos de mármore 
+I-1 
+40 
+Artigos de peles 
+I-2 
+500 
+Artigos de plásticos em geral 
+I-2 
+1000 
+Artigos de tabaco 
+I-1 
+200 
+Artigos de vidro 
+I-1 
+80 
+Automotiva e autopeças (exceto pintura) 
+I-1 
+300 
+Automotiva e autopeças (pintura) 
+I-2 
+500 
+Aviões 
+I-2 
+600 
+Balanças 
+I-1 
+300 
+Baterias 
+I-2 
+800 
+Bebidas destilada 
+I-2 
+500 
+Bebidas não alcoólicas 
+I-1 
+80 
+Bicicletas 
+I-1 
+200 
+Brinquedos 
+I-2 
+500 
+Café (inclusive torrefação) 
+I-2 
+400 
+Caixotes barris ou pallets de madeira 
+I-2 
+1000 
+Calçados 
+I-2 
+600 
+Carpintarias e marcenarias 
+I-2 
+800 
+Cera de polimento 
+I-3 
+2000 
+Cerâmica 
+I-1 
+200 
+Cereais 
+I-3 
+1700 
+ 
+Cervejarias 
+I-1 
+80 
+Chapas de aglomerado ou compensado 
+I-1 
+300 
+Chocolate 
+I-2 
+400 
+Cimento 
+I-1 
+40
+
+--- PÁGINA 7 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+7/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+Cobertores, tapetes. 
+I-2 
+600 
+Colas 
+I-2 
+800 
+Colchões (exceto espuma) 
+I-2 
+500 
+Condimentos, conservas. 
+I-1 
+40 
+Confeitarias 
+I-2 
+400 
+Congelados 
+I-2 
+800 
+Couro sintético 
+I-2 
+1000 
+Defumados 
+I-1 
+200 
+Discos de música 
+I-2 
+600 
+Doces 
+I-2 
+800 
+Espumas 
+I-3 
+3000 
+Farinhas 
+I-3 
+2000 
+Feltros 
+I-2 
+600 
+Fermentos 
+I-2 
+800 
+Fiações 
+I-2 
+600 
+Fibras sintéticas 
+I-1 
+300 
+Fios elétricos 
+I-1 
+300 
+Flores artificiais 
+I-1 
+300 
+Fornos de secagem com grade de 
+madeira 
+I-2 
+1000 
+Forragem 
+I-3 
+2000 
+Fundições de metal 
+I-1 
+40 
+Galpões de secagem com grade de 
+madeira 
+I-2 
+400 
+Geladeiras 
+I-2 
+1000 
+Gelatinas 
+I-2 
+800 
+Gesso 
+I-1 
+80 
+Gorduras comestíveis 
+I-2 
+1000 
+Industrial 
+Gráficas (empacotamento) 
+I-3 
+2000 
+Gráficas (produção) 
+I-2 
+400 
+Guarda-chuvas 
+I-1 
+300 
+Instrumentos musicais 
+I-2 
+600 
+Janelas e portas de madeira 
+I-2 
+800 
+Jóias 
+I-1 
+200 
+Laboratórios farmacêuticos 
+I-1 
+300 
+Laboratórios químicos 
+I-2 
+500 
+Lápis 
+I-2 
+600 
+Lâmpadas 
+I-1 
+40 
+Laticínios 
+I-1 
+200 
+Malharias 
+I-1 
+300 
+Máquinas de lavar de costura ou de 
+escritório 
+I-1 
+300 
+Massas alimentícias 
+I-2 
+1000 
+Mastiques 
+I-2 
+1000 
+Materiais sintéticos ou plásticos 
+I-3 
+2000 
+Metalúrgica 
+I-1 
+200 
+Montagens de automóveis 
+I-1 
+300 
+Motocicletas 
+I-1 
+300 
+Motores elétricos 
+I-1 
+300 
+Móveis 
+I-2 
+600 
+Óleos comestíveis 
+I-2 
+1000 
+Padarias 
+I-2 
+1000 
+Papéis (acabamento) 
+I-2 
+500 
+Papéis (preparo de celulose) 
+I-1 
+80 
+Papéis (procedimento) 
+I-2 
+800 
+Papelões betuminados 
+I-3 
+2000 
+Papelões ondulados 
+I-2 
+800 
+Pedras 
+I-1 
+40 
+Perfumes 
+I-1 
+300 
+Pneus 
+I-2 
+700 
+Produtos adesivos 
+I-2 
+1000 
+Produtos de adubo químico 
+I-1 
+200 
+Produtos alimentícios (expedição) 
+I-2 
+1000
+
+--- PÁGINA 8 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+8/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+Ocupação/Uso 
+Descrição 
+Divisão 
+Carga de incêndio (qfi) 
+em MJ/m² 
+ 
+Produtos com ácido acético 
+I-1 
+200 
+Produtos com ácido carbônico 
+I-1 
+40 
+Produtos com ácido inorgânico 
+I-1 
+80 
+Produtos com albumina 
+I-3 
+2000 
+Produtos com alcatrão 
+I-2 
+800 
+Produtos com amido 
+I-3 
+2000 
+Produtos com soda 
+I-1 
+40 
+Produtos de limpeza 
+I-3 
+2000 
+Produtos graxos 
+I-2 
+1000 
+Produtos refratários 
+I-1 
+200 
+Rações 
+I-3 
+2000 
+Relógios 
+I-1 
+300 
+Resinas 
+I-3 
+3000 
+Roupas 
+I-2 
+500 
+Sabões 
+I-1 
+300 
+Sacos de papel 
+I-2 
+800 
+Industrial 
+Sacos de juta 
+I-2 
+500 
+Sorvetes 
+I-1 
+80 
+Sucos de fruta 
+I-1 
+200 
+Tapetes 
+I-2 
+600 
+Têxteis em geral 
+I-2 
+700 
+Tintas e solventes 
+I-3 
+4000 
+Tintas látex 
+I-2 
+800 
+Tintas não-inflámaveis 
+I-1 
+200 
+Transformadores 
+I-1 
+200 
+Tratamento de madeira 
+I-3 
+3000 
+Tratores 
+I-1 
+300 
+Vagões 
+I-1 
+200 
+Vassouras ou escovas 
+I-2 
+700 
+Velas de cera 
+I-3 
+1300 
+Vidros ou espelhos 
+I-1 
+200 
+Vinagres 
+I-1 
+80 
+Demais usos 
+Demais atividades não enquadradas 
+acima 
+Levantamento da carga de incêndio conforme 
+Anexo B
+
+--- PÁGINA 9 ---
+CBMMG IT 09 – Carga de Incêndio nas Edificações e Áreas de Risco 
+ 
+1ª edição 
+ 
+9/9 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+ 
+ANEXO B 
+ Método para levantamento da carga de incêndio específica (normativo) 
+B.1 Os valores da carga de incêndio específica para as edificações destinadas a depósitos, explosivos e 
+ocupações especiais podem ser determinadas pela seguinte expressão: 
+𝐪𝐟𝐢= ∑𝐌𝐢𝐇𝐢
+𝐀𝐟
+ 
+Onde: 
+qfi – valor da carga de incêndio específica, em megajoule por metro quadrado de área de piso;  
+Mi – massa total de cada componente i do material combustível, em quilograma. Esse valor não poderá ser 
+excedido durante a vida útil da edificação exceto quando houver alteração de ocupação, ocasião em que Mi 
+deverá ser reavaliado;  
+Hi – potencial calorífico específico de cada componente i do material combustível, em megajoule por quilograma, 
+conforme Tabela B.1 abaixo;  
+Af – área do piso do compartimento, em metro quadrado.  
+B.2 O levantamento da carga de incêndio deverá ser realizado conforme item 5 (Procedimento) desta Instrução.  
+B.3 A compensação do teor de umidade de uma determinada massa de material combustível poderá ser feita 
+desde que demonstrado por meio de ensaio específico.  
+B.4 Além dos potenciais caloríficos dados na Tabela B.1, resultados obtidos por meio de ensaios específicos em 
+cone calorímetros podem ser utilizados. 
+Tabela B.1 -Valores do potencial calorífico específico 
+Tipo de material 
+H 
+(MJ/kg) 
+  
+Tipo de material 
+H 
+(MJ/kg) 
+  
+Tipo de material 
+H 
+(MJ/kg) 
+  
+  
+Acetona 
+30 
+  
+Fibra sintética 6,6 
+29 
+  
+Poliacrilonitrico 
+30 
+Acrílico 
+28 
+  
+Grãos 
+17 
+  
+Policarbonato 
+29 
+Algodão 
+18 
+  
+Graxa, Lubrificante. 
+41 
+  
+Poliéster 
+31 
+Benzeno 
+40 
+  
+Lã 
+23 
+  
+Poliestireno 
+39 
+Borracha 
+Espuma – 37   
+Lixo de cozinha 
+18 
+  
+Polietileno 
+44 
+Tiras – 32 
+  
+Madeira 
+19 
+  
+Polimetilmetacrilico 
+24 
+Celulose 
+16 
+  
+Metano 
+50 
+  
+Polioximetileno 
+15 
+C-Hexano 
+43 
+  
+Metanol 
+19 
+  
+Poliuretano 
+23 
+Couro 
+19 
+  
+Monóxido de carbono 
+10 
+  
+Polipropileno 
+43 
+D-glucose 
+15 
+  
+N-Butano 
+45 
+  
+Polivinilclorido 
+16 
+Epóxi 
+34 
+  
+N-Octano 
+44 
+  
+Propano 
+46 
+Etano 
+47 
+  
+N-Pentano 
+45 
+  
+PVC 
+17 
+Etanol 
+26 
+  
+Palha 
+16 
+  
+Resina melamínica 
+18 
+Eteno 
+50 
+  
+Papel 
+17 
+  
+Seda 
+19 
+Etino 
+48 
+  
+Petróleo 
+41

@@ -1,0 +1,1110 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 37 
+2ª edição 
+CENTROS ESPORTIVOS E DE 
+EXIBIÇÃO: REQUISITOS DE 
+SEGURANÇA CONTRA INCÊNDIO E 
+PÂNICO 
+ 
+Aprovada pela portaria n. 14, de 19abr2013. 
+Alterada pela portaria n. 16, de 26dez2013. 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp.06 e 07. 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências normativas e 
+bibliográficas 
+4 – Definições  
+5 – Requisitos 
+ 
+6 – Outras exigências  
+7 – Edificações de caráter temporário  
+8 – Edificações existentes 
+9 – Prescrições diversas  
+10 – Procedimentos administrativos  
+11 – Vigência  
+ANEXOS 
+A – Exemplos de dimensionamento de 
+saídas
+
+--- PÁGINA 2 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+2/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+1 OBJETIVO 
+Estabelecer os requisitos mínimos necessários para a segurança contra incêndio e pânico em 
+centros esportivos e de exibição, em especial quanto à determinação da população máxima e o 
+dimensionamento das saídas de emergência em centros esportivos e de exibição. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica aplica-se:  
+a) às edificações enquadradas nas Divisões F-3 (arenas em geral, estádios, ginásios e 
+piscinas, rodeios, autódromos, sambódromos, pistas de patinação e assemelhados, todos com 
+arquibancada); e 
+b) de forma subsidiária, às ocupações F-7 (circos, eventos temporários, feiras em geral, shows 
+e assemelhados) fechadas ou abertas, cobertas ou ao ar livre, nas matérias não tratadas pela 
+IT 33. 
+2.2 As demais Instruções Técnicas, em especial a IT 08 (Saídas de Emergência em 
+Edificações), IT 12 (Brigada de Incêndio), IT 15 (Sinalização de Emergência) e IT 33 (Eventos 
+temporários) completarão o presente texto nos assuntos não detalhados nesta IT. 
+3 REFERÊNCIAS  
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Federal n. 10.671/2003 – Dispõe sobre o Estatuto de Defesa do Torcedor e dá outras 
+providências. 
+Decreto Federal n. 6.795/2009 – Regulamenta o art. 23 da Lei n. 10.671/ 2003. 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 5410 – Instalações elétricas de baixa tensão. 
+NBR 5419 – Proteção de estruturas contra descargas atmosféricas. 
+NBR 9050 – Adequação das edificações e do imobiliário urbano à pessoa 
+deficiente.  
+NBR 9077 – Saídas de emergência em edificações 
+NBR 17240 – Sistemas de Detecção e Alarme de Incêndio.  
+NBR 15219 – Plano de emergência contra incêndio – Requisitos.
+
+--- PÁGINA 3 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+3/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+NBR 15476 – Móveis plásticos – assentos plásticos para estádios desportivos e lugares 
+públicos não cobertos. 
+NBR 15816 – Móveis plásticos – assentos plásticos para estádios desportivos e lugares 
+públicos fechados. 
+NFPA-101 - Life Safety Code Handbook. 18.ed. Quincy: NFPA, 2000. 
+FIFA. Football Stadiums -Technical recommendations and requirements. 4.ed. FIFA: Zurich, 
+2007. GUIDE TO SAFETY AT SPORTS GROUNDS (Green Guide). 5.ed. United Kingdom, 
+2008. 
+PORTUGAL – Decreto Regulamentar n. 34/1995. Regulamento das Condições Técnicas e de 
+Segurança dos Recintos de Espetáculos e Divertimentos Públicos. 
+PORTUGAL – Decreto Regulamentar n. 10/2001. 
+COELHO, Antônio Leça. Modelação matemática do abandono de edifícios sujeitos à ação de 
+um incêndio. Faculdade de Engenharia da Universidade do Porto, Portugal. COTÉ, Ron.  
+4 DEFINIÇÕES 
+4.1 Aplicam-se as definições constantes da IT 02 (Terminologia de Segurança Contra Incêndio).  
+Abaixo, definições específicas desta Instrução Técnica: 
+4.1.1 Acesso: caminho a ser percorrido pelos usuários do pavimento ou do setor, constituindo a 
+rota de saída para se alcançar uma escada, ou uma rampa, ou uma área de refúgio, ou descarga 
+para saída do recinto. Os acessos podem ser constituídos por corredores, passagens, 
+vestíbulos, balcões, varandas, terraços e similares. 
+4.1.2 Acesso lateral: é um corredor de circulação paralelo às filas (fileiras) de assentos ou 
+arquibancadas, geralmente possui piso plano ou levemente inclinado (rampa). Ver Figura 1. 
+4.1.3 Acesso radial: é um corredor de circulação que dá acesso direto na área de acomodação 
+dos espectadores (patamares das arquibancadas), podendo ser inclinado (rampa) ou com 
+degraus. Deve ter largura mínima de 1,20 m. Ver Figura 1. 
+4.1.4 Arquibancada: série de assentos em filas sucessivas, cada uma em plano mais elevado 
+que a outra, em forma de degraus, e que se destina a dar melhor visibilidade aos espectadores, 
+em estádios, anfiteatros, circos, auditórios, etc. Podem ser providas de assentos (cadeiras ou 
+poltronas) ou não. Há também a modalidade de arquibancadas para público em pé. 
+4.1.5 Barreiras: Estruturas físicas destinadas a impedir ou dificultar a livre circulação de 
+pessoas. 
+4.1.6 Barreiras antiesmagamento: barreiras destinadas a evitar esmagamentos dos 
+espectadores, devido à pressão da multidão aglomerada nas áreas de acomodação de público 
+em pé. 
+4.1.7 Descarga: parte da saída de emergência que fica entre a escada ou a rampa e a via 
+pública ou área externa em comunicação com a via pública. Pode ser constituída por corredores 
+ou átrios cobertos ou a céu aberto. 
+4.1.8 Local de segurança: local fora da edificação, no qual as pessoas estão sem perigo
+
+--- PÁGINA 4 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+4/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+imediato dos efeitos do fogo. 
+4.1.9 Local de relativa segurança: local dentro de uma edificação ou estrutura onde, por um 
+período limitado de tempo, as pessoas têm alguma proteção contra os efeitos do fogo e da 
+fumaça. Este local deve possuir resistência ao fogo e elementos construtivos, de acabamento e 
+de revestimentos incombustíveis, proporcionando às pessoas continuarem sua saída para um 
+local de segurança. Exemplos: escadas de segurança, escadas abertas externas, corredores de 
+circulação (saída) ventilados (mínimo de 1/3 da lateral com ventilação permanente). 
+4.1.10 Plano de abandono: conjunto de normas e ações visando à remoção rápida, segura, de 
+forma ordenada e eficiente de toda a população fixa e flutuante da edificação em caso de uma 
+situação de sinistro. 
+4.1.11 Plano de Emergência: Documento estabelecido em função dos riscos da edificação, 
+que encerra um conjunto de ações e procedimentos a serem adotados, visando à proteção da 
+vida, do meio ambiente e do patrimônio, bem como a redução das consequências de sinistros. 
+4.1.12 Posto de Comando: Local fixo ou móvel, com representantes de todos os órgãos 
+envolvidos no atendimento de uma emergência. 
+4.1.13 Sala de Monitoramento de Segurança Integrada: local instalado em ponto estratégico 
+que proporcione visão geral de todo recinto (setores de público, campo, quadra, arena etc.), 
+devidamente equipada com os todos os recursos de informação e de comunicação disponíveis 
+no local, destinado à instalação de um Posto de Comando Integrado das operações 
+desenvolvidas pelos órgãos de Defesa Civil e Segurança Pública (Corpo de Bombeiros e Polícia 
+Militar), em situação de normalidade. 
+4.1.14 Setor: Espaço delimitado para acomodação dos espectadores, permitindo a ocupação 
+ordenada do recinto. 
+4.1.15 Taxa de fluxo (F): número de pessoas que passam, por minuto, por determinada largura 
+de saída (pessoas/minuto). 
+4.1.16 Tempo de saída: é o tempo no qual todos os espectadores, em condições normais, 
+conseguem deixar a respectiva área de acomodação (setor) e adentrarem em um local seguro 
+ou de relativa segurança. 
+Nota: Não inclui o tempo total necessário para percorrer a circulação inteira de saída (do assento 
+ao exterior). 
+4.1.17 Túnel de acesso: passagem coberta que interliga as áreas de acomodação de público 
+(arquibancadas) às circulações de saída ou de entrada do recinto. 
+5 REQUISITOS 
+5.1 Área de acomodação do público – setores 
+5.1.1 Os recintos para eventos desportivos devem ser setorizados em função de suas dimensões 
+a fim de evitar-se que, em uma situação de emergência, o movimento dos ocupantes venha a 
+saturar determinadas rotas de fuga bem como possibilitar às equipes de segurança, socorro e 
+salvamento, condições para executarem suas respectivas ações nos diversos eventos. 
+5.1.2 Em todos os setores deve haver saídas suficientes, em função da população existente, 
+sendo, no mínimo, duas alternativas de saída de emergência, em lados distintos. Recomenda-se 
+que cada setor tenha lotação máxima de 10.000 pessoas.
+
+--- PÁGINA 5 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+5/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+5.1.3 A divisão dos setores dar-se-á através de barreiras ou circulações com largura mínima de 
+1,20 m, dotados de degraus ou rampas e pintados em cor contrastante à dos setores. 
+5.1.4 As rotas de fuga dos espectadores devem ser independentes das rotas de fuga dos atletas 
+ou artistas que se apresentam no recinto, contendo sinalização complementar de balizamento 
+pintada sobre o piso. 
+5.1.5 Recomenda-se que os setores sejam identificados por meio de cores diferenciadas e 
+predominantes. 
+5.1.6 Os lugares destinados a assentos dos espectadores (cadeiras, poltronas e assento direto 
+nos patamares ou bancadas), bem como as filas (fileiras) por eles constituídas, devem ser 
+devidamente numerados, com a identificação fixa e visível. 
+5.1.6.1 Os ingressos disponibilizados para o evento devem conter a respectiva identificação do 
+setor, da fila e numeração do assento. 
+5.1.7 Somente são considerados lugares destinados a espectadores, aqueles inseridos dentro 
+dos setores previamente estabelecidos e com rotas de fuga definidas. 
+5.1.8 Os setores das arquibancadas com cadeiras individuais devem possuir as seguintes 
+dimensões para os patamares: 
+a) largura mínima de 0,85 m (admitindo-se largura mínima de 0,80 m para edificações 
+existentes); 
+b) altura máxima de 0,555 m. 
+5.1.8.1 Para edificações existentes, admite-se patamares com largura menor que 0,80 m, não 
+podendo ser inferior a 0,75 m, desde que atendidos os seguintes requisitos: 
+a) Caso as filas sejam equipadas com cadeiras com assento rebatível ou sem cadeiras, os 
+valores máximos, de comprimento da fila previstos na subseção 5.1.12, deverão ser reduzidos 
+em 25%; 
+b) Caso as cadeiras sejam fixas, os comprimentos máximos das filas previstos na subseção 
+5.1.12 devem ser reduzidos em 50%. 
+5.1.9 Quando os próprios patamares da arquibancada forem usados como degraus de escada, 
+recomenda-se que a altura destes esteja entre 0,15 m e 0,18 m. 
+5.1.10 As arquibancadas para público em pé devem ser dotadas de barreiras antiesmagamento. 
+5.1.11 Para edificações a serem construídas, não será admitida a previsão de espectadores em 
+pé. 
+5.1.12 O comprimento máximo e o número máximo de assentos (cadeiras, poltronas) nas filas 
+das arquibancadas devem obedecer às seguintes regras: 
+5.1.12.1 Para estádios e similares (arquibancadas permanentes): 20,0 m, quando houver 
+acesso em ambas as extremidades da fila, e, 10,0 m, quando houver apenas um corredor de 
+acesso (ver Figura 1). 
+5.1.12.2 Para ginásios cobertos e similares (locais internos) e para arquibancadas provisórias 
+(desmontáveis): 14,0 m, quando houver acessos nas duas extremidades da fila, e, 7,0 m, 
+quando houver apenas um corredor de acesso (ver Figura 1).
+
+--- PÁGINA 6 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+6/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+ 
+Figura 1 – Detalhe do comprimento e número máximo de assentos. 
+Fonte: Guide to Safety at Sports Grounds (Green Guide). 5.Ed. United Kingdom, 2008 
+5.1.13 Os assentos individuais e fixos das arquibancadas (cadeiras ou poltronas), destinados 
+aos espectadores, devem ser dimensionados conforme normas técnicas e ter as seguintes 
+características (ver Figuras 2 e 3): 
+5.1.13.1 Possuir resistência mecânica suficiente para os esforços solicitados. 
+5.1.13.2 Serem constituídos com material incombustível ou retardante ao fogo. 
+5.1.13.3 Cada assento deverá possuir, no mínimo, 0,50 m de largura. 
+5.1.13.4 Ter espaçamento mínimo de 0,40 m, para circulação nas filas, entre a projeção 
+dianteira de um assento de uma fila e as costas do assento em frente. Para edificações 
+existentes, admite-se este espaçamento com 0,35 m (ver Figura 3). 
+5.1.13.5 Serem afixados de forma a não permitir sua remoção ou desprendimento de partes sem 
+auxílio de ferramentas. 
+5.1.14 À frente das primeiras fileiras de assentos fixos dos setores de arquibancadas, 
+localizadas em cotas inferiores, deverá ser mantida a distância mínima de 0,55 m para circulação 
+(ver Figura 3). 
+ 
+ 
+Figura 2 – Detalhes das dimensões de largura e altura dos patamares.  
+Fonte: Guide to Safety at Sports Grounds (Green Guide). 5.Ed. United Kingdom, 2008
+
+--- PÁGINA 7 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+7/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+5.1.15 A altura mínima do guarda-corpo frontal da arquibancada deverá ser de 1,10 m; 
+5.1.16 A altura mínima do guarda-corpo da parte de trás da arquibancada deverá ser de 1,80m; 
+5.1.17  Altura mínima do guarda-corpo das laterais da arquibancada inicia com 1,80 m e termina 
+em 1,10 m. 
+ 
+Figura 3 – Detalhes das larguras dos assentos e as alturas mínimas dos guarda-corpos.  
+Fonte: Guide to Safety at Sports Grounds (Green Guide). 5.Ed. United Kingdom, 2008 
+5.2 Inclinações das arquibancadas 
+5.2.1 A inclinação máxima admitida para os setores de arquibancada será de 37 graus; 
+5.2.1.1 Nos estádios existentes serão aceitas arquibancadas com inclinação superior a 37 graus 
+desde que mecanismos de segurança sejam utilizados para evitar queda de nível (guarda-corpos 
+nos patamares e acessos laterais e radiais). 
+5.2.1.2 Nos setores com arquibancadas para público em pé, a inclinação máxima deve ser de 25 
+graus. 
+5.3 Saídas (normais e de emergência) – generalidades 
+5.3.1 As saídas podem ser nominadas didaticamente em: 
+5.3.1.1 Acessos. 
+5.3.1.2 Circulações de saídas horizontais e verticais e respectivas portas, quando houver. 
+5.3.1.3 Escadas ou rampas. 
+5.3.1.4 Descarga. 
+5.3.1.5 Espaços livres no exterior. 
+5.3.2 É importante que se forneça, nos recintos de grande aglomeração de pessoas, circulações 
+de saída capazes de comportar, de forma segura, a passagem das pessoas dentro de um 
+período de tempo aceitável, e de evitar o congestionamento das saídas e o “stress” psicológico. 
+5.3.3 Os responsáveis pela edificação e pela segurança do evento devem assegurar que as vias 
+de saída estejam planejadas para prover aos espectadores uma circulação livre e desimpedida 
+até que eles consigam atingir a área externa da edificação. Assim, deve-se assegurar que:
+
+--- PÁGINA 8 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+8/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+5.3.3.1 Haja números suficientes de saídas em posições adequadas (distribuídas de forma 
+uniforme). 
+5.3.3.2 Todas as áreas de circulações de saída tenham larguras adequadas à respectiva 
+população. 
+5.3.3.3 As pessoas não tenham que percorrer distâncias excessivas para sair do local de 
+assistência (acomodação), devendo ser adotadas as rotas mais diretas possíveis. 
+5.3.3.4 Haja dispositivos que direcionem o fluxo de pessoas que irão adentrar em uma rota de 
+fuga, conforme dimensionamento da capacidade das saídas e caminhamentos máximos. 
+5.3.3.5 Todas as saídas tenham sinalização e identificação adequadas, tanto em condições 
+normais como em emergência. 
+5.3.4 Nas saídas, os elementos construtivos e os materiais de acabamentos e de revestimento 
+devem ser incombustíveis. 
+5.3.5 O piso das áreas destinadas à saída do público, além de ser incombustível, deverá também 
+ser executado em material antiderrapante e conter sinalização complementar de balizamento 
+pintada sobre o piso. 
+5.3.6 As circulações não podem sofrer estreitamento em suas larguras, no sentido da saída do 
+recinto, devendo, no mínimo, ser mantida a mesma largura ou, no caso de aumento de fluxo na 
+circulação, deve-se dimensionar para o novo número de pessoas. 
+5.3.7 As saídas devem possuir, no mínimo, 1,20 m de largura. 
+5.3.7.1 No caso de edificações existentes, nos termos da IT 01, será admitida a largura mínima 
+de 1,10 m. 
+5.3.8 As saídas devem ser dimensionadas em função da população de cada setor considerado, 
+sendo que deve haver, no mínimo, duas opções (alternativas) de fuga, em lados distintos, em 
+cada setor. 
+5.3.9 Para recintos com previsão de público igual ou superior a 5.000 pessoas, deverá ser 
+elaborado Plano de emergência, devendo constar as plantas ou croquis que estabeleçam o 
+“plano de abandono” de cada um dos setores. 
+5.3.10 As saídas que não servem aos setores de arquibancadas ou à platéia devem seguir aos 
+parâmetros da IT 08 (Saídas de Emergência). Ex: camarins, vestiários, área de concentração 
+dos atletas ou artistas, administração, escritórios, sala de imprensa, camarotes, locais fechados 
+e outros. 
+5.3.11 Devem ser previstos espaços adequados para portadores de necessidades especiais, 
+atendendo aos critérios descritos na NBR 9050. 
+5.3.12 Toda circulação horizontal deve estar livre de obstáculos e permitir o acesso rápido e 
+seguro do público às saídas verticais dos respectivos pisos ou à área de descarga. 
+5.3.12.1 Vestiários, locais de venda, sanitários e outros locais de acúmulo de pessoas devem 
+distar, no mínimo, 8,0 m das saídas (túneis, escadas, rampas, etc). 
+5.3.13 Os desníveis existentes nas saídas horizontais devem ser vencidos por rampas de 
+inclinação não superior a 10% e patamar horizontal de descanso a cada 10,0 m.
+
+--- PÁGINA 9 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+9/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+5.3.14 Nas barreiras ou alambrados que separam a área do evento (arena, campo, quadra, 
+pista dentre outros) dos locais acessíveis ao público devem ser previstas passagens que 
+permitam aos espectadores sua utilização em caso de emergência, mediante sistema de 
+abertura acionado pelos componentes do serviço de segurança ou da brigada de incêndio. Estas 
+passagens devem ser devidamente sinalizadas, sendo recomendada a pintura em cor diferente 
+do restante do elemento de separação (preferencialmente na cor amarela). 
+5.3.15 Quando houver mudanças de direção, as paredes não devem ter cantos vivos. 
+5.3.16 As portas e os portões de saída do público devem abrir sempre no sentido de fuga das 
+pessoas, e possuir largura dimensionada para o abandono seguro da população do recinto, 
+porém, nunca inferior a 1,20 m. 
+5.3.17 As portas e portões de saída devem ser providos de barras antipânico, não sendo 
+permitido qualquer tipo de travamento no sentido de saída do recinto. 
+5.3.18 Nenhuma saída deve ser fechada de modo que não possa ser facilmente e 
+imediatamente aberta em caso de emergência. 
+5.3.19 As saídas finais devem ser monitoradas pessoalmente pela segurança ou brigada, 
+enquanto o recinto for utilizado pelo público. 
+5.3.20 Todas as portas e portões de saída final em uma via de saída normal devem abrir no 
+sentido do fluxo de saída e ser mantidos na posição totalmente aberta antes do fim do evento. 
+Quando abertas, não devem obstruir qualquer tipo de circulação (corredores, escadas, descarga 
+etc.). O responsável pela segurança deve verificar ou ser informado quando todas as portas e 
+portões das saídas finais estiverem seguramente na posição aberta, com prazo suficiente para 
+garantir a saída segura do público. 
+5.3.20.1 Deverão ser observadas medidas que permitam a saída do público de torcidas distintas, 
+separadamente, devendo estas saídas atenderem proporcionalmente ao público a que se 
+destinam, atendendo às prescrições desta IT. 
+5.3.21 Não devem existir peças plásticas em fechaduras, espelhos, maçanetas, dobradiças e 
+outros. 
+5.3.22 As catracas de acesso devem ser reversíveis ou removíveis, para permitir a saída de 
+alguém do recinto, em caso de necessidade, a qualquer momento, sendo que estes espaços não 
+poderão ser computados no cálculo das saídas de emergência. 
+5.3.23 Ao lado das entradas devem ser previstos portas ou portões destinados à saída dos 
+espectadores, dimensionados de acordo com o estabelecido nesta IT, com as respectivas 
+sinalizações, não podendo ser obstruídos pela movimentação de entrada do público ao recinto, 
+devendo permanecer sempre livres e prontas para utilização. 
+5.3.24 É vedada a utilização de portas e portões de correr ou de enrolar nas saídas.  
+5.3.25 As circulações devem ser iluminadas e sinalizadas com indicação clara do sentido da 
+saída, de acordo com o estabelecido e adotado na IT 13 (Iluminação de Emergência), IT 15 
+(Sinalização de Emergência) e nas subseções 6.7.4 e 6.7.5 desta IT. 
+5.3.26 Todas as saídas (portas, portões) devem ser claramente marcadas, nos dois lados 
+(interno e externo), com seus respectivos números de identificação, para facilitar o deslocamento 
+rápido em caso de emergência.
+
+--- PÁGINA 10 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+10/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+5.3.27 Vestiários, locais de vendas e outros locais de acúmulo de pessoas devem distar no 
+mínimo 8,0 m das saídas (túneis, escadas, rampas etc.). 
+5.4 Saídas verticais – escadas ou rampas 
+5.4.1 Todos os tipos de escadas deverão ter: 
+a) o piso dos degraus e patamares revestidos por materiais incombustíveis e antiderrapantes; 
+b) corrimãos contínuos em ambos os lados com altura entre 0,80 m a 0,92 m, prolongando-se 
+mais 0,30 m nas extremidades, as quais deverão ser voltadas para parede ou outra solução 
+alternativa, não possuindo quinas vivas ou aberturas, reentrâncias e saliências que permitam 
+agarramento de roupas; 
+c) guarda corpo com altura mínima de 1,10 m, dotados de longarinas ou, de preferência, 
+balaústres a cada 0,15 m; 
+Nota: somente deverão ser utilizadas longarinas quando for inviável a utilização de balaústres. 
+d) as escadas com 2,40 m de largura ou mais devem possuir corrimãos intermediários no 
+máximo a cada 1,80 m e no mínimo a cada 1,20 m; 
+e) lanço mínimo de 3 degraus. 
+Figura 4 – Dimensões dos corrimãos e guarda-corpo das escadas. 
+Fonte: Guide to Safety at Sports Grounds (Green Guide). 5.Ed. United Kingdom, 2008 
+5.4.2 As saídas verticais (escadas ou rampas) devem ainda satisfazer as exigências descritas a 
+seguir: 
+5.4.2.1 Serem contínuas desde o piso ou nível que atendem até o piso de descarga ou nível de 
+saída do recinto ou setor. 
+5.4.2.2 Terem largura mínima de 1,20 m. 
+5.4.3 O lanço máximo, entre dois patamares consecutivos, não deve ultrapassar 3,20 m de 
+altura (rampas e escadas). 
+5.4.4 Para edificações existentes, caso existam saliências ou degraus de escada, os quais 
+sejam tecnicamente impossíveis de serem corrigidos, estes deverão ser sinalizados observando 
+sinalização específica indicada na IT 15.
+
+--- PÁGINA 11 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+11/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+5.4.5 Devem ser construídas em lances retos e sua mudança de direção deve ocorrer em 
+patamar intermediário e plano. 
+5.4.6 Os patamares deverão ter largura igual à da escada ou rampa e comprimento igual ou 
+superior à sua largura. 
+5.4.7 Elevadores, elevadores de emergência e escadas rolantes não podem ser considerados 
+como saídas de emergência. 
+5.4.8 Os degraus das escadas devem atender aos seguintes requisitos: 
+a) altura dos espelhos dos degraus (h) deve situar-se entre 0,15 m e 0,18 m, ou seja, 0,15 m ≤ h 
+≤ 0,18 m, com tolerância de 0,005 m (0,5 cm); 
+b) largura mínima das pisadas (b): 0,27 m; 
+c) o balanceamento dos degraus deve atender a relação entre altura do espelho (h) e a largura 
+da pisada (b), a saber: 0,63 < 2h + b < 0,64 (m). 
+5.4.9 Em áreas de uso comum não são admitidas escadas em leque ou caracol. 
+5.4.10 O uso de rampas é obrigatório nos seguintes casos: 
+a) na descarga e acesso de elevadores de emergência; 
+b) quando a altura a ser vencida não permitir o dimensionamento equilibrado dos degraus de 
+uma escada; 
+c) para unir o nível externo ao nível do saguão térreo das edificações para acesso de deficientes 
+físicos, conforme NBR 9050. 
+5.4.11 As rampas devem ser dotadas de guarda-corpos de forma análoga às escadas de saída 
+de emergência. 
+5.4.12 Para rampas, os corrimãos laterais devem ser instalados a duas alturas: 0,92 m e 0,70 m 
+do piso, medidos da geratriz superior (NBR 9050). 
+5.4.13 As rampas não podem terminar em degraus ou soleiras, devendo ser precedidas e 
+sucedidas sempre por patamares planos. 
+5.4.14 Os patamares das rampas devem ser sempre em nível, tendo comprimento mínimo de 
+1,20 m, medidos na direção do trânsito, sendo obrigatórios sempre que houver mudança de 
+direção. 
+5.4.15 As rampas podem suceder um lanço de escada, no sentido descendente de saída, mas 
+não podem precedê-lo. 
+5.4.16 Não é permitida a colocação de portas em rampas, sendo que estas devem estar 
+situadas sempre em patamares planos, com comprimento não inferior ao da folha da porta de 
+cada lado do vão. 
+5.4.17 As inclinações das rampas não deverão exceder a 10% (1:10). 
+5.4.18 As escadas e rampas utilizadas para a evacuação do público em emergências devem 
+possuir a largura mínima de 1,50 m.
+
+--- PÁGINA 12 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+12/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+5.4.18.1 As rampas utilizadas para acesso de cadeirantes deverão possuir no mínimo 2,00 m de 
+largura. 
+5.4.18.2 Para as escadas de acessos radiais será admitida largura mínima de 1,20 m. 
+5.5 Descarga e espaços livres no exterior 
+5.5.1 Cuidados especiais devem ser adotados pela organização do evento e pelas autoridades 
+competentes para que a descarga do público tenha fluxo suficiente na área externa, ao redor do 
+recinto, para evitar-se congestionamento nas circulações internas da edificação, o que 
+comprometeria as saídas do recinto, mesmo que corretamente dimensionadas. Dessa forma, 
+medidas de segurança devem ser adotadas para se evitar a aglomeração de público nas 
+descargas externas do recinto, por exemplo: desvios de trânsito nas vias próximas ao recinto, 
+proibição de “comércio” nas proximidades das saídas, etc. 
+5.5.2 No dimensionamento da área de descarga, devem ser consideradas todas as saídas 
+horizontais e verticais que para ela convergirem. 
+5.5.3 As descargas devem atender aos seguintes requisitos: 
+a) não serem utilizadas como estacionamento de veículos de qualquer natureza. Caso 
+necessário, deverão ser previstos divisores físicos que impeçam tal utilização; 
+b) serem mantidas livres e desimpedidas, não devendo ser dispostas dependências que, por sua 
+natureza ou utilização, possam provocar a aglomeração de público, tais como bares, pistas de 
+dança, lojas de “souvenirs” ou outras ocupações; 
+c) não serem utilizadas como depósito de qualquer natureza; 
+d) serem distribuídas de forma equidistante e dimensionadas de maneira a atender o fluxo a elas 
+destinado e o respectivo caminhamento máximo; 
+e) não possuir saliências, obstáculos ou instalações que possam causar lesões em caso de 
+abandono de emergência. 
+5.6 Guarda-corpos, barreiras e corrimãos 
+5.6.1 Toda saída deve ser protegida, de ambos os lados, com corrimãos e guarda-corpos 
+contínuos, sempre que houver qualquer desnível maior de 18,0 cm, a fim de se evitar acidentes. 
+5.6.2 A altura das barreiras, internamente, deve ser, no mínimo, de 1,10 m e sua resistência 
+mecânica varia de acordo com a sua função e posicionamento (ver Figuras 1, 3, 5 e 7). 
+5.6.3 As arquibancadas cujas alturas em relação ao piso de descarga sejam superiores a 3,0 m 
+devem possuir fechamento dos encostos (guarda-costas) do último nível superior de assentos, 
+de forma idêntica aos guarda-corpos, porém, com altura mínima de 1,80 m em relação a este 
+nível (ver Figura 3). 
+5.6.4 O fechamento dos guarda-corpos deve atender aos mesmos requisitos da IT 08. 
+5.6.5 Os corrimãos deverão ser adotados em ambos os lados das escadas, devendo estar 
+situados entre 80,0 cm e 92,0 cm acima do nível do piso atendendo também aos demais 
+requisitos previstos na IT 08. 
+5.6.6 Para rampas, os corrimãos laterais devem ser instalados a duas alturas: 0,92 m e 0,70 m
+
+--- PÁGINA 13 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+13/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+do piso, medidos da geratriz superior (NBR 9050). 
+5.6.7 Nos acessos radiais (arquibancadas), quando houver acomodações ou assentos em 
+ambos os lados, os corrimãos deverão ser centrais (ver Figura 5), com descontinuidades 
+(intervalos) no mínimo a cada 2 fileiras e no máximo a cada 5 (cinco) fileiras de assentos, 
+visando facilitar o acesso aos mesmos e permitir a passagem de um lado para o outro. Esses 
+intervalos (aberturas) terão uma largura livre mínima de 56,0 cm, medida horizontalmente e 
+máxima de 1 fileira de assentos. 
+5.6.7.1 Recomenda-se, para os corrimãos centrais, que haja uma barra de corrimão adicional 
+localizada aproximadamente 20,0 cm abaixo da barra principal.  
+ 
+Figura 5 – Barreiras, guarda-corpos e corrimãos centrais: cargas de projeto e altura mínimas e disposição. 
+Fonte: Guide to Safety at Sports Grounds (Green Guide). 5.Ed. United Kingdom, 2008. 
+5.6.8 Os corrimãos devem possuir as terminações (extremidades) arredondadas ou curvas. 
+5.6.9 As escadas centrais que servem os setores de arquibancadas e platéias, com mais de 
+2,40 m de largura, devem ser dotadas de um corrimão central com barra dupla de apoio para as 
+mãos. Os lanços determinados pelos corrimãos centrais deverão ter largura mínima de 1,20 m e 
+máximo 1,80 m, com os mesmos requisitos dos corrimãos centrais previstos na subseção 5.6.7, 
+com interrupções nos patamares para permitir o acesso e fluxo de pessoas entre setores 
+adjacentes e, neste caso, suas extremidades devem ser dotadas de balaústres ou outros 
+dispositivos para evitar acidentes (ver Figura 4). 
+5.6.10 Os corrimãos devem ser construídos para resistir a uma carga mínima de 900 N
+
+--- PÁGINA 14 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+14/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+(Newton) aplicada verticalmente de cima para baixo e horizontalmente em ambos os sentidos. 
+5.6.11 Nas escadas comuns (tipo NE) e rampas não enclausuradas pode-se dispensar o 
+corrimão, desde que o guarda-corpo atenda também aos preceitos do corrimão, conforme IT 08. 
+5.7 Do dimensionamento 
+5.7.1 Cálculo da população 
+5.7.1.1 As saídas de emergência são dimensionadas em função da população máxima no 
+recinto e/ou setor do evento. 
+5.7.1.2 A lotação do recinto (população máxima) deve ser calculada obedecendo-se aos 
+seguintes critérios:  
+a) para assentos fixos: número total de assentos fixos demarcados (observando-se os 
+espaçamentos conforme seção 5.1.12 e 5.1.13).  
+b) sem assentos fixos: na proporção de 0,5 m linear de arquibancada por pessoa. Para cálculo 
+da capacidade de público do setor, nessas condições, deverá ser adotada a fórmula (2x – 1). n, 
+onde “x” é a extensão da arquibancada e “n” o número de degraus da arquibancada.  
+c) no caso de camarotes que não possuam cadeiras fixas, a densidade (D), para fins de cálculo, 
+é de 4 (quatro) pessoas por m² da área bruta do camarote, entretanto, para definição da 
+capacidade real e disponibilização de ingressos, deverá ser adotada a densidade máxima (D) de 
+3 (três) pessoas por m². 
+5.7.1.3 A organização dos setores, com as respectivas lotações, deve ser devidamente 
+comprovada pelo responsável técnico, por meio de memória de cálculo, sendo tais informações 
+essenciais para o dimensionamento das rotas de fuga. 
+5.7.1.4 Para definição da lotação máxima e disponibilização de ingressos de cada setor, deverá 
+ser considerada, para cada evento, a necessidade de redução do público em função da 
+necessidade de isolamento de torcidas, por parte das autoridades policiais, e possíveis áreas de 
+risco verificadas em vistoria. 
+5.7.1.5 Quando verificada por autoridades competentes a necessidade de redução de público 
+em função do risco que o evento oferece, poderá ser adotado o critério de redução de público, 
+utilizando- se para tal fim a avaliação da redução do tempo necessário para evacuação, em 
+função deste risco. 
+5.8 Tempo de saída 
+5.8.1 O tempo máximo de saída, nos termos desta Instrução Técnica, será de 6 (seis) minutos. 
+5.8.1.1 Para os estádios, poderá ser considerado o tempo máximo de saída de 8 (oito) minutos, 
+quando atenderem a todas as características listadas abaixo, simultaneamente: 
+a) o risco de ocorrência de incêndio for baixo; 
+b) no caso improvável de um incêndio, o risco potencial de fogo, de calor ou fumaça gerada por 
+ele, se espalhar, for insignificante; 
+c) o risco para a vida seja mínimo;
+
+--- PÁGINA 15 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+15/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+d) estruturas com terraços abertos e construídas de materiais não-combustíveis; 
+e) as rotas de fuga forem totalmente protegidas por paredes corta-fogo e livres de materiais 
+combustíveis; 
+f) os ambientes como restaurantes, bares, salas, vestiários, salas de imprensa e outros forem 
+compartimentados, de forma a não permitir, no caso de um incêndio, a propagação de fogo, 
+calor e fumaça; 
+g) exista sistema efetivo de combate a incêndios, de acordo com as normas vigentes; 
+h) a edificação atenda a todos os requisitos desta IT para edificações novas. 
+5.8.1.2 Para as edificações ou espaços destinados ao uso coletivo que apresentarem uma ou 
+mais das características listadas abaixo, o tempo máximo de saída não poderá ser superior a 2,5 
+minutos: 
+a) a construção consiste em materiais combustíveis; 
+b) as características estruturais podem favorecer a propagação do fogo, calor e fumaça; 
+c) as rotas de saída dos níveis superiores passam através de áreas de acúmulo de pessoas; 
+d) existe a presença de materiais altamente inflamáveis ou explosivos; 
+e) no caso de incidentes adjacentes, as pessoas no local estarem em risco. 
+5.8.2 Para edificações existentes cuja compartimentação entre as rotas de saída e demais 
+instalações é inadequada (as rotas de saída não são adequadamente protegidas), medidas 
+adicionais de segurança devem ser projetadas para fins de análise por parte de Corpo Técnico e 
+o tempo máximo de saída não poderá ser superior a 2,5 minutos. 
+5.8.3 Para diminuir o tempo de saída, podem ser adotadas medidas como limitar a lotação no 
+setor ou aumentar as saídas. 
+5.8.4 Nas áreas internas destinadas a usos diversos, (por exemplo: museus, lojas, bibliotecas, 
+camarins, administração, estacionamentos, restaurantes, depósitos, área de concentração dos 
+atletas ou artistas e outros), as saídas devem ser dimensionadas conforme IT 08. Contudo, caso 
+sejam instalados, nesses locais, sistemas de chuveiros automáticos e detecção automática de 
+incêndio, aceita-se o dimensionamento conforme esta IT, devendo ser adotado tempo de saída 
+de 2,5 (dois e meio) minutos. 
+5.9 Distâncias máximas a serem percorridas 
+5.9.1 Os critérios para se determinar as distâncias máximas de percurso e o tempo máximo de 
+saída da área de acomodação, tendo em vista o risco à vida humana, decorrente da emergência, 
+são os seguintes: 
+a) a distância máxima de percurso para se alcançar um local de segurança ou de relativa 
+segurança não pode ser superior a 60,0 m (incluindo a distância percorrida na fila de assentos e 
+nos acessos radiais e laterais); 
+Recomenda-se a distância de 40,0 m para um espectador percorrer entre o assento e a entrada 
+do túnel de acesso.
+
+--- PÁGINA 16 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+16/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+b) a distância máxima a ser percorrida pelo espectador (partindo de seu assento ou posição) em 
+setores de arquibancadas para alcançar um acesso radial (corredor) não pode ser superior a 
+10,0 m (ver Figura 1). 
+5.10 Setores para espectadores em pé em eventos esportivos em geral 
+5.10.1 Para as edificações a serem construídas, não será admitida a previsão de espectadores 
+em pé. 
+5.10.2 Nas edificações existentes, a previsão de lugares para espectadores em pé, não poderá 
+exceder a 20% da lotação total. 
+5.10.2.1 Não serão permitidos espectadores em pé nas edificações com lotação superior a 
+5.000 pessoas. 
+5.10.2.2 Nas edificações que não possuam arquibancadas, a lotação máxima de espectadores 
+em pé será de 1.000 pessoas. 
+5.10.2.3 A altura e largura dos degraus das arquibancadas, para público em pé, devem ser: 
+a) altura mínima de 0,15 m e máxima de 0,185 m. 
+b) largura mínima de 0,40 m (ver Figura 6). 
+Figura 6 – Detalhe de patamares para público em pé 
+ 
+ 
+5.10.2.4 Nos setores destinados ao público em pé, para fins de cálculo das dimensões das 
+saídas, será utilizada a densidade (D) máxima de público devendo-se adotar o valor de 4 
+pessoas por m² da área útil destinada aos espectadores (Dmáx. = 4 pessoas/m²), contudo, para 
+fins de definição da capacidade real máxima e disponibilização de ingressos (lotação real), 
+deverá ser adotada a densidade (D) máxima de 3 pessoas por m² (D = 3 pessoas/m², fator de 
+segurança e controle de lotação). 
+5.10.3 Nos setores de público em pé, medidas de segurança devem ser adotadas, pela 
+organização do evento, para se evitar que haja migração de determinadas áreas para outras 
+com maior visibilidade do evento, provocando assim uma saturação de alguns pontos e
+
+--- PÁGINA 17 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+17/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+esvaziamento de outros. Nesse caso, barreiras físicas e outros dispositivos eficazes devem ser 
+usados para se evitar a superlotação de algum setor. 
+5.10.4 Barreiras antiesmagamentos (ver Figura 7) devem ser previstas nas arquibancadas para 
+público em pé, espaçadas em função da inclinação e devem possuir os seguintes requisitos: 
+a) serem contínuas entre os acessos radiais; 
+b) serem alturas de 1,10 m (sendo permitida uma tolerância de variação de até 3%); 
+c) não possuírem pontas ou bordas agudas. As bordas devem ser arredondadas; 
+d) terem resistência mecânica e distâncias entre barreiras conforme Figura 7; 
+e) terem sua resistência e funcionalidade testadas, por engenheiro habilitado, antes de serem 
+colocadas em uso; 
+f) serem vistoriadas antes de cada evento, devendo possuir manutenção constante. 
+5.10.4.1 Para maiores informações sobre dimensionamento de guardas e barreiras, consultar o 
+“Guide to Safety at Sports Grounds” (Green Guide). (ver seção 3 desta Instrução Técnica). 
+ 
+Figura 7 – Detalhe da arquibancada para público em pé. 
+Fonte: Guide to Safety at Sports Grounds (Green Guide). 5.Ed. United Kingdom, 2008 
+5.10.5 É vedada a utilização das áreas de circulação e rotas de saída para o cômputo do 
+público. 
+5.10.6 Quando a área do gramado, do campo, da pista, da quadra, da arena de rodeios, etc for 
+usada para espectadores, para fins de cálculo das dimensões das saídas será utilizada a 
+densidade (D) máxima de público, devendo-se adotar o valor de 4 pessoas por m² da área útil
+
+--- PÁGINA 18 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+18/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+destinada aos espectadores (Dmáx. = 4 pessoas/m). Contudo, para fins de definição da 
+capacidade real máxima e disponibilização de ingressos (lotação real), deverá ser adotada a 
+densidade (D) máxima de 2 pessoas por m² (D = 2 pessoas/m², fator de segurança e controle de 
+lotação), devendo-se adotar medidas de controle de acesso rigorosas neste local. Nestes casos, 
+para definição das saídas de emergência, deverá ser adotado o tempo máximo de 6 (seis) 
+minutos para evacuação, independente da característica da edificação. 
+5.10.6.1 Quando for garantido o controle de acesso do público através de catracas e a existência 
+de barreiras ou outros mecanismos eficientes para impedir a migração de público de outros 
+setores como arquibancadas e camarotes para a área do campo, pista, quadra, arena, etc, 
+poderá ser adotado, para fins de cálculo das dimensões das saídas de emergência, a densidade 
+de 2 pessoas por m². 
+5.11 Dimensionamento das saídas de emergência – parâmetros relativos ao escoamento 
+de pessoas (larguras dos acessos e saídas) 
+5.11.1 Para dimensionar o abandono de uma edificação, deve ser utilizada a taxa de fluxo (F) 
+que é o indicativo do número de pessoas que passam por minuto por determinada largura de 
+saída (pessoas/minuto). 
+5.11.2 Siglas adotadas: 
+P = população (pessoas); 
+E = capacidade de escoamento (pessoas); 
+D = densidade (pessoas por m²); 
+F = taxa de fluxo (pessoas por minuto); 
+L = Largura (metro). 
+5.11.3 O dimensionamento das saídas será em função da taxa de Fluxo (F) referente à abertura 
+considerada. Para fins de aplicação desta Instrução Técnica, as taxas de fluxo a serem 
+consideradas são as seguintes: 
+a) nas escadas e circulações com degraus: 79 pessoas por minuto, para uma largura de 
+1,20 m; 
+b) nas saídas horizontais (portas, corredores) e rampas: 100 pessoas por minuto, para uma 
+largura de 1,20 m. 
+5.11.4 Caso o cálculo resulte em valor fracionado, adota-se o número inteiro imediatamente 
+inferior ou superior, considerando sempre o arredondamento em função da segurança (ex.: 
+majoração das larguras de saída e minoração da capacidade de público). 
+6 OUTRAS EXIGÊNCIAS 
+6.1 Os elementos estruturais dos recintos devem apresentar resistência mecânica compatível 
+com as ações e as solicitações a que são sujeitos (conforme normas da ABNT), bem como 
+devem possuir resistência ao fogo suficiente para o abandono seguro dos ocupantes e para as 
+ações de socorro, conforme IT 06 (Segurança Estrutural das Edificações). 
+6.1.1 A estabilidade estrutural da edificação deve ser comprovada em laudo técnico específico, 
+emitido por profissional capacitado e habilitado, conforme IT 01.
+
+--- PÁGINA 19 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+19/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+6.2 As áreas internas da edificação, como áreas técnicas, depósitos, escritórios, museus, lojas, 
+sala de imprensa, camarins, administração, estacionamentos, restaurantes, áreas de 
+concentração de atletas ou artistas, áreas de instalação de geradores e outras áreas similares 
+devem ser compartimentadas das áreas de público e circulações de saída com elementos 
+resistentes ao fogo (ver IT 07). 
+6.3 Os dutos e shafts horizontais e verticais das instalações do recinto devem ser devidamente 
+selados quando atravessarem qualquer elemento de construção (em especial paredes e lajes), 
+mantendo-se assim a compartimentação dos espaços, o isolamento dos locais e a proteção das 
+circulações. A reação ao fogo dos materiais utilizados nos acabamentos, nos elementos de 
+decoração e no mobiliário deve ser controlada para limitar o risco de deflagração e a velocidade 
+do desenvolvimento e propagação do incêndio. 
+6.4 Os elementos estruturais das coberturas devem possuir resistência ao fogo suficiente para o 
+abandono seguro dos ocupantes e para as ações de socorro, conforme IT 06 (Segurança 
+Estrutural das Edificações) e os materiais utilizados na construção das mesmas deverão ser 
+incombustíveis. 
+6.6 Sala de Monitoramento de Segurança Integrada 
+6.6.1 Na edificação deve-se prever uma sala de segurança em local estratégico, que possa dar 
+visão completa de todo recinto (setores de público, campo, quadra, arena etc.), devidamente 
+equipada com os todos os recursos de informação e de comunicação disponíveis no local. 
+6.6.2 Nesta sala deve-se interligar os sistemas de monitoramento e de alarmes (incêndio e 
+segurança) existentes no recinto. 
+6.6.3 A Sala de Monitoramento de Segurança Integrada funcionará como Posto de Comando 
+Integrado das operações desenvolvidas em situação de normalidade, sendo que, em caso de 
+emergência, deve-se avaliar o melhor local para destinação do Posto de Comando. 
+6.6.4 Os recintos devem ser equipados com sistema de sonorização e instalações que permitam 
+difundir, em caso de emergência, aviso de abandono ao público e acionar os meios de socorro 
+para intervir em caso de incêndio ou outras emergências. 
+6.6.5 Os equipamentos de sonorização devem ser conectados a sistemas autônomos de 
+alimentação elétrica para que, no caso de interrupção do fornecimento de energia, sejam 
+mantidos em funcionamento por período mínimo de 120 minutos. 
+6.6.6 Antes do início de cada evento, o público presente deve ser orientado quanto à localização 
+das saídas de emergência para cada setor e sobre os sistemas de segurança existentes. 
+6.6.7 O sistema de detecção e alarme de incêndio, quando houver, deverá ser setorizado e 
+monitorado pela central instalada na Sala de Monitoramento de Segurança Integrada. 
+6.7 Sistemas de Segurança Contra Incêndio e Pânico 
+6.7.1 Extintores de incêndio 
+A proteção por extintores de incêndio é obrigatória em todos os eventos. 
+6.7.1.1 Nos locais administrativos, vestiários, bares, restaurantes, museus, lojas, cabines de 
+rádios, camarotes, sala de imprensa, estacionamentos cobertos e demais áreas onde não há 
+presença de espectadores, deve-se atender o previsto na IT 16.
+
+--- PÁGINA 20 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+20/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+6.7.1.2 Nos locais de acesso de público, os extintores poderão ser instalados em baterias, em 
+locais de acesso restrito ao Corpo de Bombeiros Militar e pela Brigada de Incêndio, atendendo: 
+a) o caminhamento (distância a percorrer) máximo para alcançar uma bateria de extintores deve 
+ser de no máximo 35,0 m; 
+b) as áreas de acomodação do público (arquibancadas, cadeiras, sociais e similares) estão 
+isentas da instalação de extintores de incêndio e do caminhamento previsto na subseção anterior; 
+c) a quantidade, capacidade extintora, instalação e classes de incêndio, deverão atender a IT 16. 
+6.7.2 Hidrantes e Mangotinhos 
+A proteção por hidrantes, quando necessária, deverá ser feita conforme especificações abaixo: 
+6.7.2.1 Nos locais administrativos, vestiários, bares, restaurantes, museus, lojas, cabines de 
+rádios, camarotes, sala de imprensa, estacionamentos cobertos e demais áreas onde não há 
+presença de espectadores, deverão atender o previsto na IT 17. 
+6.7.2.2 Nos locais de acesso de público, os hidrantes poderão ser instalados em locais de 
+acesso restrito ao Corpo de Bombeiros Militar e à Brigada de Incêndio, atendendo: 
+a) os responsáveis pelo evento deverão colocar à disposição, no centro de comando dos 
+Bombeiros, uma chave mestra para abertura de todos os locais de acesso restrito que 
+contenham equipamentos de combate a incêndio, citados nos artigos anteriores e disponibilizar 
+funcionários que possuam a cópia da chave, próximo aos locais para sua abertura; 
+b) o caminhamento (distância a percorrer) máximo para alcançar um hidrante deve ser de 30 m; 
+c) devem ser utilizados quatro lances de mangueiras de quinze metros junto aos hidrantes 
+instalados nas circulações de acesso às áreas de acomodação de público (arquibancadas, 
+cadeiras, sociais e similares); 
+d) as áreas de acomodação do público (arquibancadas, cadeiras, sociais e similares) estão 
+isentas da instalação de hidrantes, devendo ser cobertas pelos hidrantes instalados nas 
+circulações de acesso considerando-se o caminhamento máximo de 60 metros; 
+e) todas as demais características da instalação de hidrantes e mangotinhos, como reserva 
+técnica, pressão, vazão, tubulações, bombas, registros, válvulas, etc, deverão atender à IT 17. 
+6.7.3 Detecção e Alarme de Incêndio 
+6.7.3.1 A proteção por alarme será obrigatória em todos os estádios, nos locais de acesso de 
+público, conforme especificações abaixo: 
+6.7.3.1.1 Os acionadores manuais de alarme deverão ser instalados junto aos hidrantes. 
+6.7.3.1.2 Os avisadores sonoros deverão ser substituídos por sistema de som audível em toda a 
+área de circulação e acomodação do público (arquibancadas, cadeiras, sociais e similares). 
+6.7.3.1.3 Junto à central de alarme, na cabine de comando, deverá ser instalado microfone 
+conectado ao sistema de som do estádio. 
+6.7.3.1.4 Todas as demais características de instalação do sistema de alarme e sonorização 
+deverão atender o previsto na NBR 17240 da ABNT.
+
+--- PÁGINA 21 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+21/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+6.7.3.2 Quando necessária, a proteção por detecção deverá ser instalada nos locais 
+administrativos, vestiários, bares, restaurantes, museus, lojas, cabines de rádios, camarotes, 
+sala de imprensa, estacionamentos cobertos e demais áreas onde não há presença de 
+espectadores, atendendo ao previsto na IT 14. 
+6.7.4 Iluminação de Emergência 
+A proteção pelo sistema de iluminação de emergência é obrigatória em todos os eventos, 
+devendo atender ao prescrito na IT 13. 
+6.7.5 Sinalização de Emergência 
+6.7.5.1 A proteção pelo sistema de sinalização de emergência é obrigatória em todos os eventos. 
+6.7.5.2 Todas as sinalizações de rotas de fuga, além do previsto na IT 15, deverão conter a 
+mensagem “SAÍDA”. 
+6.7.5.3 Para os eventos realizados em construções provisórias poderá ser utilizada a 
+sinalização de saída através de faixas que deverão atender as seguintes exigências: 
+6.7.5.3.1 Atender as dimensões mínimas da Tabela 1 da IT 15. 
+6.7.5.3.2 Possuir iluminação própria garantida em caso de emergência. 
+6.7.5.3.3 Possuir fundo branco e a mensagem de “SAÍDA” escrita em vermelho, atendendo a 
+Tabela 2 da IT 15. 
+6.7.6 Central de GLP / GN 
+6.7.6.1 Nas edificações permanentes em que houver a necessidade da utilização de gás 
+liquefeito de petróleo ou gás natural, este deverá ser abastecido através de central. 
+6.7.6.2 Não será permitido o abastecimento nos horários de realização dos eventos com acesso 
+de público. 
+6.7.6.3 Os afastamentos e demais requisitos deverão atender o previsto na IT 23, sendo que a 
+central deverá ser instalada em local onde seja impedido o acesso de público. 
+6.7.7 Acesso de viaturas 
+6.7.7.1 Deve-se prever no recinto acesso e saída adequados aos serviços de emergência, 
+obedecendo aos critérios da IT 04 (Acesso de Viaturas nas Edificações e Áreas de Risco). 
+6.7.7.2 As vias de acesso e saída dos serviços de emergência devem ser separadas dos 
+acessos e saídas usadas pelo público. 
+6.7.7.3 Nos estádios, devem ser previstas, no mínimo, 02 (duas) vias de acesso que permitam 
+o acesso ao campo. 
+7 EDIFICAÇÕES DE CARÁTER TEMPORÁRIO 
+7.1 Além dos critérios estabelecidos nos itens anteriores, as edificações cuja estrutura seja de 
+caráter 
+temporário, 
+caracterizadas 
+conforme 
+o 
+disposto 
+na 
+IT 
+01 
+(Procedimentos 
+Administrativos), devem atender ainda ao seguinte:
+
+--- PÁGINA 22 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+22/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+7.1.1 Os espaços vazios abaixo das arquibancadas não podem ser utilizados como áreas úteis, 
+tais como depósitos de materiais diversos, áreas de comércio, banheiros e outros, devendo ser 
+mantidos limpos e sem quaisquer materiais combustíveis durante todo o período do evento. 
+7.1.2 Os vãos (espelhos) entre os assentos das arquibancadas que possuam alturas superiores 
+a 0,30 m devem ser fechados com materiais de resistência mecânica análoga aos guarda-
+corpos, de forma a impedir a passagem de pessoas. 
+7.1.3 Em ocupações temporárias (desmontáveis) são aceitos pisos em madeira na rota de fuga, 
+desde que possuam resistência mecânica compatível, características antiderrapantes e sejam 
+afixados de forma a não permitir sua remoção sem auxílio de ferramentas ou que permitam o 
+desprendimento de partes, bem como mantenham a superfície plana, sem ressaltos ou 
+aberturas. Se montados por intermédio de placas, estas devem ser afixadas de forma a 
+permanecerem alinhadas em um mesmo plano. 
+7.1.4 Os circuitos elétricos e fiação do sistema de iluminação de emergência devem ser instalados 
+em conformidade com a IT 13 (Iluminação de Emergência) e as demais instalações elétricas e o 
+sistema de proteção contra descargas atmosféricas devem atender aos requisitos previstos na IT 
+36, na NBR 5410, na NBR 5419 e NR10. Os disjuntores não podem ser afixados sobre materiais 
+combustíveis, devendo ser instalados em local adequado e fora do alcance do público. 
+7.1.5 Nos locais destinados aos espectadores e rotas de fuga todas as fiações e circuitos 
+elétricos devem estar embutidos e devidamente isolados. 
+7.1.6 Nas barreiras ou alambrados que separam área do evento dos locais de público devem ser 
+previstas passagens que permitam aos espectadores sua utilização em caso de emergência, 
+mediante sistema de abertura acionado pelos componentes do serviço de segurança ou da 
+brigada de incêndio. 
+7.1.7 Para eventos com população acima de 10.000 pessoas, nas áreas de concentração de 
+público devem ser previstos corredores de acesso aos componentes do serviço de segurança ou 
+da brigada de incêndio, com largura mínima de 1,20 m. 
+7.1.8 Os recintos devem ser servidos por, no mínimo, 02 (duas) vias de acesso que permitam a 
+aproximação, estacionamento e a manobra das viaturas do Corpo de Bombeiros e atender aos 
+demais requisitos preconizados na IT 04 (Acesso de Viaturas nas Edificações e Áreas de Risco). 
+7.1.9 Os elementos estruturais dos recintos devem apresentar resistência mecânica compatível 
+com as ações e solicitações a que são sujeitos, levando-se em consideração a resistência e 
+comportamento do solo que receberá as cargas, prevendo-se, inclusive, as ações das 
+intempéries, especialmente do vento. 
+7.1.10 As Anotações de Responsabilidade Técnicas (ART) referentes às arquibancadas e 
+outras montagens, conforme requerido pela IT 01, devem ser acompanhadas de laudos técnicos 
+referenciando os requisitos acima descritos. 
+7.1.11 Os materiais utilizados nos acabamentos, elementos de decoração, coberturas flexíveis 
+(lonas) e no mobiliário principal devem ser especificados de forma a restringir a propagação de 
+fogo e o desenvolvimento de fumaça. 
+7.1.12 Os elementos de suporte estrutural das tendas ou outras coberturas flexíveis devem 
+possuir as mesmas características de resistência e/ou retardo de fogo, de forma a garantir a 
+necessária evacuação do público. 
+7.1.13 Somente será admitida instalação de arquibancadas em estruturas desmontáveis em
+
+--- PÁGINA 23 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+23/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+estádios cuja capacidade total, incluindo a arquibancada, não ultrapasse 1.000 espectadores. 
+8 EDIFICAÇÕES EXISTENTES 
+8.1 As edificações já construídas, que não possuam PSCIP aprovado, deverão se adequar às 
+prescrições contidas nesta IT. 
+8.2 As edificações que, por suas características e inviabilidade técnica, não permitam as 
+adequações previstas nesta Instrução Técnica, devem ser avaliadas por Corpo Técnico quanto à 
+inviabilidade técnica e medidas substitutivas ou mitigadoras sugeridas. 
+8.3 O responsável técnico pelo pedido de análise em Corpo Técnico deve apresentar os 
+argumentos quanto à impossibilidade do atendimento dos requisitos desta Instrução Técnica, 
+devidamente embasados tecnicamente, e propor medidas alternativas, de forma a garantir a 
+segurança durante a permanência e abandono das pessoas além da intervenção do socorro 
+público de maneira rápida e segura em caso de emergência. 
+9 PRESCRIÇÕES DIVERSAS 
+9.1 Os estádios de futebol com público acima de 1.500 pessoas deverão ter equipes de pronto 
+atendimento a emergências do tipo Brigadas de Incêndio, conforme IT 12 e IT 33, independente 
+do ano de construção; 
+9.1.1 A brigada de incêndio para atuação durante os jogos deverá ter formação de nível 
+intermediário, conforme NBR 14.276, e dimensionada na proporção de 1 (um) brigadista para 
+cada 500 (quinhentas) pessoas, sendo no mínimo 4 (quatro) brigadistas; 
+9.1.2 A brigada de incêndio fixa da edificação, para atuação independentemente da realização 
+de jogos, deverá ser dimensionada conforme IT 12. 
+9.2 Durante o acesso de público aos recintos, ocorrendo a necessidade de uma evacuação do 
+público que já se encontra no seu interior, essa deverá ocorrer preferencialmente em saídas 
+diferentes do público que está entrando. Para isto, junto aos portões, deverá ter de forma 
+permanente, pessoal preparado que garanta sua abertura. 
+9.3 O responsável pela segurança designado pela administração ou organizador evento deve 
+verificar ou ser informado quando todas as portas e portões das saídas finais estiverem 
+seguramente na posição aberta, com prazo suficiente para garantir a saída segura do público, 
+devendo comunicar a situação ao comandante das operações. 
+9.4 O administrador do recinto, o gerente de operações ou seu responsável legal, deverá 
+apresentar no Corpo de Bombeiros Militar um Plano de emergência, contendo o Plano de 
+Abandono em Situações de Emergência. 
+9.5 Deverão ser fixados em locais visíveis dos estádios, ginásios e similares, mapas indicando: 
+a) a localização atual do usuário; 
+b) as duas saídas de emergência mais próximas; 
+c) o caminhamento para atingir estas saídas; 
+d) telefones da Sala de Monitoramento de Segurança Integrada. 
+9.6 Deverão ser garantidos dois acessos de veículos de emergência junto ao campo, em lados
+
+--- PÁGINA 24 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+24/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+ou extremidades opostas, viabilizando a remoção de vítimas. 
+9.7 Deverá ser reservada e devidamente sinalizada, área destinada a viaturas de emergência, 
+com dimensões mínimas de 20,00 m de comprimento por 8,00 de largura, na área adjacente ao 
+estádio e próximo ao portão que dá acesso ao campo. 
+9.8 Recomenda-se que seja reservada e devidamente sinalizada, uma área para pouso de 
+aeronaves de emergência, com dimensões mínimas de 30,00 x 30,00 m, observando o prescrito 
+nas normas específicas. 
+9.9 Os seguintes componentes dos sistemas preventivos contra incêndio devem estar 
+aprovados por uma das modalidades do processo da avaliação da Conformidade estabelecido 
+pelo INMETRO (Instituto de Normalização e Metrologia): 
+a) extintores de incêndio; 
+b) mangueiras de incêndio; 
+c) luminárias do sistema de Iluminação de Emergência; 
+d) sinalização para abandono de local; e) central de alarme de incêndio; 
+f) detectores de incêndio; 
+g) acionadores manuais; 
+h) indicadores visuais. 
+9.10  A iluminação do ambiente dos eventos deverá ser mantida acesa até a saída total do 
+público, devendo seu desligamento ser efetuado apenas após consulta aos comandantes das 
+operações dos órgãos de segurança pública presentes (Corpo de Bombeiros e Polícia Militar). 
+9.11 É obrigatória a instalação de um grupo motogerador de energia, para a manutenção de 
+todos os sistemas elétricos do evento, nos recintos com capacidade superior a 3.000 
+espectadores. 
+9.12 O atendimento às exigências contidas nesta IT não exime o responsável pela edificação ou 
+evento da responsabilidade de atendimento a outras normas, legislações e medidas de 
+segurança específicas, como a instalação locais adequados para atendimento médico de 
+urgência e emprego de pessoal qualificado para tal, dentre outras. 
+9.12.1 Devem ser observadas medidas que assegurem a separação de atendimento pré-
+hospitalar de torcedores de diferentes agremiações (clubes). 
+9.13 O organizador do evento deverá estar atento às demais recomendações das autoridades 
+federais, estaduais e municipais que poderão evidenciar outras limitações em decorrência dos 
+efeitos dos impactos ambientais e urbanos gerados pelo evento. 
+9.14 É vedada a realização de eventos, com acesso franco em recintos, sem o devido controle 
+de acesso e lotação máxima. 
+9.15 Em todos os eventos deverão ser instalados mecanismos de controle de acesso de público 
+(catracas), de forma a se garantir a lotação prevista no projeto. 
+9.16 Quando da ocorrência de tumultos na área externa ou pressão para entrada nos recintos
+
+--- PÁGINA 25 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+25/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+onde estiverem sendo realizados quaisquer eventos, nunca deve ser adotado o procedimento de 
+abertura dos portões de forma a permitir o acesso de público ao estádio sem o devido controle. 
+10 PROCEDIMENTOS ADMINISTRATIVOS 
+10.1 Os Projetos de Segurança Contra Incêndio e Pânico, deverão ser apresentados para análise 
+do Corpo de Bombeiros conforme IT 01 (Procedimentos Administrativos). 
+11 VIGÊNCIA 
+11.1 As medidas de Segurança Contra Incêndio e Pânico contidas nesta Instrução Técnica 
+passam a vigorar a partir da data de sua publicação.
+
+--- PÁGINA 26 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+26/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+ANEXO A 
+EXEMPLOS DE DIMENSIONAMENTO DE SAÍDAS 
+A.1. Estádio com as características descritas na subseção 5.8.1.1, com previsão de 
+lotação de 45.000 espectadores: 
+A.1.1 Para saídas horizontais (rampas): 
+a) Taxa de Fluxo (F) nas saídas horizontais: 
+F = 100 pessoas por minuto para cada 1,20 m. 
+b) Tempo (T) de saída dos setores:  
+T = máximo de 8 minutos. 
+c) Capacidade de escoamento (E) para saída de 1,20m:  
+E = F x T = 100 x 8 = 800 pessoas 
+d) Cálculo da Largura total das saídas (L): 
+L = P x 1,20 
+L = 45.000 x 1,20 F x T 100 x 8 
+L = 67,5 m 
+Atendendo à subseção 5.10.5: 
+L = 68 m distribuídos conforme esta IT. 
+A.1.2 Saídas verticais (escadas): 
+a) Fluxo (F) nas saídas verticais: 
+F = 79 pessoas / minuto / 1,20 m 
+b) Tempo (T) de saída dos setores: 
+T = máximo de 8 minutos. 
+c) Capacidade de escoamento (E) para escada de 1,20 m: 
+E = F x T = 79 x 8 = 632 pessoas. 
+d) Cálculo da Largura total das saídas (L): 
+L = P x 1,20 
+L = 45.000 x 1,20 F x T 79 x 8 
+L = 85,44 m 
+Atendendo à subseção 5.10.5: 
+L = 86 m Distribuídos conforme esta IT.
+
+--- PÁGINA 27 ---
+CBMMG IT 37 – Centros Esportivos e de Exibição Requisitos de Segurança Contra Incêndio e Pânico 
+2ª edição  
+ 
+27/27 
+Alterada pela portaria n. 63, de 04mai2021, publicada no DOEMG n. 89, ano 129, p.08. 
+ 
+A.2. Capacidade máxima de público (lotação) para Espetáculo em edificação existente 
+para uma lotação a ser calculada em função da largura total das saídas: 
+A.2.1 Para saídas horizontais (Portas e rampas): 
+a) Largura da rampa existente: 1,68 m; 
+b) Quantidade de rampas existentes: 10 rampas; 
+c) Fluxo (F) nas saídas horizontais: 
+F = 100 pessoas / minuto /1,20m 
+d) Tempo (T) máximo de saída: 
+T = máximo de 6 minutos 
+e) Capacidade de escoamento (E) para rampas de 1,20m: 
+E = F x T = 100 x 6 = 600 pessoas. 
+f) Capacidade de escoamento de uma rampa de 1,68m. 
+E = 100 x 1,68 = 140 Pessoas / minuto 1,20 E = 140 x 6 minutos >>> E = 840 pessoas 
+g) Cálculo da população máxima (Lotação): 
+L = P x 1,20P = L x F x T F x T >>> 1,20 
+P = 16,8 x 100 x 6 >>> P = 8.400 pessoas1,20 
+A.2.2 Para saídas verticais (escadas): 
+a) Largura das escadas existentes: 1,68 m; 
+b) Quantidade de escadas existentes: 10 rampas; 
+c) Fluxo (F) nas saídas horizontais: 
+F = 79 pessoas / minuto /1,20m 
+d) Tempo (T) máximo de saída: T = máximo de 6 minutos 
+e) Capacidade de escoamento (E) para escadas de 1,20m: 
+E = F x T = 79 x 6 = 474 pessoas. 
+f) Capacidade de escoamento de uma escada de 1,68m: 
+E = 79 x 1,68 = 110 Pessoas / minuto 1,20 E = 140 x 6 minutos >>> E = 660 pessoas 
+g) Cálculo da população máxima (Lotação):  
+L = P x 1,20 P = L x F x T F x T >>> 1,20 
+P = 16,8 x 79 x 6 >>> P = 6.636 pessoas 1,20

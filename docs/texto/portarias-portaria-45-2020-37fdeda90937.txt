@@ -1,0 +1,121 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+[Corpo de Bombeiros Militar de Minas Gerais]
+[Diretoria de Atividades Técnicas]
+PORTARIA Nº 45, DE 08 DE ABRIL DE 2020
+Dispõe sobre a regularização das unidades de atendimento médico de
+caráter temporário junto ao Corpo de Bombeiros no tocante a Medidas de
+segurança contra incêndio e pânico, enquanto durar a excepcionalidade da
+pandemia ocasionada pelo COVID-19 e dá outras providências.
+ 
+O CORONEL BM COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS, no uso
+de atribuição que lhe confere o § 3º do art. 12 da Lei Complementar nº 54, de 13 de fevereiro de 1999,
+tendo em vista o disposto no art. 2º da Lei nº 14.130, de 19 de dezembro de 2001, na Lei nº 23.629, de 2
+de abril de 2020, no Decreto nº 44.746, de 29 de fevereiro de 2008, no Decreto NE nº 113, de 12 de
+março de 2020, no Decreto nº 47.891, de 20 de março de 2020, e na Resolução da Assembleia LegislaƟva
+nº 5.529, de 25 de março de 2020,
+ 
+RESOLVE: 
+ 
+Art. 1º - As unidades de atendimento médico de caráter temporário, criadas
+emergencialmente para fazer frente ao crescente número de pacientes em busca de serviços de saúde
+em razão do COVID-19, serão regularizadas junto ao Corpo de Bombeiros Militar de Minas Gerais
+(CBMMG) por meio do rito próprio estabelecido nesta Portaria. 
+§ 1º - Consideram-se como unidades de atendimento médico de caráter temporário os
+hospitais, ambulatórios e locais de prestação de serviços de saúde que são disponibilizados, em
+instalações temporárias, para o enfrentamento da pandemia ocasionada pelo COVID-19. 
+§ 2º - A regularização das unidades de atendimento médico de caráter temporário com
+base nesta Portaria é uma medida excepcional e deve perdurar somente enquanto durar a necessidade
+de adoção de medidas conƟngenciais em razão da pandemia.
+§ 3º - As ediﬁcações permanentes, uƟlizadas para instalação das unidades de atendimento
+médico de caráter temporário, não necessitam estar regularmente licenciadas pelo CBMMG, no entanto,
+deverão ser apresentadas medidas miƟgadoras pelo responsável técnico e especiﬁcadas no Plano de
+Intervenção de Incêndio, como restrição ao uso de determinados recintos somente a funcionários, não
+podendo haver permanência de pacientes.
+ 
+Art. 2º - As unidades de atendimento médico de caráter temporário devem prever as
+seguintes medidas de segurança contra incêndio e pânico: 
+I - ExƟntores de incêndio; 
+II - Iluminação de emergência; 
+III - Sinalização de emergência; 
+IV - Saídas de emergência; 
+VI - Plano de Intervenção de Incêndio.
+
+--- PÁGINA 2 ---
+§ 1º - As Instruções Técnicas do CBMMG, regulamentadas pelo Decreto Estadual
+44.746/2008, servirão de base para execução das medidas de segurança contra incêndio e pânico nas
+unidades de atendimento médico de caráter temporário, devendo ser adaptadas as medidas, no que
+couber, visando viabilizar a instalação temporária sem comprometer a segurança dos usuários.
+§ 2º - Nos casos em que houver a necessidade de ajustar as medidas de segurança contra
+incêndio e pânico em razão da condição emergencial, provisória e especíﬁca de cada instalação, a
+Diretoria de AƟvidades Técnicas, mediante Corpo Técnico, regulamentará as adequações que se ﬁzerem
+necessárias, podendo dispensar exigências ou adaptar seus parâmetros. 
+ 
+Art. 3º - A regularização da unidade de atendimento médico de caráter temporário deve
+ser realizada por meio de processo no Sistema Eletrônico de Informações (SEI) e preferencialmente, antes
+do início da obra ou da adequação da ediﬁcação ou espaço desƟnado a uso coleƟvo pelo seguinte ﬂuxo:
+I - Solicitação de regularização mediante oİcio do Chefe do poder execuƟvo em sua esfera
+municipal (Prefeito), digitalizado e assinado em formato PDF, contendo:
+a) endereço do local onde será disponibilizada a instalação temporária;
+b) nome, n. CPF e n. do Registro de Classe do responsável técnico pela instalação das
+medidas de segurança contra incêndio e pânico;
+c) nome, telefone de contato e endereço eletrônico (e-mail) do responsável direto pelo
+acompanhamento da obra e pela regularização junto ao CBMMG;
+d) área e número de pavimentos a construir ou a serem adaptados, especiﬁcando a sua
+localização se esƟverem no interior de ediﬁcação permanente;
+e) Ɵpo de material de construção ou de adaptação que será uƟlizado;
+f) planta ou croqui das instalações em formato PDF ou DWG constando desƟnação
+especíﬁca de cada ambiente, número de leitos que serão disponibilizados, áreas de apoio, larguras dos
+corredores, largura das portas, indicar a lotação por ambiente, áreas de espera, etc;
+II - EfeƟvação da solicitação pela Unidade do Corpo de Bombeiros Militar da região que
+receberá o pedido e, se necessário, irá requerer imediatamente a complementação da documentação ou
+das informações;
+III - Agendamento, no menor prazo possível, pela Unidade do Corpo de Bombeiros Militar
+da região, de vistoria técnica ao local para veriﬁcar as condições de viabilidade operacional e orientar
+quanto às medidas de segurança contra incêndios a serem instaladas e adaptadas;
+IV - Elaboração do Plano de Intervenção de Incêndio, a ser desenvolvido durante a
+execução ou adaptação das instalações temporárias, pelo Comandante da Unidade do Corpo de
+Bombeiros Militar da região em conjunto com o responsável pelas instalações temporárias, para
+eventuais ocorrências de incêndio ou emergências no local;
+V - Solicitação de vistoria técnica, a ser agendada e realizada no menor prazo possível, ao
+término da execução ou das adaptações, realizada pelo responsável pelas instalações temporárias
+diretamente à Unidade Operacional de Bombeiros da área com Anotação de Responsabilidade Técnica
+(ART) ou Registro de Responsabilidade Técnica (RRT) relaƟvo à adaptações nas medidas de segurança
+contra incêndio (saídas de emergência) e aos riscos especíﬁcos, se houver (central de gás, central de
+oxigênio, motogerador);
+VI - Emissão de Declaração de Regularidade de Instalação Temporária, após aprovação
+em vistoria, emiƟda pelo Comandante da Unidade de Bombeiros da região com validade enquanto
+perdurar a pandemia.
+§ 1º - O Serviço de Segurança Contra Incêndio  Pânico da região deve estabelecer um meio
+de contato direto com o responsável pelas instalações temporárias, fornecendo nome, telefone e
+endereço eletrônico para contato.
+
+--- PÁGINA 3 ---
+§ 2º - As peculiaridades e as caracterísƟcas de cada instalação temporária, bem como das
+ediﬁcações permanentes uƟlizadas como eventuais áreas de apoio, devem ser observadas para
+veriﬁcação das medidas de segurança contra incêndios aplicáveis ao caso concreto.
+§ 3º - O Plano de Intervenção de Incêndio faz parte do processo de regularização das
+unidades de atendimento médico de caráter temporário e as providências nele descritas, incluindo
+eventuais medidas compensatórias, devem ser observadas pelo responsável pelas instalações
+temporárias. 
+§ 4º - O Comandante da Unidade de Bombeiros da região deve controlar e arquivar toda a
+documentação referente ao processo, bem como informar a DAT sobre o andamento de cada fase da
+regularização. 
+§ 5º - O licenciamento das unidades de atendimento médico de caráter permanente
+devem seguir integralmente o disposto no Decreto Estadual nº 44.746/2008, não se aplicando o rito
+próprio estabelecido nesta Portaria.
+ 
+Art. 4º - Esta Portaria entra em vigor no ato de sua publicação.
+ 
+ 
+Edgard Estevo da Silva, Coronel BM
+Comandante-Geral
+Documento assinado eletronicamente por Edgard Estevo da Silva, Comandante-Geral do Corpo de
+Bombeiros Militar do Estado de Minas Gerais, em 08/04/2020, às 17:51, conforme horário oﬁcial de
+Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 13302369
+e o código CRC BD524D31.
+Referência: Processo nº 1400.01.0020395/2020-91
+SEI nº 13302369

@@ -1,0 +1,245 @@
+--- PÁGINA 1 ---
+IT - 24 
+COMERCIALIZAÇÃO, DISTRIBUIÇÃO E UTILIZAÇÃO DE 
+GÁS NATURAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ANEXO 
+ 
+1 – Objetivo 
+ 
+ 
+Único - Obstáculo de proteção da bomba 
+2 – Aplicação 
+ 
+ 
+3 – Referências Normativas e Bibliográficas 
+ 
+ 
+4 – Definições 
+ 
+ 
+5 – Procedimentos
+
+--- PÁGINA 2 ---
+INSTRUÇÃO TÉCNICA – 24 
+ 
+   
+ 
+ 
+COMERCIALIZAÇÃO, DISTRIBUIÇÃO E 
+UTILIZAÇÃO DE GÁS NATURAL 
+ 
+ 
+DIRETORIA DE ATIVIDADES TECNICAS 
+Av. Augusto de Lima, 355 - Bairro Centro 
+CEP 30.190-000 
+Site: www.bombeiros.mg.gov.br 
+Email: dat3@cbmmg.mg.gov.br 
+ 
+ 
+ 
+ 
+1 OBJETIVO 
+ 
+Esta Instrução Técnica estabelece as condições 
+necessárias para a proteção contra incêndio nos locais 
+de comercialização, distribuição e utilização de GÁS 
+NATURAL 
+(Gás 
+Combustível 
+Comprimido), 
+conforme 
+as 
+exigências 
+do 
+Regulamento 
+de 
+Segurança Contra Incêndio e Pânico nas edificações e 
+áreas de risco no Estado de Minas Gerais. 
+ 
+ 
+2 APLICAÇÃO 
+ 
+2.1 Esta Instrução Técnica aplica-se às edificações 
+destinadas a: 
+a) comercialização e utilização de gás combustível 
+comprimido (GN); 
+b) abastecimento de gás combustível comprimido 
+(GCC); 
+c) distribuição de gás natural liqüefeito (GNL). 
+  
+ 
+3 
+REFERÊNCIAS 
+NORMATIVAS 
+E 
+BIBLIOGRÁFICAS 
+ 
+Para compreensão desta Instrução Técnica é necessário 
+consultar 
+as 
+seguintes 
+normas, 
+levando 
+em 
+consideração todas as suas atualizações e outras que 
+vierem substituí-las: 
+ 
+Lei nº 14.130, de 19 de dezembro de 2001 que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado 
+de Minas Gerais. 
+ 
+Decreto Estadual nº 44.270, de 01 de Abril de 2006 – 
+Regulamento de Segurança Contra Incêndio e Pânico 
+nas edificações e áreas de risco no Estado de Minas 
+Gerais. 
+ 
+NBR 13932 - Instalações internas de GLP - projeto e 
+execução. 
+ 
+NBR 14570 – Instalações internas para uso alternativo 
+dos gases GN e GLP - projeto e execução. 
+ 
+NBR 12236 – Critérios de projeto, montagem e 
+operação de postos de gás combustível comprimido. 
+Portaria nº 118 de 11JUL2000 da Agência Nacional de 
+Petróleo (regulamenta as atividades de distribuição de 
+gás natural liqüefeito (GNL) a granel e de construção, 
+ampliação e operação das centrais de distribuição de 
+GNL; 
+ 
+NBR 13103 - Adequação de ambientes residenciais 
+para instalação de aparelhos que utilizam gás 
+combustível. 
+ 
+NBR 12693 – Sistemas de proteção por extintores de 
+incêndio. 
+ 
+4 DEFINIÇÕES 
+ 
+Para efeito desta Instrução aplicam-se as definições 
+constantes da IT 02 - Terminologia de proteção contra 
+incêndio e Pânico. 
+ 
+ 
+ 5 PROCEDIMENTOS 
+ 
+5.1 Utilização e Instalação de gás natural (GN) 
+ 
+Além do disposto nas NBR 13932 e NBR 14570, deve-
+se atentar para que a tubulação da rede interna não 
+passe no interior de: 
+a) dutos de lixo, ar condicionado e águas pluviais; 
+b) reservatório de água; 
+c) dutos para incineradores de lixo; 
+d) poços e elevadores; 
+e) compartimentos de equipamentos elétricos; 
+f) compartimentos destinados a dormitórios, exceto 
+quando 
+destinada 
+à 
+conexão 
+de 
+equipamento 
+hermeticamente isolado; 
+g) poços de ventilação capazes de confinar o gás 
+proveniente de eventual vazamento; 
+h) qualquer vazio ou parede contígua a qualquer vão 
+formado pela estrutura ou alvenaria, ou por estas e o 
+solo, sem a devida ventilação. Ressalvados os vazios 
+construídos e preparados especificamente para esse fim 
+(shafts), os quais devem conter apenas as tubulações de 
+gás, líquido não inflamáveis e demais acessórios, com
+
+--- PÁGINA 3 ---
+ventilação permanente nas extremidades; sendo que estes 
+vazios devem ser sempre visitáveis e previstos em área de 
+ventilação permanente e garantida; 
+i) qualquer tipo de forro falso ou compartilhamento não 
+ventilado, exceto quando utilizado tubo-luva; 
+j) locais de captação de ar para sistemas de ventilação; 
+k) todo e qualquer local que propicie o acúmulo de gás 
+vazado; 
+l) paredes construídas com tijolos vazados observando a 
+ressalva da alínea h do item 5.1. 
+ 
+5.2 
+Postos 
+de 
+abastecimento 
+de 
+gás 
+combustível 
+comprimido (GN) 
+5.2.1 Os locais onde haja abastecimento de gás combustível 
+comprimido (GN) devem ser protegidos por uma unidade 
+extintora sobre rodas de Pó BC, capacidade 80B, além do 
+sistema de proteção contra incêndio exigido para os demais 
+riscos. 
+5.2.2 O ponto de abastecimento deve possuir obstáculo de 
+proteção mecânica com altura mínima de 0,20 m situado à 
+distância não inferior a 1,00 m da bomba de abastecimento de 
+gás natural, junto à passagem de veículos. 
+5.2.3 O local de abastecimento deve possuir placas de 
+advertência quanto às regras de segurança a serem adotadas 
+pelos usuários, prevendo distâncias seguras de permanência do 
+usuário, além de esclarecimentos tais como: “PROIBIDO 
+FUMAR”, 
+“DESLIGAR 
+RÁDIOS, 
+CELULARES, 
+EQUIPAMENTOS ELÉTRICOS”. 
+ 
+5.3 Distribuição de GNL 
+ 
+5.3.1 A pessoa jurídica autorizada a exercer a atividade de 
+distribuição de gás combustível comprimido (GCC) a granel é 
+responsável pelo procedimento de segurança nas operações de 
+transvasamento, ficando obrigada a orientar aos usuários do 
+sistema, quanto às normas de segurança a que devem ser 
+obedecidas. 
+5.3.2 As normas de segurança acima citadas referem-se ao 
+correto 
+posicionamento, 
+desligamento, 
+travamento 
+e 
+aterramento do veículo transportador, bem como do 
+acionamento das luzes de alerta, sinalização por meio de cones 
+e prevenção por extintores, dentre outros procedimentos. 
+5.3.3 O veículo transportador deve estacionar em área aberta e 
+ventilada e possuir espaço livre para manobra e escape rápido.
+
+--- PÁGINA 4 ---
+ANEXO A 
+OBSTÁCULO DE PROTEÇÃO DA BOMBA 
+ 
+ 
+ 
+ 
+ 
+ 
+1,00 m 
+OBSTÁCULO 
+CONTRA 
+CHOQUES 
+MECÂNICOS 
+0,20 m 
+ATERRAMENTO
+Bomba de 
+GN 
+1,00 m 
+0,20 m
+OBSTÁCULO 
+CONTRA 
+CHOQUES 
+MECÂNICOS 
+Bomba de 
+GN

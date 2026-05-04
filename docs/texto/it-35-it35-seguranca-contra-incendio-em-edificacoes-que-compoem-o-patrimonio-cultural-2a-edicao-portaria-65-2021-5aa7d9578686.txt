@@ -1,0 +1,1646 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 35 
+2ª edição 
+SEGURANÇA CONTRA INCÊNDIO EM 
+EDIFICAÇÕES QUE COMPÕEM O 
+PATRIMÔNIO CULTURAL 
+ 
+Aprovada pela portaria n. 30, de 17jul2017, publicada no DOEMG n. 135, ano125, p. 34. 
+Alterada pela portaria n. 32, de 04jan2018, publicada no DOEMG n. 02, ano 126, p. 29. 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições  
+5 – Considerações gerais 
+6 – Procedimentos 
+7 – Parâmetros para dimensionamento 
+das 
+medidas 
+de 
+segurança 
+contra 
+incêndio e pânico 
+ANEXOS 
+A – Medidas de Segurança Contra 
+Incêndio e Pânico para Edificações que 
+Compõem o Patrimônio Cultural 
+B – Metodologia de Avaliação do Risco 
+de Incêndio das Medidas de Segurança 
+Contra Incêndio e Pânico 
+C – Memorial de Avaliação de Risco
+
+--- PÁGINA 2 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+2/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+1OBJETIVO 
+1.1Estabelecer as medidas de segurança contra incêndio e pânico, visando atender as 
+condições mínimas aceitáveis para proteção das edificações que compõem o patrimônio cultural 
+protegido no Estado de Minas Gerais. 
+2 APLICAÇÃO 
+2.1Esta Instrução Técnica se aplica aos conjuntos arquitetônicos e edificações localizadas no 
+Estado de Minas Gerais, que sejam objeto de proteção nos âmbitos Municipal, Estadual ou 
+Federal, bem como aqueles listados como Patrimônio Cultural da Humanidade pela UNESCO. 
+2.2 Além das edificações objeto de proteção, também deverão atender aos critérios previstos 
+nesta Instrução Técnica as seguintes edificações: 
+a) Edificações residenciais unifamiliares que compõem um conjunto arquitetônico formado pelo 
+menos por uma edificação tombada pelo patrimônio histórico; 
+b) Edificações vizinhas ao patrimônio tombado, ainda que não tombadas; 
+c) Toda edificação onde o efeito do incêndio gerado possa atingir o patrimônio tombado; 
+d) Edificações não tombadas que abriguem acervos móveis protegidos pelo patrimônio histórico, 
+nos termos do item 5.7 desta IT. 
+2.3 Esta norma é aplicável aos elementos existentes no ato de tombamento da edificação. 
+3 REFERÊNCIAS 
+3.1Para compreensão desta Instrução Técnica é necessário consultar as seguintes referências, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las. 
+3.2 Legislação 
+BRASIL. Constituição (1888). Constituição da República Federativa do Brasil. Brasília: Senado, 
+1888. 
+Decreto-lei Federal n. 25/1837, que organiza a Proteção do Patrimônio Histórico e Artístico 
+Nacional. 
+Lei Federal n. 11.483/2007, que versa sobre a Preservação da Memória Ferroviária. 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.746/2008 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.3 Normas Internacionais 
+Guideline n. 1:2002 F –Internal fire protection control. 
+Guideline n. 2:2013 F –Panic & emergency exit devices. 
+Guideline n. 4:2010 F –Introduction to qualitative fire risk assessment.
+
+--- PÁGINA 3 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+3/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+Guideline n. 5:2003 F –Guidance signs, emergency lighting and general lighting. 
+Guideline n. 6:2011 F –Fire safety in care homes for the elderly. 
+Guideline n. 7:2011 F –Safety distance between waste containers and buildings. 
+Guideline n. 8:2004 F –Preventing arson – information to young people. 
+Guideline n. 9:2012 F –Fire safety in restaurants. 
+Guideline n. 10:2008 F –Smoke alarms in the home. 
+Guideline n. 11:2005 F –Recommended numbers of fire protection trained staff. 
+Guideline n. 12:2012 F –Fire safety basics for hot work operatives. 
+Guideline n. 13:2006 F –Fire protection documentation. 
+Guideline n. 14:2007 F –Fire protection in information technology facilities. 
+Guideline n. 16:2008 F –Fire protection in offices. 
+Guideline n. 19:2009 F –Fire safety engineering concerning evacuation from buildings. 
+Guideline n. 20:2012 F –Fire safety in camping sites. 
+Guideline n. 22:2012 F –Wind turbines – Fire protection guideline. 
+Guideline n. 23:2010 F –Securing the operational readiness of fire control system. 
+Guideline n. 24:2010 F –Fire safe homes. 
+Guideline n. 25:2010 F –Emergency plan. 
+Guideline n. 26:2010 F –Fire protection of temporary buildings on construction sites. 
+Guideline n. 27:2011 F –Fire safety in apartment buildings. 
+Guideline n. 28:2012 F –Fire safety in laboratories. 
+Guideline n. 29:2013 F –Protection of paintings: transport, exhibition and storage. 
+Guideline n. 30:2013 F –Managing Fire Protection of Historic Buildings. 
+NFPA 914 – Code for Fire Protection of Historic Structures, National Fire Protection Association. 
+NFPA 909 – Code for the Protection of Cultural Resource Properties – Museums, Libraries, and 
+Places of Worship. 
+3.4 Normas Nacionais 
+NBR 7188 – Vidros na construção civil – Projeto, execução e aplicações. 
+Instruções Técnicas do Corpo de Bombeiros Militar de Minas Gerais.
+
+--- PÁGINA 4 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+4/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+Instrução Técnica n. 40 – Edificações históricas, museus e instituições culturais com acervos 
+museológicos – CBPMESP. 
+Normas para apresentação de projetos de restauração do patrimônio edificado. Instituto Estadual 
+do Patrimônio Histórico e Artístico de Minas Gerais (IEPHA). 2015. 
+Normas para elaboração e apresentação de projetos de conservação-restauração de elementos 
+artísticos móveis e integrados. Instituto Estadual do Patrimônio Histórico e Artístico de Minas 
+Gerais (IEPHA). 2015. 
+3.5 Bibliográficas 
+BRASIL. INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. Cartas 
+Patrimoniais. 3ª ed. Rio de Janeiro: IPHAN, 2004. 408p. 
+GERMAN INSURANCE ASSOCIATION (GDV). Brandschutz in historischen Gebäuden:  
+Empfehlungenzur Schadenverhütung. German Insurance Association, 2008. 
+EMRY, Esteve. Fire Safety in Historic Town Centres. English Heritage, 2008. 
+GOMIDE, José Hailon; SILVA, Patrícia Reis; BRAGA, Sylvia Maria Nelo. Manual de elaboração 
+de projetos de preservação do patrimônio cultural. Brasília, DF: IPHAN / MONUMENTA, 2005. 76 
+p.– (Cadernos Técnicos –1). 
+GOUVEIA, Antônio Maria Claret. Análise de Risco de Incêndio em Sítios Históricos. Brasília, DF: 
+IPHAN / MONUMENTA, 2006. 104 p.– (Cadernos Técnicos–5). 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica aplicam-se as definições constantes no Regulamento de 
+Segurança Contra Incêndio e Pânico, Referências Normativas e IT 02 (Terminologia de Proteção 
+Contra Incêndio e Pânico), complementadas pelas definições descritas nesta IT. 
+4.1 Acervo: Edificação, elementos artísticos integrados ou musealizados, pinturas, esculturas, 
+mobiliário, 
+gravuras, 
+livros, 
+documentos, 
+vestuário, 
+armaria, 
+artefatos 
+arqueológicos, 
+etnográficos, paleontológicos, maquinário, equipamentos e peças de origem ferroviária ou outra 
+(expostos ou não) considerados bem cultural protegido. 
+4.2 Axiomas: São premissas contidas em cartas, recomendações, declarações e resoluções 
+referentes à conservação e preservação do patrimônio protegido, definidos pelos órgãos de 
+preservação. 
+4.3 Cartas Patrimoniais: Consolidações de recomendações e orientações objetivando a 
+salvaguarda de bens elegidos como possuidores de valor cultural. Se originam das atividades 
+decorrentes das Convenções internacionais que abordaram o tema da preservação, 
+conservação e promoção do patrimônio cultural, promovidas pela UNESCO, tendo o Brasil 
+ratificado o expresso nestes documentos. 
+4.4 Condições mínimas aceitáveis de segurança contra incêndio: São o conjunto de 
+medidas de segurança ativas e passivas capazes de gerar na edificação o risco máximo 
+admissível de incêndio. 
+4.5 Conjunto arquitetônico: Conjunto de edificações que por suas características 
+arquitetônicas peculiares delimitam área específica dentro de determinado espaço urbano ou 
+rural.
+
+--- PÁGINA 5 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+5/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+4.6 Conjunto urbano protegido: Conjunto arquitetônico formado por pelo menos uma 
+edificação tombada e edificações vizinhas, ainda que não tombadas, de tal modo que os efeitos 
+do incêndio gerado em uma delas possam atingir as outras. 
+4.7 Conservações: Conjunto de medidas preventivas de caráter técnico ou administrativo 
+destinadas a prolongar o tempo de vida de determinado bem cultural (edificação). 
+4.8 Diretrizes de Preservação: São as diretrizes relativas às intervenções de restauração, 
+requalificação e conservação a serem consideradas pelos órgãos de preservação, de forma a 
+subsidiar a análise pelos seus técnicos, em relação a projetos que se enquadram nesta Instrução 
+Técnica. São expressas através das portarias e outros instrumentos internos, exarados pelas 
+autoridades competentes, além das legislações norteadoras das atividades de cada órgão.  
+4.9 Edificações de Valor Cultural Protegidas: Construções que pelo seu valor arquiteto nico, 
+histórico, artístico ou simbólico se revestem de significado para uma municipalidade, estado, país 
+ou mesmo para a humanidade, sendo elemento importante para o entendimento da trajetória de 
+determinada parcela da população em sua interação com o meio ambiente. 
+4.10 Edificação com tombamento isolado: Edificação de elevado valor cultural cujas 
+características externas e internas devem ser rigorosamente mantidas. Necessariamente, 
+intervenções nestas edificações deverão ser autorizadas pelos órgãos de preservação 
+pertinentes. 
+4.11 Edificação Histórica: Edificação de interesse do patrimônio histórico cultural que, 
+comprovadamente, possui certidão de preservação do imóvel ou documento equivalente, 
+fornecido pelos órgãos oficiais competentes e legalmente habilitados para certificação. 
+4.12 Edificações inseridas em conjuntos urbanos protegidos: Edificações com valor cultural 
+agregado com certa flexibilidade nas intervenções internas mediante autorização dos órgãos de 
+preservação pertinentes. 
+4.13 Edificação do tipo Q: é a edificação dividida em unidades de ocupação que, por suas 
+características construtivas, não permite, ou pelo menos, dificulta significativamente a 
+propagação do incêndio nas direções horizontal e vertical. 
+4.14 Edificação do tipo T: é a edificação que, por suas características construtivas, não permite 
+ou, pelo menos, dificulta significativamente a propagação do incêndio na direção vertical. 
+4.15 Edificações do tipo V: é a edificação que não se classifica nos tipos Q ou T. 
+4.16 Edificação protegida: Bem imóvel ou edificação que por suas características históricas, 
+estéticas ou arquitetônicas integram-se ao património sociocultural de uma localidade, 
+devidamente reconhecido por órgão de preservação. 
+4.17 Elemento artístico: Objetos que são testemunhos da criação humana que possuem valor 
+histórico, artístico, científico, religioso e etc., sendo divididos em: Elementos Artísticos Móveis e 
+Elementos artísticos integrados. 
+4.18 Elemento artístico integrado: Objetos que são testemunhos da criação humana que 
+possuem valor histórico, artístico, religioso, científico e etc. Incluem-se aqueles que integram um 
+determinado local para o qual eles foram especificamente pensados e produzidos, não podendo, 
+por essa razão, ser transferidos ou removidos sem acarretar em danos e descaracterização do 
+local ocupado originariamente por eles. Ex.: retábulos, retábulos com elementos com 
+douramento, balaustrada, cimalha, coro, entre outros.
+
+--- PÁGINA 6 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+6/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+4.19 Elementos Artísticos Móveis: Objetos que são testemunhos da criação humana que 
+possuem valor histórico, artístico, científico, religiosos etc. São objetos que não necessariamente 
+complementam uma edificação ou sítio, os quais podem ser transferidos sem prejuízo para a 
+peça ou para o conjunto. Ex.: obras de arte, prataria, esculturas, peças sacras, peças litúrgicas, 
+lustres, entre outros. 
+4.20 Elemento existente: Guarda corpo, corrimão, escada ou outros elementos arquitetônicos 
+existentes na época de tombamento. 
+4.21 Intervenções: Todas as medidas técnicas implementadas em uma edificação. Em 
+específico no âmbito desta normativa, além das premissas de segurança contra incêndio, devem 
+atender ao disposto na legislação patrimonial tendo o objetivo primordial de garantir ao acervo 
+cultural sua conservação e/ou integridade. Portanto, se busca que não acarretem quaisquer 
+alterações em seu aspecto físico, em suas condições de visibilidade ou ambiência, ou minimizem 
+ao máximo. 
+4.22 Manutenção: Conjunto de operações destinadas a manter, principalmente, a edificação em 
+bom funcionamento e uso. 
+4.23 Medida sinalizadora de incêndio: medidas que visam detectar o início de um incêndio, 
+possibilitando comunicar a usuários, autoridades públicas e demais pessoas vizinhas da 
+edificação. 
+4.24 Medida extintiva: medidas que visam extinguir um incêndio, seja pela ação humana ou 
+automaticamente, minimizando prejuízos decorrentes do calor excessivo e da fumaça. 
+4.25 Órgão de Preservação: Órgão que atua na gestão, proteção e preservação do patrimônio 
+histórico, artístico e cultural, podendo ser nas esferas, municipal, estadual, federal ou 
+internacional. 
+4.26 Proteção: Ações técnicas, administrativas ou legais que visem garantir a perenidade do 
+bem (edificação) reconhecido como possuidor de valor cultural. 
+4.27 Reabilitação: Intervenções destinadas à revitalização física e cultural do bem, que pode 
+eventualmente implicar em mudança de ocupação. 
+4.28 Reconstrução: Intervenção destinada a reproduziras características arquitetônicas e 
+técnicas de edificações pré-existentes. Reedificação de prédio ou edifício, total ou parcialmente, 
+arruinado por motivo de sinistros (incêndio, desabamento, outros) ou demolição. 
+4.29 Reforma ou Reparação: Toda e qualquer intervenção que implique na demolição ou 
+construção de novos elementos tais como: ampliação ou supressão de área construída; 
+modificação da forma do bem em planta, corte ou elevação; modificação de vãos; aumento no 
+gabarito e substituição significativa da estrutura ou inclinação da cobertura. 
+4.30 Restauração: Ações técnicas que tenham por objetivo restabelecer a unidade do bem 
+cultural. Buscam garantir sua integridade, preservando as características essenciais ao seu 
+pleno entendimento. Para tanto, deve respeitar sua concepção original, os valores de 
+tombamento e seu processo histórico de intervenções. 
+4.31 Reversibilidade: Ações técnicas implementadas com o objetivo de garantir as condições 
+para o pleno restabelecimento, após sua retirada ou desfazimento, de suas condições 
+estruturais, plásticas, ambientais e de ambiência do bem cultural originais que foram objeto de 
+intervenção.
+
+--- PÁGINA 7 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+7/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+4.32 Risco Máximo Admissível de Incêndio: Corresponde à exigência de implantação na 
+edificação de medidas de segurança ativas e passivas em certo número, admitida como 
+suficientemente seguras e economicamente viáveis, as quais se sobrepõem aos parâmetros que 
+favorecem a ocorrência de um incêndio de severidade máxima provável admissível.  
+4.33 Rota de Retirada de Acervo: Caminho destinado para retirada de acervos de edificações. 
+4.34 Salvaguardo: Toda ação de proteção de acervo cultural visando resguardar sua 
+integridade podendo ser de ordem administrativa, técnica ou legal. 
+4.35 Severidade máxima provável de um incêndio em uma edificação: É determinada em 
+função do risco de incêndio decorrente de suas características construtivas, de sua ocupação, de 
+sua relação com as edificações vizinhas e o meio ambiente e das medidas de segurança nela já 
+implementadas ou disponibilizadas pela infraestrutura pública. 
+4.36 Tombamento: Ato administrativo oriundo dos órgãos de preservação atuantes no Estado 
+de Minas Gerais, nas esferas Federal, Estadual e Municipais, que tem por finalidade proteger, 
+por intermédio da aplicação de leis específicas, bens de valor cultural, impedindo que venham a 
+ser destruídos ou descaracterizados. Compreende o documento legal hábil para situar a 
+edificação no campo de abrangência desta Instrução Técnica. 
+4.37 Tombamento de Fachada: O acabamento e/ou detalhes do acabamento da fachada, 
+casos em que a estrutura e volumes já foram mexidos, mas a fachada e/ou seus detalhes são 
+importantes para serem preservados. 
+4.38 Tombamento de Gabarito: Altura da edificação, ou seja, as alturas do telhado e cumeeira 
+não podem ser alteradas, para não destoar em relação a um conjunto de imóveis. 
+4.39 Tombamento Volumétrico: Toda a envoltória da edificação, fachada telhado e paredes 
+externas (casca da edificação), suas dimensões, podem também ser de um conjunto de 
+edificações, neste caso as paredes internas podem ser mexidas. 
+5 CONSIDERAÇÕES GERAIS 
+5.1 Para esta IT serão consideradas somente as diretrizes de preservação que possam interferir, 
+interagir ou alterar ações necessárias à garantia da prevenção e segurança contra incêndio em 
+edificações protegidas. 
+5.1.1 Na ausência de diretrizes específicas expedidas pelos Órgãos de Preservação, as Cartas 
+Patrimoniais serão os instrumentos técnicos balizadores das análises a serem efetuadas pelo 
+Responsável Técnico. 
+5.1.2 Os elementos construídos após o ato de tombamento devem atender a legislação da época 
+em que foram construídos. 
+5.1.3 A reconstrução que abriga acervos protegidos deverá utilizar a legislação vigente 
+observando quesitos que contribuam para a proteção destes bens. 
+5.1.4 Para adequação das edificações protegidas deverão ser utilizadas as legislações vigentes, 
+devendo ser verificado o impacto dessas intervenções junto ao órgão de preservação pertinente. 
+5.2 A execução de adaptação nas medidas de segurança contra incêndio e pânico em 
+edificações tombadas, deverá considerar os seguintes princípios de preservação cultural:
+
+--- PÁGINA 8 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+8/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+a) qualquer adaptação ou acréscimo espacial, material e infraestrutural em um bem deverá se 
+destacar da composição arquitetônica, urbanística ou paisagística original conforme normativa 
+dos Órgãos de Preservação;  
+b) respeitar todas as partes interessantes do edifício, seu esquema tradicional, o equilíbrio de 
+sua composição e suas relações com o meio ambiente, estabelecendo assim um diálogo entre o 
+presente e o passado; 
+c) explicitar o tempo de sua realização; 
+d) demarcar sua contemporaneidade;  
+e) se pautar pela reversibilidade e, portanto, não dificultar futuras restaurações; 
+f) ser coadjuvante em relação ao protagonismo desempenhado pelo bem. 
+5.2.1 A adaptação e/ou isenção de medidas de segurança de uma edificação que compõe o 
+patrimônio tombado deverá garantir ainda, as seguintes características: 
+a) manutenção de condições ambientes de sustentabilidade da vida humana por um tempo 
+suficiente para a fuga dos seus ocupantes, e a realização das operações de salvamento e 
+combate a incêndio em condições de segurança; 
+b) ausência do colapso estrutural de partes determinadas da edificação; 
+c) extensão admissível de danos à edificação e ao conteúdo dessa bem como às edificações 
+adjacentes e à infraestrutura pública. 
+5.3 O Responsável Técnico (RT) deverá esgotar todas as possibilidades de intervenção à 
+edificação, com o objetivo de atender as Instruções Técnicas, Normas da ABNT e diretrizes de 
+restauração, requalificação e conservação, mediante aprovação do órgão de preservação 
+pertinente. 
+5.3.1 Na impossibilidade de realizar intervenções, caberá ao RT apresentar Parecer Técnico 
+(similar) emitido pelo órgão de preservação responsável pelo tombamento, bem como, 
+esclarecimentos que justificam a metodologia e as medidas mitigadoras adotadas para fins de 
+avaliação do Corpo Técnico do Corpo de Bombeiros Militar de Minas Gerais (CBMMG). 
+5.3.2 O RT poderá adotar métodos computacionais avançados baseados em desempenho, 
+visando embasar tecnicamente sua decisão na adoção de medidas alternativas no lugar das 
+atuais medidas segurança contra incêndio e pânico previstas em Instruções Técnicas e Normas 
+da ABNT, uma vez que, estas apresentam impossibilidade técnica ou inviabilidade de execução. 
+5.4 As edificações tombadas pelo patrimônio histórico devem se adaptar no que couber às 
+exigências de proteção contra incêndio e pânico devido suas limitações, de forma a possibilitar a 
+adequação da edificação o mais próximo possível às exigências das normas técnicas atuais, 
+visando proporcionar as condições mínimas aceitáveis de segurança aos usuários e ao 
+patrimônio. 
+5.5 As edificações cujo PSCIP tenha sido aprovado pelo CBMMG, e posteriormente tombadas 
+pelo patrimônio histórico terão garantidos os direitos de acordo com a legislação da data da sua 
+aprovação. 
+5.5.1 O PSCIP aprovado e/ou liberado poderá se adequar à legislação vigente mediante 
+fundamentação do RT.
+
+--- PÁGINA 9 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+9/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+5.6 A aprovação do PSCIP pelo Corpo de Bombeiros Militar de Minas Gerais não exclui ou 
+substitui a aprovação pela Prefeitura Municipal ou demais órgãos e entidades públicas. 
+5.6.1 As situações de conflito de exigências entre órgãos serão analisadas em Corpo Técnico e 
+estarão sujeitas a reunião técnica entre os órgãos para deliberação. 
+5.7 Nas edificações não tombadas que abriguem acervos móveis protegidos pelo patrimônio 
+histórico, em complemento às medidas de segurança exigidas pela tabela específica do Anexo 
+A da IT 01 e parâmetros previstos em instruções técnicas específicas, deverão ser adotados os 
+itens 7.4, 7.5 e 7.8 desta IT, além de serem observados os seguintes critérios: 
+a) Apresentação de estudo especificando o acervo existente, o risco potencial advindo deste, 
+bem como o risco a que este está submetido, considerando os efeitos de incêndio ocorrido na 
+edificação; 
+b) Avaliação quanto à aplicação do item 7.10 desta IT, a critério do RT; 
+c) Nos compartimentos que possuam acervos móveis protegidos pelo patrimônio histórico cuja 
+preservação seja incompatível com a utilização de água, poderá ser dispensada a cobertura 
+pelo sistema de hidrantes, mediante a apresentação de proposta de medida compensatória e 
+apropriada para o combate a incêndio nos ambientes onde os acervos se encontrem 
+depositados, a ser avaliada pelo Corpo Técnico. 
+d) Outras adequações que, a critério do RT, sejam necessárias para a preservação do acervo 
+móvel protegido, mediante apresentação de medida de segurança alternativa de mesma 
+natureza, a ser avaliada pelo Corpo Técnico. 
+5.7.1 Para as edificações descritas no item 5.7, não caberão as demais adaptações nas 
+medidas de segurança contra incêndio e pânico previstas nesta IT, quando estas 
+representarem isenção ou minoração de exigências. 
+5.7.2 As edificações descritas no item 5.7 não darão, por si só, causa à constituição de 
+conjunto arquitetônico. 
+6 PROCEDIMENTOS 
+6.1 Forma de apresentação 
+6.1.1 As medidas de segurança contra incêndio e pânico nas edificações devem ser 
+apresentadas ao CBMMG conforme definido na IT01 (Procedimentos Administrativos). 
+6.2 Definição de medidas 
+6.2.1 As medidas de segurança contra incêndio e pânico previstas no Anexo A são as mínimas 
+exigidas e aplicam-se a todas as edificações tombadas pelo patrimônio histórico, por ocasião:  
+a) da mudança da ocupação ou uso;  
+b) da regularização junto ao CBMMG. 
+6.2.2 Para isenção de alguma das medidas de segurança contra incêndio e pânico previstas no 
+Anexo A o RT poderá avaliar o Risco Global de Incêndio na edificação (R) e o Fator de 
+Segurança (S), visando verificar se as medidas projetadas ou as características da edificação 
+atingem o coeficiente de segurança mínimo aceitável (min) conforme a metodologia prevista no 
+Anexo B desta IT.
+
+--- PÁGINA 10 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+10/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+6.2.2.1 Para efeitos desta Instrução Técnica, considera-se uma edificação segura quando min, 
+de forma que o desequilíbrio entre um risco de incêndio e segurança contra incêndio, apresente 
+um coeficiente ≥1, permitindo uma situação favorável à segurança. 
+6.2.2.2 As edificações, considerando sua ocupação, deverão dispor pelo menos de uma medida 
+sinalizadora de incêndio, uma medida extintiva e saída de emergência compatível com o público 
+previsto para a edificação, excetuados os casos de isenção previstos nas notas das tabelas do 
+Anexo A desta IT. 
+6.2.2.3 Será obrigatória à instalação de extintores de incêndio nos locais de risco especiais 
+definidos na IT16(Sistema de Proteção por Extintores de Incêndio). 
+6.2.3 Caberá ao RT projetar as respectivas medidas segurança evitando, ao máximo, alterações 
+na edificação, devendo ser realizadas intervenções respeitando as diretrizes de preservação. 
+6.2.4 As medidas de segurança contra incêndio e pânico para edificações que fazem parte do 
+conjunto arquitetônico serão definidas pelo Corpo Técnico, ouvidos os demais Órgãos de 
+Preservação. 
+6.2.4.1 As edificações que não apresentarem as distâncias de separações conforme o 
+procedimento para dimensionamento da distância de separação previsto na IT 05 (Separação 
+entre Edificações) serão consideradas como parte do conjunto arquitetônico. 
+6.2.4.2 Para fins de definição de conjunto arquitetônico, deverá ser adotado para efeito de 
+cálculo as distâncias de separação entre a fachada da edificação e a divisa do terreno, 
+considerando como distância de afastamento a metade do valor calculado. 
+6.2.5 Nas edificações com ocupações mistas sem compartimentação entre as ocupações, as 
+medidas de segurança serão o conjunto das medidas exigidas para todas as ocupações. 
+6.2.6 Nas edificações com ocupações mistas com compartimentação entre as ocupações 
+deverão ser adotados os seguintes critérios: 
+a) para a definição das medidas de segurança de cada ocupação deve ser observada a tabela 
+específica da ocupação, considerando a área total da edificação e a altura específica de cada 
+ocupação;  
+b) os parâmetros de cada medida de segurança devem ser os indicados para cada ocupação; 
+c) havendo exigência das medidas: Alarme de Incêndio ou Sistema de Hidrantes, para quaisquer 
+das ocupações, deverá haver previsão das medidas exigidas em toda a edificação. 
+6.2.7 As medidas de segurança contra incêndio e pânico das edificações que não estiverem 
+especificadas no Anexo A desta IT deverão atender às exigências previstas na IT 01 
+(Procedimentos administrativos). 
+7 PARÂMETROS PARA DIMENSIONAMENTO DAS MEDIDAS DE SEGURANÇA CONTRA 
+INCÊNDIO E PÂNICO 
+7.1 Saídas de Emergência 
+7.1.1 As rotas de fuga devem conduzir a população a um local seguro, preferencialmente ao ar 
+livre, no nível do solo.
+
+--- PÁGINA 11 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+11/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+7.1.1.1 As rotas de fuga podem ser ajustadas para atender o mínimo previsto nesta IT, sendo 
+avaliadas as capacidades e dimensões dos acessos, portas, corredores, escadas e rampas. 
+7.1.1.2 Poderão ser utilizados como medida mitigadora, nos casos de adaptação das saídas de 
+emergência: a restrição de acesso aos visitantes, por barreiras ou placas proibitivas; a restrição 
+do público, com visitas guiadas; a limitação do número de visitantes; suporte adicional 
+(alternativas de locomoção e evacuação) para pessoas com deficiência etc. 
+7.1.1.3 O RT poderá utilizar software para Evacuação Virtual visando simular o movimento de 
+pessoas, de maneira a estimar o tempo de saída em diferentes situações e propor rotas de 
+evacuação adicionais. 
+7.1.2 Largura das saídas de emergência (escada, rampas e corredores) 
+7.1.2.1A largura mínima das escadas, rampas e corredores das rotas de fuga das saídas de 
+emergência existentes nas edificações tombadas poderá ser de 80,0 cm, desde que: 
+a) a população seja definida pelo número de saídas de emergência existentes; 
+b) seja instalada sinalização complementar por mensagens escritas (placa M2) conforme a IT 15 
+(Sinalização de Emergência) informando a lotação máxima permitida para cada recinto; 
+c) o número de pessoas seja controlado pelos responsáveis da edificação, restringindo seu 
+acesso, caso necessário; 
+d) seja atendida a distância máxima a ser percorrida pelos usuários conforme a IT 08 (Saídas de 
+emergência em edificações). 
+7.1.2.2 As saídas de emergência das edificações de ocupação do grupo H-2, H-3 e F-6 devem 
+atender às larguras mínimas exigidas pela IT 08. 
+7.1.3 Acessos 
+7.1.3.1 Os acessos deverão ter altura mínima de 2,50 m, podendo ser admitido um pé direito 
+mínimo de 2,0 m desde que: 
+a) sejam restritos aos ocupantes da edificação; 
+b) sejam devidamente sinalizados conforme a IT15 (Sinalização de Emergência); e 
+c) disponham de iluminação de emergência conforme a IT13 (Iluminação de Emergência). 
+7.1.3.2 Nos locais nos quais o pé direito ou obstáculo limitem a altura livre em 2,0 m, o RT 
+deverá definir rota de fuga alternativa ou, em caso de impossibilidade, propor medida mitigadora 
+para análise de Corpo Técnico. 
+7.1.4 Número de saídas nos pavimentos e descargas 
+7.1.4.1 O número de saídas de emergência poderá ser inferior ao mínimo exigido pela IT08, 
+desde que: 
+a) seja comprovada à impossibilidade técnica mediante Laudo Técnico; 
+b) a largura mínima atenda à população ocupante da edificação;
+
+--- PÁGINA 12 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+12/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+c) existam rotas alternativas de acesso às saídas permitindo o escoamento fácil de todos os 
+ocupantes da edificação. 
+7.1.4.2 As janelas ou demais aberturas, sem grades fixas, localizadas no pavimento térreo com 
+vão livre de área mínima de 1,20 m² e nenhuma dimensão inferior a 1,0 m serão consideradas 
+como saída alternativa, para efeito da distância máxima a ser percorrida. 
+7.1.4.3 As janelas consideradas como saída alternativa pelo item 7.1.4.2 deverão possuir peitoril 
+com altura máxima de 1,20 m. 
+7.1.4.4 A utilização de rotas alternativas deverá estar presente no plano de intervenção da 
+edificação. 
+7.1.4.5 Serão admitidas portas com largura mínima de 55,0 cm, com acesso para o exterior da 
+edificação, sendo consideradas como rota de fuga complementar, desde que permaneçam 
+abertas durante funcionamento e sejam sinalizadas. 
+7.1.4.6 Poderá ser admitido, após avaliação do Corpo Técnico: 
+a) o uso de escada móvel ou outro recurso de evacuação desde que seja usada para um número 
+pequeno de ocupantes (menos de10 pessoas), ocasião em que a edificação deverá dispor de 
+brigadistas treinados especialmente para ajudar as pessoas a evacuar dessa maneira; 
+b) o uso das varandas ou balcões também possam ser usados como uma porção compartilhada 
+de rotas de fuga, sendo o escape permitido sobre um telhado plano e seguro. 
+7.1.5 Portas nas rotas de fuga 
+7.1.5.1 A abertura das portas em sentido contrário a rota de fuga é permitida, desde que as 
+portas permaneçam abertas durante o funcionamento e disponham de sinalização conforme a 
+IT15. 
+7.1.5.2 Nos locais onde houver necessidade de se garantir segurança aos usuários da edificação 
+contra invasão de intrusos, é permitido, a critério do responsável técnico, que as portas das 
+descargas sejam bloqueadas, desde que seja possível a abertura pelo lado interno, sem 
+necessidade de chave. 
+7.1.5.3 As portas comuns com dimensão maior ou igual a 2,20m estão isentas da exigência de 
+instalação de coluna central. 
+7.1.5.4 As portas com dimensão maior que 1,20m estão isentas da exigência de possuir mais de 
+uma folha. 
+7.1.5.5Para as ocupações do grupo F com capacidade acima de 200 pessoas, pode ser 
+dispensada a instalação de barras antipânico nas portas das rotas de fuga, desde que estas 
+permaneçam abertas durante o funcionamento e dispuser de sinalização conforme a IT15. 
+7.1.6 Corrimão e guarda-corpo 
+7.1.6.1 Os corrimãos e guarda-corpos, existentes e incorporados à edificação, serão 
+considerados como elementos utilizáveis, caso apresentem condições estruturais íntegras e 
+esteja preservada sua funcionalidade.
+
+--- PÁGINA 13 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+13/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+7.1.6.2 Será admitida altura mínima 92,0 cm para os guarda-corpos existentes, em rota de fuga, 
+exceção das escadas abertas externas. 
+7.1.6.3 Guarda-corpos com balaustradas vazadas, que não atenderemao especificado na IT08, 
+deverão ser adequados, atendendo as diretrizes de preservação e aprovados pelo CBMMG e 
+Órgão de Preservação. 
+7.1.6.4 As escadas de uso restrito poderão ser dispensadas da projeção de guarda-corpos e 
+corrimãos, em ambos os lados, desde que seja controlado o seu acesso. 
+7.1.6.5 Na impossibilidade técnica da inserção de corrimão nas saídas verticais devido ao 
+comprometimento dos critérios de preservação, deverão ser apresentadas medidas mitigadoras 
+a serem avaliadas pelo Corpo Técnico do CBMMG. 
+7.1.7 Escadas/Rampas 
+7.1.7.1 As escadas existentes, com condições estruturais íntegras, ainda que constituídas de 
+madeira, preservada sua funcionalidade, serão consideradas como rotas de fugas, observando 
+os parâmetros de largura mínima, corrimão e guarda-corpo. 
+7.1.7.2 As escadas existentes que não compõem a rota de fuga estão dispensadas de 
+adequação à norma. 
+7.1.7.3 Fica dispensada a exigência mínima de 3(três) degraus nas escadas de acesso a 
+edificação ou quando houver desnível no pavimento; 
+7.1.7.4 As rampas internas e externas poderão ter 15% de declividades. 
+7.1.7.5 Na impossibilidade da adequação das escadas devido comprometer os critérios de 
+preservação, deverão ser apresentadas medidas mitigadoras a serem avaliadas pelo Corpo 
+Técnico. 
+7.2 Iluminação de emergência 
+7.2.1 A iluminação de emergência deve permitir o controle visual das áreas abandonadas tanto 
+para evacuação das pessoas quanto para localizar aquelas impedidas de locomover-se. 
+7.2.2 A intensidade da iluminação de emergência deve ser suficiente para evitar acidentes e 
+garantir a evacuação, levando em conta a possível penetração da fumaça nas áreas. 
+7.2.3 O sistema de iluminação de emergência pode ser incorporado à iluminação convencional 
+com vista a minimizar a interferência no espaço, levando em consideração o impacto em relação 
+à poluição visual. 
+7.2.4 O dimensionamento do sistema de iluminação de emergência poderá ser feito em função 
+do nível de iluminamento, devendo permitir o reconhecimento de obstáculos que possam 
+dificultar a circulação. 
+7.3 Sinalização de emergência 
+7.3.1 A sinalização de emergência não deve ser instalada sobre elemento artístico tombado. 
+7.3.2 A sinalização deve se restringir à informação básica a que se propõe, evitando-se 
+redundância para não comprometer a integridade plástica do bem cultural.
+
+--- PÁGINA 14 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+14/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+7.3.3 A sinalização de orientação e salvamento não será obrigatória nas edificações ou áreas 
+compartimentadas, que se encontrem no pavimento térreo, com saída de emergência direta para 
+logradouro público, onde a saída seja visualizada de todos os pontos e a distância máxima a 
+percorrer seja inferior a 15,0 m. 
+7.3.3.1 A isenção da instalação da sinalização de orientação não se aplica nas áreas de 
+sobrelojas, mezaninos e outras estruturas semelhantes. 
+7.3.4 O RT deverá determinar as dimensões e quantidade das sinalizações de maneira a evitar o 
+impacto em relação à poluição visual e a projeção de sinalização da rota de fuga, onde haja 
+obviedade do trajeto de saída. 
+7.4 Brigada de Incêndio 
+7.4.1 A brigada deve ser treinada para analisar a situação, acionar o Corpo de Bombeiros e 
+desencadear os procedimentos necessários, que podem ser priorizados ou realizados de acordo 
+com os recursos disponíveis no local. 
+7.4.2 O treinamento dos brigadistas das edificações que abrigarem bens culturais de interesse 
+do patrimônio histórico deve ser complementado com treinamento para ações de “proteção de 
+acervos”, com carga horária e conteúdo de acordo com particularidades da edificação e suas 
+obras de arte, a ser definido pelo RT. 
+7.4.3 A população fixa com idade acima de 60 (sessenta) anos e abaixo de 18 (dezoito) anos 
+não será considerada para o cálculo de brigadistas. 
+7.4.3.1 Caso toda a população fixa esteja na faixa etária prevista no item 7.4.3, deve ser 
+ministrado apenas treinamento teórico. 
+7.4.4 O treinamento específico para brigadas de incêndio em edificações com bens culturais 
+deverá ser acrescentado os seguintes tópicos à sua ementa:  
+Quadro 01– Treinamento especial para brigadas de edificações com bens culturais 
+A – Parte Teórica 
+Módulo 
+Assunto 
+Objetivos 
+Acervo patrimonial Reconhecimento do acervo, propriedades 
+construtivas, cuidados requeridos. 
+Todos os brigadistas deverão ter conhecimento do 
+valor cultural de cada acervo, suas propriedades e os 
+cuidados requeridospara melhor ação no combate ao 
+sinistro e proteção dos bens (retirada, prioridade e 
+demais ações). 
+B – Parte Prática 
+Módulo 
+Assunto 
+Objetivos 
+Prática 
+Teste de equipamentos 
+Praticar 
+técnicas 
+de 
+inspeção 
+e 
+teste 
+dos 
+equipamentos capacitando o brigadista a realizar 
+inspeções rotineiras. 
+7.5 Plano de Intervenção 
+7.5.1 As edificações que compõem o patrimônio histórico deverão dispor de Plano de 
+Intervenção conforme o Anexo A desta IT devendo constituir a base para todo o trabalho a ser 
+realizado quando da ação da brigada de incêndio ou dos responsáveis pela edificação.  
+7.5.2 O Plano de Intervenção de Incêndio consiste num planejamento prévio para a provável 
+ocorrência de uma emergência e visa facilitar o reconhecimento da edificação por parte da
+
+--- PÁGINA 15 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+15/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+população e das equipes de emergência, proporcionando sua utilização em simulados e 
+treinamentos.  
+7.5.3 O plano de intervenção deverá incluir as seguintes informações, considerando as 
+especificidades de cada edificação: 
+a) breve descrição das instalações e do uso tais como: se a edificação dispõe de gás canalizado 
+com respectiva quantidade; 
+b) plano de esboço que mostra as ruas de acesso, com respectivas larguras;  
+c) unidades do CBMMG mais próximas; 
+d)hidrantes públicos nas imediações; 
+e) identificação dos objetos que fazem parte do acervo que podem ser removidos em uma 
+emergência com inventário do acervo e respectivas orientações sobre a prioridade e forma de 
+retirada e proteção; 
+f) locais que abrigam o acervo relacionado; 
+g) atribuição de tarefas a funcionários e outros, juntamente com números de telefone residencial 
+/ móvel; 
+h) deveres de gerentes e supervisores; 
+i) telefone de contato com o serviço de incêndio e resgate; 
+j) nomes e endereços de recursos, tais como empreiteiros, especialistas em conservação, etc; 
+k) listagem e identificação em planta de risco das portas, janelas e vias de acesso, adequadas 
+para serem utilizadas como “rota de retirada” do acervo, por pavimento. 
+7.5.3.1 No Plano de Intervenção contra incêndio da edificação, além das disposições constantes 
+em IT específica, ações que os brigadistas devem seguir durante uma emergência: 
+a) retirada dos ocupantes; 
+b) remoção do acervo; 
+c) proteção dos acervos, para os itens que não puderem ser removidos; 
+d) instruções visando resguardar a integridade do brigadista; 
+e) listagem dos funcionários e da brigada da edificação, dividida por pavimento, com respectivos 
+telefones para contato. 
+7.5.4 O Plano de intervenção deverá conter sistema de categorização aser estabelecido para se 
+certificar que existem prioridades claras para a remoção de objetos, devendo ser consideradas 
+as seguintes situações: 
+a) primeira prioridade: itens de valor patrimonial internacional intimamente relacionados com a 
+edificação ou seus ocupantes anteriores;
+
+--- PÁGINA 16 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+16/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+b) segunda prioridade: itens de valor nacional ou que são importantes para explicar o histórico 
+da edificação ou seus ocupantes. Deve levar em consideração para classificar esses itens 
+aqueles que tenham um alto valor monetário ou de difícil restauração; 
+c) terceira prioridade: itens que seriam difíceis ou dispendiosos de substituir e que contribuem 
+para a história da edificação; 
+d) não identificados: itens que serão deixados no lugar. 
+7.6 Sistemas de hidrantes internos e externos 
+7.6.1 As edificações que compõem o patrimônio histórico considerando sua área deverão dispor 
+de redes hidráulicas de incêndio conforme o Anexo A desta IT, de maneira a ser um meio de 
+primeira intervenção destinado a ser utilizado na fase inicial do incêndio, seja pelos ocupantes da 
+edificação, brigada de incêndio ou pelo Corpo Bombeiros. 
+7.6.2 Para projeção do sistema de hidrantes o RT deverá adotar a IT 17 (Sistemas de Hidrantes 
+e Mangotinhos para Combate a incêndios), utilizando soluções técnicas de maneira a não 
+provocar interferência nos elementos artísticos integrados e nem interferir em sua visualização. 
+7.6.2.1 Os abrigos e tubulações do sistema de hidrantes não devem ser instalados em locais que 
+provoquem interferência em elemento artístico. 
+7.6.2.2 Em locais que possuem tombamento isolado ou abrigam obras e peças de interesse 
+cultural, a tubulação do sistema de hidrantes não precisa obrigatoriamente ser pintada na cor 
+vermelha, no entanto, deverá ser identificada em nos pontos visíveis. 
+7.6.2.3 Poderá ser utilizada a palavra “hidrante”, escrita através de pintura, plaqueta ou etiqueta 
+ao longo da tubulação. 
+7.6.2.4 Os abrigos de hidrantes não precisam obrigatoriamente ser pintados na cor vermelha, no 
+entanto, deverão ser sinalizados e suas tampas devem possuir a palavra “incêndio”. 
+7.6.3 Nas edificações que tenham predominância em seus compartimentos de obras ou peças 
+de interesse do patrimônio histórico cuja preservação seja incompatível com a utilização de 
+água, poderá ser dispensada essa exigência após avaliação do risco de incêndio pelo RT 
+seguindo a metodologia do Anexo B. 
+7.6.3.1 Quando a edificação não atingir o coeficiente de segurança mínimo, o Responsável 
+Técnico poderá propor medidas mitigadoras a ser avaliadas pelo Corpo Técnico, devendo ser 
+apresentado Laudo com respectiva ART ou RRT justificando tecnicamente a proposição de outra 
+medida de segurança. 
+7.6.3.2 A dispensa poderá ser realizada em partes da edificação em que abrigam os acervos 
+incompatíveis com água, ocasião que caberá avaliação do Corpo Técnico. 
+7.6.4 Para edificações térreas, deve-se adotar, preferencialmente, hidrantes externos, sem 
+prejuízo da área de cobertura, resguardando a sua integridade plástica e de seu entorno. 
+7.6.5 Quando exigido o sistema de hidrantes em construções de adobe ou pau a pique, será 
+obrigatória sua instalação externa, cobrindo toda a área da edificação. 
+7.6.6 Devido impossibilidade de instalação de reserva técnica de água para combate a incêndio 
+poderá ser utilizada a reserva de consumo da edificação, desde que atendidas as seguintes 
+condições:
+
+--- PÁGINA 17 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+17/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+a) haja impossibilidade técnica de execução de complementação da RTI para atendimento à 
+exigência atual;  
+b) a reserva de consumo tenha autonomia mínima 30min de funcionamento indiferente ao tipo 
+de sistema. 
+7.6.7 Os esguichos dos hidrantes deverão ser do tipo reguláveis visando permitir a utilização no 
+modo de nebulização para evitar danos estruturais. 
+7.6.8Para hidrantes internos, poderá ser aceito alcance de trajeto real da mangueira superior a 
+30 m, desde que o sistema seja dimensionado para esta condição. 
+7.6.9 Nas edificações que dispõe de redes hidráulicas de incêndio seca (hidrante de coluna 
+seca), esse sistema será utilizado como um meio de segunda intervenção, visto que, somente 
+poderão ser utilizáveis pelo Corpo de Bombeiros ou brigada de incêndio.  
+7.6.10 Para projeção do sistema de hidrante de coluna secadevem ser atendidas as seguintes 
+condições: 
+a) o município possua Corpo de Bombeiros Militar com viaturas para combate a incêndios, ou 
+que a Brigada de incêndio disponha de veículos com essa característica, além de dispor de 
+mangueiras, uniões de engate rápido entre mangueiras de incêndio atendendo a NBR 14349; 
+b) os pontos de tomada de água do hidrante de coluna seca deverão ser posicionados nas 
+caixas de escada ou nas antecâmaras. 
+7.6.10.1 O sistema de hidrante de coluna seca deverá dispor dos seguintes elementos: 
+a) tomada de água; 
+b) dispositivo de recalque instalado na fachada principal da edificação, ou no muro da divisa com 
+a rua, com a introdução voltada para a rua e para baixo em um ângulo de 45º e a uma altura 
+entre 0,60m e 1,0m em relação ao piso do passeio da propriedade, devendo ser identificado e 
+pintado na cor vermelha e dispor de válvula de retenção; 
+c) dispor de válvula de alívio ou purga (dreno) para retirada de ar da tubulação seca quando 
+essa for pressurizada, ocasião em que deverá ser testada seu funcionamento;  
+d) tubulação vertical sem carga d’água com diâmetro e materiais conforme a IT 17;  
+e) indicar em planta e na tubulação de que se trata de hidrantes de coluna seca;  
+f) dispensada a projeção de abrigos, mangueiras e esguichos. 
+7.6.11 Casos não previstos neste tópico deverão ser objeto de avaliação pelo Corpo Técnico. 
+7.7 Sistema de Detecção e Alarme de Incêndio 
+7.7.1 A sinalização do incêndio tem como objetivo avisar o mais breve possível a ocorrência do 
+incêndio de maneira a permitir o alarme e alertar mediante sinais sonoros/ópticos visando a 
+evacuação dos ocupantes e adoção de medidas iniciais de combate. 
+7.7.2 A escolha do detector envolve um conjunto de fatores que influenciarão de maneira 
+decisiva na sua capacidade de desempenho, devendo ser adotadas o procedimento a seguir 
+pelo Responsável Técnico:
+
+--- PÁGINA 18 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+18/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+a) deverá dispor de conhecimento das condições ambientais do local a ser instalado o sistema, 
+sendo primordial a realização de visita técnica na edificação de maneira a projetar um sistema 
+que seja eficiente e que não provoque interferência nos elementos artísticos integrado e nem 
+interferir em sua visualização; 
+b) projeção de detectores nas áreas sem controle visual (entreforro), locais esses que 
+disponham de instalações elétricas; 
+c) eletrodutos não precisam ser na cor vermelha. 
+7.8 Sistema de proteção por Extintores de Incêndio 
+7.8.1 Os extintores de incêndio constituem um meio de primeira intervenção no combate a 
+incêndio e devem ser instalados independentemente de qualquer que seja a medida de 
+segurança projetada. 
+7.8.2 O RT deverá projetar extintores (água, pó químico e CO2) nas áreas das edificações onde 
+não houver a presença de elementos artísticos integrados ou móveis. 
+7.8.3 Nos ambientes onde haja presença desses acervos artísticos protegidos é obrigatória a 
+utilização de extintores que levem em conta as características do acervo e possíveis danos 
+eventualmente provocados pelos agentes extintores, sendo recomendável, a utilização de 
+extintores a base de gás inerte. 
+7.8.4 Nos ambientes das edificações que abrigarem acervos documentais é obrigatória a 
+utilização de unidades extintoras a base de gás inerte, adequado à classe de incêndio. 
+7.8.5 Em locais onde as características do público apresentam dificuldades para utilização de 
+equipamentos, levando em consideração a carga, recomenda-se, preferencialmente, utilização 
+de extintores sobre rodas ou equipamentos compactos, com menor peso, mas com capacidade 
+extintora adequada ao risco. 
+7.8.5.1 Consideram-se unidades extintoras com dificuldade de transporte e manuseio aquelas 
+com peso a partir de 7,0 kg com carga (elemento extintor mais invólucro), sendo, portanto, 
+passíveis de utilizar adaptação sobre rodas. 
+7.8.6 Para instalação e sinalização dos equipamentos de extinção, é permitida a utilização de 
+suporte para piso, com pedestal e sinalização acoplada. 
+7.8.7 Nos espaços cujas paredes sejam completamente ornamentadas, revestidas por 
+elementos artísticos ou que não apresentarem resistência estrutural adequada, esse sistema 
+torna-se obrigatório. 
+7.8.8 Para o caso de instalação de extintores sobre rodas, o pedestal deverá ser independente, 
+em sua proximidade imediata. 
+7.8.9 Quando adotado suporte para piso, em tripé, e não for possível sua fixação, o responsável 
+pelo uso deve garantir seu posicionamento conforme projeto. 
+7.9 Sistema de Proteção por Chuveiros Automáticos 
+7.9.1 A projeção dessa medida de segurança está relacionada com seu princípio de 
+funcionamento ser de forma automática, visando o controle do incêndio na fase inicial e 
+possivelmente extingui-lo.
+
+--- PÁGINA 19 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+19/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+7.9.2 Recomenda-se a utilização do sistema baseado em névoa de água, por efeito de micro 
+gotículas de águas geradas por bicos aspersores especiais. 
+7.9.3 Recomenda-se a utilização do sistema ação prévia para evitar possibilidade de ativação do 
+sistema em função acidente (ex. colisão contra os chuveiros), desgaste da tubulação ou outras 
+falhas. 
+7.9.4 Nas edificações que tenham predominância em seus compartimentos de obras ou peças 
+de interesse do patrimônio histórico cuja preservação seja incompatível com a utilização de 
+água, poderá ser dispensada essa exigência após avaliação do risco de incêndio pelo RT 
+seguindo a metodologia do Anexo B. 
+7.9.4.1 Quando a edificação não atingir o coeficiente de segurança mínimo, o Responsável 
+Técnico poderá propor medidas mitigadoras a ser avaliadas pelo Corpo Técnico, devendo ser 
+apresentado Laudo com respectiva ART ou RRT justificando tecnicamente a proposição de outra 
+medida de segurança. 
+7.9.4.2 A dispensa da projeção de Chuveiros Automáticos poderá ser realizada em partes da 
+edificação em que abrigam os acervos incompatíveis com água, ocasião que caberá avaliação 
+do Corpo Técnico. 
+7.10 Sistema Fixo de Gases para Combate a Incêndio 
+7.10.1 O emprego de sistemas fixos de gases é recomendável nas situações em que o uso da 
+água ou outro agente extintor pode causar danos à edificação ou acervos, no entanto, caberá ao 
+RT avaliar o tipo de agente a ser utilizado. 
+7.10.2 Esses sistemas são recomendáveis na proteção de ambientes com elevada carga de 
+incêndio, caso de líquidos inflamáveis ou espaços com equipamentos elétricos e eletrônicos.  
+7.11 Controle de fumaça 
+7.11.1 Preferencialmente deve optar pelo controle de fumaça natural, utilizando as aberturas 
+existentes na própria edificação, contudo e a critério do RT poderá ser realizada por forma 
+mecânica ou combinado. 
+7.11.2 Sempre que houver necessidade de intervenção por parte do responsável técnico, para 
+criação de aberturas, estas intervenções devem ser realizadas com aquiescência do Órgão de 
+preservação.
+
+--- PÁGINA 20 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+20/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+ANEXO A 
+MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO PARA EDIFICAÇÕES QUE 
+COMPÕEM O PATRIMÔNIO CULTURAL 
+Tabela 1– Exigências para edificações com altura menor ou igual a 12 metros. 
+Medidas de Segurança contra 
+Incêndio e Pânico 
+A, C, D, 
+I-1, I-2 
+B 
+E 
+F 
+H 
+F-1, F-5, 
+F-6, F-11 
+F-2, F-3,F-8, 
+F-9, F-10 
+Controle de Materiais de Acabamento e de 
+Revestimento 
+ 
+ 
+ 
+X(2) 
+X(2), (9) 
+ 
+Iluminação de emergência 
+X(3) 
+X(3)(4) 
+X(3) 
+X(3) 
+X(3) 
+X(3) 
+Saídas de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+Sinalização de Emergência 
+X 
+X 
+X 
+X 
+X 
+X 
+Extintores 
+X 
+X 
+X 
+X(5) 
+X(5) 
+X(5) 
+Brigada de Incêndio 
+X(1) 
+X(3) 
+X(3) 
+X(3) 
+X(3) 
+X(3) 
+Plano de Intervenção de Incêndio  
+X(6) 
+X 
+X 
+X 
+X 
+X 
+Alarme de incêndio 
+X(1) 
+X(3) 
+X(3) 
+X(3) 
+X(3) 
+X(3) 
+Detecção de incêndio 
+X(7)(8) 
+X(1) 
+X(1) 
+X(3) 
+X(1) 
+X(1) 
+Hidrantes e Mangotinhos 
+X(1) 
+X(1)(4) 
+X(1) 
+X(1)(5) 
+X(1)(5) 
+X(1)(5) 
+NOTAS ESPECÍFICAS: 
+(1)– Somente para edificações com área superior a 1.200 m². 
+(2)– Somente para edificações com população superior a 200 pessoas. 
+(3)– Estão isentas as edificações térreas com área menor ou igual a 200 m² e população inferior a 50 pessoas. 
+(4)– Estão isentos os motéis que não possuam corredores internos cobertos, previsão nas demais áreas comuns. 
+(5)– Para as divisões F-3, H-2 e H-5, os extintores e hidrantes poderão ser instalados em locais com acesso 
+privativo. 
+(6)– Somente para edificações com área superior a 930 m². 
+(7)– Somente para edificações com área superior a 2000 m². 
+(8) – As divisões A-1 e A-2 estão isentas da projeção da medida de segurança contra incêndio e pânico. 
+(9)– Para a divisão F-2, a sinalização de emergência, orientação e salvamento, não será obrigatória nas edificações 
+térreas com saída de emergência direta para logradouro público ou área livre externa e nas quais não haja divisão 
+espacial. 
+NOTAS GENÉRICAS: 
+A – As edificações residenciais (divisões A-1) que compõem o Conjunto Arquitetônico tombado pelo Patrimônio 
+estão dispensadas de medidas de segurança desde que disponham de saídas e acessos independentes. 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser subdividida se 
+os riscos forem isolados. 
+C – As áreas descobertas utilizadas como estacionamento e manobra de veículos ou estoque de materiais que 
+possuam comunicação direta com o logradouro e sem riscos especiais, estarão isentas das medidas “Extintor de 
+incêndio” e “Hidrantes e Mangotinhos”. 
+D – O Plano de intervenção de incêndio será avaliado pelo Chefe do Serviço de Segurança Contra Incêndio e 
+Pânico das Unidades e Frações de Bombeiros, responsável pela área em que se localiza a edificação, quando da 
+solicitação de vistoria para emissão do AVCB. 
+E – Edificações com altura superior a 12 m e que não estiverem especificadas no Anexo A desta Instrução deverão 
+atender às exigências previstas na IT 01 (Procedimentos administrativos), ou poderá adotar outros métodos 
+baseados em desempenho a ser analisado pelo Corpo Técnico.
+
+--- PÁGINA 21 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+21/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+ANEXO B 
+METODOLOGIA DE AVALIAÇÃO DO RISCO DE INCÊNDIO DAS MEDIDAS DE SEGURANÇA 
+CONTRA INCÊNDIO E PÂNICO 
+B.1 Geral 
+B.1.1 A avaliação de risco será utilizada para identificar as medidas de segurança contra 
+incêndio e pânico necessárias para garantir nível de segurança contra incêndios em edificações 
+tombadas pelo patrimônio histórico.  
+B.1.2 A análise global de risco considerará o uso/ocupação, altura, dimensões, características 
+construtivas e carga de incêndio das edificações e permitirá a dispensa de alguma medida de 
+segurança contra incêndio e pânico prevista no Regulamento de Segurança Contra Incêndio e 
+Pânico. 
+B.1.3 O Coeficiente de Segurança contra incêndio da edificação () será obtido adotando a razão 
+entre o Fator de Segurança (S) e Risco Global de Incêndio (R) previstos na edificação, pela 
+seguinte equação: 
+= 𝐬
+𝐑 
+Onde: 
+= Coeficiente de segurança contra incêndio;= Fator de segurança;R= Risco global de incêndio. 
+B.1.3.1 O Coeficiente de Segurança Mínimo Aceitável (min) visa balancear medidas facilitadoras 
+e medidas inibidoras de um possível incêndio. Sendo considerada uma edificação ou conjunto de 
+edificações seguras para os propósitos desta Instrução Técnica quando min. 
+B.1.3.2 Para dispensa de medidas de segurança contra incêndio e pânico previstas no Anexo A 
+ou avaliação de risco para projeção de outras medidas diferentes daquelas constantes no 
+referido anexo, o RT deverá apresentar para a edificação um coeficiente de segurança mínimo, 
+min = 1, proporcionado por medidas de segurança passivas já existentes na edificação, pelo 
+risco de incêndio devido as características e uso da edificação, além da projeção de medidas de 
+segurança obrigatórias previstas no item 6.2.2.2 desta IT. 
+B.2 Determinação do Risco Global de Incêndio 
+B.2.1 O Risco Global de Incêndio (R), associado à edificação ou conjunto de edificações, será 
+determinado pelo produto da Exposição ao Risco de Incêndio (E) pelo fator de Risco de Ativação 
+de Incêndio (A) dada pela seguinte equação: 
+𝐑= 𝐄 ×  𝐀 
+Onde: 
+R = Risco de incêndio; E = Exposição ao risco de incêndio; A= Fator de risco de ativação. 
+B.2.1.1 Para definição da exposição ao risco de incêndio e da ativação de incêndio deverão ser 
+observados os seguintes fatores discriminados na Tabela 2.
+
+--- PÁGINA 22 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+22/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+Tabela 2: Fatores de Risco de Incêndio 
+B.2.2 Exposição ao Risco de Incêndio 
+B.2.2.1 A exposição ao risco de incêndio (E) de uma edificação será calculada pelo produto dos 
+fatores, dada pela equação: 
+𝐄= 𝐟𝟏× 𝐟𝟐× 𝐟𝟑× 𝐟𝟒× 𝐟𝟓 
+Onde: 
+E = Exposição ao risco de incêndio; 
+fn= Fatores de risco. 
+B.2.2.2 Características construtivas (fator f1) 
+B.2.2.2.1 A edificação poderá apresentar características construtivas, que não permite, ou pelo 
+menos dificulta significativamente a propagação do incêndio nas direções horizontal e vertical, ou 
+que não apresenta nenhuma das características sendo associado um fator de risco específico. 
+Tabela 3 –Fatores de risco associados às características construtivas (f1) 
+TIPO DE EDIFICAÇÃO 
+CARACTERÍSTICAS 
+f1 
+Q 
+Não permite, ou pelo menos, dificulta significativamente 
+a propagação do incêndio nas direções horizontal e 
+vertical. 
+1,0 
+T 
+Não permite, ou pelo menos, dificulta significativamente 
+a propagação do incêndio na direção vertical. 
+1,25 
+V 
+Nenhuma das condições acima. 
+2,0 
+B.2.2.3 Densidade de carga de incêndio (fator f2) 
+B.2.2.3.1 O fator de risco devido à densidade de carga de incêndio deve ser determinado 
+conforme a Tabela 4. 
+Tabela 4 – Fatores de risco associados à grandeza da carga incêndio (f2) 
+DENSIDADE DE CARGA INCÊNDIO (MJ/m2) 
+f2 
+q  100 
+0,5 
+100  q < 200 
+1,0 
+200  q < 300 
+1,1 
+300  q < 400 
+1,2 
+400  q <600 
+1,3 
+600  q < 800 
+1,4 
+800  q < 1200 
+1,5 
+RISCO DE INCÊNDIO 
+Fatores 
+Exposição ao Risco de 
+Incêndio 
+Características construtivas 
+f1 
+Grandeza da carga incêndio 
+f2 
+Posição da carga de incêndio 
+f3 
+Distância do Corpo de Bombeiros 
+f4 
+Facilidade do acesso à edificação 
+f5 
+Risco de Ativação 
+Natureza da ocupação 
+A1 
+Falhas humanas 
+A2 
+Qualidade das instalações elétricas e instalações de gás 
+A3
+
+--- PÁGINA 23 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+23/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+DENSIDADE DE CARGA INCÊNDIO (MJ/m2) 
+f2 
+1200  q < 1700 
+1,6 
+1700  q < 2500 
+1,7 
+2500  q < 3500 
+1,8 
+3500  q < 5000 
+1,9 
+5000  q <7000 
+2,0 
+7000  q < 10000 
+2,1 
+10000  q < 14000 
+2,2 
+14000  q < 20000 
+2,3 
+Notas: 
+1) Para fins de definição da carga de incêndio nas situações em que há uma aceitável 
+uniformidade na sua distribuição espacial, a critério do Responsável Técnico poderá ser adotada 
+as densidades de carga de incêndio constantes do Anexo A da IT 09 (Carga de Incêndio nas 
+Edificações e Espaços Destinados ao Uso Coletivo); 
+2)Quando a densidade de carga de incêndio não for uniformemente distribuída sobre a área de 
+piso da edificação, esta deverá ser determinada por medição direta, segundo o método descrito 
+no Anexo C da IT 09; 
+3) Poderá ser adotado valores correspondentes para carga de incêndio de outras normas no 
+caso da não abrangência pela IT09. No entanto, o RT deverá constar no Memorial de Avaliação 
+de Risco (Anexo C desta IT) a referência da Norma Técnica adotada para análise do Corpo 
+Técnico. 
+B.2.2.4 Posição da carga de incêndio (fator f3) 
+B.2.2.4.1 O fator de risco devido à posição da carga de incêndio deve ser determinado conforme 
+a Tabela 5 considerando a classificação básica da edificação, a altura do piso mais elevado ou a 
+profundidade do subsolo, ou que gerar maior fator de risco.  
+Tabela 5 – Fatores de risco associados à posição da carga incêndio (f3) 
+TIPODA EDIFICAÇÃO 
+PROFUNDIDADE DO SUBSOLO(m) 
+ALTURA DO PISO MAIS ELEVADO(m) 
+S >4 
+4<S≤8 
+8<S≤ 12 
+H≤6 
+6<H≤12 
+6<H≤12 
+Q 
+1,0 
+1,9 
+3,0 
+1,0 
+1,3 
+1,5 
+T 
+1,3 
+2,4 
+4,0 
+1,3 
+1,6 
+2,0 
+V 
+1,5 
+3,0 
+4,5 
+1,5 
+2,0 
+2,3 
+B.2.2.5 Distância do Corpo de Bombeiros (fator f4) 
+B.2.2.5.1 A edificação deve ser classificada quanto à sua distância da instalação do Corpo de 
+Bombeiros mais próxima de acordo com a Tabela 6. 
+Tabela 6 – Fatores de risco associados à distância do Corpo de Bombeiros (f4) 
+DENOMINAÇÃO 
+DISTÂNCIA (km) 
+f4 
+1– muito próximo 
+D ≤1 
+1,0 
+2 – próximo 
+1 < D ≤6 
+1,25 
+3 – Medianamente distante 
+6 < D ≤ 11 
+1,6 
+4 – Distante 
+11< D ≤ 16 
+1,8 
+5 – Muito distante ou inexistente  
+D > 16 
+4,0
+
+--- PÁGINA 24 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+24/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+B.2.2.6 Acesso à edificação (fator f5) 
+B.2.2.6.1 A uma edificação associa-se um fator de risco, considerando as condições de acesso 
+dos equipamentos e da equipe de combate a incêndio, conforme a Tabela 7. 
+Tabela 7 – Fatores de risco associados às condições de acesso (f5) 
+DENOMINAÇÃO 
+DO ACESSO 
+CONDIÇÕESDA EDIFICAÇÃO 
+f5 
+Fácil 
+1) Acesso da viatura pelo menos a duas fachadas da edificação, quando a edificação é 
+do tipo Q ou T ou a três fachadas, quando a edificação é do tipo V; e 
+2) Hidrante público instalado no máximo a 75 m da edificação ou instalação de hidrante 
+interno ou externo na edificação. 
+1,0 
+Restrito 
+1) Acesso a uma das fachadas, quando a edificação é do tipo Q ou T ou a duas 
+fachadas quando a edificação é do tipo V; e 
+2) Hidrante público instalado no máximo a 75 m da edificação ou instalação de hidrante 
+interno ou externo na edificação.    
+1,25 
+Difícil 
+1) Acesso a uma só fachada da edificação; e 
+2) Hidrante público instalado no máximo a 75 m da edificação ou instalação de hidrante 
+interno ou externo na edificação. 
+1,6 
+Muito difícil 
+Acesso a uma só fachada da edificação; hidrante público a mais de 75 m da edificação. 
+1,9 
+B.2.3 Ativação de incêndio 
+B.2.3.1 A ativação de incêndios (A) em uma edificação será calculada pelo produto dos fatores, 
+dada pela equação: 
+𝐀= 𝐀𝟏× (𝐀𝟐 𝐨𝐮 𝐀𝟑) 
+Onde: 
+A= Risco de ativação de incêndio; 
+An= Fatores de ativação; 
+n = 2 ou 3. 
+B.2.3.2 Natureza da Ocupação 
+B.2.3.2.1 Na edificação associa-se um fator de ativação de incêndio considerando a 
+ocupação/uso, conforme a Tabela 8. 
+Tabela 8 – Fatores de risco devido aos riscos de ativação conforme a ocupação 
+DESCRIÇÃO 
+OCUPAÇÃO 
+A1 
+Habitações unifamiliares multifamiliares e coletivas 
+A 
+1,25 
+Hotéis, pensões, pousadas, apart-hotéis e assemelhados 
+B 
+Escolas de todos os tipos, espaços para cultura física, centros de treinamento 
+e outros 
+E 
+Comércios e centros de compras 
+C 
+1,50 
+Escritórios, agências bancárias, oficinas de eletrodomésticos, laboratórios 
+fotográficos, de análises clínicas e químicos 
+D 
+Restaurantes, lanchonetes, bares, cafés, boates, clubes, salões de baile 
+F-6, F-8 
+Serviços de saúde e institucionais 
+H 
+Locais de reunião de público que não os anteriores. 
+F-1 a F-11, exceto os 
+grupos anteriores 
+1,12
+
+--- PÁGINA 25 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+25/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+B.2.3.3 Falhas humanas 
+B.2.3.3.1 Entre os riscos decorrentes da atividade humana consideram-se os riscos devidos à 
+falha humana conforme a Tabela 9. 
+Tabela 9 – Fator de risco de ativação devidos à falhas humanas (A2) 
+DESCRIÇÃO 
+A2 
+Usuários treinados e reciclados no treinamento ao menos uma vez por ano. 
+1,12 
+Usuários treinados e reciclados no treinamento ao menos uma vez a cada dois anos. 
+1,25 
+Usuários não treinados. 
+1,75 
+B.2.3.4 Qualidade das instalações elétricas e de gás 
+B.2.3.4.1 Os riscos de ativação decorrentes da qualidade das instalações elétricas e de gás 
+liquefeito de petróleo devem ser determinados de acordo com a Tabela 10. 
+Tabela 10 – Fatores de risco de ativação devidos à qualidade das instalações elétricas e de gás 
+CARACTERIZAÇÃO DAS INSTALAÇÕES 
+A3 
+1) Instalações projetadas e executadas segundo as normas técnicas aplicáveis;  
+2) uso e manutenção regulares 
+1,12 
+1) Instalações projetadas e executadas segundo as normas técnicas aplicáveis;  
+2) uso inadequado (extensões sem projeto) e manutenção irregular 
+1,25 
+1) Instalações não projetadas segundo as normas técnicas aplicáveis 
+1,50 
+B.2.3.5 Os fatores de ativação de incêndios relacionados às falhas humanas e deficiências das 
+instalações elétricas ou de gás liquefeito de petróleo excluem-se mutuamente, devendo-se 
+adotar o maior valor obtido deles (A*) que possa afetar a edificação. 
+B.2.4 Determinação dos Fatores de Segurança 
+B.2.4.1 Para determinação do Fator de Segurança total (S), o RT deverá considerar o número e 
+do tipo de medidas de segurança existentes na edificação ou a ser projetada. 
+B.2.4.2 O Fator de segurança total será obtido do produto dos fatores de segurança associados 
+às medidas de proteção ativa e passiva que se empregam em cada edificação, conforme a 
+Tabelas 11A, 11B, 11C, 11D e 11E, dada pela equação: 
+𝐒= 𝐒𝟏𝟏𝐀× 𝐒𝟏𝟏𝐁× 𝐒𝟏𝟏𝐂× 𝐒𝟏𝟏𝐃× 𝐒𝟏𝟏𝐄 
+Onde: 
+S = Fator de segurança total; 
+Sn = Medidas de segurança. 
+Tabela 11A – Medidas sinalizadoras do incêndio e fatores de segurança 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE SEGURANÇA 
+Alarme de incêndio com acionamento manual 
+S1 
+1,5 
+Detector de incêndio 
+S2 
+2,0 
+Detector de calor e fumaça com transmissão automática do 
+sinal de alarme para o Corpo de Bombeiros ou para Central 
+de segurança da Brigada de Incêndio da Edificação 
+S3 
+3,0
+
+--- PÁGINA 26 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+26/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+Tabela 11B – Medidas extintivas e fatores de segurança 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA 
+Aparelhos extintores 
+S4 
+1,5 
+Sistema de hidrantes internos à edificação sem reserva técnica conforme as normas. 
+S5 
+4,0 
+Sistema de hidrantes internos à edificação com reserva técnica conforme as normas. 
+S6 
+10,0 
+Brigada de incêndio em plantão durante o funcionamento 
+S7 
+6,0 
+Brigada de incêndio em plantão permanente 
+S8 
+8,0 
+Instalação interna de chuveiros automáticos 
+S9 
+12,0 
+Instalação externa de chuveiros automáticos 
+S10 
+6,0 
+Tabela 11C – Medidas de infraestrutura e fatores de segurança 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA 
+Sistema de hidrantes externo com abastecimento por meio de reservatório público. 
+S11 
+6,0 
+Sistema de hidrantes externo com abastecimento por meio de reservatório particular 
+ou comunitário. 
+S12 
+6,0 
+Reserva de água 
+S13 
+2,0 
+Tabela 11D – Medidas estruturais e fatores de segurança 
+RESISTÊNCIA AO FOGO DA ESTRUTURA (min) 
+SÍMBOLO 
+FATOR DE 
+SEGURANÇA 
+ 30 
+S14 
+1,25 
+ 60 
+S15 
+2,0 
+ 90 
+S16 
+3,0 
+ 120 
+S17 
+4,0 
+Tabela 11E – Medidas acessórias e fatores de segurança 
+DESCRIÇÃO 
+SÍMBOLO 
+FATOR DE SEGURANÇA 
+Planta de risco 
+S18 
+1,1 
+Plano de intervenção 
+S19 
+1,2 
+Plano de abandono 
+S20 
+1,2 
+Sinalização das saídas de emergência e rotas de fuga 
+S21 
+1,2 
+Iluminação de emergência 
+S22 
+1,2 
+Controle de Materiais de Acabamento e de Revestimento 
+S23 
+6,0 
+Controle de fumaça 
+S24 
+10,0 
+Compartimentação horizontal 
+S25 
+2,0 
+Compartimentação vertical 
+S26 
+2,0
+
+--- PÁGINA 27 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+27/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+ANEXO C 
+MEMORIAL DE AVALIAÇÃO DE RISCO 
+Memória de Cálculo do Risco – Análise Global de Risco de Incêndio 
+Edificação: 
+Localização: 
+Exposição ao risco de incêndio (Fatores) 
+Características construtivas 
+Tipo: 
+f1= 
+Densidade da carga de incêndio (MJ /m²) 
+q = 
+f2 = 
+Altura do compartimento (m) 
+H = 
+f3= 
+Profundidade do piso de subsolo (m) 
+S = 
+Distância do CB (Km) 
+D = 
+f4 = 
+Condições de acesso  
+Tipo: 
+f5 = 
+Risco de Ativação (Fatores) 
+Natureza da Ocupação 
+A1 = 
+Falhas Humanas 
+A2 = 
+Qualidade das instalações elétricas e de gás 
+A3 = 
+Risco Global de Incêndio 
+E = F1 × F2 × F3 × F4 × F5 
+Valor obtido E: 
+R = E x A 
+A = A1 × (A2ou A3)(1) 
+Valor obtido A: 
+Valor obtido R: 
+Fatores de Segurança 
+Descrição 
+Fator 
+Valor Calculado 
+Encontrado 
+Proposto 
+Alarme de incêndio com acionamento manual 
+S1 
+ 
+ 
+Detector de incêndio 
+S2 
+ 
+ 
+Detector de calor e fumaça com transmissão automática do sinal de 
+alarme para o Corpo de Bombeiros ou para Central de segurança da 
+Brigada de Incêndio da Edificação 
+S3 
+ 
+ 
+Aparelhos extintores 
+S4 
+ 
+ 
+Sistema de hidrantes internos à edificação sem reserva técnica 
+conforme as normas. 
+S5 
+ 
+ 
+Sistema de hidrantes internos à edificação com reserva técnica 
+conforme as normas. 
+S6 
+ 
+ 
+Brigada de incêndio em plantão durante o funcionamento 
+S7 
+ 
+ 
+Brigada de incêndio em plantão permanente 
+S8 
+ 
+ 
+Instalação interna de chuveiros automáticos 
+S9 
+ 
+ 
+Instalação externa de chuveiros automáticos 
+S10 
+ 
+ 
+Sistema de hidrantes externo com abastecimento por meio de 
+reservatório público. 
+S11 
+ 
+ 
+Sistema de hidrantes externo com abastecimento por meio de 
+reservatório particular ou comunitário. 
+S12 
+ 
+ 
+Reserva de água 
+S13 
+ 
+ 
+Resistência ao fogo  30 
+S14 
+ 
+ 
+Resistência ao fogo  60 
+S15 
+ 
+ 
+Resistência ao fogo  90 
+S16 
+ 
+ 
+Resistência ao fogo 120 
+S17 
+ 
+ 
+Planta de risco 
+S18 
+ 
+ 
+Plano de intervenção 
+S19 
+ 
+ 
+Plano de abandono 
+S20 
+ 
+ 
+Sinalização das saídas de emergência e rotas de fuga 
+S21 
+ 
+ 
+Iluminação de emergência 
+S22 
+ 
+ 
+Controle de Materiais de Acabamento e de Revestimento 
+S23 
+ 
+ 
+Controle de fumaça 
+S24 
+ 
+ 
+Compartimentação horizontal 
+S25 
+ 
+ 
+Compartimentação vertical 
+S26 
+ 
+ 
+Fator de Segurança total 
+S = S11A × S11B × S11C × S11D × S11E 
+Valor obtido S: 
+ 
+ 
+Coeficiente de segurança 
+= s
+R 
+Valor obtido :
+
+--- PÁGINA 28 ---
+CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 
+2ª edição 
+ 
+28/28 
+Alterada pela portaria nº. 65, de 17jun2021, publicada no DOEMG nº 118, ano 129, p. 08. 
+ 
+FUNDAMENTAÇÃO TÉCNICA 
+ 
+DECLARAÇÃO 
+Eu declaro, sob pena de incorrer no Art. 299¹ da Lei 2.848 de 07 de dezembro de 1940 (Código Penal Brasileiro) que 
+vistoriei a edificação/área de risco em lide e que as informações por mim prestadas neste laudo são verídicas. 
+ 
+_____Cidade __, ____dia__, ___mês___, 20_____ 
+ 
+ 
+_____________________________________________________ 
+Assinatura do RT 
+ 
+ 
+ 
+1 Falsidade ideológica 
+Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir 
+declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a 
+verdade sobre fato juridicamente relevante: 
+Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o 
+documento é particular. 
+Parágrafo único - Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação 
+ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte. 
+ 
+Nota: 1) A ativação de incêndios devida às falhas humanas e a devida a deficiências das instalações elétricas e de gás 
+liquefeito de petróleo excluem-se mutuamente, devendo-se adotar o maior valor obtido deles (A*) que possa afetar a edificação.

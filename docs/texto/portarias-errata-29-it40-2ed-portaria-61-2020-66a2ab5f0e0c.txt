@@ -1,0 +1,73 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22399633 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26263316&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 27 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 29/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 40 – 2ª
+Edição (Adequação de medidas de segurança para ediﬁcações):
+ 
+1. ALTERAR o item 2.2
+Onde se lê: 
+"2.2 A aplicação desta IT ocorrerá mediante apresentação de laudo técnico de proﬁssional
+habilitado, acompanhado da respecƟva Anotação de Responsabilidade Técnica (ART), Registro de
+Responsabilidade Técnica (RRT) ou Termo de Responsabilidade Técnica (TRT), indicando a limitação técnica e
+fundamentação que jusƟﬁque a impossibilidade de projeção de uma medida conforme Instruções Técnicas
+especíﬁcas (incluindo, se for o caso, as medidas e adaptações previstas nesta IT)."
+Leia-se:
+"2.2 A aplicação desta IT ocorrerá mediante apresentação de laudo técnico de proﬁssional
+habilitado, acompanhado do respecƟvo documento de responsabilidade técnica, indicando a limitação
+técnica e fundamentação que jusƟﬁque a impossibilidade de projeção de uma medida conforme Instruções
+Técnicas especíﬁcas (incluindo, se for o caso, as medidas e adaptações previstas nesta IT)."
+ 
+2. ALTERAR o item 5.1.1
+Onde se lê: 
+"5.1.1 Todas as ediﬁcações existentes deverão se adaptar para as medidas “Brigada de
+Incêndio”, “Iluminação de Emergência” ou “Sinalização de Emergência”, quando exigidas na IT 01."
+Leia-se:
+"5.1.1 Todas as ediﬁcações existentes deverão se adequar às medidas “Brigada de Incêndio”,
+“Iluminação de Emergência”, “Sinalização de Emergência” e "Sistema de Proteção por ExƟntores de
+Incêndio", quando exigidas na IT 01."
+ 
+3. ALTERAR o item 6.11.2.1
+Onde se lê: 
+"6.11.2.1 Em complemento ao previsto em 6.11.2, adotar as medidas “Sistema de Detecção
+de Incêndio” (exceto para Grupo A) e “Sistema de Alarme de Incêndio” conforme as instruções técnicas
+especíﬁcas."
+Leia-se:
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22399633 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26263316&infra_sist…
+2/2
+"6.11.2.1 Em complemento ao previsto em 6.11.2, adotar as medidas “Sistema de Detecção
+de Incêndio” (exceto para Grupo A) e “Sistema de Alarme de Incêndio” conforme instrução técnica
+especíﬁca."
+ 
+4. ALTERAR o item 6.22.3
+Onde se lê: 
+"6.22.3 Deverá ser acrescentada informação na aba “medidas prevenƟvas” (Infoscip) ou no
+Anexo F.1 (PSCIP impresso) e na planta do projeto indicando que o sistema de hidrantes da ediﬁcação é do
+Ɵpo “coluna seca”."
+Leia-se:
+"6.22.3 Deverá ser acrescentada informação na aba “medidas prevenƟvas” (Infoscip) ou no
+Anexo E.1.1 da IT 03 (PSCIP impresso) e na planta do projeto indicando que o sistema de hidrantes da
+ediﬁcação é do Ɵpo “coluna seca”."
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:17, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22399633 e o
+código CRC FF6B8756.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22399633

@@ -1,0 +1,1364 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 20 
+1ª edição 
+SISTEMA DE PROTEÇÃO POR 
+ESPUMA 
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências  
+4 – Definições  
+5 – Procedimentos 
+6 – Condições específicas 
+ 
+ANEXOS 
+A – Figura 1 – Guia de Qualidade da 
+espuma para tanques de armazenamento 
+B – Exemplo ilustrativo de Cálculo dos 
+Sistemas de Espuma
+
+--- PÁGINA 2 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+2/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica tem como objetivo adequar o texto da NBR 12.615 – Sistema de combate 
+a incêndio por espuma da ABNT, para aplicação na análise e vistoria de projetos/processos 
+submetidos ao Corpo de Bombeiros de Minas Gerais, atendendo ao previsto no Regulamento de 
+Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado de Minas Gerais. 
+2 APLICAÇÃO 
+Aplica-se às edificações e áreas de risco em que sejam necessárias a existência de produção, 
+manipulação, armazenamento e distribuição de líquidos combustíveis ou inflamáveis localizadas 
+no interior de edificações ou a céu aberto para Combate a Incêndio, de acordo com o previsto no 
+Regulamento de Segurança Contra Incêndio e Pânico nas edificações e áreas de risco no Estado 
+de Minas Gerais. 
+3 REFERÊNCIAS  
+Para maior entendimento desta Instrução Técnica, é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 5363 – Invólucros à prova de explosão para equipamentos elétricos – especificação. 
+NBR 5418 – Instalações elétricas em ambientes com líquidos, gases ou vapores inflamáveis – 
+procedimento. 
+NBR 7821 – Tanques soldados para armazenamento de petróleo e derivados – procedimento. 
+NBR 12.615 – Sistema de combate a incêndio por espuma. 
+NFPA 11 – Standard for Low – Expansion Foam 1998 Edition. 
+NFPA 13 – Standard for the installation of sprinkler systems. 
+ANSI B 31.1 – Piping and piping systems. 
+Boletim API 650 – Apêndice H – Welded steel tanks for oil storage. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção Contra Incêndio e Pânico). 
+5 PROCEDIMENTOS 
+5.1 Generalidades
+
+--- PÁGINA 3 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+3/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.1.1 A espuma mecânica ou espuma de ar, para as finalidades desta Instrução Técnica, deve ser 
+entendida como um agregado de bolhas cheias de ar, geradas por meios puramente mecânicos, 
+de soluções aquosas contendo um concentrado de origem animal, sintética ou vegetal. 
+5.1.2 A espuma mecânica ou espuma de ar é útil como agente de prevenção e extinção ao fogo 
+nas situações mais variadas; satisfazendo a todas as exigências referentes a um fluido de 
+densidade muito baixa e alta capacidade de absorção do calor. A espuma mecânica não é 
+considerada um agente adequado para incêndios em gases. Sua densidade, sendo menor que as 
+dos líquidos inflamáveis, permite que seja usada principalmente para formar uma cobertura 
+flutuante, extinguindo, cobrindo e resfriando o combustível de forma a interromper a evaporação 
+dos vapores e impedir a sua mistura com o oxigênio do ar. 
+5.1.3 Os tanques de armazenamentos de superfícies ou aéreos, com volume total igual ou inferior 
+a 120 m3, contendo líquidos combustíveis com ponto de fulgor entre 60o C e 93,4o C, não 
+necessitam de sistema de espuma, desde que tenham diâmetro inferior a 9 metros, estejam em 
+bacia de contenção individuais e observem os afastamentos previstos nas normas técnicas 
+oficiais.  
+5.1.3.1 Para líquidos com ponto de fulgor superior a 93,4 ºC isenta-se do sistema de espuma, 
+desde que o produto não seja pré-aquecido, os tanques tenham diâmetro inferior a 9 metros, 
+estejam em bacias de contenção individuais e observem os afastamentos previstos nas normas 
+oficiais. 
+5.1.4 Em tanques ou recipientes que contenham produtos quentes, cuja temperatura esteja acima 
+do ponto de ebulição da água, a aplicação da espuma mecânica deverá ser precedida de judicioso 
+estudo da situação. Em tanques contendo combustíveis líquidos de alta viscosidade os quais 
+tenham permanecido em queima por período prolongado, o uso de espuma mecânica não é 
+aconselhado. 
+5.1.5 A espuma mecânica é condutora de eletricidade, portanto, jatos plenos deste agente extintor 
+não devem ser usados contra equipamentos elétricos energizados. 
+5.1.6 Mistura da água com o Líquido Gerador de Espuma (LGE) 
+Os métodos propostos para se obter uma mistura adequada de água e LGE são dados em 5.1.6.1 
+a 5.1.6.5. 
+5.1.6.1 Mistura de LGE efetuada diretamente por esguichos de espuma portáteis, de vazão fixa. 
+5.1.6.2 Mistura de LGE efetuada na linha de mangueiras por meio de proporcionadores de linha 
+de vazão fixa. 
+5.1.6.3 Mistura de LGE efetuada por dispositivo dosador instalado entre a descarga e admissão 
+da bomba de água. Permite variação de vazão, dependendo sempre de operador. 
+5.1.6.4 Mistura de LGE efetuada por meio de bomba ou vaso de pressão e dosador que controlam 
+automaticamente as vazões de LGE, em função das vazões de água. Permitem ampla variação 
+de vazão, independendo do operador. 
+5.1.6.5 Os métodos indicados em 5.1.6.3 e 5.1.6.4 podem ser obtidos por meio de estações de 
+emulsionamento fixas ou móveis (viaturas emulsionadoras). 
+5.2 Gerador de espuma mecânica 
+5.2.1 Os métodos propostos por esta Instrução Técnica para se obter a espuma mecânica são:
+
+--- PÁGINA 4 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+4/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+a) geração por meio de equipamentos portáteis do tipo bocal, para permitir a mistura de ar à 
+solução de espuma mecânica; 
+b) por meio de equipamentos semieixos do tipo bocal, para permitir a mistura de ar à solução de 
+espuma mecânica; 
+c) geração por meio de equipamentos fixos do tipo bocal, para permitir a mistura de ar à solução 
+de espuma mecânica. 
+5.2.2 A relação entre a quantidade de espuma produzida pelos equipamentos e a quantidade de 
+solução de espuma (coeficiente de expansão) deve ser de ordem de 8 (oito) vezes como o valor 
+máximo e 4 (quatro) vezes como o valor mínimo. O tempo de permanência da espuma sobre a 
+superfície do líquido deve ser, no mínimo, de 15 (quinze) minutos para produtos com tensão de 
+vapores elevados, podem ser aceitas diferentes taxas de tempo. 
+5.3 Armazenamento do líquido gerador de espuma em instalações fixas 
+5.3.1 O LGE deve ser armazenado em tanques ou recipientes metálicos protegidos 
+convenientemente contra corrosão. 
+5.3.1.1 Os tanques ou recipientes devem estar localizados, sempre que possível, em pontos 
+equidistantes dos riscos a proteger, nas estações de emulsionamento, de modo que não seja 
+ultrapassada a temperatura de 45 ºC no interior da massa líquida. 
+5.3.1.2 Os tanques de LGE devem ser projetados de modo a disporem de respiros adequados, 
+válvulas de descarga, dispositivo de enchimento de medição e controle constante de nível, boca 
+de visita para facilitar a inspeção, limpeza e tomada de amostras. 
+5.3.1.3 Os recipientes devem conter rótulo de identificação do tipo de LGE, indicando a 
+aplicabilidade, taxas de aplicação e dosagens recomendadas. 
+5.4 Projetos de sistemas de proteção ou extinção por meio de espuma mecânica 
+5.4.1 Os projetos devem ser executados por Empresas ou profissionais que possuam atribuições 
+específicas e os requisitos técnicos necessários. 
+5.4.2 Os testes de funcionamento e aceitação final dos sistemas de proteção ou extinção 
+considerados neste capítulo devem ser realizados na presença do vistoriador do Corpo de 
+Bombeiros e à luz dos documentos indicados nos itens 5.15.6.1 e 5.15.2. 
+5.4.3 Estes projetos devem apresentar as seguintes informações básicas: 
+a) detalhe dos diversos riscos a serem protegidos, inclusive local, arranjo físico e pontos de maior 
+perigo; 
+b) especificação técnica do LGE a ser utilizado pelo sistema proposto; 
+c) taxas de aplicação da mistura (água + LGE) e da espuma; 
+d) vazão de água em litros por minuto, exigidas pelo sistema proposto, incluindo a reserva do 
+volume total necessário; 
+e) tempo máximo, expresso em minutos, em que a mistura (água + LGE) pode transitar pelas 
+tubulações sem perder suas propriedades espumigenas;
+
+--- PÁGINA 5 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+5/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+f) vazão de LGE em litros por minuto (LPM) exigidas pelo sistema proposto, incluindo a reserva 
+do volume total de LGE necessário; 
+g) especificação técnica e capacidade de geração, vazão e/ou armazenamento de todos os 
+equipamentos propostos. 
+5.4.4 Os sistemas de proteção ou extinção considerados nesta Instrução Técnica devem ser 
+projetados e construídos de forma que a espuma gerada não seja aplicada no interior de 
+equipamentos durante a execução de testes. 
+5.4.5 A escolha do sistema de combate a incêndio por espuma adequado ao tanque de maior 
+risco deve atender aos requisitos mínimos constantes da Tabela 1. 
+5.4.5.1 Independente da proteção por espuma indicada ao tanque de maior risco, devem ser 
+consideradas ainda as proteções suplementares de espuma para a bacia de contenção e sistemas 
+de resfriamento conforme instrução técnica específica. 
+Tabela 1 - Proteção Mínima ao Tanque 
+Características do tanque 
+Sistemas de proteção por espuma 
+Diâmetro de até 9 m e altura até 6 m 
+Linhas de espuma (proteção primária) 
+Diâmetro acima de 9 m e até 18 m 
+Canhões monitores 
+Diâmetro acima de 18 m 
+Câmaras de espuma 
+Nota: Para definição do maior risco, vide 6.3.1. 
+5.5 Suprimento de água 
+5.5.1 O item básico para se determinar à eficiência do sistema de proteção ou extinção por meio 
+de espuma mecânica deve ser o fluxo de água (volume por unidade de tempo). 
+5.5.2 A vazão de água deve ser determinada em relação ao maior risco a ser protegido (tanque e 
+bacia de contenção). 
+5.5.3 A vazão de água determinada pelo maior risco a ser protegido, deve ser adicionada à vazão 
+necessária para alimentar equipamentos móveis a serem previstos no projeto (esguichos para 
+espuma ou água) e à vazão necessária para o sistema de resfriamento. 
+5.5.4 A reserva de água para o sistema de proteção contra incêndio por espuma deve garantir um 
+suprimento mínimo de 120 minutos para a cobertura do maior risco previsto no projeto, incluindo 
+os sistemas fixos, semifixos e portáteis. 
+5.5.5 O suprimento de água para os sistemas de espuma mecânica pode ser feito com água doce 
+ou salgada, porém com a necessária qualidade de modo que a espuma gerada não sofra efeitos 
+adversos. 
+5.5.6 A alimentação de água da estação de emulsionamento pode ser obtida a partir da rede de 
+alimentação dos hidrantes. 
+5.6 Suprimento de LGE 
+5.6.1 O suprimento de LGE deve ser determinado mediante cálculo percentual baseado na vazão 
+de solução prevista para a cobertura do maior risco mais a vazão das linhas manuais de espuma 
+da área considerada no projeto, multiplicadas pelo tempo de operação recomendado, mais o 
+volume necessário para o enchimento das tubulações adutoras.
+
+--- PÁGINA 6 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+6/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.6.2 Os projetos de sistemas de extinção por meio de espuma mecânica devem prever a 
+disponibilidade de LGE na quantidade mínima de duas vezes o volume necessário para a 
+cobertura do maior risco da área, considerando os tempos de descarga previsto, sendo uma carga 
+inicial e outra como carga de reposição. 
+5.6.2.1 Para empresas que sejam participantes de um Plano de Auxílio Mútuo (PAM), oficialmente 
+constituído, onde seja possível a reposição dos estoques do LGE, dentro de 24 horas, pode ser 
+dispensada a reserva de reposição acima descrita, desde que os demais integrantes do PAM 
+comprovem oficialmente que possuem LGE idêntico e em quantidade suficiente para o tipo de 
+incêndio a ser combatido. 
+5.7 Estação de emulsionamento 
+5.7.1 A mistura de água com LGE pode ser feita por meio de: 
+a) estação fixa de emulsionamento; 
+b) estação móvel de emulsionamento (viatura). 
+5.7.2 A solução de espuma deve ser obtida à razão de 3% para derivados de petróleo e 6% para 
+solventes polares. 
+5.7.2.1 Podem ser aceitas dosagens de LGE inferiores a 6% para solventes polares, desde que 
+devidamente atestada, pelo fabricante, sua eficiência para o produto a ser protegido, por meio de 
+ensaios específicos normatizados. 
+5.7.3 Nos casos de taxas de aplicação inferiores às estabelecidas nesta Instrução Técnica, os 
+fabricantes devem fornecer justificativas técnicas e resultados de ensaios, desenvolvidos em 
+laboratórios certificados pelo Sistema Brasileiro de Certificação. 
+5.7.4 Quando a mistura de água com LGE for efetuada em estação fixa de emulsionamento, 
+devem ser observados os seguintes requisitos: 
+a) a estação deve estar localizada, tanto quanto possível, em pontos equidistantes dos riscos a 
+proteger e protegida suficientemente contra danos causados pelo fogo e ou explosão e com fácil 
+acesso a veículos de abastecimento  de LGE; 
+b) a estação fixa deve ser construída com material resistente ao fogo e dispor de meios de acesso 
+e iluminação natural voltados para áreas de menor risco; 
+c) a estação fixa deve dispor de sistemas elétricos e de comunicação suficientemente protegidos 
+contra danos causados pelo fogo e ou explosão; 
+d) a estação fixa pode dispor dos seguintes equipamentos básicos para a mistura de água e LGE: 
+d.1) bomba de água, válvulas de controle e respectivas tubulações dentro das necessidades do 
+projeto; 
+d.2) bomba de extrato formador, válvulas de controle e respectivas tubulações dentro das 
+necessidades do projeto; 
+d.3) recipiente para o armazenamento do LGE nas quantidades previstas no projeto, conforme o 
+disposto em 5.6.2; 
+d.4) válvulas de controle e alinhamento de água e mistura;
+
+--- PÁGINA 7 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+7/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+d.5) instrumentos para indicação de pressão e fluxo de água, LGE, mistura e nível de LGE; 
+d.6) dosador (es); 
+d.7) dispositivos adequados para abastecimento dos recipientes de LGE por meio de veículos ou 
+recipientes portáteis; 
+d.8) dispositivos adequados para permitir inspeções e testes de funcionamento dos equipamentos; 
+d.9) dispositivos adequados para permitir a limpeza, com água limpa, de todos os equipamentos 
+de dosagem. 
+5.7.4.1 Os sistemas fixos podem, excepcionalmente, ser alimentados por estações móveis de 
+emulsionamento da solução de espuma, desde que montados sobre veículos e em número 
+suficiente exigido para a operação do sistema. 
+5.7.5 Quando a mistura de água com LGE for efetuada em estação móvel de emulsionamento 
+(viatura), devem ser observados os seguintes requisitos básicos nas especificações técnicas de 
+vistorias de combate a incêndio por espuma: 
+a) o chassi e o motor devem ser preferencialmente de tipo fabricado no Brasil, visando à facilidade 
+de manutenção; 
+b) os sistemas elétricos, de freios, suspensão e rodas, cabine devem obedecer às normas 
+Brasileiras em vigor; 
+c) o tanque de LGE deve ser construído com material resistente a corrosão, com capacidade para 
+armazenar o produto no volume previsto no projeto e com os requisitos técnicos exigidos pelas 
+normas Brasileiras em vigor; 
+d) devem ser especificadas as conexões para entrada de água, descarga de pré-mistura, 
+abastecimento e descarga LGE; 
+e) a bomba de LGE e o dosador devem ser especificados com indicações das vazões e pressões 
+mínimas e máximas, de modo que a cobertura do maior risco considerado no projeto seja 
+plenamente satisfeita; 
+f) a bomba d’água deve ser especificada com indicações das vazões e pressões mínimas e 
+máximas, de modo que a cobertura do maior risco considerado no projeto seja plenamente 
+satisfeita; 
+g) a posição do painel de operação e dos dispositivos de acionamento e controle deve ser 
+especificada e com indicação das respectivas funções; 
+h) devem ser previstos para transporte de equipamentos portáteis de combate a incêndio, 
+desenhos e fluxograma dos sistemas de emulsionamento, admissão e descarga, instruções de 
+funcionamento e manutenção dos diversos mecanismos, bem como dimensões e características 
+gerais do carro; 
+i) juntamente com os documentos citados na alínea h, devem ser fornecidos certificados de 
+garantia e teste de operação, vazão e aceitação final. 
+5.8 Bombas de água 
+5.8.1 Quando instalado o sistema de combate a incêndio por espuma, é obrigatória a instalação
+
+--- PÁGINA 8 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+8/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+de duas bombas de incêndio, sendo uma elétrica e a outra movida com motor à explosão (não 
+sujeita à automatização); ambas as bombas deverão possuir as mesmas características de 
+vazão/pressão. 
+5.8.1.1 É permitida a instalação de duas bombas de incêndio elétricas se uma delas estiver 
+alimentada por gerador automatizado com autonomia mínima de 06 (seis) horas. 
+5.8.1.2 É permitida a instalação de uma única bomba de incêndio para locais que contenham 
+tanques de armazenamento com capacidade máxima de até 120 m³ e nas situações em que o 
+produto armazenado destina-se a geração de energia. 
+5.8.2 Nas bombas de incêndio com acionamento elétrico, o circuito de alimentação elétrica do 
+motor deve ser independente da rede geral, de forma a permitir o desligamento geral da energia 
+elétrica das instalações, sem prejuízo do funcionamento do conjunto motobomba. 
+5.8.3 As bombas devem ser projetadas de modo a atender a demanda total do maior risco, nas 
+vazões e pressões previstas. 
+5.8.4 Os equipamentos elétricos do sistema devem atender o disposto nas NBR 5363 e NBR 5418. 
+5.9 Válvulas de controle 
+5.9.1 Em todo sistema de espuma especialmente nas estações fixas de emulsionamento, as 
+válvulas principais de acionamento e as válvulas de distribuição da pré- mistura devem possuir 
+dispositivos que identifiquem quando elas estão abertas ou fechadas e, nas áreas de risco, devem 
+estar situadas em local protegido. 
+5.9.2 Nas estações fixas ou móveis de emulsionamento, todas as válvulas de acionamento e 
+distribuição devem possuir identificação clara, de modo a permitir sua operação rápida e perfeita. 
+5.9.3 As especificações das válvulas principais de acionamento e distribuição devem ser do tipo 
+aprovado para uso na proteção contra incêndio e conforme disposto em 6.2.6.2. 
+5.9.4 Quando a rede de tubulações for dimensionada em “anel” devem ser previstas válvulas 
+seccionadoras que permitam manobras d’água e de solução de espuma, bem como o 
+funcionamento de parte do sistema quando forem necessárias manutenções na tubulação. 
+5.10 Rede de tubulações 
+5.10.1 A rede de tubulações deve ser projetada de acordo com as necessidades dos riscos a 
+proteger, atentando plenamente as vazões e pressões previstas. 
+5.10.2 A rede de tubulações deve ser instalada de modo que nas emergências ela não venha a 
+ser danificada pelo fogo ou explosão, utilizando juntas flexíveis quando possível e necessário. 
+5.10.3 Todos os ramais da rede de tubulações devem ser claramente identificados para facilitar a 
+operação rápida do sistema. 
+5.10.4 Quando a rede de tubulações for aérea, devem ser previstos suportes de apoio e meios 
+que permitam, quando necessário, drenagem adequada. 
+5.10.5 No caso de rede de tubulações enterradas, esta deve possuir revestimento adequado à 
+corrosão e proteção contra movimentação do solo, especialmente quando houver tráfego de 
+veículos pesados.
+
+--- PÁGINA 9 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+9/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.11 Formadores de espuma 
+5.11.1 Os equipamentos formadores de espuma adotados devem ser avaliados em função do 
+desempenho apresentado pelos fabricantes conforme suas especificações técnicas, e das vazões 
+de água e espuma previstas no projeto, sendo que tal desempenho (especificação de pressão e 
+vazão) deve ser levado em conta nos cálculos hidráulicos para dimensionamento do sistema. 
+5.11.2 Os formadores de espuma devem ser instalados junto às câmaras de espuma ou afastados 
+destas, porém de modo a facilitar as inspeções e manutenção. 
+5.12 Câmaras, defletores e deslizadores para aplicação da espuma. 
+5.12.1 O rendimento das câmaras de aplicação da espuma deve ser calculado de acordo com as 
+vazões previstas em projeto. 
+5.12.2 As câmaras devem ser instaladas a distâncias iguais entre si ao redor do tanque, de modo 
+que a cobertura do líquido possa ser efetuada uniformemente. 
+5.12.3 As câmaras, defletores e deslizadores, devem ser instalados de modo que seu 
+funcionamento seja garantido mesmo em caso de explosão. 
+5.12.4 Os defletores e deslizadores devem ser projetados e instalados nos tanques de teto cônico, 
+quando necessário, de modo que a espuma seja aplicada suavemente e que não mergulhe no 
+líquido a uma profundidade maior que 25 mm. 
+5.12.5 As câmaras devem possuir dispositivos que permitam a realização de testes sem a 
+penetração de espuma nos tanques. 
+5.13 Sistema de hidrantes (ver 6.3.4.2) 
+5.13.1 Os sistemas de espuma para tanques devem ser complementados por sistemas de 
+hidrantes para alimentar mangueiras e garantir a extinção de focos de incêndio em áreas 
+adjacentes aos riscos previstos nos projetos. 
+5.13.2 Devem ser adotadas as pressões e vazões nos bocais de descarga necessária à operação 
+do sistema, conforme especificação técnica do equipamento fornecida pelo fabricante, atendendo 
+às taxas de aplicação previstas nesta Instrução Técnica e o alcance efetivo de combate ao risco 
+considerado. 
+5.13.3 Os projetos devem prever que os hidrantes possam funcionar com água e/ou pré-mistura 
+(água + LGE). 
+5.13.4 Junto aos hidrantes com solução de espuma, devem existir armários para guarda de 
+mangueiras, esguichos, chaves e ferramentas especiais de apoio para combate ao fogo, salvo 
+quando forem disponíveis viaturas que possam conduzir tais materiais ao local desejado em tempo 
+hábil. 
+5.15 Testes de operação e descarga - Aceitação 
+5.15.1 Após a instalação de todos os equipamentos previstos no projeto, o montador deve 
+proceder aos testes de operação e descarga do sistema. 
+5.15.2 Os testes devem ser obrigatoriamente realizados na presença de autoridade competente 
+em proteção contra incêndio da localidade, de representante de empresa contratante do sistema 
+e de representante da empresa projetista e da montadora.
+
+--- PÁGINA 10 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+10/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+5.15.3 Após a execução dos testes de operação e descarga, a empresa projetista e a montadora 
+devem emitir laudo técnico à empresa contratante do sistema. 
+5.15.4 O laudo técnico citado em 5.14.3 deve receber o visto da autoridade competente em 
+proteção contra incêndio da localidade e o “de acordo” do representante da empresa contratante 
+que assistiu a todos os testes e os acompanhou. 
+5.16 Desenhos - Catálogos de peças de reposição - manuais de operação inspeção e 
+manutenção 
+5.16.1 A empresa projetista e/ou a montadora deve (m) fornecer à empresa contratante desenhos 
+de toda as partes que compõem o sistema projetado, assim como catálogos de peças de reposição 
+e os manuais de operação, inspeção e manutenção preventiva e corretiva. 
+5.16.2 Todos os desenhos, esquemas, listas, catálogos, manuais de operação e de manutenção 
+devem ser apresentados em Língua Portuguesa. 
+6 CONDIÇÕES ESPECÍFICAS 
+6.1 Sistemas fixos de extinção para líquidos inflamáveis/combustíveis em áreas fechadas. 
+6.1.1 Generalidades 
+6.1.1.1 Esta seção refere-se aos sistemas de extinção de incêndios por espuma, destinados à 
+proteção contra riscos específicos em salas, áreas fechadas e prédios, ou à proteção geral do 
+conteúdo de uma sala ou prédio podendo estar incluída ou não a própria edificação. 
+6.1.1.2 Estes sistemas destinam-se particularmente a proteger estoques e manuseio de líquidos 
+inflamáveis e líquidos combustíveis em interior de prédios e estruturas. Aplicações típicas seriam 
+em áreas de estocagem; áreas sujeitas a grandes vazamentos, equipamentos de processo, salas 
+de bombas, tanques abertos, como, por exemplo: tanques de pintura por submersão, tanques de 
+mistura, etc., existentes em indústrias, processo de extração por solventes, usinas de destilação 
+e refinarias. 
+6.1.1.3 Esta seção não trata dos sistemas de chuveiros de espuma/água, sistema de neblina de 
+espuma/água ou sistemas de espuma de alta expansão. 
+6.1.2 Limitações 
+Quando o risco envolvido for constituído por líquidos inflamáveis, tais como álcool, acetona, éter 
+(solventes polares), os quais são solúveis em água, devem ser usados espuma específica para 
+tal utilização e equipamento adequado. 
+6.1.3 Qualidade da espuma 
+6.1.3.1 A espuma suprida pelos sistemas de neblina deve formar rapidamente um lençol de 
+cobertura e espalhar-se logo ao redor de obstáculos. As espumas descarregadas de tais 
+sistemas devem ter um coeficiente de expansão variando entre quatro e oito valores de “25% do 
+tempo de drenagem”, variando entre 30 e 60 segundos. 
+6.1.3.2 A espuma suprida por dispositivos que produzam uma corrente compacta de baixa 
+velocidade deve ter características dentro dos limites que constam da Figura 1 (ver 6.3).
+
+--- PÁGINA 11 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+11/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+6.1.4 Descrições dos sistemas 
+6.1.4.1 Os sistemas considerados nesta seção consistem em dispositivos de detecção, suprimento 
+adequado de água, suprimento de LGE, equipamento proporcionador, sistema apropriado de 
+tubulações, geradores de espuma e dispositivos de descarga construídos de forma a distribuírem 
+a espuma uniformemente sobre o risco. 
+6.1.4.2 Estes sistemas são do tipo de dilúvio com aplicadores abertos; a espuma é descarregada 
+de todos os aspersores ao mesmo tempo, cobrindo todo risco. 
+6.1.4.3 Sistemas do tipo autônomo são aqueles que todos os componentes e extrato formador, 
+inclusive água, estão contidos dentro dos sistemas. Tais sistemas usualmente têm um tanque de 
+suprimento de água que fica pressurizado com ar ou gás comprimido, e a liberação desta pressão 
+do sistema coloca-o em operação. 
+6.1.5 Operação 
+6.1.5.1 No sistema automático devem existir dispositivos detectores e de acionamento. Estes 
+dispositivos detectores acionam o sistema operando uma válvula de controle de água ou outro 
+dispositivo acionador. O restante do sistema, por sua vez, deve ser interligado de forma a operar 
+os equipamentos formadores da solução de espuma, a qual, misturada apropriadamente, deve ser 
+enviada aos geradores e aplicadores de espuma, distribuídos na área de risco. 
+6.1.5.2 O equipamento de detecção automática, seja ele pneumático, hidráulico ou elétrico, deve 
+ser inspecionado a intervalos frequentes, de modo a garantir o funcionamento de todo o sistema. 
+6.1.5.3 A operação do sistema deve permitir o acionamento manual, caso ocorra falha do sistema 
+de detecção automática. 
+6.1.5.4 Quando a área e equipamentos forem permanentemente supervisionados, são 
+dispensadas as detecções e/ou acionamento automático. 
+6.1.6 Projetos dos sistemas 
+6.1.6.1 Os sistemas devem ser projetados para operação automática; suplementadas por meios 
+auxiliares manuais de acionamento. 
+6.1.6.2 Nos sistemas projetados para a proteção de salas ou prédios onde são usados aplicadores 
+de espuma em forma de neblina, os aplicadores devem estar situados o mais alto possível na área 
+e espaçados de acordo com as suas características de descarga (densidade, aplicação, forma de 
+neblina, altura máxima de uso, velocidade de lançamento, etc.), de modo que o sistema possa 
+cobrir toda a área a ser protegida. 
+6.1.6.2.1 Quando são usados aplicadores no nível do solo, estes devem estar situados e 
+espaçados de modo que a espuma se espalhe, com maior rapidez possível, em toda a área. 
+6.1.6.3 Tanques abertos contendo líquidos inflamáveis podem ser protegidos por aplicadores 
+instalados no costado interno do tanque, descarregando a espuma diretamente na superfície do 
+líquido. 
+6.1.6.4 A proteção de equipamentos específicos pode ser feita mediante aplicação de espuma por 
+cima ou por aplicadores direcionados para o equipamento. Quando o objetivo básico do sistema 
+é a extinção do fogo no chão, a cobertura equipamento específico pela espuma tem a vantagem 
+de criar um efeito isolante contra a exposição ao calor, enquanto o incêndio está sendo extinto.
+
+--- PÁGINA 12 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+12/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+6.1.6.5 Quando as linhas de LGE, para os pontos de formação de mistura do sistema, forem 
+projetadas com uma distância maior que 15 m, o LGE deve ser mantido sob pressão, para 
+assegurar imediata operação do sistema. A pressão pode ser mantida por uma bomba auxiliar. 
+6.1.6.6 Partes do sistema, como por exemplo, tanques de LGE, proporcionadores, bombas e 
+válvulas de controle, devem ser instaladas em pontos acessíveis para facilitar a operação nas 
+emergências. As válvulas com controle automático devem ficar tão perto do risco a proteger 
+quando possível, de forma que seja necessário um trecho curto de tubulação entre a válvula e os 
+dispositivos de descarga. 
+6.1.6.7 Os sistemas podem ser projetados para a operação de um ou vários riscos, ou grupos de 
+risco, usando-se o mesmo suprimento de LGE e água. 
+6.1.6.7.1 A dimensão de um sistema deve ser a menor possível; entretanto, em áreas onde dois 
+ou mais riscos possam ser envolvidos simultaneamente devido ao reduzido afastamento entre 
+eles, cada risco deve ser protegido com um sistema próprio, ou, então, o sistema deve ser 
+projetado de modo a proteger todos os riscos simultaneamente. 
+6.1.7 Taxa de aplicação para hidrocarbonetos e solventes polares 
+As taxas abaixo relacionadas são as recomendadas; entretanto, se o usuário obtiver através do 
+fabricante dos equipamentos ou LGE recomendações de taxas diferentes, elas serão admitidas. 
+6.1.7.1 O somatório da descarga dos aplicadores ou chuveiros de espuma deve ter a taxa mínima 
+de solução de 6,5 l/min/m² para hidrocarbonetos e 9,8 l/min/m² para solventes polares de área 
+protegida, devendo ser observadas as recomendações do fabricante do LGE que for usado. 
+6.1.7.2 Se houver modificação do LGE, o sistema deverá ser reavaliado e corrigido para as 
+características do novo produto utilizado. 
+6.1.7.3 Salvo manifestação expressa dos fabricantes, não deverão ser misturados LGE de origens 
+ou tipos diferentes. Nos casos em que existam superfícies horizontais interpostas que possam 
+acumular a espuma, estas devem ser levadas em conta ao se calcular a taxa de descarga. 
+6.1.7.4 Para os tanques sem cobertura com aplicadores situados nas paredes do costado, a taxa 
+de aplicação deve ser de 6,5 l/min/m² para hidrocarbonetos e 9,8 l/min/m² para solventes polares, 
+devendo ser observadas as recomendações do fabricante de LGE que for usado. 
+6.1.7.5 Quando pequenos tanques abertos são protegidos por sistema de neblina de espuma, 
+deve ser dedicada atenção especial ao volume da descarga que realmente entra no tanque, para 
+se garantir que a taxa de aplicação seja alcançada. 
+6.1.7.6 Líquidos solúveis em água e solventes polares, que destroem espuma comum, exigem o 
+uso de espuma do tipo álcool. Os sistemas projetados para estas espumas precisam de 
+considerações especiais e podem requerer maiores taxas de aplicação. 
+6.1.8 Tempo de operação 
+6.1.8.1 Para proteção em áreas planas, a duração da descarga da espuma deve ser, no mínimo, 
+de 10 minutos. Quando o sistema for projetado para dar uma taxa de aplicação maior que a 
+especificada em 6.1.7. pode ser prevista uma redução proporcional do tempo de descarga; 
+contudo, o tempo final não deve ser inferior a 7 minutos. 
+6.1.8.2 Para tanques com menos de 37 m² de superfície:
+
+--- PÁGINA 13 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+13/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+a) para os aplicadores da neblina de espuma suspensos, a duração da descarga deve ser de 5 
+minutos para hidrocarbonetos; 
+b) para aplicadores montados sobre o costado de tanques, a duração da descarga deve ser, no 
+mínimo, de 3 minutos; 
+c) deve haver um bordo livre não inferior a 15 cm entre a superfície do líquido e a parte superior 
+do costado do tanque. 
+6.1.8.3 No caso de tanques com 37 m² ou mais de superfície, aplicar as regras de tempo de 
+operação válidas para tanques ao ar livre. 
+6.1.9 Suprimento de LGE 
+6.1.9.1 O suprimento total de LGE deve ser a soma das quantidades definidas em 5.6.2, 6.1.7.2, 
+6.1.8.1 e 6.1.9.2. 
+6.1.9.2 Para suprimento de reserva, além da carga inicial deve haver uma quantidade de LGE de 
+reserva, suficiente para reabastecer o sistema de acordo com 5.6.2. 
+6.1.10 Tubulação dos sistemas 
+6.1.10.1 A tubulação dos sistemas deve ser calculada e dimensionada a fim de obter uma 
+distribuição uniforme da espuma e compensar a perda da pressão de água. A ajustagem nas 
+dimensões das tubulações, a fim de se obter descarga uniforme, deve ser baseada na variação 
+máxima de 15% da descarga média prevista por aplicador, contanto que o sistema supra a taxa 
+de aplicação prevista em projeto. 
+6.1.10.2 A tubulação deve ser apoiada de maneira segura e protegida. Em ambientes fechados 
+onde há risco de explosão, a tubulação deve ser fixada em suportes não ligados ao telhado. 
+6.1.10.3 A tubulação distribuidora de espuma deve possuir drenos e ter uma inclinação para estes 
+de 5 mm por metro linear. 
+6.1.10.4 Não deve ser permitido perfurar ou atarraxar os suspensores em partes da estrutura 
+portadora de carga. Os acessórios podem ser montados nas estruturas e nos suportes dos 
+equipamentos industriais. 
+6.1.10.5 Os padrões de instalação para tubulações de espuma devem ser os previstos na norma 
+para a instalação de Sistema de Chuveiros Automáticos (NFPA nº 13). A solda de acordo com 
+a ANSI B31.1 para tubulação de pressão é permissível quando pode ser feita sem criar risco. A 
+tubulação de suprimento dos aplicadores que protegem uma determinada área não deve passar 
+sobre outro risco da mesma área. 
+6.1.11 Alarmes 
+6.1.11.1 Para cada sistema, deve ser instalado um alarme local, com acionamento independente 
+do fluxo de água, para indicar a operação do equipamento de detecção. Central de alarme é 
+recomendável, entretanto a sua instalação não anula a exigência do alarme local. 
+6.1.11.2 Deve ser previsto um alarme indicador de defeitos para apontar a falha do equipamento 
+de detecção automática que realize uma supervisão constante e continuada de todas as partes 
+dos circuitos elétricos de detecção.
+
+--- PÁGINA 14 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+14/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+6.2 Sistemas de neblina de espuma para líquidos inflamáveis/combustíveis em áreas 
+abertas (Proteção externa) 
+6.2.1 Campo de aplicação 
+6.2.1.1 Esta seção refere-se a sistemas que descarregam a espuma na forma de neblina para 
+extinção de incêndios em vazamentos sob ou ao redor de estruturas, equipamentos, tanques 
+horizontais e pequenos tanques verticais. 
+6.2.2 Taxa de aplicação 
+6.2.2.1 A taxa mínima de aplicação da solução de espuma deve ser de 6,5 L/min/m² 
+hidrocarbonetos e 9,8 L/min/m2 para solventes polares. 
+6.2.2.2 Devem ser aplicadas as seções 6.1.7.1 a 6.1.7.3. 
+6.2.2.3 É de fundamental importância a obediência às recomendações do fabricante do LGE. 
+6.2.3 Suprimento de LGE 
+6.2.3.1 Geral 
+Os estoques a serem mantidos devem ser a soma das quantidades em 6.2.3.2 e 6.2.3.3. 
+6.2.3.2 Suprimento operacional 
+Deve haver uma quantidade de LGE suficiente para suprir o sistema à taxa de projeto durante o 
+período de 10 minutos. Se o sistema descarrega a uma taxa acima do mínimo especificado em 
+5.2.1, então o tempo de operação pode ser reduzido proporcionalmente, mas não deve ser inferior 
+a 7 minutos. 
+6.2.3.3 Suprimento de reserva 
+Deve haver um estoque de reserva de LGE de acordo com 5.6.2 
+6.2.4 Dispositivos de descarga (Número e local) 
+Deve haver, no mínimo, um aspersor para cada 9 m² de área protegida, a menos que a 
+especificação dos aspersores permita um maior espaçamento.  Estes aspersores devem estar 
+situados de forma a proporcionarem boa distribuição da espuma. Entretanto, uma vantagem 
+adicional será obtida pela colocação dos aspersores de modo que a espuma envolva o 
+equipamento dentro da área protegida. Portanto, aspersores podem ser instalados em cima dos 
+equipamentos ou tanques fechados, em vez de estarem uniformemente espaçados pela área a 
+ser protegida. Estes aspersores podem então ser instalados em plano e elevação de modo a 
+permitirem proteção mais efetiva ao risco. 
+6.2.5 Operação 
+6.2.5.1 Operação automática 
+Os sistemas de espuma tratados em 6.2 podem ser de operação automática. 
+6.2.5.2 Operação manual 
+Para todos os sistemas, os controles devem estar situados em lugar acessível, suficientemente
+
+--- PÁGINA 15 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+15/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+distante do risco, de forma que possam ser operados com segurança. 
+6.2.6 Tubulação dos sistemas 
+6.2.6.1 A tubulação de solução deve ser limpa após o uso ou prova. 
+6.2.6.2 Deve ser consultado o Capítulo 3 da NFPA n. 13 quanto às exigências relativas a 
+tubulação, válvulas, acessórios de tubulação e suspensores, inclusive proteção contra corrosão 
+(galvanização ou outros meios). Nos sistemas de aspersores ao ar livre, devem ser usados tubos 
+e acessórios galvanizados. Atmosferas corrosivas podem exigir equipamentos com maior 
+proteção. 
+6.2.6.3 A tubulação de LGE deve ser de aço-carbono preto ou ferro fundido, este para tubulação 
+subterrânea, ou, quando exposta, deve ser adequadamente protegida contra impacto e ação do 
+fogo. 
+6.3 Sistemas fixos para tanques de armazenamento em áreas abertas 
+6.3.1 Campo de aplicação 
+Esta seção refere-se a sistemas de espuma para a proteção de tanques verticais de 
+armazenamento à pressão atmosférica, ao ar livre, contendo líquidos inflamáveis e/ou 
+combustíveis, mediante câmaras fixas de espuma. Os sistemas devem basear-se no maior fluxo 
+de solução para a proteção do maior tanque da área, mais as linhas de mangueiras suplementares 
+necessárias. 
+6.3.1.1 Os tanques horizontais ficam dispensados da instalação de câmara de espuma, devendo 
+haver, neste caso, a proteção do dique/bacia de contenção por linhas manuais. 
+6.3.1.2 Tanques para uso exclusivo de líquidos classe III (ponto de fulgor superior a 60ºC) não 
+necessitam da proteção de sistemas fixos de espuma, salvo quando existirem situações anormais, 
+tais como estocagem de produtos de alto valor ou líquidos aquecidos acima de seu ponto de fulgor. 
+6.3.1.3 Nos tanques destinados ao armazenamento de aguardente, as câmaras de espuma devem 
+ser substituídas por canhões monitores. 
+6.3.2 Taxas de aplicação 
+6.3.2.1 A taxa mínima de aplicação da solução deve ser a seguinte: 
+a) para tanques contendo hidrocarbonetos líquidos: 
+a.1) a taxa de aplicação da solução de espuma deve ser de, pelo menos 6,5 l/min/m² da área de 
+superfície de líquido  do tanque a ser protegido, observadas as recomendações  do fabricante de 
+LGE empregado; 
+a.2) se houver modificação do LGE utilizado, o sistema deverá ser reavaliado e corrigido para as 
+características do novo LGE; 
+a.3) salvo manifestações expressa dos fabricantes, não devem ser misturados LGE de 
+fabricantes ou de tipos diferentes; 
+Notas: 
+1) Líquidos inflamáveis que têm o ponto de ebulição inferior a 37,8ºC podem exigir taxas de
+
+--- PÁGINA 16 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+16/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+aplicação mais altas. Taxas convenientes de aplicação devem ser determinadas por teste. 
+2) Para líquidos de alta viscosidade, aquecidos acima de 93,3 ºC, podem ser recomendáveis taxas 
+iniciais de aplicação mais baixas, para se minimizar a ebulição turbilhonar e o consequente 
+extravasamento do líquido estocado. Cuidado especial deve ser dispensado na aplicação de 
+espumas em tanques contendo bicos quentes, asfaltos em chama ou líquidos que se encontrem 
+à temperatura acima do ponto de ebulição da água. Embora o conteúdo comparativamente baixo 
+de água das espumas possa arrefecer beneficamente tais líquidos pode também causar ebulição 
+turbilhonar violenta e extravasamento do conteúdo dos tanques. 
+b) para tanques contendo outros líquidos inflamáveis e combustíveis exigindo espumas 
+especiais: 
+b.1) líquidos solúveis em água e certos líquidos polares são destruidores das espumas comuns, 
+exigindo o uso de espuma do tipo álcool. Os sistemas que usam esta espuma necessitam de 
+projeto especial de engenharia. Condições outras que as de rotina podem exigir o uso de taxas 
+de aplicação mais altas. Em todos os casos, os fabricantes do LGE e do equipamento gerador 
+de espuma devem ser consultados quanto às limitações e devem ser solicitadas recomendações 
+baseadas na aprovação oficial ou testes específicos de fogo; 
+c) taxas de aplicação mínimas recomendadas com emprego de dispositivos de descargas tipo II: 
+Tabela 2 - taxas de aplicação mínimas para dispositivos de descargas tipo II 
+Tipo de Líquido 
+Taxa de solução (L/min/m²) 
+Álcool metílico e etílico 
+6.5 
+Acrilonitrila 
+5.5 
+Acetato de etila 
+6.5 
+Metiletilcetona 
+6.5 
+Acetona 
+9.8 
+c.1) Produtos com álcool isopropílico, cetona, metioisobutílica, monômero de metacrilato metílico, 
+álcool butílico, éter isopropílico, e misturas de solventes polares em geral podem exigir taxas de 
+aplicação mais altas. A proteção de produtos como aminas e anidridos, que são especialmente 
+destruidores de espuma, exige consideração especial; 
+d) aplicar a segunda e a terceira subalíneas de 6.3.2.1. 
+É de fundamental importância a obediência às recomendações do fabricante do LGE utilizado. 
+Notas: 
+1) a resistência da espuma mecânica tipo álcool a solventes e ao fogo pode ser afetada 
+adversamente por fatores como tempo excessivo de trânsito da solução; uso de  dispositivos 
+geradores de espuma não construídos especificamente ou não testados adequadamente para 
+uma solução particular de espuma de álcool; pressão de operação; falta de se manter a dosagem 
+dentro dos   limites da  concentração  recomendada;  método  de  aplicação e características do 
+líquido ao qual a  espuma  deve ser aplicada. 
+2) o tempo de trânsito da solução é o que transcorre entre a injeção do LGE na água e a mistura 
+do ar; o tempo de trânsito da solução pode ser limitado, dependendo das características do LGE, 
+temperatura da água e natureza do risco a proteger. O tempo máximo de trânsito da solução de 
+cada instalação especifica deve estar dentro dos limites estabelecidos pelo fabricante do LGE e 
+normalmente não deve ultrapassar 3 minutos.
+
+--- PÁGINA 17 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+17/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+3) para a proteção de líquidos inflamáveis ou combustíveis tóxicos, altas taxas de aplicação podem 
+ser recomendáveis para se reduzir o risco de poluição da área, providenciando-se uma cobertura 
+mais rápida do líquido, mediante aumento das taxas de aplicação utilizadas. 
+6.3.3 Suprimento do LGE 
+6.3.3.1 Geral  
+O suprimento a ser mantido em estoque deve ser a soma das quantidades definidas em 6.3.4.1 a 
+6.3.4.4. 
+6.3.3.2 Tempo mínimo de descarga 
+O sistema deve ser capaz de operar na taxa de suprimento especificada em 6.3.2.1, para o maior 
+tanque a ser protegido, nos períodos mínimos de tempo indicados na Tabela 3. Se a taxa de 
+aplicação de espuma for mais alta que a especificada em 6.3.2.1, pode ser feita uma redução 
+proporcional no tempo, desde que não seja inferior a 70% dos tempos mínimos apresentados na 
+Tabela 3. 
+Tabela 3 - Tempos mínimos de Operação do Sistema  
+Para tanques contendo hidrocarbonetos líquidos 
+Tipos de aplicação de espuma 
+Tipo I 
+Tipo II 
+Óleos lubrificantes, resíduo viscoso seco (mais de 50 s Saybolt-
+Furol, a 50 ºC, 1.068x10 – 4 m² /s, a 50 ºC), óleos combustíveis 
+pesados, com pontos de fulgor acima de 93,3 ºC 
+15 
+25 
+Querosene, óleos combustíveis leves, etc., com pontos de fulgor de 
+37,7 ºC a 93,3 ºC. 
+20 
+30 
+Gasolina, nafta, benzol, Diesel automotivo e líquidos similares, com 
+pontos de fulgor abaixo de 37,7 ºC 
+30 
+55 
+Petróleo cru 
+30 
+55 
+6.3.4 Inflamáveis e combustíveis polares solúveis em água 
+As espumas tipo álcool exigem aplicação suave pelas câmaras tipo I, a menos que sejam 
+aprovadas como apropriadas para aplicação pelas câmaras tipo II. O tempo de operação deve ser 
+de 30 minutos na taxa de aplicação especificada, a menos que o fabricante do LGE tenha 
+estabelecido, em tese de fogo, que um tempo menor possa ser admitido. 
+6.3.4.1 Quantidade de LGE  
+A quantidade de LGE a ser armazenada deve ser determinada multiplicando-se o fluxo total em 
+litros por minuto de cada tanque pelo indicado em 6.3.3.2. O maior valor resultante deve ser 
+somado à quantidade necessária para as mangueiras previstas em 6.3.4.2 e ao LGE necessário 
+ao enchimento das tubulações.  
+ 
+6.3.4.2 Mangueira para aplicação manual de espuma 
+Mangueiras e esguichos produtores de espuma devem ser providenciados em adição às 
+instalações de espuma dos tanques, como proteção suplementar para casos de incêndios em 
+vazamentos. O número de mangueiras deve ser conforme especificado na Tabela 4. Para a 
+finalidade desta exigência, cada mangueira deve ter vazão de solução de pelo menos 400 L/min  
+6.3.4.2.1 As quantidades de LGE necessárias à alimentação das linhas de espuma devem ser
+
+--- PÁGINA 18 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+18/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+somadas às quantidades exigidas para o sistema fixo. LGE adicional deve ser providenciado para 
+se permitir à operação das linhas de espuma simultaneamente com as instalações fixas de 
+espuma para o período estabelecido na Tabela 4.  
+Tabela 4 – Número de Linhas de Espumas Suplementares  
+Bacias de tanques com 
+diâmetros (m) 
+Vazão de solução de 
+espuma (L/min) 
+Nº mínimo de linhas 
+Tempo de uso (min) 
+Inferior ou igual a 10 
+400 
+1 
+10 
+Superior a 10 até 20 
+400 
+2 
+20 
+Superior a 20 até 30 
+800 
+4 
+20 
+Superior a 30 até 40 
+800 
+4 
+30 
+Superior a 40 
+1200 
+6 
+30 
+Notas: 
+1) para área total até 400 m² - uma linha de 200 L/min. 
+2) no caso de solução de espuma tipo álcool, limitações de tempo de trânsito podem exigir uso 
+de linhas separadas de água e de LGE e a necessidade de se efetuar a mistura do LGE perto do 
+esguicho de espuma e não na estação central de espuma. 
+6.3.4.3 Exigências para se encherem as tubulações 
+Deve haver uma quantidade de LGE suficiente para se produzir à solução de espuma para se 
+encherem as tubulações instaladas entre a estação fixa de emulsionamento e o tanque mais 
+distante. Quando o suprimento de água continuar após o esgotamento do LGE, podendo deslocar 
+a solução de espuma das tubulações para o tanque, não é necessária quantidade adicional de 
+LGE. 
+6.3.4.4 Suprimento de reserva de LGE 
+Deve haver um estoque de reserva de LGE conforme indicado em 5.6.2 
+6.3.5 Câmaras de espuma 
+6.3.5.1 Para a proteção dos tanques, devem ser usadas câmaras de espuma. Quando forem 
+projetadas duas ou mais câmaras, elas devem estar igualmente espaçadas à volta do tanque, e 
+cada câmara deve ser dimensionada para suprir espuma à mesma vazão. As câmaras de espuma 
+devem estar firmemente montadas no topo do costado e situadas de modo a eliminarem a 
+possibilidade de escoar o líquido armazenado para as tubulações de espuma e de modo que a 
+explosão inicial e o consequente arrancamento do teto do tanque não as sujeitem a danos. O 
+número de câmaras de espuma deve estar de acordo com a Tabela 5. 
+Tabela 5 – Número de Câmaras de Espuma 
+Diâmetro do tanque (m) 
+nº mínimo de câmaras 
+Até 24,5 (inclusive) 
+1 
+Mais de 24,5 até 36,5 
+2 
+Mais de 36,5 até 42,5 
+3 
+Mais de 42,5 até 48,5 
+4 
+Mais de 48,5 até 55 
+5 
+Mais de 55 até 61 
+6
+
+--- PÁGINA 19 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+19/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+Nota:  
+1) Acrescentar uma câmara para cada 465 m² de superfície líquida, quando o tanque ultrapassar 
+o diâmetro de 61 m.  
+2) Testes práticos demonstraram que a espuma pode deslocar-se efetivamente através de 30 m 
+de superfície de líquido incendiado. Em tanques grandes, a injeção subsuperficial pode ser usada 
+para se reduzirem às distâncias de deslocamento da espuma. 
+6.3.5.1.1 As câmaras de descarga devem estar munidas de selo de vedação, quebrável sob baixa 
+pressão, para prevenir a entrada de vapores nas câmaras de descarga e nas tubulações. As 
+câmaras de descargas devem dispor de dispositivos adequados de inspeção, para se permitirem 
+manutenções apropriadas, inspeção, testes e substituição dos selos de vedação. 
+6.3.5.1.2 Os dispositivos de inspeção devem proporcionar perfeita simulação de seu 
+funcionamento por ocasião das vistorias técnicas. 
+6.3.6 Tanques com teto flutuante com topo aberto 
+6.3.6.1 São tanques com topo aberto que têm teto flutuante com divisões fechadas ou pontões 
+construídos com chapas de aço, de acordo com as exigências estabelecidas na NBR 7821. O teto 
+flutuante é equipado com selo de vedação tipo pantógrafo, ou selo tubular com protetor metálico 
+contra chuva, ou outro tipo de vedação. Mantas de plástico, diafragmas ou flutuadores que 
+facilmente podem submergir não estão incluídos nesta definição. 
+6.3.6.2 Sistemas de espuma podem não ser exigidos em tanques de teto flutuante, com o topo 
+aberto. Estes tanques têm desempenho excelente quanto a incêndios. O seu projeto obedece 
+tanto às razões de prevenção de incêndios quanto às de conservação do produto. Usualmente é 
+possível utilizar pessoal treinado para a extinção de incêndio no anel circular, com o emprego de 
+equipamento portátil. Entretanto, há locais onde a proteção fixa pode ser recomendável devido a 
+calor dos produtos estocados, distância da instalação ou falta de pessoal para combate a 
+incêndios. 
+6.3.6.3 Duas técnicas são reconhecidas para aplicação da espuma por um sistema fixo/semifixo. 
+Uma delas prevê a descarga da espuma acima do selo pantográfico, ou do protetor metálico. A 
+outra prevê a descarga da espuma sob o selo pantográfico diretamente na superfície do líquido 
+ou atrás do protetor metálico, diretamente no invólucro do selo tubular e na superfície do líquido 
+estocado, dependendo dos danos do selo. Os sistemas fixos de espumas podem ser operados 
+manual ou automaticamente. Quando operados automaticamente são capazes de operar das duas 
+maneiras. O projeto pode prever uma instalação fixa ou semifixa. 
+6.3.6.3.1 Quando forem instalados dispositivos fixos de descarga acima do selo pantográfico ou 
+acima do protetor metálico, proceder como indicado a seguir: 
+a) montar sobre o teto flutuante, a 300mm da borda deste, um anteparo circular feito de chapa 
+de aço de espessura de pelo menos 3,4 mm (chapa 10). A finalidade do anteparo é reter a espuma 
+na área do solo e garantir uma altura suficiente (no mínimo 600 mm) para fazer com que a espuma 
+escoe lateralmente e cubra todo o selo de modo a garantir a vedação de pontos onde o selo haja 
+sofrido ruptura. O anteparo deve ter ranhuras cortadas na parte inferior para permitir a drenagem 
+da água de chuva. Nas áreas totais, ou ranhuras devem ser de 280 mm²/m² da área da coroa 
+circular entre o costado do tanque e o anteparo; 
+b) a proposta do sistema de espuma deve prever a não interferência dos seus dispositivos, 
+inclusive tubulação, com o teto flutuante, ou o protetor contra intempérie e com a escada móvel 
+do teto flutuante;
+
+--- PÁGINA 20 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+20/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+c) a taxa de aplicação e o suprimento de LGE devem ser calculados considerando-se a área da 
+coroa circular entre o anteparo e o costado do tanque. As taxas mínimas de solução de espuma 
+recomendadas com emprego de dispositivo de descarga tipo II devem ser de, pelo menos, 9,8 
+l/min/m². O suprimento deve ser adequado para operar o sistema durante 20 minutos. 
+6.3.6.3.2 Quando se deseja instalar dispositivos fixos de espuma embaixo do selo ou do protetor 
+metálico, as indicações seguintes devem ser observadas como guia de construção: 
+a) para os vedadores tipo selo tubular, o anteparo circular é exigido somente quando o topo do 
+selo está a menos de 160 mm abaixo da borda superior do teto flutuante. O espaçamento máximo 
+entre os aplicadores não deve ser maior que 18 m, medido ao redor da circunferência do tanque; 
+b) para os vedadores tipo pantográfico o anteparo circular não é exigido. O espaçamento máximo 
+entre os aplicadores não deve ser maior que 40 m, medido ao redor da circunferência; 
+c) A espuma deve ser do tipo de baixa expansão, com bastante fluidez, usualmente associada 
+com tempos de drenagem perto do limite inferior aceitável (ver Tabela 3); 
+d) a proposta do sistema de espuma deve prever a não interferência dos seus dispositivos, 
+inclusive tubulação, com o teto flutuante, as articulações do seio ou a escada móvel do teto 
+flutuante; 
+e) a taxa de aplicação e o suplemento do LGE devem ser calculados considerando-se a área da 
+coroa circular entre o costado do tanque e a borda do teto flutuante. A taxa mínima deve ser de 
+20 l/min/m² da área. O suprimento deve ser adequado para operar o sistema durante 10 minutos. 
+6.3.6.3.3 Não se exigem válvulas separadas para cada dispositivo de carga de espuma para os 
+sistemas em tanques de teto flutuante com o topo aberto. 
+6.3.7 Tanques com teto flutuante cobertos 
+No âmbito desta Instrução Técnica, tanques com teto flutuante, cobertos por um teto fixo com 
+ventilação para a atmosfera e com um teto metálico fechado flutuando na superfície do líquido, 
+com ventilação instalada conforme determinado no Boletim API 650 – Apêndice H (ver nota), o 
+sistema de ventilação deve ser suficiente para manter os vapores abaixo do limite inferior de 
+inflamabilidade, exceto durante o carregamento inicial e por um breve período depois desta 
+operação, dependendo da volatilidade do produto. Caso um tanque de teto flutuante coberto não 
+seja de acordo com estas recomendações, ele deve ser considerado como tanque de teto fixo. 
+Notas: 
+1) em ventilação em tanques com teto flutuante coberto, respiros convenientes devem ser 
+instalados para se evitar esforço excessivo da borda do teto ou da membrana de selo. Estes 
+respiros devem ser adequados para a saída do ar e gases do espaço sob o teto fixo durante as 
+operações de recebimento (enchimento). Os respiros devem ser também adequados para aliviar 
+qualquer vácuo gerado embaixo do teto fixo durante as operações de descarga. O comprador 
+deve especificar as taxas de recebimento, de modo que o fabricante do tanque possa dimensionar 
+corretamente a ventilação. 
+2) os respiros ou abertura de ventilação devem estar situados no costado do tanque, acima do 
+selo do teto flutuante. O espaçamento máximo entre os respiros deve ser de 10 m, e de maneira 
+alguma deve haver menos de quatro respiros igualmente espaçados. A área total aberta destes 
+respiros deve ser igual ou superior a 0,60 m² por metro de diâmetro do tanque. Um respiro deve 
+estar instalado no centro ou na maior elevação do teto fixo e deve ser equipado com uma tampa 
+contra intempérie com área mínima aberta de 0,033 m².
+
+--- PÁGINA 21 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+21/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+6.3.7.1 Os sistemas fixos não são exigidos em tanques com teto flutuante cobertos. A 
+possibilidade de incêndio é grandemente reduzida em comparação com outros tipos de tanques, 
+graças ao tipo de construção “gaiola de Faraday” desta classe de tanques. No caso de incêndio é 
+difícil extinguir o fogo nestes tanques, com o emprego de equipamento portátil. Proteção fixa pode 
+ser recomendável em certos locais devido ao valor dos produtos estocados, distância das 
+instalações ou falta de pessoal de combate a incêndio. 
+6.3.7.2 Para a proteção com espuma para estes tanques, observar o seguinte procedimento: 
+a) se o tanque for construído de acordo com as recomendações, aplicar o sistema de espuma 
+como para tanques de teto flutuante (ver 6.3.6); 
+b) se o tanque não estiver dentro das recomendações, aplicar o sistema de espuma como para 
+os tanques de teto fixo (ver alínea a do item 6.3.2.1). 
+6.3.8 Dispositivos complementares 
+Recomenda-se que pelo menos um canhão monitor seja providenciado como proteção 
+complementar para o caso de uma câmara ser danificada pela explosão do tanque (ver 6.4). 
+6.3.9 Aplicação de espuma pelo sistema subsuperficial em tanques de teto fixo, contendo 
+hidrocarbonetos líquidos 
+6.3.9.1 Geral 
+Sistemas de aplicação subsuperficial não são indicados para a proteção de produtos como álcool, 
+ésteres, cetonas, aldeídos, anidridos e outros. Hidrocarbonetos líquidos que contêm tais produtos 
+misturados podem exigir taxas de aplicação mais altas. O fabricante do LGE deve ser consultado 
+e a ele devem ser solicitadas recomendações. Estes sistemas também não devem ser aplicados 
+a tanques do teto flutuante. 
+6.3.9.2 Produtos e equipamentos geradores de espuma  
+Produtos e equipamentos geradores de espuma para a aplicação subsuperficial devem ser 
+aprovados para esta finalidade. Os LGE fluorproteínicos e os AFFF oferecem desempenho 
+satisfatório neste processo de aplicação. 
+6.3.9.3 Taxas 
+A taxa mínima deve ser conforme indicada na alínea a do item 6.3.2.1 
+6.3.9.3.1 Suprimento de LGE 
+O suprimento mínimo de LGE a ser mantido deve ser a soma das quantidades definidas para as 
+câmaras de descarga do tipo II e linhas de espuma suplementares conforme indicado em 6.3.3.2, 
+6.3.4.2 e 6.3.4.4. 
+6.3.9.4 
+Exigências suplementares de linhas de mangueiras e hidrantes de espuma 
+As exigências mínimas referentes às linhas de mangueiras e hidrantes de espuma são 
+especificadas em 6.3.11.1. 
+6.3.9.5 Saídas de espuma 
+As saídas de espuma para tanques podem ser o extremo aberto da tubulação de suprimento de
+
+--- PÁGINA 22 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+22/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+espuma ou do próprio produto estocado. As saídas devem ser dimensionadas de modo que não 
+sejam ultrapassados os limites da pressão de descarga do gerador de espuma e da velocidade da 
+espuma. A velocidade da espuma no ponto de descarga para o tanque não deve exceder 3 m/s, 
+para os líquidos de classe IB, e não deve exceder 6 m/s para os líquidos de outros tipos, a menos 
+que testes efetivos provem que velocidades mais altas são satisfatórias. 
+6.3.9.5.1 Quando duas ou mais saídas são necessárias, estas devem ficar espaçadas igualmente 
+ao redor do tanque, de modo que o percurso não exceda 30 m, e cada saída deve ser 
+dimensionada para descarregar a espuma à mesma vazão. Para distribuição uniforme da espuma, 
+as saídas podem ter conexões no costado ou a espuma pode ser alimentada por meio de uma 
+tomada múltipla de tubos para o interior do tanque, partindo de uma só conexão no costado. As 
+conexões no costado podem ser feitas nas tampas das portas de inspeção, em vez de se 
+instalarem bocas adicionais no tanque. 
+6.3.9.5.2 Os tanques devem ter saídas de espuma conforme o determinado na Tabela 6: 
+Tabela 6 - Saídas de Espuma 
+Diâmetro do tanque (m) 
+Nº mínimo de saídas 
+Líquidos de classe 1A e 1B 
+Líquidos de classe 1C, II e III 
+De 18 a 24,5 (inclusive) 
+1 
+1 
+Mais de 24,5 até 36,5 
+2 
+1 
+Mais de 36,5 até 42,5 
+3 
+2 
+Mais de 42,5 até 48,5 
+4 
+2 
+Mais de 48,5 até 55 
+5 
+2 
+Mais de 55 até 61 
+6 
+3 
+Mais de 61, acrescentar uma saída 
+para cada tanque. 
+465 m² 
+700 m² 
+Notas : 
+1) líquidos da classe IA exigem consideração especial. 
+2) Esta tabela baseia-se em extrapolação de dados de testes de fogo em tanques de diâmetros 
+de 7,5 m, 28 m e 35 m, contendo gasolina, petróleo cru e hexano, respectivamente. 
+3) Incêndios em combustíveis mais pesados que foram extintos pela aplicação subsuperficial 
+correspondem, em viscosidade, aos óleos combustíveis que em temperatura do ambiente (15,5 
+ºC) tenham viscosidade de 25 S.S.U. a 50 ºC e ponto de fluidez de -9,4 ºC. Além do controle 
+oferecido pelo efeito abafador da espuma e o efeito resfriador da água que alcança a superfície, 
+o controle e a extinção do incêndio podem ser ainda favorecidos pela movimentação do produto 
+frio para a superfície. 
+6.3.9.5.3 Quanto à altura das saídas de espuma, estas devem estar situadas acima do nível de 
+água. Havendo água no fundo do tanque, acima das saídas de espuma, ela deve ser drenada até 
+o nível do ponto de aplicação, antes de se colocar o sistema de espuma em operação. Caso isto 
+não seja feito, a eficácia da espuma será reduzida devido à sua diluição, prolongando ou 
+impossibilitando a extinção. 
+6.3.10 Tubulação do sistema de espuma 
+6.3.10.1 Tubos para espuma 
+O dimensionamento dos tubos ou das linhas de saída usadas além do gerador de espuma deve
+
+--- PÁGINA 23 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+23/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+ser tal que a contrapressão esteja dentro da faixa das pressões para as quais o sistema foi 
+projetado. 
+6.3.10.2 Válvulas nos sistemas 
+Em adição às exigências especificadas em 6.1.9.2, cada linha de suprimento de espuma deve 
+estar equipada com uma válvula de descarga e uma válvula de retenção, a menos que a segunda 
+seja parte integrante do gerador de espuma de alta contrapressão a ser ligado na hora do uso. 
+Quando linhas de produto são empregadas para espuma, as válvulas destas devem ser dispostas 
+para que a espuma entre somente no tanque a ser protegido. 
+6.3.10.3 Tanques horizontais e tanques pressurizados  
+Os sistemas fixos ou semifixos de espuma não se aplicam a tanques horizontais nem a tanques 
+pressurizados. 
+6.3.11 Tubulação 
+6.3.11.1 Toda tubulação no interior dos diques, e dentro de 15,0 m de distância nos tanques sem 
+diques, pode estar enterrada a uma profundidade de 0,60 m ou montada acima do solo, se 
+apropriadamente suportada e protegida contra donos mecânicos. 
+6.3.11.2 A tubulação das câmaras de descarga, dentro do dique ou de 15,0 m de distância de 
+tanques sem dique, deve ser construída do modo a absorver as forças no sentido para cima e as 
+do choque devido à ruptura do teto do tanque. Preferencialmente, usar tubos de aço-carbono todos 
+soldados. Uma das seguintes técnicas pode ser empregada: 
+a) quando a tubulação for enterrada, uma junta articulada ou giratória ou outro meio conveniente 
+deve instalada na base de cada tubo de subida para a câmara, de forma a permitir a elevação da 
+câmara e a flexão do tubo de  subida; 
+b) quando a tubulação for apoiada sobre o solo, deve possuir suportes inferiores e laterais, quando 
+necessário, porém não deve ficar impedida de deslocar-se para cima, desde a distância de 15 m 
+do costado do tanque, para dar flexibilidade nesse sentido, de modo que a junta articulada ou 
+giratória da câmara ou outro meio conveniente não seja necessário. Caso haja conexões 
+rosqueadas, estas devem ser soldadas como reforço; 
+c) quando os tubos das câmaras são de 100 mm ou maiores, podem ser soldados ao tanque 
+mediante suportes de chapas de aço situadas perpendicularmente ao tanque. Deve haver um 
+suporte em cada anel do costado. Este sistema pode ser empregado em vez de juntas articuladas 
+ou giratórias. 
+6.3.11.3 Deve haver um dispositivo para permitir teste hidrostático do sistema até a câmara. 
+6.3.12 Válvulas nos sistemas 
+Todas as válvulas, exceto as dos hidrantes, devem ser do tipo que permitem a verificação visual 
+das posições “aberta” e “fechada”. Nas instalações fixas, as tubulações de alimentação para 
+cada câmara de espuma devem ter válvulas individuais fora do dique em instalações fixas. As 
+válvulas de controle para dirigir a espuma ou solução para o tanque apropriado podem estar na 
+estação central de espuma ou podem estar em pontos onde as tubulações derivam da linha 
+principal de alimentação. 
+6.3.12.1 As válvulas de controle devem estar situadas fora dos diques e às seguintes distâncias 
+do costado do tanque que protegem:
+
+--- PÁGINA 24 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+24/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+a) 15 m para tanques de diâmetro menor que 15 m; 
+b) um diâmetro para tanques de diâmetro de 15 m ou mais. 
+6.3.12.2 As válvulas de controle remoto podem ser permitidas à distância menor que as prescritas 
+nas alíneas a e b do item 6.3.12.1, quando estiverem adequadamente protegidas. Onde dois ou 
+mais proporcionadores de espuma estiverem instalados em paralelo, descarregando para um 
+mesmo equipamento, deve haver válvulas entre a descarga de cada proporcionador e o coletor 
+de descarga.  A linha de água para cada proporcionador deve ter válvula separada. 
+6.3.13 Hidrantes de espuma 
+Sistemas fixos com estação central devem ter hidrantes para linhas de espuma para uso 
+suplementar em incêndios em vazamentos. São necessários hidrantes de solução de espuma, 
+hidrantes de água com geradores portáteis ou outros dispositivos aprovados. Os hidrantes 
+(observar número mínimo), cada um com duas bocas de descarga pelo menos, devem estar 
+situados à distância de 1,5 vez (uma vez e meia) a altura do tanque a partir dos costados, para 
+aqueles com diâmetro até 09 (nove) metros, e de 15 a 75 m dos costados para os tanques com 
+diâmetros superiores a 09 (nove) metros, conforme estabelecido em 6.3.4.2. 
+6.4 Canhões monitores e mangueiras para proteção em áreas abertas 
+6.4.1 Generalidades 
+Estes equipamentos são sistemas nos quais a espuma é aplicada por meio de canhões monitores 
+fixos ou semifixos, ou de mangueiras. Eles, normalmente, são recomendados como proteção 
+auxiliar em conjunto com sistemas fixos, conforme especificado em 6.3. São indicados quando 
+usados isoladamente para a extinção de focos em derrames, incêndios em áreas limitadas por 
+diques e incêndios em tanques diques e incêndios em tanques com teto fixo. Linhas de mangueiras 
+são também usadas para a extinção de incêndios nos anéis de vedação dos tanques de teto 
+flutuante. 
+Notas: 
+1) incêndios em tanques de grandes diâmetros têm sido extintos por meio de monitores de 
+grande vazão de  espuma, quando toda a superfície do líquido estava envolvida. Dependendo dos 
+ventos, do próprio tanque e da intensidade do incêndio, o efeito de tiragem das chamas pode 
+impedir que a espuma alcance a superfície dos líquidos incendiado, em quantidade suficiente para 
+formar uma cobertura eficiente. A espuma deve ser aplicada contínua e uniformemente. É 
+preferencial que a descarga seja dirigida ao centro do tanque para reduzir o espaço percorrido 
+pela espuma. Fatores como vento, posições dos canhões e modo de aplicação podem reduzir a 
+eficácia do jato de espuma. Portanto, nestes casos, deve-se considerar um acréscimo de cerca 
+de 20% na taxa de aplicação de espuma. O fabricante dos sistemas (canhão e LGE) deve ser 
+consultado quanto à taxa de aplicação ideal para estes casos. Devido às suas limitações, não se 
+deve depender dos monitores exclusivamente como recursos principais da extinção para tanques 
+de teto fixo com mais de 18 m de diâmetro. Monitores operando ao nível do solo normalmente não 
+são recomendados para extinção de incêndio nas bordas dos tetos flutuantes, devido à dificuldade 
+de se dirigir à espuma para o espaço anelar. Monitores fixos podem ser instalados para a proteção 
+de áreas de estocagem de tambores ou áreas limitadas por diques. 
+2) Incêndios grandes em derrames têm sido extintos com linhas de mangueiras ou canhões 
+monitores. A fim de obter-se a máxima flexibilidade, devido às condições do local e da ocorrência 
+de um possível derrame em grandes parques de tanques, monitores portáteis ou montados em 
+reboques são preferíveis aos fixos. O procedimento de combate a incêndios em áreas isoladas 
+por diques é extinguir ou limitar com segurança uma área e seguir avançar para extinguir a próxima
+
+--- PÁGINA 25 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+25/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+seção dentro do dique. Esta técnica deve ser continuada até a extinção completa do fogo. 
+6.4.2 Taxas de aplicação 
+A taxa mínima de aplicação baseada na premissa de que toda a espuma possa alcançar a área a 
+proteger deve ser a seguinte: Na determinação das exigências totais de vazão da solução, devem 
+ser consideradas as perdas potenciais de espuma ao vento e a outros fatores indicados em na 
+nota 1 do item 6.4.1. 
+6.4.2.1 Para hidrocarbonetos líquidos: 
+a) para a proteção de tanques, a taxa de aplicação da solução deve ser, no mínimo, de 6,5 
+L/min/m²  de superfície do líquido a ser protegido; 
+b) aplicar as recomendações da segunda e da terceira subalíneas de 6.3.2.1. É de fundamental 
+importância à obediência às recomendações do fabricante do LGE utilizado. 
+Notas: 
+1) 1íquidos inflamáveis com ponto de ebulição inferior a 37,8 ºC podem exigir taxas de aplicação 
+mais altas. Taxas convenientes de aplicação devem ser determinadas por teste. Misturas de 
+líquidos inflamáveis com um faixa ampla de pontos de ebulição podem desenvolver uma onda de 
+calor após queima prolongada, podendo exigir taxas de aplicação de 8 L/min/m² ou mais altas. 
+2) deve-se atuar com cuidado ao se aplicarem jatos de espuma em produtos de alta viscosidade 
+aquecidos acima de 93ºC. Deve-se tomar cuidado quando da aplicação da espuma ou líquidos 
+que estão aquecidos acima do ponto de ebulição da água. Embora o baixo conteúdo de água na 
+espuma possa resfriar beneficamente tais combustíveis, pode causar também violenta erupção 
+turbilhonar e transbordamento do produto. 
+6.4.2.2 Para outros líquidos inflamáveis e combustíveis que exigem LGE especiais, líquidos 
+solúveis em água e certos líquidos inflamáveis, combustíveis e solventes polares, os quais são 
+destruidores de espuma comuns, exigem o uso de espumas tipo álcool. Em geral as espumas tipo 
+álcool pode ser efetivamente aplicado por meio de motores ou linhas de espuma em focos de 
+vazamento, quando a profundidade não ultrapassar 25mm. Caso contrário, os jatos devem ser 
+limitados para uso com LGE especial tipo álcool aprovado para a descarga tipo II. Os sistemas 
+que usam espumas exigem projetos especiais de engenharia. Em todo caso, os fabricantes do 
+LGE e do equipamento gerador de espuma devem ser consultados quanto às limitações e 
+recomendações baseadas em testes práticos. 
+6.4.2.3 As taxas de aplicação mínimas recomendadas para LGE aprovados para descarga tipo II 
+devem ser 9,8 l/min/m². 
+6.4.2.4 Para LGE aprovados somente para descarga tipo I deve ser consultado o fabricante. 
+6.4.2.5 Aplicar as recomendações da segunda e da terceira subalíneas de 6.3.2.1. É de 
+fundamental importância à obediência às recomendações do fabricante do LGE. 
+6.4.2.6 Produtos como álcool isopropílico, cetona metilo- isobutílica, monômero de 
+metacrilatometílico, álcool butílico, éter isopropílico e misturas de solventes polares em geral 
+podem exigir taxas de aplicação mais altas. A proteção de produtos como aminas e anidridos, que 
+são especialmente destruidores de espuma, exige LGE testados, especialmente para cada 
+produto.
+
+--- PÁGINA 26 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+26/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+Notas: 
+1) A resistência da espuma tipo álcool pode ser afetado adversamente por fatores como tempo 
+excessivo de trânsito da solução; uso de dispositivos geradores não projetados especificamente 
+para a aplicação, pressões de operação, falhas na mistura (água + LGE) dentro dos limites 
+recomendados de concentração, método de aplicação e características do produto. O tempo de 
+trânsito da solução, ou seja, o tempo transcorrido entre a injeção do LGE na água e a indução de 
+ar pode ser limitado, dependendo das características do LGE da temperatura da água e da 
+natureza do risco a proteger. O tempo máximo de trânsito da solução para cada instalação deve 
+estar dentro dos limites estabelecidos pelo fabricante do LGE. 
+2) Para a proteção de líquidos inflamáveis ou combustíveis que são altamente tóxicos, podem 
+ser necessárias maiores taxas de aplicação para se reduzir o risco ao pessoal, providenciando-se 
+cobertura mais rápida. 
+6.4.2.7 Nos casos em que o sistema de combate a incêndio por espuma seja composto 
+unicamente por linhas de espuma e/ou canhões monitores, devem ser previstas linhas para a 
+proteção da bacia de contenção de acordo com a Tabela 4 e outra linha (ou canhão) para a 
+proteção do tanque; sendo que a vazão deste último deve ser calculada em função da taxa de 
+aplicação e o diâmetro do tanque considerado, para o tempo mínimo descrito em 6.4.3.2. 
+6.4.2.7.1 Os hidrantes devem ser localizados à distância de 1,5 vez (uma vez e meia) a altura do 
+tanque a partir do seu costado, para aqueles com diâmetro até 09 (nove) metros, e de 15 m a 75 
+m do costado para os tanques com diâmetros superiores a 09 (nove) metros, conforme 
+estabelecido em 6.3.4.2. 
+6.4.2.8 Nos sistemas com canhões monitores, os tubos de espuma ou solução devem terminar 
+em conexões que fiquem a uma distância segura dos tanques, fora dos diques, obedecendo às 
+mesmas distâncias descritas em 6.4.2.7.1. 
+6.4.3 Suprimento de LGE 
+6.4.3.1 Geral 
+Os suprimentos a serem mantidos devem ser a soma das quantidades definidas em 6.4.3.3 a 
+6.4.3.6. 
+6.4.3.2 Tempos mínimos da descarga 
+O equipamento deve ser capaz de funcionar com a taxa mínima de descarga de 6,5 L/min/m², 
+para os seguintes períodos de tempo: 
+a) para tanques contendo hidrocarbonetos líquidos: 
+Tabela 7 – Tempos mínimos de descarga para tanques contendo hidrocarbonetos 
+líquidos 
+Tanques contendo hidrocarbonetos líquidos 
+Tempos mínimos 
+da descarga 
+Óleos lubrificantes, resíduo viscoso seco (mais de 1,068 x 10-4 m²/S a 50 
+ºC), (1) óleos combustíveis secos, etc., com os pontos de fulgor acima de 
+93,3 ºC 
+35 minutos 
+Querosene, óleos combustíveis leves, Diesel, etc., com os pontos de fulgor 
+de 37,8 ºC a 93,3 ºC 
+50 minutos 
+Gasolina, nafta, benzol, diesel automotivo e líquidos similares, com os 
+65 minutos
+
+--- PÁGINA 27 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+27/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+pontos de fulgor abaixo de 37,8 ºC 
+Petróleo cru 
+65 minutos 
+b) para tanques contendo outros líquidos inflamáveis e combustíveis que exigem espumas 
+especiais, espumas tipo álcool exigem procedimentos especiais de conforme indicado em 6.4.2.2. 
+O tempo de operação deve ser de 65 minutos à taxa de aplicação especificada, a menos que o 
+fabricante do LGE tenha estabelecido outro valor. 
+6.4.3.3 Exigências para tanques 
+A quantidade de LGE deve ser determinada pela multiplicação da vazão total em L/min para cada 
+tanque, pelo tempo indicado no item 6.4.3.2. O maior valor resultante deve determinar a 
+quantidade adequada. 
+6.4.3.4 Exigências relativas a jatos suplementares de mangueiras e hidrantes. 
+Jatos adicionais de espuma devem ser previstos como proteção adicional para incêndios no solo, 
+pelo menos como especificado em 6.3.4.2 e 6.3.13. 
+6.4.3.5 Exigências relativas ao enchimento das tubulações. Devem ser as mesmas que foram 
+especificadas em 6.3.4.3. 
+6.4.3.6. Suprimento de reserva de LGE 
+Deve haver um estoque de reserva de LGE como especificado em 6.3.4.4. 
+6.5 Linhas de espuma para proteção de líquidos combustíveis ou inflamáveis 
+acondicionados 
+6.5.1 
+Armazéns que contenham líquidos combustíveis ou inflamáveis acondicionados, com 
+volume médio de estoque superior a 20.000 litros, devem ser protegidos por linhas de espuma, de 
+forma que toda área de risco seja protegida com pelo menos uma linha de comprimento máximo 
+de 30 m. 
+6.5.1.1 São considerados armazéns individuais aqueles que atendam aos critérios construtivos e 
+afastamentos estabelecidos na IT 22. 
+6.5.2 
+O número de linhas de espuma deve ser determinado em função da área a ser protegida 
+obedecendo ao critério descrito em 6.5.1. 
+6.5.3 
+Descargas mínimas de solução de espuma: 
+a) deve ser calculada uma linha de espuma de 400 l/min, quando existir um hidrante na área a 
+ser protegida; 
+b) 
+devem ser calculadas duas linhas de espuma de 400 l/min, funcionando simultaneamente, 
+quando existirem dois ou mais hidrantes na área a ser protegida. 
+6.5.4 
+Tempos mínimos de descarga da solução de espuma O tempo mínimo de aplicação, 
+independente do produto armazenado é de 20 minutos. 
+6.5.5 
+Suprimento de reserva de LGE 
+Deve haver um estoque de reserva de LGE, como especificado no item 6.3.4.4.
+
+--- PÁGINA 28 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+28/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+6.5.6 
+As disposições acima se aplicam aos locais onde houver processos com manipulação de 
+líquidos combustíveis ou inflamáveis.
+
+--- PÁGINA 29 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+29/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+ 
+ANEXO A 
+ 
+Figura 1 - Guia de Qualidade da espuma para tanques de armazenamento
+
+--- PÁGINA 30 ---
+CBMMG IT 20 – Sistema de Proteção por Espuma  
+1ª edição 
+30/30 
+Aprovada pela portaria n. 05, de 25out2005. 
+ 
+ANEXO B 
+EXEMPLO ILUSTRATIVO DE CÁLCULO DE SISTEMA DE ESPUMA 
+ 
+1) 
+Em um parque de armazenamento de inflamáveis, o maior tanque de gasolina tem 31,6 m 
+de diâmetro. Calcular o sistema fixo de espuma e o suprimento de extrato e água necessários, 
+com câmaras de Tipo I e II e extrato a 3,5% e 6%. 
+a) Diâmetro do tanque = 31,6 m 
+b) área do tanque = 785 m² 
+c) quantidade de solução água-extrato para proteção do tanque 785 x 6,5 = 5.100 l/min. 
+d) quantidade de solução água-extrato para proteção do dique (2 linhas 400 l/min) 400 x 2 = 800 
+l/min. 
+e) quantidade de solução água-extrato para enchimento da canalização 
+20.000 l (estimado) 
+f) quantidade de solução água-extrato para operação de câmaras tipo I 5.100 x 30 = 153.000 l. 
+g) quantidade de solução água-extrato para operação de câmaras tipo II 5.100 x 55 = 280.500 l. 
+h) quantidade de solução água-extrato para operação de linhas de mangueira (2 linhas de 400 
+l/min). 800 x 30 = 24.000 l. 
+i) quantidade total de solução água-extrato para operação do sistema com câmaras tipo I 153.000 
++ 20.000 + 24.000 = 197.000 l. 
+j) quantidade total de solução água-extrato para operação do sistema com câmaras tipo II 280.500 
++ 20.000 + 24.000 = 324.500 l. 
+k) quantidade de extrato (3,5%) para suprimento do sistema com câmara tipo I 3,5/100 x 197.000 
+= 6.900 l. 
+l) quantidade de extrato (6%) para suprimento do sistema com câmara tipo I 6/100 x 197.000 = 
+11.800 l. 
+m) quantidade de extrato (3,5%) para suprimento do sistema com câmaras tipo II 3,5/100 x 
+324.500 = 11.350 l. 
+n) quantidade de extrato (6%) para suprimento do sistema com câmaras tipo II 6/100 x 324.500 = 
+19.500 l. 
+o) quantidade de extrato (6%) para suprimento das linhas manuais 6/100 x 24.000= 1.500 l. 
+p) número mínimo de câmaras = 2 câmaras

@@ -1,0 +1,98 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 22 de agosto de 2023.
+  
+EMENDA CBMMG/DAT Nº. 9/2023
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 03 - 2ª Edição
+(Composição do Processo de Segurança contra Incêndio e Pânico - PSCIP):
+ 
+1. ALTERAR as alíneas 'g' e 'k' do item 5.2.2.1:
+g) planta de situação da edificação, com escala, indicando as edificações circunvizinhas, a natureza de
+suas ocupações e os logradouros que delimitam a quadra, observando-se as distâncias de segurança
+estabelecidas na IT 23 entre locais de revenda de GLP e locais de concentração de pessoas;
+[...]
+k) Quadro de áreas cobertas não computadas, nos termos do item E.5.7 da IT 01.
+ 
+2. ALTERAR a Nota da alínea 'a.1' do item 5.5.1, que passa a vigorar com a seguinte redação:
+Nota: As áreas das futuras lojas âncoras não deverão ser lançadas junto ao PSCIP geral para fins de
+cobrança de taxa, devendo, contudo, serem consideradas na verificação das medidas de segurança e seus
+parâmetros (tipo de sistema de hidrante, volume de RTI, etc).
+ 
+3. RENUMERAR o item 5.7 e seus subitens, que passam a iniciar a numeração em 5.8.
+ 
+4. ACRESCENTAR os itens 5.7 e 5.7.1:
+5.7 PSCIP independentes para uma mesma edificação
+5.7.1 Para os casos de protocolo de PSCIP independentes para uma mesma edificação, além das diretrizes
+gerais de apresentação e composição indicados na presente IT, deverão ser apresentados:
+a) planta contendo a área total da edificação, podendo estar hachuradas as áreas não compreendidas no
+PSCIP;
+b) planta de situação;
+c) caso alguma medida de segurança esteja instalada em área comum externa ao PSCIP em questão (ponto
+de hidrante, por exemplo), deverão ser apresentadas todas as informações pertinentes (exemplo:
+localização, comprimento da mangueira, RTI, etc);
+d) deverá ser apresentado laudo, devidamente acompanhado de documento de responsabilidade técnica
+(ART/RRT), comprovando o atendimento ao item 6.1.3.2 da IT 01;
+e) todas as medidas de segurança projetadas para a edificação deverão ser apresentadas no PSCIP,
+devidamente acompanhadas de toda documentação necessária que comprove seu fiel atendimento às
+normas de SCIP.
+ 
+CBMMG - Emenda 9 (71980755)         SEI 1400.01.0047970/2023-32 / pg. 1
+
+--- PÁGINA 2 ---
+5. ACRESCENTAR Nota ao item C.1.1:
+Nota: No caso de elaboração de PSCIP, serviço que pode ser realizado remotamente, a ART poderá ser
+registrada no Crea de outra unidade da federação.
+ 
+6. ALTERAR o item C.7.1, que passa a vigorar com a seguinte redação:
+C.7.1 Laudo Técnico de Segurança contra Incêndio e Pânico
+ 
+7. ACRESCENTAR os itens C.7.1.1 e C.7.1.2:
+C.7.1.1 Laudo Técnico para aplicação de adaptações previstas na IT 40
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de responsabilidade
+técnica, indicando a limitação técnica e a fundamentação que justifique a impossibilidade de execução de
+uma medida de segurança, bem como propondo medidas mitigadoras previstas na IT 40, conforme Anexo
+E.5.1.A.
+ 
+C.7.1.2 Laudo Técnico para análise por Corpo Técnico
+Laudo técnico de profissional habilitado para encaminhamento de PSCIP para apreciação de Corpo
+Técnico sobre impossibilidade técnica, ausência de normas, omissão de regras gerais e específicas ou
+casos especiais. O laudo deverá estar acompanhado do respectivo documento de responsabilidade técnica,
+indicando a situação específica e a fundamentação que justifique o acionamento do CT. O envio para CT
+deverá seguir o modelo previsto no Anexo E.5.1.B.
+ 
+8. REVOGAR o Anexo E.5.1.
+ 
+9. ACRESCENTAR os Anexos E.5.1.A e E.5.1.B:
+ 
+CBMMG - Emenda 9 (71980755)         SEI 1400.01.0047970/2023-32 / pg. 2
+
+--- PÁGINA 3 ---
+CBMMG - Emenda 9 (71980755)         SEI 1400.01.0047970/2023-32 / pg. 3
+
+--- PÁGINA 4 ---
+CBMMG - Emenda 9 (71980755)         SEI 1400.01.0047970/2023-32 / pg. 4
+
+--- PÁGINA 5 ---
+10. ALTERAR o Anexo E.5.2, que passa a vigorar com a seguinte redação:
+CBMMG - Emenda 9 (71980755)         SEI 1400.01.0047970/2023-32 / pg. 5
+
+--- PÁGINA 6 ---
+11. REVOGAR  o Anexo E.5.4.
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+CBMMG - Emenda 9 (71980755)         SEI 1400.01.0047970/2023-32 / pg. 6
+
+--- PÁGINA 7 ---
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 31/08/2023, às
+08:00, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 71980755 e o
+código CRC 24156CE3.
+Referência: Processo nº 1400.01.0047970/2023-32
+SEI nº 71980755
+CBMMG - Emenda 9 (71980755)         SEI 1400.01.0047970/2023-32 / pg. 7

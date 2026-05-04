@@ -1,0 +1,294 @@
+--- PÁGINA 1 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+1/15
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 04 de agosto de 2022.
+  
+EMENDA CBMMG/DAT Nº. 4/2022
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 03 - 2ª Edição
+(Composição do Processo de Segurança contra Incêndio e Pânico - PSCIP):
+ 
+1. Acrescentar a alínea 'k' no item 5.2.2.1:
+k) Quadro de áreas cobertas não computadas, nos termos do item E.4.7 da IT 01.
+ 
+2. ALTERAR a alínea ‘e’ do item 5.7.2, que passa a vigorar com a seguinte redação:
+e) Declaração de conformidade do dimensionamento estrutural em relação às Normas Brasileiras e IT 06
+do CBMMG (Anexo E.6.5);
+ 
+3. ALTERAR a alínea ‘f’ do item 5.7.2, que passa a vigorar com a seguinte redação:
+f) Declaração do Responsável Técnico pela conformidade da execução da segurança estrutural (Anexo
+E.6.6);
+ 
+4. ALTERAR a alínea ‘a’ do item A.2.2, que passa a vigorar com a seguinte redação:
+a) apresentar memorial de cálculo de isolamento de risco para cada edificação envolvida na
+demonstração da distância de separação, conforme Anexo E.4.4.
+ 
+5. ACRESCENTAR a alínea ‘b’ no item A.6.2:
+b) no ato de solicitação de vistoria, apresentar Laudo de Comissionamento/ Inspeção do sistema de
+pressurização de escadas (Anexo E.5.5).
+ 
+6. ALTERAR as alínea 'a', 'g' e 'h' do item B.13.1, que passam a vigorar com a seguinte redação:
+a) representar, em planta, as áreas destinadas aos reatores, transformadores, reguladores de tensão,
+áreas de instalação de baterias, casa de compensadores síncronos, local de armazenamento dos cilindros
+de hidrogênio e sala de controle;
+(...)
+g) representar em planta e apresentar detalhamento dos sistemas fixos automáticos para proteção contra
+incêndios e sistema manual de resfriamento;
+(...)
+h) indicar, por meio de nota em planta, o volume do líquido isolante;
+ 
+7. ACRESCENTAR a alínea 'j' no item B.13.1:
+
+--- PÁGINA 2 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+2/15
+j) apresentar detalhamento do dispositivo de supressão de chama, conforme norma específica.
+ 
+8. ALTERAR o item B.15 e subitens, que passam a vigorar com a seguinte redação:
+B.15 Instalações Fotovoltaicas
+B.15.1 Elementos que devem ser apresentados em arquivo DWG:
+a) representar, em planta ou em detalhe, os locais de instalação dos painéis fotovoltaicos;
+b) representar, em planta, as áreas de instalação de baterias;
+c) representar em planta e apresentar detalhamento do dispositivo de desligamento rápido do sistema
+fotovoltaico;
+d) representar em planta e apresentar detalhamento das sinalizações previstas na norma específica.
+B.15.2 Informações que devem ser apresentadas em arquivo PDF:
+a) laudo e documento de responsabilidade técnica do responsável técnico pela aplicação de produto
+retardante e/ou intumescente em telhado/cobertura combustível.
+ 
+9. ACRESCENTAR o item B.16 e subitens:
+B.16 Grupos geradores
+B.16.1 Elementos que devem ser apresentados em arquivo DWG:
+a) representar, em planta, o local de instalação do grupo gerador de energia;
+b) representar, em planta, a localização e o volume do tanque de consumo diário empregado para a
+alimentação de cada gerador;
+c) representar os tanques de armazenamento de óleo diesel instalados em área externa, apresentando
+suas características, atentando para o que prescreve a instrução técnica específica e a NBR 17505;
+d) representar, em planta, elementos de compartimentação de risco (parede e porta corta-fogo) da sala
+do grupo gerador de energia, com seus respectivos tempos de resistência ao fogo;
+e) indicar, em planta baixa e/ou corte, o ponto de captação do ar de ventilação da sala do grupo gerador
+de energia;
+f) representar, em planta e em corte, o caminhamento dos dutos de entrada e saída do ar, quando for o
+caso, além de seus materiais de composição e tempos de resistência ao fogo;
+g) indicar o sistema de contenção do líquido combustível, conforme instrução técnica específica;
+h) representar o sistema de proteção e combate a incêndio, conforme instrução técnica específica.
+B.16.2 Informações que devem ser apresentadas em arquivo PDF:
+a) Atestado de Abrangência do Grupo Gerador de Energia, sempre quando for utilizado como fonte de
+energia elétrica para medidas preventivas, conforme Anexo E.6.4, no ato de solicitação da vistoria.
+ 
+10. ACRESCENTAR o item B.17 e subitens:
+B.17 Riscos especiais diversos e situações especiais diversas
+B.17.1 A critério do Responsável Técnico ou do SSCIP, riscos especiais diversos e situações especiais
+diversas poderão ser apresentados em planta conforme especificidade de cada edificação/espaço
+destinado ao uso coletivo.
+B.17.2 Compete ao Responsável Técnico, dentro de sua esfera de responsabilidade, avaliar a situação e
+condensar as principais informações relativas à segurança contra incêndio e pânico para fins de
+apreciação por parte do SSCIP.
+
+--- PÁGINA 3 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+3/15
+ 
+11. ALTERAR o item C.2.3.1, que passa a vigorar com a seguinte redação:
+C.2.3.1 Declaração do Responsável Técnico pela conformidade da execução da segurança estrutural
+Declaração assinada por Responsável Técnico, atestando a conformidade da execução da segurança
+estrutural, conforme modelo do Anexo E.6.6, exigida no ato da solicitação de vistoria.
+ 
+12. ALTERAR o item C.2.3.2, que passa a vigorar com a seguinte redação:
+C.2.3.2 Declaração de conformidade do dimensionamento estrutural em relação às Normas Brasileiras
+e IT 06 do CBMMG
+Declaração assinada por Responsável Técnico, atestando a conformidade do dimensionamento estrutural,
+conforme modelo do Anexo E.6.5, exigida no ato da solicitação de vistoria.
+ 
+13. ALTERAR o item C.7.1, que passa a vigorar com a seguinte redação:
+C.7.1 Laudo Técnico de Segurança contra Incêndio e Pânico
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de responsabilidade
+técnica, indicando a limitação técnica e a fundamentação que justifique a impossibilidade de execução de
+uma medida de segurança, bem como propondo medidas mitigadoras, conforme Anexo E.5.1.
+ 
+14. ALTERAR o item C.7.2, que passa a vigorar com a seguinte redação:
+C.7.2 Laudo Técnico Declaratório
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de responsabilidade
+técnica, indicando a limitação técnica e a fundamentação que justifique a impossibilidade de execução de
+uma medida de segurança, bem como propondo medidas mitigadoras e atestando a segurança dos
+ocupantes da edificação, conforme Anexo E.5.2.
+ 
+15. ACRESCENTAR o item C.7.5:
+C.7.5 Laudo de Comissionamento/ Inspeção do sistema de pressurização de escadas
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de responsabilidade
+técnica, contendo checklist das características e funcionamento dos componentes do sistema de
+pressurização de escadas, conforme Anexo E.5.5.
+ 
+16. ALTERAR o Anexo E.4.2, que passa a vigorar com a seguinte redação:
+E.4.2 MEMORIAL DE SEGURANÇA CONTRA INCÊNDIO DAS ESTRUTURAS
+MEMORIAL DE SEGURANÇA ESTRUTURAL
+(Nome)_______________________________________, registrado no CREA/CAU sob o n° ____________,
+atendendo o disposto no item 5.18 da IT 06, declara, para fins de aprovação do PSCIP junto ao CBMMG,
+que a edificação em questão será projetada em conformidade com as informações abaixo:
+Edificação: (Nome da Edificação) Logradouro Público/n°: (Endereço) Responsável pelo Uso: (nome)
+Altura da Edificação (m):  _____ Ocupação:  Data: ____/_____/_______.
+Estrutura: (Concreto armado, aço, mista, alvenaria estrutural)
+METODOLOGIA PARA SE ATINGIR OS TRRF DOS ELEMENTOS ESTRUTURAIS
+[citar norma(s)empregada(s)]
+
+--- PÁGINA 4 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+4/15
+A metodologia adotada foi... [descrever a metodologia, seja por ensaios, cartas de coberturas, métodos
+analíticos etc e norma(s)] ... Os ensaios de resistência ao fogo adotado foram o Relatório (IPT nº, ou UL nº
+etc – citar os ensaios, e especificar se é para pilares, vigas etc.).
+DETERMINAÇÃO DO TEMPO REQUERIDO DE RESISTÊNCIA AO FOGO (TRRF) CRITÉRIOS PARA
+DETERMINAÇÃO DO TRRF:
+Para a definição do TRRF foi adotada (por exemplo: Tabela A da IT 06, conforme o item “5.
+Procedimentos” da referida Instrução Técnica; ou método do tempo equivalente ou outros devidamente
+comprovados, tudo conforme Instrução Técnica n°06).
+Tempo Requerido de Resistência ao Fogo (TRRF):
+Exemplos: As estruturas principais terão TRRF de 90 min para colunas, contraventamentos e vigas
+principais conforme Tabela A, Grupo D, Classe P4 da IT 06.
+As vigas secundárias terão TRRF de 60 min, conforme Anexo A, da Instrução Técnica n°06.
+As compartimentações, escadas de segurança, selagens de shafts e divisórias entre unidades autônomas
+serão    executadas conforme segue: ______  , com os seguintes TRRF: ______, tudo conforme item 5.7 da
+Instrução Técnica n°06.
+Observações:  ____________________________    .
+ISENÇÕES OU REDUÇÕES DE TRRF
+Exemplos: (Não foi adotada nenhuma condição para redução ou isenção de TRRF na presente
+edificação...  Ou isenção de TRRF para os pilares externos protegidos por alvenaria cega... Ou Isenção dos
+perfis confinados em área fria, conforme folhas...).
+MATERIAIS DE PROTEÇÃO CONTRA FOGO E RESPECTIVAS ESPESSURAS DE PROTEÇÃO E/OU
+DIMENSIONAMENTO DOS ELEMENTOS ESTRUTURAIS:
+Para fins de dimensionamento dos elementos estruturais e dos revestimentos para proteção passiva das
+estruturas, será contratado especialista em estruturas, que deverá seguir as normas prescritas na IT 06,
+ou outras que surgirem ou que vierem a substituí-las, conforme TRRF previsto neste Memorial.
+No ato da vistoria, serão apresentados Documentos de Responsabilidade Técnica referente ao Projeto de
+Estruturas e execução, juntamente com as respectivas declarações de que o projeto e execução foram
+realizados conforme o prescrito na IT 06.
+(Nos casos de edificação já construída em que a medida “Segurança Estrutural” seja exigida e nos casos
+de edificação existente   - anterior a 02 de julho de 2005 - em que o Responsável Técnico opte por
+apresentar a referida medida para se valer de alguma condição mais benéfica, será apresentado
+Documento de Responsabilidade Técnica de Profissional Legalmente habilitado referente à verificação das
+condições de segurança estrutural e ações para cumprimento ao disposto na IT 06).
+ 
+___________________________________
+Nome:
+Resp. Técnico pelo PSCIP – CREA/CAU
+___________________________________
+Nome:
+Proprietário ou responsável pela Edificação
+ 
+17. ALTERAR o Anexo E.5.1, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 5 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+5/15
+ 
+ 
+18. ALTERAR o Anexo E.5.2, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 6 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+6/15
+ 
+ 
+ 
+ 
+19. ACRESCENTAR o Anexo E.5.5:
+
+--- PÁGINA 7 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+7/15
+
+--- PÁGINA 8 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+8/15
+
+--- PÁGINA 9 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&infr…
+9/15
+
+--- PÁGINA 10 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&inf…
+10/15
+ 
+ 
+ 
+ 
+20. ALTERAR o Anexo E.6.1, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 11 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&inf…
+11/15
+ 
+ 
+ 
+21. ALTERAR o quadro do Anexo E.6.2, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 12 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&inf…
+12/15
+ 
+ 
+ 
+22. ALTERAR o Anexo E.6.3, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 13 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&inf…
+13/15
+ 
+ 
+23. ALTERAR o Anexo E.6.5, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 14 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&inf…
+14/15
+ 
+ 
+24. ALTERAR o Anexo E.6.6, que passa a vigorar com a seguinte redação:
+
+--- PÁGINA 15 ---
+01/09/22, 15:54
+SEI/GOVMG - 50874645 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58318615&inf…
+15/15
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Diretor(a), em 29/08/2022,
+às 15:48, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 50874645
+e o código CRC A66C4C1C.
+Referência: Processo nº 1400.01.0045935/2022-78
+SEI nº 50874645
