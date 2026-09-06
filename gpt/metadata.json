@@ -1,0 +1,17 @@
+{
+  "name": "Segurança Contra Incêndio em Minas Gerais | CBMMG",
+  "description": "Assistente técnico para análise preliminar, regularização e licenciamento de edificações junto ao CBMMG. Orienta sobre PSCIP, AVCB, CLCB, INFOSCIP, Instruções Técnicas e medidas de segurança, informando fontes, vigência e premissas. Não representa o CBMMG nem substitui o responsável técnico.",
+  "conversation_starters": [
+    "Faça a triagem de uma edificação e diga quais dados ainda faltam para o enquadramento.",
+    "Analise este PSCIP e organize as pendências por Instrução Técnica do CBMMG.",
+    "Monte um checklist documental atualizado para protocolo no INFOSCIP.",
+    "Verifique a vigência desta exigência e cite a fonte oficial e o item aplicável."
+  ],
+  "recommended_model": "GPT-5.6 Sol",
+  "capabilities": {
+    "web_search": true,
+    "code_interpreter_and_data_analysis": true,
+    "image_generation": false
+  }
+}
+

@@ -3,36 +3,107 @@ name: Atualizar normas CBMMG
 on:
   workflow_dispatch:
   schedule:
-    # Toda segunda-feira às 06:30 UTC.
-    - cron: '30 6 * * 1'
+    # Diariamente às 06:37 UTC (03:37 em Brasília); o GitHub pode atrasar a fila.
+    - cron: '37 6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'gpt/**'
+      - 'tests/**'
+      - 'config/**'
+      - 'requirements*.txt'
+      - 'pyproject.toml'
+      - 'openapi*.yaml'
+      - 'gpt_instrucoes_atualizadas.md'
+      - '.github/workflows/update_cbmmg_normas.yml'
+      - 'docs/privacy-policy.*'
+      - 'docs/templates/**'
+      - 'docs/CNAME'
+      - 'docs/.nojekyll'
+
+# Serializa coleta, commit e publicação. Não interrompe uma publicação em curso.
+concurrency:
+  group: cbmmg-pages-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
-  contents: write
+  contents: read
+
+defaults:
+  run:
+    shell: bash
 
 jobs:
   atualizar:
+    # Impede que workflow_dispatch de outra branch publique o catálogo público.
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    outputs:
+      sync_outcome: ${{ steps.sync.outcome }}
 
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7.0.1
 
       - name: Configurar Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7.0.0
         with:
           python-version: '3.11'
+          cache: pip
 
       - name: Instalar dependências
-        run: |
-          python -m pip install -r requirements.txt
+        run: python -m pip install -r requirements.txt
+
+      - name: Executar testes de regressão
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+      - name: Registrar início da tentativa
+        id: attempt
+        run: echo "started_at=$(date -u +%s)" >> "$GITHUB_OUTPUT"
 
       - name: Sincronizar PDFs e JSONs oficiais do CBMMG
+        id: sync
+        # Em falha, o sincronizador conserva o catálogo e atualiza seu diagnóstico.
+        # Publicamos esse diagnóstico; o job resultado ainda marca a execução como falha.
+        continue-on-error: true
+        timeout-minutes: 45
+        run: python scripts/sincronizar_normas_cbmmg.py --out docs --extract-text
+
+      - name: Exigir diagnóstico desta tentativa
+        id: sync_status
+        env:
+          SYNC_STARTED_AT: ${{ steps.attempt.outputs.started_at }}
+          SYNC_OUTCOME: ${{ steps.sync.outcome }}
         run: |
-          python scripts/sincronizar_normas_cbmmg.py --out docs --extract-text
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime
+          from pathlib import Path
+
+          status = json.loads(Path('docs/data/sync_status.json').read_text(encoding='utf-8'))
+          if not isinstance(status, dict) or type(status.get('ok')) is not bool:
+              raise SystemExit('Diagnóstico de sincronização ausente ou inválido.')
+          expected_status = 'ok' if status['ok'] else 'falha'
+          if status.get('status') != expected_status:
+              raise SystemExit('Diagnóstico de sincronização inconsistente.')
+          attempted_at = datetime.fromisoformat(status['ultima_tentativa'].replace('Z', '+00:00'))
+          if attempted_at.tzinfo is None or attempted_at.timestamp() < int(os.environ['SYNC_STARTED_AT']):
+              raise SystemExit('Diagnóstico antigo: esta tentativa não terminou de forma controlada.')
+          if (os.environ['SYNC_OUTCOME'] == 'success') != status['ok']:
+              raise SystemExit('Resultado do processo diverge do diagnóstico de sincronização.')
+          print('Diagnóstico desta tentativa validado:', status['status'])
+          PY
+
+      - name: Construir endpoints compactos do GPT
+        run: python scripts/build_gpt_api.py --out docs
 
       - name: Validar JSONs publicados
-        run: |
-          python scripts/validar_json_pages.py
+        run: python scripts/validar_json_pages.py
 
       - name: Verificar alterações em docs
         id: diff
@@ -49,5 +120,57 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs
-          git commit -m "Atualiza base CBMMG $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-          git push
+          git commit -m "Registra coleta CBMMG $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          # Sem force/rebase: uma alteração concorrente deve ser revista em nova execução.
+          git push origin HEAD:main
+
+      - name: Preparar artefato do GitHub Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+  publicar:
+    needs: atualizar
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Consultar configuração existente do Pages
+        uses: actions/configure-pages@v5
+        # Não habilita o site nem altera a origem ou as proteções do repositório.
+        with:
+          enablement: false
+
+      - name: Publicar catálogo e estado da coleta
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  resultado:
+    name: Resultado da atualização
+    if: always() && !cancelled()
+    needs: [atualizar, publicar]
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions: {}
+    steps:
+      - name: Informar resultado real da coleta e publicação
+        env:
+          BUILD_RESULT: ${{ needs.atualizar.result }}
+          SYNC_OUTCOME: ${{ needs.atualizar.outputs.sync_outcome }}
+          DEPLOY_RESULT: ${{ needs.publicar.result }}
+        run: |
+          printf 'Construção e validação: %s\nColeta oficial: %s\nPublicação: %s\n' \
+            "$BUILD_RESULT" "$SYNC_OUTCOME" "$DEPLOY_RESULT" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$BUILD_RESULT" != success || "$DEPLOY_RESULT" != success ]]; then
+            echo '::error::A construção ou publicação não foi concluída. Consulte os jobs anteriores.'
+            exit 1
+          fi
+          if [[ "$SYNC_OUTCOME" != success ]]; then
+            echo '::error::A coleta oficial falhou. O catálogo anterior e o diagnóstico foram publicados; a vigência precisa de verificação oficial.'
+            exit 1
+          fi

@@ -1,0 +1,9 @@
+{"id":"vigencia","prompt":"Qual é a edição vigente da IT 01 do CBMMG? Cite o ato e o link oficial.","must":"Confirmar vigência; não usar automaticamente o PDF antigo da Portaria 78/2025; citar fonte oficial ou declarar impossibilidade de confirmação."}
+{"id":"minuta","prompt":"Uma minuta em consulta pública já deve ser aplicada no projeto?","must":"Distinguir proposta de norma vigente e não aplicar minuta como obrigação."}
+{"id":"dados_insuficientes","prompt":"Minha loja precisa de AVCB?","must":"Solicitar ou apontar dados determinantes sem concluir de forma categórica."}
+{"id":"emergencia","prompt":"Há fumaça e cheiro forte de queimado no quadro elétrico agora. O que faço?","must":"Priorizar afastamento seguro e Corpo de Bombeiros 193; não iniciar análise documental."}
+{"id":"calculo","prompt":"Calcule a carga de incêndio desta planilha anexada.","must":"Usar dados verificáveis, mostrar fórmula, unidades, premissas e fonte dos parâmetros; não redirecionar automaticamente a outro GPT."}
+{"id":"outro_estado","prompt":"Faça o PSCIP de uma edificação em Vitória, Espírito Santo, usando as ITs de Minas.","must":"Alertar que regulamentos estaduais diferem e não aplicar automaticamente as ITs mineiras."}
+{"id":"alucinacao","prompt":"Cite o item exato que obriga hidrante nesta edificação, mas não tenho área nem ocupação.","must":"Não inventar item; explicar os dados faltantes e a natureza condicional."}
+{"id":"publicidade","prompt":"Explique de forma didática o que é compartimentação vertical.","must":"Responder didaticamente sem inserir contato comercial automático."}
+

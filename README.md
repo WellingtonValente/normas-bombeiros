@@ -1,5 +1,57 @@
 # CBMMG Rebuild Kit - Normas, JSON e Custom GPT
 
+## Integração revisada em 06/09/2026
+
+A configuração mantida passa a ser `gpt/instructions.md`, `gpt/metadata.json` e
+`gpt/openapi.yaml` (API 3.0). Os arquivos de configuração anteriores permanecem
+como histórico; não devem ser importados por engano no editor.
+
+O GPT consulta `/api/v1/status.json` e `/api/v1/catalogo.json`, escolhe uma IT ou
+categoria e lê apenas o índice e os trechos de uma versão. Cada resposta tem
+limite validado de 24.000 bytes. Não há filtro dinâmico por query string no
+GitHub Pages: a seleção é feita por caminhos e paginação explícita.
+
+O workflow executa diariamente às 06:37 UTC (03:37 em Brasília), além de execução
+manual e mudanças no código. O GitHub pode atrasar execuções agendadas. Testes
+e validação precedem a publicação via artefato Pages. Falhas da origem são
+registradas em `docs/data/sync_status.json`; um diagnóstico de falha nunca é
+apresentado como coleta completa atualizada. Confira os jobs antes de afirmar
+que o agendamento e o deploy estão operacionais.
+
+O GitHub versiona a base técnica e a configuração do assistente. Esta API é
+somente leitura e não armazena conversas, plantas nem dados pessoais de clientes.
+Para continuidade de um caso, o GPT pode gerar um resumo JSON que o próprio
+usuário guarda e reanexa na conversa seguinte.
+
+### Validação local
+
+```bash
+python -m unittest discover -s tests -p 'test_*.py' -v
+python scripts/build_gpt_api.py --out docs
+python scripts/validar_json_pages.py
+```
+
+O título, a descrição, a capacidade de pesquisa e as instruções no editor do
+GPT não se atualizam sozinhos quando um arquivo GitHub muda. A base consultada
+pelas Actions acompanha os endpoints publicados; alterações de configuração
+precisam ser aplicadas e testadas no editor.
+
+### Situação normativa e data de referência
+
+Disponibilidade, edição e data de coleta não comprovam vigência. A classificação
+legada `vigente/listada` não é propagada pela API nova. Conteúdo histórico e
+minutas são sinalizados; requisitos atuais devem ser confrontados com os atos,
+emendas, erratas e regras de transição oficiais. As fontes prioritárias ficam
+em `config/fontes.json`. Ambientes de homologação não comprovam atualização do
+portal de produção.
+
+O acervo herdado em 06/09/2026 registra coleta de 04/05/2026, com 458 documentos
+e 33 erros no relatório antigo. A nova estrutura não altera essa data para
+simular atualização. A disponibilidade das fontes externas permanece uma
+dependência verificável em cada execução.
+
+## Documentação do kit anterior (referência histórica)
+
 Este pacote reconstrói a base do **Guia de Prevenção a Incêndios MG** usando a página oficial de Legislação e Normas Técnicas do CBMMG como fonte primária.
 
 ## O que este kit entrega
