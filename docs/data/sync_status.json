@@ -1,7 +1,7 @@
 {
   "ok": false,
   "status": "falha",
-  "ultima_tentativa": "2026-09-06T04:50:44+00:00",
+  "ultima_tentativa": "2026-09-06T04:54:21+00:00",
   "ultima_coleta_bem_sucedida": null,
   "data_coleta_base": "2026-05-04T20:36:47+00:00",
   "fonte_url": null,
@@ -13,15 +13,15 @@
     "tentativas": [
       {
         "url_solicitada": "https://www.bombeiros.mg.gov.br/normastecnicas",
-        "erro": "Falha ao baixar https://www.bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7fdbd7f3fa50>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=10)'))"
+        "erro": "Falha ao baixar https://www.bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7f5c7c43c810>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=10)'))"
       },
       {
         "url_solicitada": "https://bombeiros.mg.gov.br/normastecnicas",
-        "erro": "Falha ao baixar https://bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7fdbd7f3fed0>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=10)'))"
+        "erro": "Falha ao baixar https://bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7f5c7c424090>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=10)'))"
       }
     ],
     "melhor_total_links": -1
   },
   "erros": [],
-  "concluida_em": "2026-09-06T04:51:29+00:00"
+  "concluida_em": "2026-09-06T04:55:15+00:00"
 }
