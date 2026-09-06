@@ -14,6 +14,9 @@ class ApiTests(unittest.TestCase):
         self.assertEqual(api.state({"situacao": "vigente/listada", "titulo": "IT 01"})[0], "nao_verificada")
         self.assertEqual(api.state({"url": "https://bombeiros.mg.gov.br/legislacaoantiga/a.pdf"})[0], "historico")
         self.assertEqual(api.state({"titulo": "Minuta da IT 30"})[0], "proposta")
+        self.assertEqual(api.state({"titulo": "IT 01 não revogada"})[0], "nao_verificada")
+        self.assertEqual(api.state({"titulo": "IT 01 parcialmente revogada"})[0], "nao_verificada")
+        self.assertEqual(api.state({"titulo": "Minuta da IT 01 (substitui IT revogada)"})[0], "proposta")
 
     def test_large_unicode_text_roundtrip_and_bound(self):
         with tempfile.TemporaryDirectory() as directory:

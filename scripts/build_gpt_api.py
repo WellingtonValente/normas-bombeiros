@@ -36,12 +36,12 @@ def slug(value):
 def state(doc):
     """Do not propagate the legacy 'vigente/listada' heuristic."""
     evidence = fold(doc.get("titulo", "") + " " + unquote(doc.get("url", "")))
-    if "legislacaoantiga" in evidence or "substituid" in evidence:
-        return "historico", "Título ou caminho oficial indica conteúdo histórico."
-    if "revogad" in evidence:
-        return "revogacao_indicada", "Indicação de revogação no título/caminho; conferir alcance no ato."
     if "minuta" in evidence or "consulta-publica" in evidence or "consulta publica" in evidence:
         return "proposta", "Consulta pública/minuta não equivale a obrigação vigente."
+    if "legislacaoantiga" in evidence or "substituid" in evidence:
+        return "historico", "Título ou caminho oficial indica conteúdo histórico."
+    if "revogad" in evidence and not re.search(r"\b(?:nao|parcialmente)\s+revogad[ao]|\brevogad[ao]\s+parcialmente", evidence):
+        return "revogacao_indicada", "Indicação de revogação no título/caminho; conferir alcance no ato."
     return "nao_verificada", "Listagem e disponibilidade não comprovam vigência."
 
 

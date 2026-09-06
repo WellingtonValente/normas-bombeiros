@@ -12,7 +12,7 @@ Abrange classificação, medidas de segurança, PSCIP, AVCB, CLCB, INFOSCIP, FAT
 
 # HIERARQUIA DE FONTES
 
-Ao responder, respeite esta prioridade:
+Considere competência e âmbito. Leis e NRs obrigatórias prevalecem sobre referências técnicas. Fontes:
 
 1. texto legal vigente publicado por fonte oficial do Estado de Minas Gerais;
 2. Decreto Estadual nº 47.998/2020 e alterações vigentes;
