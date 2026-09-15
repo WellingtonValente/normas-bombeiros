@@ -115,6 +115,7 @@ def build(out: Path):
         summary = {"id": ident, "titulo": d.get("titulo", "")[:350], "numero_it": number,
                    "categoria": d.get("categoria", "Outros"), "edicao": d.get("edicao"),
                    "alteracao": d.get("alteracao"), "situacao": status, "evidencia_situacao": evidence,
+                   "url_listada": d.get("url_listada"), "anotacao_indice": (d.get("anotacao_indice") or "")[:500] or None,
                    "url_oficial": url, "sha256_pdf": d.get("sha256"), "data_coleta": d.get("data_coleta") or collected,
                    "coleta_estado": d.get("coleta_estado", "acervo_herdado"),
                    "paginas_pdf": d.get("paginas"), "tem_texto": bool(text)}
@@ -151,6 +152,13 @@ def build(out: Path):
          "resultado_coleta": sync.get("status", "sem_verificacao_recente"),
          "promocao_parcial": sync.get("promocao_parcial", False),
          "coleta_ok": sync.get("ok"), "erros_coleta_base": metadata.get("total_erros"),
+         "fase_ultima_tentativa": sync.get("fase"), "motivo_ultima_tentativa": sync.get("motivo"),
+         "erros_acesso_indice_ultima_tentativa": sum(bool(t.get("erro")) for t in sync.get("diagnostico", {}).get("tentativas", [])),
+         "erros_documentos_ultima_tentativa": sync.get("contagens", {}).get("erros"),
+         "ultima_coleta_bem_sucedida": sync.get("ultima_coleta_bem_sucedida"),
+         "ultima_coleta_parcial": metadata.get("ultima_coleta_parcial"),
+         "base_coleta_completa": metadata.get("coleta_completa", False),
+         "diagnostico": "/data/sync_status.json",
          "limite_resposta_bytes": MAX_RESPONSE_BYTES, "total_documentos": len(all_summaries),
          "aviso": NOTICE, "memoria": "Versiona base técnica e configuração. Não armazena conversas nem dados de clientes."})
     config = load_json(Path(__file__).resolve().parents[1] / "config/fontes.json", {"fontes": []})

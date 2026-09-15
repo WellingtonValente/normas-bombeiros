@@ -36,6 +36,31 @@ def response(url, data, content_type="text/html", status=200):
 
 
 class SourceTests(unittest.TestCase):
+    def test_transport_failure_has_phase_and_attempt_history(self):
+        session = Mock()
+        session.get.side_effect = requests.ConnectTimeout("conexão excedeu o limite")
+        with patch.object(sync.time, "sleep"):
+            with self.assertRaises(sync.FetchError) as caught:
+                sync.fetch(session, OFFICIAL)
+        self.assertEqual(len(caught.exception.attempts), sync.MAX_RETRIES)
+        self.assertTrue(all(a["fase"] == "timeout_conexao" and a["status_code"] is None
+            for a in caught.exception.attempts))
+        self.assertIsInstance(caught.exception.__cause__, requests.ConnectTimeout)
+
+    def test_read_timeout_is_distinct_from_connect_timeout(self):
+        self.assertEqual(sync.tipo_falha(requests.ReadTimeout()), "timeout_leitura")
+        self.assertEqual(sync.tipo_falha(requests.exceptions.SSLError()), "erro_tls")
+
+    def test_success_preserves_previous_failed_attempt_and_html_hash(self):
+        session = Mock()
+        session.get.side_effect = [requests.ConnectTimeout("transitório"), response(OFFICIAL, HTML)]
+        with tempfile.TemporaryDirectory() as directory, patch.object(sync.time, "sleep"):
+            _, _, diagnostic = sync.escolher_pagina(session, [OFFICIAL], Path(directory))
+            saved = next(Path(directory).glob("*.html")).read_bytes()
+        attempt = diagnostic["tentativas"][0]
+        self.assertEqual(attempt["sha256_html"], sync.sha256_bytes(saved))
+        self.assertEqual([a.get("fase") for a in attempt["requisicoes"]], ["timeout_conexao", None])
+
     def test_timeout_www_falls_back_to_production_without_www(self):
         session = Mock()
 
@@ -81,6 +106,31 @@ class SourceTests(unittest.TestCase):
 
 
 class MetadataTests(unittest.TestCase):
+    def test_entities_are_decoded_once_without_phantom_regex_links(self):
+        html = '''<h2>Instruções Técnicas</h2>
+        <p><a href="/storage/IT_33_4&ordf;_edi&ccedil;&atilde;o.pdf">IT 33</a></p>
+        <p><a href='/storage/IT_33_4ª_edição.pdf'>IT 33 - 4ª Edição</a></p>
+        <p><a href="/download.pdf?a=1&amp;b=2">Documento</a></p>
+        <script>const exemplo = '<a href="/falso.pdf">Exemplo</a>';</script>
+        <!-- <a href="/comentario.pdf">Comentário</a> -->'''
+        docs = sync.extrair_links(html, OFFICIAL)
+        self.assertEqual(len(docs), 2)
+        self.assertTrue(docs[0].url.endswith('/IT_33_4ª_edição.pdf'))
+        self.assertTrue(docs[1].url.endswith('/download.pdf?a=1&b=2'))
+
+    def test_encoded_path_and_official_alias_are_one_identity(self):
+        html = '<a href="https://www.bombeiros.mg.gov.br/IT 01.pdf">IT 01</a>'
+        html += '<a href="https://bombeiros.mg.gov.br/IT%2001.pdf">IT 01</a>'
+        self.assertEqual(len(sync.extrair_links(html, OFFICIAL)), 1)
+        self.assertNotEqual(sync.chave_url(OFFICIAL + '/a%2Fb'), sync.chave_url(OFFICIAL + '/a/b'))
+
+    def test_amendment_annotation_is_retained_without_claiming_validity(self):
+        html = '<p><a href="/IT_03.pdf">IT 03 - 2ª Edição</a> (Alterada pelas Portarias 83/2026 e 84/2026)</p>'
+        doc = sync.extrair_links(html, OFFICIAL)[0]
+        self.assertEqual(doc.anotacao_indice, '(Alterada pelas Portarias 83/2026 e 84/2026)')
+        self.assertEqual(doc.situacao, 'nao_verificada')
+        self.assertEqual(doc.url_listada, doc.url)
+
     def test_listing_does_not_prove_validity(self):
         number, edition, status, amendment = sync.parse_metadata(
             "IT 01 - Procedimentos Administrativos - 10ª Edição", PDF_URL,
@@ -261,7 +311,7 @@ class PromotionTests(unittest.TestCase):
     def test_empty_compatibility_flag_never_promotes_an_empty_base(self):
         before = (self.out / "data" / "normas_manifest.json").read_bytes()
         code, status = self.run_main(html="<html>nenhum documento</html>", extra_args=("--no-fail-if-empty",))
-        self.assertEqual(code, 0)
+        self.assertNotEqual(code, 0)
         self.assertFalse(status["ok"])
         self.assertEqual((self.out / "data" / "normas_manifest.json").read_bytes(), before)
 
@@ -276,6 +326,8 @@ class PromotionTests(unittest.TestCase):
         self.assertEqual(len(status["diagnostico"]["tentativas"]), 2)
         self.assertEqual(status["data_coleta_base"], OLD_DATE)
         self.assertIsNotNone(sync.dt.datetime.fromisoformat(status["ultima_tentativa"]).utcoffset())
+        self.assertEqual(status["fase"], "acesso_indice")
+        self.assertIn("antes da extração", status["motivo"])
 
 
 if __name__ == "__main__":

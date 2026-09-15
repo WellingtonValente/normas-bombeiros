@@ -1,5 +1,27 @@
 # CBMMG Rebuild Kit - Normas, JSON e Custom GPT
 
+## Correção da coleta em 15/09/2026
+
+A execução de 14/09 falhou por timeout de conexão antes de receber o índice.
+Os 33 erros mostrados em `erros_coleta_base` pertenciam à coleta de 04/05/2026:
+o fallback por regex criava URLs duplicadas com entidades HTML literais.
+Os links agora são extraídos exclusivamente pelo parser HTML e deduplicados
+por URL equivalente entre os dois hosts oficiais, incluindo espaços codificados.
+O endereço primário continua sendo `/normastecnicas`.
+
+Os limites de conexão e leitura são 60 e 90 segundos, com duas tentativas.
+O diagnóstico distingue conexão, leitura, TLS, proxy, HTTP e ausência de links;
+registra duração por tentativa e SHA-256 do HTML efetivamente recebido.
+Na API, `erros_coleta_base` permanece separado de
+`erros_acesso_indice_ultima_tentativa` e `erros_documentos_ultima_tentativa`.
+Valor `null` neste último significa que não houve resultado de download registrado.
+
+Uma coleta completa depende da execução real, não da alteração do código.
+`atualidade_normativa: nao_garantida` permanece intencional: atualização do acervo
+não certifica vigência jurídica, emendas ou transições de cada norma.
+Coleta vazia sempre retorna falha, inclusive com a opção antiga
+`--no-fail-if-empty`. [Evidências do diagnóstico](manutencao/diagnostico-2026-09-15.md).
+
 ## Integração revisada em 06/09/2026
 
 A configuração mantida passa a ser `gpt/instructions.md`, `gpt/metadata.json` e

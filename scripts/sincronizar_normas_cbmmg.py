@@ -4,7 +4,7 @@
 
 Esta versão evita o problema de publicar JSON vazio quando a página oficial
 retorna HTML sem links, muda a estrutura, ou o parser não encontra candidatos.
-Ela também usa headers semelhantes a navegador e faz fallback por regex.
+Os links são lidos como HTML, preservando a procedência e os erros de transporte.
 """
 
 from __future__ import annotations
@@ -14,6 +14,8 @@ import dataclasses
 import datetime as dt
 import hashlib
 import json
+import os
+import platform
 import re
 import shutil
 import sys
@@ -36,7 +38,7 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/124.0 Safari/537.36 RWValente-CBMMG-Sync/4.0"
 )
-TIMEOUT = (10, 30)  # Limites distintos de conexão e leitura, por tentativa.
+TIMEOUT = (60, 90)  # Conexão (inclui TLS/proxy) e leitura, em segundos por tentativa.
 MAX_RETRIES = 2
 CHUNK_SIZE_CHARS = 4500
 CHUNK_OVERLAP_CHARS = 350
@@ -58,6 +60,8 @@ class Documento:
     texto_path: str | None = None
     data_coleta: str | None = None
     coleta_estado: str | None = None
+    url_listada: str | None = None
+    anotacao_indice: str | None = None
     origem: str = "CBMMG - página oficial de normas técnicas"
 
     def asdict(self) -> dict[str, Any]:
@@ -96,22 +100,54 @@ def get_session() -> requests.Session:
     return session
 
 
+class FetchError(RuntimeError):
+    def __init__(self, url: str, attempts: list[dict[str, Any]]):
+        self.attempts = attempts
+        super().__init__(f"Falha ao baixar {url}: {attempts[-1]['erro']}")
+
+
+def tipo_falha(exc: Exception) -> str:
+    if isinstance(exc, requests.ConnectTimeout):
+        return "timeout_conexao"
+    if isinstance(exc, requests.ReadTimeout):
+        return "timeout_leitura"
+    if isinstance(exc, requests.exceptions.SSLError):
+        return "erro_tls"
+    if isinstance(exc, requests.exceptions.ProxyError):
+        return "erro_proxy"
+    if isinstance(exc, requests.HTTPError):
+        return "erro_http"
+    if isinstance(exc, requests.ConnectionError):
+        return "erro_conexao"
+    if isinstance(exc, requests.Timeout):
+        return "timeout"
+    return type(exc).__name__
+
+
 def fetch(session: requests.Session, url: str) -> requests.Response:
     last_exc: Exception | None = None
+    attempts: list[dict[str, Any]] = []
     for tentativa in range(1, MAX_RETRIES + 1):
+        started = time.monotonic()
         try:
             r = session.get(url, timeout=TIMEOUT, allow_redirects=True)
             r.raise_for_status()
+            attempts.append({"tentativa": tentativa, "segundos": round(time.monotonic() - started, 3),
+                "status_code": r.status_code, "url_final": r.url})
+            r.cbmmg_attempts = attempts
             return r
         except requests.RequestException as exc:
             last_exc = exc
+            attempts.append({"tentativa": tentativa, "segundos": round(time.monotonic() - started, 3),
+                "tipo": type(exc).__name__, "fase": tipo_falha(exc), "erro": str(exc),
+                "status_code": exc.response.status_code if exc.response is not None else None})
             # Repetir um 404/403 não resolve a coleta; tente a próxima origem.
             if isinstance(exc, requests.HTTPError) and exc.response is not None:
                 if 400 <= exc.response.status_code < 500 and exc.response.status_code != 429:
                     break
             if tentativa < MAX_RETRIES:
                 time.sleep(2 * tentativa)
-    raise RuntimeError(f"Falha ao baixar {url}: {last_exc}")
+    raise FetchError(url, attempts) from last_exc
 
 
 def is_cbmmg_url(url: str) -> bool:
@@ -281,38 +317,27 @@ def extrair_links(html: str, base_url: str) -> list[Documento]:
             edicao=edicao,
             situacao=situacao,
             alteracao=alteracao,
+            url_listada=href,
+            anotacao_indice=contexto or None,
         ))
 
-    # fallback por regex para hrefs PDF/storage caso o parser de anchors perca algo
-    for href_raw in re.findall(r"href=[\"']([^\"']+)[\"']", html, flags=re.I):
-        href = urljoin(base_url, href_raw)
-        titulo = titulo_from_url(href)
-        if link_eh_candidato(titulo, href):
-            numero_it, edicao, situacao, alteracao = parse_metadata(titulo, href)
-            categoria = classificar_categoria(titulo, href, "Outros documentos")
-            docs.append(Documento(
-                titulo=titulo,
-                url=href,
-                categoria=categoria,
-                subcategoria=None,
-                numero_it=numero_it,
-                edicao=edicao,
-                situacao=situacao,
-                alteracao=alteracao,
-            ))
+    # Não procurar href por regex no HTML bruto: entidades (&ordf;, &ccedil;,
+    # &amp;) são decodificadas pelo parser. A regex criava uma segunda URL
+    # inválida e também podia coletar HTML citado em atributos de compartilhamento.
 
     unicos: dict[str, Documento] = {}
     for d in docs:
         # Remova fragmentos e normalize URL para evitar duplicidade.
         parsed = urlparse(d.url)
         clean = parsed._replace(fragment="").geturl()
-        if clean not in unicos:
+        identity = chave_url(clean)
+        if identity not in unicos:
             d.url = clean
-            unicos[clean] = d
+            unicos[identity] = d
         else:
             # preserva título mais informativo se apareceu depois
-            if len(d.titulo) > len(unicos[clean].titulo):
-                unicos[clean].titulo = d.titulo
+            if len(d.titulo) > len(unicos[identity].titulo):
+                unicos[identity].titulo = d.titulo
     return list(unicos.values())
 
 
@@ -333,7 +358,9 @@ def escolher_pagina(session: requests.Session, urls: list[str], debug_dir: Path)
             html = r.text
             docs = extrair_links(html, r.url or url)
         except (requests.RequestException, RuntimeError, ValueError) as exc:
-            diagnosticos.append({"url_solicitada": url, "erro": str(exc)})
+            diagnosticos.append({"url_solicitada": url, "erro": str(exc),
+                "fase": exc.attempts[-1]["fase"] if isinstance(exc, FetchError) else tipo_falha(exc),
+                "requisicoes": getattr(exc, "attempts", [])})
             continue
         diag = {
             "url_solicitada": url,
@@ -342,15 +369,19 @@ def escolher_pagina(session: requests.Session, urls: list[str], debug_dir: Path)
             "content_type": r.headers.get("content-type"),
             "html_length": len(html),
             "links_candidatos": len(docs),
+            "sha256_html": sha256_bytes(r.content),
+            "data_acesso": now_iso(),
+            "requisicoes": getattr(r, "cbmmg_attempts", []),
         }
         diagnosticos.append(diag)
-        (debug_dir / f"debug_html_{slugify(url)}.html").write_text(html, encoding="utf-8", errors="replace")
+        (debug_dir / f"debug_html_{slugify(url)}.html").write_bytes(r.content)
         if len(docs) > melhor_total:
             melhor_total = len(docs)
             melhor_url = r.url or url
             melhor_html = html
 
-    return melhor_url, melhor_html, {"tentativas": diagnosticos, "melhor_total_links": melhor_total}
+    return melhor_url, melhor_html, {"tentativas": diagnosticos, "melhor_total_links": melhor_total,
+        "timeout_conexao_segundos": TIMEOUT[0], "timeout_leitura_segundos": TIMEOUT[1]}
 
 
 def extract_pdf_text(pdf_path: Path) -> tuple[str, int | None]:
@@ -520,7 +551,7 @@ def chave_url(url: str) -> str:
     host = parsed.netloc
     if parsed.hostname in {"www.bombeiros.mg.gov.br", "bombeiros.mg.gov.br"}:
         host = "bombeiros.mg.gov.br"
-    return parsed._replace(netloc=host, fragment="").geturl()
+    return requests.utils.requote_uri(parsed._replace(netloc=host, fragment="").geturl())
 
 
 def ler_json_existente(path: Path) -> dict[str, Any]:
@@ -581,7 +612,7 @@ def main() -> int:
     parser.add_argument("--out", default="docs", help="Diretório de saída publicado pelo GitHub Pages.")
     parser.add_argument("--extract-text", action="store_true", help="Extrai texto dos PDFs baixados.")
     parser.add_argument("--allow-external", action="store_true", help="Permite baixar PDFs fora do domínio bombeiros.mg.gov.br.")
-    parser.add_argument("--no-fail-if-empty", action="store_true", help="Não falha quando nenhum PDF for encontrado. Não recomendado.")
+    parser.add_argument("--no-fail-if-empty", action="store_true", help="Compatibilidade: aceito, mas coleta vazia sempre retorna falha.")
     args = parser.parse_args()
 
     out = Path(args.out).resolve()
@@ -601,6 +632,10 @@ def main() -> int:
         "contagens": {},
         "diagnostico": {},
         "erros": [],
+        "fase": "acesso_indice",
+        "ambiente": {"python": platform.python_version(), "requests": requests.__version__,
+            "sistema": platform.system(), "github_run_id": os.environ.get("GITHUB_RUN_ID"),
+            "github_sha": os.environ.get("GITHUB_SHA")},
     }
     status_path = out / "data" / "sync_status.json"
 
@@ -635,10 +670,17 @@ def main() -> int:
             "links": [d.asdict() for d in docs],
         })
         if not docs:
-            return concluir(0 if args.no_fail_if_empty else 2,
-                "Nenhum link candidato válido na origem oficial. A base publicada foi preservada.")
+            recebeu_html = any("status_code" in item for item in diagnostico["tentativas"])
+            status["fase"] = "extracao_links" if recebeu_html else "acesso_indice"
+            return concluir(2, (
+                "HTML recebido, mas sem links candidatos válidos. Verifique a estrutura da página."
+                if recebeu_html else
+                "Falha de acesso ao índice oficial antes da extração de links. Consulte as tentativas de transporte."
+            ) + " A base publicada foi preservada.")
 
-        # Falhas parciais não devem alterar arquivos que alimentam o GPT.
+        status["fase"] = "download_documentos"
+        salvar_json(status_path, status)
+        # Somente documentos aceitos podem ser promovidos; falhas ficam explícitas.
         with tempfile.TemporaryDirectory(prefix="cbmmg-sync-") as temp_dir:
             staged = Path(temp_dir)
             docs_pdf, nao_pdf, erros = baixar_processar(session, docs, staged, args.extract_text, args.allow_external)
@@ -650,13 +692,14 @@ def main() -> int:
             status["contagens"].update(pdfs=len(docs_pdf), nao_pdf=len(nao_pdf), erros=len(erros),
                 documentos_anteriores=len(old_urls), documentos_anteriores_ausentes=len(missing))
             if not docs_pdf:
-                return concluir(0 if args.no_fail_if_empty else 3,
+                return concluir(3,
                     "Nenhum PDF válido coletado. A base publicada foi preservada.")
             parcial = bool(erros or missing)
             merged = preservar_documentos(anterior, docs_pdf, out, staged) if parcial else docs_pdf
             status["promocao_parcial"] = parcial
             status["contagens"]["documentos_preservados"] = len(merged) - len(docs_pdf)
             # Preparar todos os índices antes de copiar qualquer artefato final.
+            status["fase"] = "promocao"
             gerar_indices(staged, merged, nao_pdf, erros, fonte_url, diagnostico,
                 coleta_completa=not parcial, data_coleta_anterior=status["data_coleta_base"])
             # Uma extração malsucedida pode deixar um PDF na área temporária.
@@ -679,7 +722,7 @@ def main() -> int:
             if parcial:
                 return concluir(4,
                     "Coleta parcial: PDFs obtidos foram atualizados individualmente; documentos ausentes ou com erro e a data da última coleta geral foram preservados. Ausência não indica revogação.")
-            status.update(ok=True, status="ok", ultima_coleta_bem_sucedida=coleta, data_coleta_base=coleta)
+            status.update(ok=True, status="ok", fase="concluida", ultima_coleta_bem_sucedida=coleta, data_coleta_base=coleta)
             return concluir(0, "Coleta completa promovida; vigência normativa deve ser confirmada por documento.")
     except Exception as exc:  # Falha operacional também precisa de diagnóstico persistente.
         status["erros"].append({"erro": str(exc), "tipo": type(exc).__name__})

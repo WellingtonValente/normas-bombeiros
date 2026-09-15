@@ -38,6 +38,28 @@ class ApiTests(unittest.TestCase):
             self.assertEqual(json.loads(result["status.json"])["data_coleta"], "2025-01-01")
             self.assertEqual(json.loads(result["status.json"])["resultado_coleta"], "sem_verificacao_recente")
 
+    def test_old_collection_errors_are_distinct_from_current_index_failure(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'data').mkdir()
+            d = {'titulo': 'IT 01', 'url': 'https://bombeiros.mg.gov.br/IT_01.pdf', 'texto': 'texto anterior'}
+            data = {
+                'normas_manifest.json': {'metadata': {'data_coleta': '2026-05-04', 'total_erros': 33}, 'documentos': [d]},
+                'normas_com_texto.json': {'normas': [d]},
+                'sync_status.json': {'ok': False, 'status': 'falha', 'fase': 'acesso_indice',
+                    'motivo': 'Falha de conexão antes da extração.', 'contagens': {'links_detectados': 0},
+                    'diagnostico': {'tentativas': [{'erro': 'timeout'}, {'erro': 'timeout'}]}},
+            }
+            for name, value in data.items():
+                (root / 'data' / name).write_text(json.dumps(value), encoding='utf-8')
+            result = json.loads(api.build(root)['status.json'])
+            self.assertEqual(result['erros_coleta_base'], 33)
+            self.assertEqual(result['erros_acesso_indice_ultima_tentativa'], 2)
+            self.assertIsNone(result['erros_documentos_ultima_tentativa'])
+            self.assertEqual(result['data_coleta'], '2026-05-04')
+            self.assertEqual(result['atualidade_normativa'], 'nao_garantida')
+            self.assertFalse(result['coleta_ok'])
+
     def test_page_numbers_are_pdf_pages_and_split_is_lossless(self):
         text = "--- PÁGINA 3 ---\n" + "á" * 6500 + "\n--- PÁGINA 4 ---\nz"
         parts = list(api.text_parts(text))
