@@ -1,9 +1,10 @@
 {
   "metadata": {
     "fonte_oficial": "https://www.bombeiros.mg.gov.br/normastecnicas",
-    "data_coleta": "2026-05-04T20:36:47+00:00",
-    "coleta_completa": false,
+    "data_coleta": "2026-09-15T05:27:24+00:00",
+    "coleta_completa": true,
     "total_pdfs": 470,
+    "total_historicos_reconciliados": 8,
     "total_links_nao_pdf_ou_ignorados": 35,
     "total_erros": 0,
     "diagnostico_coleta": {
@@ -15,12 +16,12 @@
           "content_type": "text/html; charset=UTF-8",
           "html_length": 1069273,
           "links_candidatos": 497,
-          "sha256_html": "2ad58a595ffc701652c7356c841392f49f4caea2dec7dd2a242a276d98e64dee",
-          "data_acesso": "2026-09-15T04:57:36+00:00",
+          "sha256_html": "df2911e27283eb7a1ac6c02d08c5250928def45de30f4edf3556147e485a5f74",
+          "data_acesso": "2026-09-15T05:24:33+00:00",
           "requisicoes": [
             {
               "tentativa": 1,
-              "segundos": 4.5,
+              "segundos": 5.59,
               "status_code": 200,
               "url_final": "https://www.bombeiros.mg.gov.br/normastecnicas"
             }
@@ -33,12 +34,12 @@
           "content_type": "text/html; charset=UTF-8",
           "html_length": 1069221,
           "links_candidatos": 497,
-          "sha256_html": "625c7731400be5325958d635537d4d06926f5bcafd8b226064911114255fbb38",
-          "data_acesso": "2026-09-15T04:57:41+00:00",
+          "sha256_html": "8595f41edd83d617a88e70099abe7039b894dbb03717a90774ee6a5f2c113e9a",
+          "data_acesso": "2026-09-15T05:24:39+00:00",
           "requisicoes": [
             {
               "tentativa": 1,
-              "segundos": 4.135,
+              "segundos": 5.05,
               "status_code": 200,
               "url_final": "https://bombeiros.mg.gov.br/normastecnicas"
             }
@@ -47,10 +48,15 @@
       ],
       "melhor_total_links": 497,
       "timeout_conexao_segundos": 60,
-      "timeout_leitura_segundos": 90
+      "timeout_leitura_segundos": 90,
+      "historicos": {
+        "arquivo": "config/historicos_cbmmg.json",
+        "sha256_cadastro": "901c7ef7c20e5e3e534588b117acecc2d288c26a1e791ace84f552e7ced4921d",
+        "cadastrados": 8,
+        "adicionados_fora_indice": 8
+      }
     },
-    "observacao": "Data de coleta não comprova vigência. 'listada_como_vigente' registra apenas o rótulo da página; confirme o ato normativo e as alterações aplicáveis. Use sha256 para auditoria. Não reproduzir normas ABNT/NBR em texto integral.",
-    "ultima_coleta_parcial": "2026-09-15T05:00:06+00:00"
+    "observacao": "Data de coleta não comprova vigência. 'listada_como_vigente' registra apenas o rótulo da página; confirme o ato normativo e as alterações aplicáveis. Use sha256 para auditoria. Não reproduzir normas ABNT/NBR em texto integral."
   },
   "items": []
 }

@@ -1,19 +1,23 @@
 {
-  "ok": false,
-  "status": "falha",
-  "ultima_tentativa": "2026-09-15T04:57:32+00:00",
-  "ultima_coleta_bem_sucedida": null,
-  "data_coleta_base": "2026-05-04T20:36:47+00:00",
+  "ok": true,
+  "status": "ok",
+  "ultima_tentativa": "2026-09-15T05:24:27+00:00",
+  "ultima_coleta_bem_sucedida": "2026-09-15T05:27:24+00:00",
+  "data_coleta_base": "2026-09-15T05:27:24+00:00",
   "fonte_url": "https://www.bombeiros.mg.gov.br/normastecnicas",
-  "motivo": "Coleta parcial: PDFs obtidos foram atualizados individualmente; documentos ausentes ou com erro e a data da última coleta geral foram preservados. Ausência não indica revogação.",
+  "motivo": "Coleta completa promovida; vigência normativa deve ser confirmada por documento.",
   "contagens": {
     "links_detectados": 497,
-    "pdfs": 462,
+    "historicos_cadastrados": 8,
+    "historicos_fora_indice": 8,
+    "candidatos_totais": 505,
+    "pdfs": 470,
     "nao_pdf": 35,
     "erros": 0,
-    "documentos_anteriores": 458,
-    "documentos_anteriores_ausentes": 8,
-    "documentos_preservados": 8
+    "historicos_recoletados": 8,
+    "documentos_anteriores": 470,
+    "documentos_anteriores_ausentes": 0,
+    "documentos_preservados": 0
   },
   "diagnostico": {
     "tentativas": [
@@ -24,12 +28,12 @@
         "content_type": "text/html; charset=UTF-8",
         "html_length": 1069273,
         "links_candidatos": 497,
-        "sha256_html": "2ad58a595ffc701652c7356c841392f49f4caea2dec7dd2a242a276d98e64dee",
-        "data_acesso": "2026-09-15T04:57:36+00:00",
+        "sha256_html": "df2911e27283eb7a1ac6c02d08c5250928def45de30f4edf3556147e485a5f74",
+        "data_acesso": "2026-09-15T05:24:33+00:00",
         "requisicoes": [
           {
             "tentativa": 1,
-            "segundos": 4.5,
+            "segundos": 5.59,
             "status_code": 200,
             "url_final": "https://www.bombeiros.mg.gov.br/normastecnicas"
           }
@@ -42,12 +46,12 @@
         "content_type": "text/html; charset=UTF-8",
         "html_length": 1069221,
         "links_candidatos": 497,
-        "sha256_html": "625c7731400be5325958d635537d4d06926f5bcafd8b226064911114255fbb38",
-        "data_acesso": "2026-09-15T04:57:41+00:00",
+        "sha256_html": "8595f41edd83d617a88e70099abe7039b894dbb03717a90774ee6a5f2c113e9a",
+        "data_acesso": "2026-09-15T05:24:39+00:00",
         "requisicoes": [
           {
             "tentativa": 1,
-            "segundos": 4.135,
+            "segundos": 5.05,
             "status_code": 200,
             "url_final": "https://bombeiros.mg.gov.br/normastecnicas"
           }
@@ -56,27 +60,24 @@
     ],
     "melhor_total_links": 497,
     "timeout_conexao_segundos": 60,
-    "timeout_leitura_segundos": 90
+    "timeout_leitura_segundos": 90,
+    "historicos": {
+      "arquivo": "config/historicos_cbmmg.json",
+      "sha256_cadastro": "901c7ef7c20e5e3e534588b117acecc2d288c26a1e791ace84f552e7ced4921d",
+      "cadastrados": 8,
+      "adicionados_fora_indice": 8
+    }
   },
   "erros": [],
-  "fase": "promocao",
+  "fase": "concluida",
   "ambiente": {
     "python": "3.11.16",
     "requests": "2.34.2",
     "sistema": "Linux",
-    "github_run_id": "34930795910",
-    "github_sha": "5ce94f6498a954da3f0b51f63bb01cb91a80d54f"
+    "github_run_id": "34932586711",
+    "github_sha": "21c33aa4a2a65652762f851187590d87748e8dc0"
   },
-  "documentos_anteriores_ausentes": [
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/anexo%20a%20-%20it39_blocos%20de%20carnaval.pdf",
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/it%20036.pdf",
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_01_8edicao_errata_01_2018_portaria_32_2018.pdf",
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_01_revisada_pelas_portarias_12_e_17.pdf",
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_08_2_edicao_errata_portaria_n_30_2017.pdf",
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_08_2a_edicao.pdf",
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_12_2a_edicao.pdf",
-    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_22_armazenamento_de_liquidos_inflamaveis_e_combustiveis.pdf"
-  ],
-  "promocao_parcial": true,
-  "concluida_em": "2026-09-15T05:00:07+00:00"
+  "documentos_anteriores_ausentes": [],
+  "promocao_parcial": false,
+  "concluida_em": "2026-09-15T05:27:25+00:00"
 }
