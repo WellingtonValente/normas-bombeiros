@@ -22,6 +22,15 @@ não certifica vigência jurídica, emendas ou transições de cada norma.
 Coleta vazia sempre retorna falha, inclusive com a opção antiga
 `--no-fail-if-empty`. [Evidências do diagnóstico](manutencao/diagnostico-2026-09-15.md).
 
+Os oito endereços históricos ausentes do índice foram verificados diretamente
+no portal oficial: os PDFs continuam disponíveis e têm os mesmos SHA-256 do
+acervo anterior. O cadastro revisado em `config/historicos_cbmmg.json` complementa
+o índice e exige novo download e hash esperado em cada execução. Mudança de
+conteúdo, falha de acesso ou outra ausência sem reconciliação continuam gerando
+falha; os oito não são descartados nem declarados vigentes. A API os identifica
+com `escopo_coleta: historico_reconciliado` e expõe a evidência da reconciliação.
+[Verificação dos oito documentos](manutencao/reconciliacao-historicos-2026-09-15.md).
+
 ## Integração revisada em 06/09/2026
 
 A configuração mantida passa a ser `gpt/instructions.md`, `gpt/metadata.json` e

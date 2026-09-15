@@ -42,6 +42,7 @@ TIMEOUT = (60, 90)  # Conexão (inclui TLS/proxy) e leitura, em segundos por ten
 MAX_RETRIES = 2
 CHUNK_SIZE_CHARS = 4500
 CHUNK_OVERLAP_CHARS = 350
+HISTORICOS_CONFIG = Path(__file__).resolve().parents[1] / "config/historicos_cbmmg.json"
 
 @dataclasses.dataclass
 class Documento:
@@ -62,6 +63,9 @@ class Documento:
     coleta_estado: str | None = None
     url_listada: str | None = None
     anotacao_indice: str | None = None
+    escopo_coleta: str = "indice_oficial"
+    sha256_esperado: str | None = None
+    reconciliacao_historica: dict[str, Any] | None = None
     origem: str = "CBMMG - página oficial de normas técnicas"
 
     def asdict(self) -> dict[str, Any]:
@@ -447,6 +451,8 @@ def baixar_processar(session: requests.Session, documentos: list[Documento], out
         try:
             r = fetch_document(session, doc.url)
             final_url = r.url or doc.url
+            if doc.sha256_esperado and not is_cbmmg_url(final_url):
+                raise ValueError("Histórico reconciliado redirecionou para fora do portal oficial de produção.")
             if is_nonproduction_cbmmg_url(final_url) or (not allow_external and not is_cbmmg_url(final_url)):
                 raise ValueError("Redirecionamento do documento para origem não validada.")
             if not is_probably_pdf_response(r, doc.url):
@@ -457,6 +463,8 @@ def baixar_processar(session: requests.Session, documentos: list[Documento], out
                     nao_pdf.append(detalhe)
                 continue
             digest = sha256_bytes(r.content)
+            if doc.sha256_esperado and digest != doc.sha256_esperado:
+                raise ValueError(f"SHA-256 histórico divergente: esperado {doc.sha256_esperado}, recebido {digest}. Requer nova reconciliação com a fonte oficial.")
             prefix = f"it-{doc.numero_it}" if doc.numero_it else slugify(doc.categoria)
             fname = f"{prefix}-{slugify(doc.titulo)}-{digest[:12]}.pdf"
             pdf_path = pdf_dir / fname
@@ -495,6 +503,7 @@ def gerar_indices(out: Path, docs_pdf: list[Documento], nao_pdf: list[dict[str, 
         "data_coleta": now_iso() if coleta_completa else data_coleta_anterior,
         "coleta_completa": coleta_completa,
         "total_pdfs": len(docs_pdf),
+        "total_historicos_reconciliados": sum(d.escopo_coleta == "historico_reconciliado" for d in docs_pdf),
         "total_links_nao_pdf_ou_ignorados": len(nao_pdf),
         "total_erros": len(erros),
         "diagnostico_coleta": diagnostico,
@@ -561,6 +570,61 @@ def ler_json_existente(path: Path) -> dict[str, Any]:
     if not isinstance(value, dict):
         raise ValueError(f"JSON inválido em {path.name}: objeto esperado.")
     return value
+
+
+def incluir_historicos(documentos: list[Documento], anterior: dict[str, Any]) -> tuple[list[Documento], dict[str, Any]]:
+    """Reconsulta somente URLs históricas reconciliadas, com identidade fixada.
+
+    Este cadastro complementa um índice oficial válido. Não anistia ausências
+    desconhecidas nem permite aceitar novos bytes em uma URL histórica.
+    """
+    config_bytes = HISTORICOS_CONFIG.read_bytes()  # Cadastro ausente também é falha.
+    config = json.loads(config_bytes)
+    if not isinstance(config, dict) or config.get("versao") != 1 or not isinstance(config.get("documentos"), list):
+        raise ValueError("Cadastro de históricos inválido.")
+    anteriores = {chave_url(d["url"]): d for d in anterior.get("documentos", []) if d.get("url")}
+    result = {chave_url(d.url): d for d in documentos}
+    seen = set()
+    adicionados = 0
+    for record in config["documentos"]:
+        if not isinstance(record, dict):
+            raise ValueError("Registro histórico inválido.")
+        url = record.get("url", "")
+        digest = record.get("sha256_esperado", "")
+        evidence = record.get("evidencia", {})
+        if (not is_cbmmg_url(url) or not urlparse(url).path.lower().endswith(".pdf")
+                or not isinstance(digest, str) or not re.fullmatch(r"[0-9a-f]{64}", digest)):
+            raise ValueError(f"URL ou SHA-256 histórico inválido: {url}")
+        key = chave_url(url)
+        if key in seen:
+            raise ValueError(f"URL histórica duplicada: {url}")
+        seen.add(key)
+        old = anteriores.get(key)
+        if not old or old.get("sha256") != digest:
+            raise ValueError(f"Histórico não corresponde ao SHA-256 da base anterior: {url}")
+        if (not isinstance(evidence, dict) or evidence.get("http_status") != 200
+                or evidence.get("sha256_obtido") != digest
+                or chave_url(evidence.get("url_final", "")) != key
+                or not is_cbmmg_url(evidence.get("url_final", ""))
+                or not evidence.get("data_verificacao")):
+            raise ValueError(f"Evidência de reconciliação histórica inválida: {url}")
+        verified = dt.datetime.fromisoformat(evidence["data_verificacao"])
+        if verified.utcoffset() is None:
+            raise ValueError(f"Data de reconciliação histórica sem fuso: {url}")
+        if key not in result:
+            titulo = old.get("titulo") or titulo_from_url(url)
+            numero_it, edicao, _, alteracao = parse_metadata(titulo, url)
+            result[key] = Documento(titulo=titulo, url=url, categoria=old.get("categoria", "Histórico"),
+                numero_it=numero_it, edicao=edicao, alteracao=alteracao, situacao="nao_verificada",
+                origem="CBMMG - URL histórica reconciliada; ausência no índice não determina vigência")
+            adicionados += 1
+        doc = result[key]
+        doc.escopo_coleta = "historico_reconciliado"
+        doc.sha256_esperado = digest
+        doc.reconciliacao_historica = evidence
+    return list(result.values()), {"arquivo": "config/historicos_cbmmg.json",
+        "sha256_cadastro": sha256_bytes(config_bytes), "cadastrados": len(seen),
+        "adicionados_fora_indice": adicionados}
 
 
 def preservar_documentos(anterior: dict[str, Any], coletados: list[Documento], out: Path, staged: Path) -> list[Documento]:
@@ -655,7 +719,8 @@ def main() -> int:
         metadata_anterior = anterior.get("metadata", {})
         status["data_coleta_base"] = metadata_anterior.get("data_coleta")
         status["ultima_coleta_bem_sucedida"] = old_status.get("ultima_coleta_bem_sucedida")
-        if not status["ultima_coleta_bem_sucedida"] and metadata_anterior.get("total_erros") == 0:
+        if (not status["ultima_coleta_bem_sucedida"] and metadata_anterior.get("total_erros") == 0
+                and metadata_anterior.get("coleta_completa") is not False):
             status["ultima_coleta_bem_sucedida"] = metadata_anterior.get("data_coleta")
         # Registrar o início permite detectar também uma interrupção/timeout.
         salvar_json(status_path, status)
@@ -678,6 +743,11 @@ def main() -> int:
                 "Falha de acesso ao índice oficial antes da extração de links. Consulte as tentativas de transporte."
             ) + " A base publicada foi preservada.")
 
+        status["fase"] = "reconciliacao_historicos"
+        docs, historicos = incluir_historicos(docs, anterior)
+        diagnostico["historicos"] = historicos
+        status["contagens"].update(historicos_cadastrados=historicos["cadastrados"],
+            historicos_fora_indice=historicos["adicionados_fora_indice"], candidatos_totais=len(docs))
         status["fase"] = "download_documentos"
         salvar_json(status_path, status)
         # Somente documentos aceitos podem ser promovidos; falhas ficam explícitas.
@@ -690,6 +760,7 @@ def main() -> int:
             status["erros"] = erros
             status["documentos_anteriores_ausentes"] = missing
             status["contagens"].update(pdfs=len(docs_pdf), nao_pdf=len(nao_pdf), erros=len(erros),
+                historicos_recoletados=sum(d.escopo_coleta == "historico_reconciliado" for d in docs_pdf),
                 documentos_anteriores=len(old_urls), documentos_anteriores_ausentes=len(missing))
             if not docs_pdf:
                 return concluir(3,

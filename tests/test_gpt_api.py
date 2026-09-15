@@ -67,6 +67,36 @@ class ApiTests(unittest.TestCase):
         self.assertEqual(parts[0][1], [3])
         self.assertEqual(parts[1][1], [3, 4])
 
+    def test_reconciled_history_is_explicit_without_certifying_legal_currency(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'data').mkdir()
+            date = '2026-09-15T05:12:31+00:00'
+            d = {'titulo': 'IT 01', 'url': 'https://bombeiros.mg.gov.br/images/IT_01.pdf',
+                 'texto': 'texto histórico', 'escopo_coleta': 'historico_reconciliado',
+                 'reconciliacao_historica': {'data_verificacao': date, 'sha256_obtido': 'a' * 64}}
+            data = {
+                'normas_manifest.json': {'metadata': {'data_coleta': date, 'coleta_completa': True,
+                    'total_erros': 0, 'total_historicos_reconciliados': 1}, 'documentos': [d]},
+                'normas_com_texto.json': {'normas': [d]},
+                'sync_status.json': {'ok': True, 'status': 'ok', 'promocao_parcial': False,
+                    'contagens': {'erros': 0, 'historicos_recoletados': 1, 'documentos_anteriores_ausentes': 0}},
+            }
+            for name, value in data.items():
+                (root / 'data' / name).write_text(json.dumps(value), encoding='utf-8')
+            responses = api.build(root)
+            status = json.loads(responses['status.json'])
+            self.assertTrue(status['coleta_ok'])
+            self.assertTrue(status['base_coleta_completa'])
+            self.assertEqual(status['atualidade_normativa'], 'nao_garantida')
+            self.assertEqual(status['historicos_reconciliados'], 1)
+            self.assertEqual(status['historicos_recoletados_ultima_tentativa'], 1)
+            self.assertEqual(status['documentos_anteriores_ausentes'], 0)
+            item = json.loads(responses['its/01/1.json'])['items'][0]
+            self.assertEqual(item['situacao'], 'historico')
+            self.assertEqual(item['reconciliacao_historica'], d['reconciliacao_historica'])
+            self.assertEqual(api.state({**d, 'titulo': 'Minuta da IT 01'})[0], 'proposta')
+
     def test_empty_input_does_not_replace_api(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

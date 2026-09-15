@@ -89,3 +89,7 @@ Os 462 documentos recoletados possuem data individual de 15/09/2026. A data
 global antiga e o sinal de falha parcial não significam que esses documentos
 continuam congelados em maio. Os oito históricos devem ser reconciliados com
 evidência oficial antes de se declarar uma coleta integral.
+
+A verificação posterior desses oito arquivos está documentada em
+[Reconciliação dos históricos](reconciliacao-historicos-2026-09-15.md), com
+endereços oficiais, SHA-256 esperado e resultado da execução posterior.

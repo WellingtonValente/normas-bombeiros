@@ -42,6 +42,8 @@ def state(doc):
         return "historico", "Título ou caminho oficial indica conteúdo histórico."
     if "revogad" in evidence and not re.search(r"\b(?:nao|parcialmente)\s+revogad[ao]|\brevogad[ao]\s+parcialmente", evidence):
         return "revogacao_indicada", "Indicação de revogação no título/caminho; conferir alcance no ato."
+    if doc.get("escopo_coleta") == "historico_reconciliado":
+        return "historico", "URL do acervo histórico recoletada com SHA-256 esperado. Reconciliação de procedência, sem determinação de vigência ou revogação."
     return "nao_verificada", "Listagem e disponibilidade não comprovam vigência."
 
 
@@ -118,6 +120,8 @@ def build(out: Path):
                    "url_listada": d.get("url_listada"), "anotacao_indice": (d.get("anotacao_indice") or "")[:500] or None,
                    "url_oficial": url, "sha256_pdf": d.get("sha256"), "data_coleta": d.get("data_coleta") or collected,
                    "coleta_estado": d.get("coleta_estado", "acervo_herdado"),
+                   "escopo_coleta": d.get("escopo_coleta", "nao_registrado"),
+                   "reconciliacao_historica": d.get("reconciliacao_historica"),
                    "paginas_pdf": d.get("paginas"), "tem_texto": bool(text)}
         chunks = []
         parts = list(text_parts(text))
@@ -158,6 +162,9 @@ def build(out: Path):
          "ultima_coleta_bem_sucedida": sync.get("ultima_coleta_bem_sucedida"),
          "ultima_coleta_parcial": metadata.get("ultima_coleta_parcial"),
          "base_coleta_completa": metadata.get("coleta_completa", False),
+         "historicos_reconciliados": metadata.get("total_historicos_reconciliados", 0),
+         "historicos_recoletados_ultima_tentativa": sync.get("contagens", {}).get("historicos_recoletados"),
+         "documentos_anteriores_ausentes": sync.get("contagens", {}).get("documentos_anteriores_ausentes"),
          "diagnostico": "/data/sync_status.json",
          "limite_resposta_bytes": MAX_RESPONSE_BYTES, "total_documentos": len(all_summaries),
          "aviso": NOTICE, "memoria": "Versiona base técnica e configuração. Não armazena conversas nem dados de clientes."})

@@ -223,11 +223,28 @@ class DownloadTests(unittest.TestCase):
         self.assertEqual((len(docs), len(errors)), (0, 1))
 
 
+    def test_historical_redirect_to_external_blocked_even_with_matching_hash_and_allow_external(self):
+        content = b"%PDF-1.7"
+        session = Mock()
+        session.get.return_value = response("https://example.com/file.pdf", content, "application/pdf")
+        with tempfile.TemporaryDirectory() as directory:
+            docs, _, errors = sync.baixar_processar(session,
+                [sync.Documento("IT 01", PDF_URL, sha256_esperado=sync.sha256_bytes(content))],
+                Path(directory), False, True)
+            self.assertEqual(list(Path(directory).glob("pdf/*")), [])
+        self.assertEqual((len(docs), len(errors)), (0, 1))
+
+
 class PromotionTests(unittest.TestCase):
     def setUp(self):
         self.directory = tempfile.TemporaryDirectory()
         self.addCleanup(self.directory.cleanup)
         self.out = Path(self.directory.name) / "docs"
+        self.historicos = Path(self.directory.name) / "historicos.json"
+        sync.salvar_json(self.historicos, {"versao": 1, "documentos": []})
+        config_patch = patch.object(sync, "HISTORICOS_CONFIG", self.historicos)
+        config_patch.start()
+        self.addCleanup(config_patch.stop)
         self.manifest = {
             "metadata": {"data_coleta": OLD_DATE, "total_erros": 0},
             "documentos": [{"url": PDF_URL, "numero_it": "01"}],
@@ -248,6 +265,112 @@ class PromotionTests(unittest.TestCase):
             code = sync.main()
         status = json.loads((self.out / "data" / "sync_status.json").read_text())
         return code, status
+
+    def register_historical(self):
+        old_url = "https://bombeiros.mg.gov.br/IT_02.pdf"
+        digest = sync.sha256_bytes(b"%PDF-1.7\n")
+        record = {"url": old_url, "titulo": "IT 02", "numero_it": "02", "sha256": digest,
+            "arquivo": "pdf/historico.pdf", "data_coleta": OLD_DATE}
+        self.manifest["documentos"].append(record)
+        sync.salvar_json(self.out / "data" / "normas_manifest.json", self.manifest)
+        (self.out / "pdf").mkdir()
+        (self.out / "pdf/historico.pdf").write_bytes(b"%PDF-1.7\n")
+        config = {"versao": 1, "documentos": [{"url": old_url, "sha256_esperado": digest,
+            "evidencia": {"data_verificacao": OLD_DATE, "http_status": 200, "url_final": old_url,
+                "sha256_obtido": digest}}]}
+        sync.salvar_json(self.historicos, config)
+        return old_url, config
+
+    def test_registered_historical_is_recollected_and_allows_complete_promotion(self):
+        old_url, _ = self.register_historical()
+        code, status = self.run_main()
+        self.assertEqual(code, 0)
+        self.assertTrue(status["ok"])
+        self.assertEqual(status["contagens"]["links_detectados"], 1)
+        self.assertEqual(status["contagens"]["candidatos_totais"], 2)
+        self.assertEqual(status["contagens"]["historicos_recoletados"], 1)
+        self.assertEqual(status["contagens"]["documentos_anteriores_ausentes"], 0)
+        current = json.loads((self.out / "data/normas_manifest.json").read_text())
+        doc = next(d for d in current["documentos"] if d["url"] == old_url)
+        self.assertEqual(doc["escopo_coleta"], "historico_reconciliado")
+        self.assertEqual(doc["sha256"], doc["sha256_esperado"])
+        self.assertEqual(doc["situacao"], "nao_verificada")
+        self.assertIsNone(doc["url_listada"])
+        self.assertNotEqual(doc["data_coleta"], OLD_DATE)
+        self.assertTrue(current["metadata"]["coleta_completa"])
+
+    def test_changed_historical_hash_blocks_only_that_document_and_preserves_old_bytes(self):
+        old_url, _ = self.register_historical()
+        code, status = self.run_main(pdf=b"%PDF-1.7\nconteudo alterado")
+        self.assertEqual(code, 4)
+        self.assertFalse(status["ok"])
+        self.assertEqual(status["contagens"]["historicos_recoletados"], 0)
+        self.assertIn("SHA-256 histórico divergente", status["erros"][0]["erro"])
+        self.assertEqual((self.out / "pdf/historico.pdf").read_bytes(), b"%PDF-1.7\n")
+        self.assertEqual(list((self.out / "pdf").glob("it-02-*.pdf")), [])
+        current = json.loads((self.out / "data/normas_manifest.json").read_text())
+        doc = next(d for d in current["documentos"] if d["url"] == old_url)
+        self.assertEqual(doc["coleta_estado"], "preservado_sem_nova_coleta")
+        self.assertEqual(current["metadata"]["data_coleta"], OLD_DATE)
+
+    def test_historical_back_in_index_is_not_duplicated_and_remains_hash_locked(self):
+        old_url, _ = self.register_historical()
+        html = HTML + f'<a href="{old_url.replace("://", "://www.")}">IT 02</a>'
+        code, status = self.run_main(html=html)
+        self.assertEqual(code, 0)
+        self.assertEqual(status["contagens"]["pdfs"], 2)
+        self.assertEqual(status["contagens"]["historicos_fora_indice"], 0)
+        code, status = self.run_main(html=html, pdf=b"%PDF-alterado")
+        self.assertEqual(code, 4)
+        self.assertIn("SHA-256 histórico divergente", status["erros"][0]["erro"])
+
+    def test_reconciled_historical_does_not_hide_another_missing_document(self):
+        self.register_historical()
+        self.manifest["documentos"].append({"url": "https://bombeiros.mg.gov.br/IT_03.pdf", "titulo": "IT 03"})
+        sync.salvar_json(self.out / "data/normas_manifest.json", self.manifest)
+        code, status = self.run_main()
+        self.assertEqual(code, 4)
+        self.assertEqual(status["contagens"]["historicos_recoletados"], 1)
+        self.assertEqual(status["contagens"]["documentos_anteriores_ausentes"], 1)
+
+    def test_registered_historical_cannot_replace_empty_index(self):
+        self.register_historical()
+        with patch.object(sync, "incluir_historicos") as include:
+            code, status = self.run_main(html="<html>sem índice</html>")
+        self.assertEqual(code, 2)
+        self.assertFalse(status["ok"])
+        include.assert_not_called()
+
+    def test_invalid_or_missing_registry_blocks_promotion(self):
+        _, config = self.register_historical()
+        original = json.dumps(config)
+        for variation in ("external", "duplicate", "hash", "evidence", "missing"):
+            with self.subTest(variation=variation):
+                candidate = json.loads(original)
+                if variation == "external":
+                    candidate["documentos"][0]["url"] = "https://example.com/a.pdf"
+                elif variation == "duplicate":
+                    candidate["documentos"].append(candidate["documentos"][0])
+                elif variation == "hash":
+                    candidate["documentos"][0]["sha256_esperado"] = "a" * 64
+                elif variation == "evidence":
+                    candidate["documentos"][0]["evidencia"]["http_status"] = 404
+                sync.salvar_json(self.historicos, candidate)
+                if variation == "missing":
+                    self.historicos.unlink()
+                before = (self.out / "data/normas_manifest.json").read_bytes()
+                code, status = self.run_main()
+                self.assertEqual(code, 5)
+                self.assertFalse(status["ok"])
+                self.assertEqual(status["fase"], "reconciliacao_historicos")
+                self.assertEqual((self.out / "data/normas_manifest.json").read_bytes(), before)
+
+    def test_partial_base_with_zero_download_errors_is_not_a_previous_complete_success(self):
+        self.manifest["metadata"]["coleta_completa"] = False
+        sync.salvar_json(self.out / "data/normas_manifest.json", self.manifest)
+        code, status = self.run_main(html="<html>sem índice</html>")
+        self.assertEqual(code, 2)
+        self.assertIsNone(status["ultima_coleta_bem_sucedida"])
 
     def test_invalid_pdf_preserves_all_published_data_and_timestamp(self):
         before = {p: p.read_bytes() for p in self.out.rglob("*.json")}

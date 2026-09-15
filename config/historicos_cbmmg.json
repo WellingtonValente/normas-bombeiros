@@ -1,0 +1,134 @@
+{
+  "versao": 1,
+  "base_reconciliada": "https://github.com/WellingtonValente/normas-bombeiros/blob/5d2071404b44715b80d126183af395b0e41aa0df/docs/data/normas_manifest.json",
+  "criterio": "URLs preservadas do acervo anterior, ausentes do índice em 15/09/2026, verificadas diretamente no portal oficial de produção com TLS e PDF legível. Os oito SHA-256 coincidem com o acervo anterior. Equivalentes identificados exclusivamente por SHA-256, sem presumir vigência ou revogação. Cada coleta exige novo download e SHA-256 esperado; mudança exige nova reconciliação documentada.",
+  "documentos": [
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_01_8edicao_errata_01_2018_portaria_32_2018.pdf",
+      "titulo": "it 01 8edicao errata 01 2018 portaria 32 2018",
+      "sha256_esperado": "1168e4edf2548da503ce57ac1e402a3ff22a3020aae17752f3e4c3ac93c791f1",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:11:48+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_01_8edicao_errata_01_2018_portaria_32_2018.pdf",
+        "sha256_obtido": "1168e4edf2548da503ce57ac1e402a3ff22a3020aae17752f3e4c3ac93c791f1",
+        "paginas": 109,
+        "tamanho_bytes": 3107927,
+        "equivalentes": []
+      }
+    },
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_01_revisada_pelas_portarias_12_e_17.pdf",
+      "titulo": "it 01 revisada pelas portarias 12 e 17",
+      "sha256_esperado": "eaa81cf54de84ca7c899f007d6cc5decf795a15c15c06e69b8cf16bfa8b0361f",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:11:48+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_01_revisada_pelas_portarias_12_e_17.pdf",
+        "sha256_obtido": "eaa81cf54de84ca7c899f007d6cc5decf795a15c15c06e69b8cf16bfa8b0361f",
+        "paginas": 65,
+        "tamanho_bytes": 1845610,
+        "equivalentes": [
+          {
+            "titulo": "IT01 - Procedimentos Administrativos - 5ª Edição (Portarias 12 e 17/2014)",
+            "url": "https://www.bombeiros.mg.gov.br/storage/files/shares/legislacaoantiga/IT_01_5_ed_portaria_12_e_17_2014.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_08_2_edicao_errata_portaria_n_30_2017.pdf",
+      "titulo": "it 08 2 edicao errata portaria n 30 2017",
+      "sha256_esperado": "eecf1cec4e1d31b072d1cf33c4d563dcb8ce1c1c6e6c7978ad7520ecfd69ec32",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:12:04+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_08_2_edicao_errata_portaria_n_30_2017.pdf",
+        "sha256_obtido": "eecf1cec4e1d31b072d1cf33c4d563dcb8ce1c1c6e6c7978ad7520ecfd69ec32",
+        "paginas": 46,
+        "tamanho_bytes": 2250393,
+        "equivalentes": []
+      }
+    },
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_08_2a_edicao.pdf",
+      "titulo": "it 08 2a edicao",
+      "sha256_esperado": "132cdf20c279558411eaefc14102f6adfb7c518834ce44a13801b9edb624b3d9",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:12:04+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_08_2a_edicao.pdf",
+        "sha256_obtido": "132cdf20c279558411eaefc14102f6adfb7c518834ce44a13801b9edb624b3d9",
+        "paginas": 26,
+        "tamanho_bytes": 1017104,
+        "equivalentes": []
+      }
+    },
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_12_2a_edicao.pdf",
+      "titulo": "it 12 2a edicao",
+      "sha256_esperado": "6a0c4c23ffd1c23641e7f07cdcdd7d640bce5ca1b5a84372e2cdf41cdb806510",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:12:19+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_12_2a_edicao.pdf",
+        "sha256_obtido": "6a0c4c23ffd1c23641e7f07cdcdd7d640bce5ca1b5a84372e2cdf41cdb806510",
+        "paginas": 36,
+        "tamanho_bytes": 601912,
+        "equivalentes": []
+      }
+    },
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_22_armazenamento_de_liquidos_inflamaveis_e_combustiveis.pdf",
+      "titulo": "it 22 armazenamento de liquidos inflamaveis e combustiveis",
+      "sha256_esperado": "8ac77176fb3aede291e4ce88a50e62e06ca263ac1eaa472147f96358492b8378",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:12:19+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it_22_armazenamento_de_liquidos_inflamaveis_e_combustiveis.pdf",
+        "sha256_obtido": "8ac77176fb3aede291e4ce88a50e62e06ca263ac1eaa472147f96358492b8378",
+        "paginas": 18,
+        "tamanho_bytes": 626307,
+        "equivalentes": [
+          {
+            "titulo": "IT 22 - (Revogada) Adotar ABNT NBR 17505 - Armazenamento de Líquidos Inflamáveis e Combustíveis",
+            "url": "https://www.bombeiros.mg.gov.br/storage/files/shares/intrucoestecnicas/IT_22_1_ed_Portaria_5.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it%20036.pdf",
+      "titulo": "it 036",
+      "sha256_esperado": "09dc2ab3f60ea956c711f77e4963b760cb5a2865ef097079ceaba12448f4583d",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:12:31+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/it%20036.pdf",
+        "sha256_obtido": "09dc2ab3f60ea956c711f77e4963b760cb5a2865ef097079ceaba12448f4583d",
+        "paginas": 3,
+        "tamanho_bytes": 159473,
+        "equivalentes": [
+          {
+            "titulo": "IT 36 - (Revogada) - Sistema de Proteção Contra Descargas Atmosféricas",
+            "url": "https://www.bombeiros.mg.gov.br/storage/files/shares/intrucoestecnicas/IT_36_1_ed_revogada.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/anexo%20a%20-%20it39_blocos%20de%20carnaval.pdf",
+      "titulo": "anexo a   it39 blocos de carnaval",
+      "sha256_esperado": "504643cb21274ab38b3f3b65a2bd14352787444fdc36341ec87ee29209c0cce8",
+      "evidencia": {
+        "data_verificacao": "2026-09-15T05:12:31+00:00",
+        "http_status": 200,
+        "url_final": "https://www.bombeiros.mg.gov.br/images/stories/dat/it/anexo%20a%20-%20it39_blocos%20de%20carnaval.pdf",
+        "sha256_obtido": "504643cb21274ab38b3f3b65a2bd14352787444fdc36341ec87ee29209c0cce8",
+        "paginas": 2,
+        "tamanho_bytes": 99141,
+        "equivalentes": []
+      }
+    }
+  ]
+}
