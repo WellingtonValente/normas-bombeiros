@@ -1,0 +1,743 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+1/9
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 27 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 30/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 41 – 1ª
+Edição (Controle de fumaça):
+ 
+1. ALTERAR o item 1.1
+Onde se lê: 
+"1.1 Fornecer parâmetros técnicos para implementação de sistema de controle de fumaça,
+atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico das ediﬁcações e áreas de
+risco do Estado de Minas Gerais."
+Leia-se:
+"1.1 Fornecer parâmetros técnicos para implementação de sistema de controle de fumaça,
+atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 7.2
+Onde se lê: 
+"7.2 De acordo com o Ɵpo de sistema previsto para o projeto, independente da metodologia
+adotada, a representação em planta deverá ser conforme IT 03 (Símbolos gráﬁcos para projeto de segurança
+contra incêndio e pânico) ou nota em planta com indicação, dos seguintes itens:
+a) entrada de ar (aberturas, grelhas, venezianas e insuﬂação mecânica);
+b) exaustores naturais (entradas, aberturas, grelhas, venezianas, clarabóias e alçapões);
+c) exaustores mecânicos;
+d) dutos e peças especiais;
+e) registro corta-fogo e fumaça;
+f) localização dos pontos de acionamento alternaƟvo do sistema;
+g) localização dos detectores de incêndio; h) localização da central de alarme/detecção de
+incêndio;
+i) localização da casa de máquinas dos insuﬂadores e exaustores;
+j) localização da fonte de alimentação, quadros e comandos;
+k) distâncias dos exaustores em relação à divisa do terreno;
+l) dimensões em escala das barreiras de fumaça, altura de referência (H) e altura da zona livre
+de fumaça (H’)."
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+2/9
+Leia-se:
+"7.2 A representação dos elementos em planta, de acordo com o Ɵpo de sistema previsto para
+o projeto, deverá ser conforme o item A.19 da IT 03 (Composição do Processo de Segurança contra Incêndio
+e Pânico), independentemente da metodologia adotada."
+ 
+3. ALTERAR o item 7.2.1
+Onde se lê: 
+"7.2.1 As entradas de ar, exaustores e dutos deverão ser apresentadas também em corte e/ou
+fachada."
+Leia-se:
+"7.2.1 O memorial de cálculo não deverá ser anexado ao PSCIP, devendo ser apresentados
+apenas os resultados previstos no quadro resumo. Os procedimentos de cálculo e seu conteúdo são de
+responsabilidade exclusiva do Responsável Técnico."
+ 
+4. ALTERAR a Tabela 6 - Classiﬁcação de risco para as demais ocupações
+Onde se lê: 
+Tabela 6: Classiﬁcação de risco para as demais ocupações
+Ocupação/Uso
+Divisão
+Descrição
+Classiﬁcação
+Residencial
+A-1
+Casas Térreas ou Sobrados
+Classe 1
+A-2
+Apartamentos
+Classe 1
+A-3
+Alojamentos
+Classe 1
+A-3
+Internatos
+Classe 1
+A-3
+Mosteiros e Conventos
+Classe 1
+A-3
+Pensionatos
+Classe 1
+Serviço de
+Hospedagem
+B-1
+Albergues
+Classe 1
+B-1
+Casa de Cômodos
+Classe 1
+B-1
+Hospedarias
+Classe 1
+B-1
+Hotéis
+Classe 1
+B-1
+Motéis
+Classe 1
+B-1
+Pensões
+Classe 1
+B-1
+Pousadas
+Classe 1
+B-2
+Apart-Hotéis
+Classe 1
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+3/9
+Serviço
+Proﬁssional
+D-1
+Agências de correios
+Classe 2
+D-1
+Agências de loterias
+Classe 2
+D-1
+Agências de despachos
+Classe 2
+D-1
+Processamentos de dados
+Classe 1
+D-1
+Escritórios
+Classe 2
+D-1
+Estúdio cinematográﬁco
+Classe 3
+D-1
+Estúdio de rádio
+Classe 3
+D-1
+Estúdio de televisão
+Classe 3
+D-1
+Estúdios de fotograﬁa
+Classe 3
+D-1
+Escritório de venda por
+correspondência
+Classe 2
+D-1
+Cabeleireiros e barbearia
+Classe 1
+D-1
+Instaladores eletricistas
+Classe 1
+D-2
+Agências bancárias
+Classe 2
+D-2
+Câmbio e moedas
+Classe 2
+D-3
+Copiadora (em geral)
+Classe 3
+D-3
+Encadernadoras
+Classe 3
+D-3
+Lavanderias
+Classe 1
+D-3
+Oﬁcinas elétricas
+Classe 2
+D-3
+Oﬁcina de conserto
+Classe 2
+D-3
+Oﬁcina de pintura
+Classe 2
+D-3
+Oﬁcina de reparos
+Classe 2
+D-3
+Oﬁcina mecânica
+Classe 2
+D-3
+Oﬁcina de relógio
+Classe 2
+D-3
+Oﬁcinas hidráulicas
+Classe 2
+D-3
+Oﬁcinas de fotocópias
+Classe 2
+D-4
+Laboratórios bacteriológicos
+Classe 3
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+4/9
+D-4
+Laboratórios de İsica
+Classe 3
+D-4
+Laboratórios elétricos
+Classe 3
+D-4
+Laboratórios fotográﬁcos
+Classe 3
+D-4
+Laboratórios metalúrgicos
+Classe 3
+D-4
+Laboratórios odontológicos
+Classe 3
+D-4
+Laboratórios químicos
+Classe 3
+Educacional e
+cultura İsica
+E-3
+Academias e similares
+Classe 1
+E-5
+Pré-escolas e similares
+Classe 1
+E-5
+Creches e similares
+Classe 1
+E-1/E-2/E-
+4/E-6
+Escolas em geral
+Classe 1
+E-3
+Sauna
+Classe 1
+ 
+Local de
+Reunião de
+Público
+ 
+ 
+ 
+ 
+Local de
+Reunião de
+Público
+F-1
+Bibliotecas
+Classe 3
+F-1
+Arquivo de documentos
+Classe 3
+F-1
+Museus
+Classe 2
+F-2
+Igrejas e templos
+Classe 1
+F-3
+Centros esporƟvos e de
+exibição
+Classe 1
+F-4
+Estações e terminais de
+passageiros
+Classe 1
+F-5
+Cinemas, teatros e similares
+Classe 2
+F-6
+Boates, salões de baile,
+restaurantes dançantes e
+casas de show
+Classe 2
+F-8
+Restaurantes
+Classe 1
+F-5
+Auditório de rádio e
+televisão
+Classe 3
+F-5
+Pavilhões temporários
+Classe 3
+F-9
+Ediﬁcações permanentes de
+jardins zoológicos, parques
+Classe 2
+
+--- PÁGINA 5 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+5/9
+recreaƟvos, clubes sociais,
+bilhares, boliches, casas de
+jogos e assemelhados
+F-10
+Exposição de automóveis
+Classe 3
+F-10
+Exposição de máquinas
+Classe 2
+F-10
+Exposição de móveis
+Classe 3
+F-11
+Auditórios em geral
+Classe 3
+Serviço
+AutomoƟvo e
+Assemelhados
+G-1
+Estacionamentos, garagens
+automáƟcas, garagens de
+veículos de carga e coleƟvos
+Classe 1
+G-2
+Garagens coleƟvas sem
+automação
+Classe 1
+G-5
+Hangares
+Classe 3
+G-3
+Postos de abastecimento
+Classe 1
+G-4
+Oﬁcinas de conserto de
+veículos e manutenção
+Classe 1
+Serviço de
+Saúde e
+InsƟtucional
+H-2
+Asilos
+Classe 1
+H-6
+Consultórios médicos ou
+odontológicos
+Classe 1
+H-6
+Consultório de radiologia
+Classe 1
+H-6
+Estabelecimentos
+hidroterápicos
+Classe 1
+H-6
+Ambulatórios
+Classe 1
+H-1/ H-3
+Hospitais em geral
+Classe 1
+H-5
+Presídios e similares
+Classe 2
+H-4
+Quartéis e similares
+Classe 2
+Especial
+M-3
+Centrais hidroelétricas
+Classe 3
+M-3
+Centrais térmicas
+Classe 3
+M-3
+Central externa de
+aquecimento
+Classe 3
+M-3
+Central telefônica
+Classe 3
+
+--- PÁGINA 6 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+6/9
+M-3
+Estação de transformadores
+Classe 3
+Leia-se:
+Tabela 6 – Classiﬁcação de risco para as demais ocupações 
+ 
+Ocupação/Uso
+Divisão
+Descrição
+Classiﬁcação
+Residencial
+A-1
+Casas térreas ou assobradadas
+Classe 1
+A-2
+Apartamentos
+Classe 1
+A-3
+Alojamentos
+Classe 1
+A-3
+Internatos
+Classe 1
+A-3
+Mosteiros e Conventos
+Classe 1
+A-3
+Pensionatos
+Classe 1
+Serviço de
+Hospedagem
+B-1
+Albergues
+Classe 1
+B-1
+Casa de Cômodos
+Classe 1
+B-1
+Hospedarias
+Classe 1
+B-1
+Hotéis
+Classe 1
+B-1
+Motéis
+Classe 1
+B-1
+Pensões
+Classe 1
+B-1
+Pousadas
+Classe 1
+B-2
+Apart-Hotéis
+Classe 1
+Serviço
+Proﬁssional
+D-1
+Agências de correios
+Classe 2
+D-1
+Agências de loterias
+Classe 2
+D-1
+Agências de despachos
+Classe 2
+D-1
+Escritórios
+Classe 2
+D-1
+Estúdio cinematográﬁco
+Classe 3
+D-1
+Estúdio de rádio
+Classe 3
+D-1
+Estúdio de televisão
+Classe 3
+D-1
+Estúdios de fotograﬁa
+Classe 3
+D-1
+Escritório de venda por
+correspondência
+Classe 2
+D-1
+Cabeleireiros e barbearia
+Classe 1
+D-1
+Instaladores eletricistas
+Classe 1
+D-2
+Agências bancárias
+Classe 2
+D-2
+Câmbio e moedas
+Classe 2
+D-3
+Copiadora (em geral)
+Classe 3
+D-3
+Encadernadoras
+Classe 3
+D-3
+Lavanderias
+Classe 1
+D-3
+Oﬁcinas elétricas
+Classe 2
+D-3
+Oﬁcina de conserto
+Classe 2
+D-3
+Oﬁcina de pintura
+Classe 2
+D-3
+Oﬁcina de reparos
+Classe 2
+D-3
+Oﬁcina mecânica, exceto automoƟva
+Classe 2
+D-3
+Oﬁcina de relógio
+Classe 2
+D-3
+Oﬁcinas hidráulicas
+Classe 2
+D-3
+Oﬁcinas de fotocópias
+Classe 2
+D-4
+Laboratórios bacteriológicos
+Classe 3
+D-4
+Laboratórios de İsica
+Classe 3
+D-4
+Laboratórios elétricos
+Classe 3
+
+--- PÁGINA 7 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+7/9
+Ocupação/Uso
+Divisão
+Descrição
+Classiﬁcação
+D-4
+Laboratórios fotográﬁcos
+Classe 3
+D-4
+Laboratórios metalúrgicos
+Classe 3
+D-4
+Laboratórios odontológicos
+Classe 3
+D-4
+Laboratórios químicos
+Classe 3
+Educacional e
+cultura İsica
+E-3
+Academias e similares
+Classe 1
+E-5
+Pré-escolas e similares
+Classe 1
+E-5
+Creches e similares
+Classe 1
+E-1/E-2/E-
+4/E-6
+Escolas em geral
+Classe 1
+E-3
+Sauna
+Classe 1
+Local de
+Reunião de
+Público
+F-1
+Bibliotecas 
+Classe 3
+F-1
+Centros de documentos históricos
+Classe 3
+F-1
+Museus e galerias de arte
+Classe 2
+F-2
+Igrejas, capelas, sinagogas,
+mesquitas, templos, cemitérios,
+crematórios, necrotérios, salas de
+funerais e assemelhados
+Classe 1
+F-3
+Centros esporƟvos e de exibição
+Classe 1
+F-4
+Estações e terminais de passageiros
+Classe 1
+F-5
+Teatros em geral, cinemas, óperas e
+similares
+Classe 2
+F-6
+Casas de show, casas noturnas,
+boates, restaurantes dançantes,
+salões de festa com palco e
+assemelhados
+Classe 2
+F-8
+Restaurantes, lanchonetes, bares,
+cafés, refeitórios, canƟnas e
+assemelhados
+Classe 1
+F-5
+Auditórios em geral, auditório de
+estúdios de rádio e televisão
+Classe 3
+F-7
+Pavilhões temporários
+Classe 3
+F-9
+Ediﬁcações permanentes de jardins
+zoológicos, parques recreaƟvos e
+assemelhados
+Classe 2
+F-10
+Exposição de automóveis
+Classe 3
+F-10
+Exposição de máquinas
+Classe 2
+F-10
+Exposição de móveis
+Classe 3
+F-11
+Clubes em geral, salões de festa
+(buﬀet) sem palco, clubes sociais,
+bilhares, Ɵro ao alvo, boliche e
+assemelhados
+Classe 2
+Serviço
+AutomoƟvo e
+Assemelhados
+G-1
+Estacionamentos automáƟcos e
+estacionamentos com manobristas
+Classe 1
+G-2
+Estacionamentos coleƟvos sem
+automação
+Classe 1
+G-5
+Hangares
+Classe 3
+G-3
+Postos de abastecimento e serviço
+Classe 1
+
+--- PÁGINA 8 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+8/9
+Ocupação/Uso
+Divisão
+Descrição
+Classiﬁcação
+G-4
+Oﬁcinas de conserto de veículos,
+borracharias (sem recauchutagem),
+oﬁcinas e garagem de veículos de
+carga e coleƟvos, máquinas agrícolas
+e rodoviárias, reƟﬁcadoras de
+motores
+Classe 1
+Serviço de
+Saúde e
+InsƟtucional
+H-2
+Asilos
+Classe 1
+H-6
+Consultórios médicos ou
+odontológicos
+Classe 1
+H-6
+Consultório de radiologia
+Classe 1
+H-6
+Estabelecimentos hidroterápicos
+Classe 1
+H-6
+Ambulatórios
+Classe 1
+H-1/ H-3
+Hospitais em geral
+Classe 1
+H-5
+Hospitais psiquiátricos, manicômios,
+e outros locais onde a liberdade das
+pessoas sofre restrições
+Classe 2
+H-4
+Quartéis e similares
+Classe 2
+Especial
+M-3
+Centrais hidroelétricas
+Classe 3
+M-3
+Centrais térmicas
+Classe 3
+M-3
+Central externa de aquecimento
+Classe 3
+M-3
+Central de processamento de dados
+Classe 3
+M-3
+Central telefônica
+Classe 3
+M-3
+Estação de transformadores
+Classe 3
+ 
+ 
+5. ALTERAR a ﬁgura 18 
+Onde se lê: 
+Figura 18 – Distância em linha reta de aberturas de extração para Ɵpo 3
+ 
+Leia-se:
+
+--- PÁGINA 9 ---
+04/01/2021
+SEI/GOVMG - 22401446 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26265414&infra_sist…
+9/9
+Figura 18 b – Distância em linha reta de aberturas de extração para Ɵpo 3
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:18, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22401446 e o
+código CRC 4924DD04.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22401446

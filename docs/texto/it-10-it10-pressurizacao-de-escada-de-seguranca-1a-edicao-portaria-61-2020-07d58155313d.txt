@@ -198,7 +198,7 @@ Figura 1– Trajetórias de escape do ar em paralelo
 b) no caso de trajetórias de escape do ar em paralelo, com as portas do ambiente conforme 
 Figura 1 acima, a área total de escape é determinada pela simples soma de todas as áreas de 
 escape envolvidas, então:  
-𝐴 total =  𝐴1+ 𝐴2+ 𝐴3 + 𝐴4 
+𝐴 total = 𝐴1+ 𝐴2+ 𝐴3 + 𝐴4 
  
 Figura 2– Trajetórias de escape do ar em série
 

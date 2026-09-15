@@ -1,0 +1,260 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 12448275 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14472288&infra…
+1/6
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 17 de março de 2020.
+  
+EMENDA CBMMG/DAT Nº. 1/2020
+Esta Emenda tem por objeƟvo promover alterações na Instrução Técnica 40 – 2ª Edição (Adequação de
+Medidas de Segurança para Ediﬁcações), conforme disposto a seguir:
+ 
+1. ALTERAR o item 5.2.1
+Onde se lê:
+5.2.1 A comprovação da existência ou construção da ediﬁcação ocorrerá através de documentos
+comprobatórios emiƟdos pela administração pública (processos no CBMMG, prefeituras, secretarias,
+empresas e/ou outros órgãos públicos, autarquias, etc.) ou cartórios (registro do imóvel, atas de
+condomínio, etc.), desde que informe a área construída e data da ediﬁcação.
+Leia-se:
+5.2.1 A comprovação da existência ou construção da ediﬁcação ocorrerá através de documentos
+comprobatórios emiƟdos pela administração pública (processos no CBMMG, prefeituras, secretarias,
+empresas e/ou outros órgãos públicos, autarquias, etc.) ou cartórios (registro do imóvel, atas de
+condomínio, etc.), desde que informe a área construída, ocupação e data da ediﬁcação.
+ 
+2. ACRESCENTAR o item 6.2.1.2
+6.2.1.2 A largura do acesso pode ser estreitada em até 15 cm por pilar ou coluna, desde que, o
+comprimento destes elementos não seja superior a 50 cm.
+ 
+3. ACRESCENTAR o item 6.6.2.1
+6.6.2.1 As unidades de passagem disponíveis citadas no item 6.6.2 não poderão ser fracionadas.
+ 
+4. ALTERAR o item 6.10.2
+Onde se lê:
+6.10.2 Em caso de impossibilidade técnica de execução da interrupção da prumada, adotar sinalização
+complementar no trajeto da rota de fuga (indicação conƟnuada) orientado a evacuação para o pavimento
+de descarga.
+Leia-se:
+6.10.2 Em caso de impossibilidade técnica de execução da interrupção da prumada, adotar sinalização
+complementar no trajeto da rota de fuga (indicação conƟnuada) orientando a evacuação para o
+pavimento de descarga.
+ 
+5. ALTERAR o item 6.12
+Onde se lê:
+
+--- PÁGINA 2 ---
+09/10/2020
+SEI/GOVMG - 12448275 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14472288&infra…
+2/6
+6.12 Adaptação de escada não enclausurada para escada à prova de fumaça
+6.12.1 Atendido o previsto em 6.10 deverá acrescentar as seguintes adaptações:
+a) adotar a medida “Brigada de Incêndio” conforme parâmetros da IT 12, exceto nas ocupações do Grupo
+A (Residencial);
+b) instalar antecâmaras venƟladas ou acesso por terraço, balcão, varanda ou assemelhado, com
+caracterísƟcas exigíveis para acesso à escada à prova de fumaça.
+6.12.2 Em caso de impossibilidade técnica de execução de antecâmaras venƟladas poderão ser adotados
+meios de controle de fumaça nos corredores de acesso à caixa de escada, nos moldes da IT 41 ou
+projeção de janelas abrindo para o espaço livre exterior idênƟcas às exigidas para escadas enclausuradas
+protegidas nos halls de todos os pavimentos.
+6.12.2.1 As janelas abrindo para o espaço livre exterior poderão atender aos critérios previstos na NBR
+vigente à época da comprovação de ediﬁcação construída ou existente, ou versão mais moderna da
+mesma NBR.
+6.12.3 Em caso de impossibilidade técnica de acesso por terraço, balcão, varanda ou assemelhado,
+deverá adotar o enclausuramento do hall de acesso à caixa de escada conforme item 6.14.
+6.12.4 Em complemento ao previsto em 6.12.2 ou 6.12.3, adotar as medidas “Sistema de Detecção de
+Incêndio” (exceto para Grupo A) e “Sistema de Alarme de Incêndio”.
+Leia-se:
+6.12 Adaptação de escada não enclausurada para escada à prova de fumaça
+6.12.1 Atendido o previsto em 6.10 deverá acrescentar as seguintes adaptações:
+a) adotar a medida “Brigada de Incêndio” conforme parâmetros da IT 12, exceto nas ocupações do Grupo
+A (Residencial);
+b) instalar antecâmaras venƟladas ou acesso por terraço, balcão, varanda ou assemelhado, com
+caracterísƟcas exigíveis para acesso à escada à prova de fumaça.
+6.12.2 Em caso de impossibilidade técnica de execução de antecâmaras venƟladas ou acesso por terraço,
+balcão, varanda ou assemelhado, poderão ser adotados meios de controle de fumaça nos corredores de
+acesso à escada, nos moldes da IT 41, ou janelas abrindo para o espaço livre exterior idênƟcas às exigidas
+para escadas enclausuradas protegidas nos halls de todos os pavimentos. 
+6.12.2.1 As janelas abrindo para o espaço livre exterior poderão atender aos critérios previstos na NBR
+vigente à época da comprovação de ediﬁcação construída ou existente, ou versão mais moderna da
+mesma NBR.
+6.12.3 Em complemento ao previsto em 6.12.2, adotar enclausuramento do hall de acesso à escada
+conforme item 6.14 e as medidas “Sistema de Detecção de Incêndio” (exceto para Grupo A), “Sistema de
+Alarme de Incêndio” e selagem de shaŌs, elevadores e dutos de instalações (apenas no hall de acesso à
+escada).
+ 
+6. ALTERAR o item 6.13
+Onde se lê:
+6.13 Adaptação de escada enclausurada para escada à prova de fumaça
+6.13.1 Atendido o previsto em 6.10 e a escada sendo enclausurada com porta corta-fogo P-60, no
+mínimo, deverá acrescentar as seguintes adaptações:
+a) adotar a medida “Brigada de Incêndio” conforme parâmetros da IT 12, exceto nas ocupações do Grupo
+A (Residencial);
+b) instalar antecâmaras venƟladas ou acesso por terraço, balcão, varanda ou assemelhado, com
+caracterísƟcas exigíveis para acesso à escada à prova de fumaça.
+
+--- PÁGINA 3 ---
+09/10/2020
+SEI/GOVMG - 12448275 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14472288&infra…
+3/6
+6.13.2 Em caso de impossibilidade técnica de execução de antecâmaras venƟladas poderão ser adotados
+meios de controle de fumaça nos corredores de acesso à caixa de escada, nos moldes da IT 41 ou
+projeção de janelas abrindo para o espaço livre exterior idênƟcas às exigidas para escadas enclausuradas
+protegidas nos halls de todos os pavimentos.
+6.13.2.1 As janelas abrindo para o espaço livre exterior poderão atender aos critérios previstos na NBR ou
+legislação municipal vigente à época de construção da ediﬁcação, ou versão atualizada.
+6.13.3 Em caso de impossibilidade técnica de acesso por terraço, balcão, varanda ou assemelhado,
+deverá adotar o enclausuramento do hall de acesso à caixa de escada conforme item 6.14.
+6.13.4 Em complemento ao previsto em 6.13.2 ou 6.13.3, adotar as medidas “Sistema de Detecção de
+Incêndio” (exceto para Grupo A), “Sistema de Alarme de Incêndio”, “Brigada de Incêndio”, selagem de
+shaŌs, elevadores e dutos de instalações (apenas no hall de acesso à escada).
+6.13.5 Caso a escada enclausurada for do Ɵpo deﬁnido na alínea “c” do item 5.3.4, adotar, também,
+exaustão natural no término superior da caixa de escada com área mínima de 1,0 m², combinada com
+venƟlação permanente inferior de 1,20 m².
+Leia-se:
+6.13 Adaptação de escada enclausurada para escada à prova de fumaça
+6.13.1 Atendido o previsto em 6.10 e a escada sendo enclausurada com porta corta-fogo P-60, no
+mínimo, deverá acrescentar as seguintes adaptações:
+a) adotar a medida “Brigada de Incêndio” conforme parâmetros da IT 12, exceto nas ocupações do Grupo
+A (Residencial); 
+b) instalar antecâmaras venƟladas ou acesso por terraço, balcão, varanda ou assemelhado, com
+caracterísƟcas exigíveis para acesso à escada à prova de fumaça.
+6.13.2 Em caso de impossibilidade técnica de execução de antecâmaras venƟladas ou acesso por terraço,
+balcão, varanda ou assemelhado, poderão ser adotados meios de controle de fumaça nos corredores de
+acesso à caixa de escada, nos moldes da IT 41, ou janelas abrindo para o espaço livre exterior idênƟcas às
+exigidas para escadas enclausuradas protegidas nos halls de todos os pavimentos.
+6.13.2.1 As janelas abrindo para o espaço livre exterior poderão atender aos critérios previstos na NBR ou
+legislação municipal vigente à época de construção da ediﬁcação, ou versão atualizada.
+6.13.3 Em complemento ao previsto em 6.13.2, adotar o enclausuramento do hall de acesso à caixa de
+escada conforme item 6.14  e as medidas “Sistema de Detecção de Incêndio” (exceto para Grupo A),
+“Sistema de Alarme de Incêndio”, e selagem de shaŌs, elevadores e dutos de instalações (apenas no hall
+de acesso à caixa de escada).
+6.13.4 Caso a escada enclausurada for do Ɵpo deﬁnido na alínea “c” do item 5.3.3, adotar, também,
+exaustão natural no término superior da caixa de escada com área mínima de 1,0 m², combinada com
+venƟlação permanente inferior de 1,20 m².
+ 
+7. ALTERAR o item 6.18.2.1
+Onde se lê:
+6.18.2.1 As declividades previstas nas alíneas “a” e “c” do item 6.18.2 não são permiƟdas para as rampas
+das ocupações das divisões E-5, E-6, F-2, F-3, F-5, F-6, H-2 e H-3.
+Leia-se:
+6.18.2.1 Para as rampas cuja rota de fuga se dê no senƟdo ascendente deverá ser feita redução de 25%
+no valor referente à Capacidade da Unidade de Passagem previsto em instrução técnica especíﬁca.
+ 
+8. ALTERAR o Anexo A
+
+--- PÁGINA 4 ---
+09/10/2020
+SEI/GOVMG - 12448275 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14472288&infra…
+4/6
+Onde se lê:
+ 
+ 
+ANEXO A
+Declaração de Comprovação de Existência/Construção
+ 
+DECLARAÇÃO DE COMPROVAÇÃO DE  EXISTÊNCIA/CONSTRUÇÃO
+EU,_______________________________________,CPF Nº________________, RG Nº
+________________________________, PROPRIETÁRIO DA EDIFICAÇÃO SITUADA À
+___________________________________BAIRRO_____________________, CIDADE
+DE ______________________________, MINAS GERAIS, E DEMAIS TESTEMUNHAS,
+DECLARAMOS, PARA FINS DE COMPROVAÇÃO JUNTO AO CBMMG, QUE NÃO HÁ
+DOCUMENTOS COMPROBATÓRIOS NA ADMINISTRAÇÃO PÚBLICA OU  CARTÓRIOS QUE
+COMPROVEM A DATA DA CONCLUSÃO DOS ELEMENTOS ESTRUTURAIS DA
+EDIFICAÇÃO.
+DESTA FORMA, NOS UTILIZAMOS DESTE INSTRUMENTO PARA DECLARAR A
+CONCLUSÃO DA CONSTRUÇÃO EM DATA ANTERIOR A__________ (DIA/MÊS/ANO) 
+COM A ÁREA TOTAL DE ___________ m².
+DECLARAMOS ESTAR CIENTES DA RESPONSABILIDADE PELA VERACIDADE
+DAS INFORMAÇÕES PRESTADAS, SOB PENA DE INCORRER NO ARTIGO 299¹ DA LEI
+2.848 DE 07 DE DEZEMBRO DE 1940 (CÓDIGO PENAL BRASILEIRO).
+CIDADE DE _____________, ___ DE ____________ DE 20_______
+ 
+PROPRIETÁRIO DA EDIFICAÇÃO
+______________________________________________
+TESTEMUNHA
+CPF:
+______________________________________________
+TESTEMUNHA
+CPF:
+_________________________
+1 Falsidade ideológica
+Art. 299 – Omitir, em documento público ou particular, declaração que dele devia constar,
+ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o
+fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente
+relevante:
+
+--- PÁGINA 5 ---
+09/10/2020
+SEI/GOVMG - 12448275 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14472288&infra…
+5/6
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um
+a três anos, e multa, se o documento é particular.
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se
+do cargo, ou se a falsificação ou alteração é de assentamento de registro civil, aumenta-se
+a pena de sexta parte.
+ 
+Leia-se:
+ANEXO A
+Declaração de Comprovação de Existência/Construção
+DECLARAÇÃO DE COMPROVAÇÃO DE EXISTÊNCIA/CONSTRUÇÃO
+EU,________________________________________,CPF Nº________________, RG Nº
+________________________________, PROPRIETÁRIO DA EDIFICAÇÃO SITUADA À
+___________________________________BAIRRO_____________________, CIDADE
+DE ______________________________, MINAS GERAIS, E DEMAIS TESTEMUNHAS,
+DECLARAMOS, PARA FINS DE COMPROVAÇÃO JUNTO AO CBMMG, QUE NÃO HÁ
+DOCUMENTOS COMPROBATÓRIOS NA ADMINISTRAÇÃO PÚBLICA OU
+CARTÓRIOS QUE COMPROVEM A DATA DA CONCLUSÃO DOS ELEMENTOS
+ESTRUTURAIS DA
+EDIFICAÇÃO.
+DESTA FORMA, NOS UTILIZAMOS DESTE INSTRUMENTO PARA DECLARAR A
+CONCLUSÃO DA CONSTRUÇÃO EM DATA ANTERIOR A __________ (DIA/MÊS/ANO)
+COM A OCUPAÇÃO ______________________ E A ÁREA TOTAL DE ___________ m².
+ 
+DECLARAMOS ESTAR CIENTES DA RESPONSABILIDADE PELA VERACIDADE
+DAS INFORMAÇÕES PRESTADAS, SOB PENA DE INCORRER NO ARTIGO 299¹ DA
+LEI 2.848 DE 07 DE DEZEMBRO DE 1940 (CÓDIGO PENAL BRASILEIRO).
+ 
+CIDADE DE ______________________, ___ DE ____________ DE 20_______
+______________________________________________
+PROPRIETÁRIO DA EDIFICAÇÃO
+______________________________________________
+TESTEMUNHA
+
+--- PÁGINA 6 ---
+09/10/2020
+SEI/GOVMG - 12448275 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14472288&infra…
+6/6
+CPF:
+______________________________________________
+TESTEMUNHA
+CPF:
+_________________________
+1 Falsidade ideológica
+Art. 299 – Omitir, em documento público ou particular, declaração que dele devia constar, ou
+nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de
+prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante:
+Pena – reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três
+anos, e multa, se o documento é particular.
+Parágrafo único – Se o agente é funcionário público, e comete o crime prevalecendo-se do
+cargo, ou se a falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena
+de sexta parte.
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 20/03/2020, às
+16:25, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 12448275
+e o código CRC BF50EFF7.
+Referência: Processo nº 1400.01.0016459/2020-51
+SEI nº 12448275

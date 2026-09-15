@@ -1,0 +1,81 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 12484330 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14513387&infra…
+1/1
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 18 de março de 2020.
+  
+ERRATA CBMMG/DAT Nº. 2/2020
+Esta Errata tem por objeƟvo promover a seguinte correção na Instrução Técnica 15 – 1ª Edição (Sinalização de Emergência):
+ 
+1. ALTERAR o item II - Sinalização Complementar do ANEXO B (SIMBOLOGIA PARA A SINALIZAÇÃO DE EMERGÊNCIA)
+ 
+Onde se lê:
+Código
+Símbolo
+Signiﬁcado
+Forma e cor
+Aplicação
+M1
+Ver ﬁgura1
+Indicação dos sistemas de proteção
+contra incêndio existentes na
+ediﬁcação.
+Símbolo: quadrado ou retangular
+Fundo: cor contrastante com a mensagem
+Pictograma: mensagem escrita referente aos sistemas
+de proteção contra incêndio existentes na ediﬁcação, o
+Ɵpo de estrutura e os telefones de emergência.
+Na entrada principal da ediﬁca
+M2
+ 
+ 
+Indicação da lotação máxima
+admiƟda no recinto de reunião de
+público.
+Símbolo: retangular Fundo:verde
+Pictograma: mensagem escrita “Lotação Máxima
+admiƟda: xx pessoas sentadas xy pessoas em pé”.
+Principais dos recintos de reunião d
+ 
+Leia-se:
+Código
+Símbolo
+Signiﬁcado
+Forma e cor
+Aplicação
+M1
+Ver ﬁgura1
+Indicação dos sistemas de proteção
+contra incêndio existentes na
+ediﬁcação.
+Símbolo: quadrado ou retangular
+Fundo: cor contrastante com a mensagem
+Pictograma: mensagem escrita referente aos sistemas
+de proteção contra incêndio existentes na ediﬁcação, o
+Ɵpo de estrutura e os telefones de emergência.
+Na entrada principal da ediﬁca
+M2
+ 
+ 
+Indicação da lotação máxima
+admiƟda no recinto de reunião de
+público.
+Símbolo: retangular Fundo:verde
+Pictograma: mensagem escrita “Lotação Máxima
+admiƟda: xx pessoas sentadas xy pessoas em pé”.
+Nas entradas principais dos recin
+reunião de público.
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 20/03/2020, às 16:26, conforme horário oﬁcial de Brasília, com fundamento
+no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 12484330 e o código CRC F966ABA5.
+Referência: Processo nº 1400.01.0016459/2020-51
+SEI nº 12484330

@@ -229,7 +229,7 @@ Os conceitos abaixo passam a ter a seguinte redação:
 Pânico: Susto ou pavor repentino, que provoca nas pessoas, reação desordenada, individual ou 
 coletiva, de propagação rápida; 
 Perícia técnica: Consiste no levantamento e apuração efetuado por profissional do CBMMG, 
-legalmente habilitado, para emissão de parecer técnico quanto aos sinistros e exigências de proteção  
+legalmente habilitado, para emissão de parecer técnico quanto aos sinistros e exigências de proteção 
 contra incêndio e pânico nas edificações, mediante exame circunstanciado e descrição minuciosa dos 
 elementos que o constituem, bem como das causas do desenvolvimento e conseqüências dos 
 incêndios, através do exame técnico das edificações, materiais e equipamentos, no local ou em 
@@ -239,7 +239,7 @@ tal, o local coberto, aberto em pelo menos duas faces opostas, cujo perímetro a
 mínimo, 70% do perímetro total. Também se inclui nesta categoria, o nível de transição das estruturas 
 da edificação, onde os pilares se encontram com os elementos de fundação ou onde os pilares mudam 
 de forma e ficam aparentes, em atendimento ao projeto arquitetônico.  
-Planta: Desenho onde estão situadas uma ou mais empresas, com uma única ou mais edificações.  
+Planta: Desenho onde estão situadas uma ou mais empresas, com uma única ou mais edificações. 
 O conceito porta corta-fogo passa a ter a seguinte redação suprimindo as definições anteriores para 
 este item. 
 Porta corta-fogo (PCF): Dispositivo construtivo (Conjunto de folha(s) de porta, marco e acessórios), 

@@ -1,0 +1,83 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 04 de agosto de 2026.
+  
+EMENDA CBMMG/DAT Nº. 4/2026
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 01 - 10ª Edição
+(Procedimentos Administrativos):
+ 
+1 ALTERAR a alínea ‘e’ do item 6.4.2, que passa a vigorar com a seguinte redação::
+ 
+e) quando houver acréscimo de risco especial, com exceção do disposto em 6.4.2.2, alíneas ‘c’, ‘g’ e ‘h’;
+ 
+2 ACRESCENTAR a alínea ‘h’ e ‘h.1’ no item 6.4.2.2:
+ 
+h) instalação de sistema de alimentação de veículos elétricos (SAVE) em edificações e espaços destinados
+ao uso coletivo com PSCIP aprovado até a data do início da vigência da 3ª Edição da IT 30, e naqueles
+com AVCB ou CLCB, devendo, contudo, ser atendidos os requisitos da IT 30;
+h.1) a inserção do(s) SAVE no bojo do PSCIP nestes casos, poderá ser realizada por meio de atualização
+de dados cadastrais, nos termos do item E.12.7, ou por substituição do PSCIP, a critério do proprietário ou
+responsável;
+h.2) a qualquer tempo, caso haja modificação de PSCIP por qualquer outro motivo, o(s) SAVE deverá(ão)
+ser contemplado(s) no projeto, ainda que tenha(m) sido inserido(s) anteriormente por meio de atualização
+de dados cadastrais.
+ 
+3 ALTERAR o item 6.7.1.1.1, que passa a vigorar com a seguinte redação:
+ 
+6.7.1.1.1 No caso do CLCB, o ato será prontamente anulado, caso seja constatado que a edificação ou
+espaço destinado ao uso coletivo possui qualquer característica que desconfigure sua classificação como
+PTD.
+ 
+4 REVOGAR os itens 10.1 e 10.1.1.
+ 
+5 ALTERAR o caput do item A.4.7, que passa a vigorar com a seguinte redação:
+ 
+A.4.7 As áreas de instalação de painéis fotovoltaicos deverão ser devidamente representadas em planta,
+não sendo, contudo, computadas como áreas construídas para fins de:
+ 
+6 ALTERAR a alínea 'b' do item B.2.4.2, que passa a vigorar com a seguinte redação:
+ 
+CBMMG - Emenda 4 (146010338)         SEI 1400.01.0047054/2026-20 / pg. 1
+
+--- PÁGINA 2 ---
+b) teste de estanqueidade da rede de gás (GLP/GN), acompanhado de laudo e respectivo documento de
+responsabilidade técnica;
+ 
+7 ACRESCENTAR a alínea ‘ac’ no item E.9.1:
+ 
+ac) sistemas de alimentação de veículos elétricos (SAVEs).
+ 
+8 ACRESCENTAR os itens E.12.7, E.12.7.1 e E.12.7.2:
+ 
+E.12.7 A adequação de edificações e espaços destinados ao uso coletivo com PSCIP aprovado até a data
+do início da vigência da 3ª Edição da IT 30, e daqueles com AVCB ou CLCB, quanto à instalação de
+Sistema de Alimentação de Veículos Elétricos (SAVE), ocorrerá mediante substituição do PSCIP ou,
+alternativamente, pela atualização de dados cadastrais, com a apresentação dos seguintes documentos:
+a) Memorial do Sistema de Alimentação de Veículos Elétricos (SAVE);
+b) Laudo de Conformidade do(s) Sistema(s) de Alimentação de Veículos Elétricos (SAVEs).
+E.12.7.1 Os documentos citados em E.12.7 podem ser emitidos por RT diferente do responsável pelo
+PSCIP aprovado, sem a necessidade de substituição de RT, desde que acompanhados de documento de
+responsabilidade técnica registrado junto ao respectivo conselho profissional.
+E.12.7.2 A atualização dos dados cadastrais de que trata o item E.12.7 poderá ocorrer:
+a) para edificações com PSCIP aprovado até a data do início da vigência da 3ª Edição da IT 30 e para
+aqueles com AVCB/CLCB, no prazo de um ano a contar da data de entrada em vigor da 3ª edição da IT
+30;
+b) sempre que houver o acréscimo de novo SAVE, podendo, neste caso, ser apresentado apenas o Laudo
+de Conformidade do(s) Sistema(s) de Alimentação de Veículos Elétricos (SAVEs), desde que não seja
+necessária a execução de novo projeto elétrico único da edificação.
+ 
+ 
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 11/08/2026, às
+15:23, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 146010338 e
+o código CRC 29D34BDA.
+Referência: Processo nº 1400.01.0047054/2026-20
+SEI nº 146010338
+CBMMG - Emenda 4 (146010338)         SEI 1400.01.0047054/2026-20 / pg. 2

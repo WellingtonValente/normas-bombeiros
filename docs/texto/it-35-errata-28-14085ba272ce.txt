@@ -1,0 +1,66 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22395450 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26258747&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 27 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 28/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 35 – 2ª
+Edição (Segurança Contra Incêndio em Ediﬁcações que compõem o Patrimônio Cultural):
+ 
+1. ALTERAR a alínea "h" do item 7.5.3
+Onde se lê: 
+"h) listagem e idenƟﬁcação em planta de risco das portas, janelas e vias de acesso, adequadas
+para serem uƟlizadas como “rota de reƟrada” do acervo, por pavimento."
+Leia-se:
+"k) listagem e idenƟﬁcação em planta de risco das portas, janelas e vias de acesso, adequadas
+para serem uƟlizadas como “rota de reƟrada” do acervo, por pavimento."
+ 
+2. ALTERAR a NOTA ESPECÍFICA 6 da Tabela 1 – Exigências para ediﬁcações com altura menor
+ou igual a 12 metros
+Onde se lê: 
+"(6) – Somente para ediﬁcações com área superior a 750 m²."
+ 
+Leia-se:
+"(6)– Somente para ediﬁcações com área superior a 930 m²."
+ 
+3. ALTERAR as NOTAS 1 e 2 da Tabela 4 – Fatores de risco associados à grandeza da carga
+incêndio (f2)
+Onde se lê: 
+"1) Para ﬁns de deﬁnição da carga de incêndio nas situações em que há uma aceitável
+uniformidade na sua distribuição espacial, a critério do Responsável Técnico poderá ser adotada as
+densidades de carga de incêndio constantes do Anexo A da IT09 (Carga de Incêndio nas Ediﬁcações e Áreas
+de risco);
+2) Quando a densidade de carga de incêndio não for uniformemente distribuída sobre a área
+de piso da ediﬁcação, esta deverá ser determinada por medição direta, segundo o método descrito no Anexo
+B da IT 09;"
+Leia-se:
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22395450 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26258747&infra_sist…
+2/2
+"1) Para ﬁns de deﬁnição da carga de incêndio nas situações em que há uma aceitável
+uniformidade na sua distribuição espacial, a critério do Responsável Técnico poderá ser adotada as
+densidades de carga de incêndio constantes do Anexo A da IT 09 (Carga de Incêndio nas Ediﬁcações e
+Espaços DesƟnados ao Uso ColeƟvo);
+2) Quando a densidade de carga de incêndio não for uniformemente distribuída sobre a área
+de piso da ediﬁcação, esta deverá ser determinada por medição direta, segundo o método descrito no Anexo
+C da IT 09;"
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:17, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22395450 e o
+código CRC 6BF71912.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22395450

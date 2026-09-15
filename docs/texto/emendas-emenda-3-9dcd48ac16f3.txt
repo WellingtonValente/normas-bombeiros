@@ -1,0 +1,902 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 31 de julho de 2026.
+  
+EMENDA CBMMG/DAT Nº. 3/2026
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 06 - 1ª Edição (Segurança Estrutural das Edificações):
+ 
+1. ATUALIZAR o item 3.1, que passa a vigorar com a seguinte redação:
+ 
+3.1 Legislação
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de Minas Gerais.
+Decreto 47998:2020 - Regulamenta a Lei nº 14.130, de 19 de dezembro de 2001.
+ 
+2. ATUALIZAR o item 3.2, que passa a vigorar com a seguinte redação:
+ 
+3.2 Normas
+NBR 5628 – Componentes construtivos estruturais – Ensaio de resistência ao fogo.
+NBR 6118 – Projeto de estruturas de concreto.
+NBR 6120 – Ações para o cálculo de estruturas de edificações.
+NBR 6479 – Portas e vedadores – Ensaio de resistência ao fogo.
+NBR 7190-1 – Projeto de estruturas de madeira – Critérios de dimensionamento.
+NBR 8681 – Ações e segurança nas estruturas – Procedimento.
+NBR 8800 – Projeto de estruturas de aço e de estruturas mistas de aço e concreto de edificações.
+NBR 9062 – Projeto e execução de estruturas de concreto pré-moldado.
+NBR 9077 – Saídas de emergência em edifícios.
+NBR 10636 – Componentes construtivos não estruturais - Ensaio de resistência ao fogo.
+NBR 11711 – Portas e vedadores resistentes ao fogo com núcleo de madeira para compartimentação em depósitos e indústrias — Requisitos.
+NBR 11742 – Porta corta-fogo para saída de emergência.
+NBR 13281/2023 – Argamassas inorgânicas — Requisitos e métodos de ensaios.
+NBR 14323 – Projeto de estruturas de aço e de estruturas mistas de aço e concreto de edifícios em situação de incêndio.
+NBR 14432/2001 – Exigência de resistência ao fogo de elementos de construção de edificações – Procedimento.
+NBR 14762/2010 – Dimensionamento de estruturas de aço constituídas por perfis formados a frio.
+NBR 15200/2024 – Projeto de estruturas de concreto em situação de incêndio.
+NBR 16945/2021 – Versão Corrigida 2022: Classificação da resistência ao fogo de elementos construtivos de edificações.
+NBR 16965/2021 – Versão Corrigida 2022: Ensaio de resistência ao fogo de elementos construtivos – Diretrizes gerais.
+Regulamentação de MARGARET LAW and TURLOGH O’BRIEN – “Fire Safety of Bare External Structure Steel”.
+ 
+3. ALTERAR os itens 5.3.1, 5.3.2 e 5.3.3, que passam a vigorar com a seguinte redação:
+ 
+5.3.1 Admite-se o uso do método do tempo equivalente de resistência ao fogo para a redução dos TRRF estabelecidos nesta instrução,
+conforme metodologia descrita no Anexo C.
+5.3.2 Fica limitada a redução de 30 (trinta) min dos valores dos TRRF constantes da Tabela A do Anexo A, desta IT.
+5.3.3 Na utilização do método do tempo equivalente, os TRRF resultantes dos cálculos não poderão ter valores inferiores a 15 (quinze)
+minutos.
+ 
+4. REVOGAR o item 5.3.5;
+ 
+5. ALTERAR o item A.2.3.2, que passa a vigorar com a seguinte redação:
+ 
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 1
+
+--- PÁGINA 2 ---
+A.2.3.2 Edificações térreas, quando atenderem um ou mais requisitos abaixo:
+a) forem providas de chuveiros automáticos com bicos do tipo resposta rápida, dimensionados conforme normas específicas;
+b) possuírem carga de incêndio específica menor ou igual a 500 MJ/m²;
+c) forem do Grupo I (industrial), com carga de incêndio específica menor ou igual a 1.200 MJ/m²;
+d) forem do Grupo J (depósito), com carga de incêndio específica menor ou igual a 1200 MJ/m².
+ 
+6. ACRESCENTAR o item A.2.3.2.1, com a seguinte redação:
+ 
+A.2.3.2.1 A isenção deste item não se aplica quando os elementos estruturais considerados forem essenciais à estabilidade de um elemento
+de compartimentação ou de isolamento de risco. Esses elementos estruturais devem ser dimensionados de forma a não entrarem em colapso
+caso ocorra a ruína da cobertura do edifício.
+ 
+7. ACRESCENTAR o item A.3 e subitens, com a seguinte redação:
+ 
+A.3 Definição do Tempo de Resistência ao fogo - TRF.
+A.3.1 O TRF de um elemento construtivo é o menor valor de tempo fornecido dentre os critérios avaliados, quais sejam, capacidade portante
+(R), integridade (E), isolação térmica (I), redução de radiação térmica (W) e ação mecânica (M).
+A.3.2 São critérios avaliados para definir o TRF de cada elemento a seguir:
+a) Elementos estruturais sem função de compartimentação (paredes, pisos, tetos, vigas, pilares, sacadas, passarelas e escadas): R.
+b) Elementos estruturais com função de compartimentação (paredes, pisos, tetos e pisos elevados): RE, REI, REI-M ou REW.
+c) Elementos de vedação verticais: EIM.
+d) Produtos e sistemas destinados à proteção de elementos estruturais e seus componentes: R, também podendo ser considerados E, I e W,
+desde que permitidos pelas especificações dos métodos de ensaio.
+e) Divisórias de forro, quando aplicadas como membranas protetoras, revestimentos, pranchas e fachadas devem possuir classificação igual
+ou superior à do elemento estrutural protegido.
+ 
+8. ALTERAR o Anexo B.
+ 
+9. ALTERAR o Anexo C.
+ 
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+ 
+ANEXO B (informativo)
+Tabelas de resistência ao fogo para alvenarias e sistemas estruturais
+B.1 As Tabelas B.1, B.2 e B.3 apresentam valores para referência de resistência ao fogo de materiais e sistemas construtivos.
+a ) Os valores foram extraídos das Fichas de Avaliação de Desempenho (FAD) publicadas pelo Programa Brasileiro da Qualidade e
+Produtividade do Habitat (PBQP-H), com emissão entre 2020 e 2025.
+Nota: No âmbito do PBQP-H, FAD (Ficha de Avaliação de Desempenho) é um documento técnico de avaliação de desempenho, contendo
+identificação do produto/sistema, configuração ensaiada, condições de ensaio e resultados de resistência ao fogo.
+b) As argamassas de assentamento e revestimento industrializadas utilizadas atenderam aos requisitos das normas ABNT NBR vigentes em
+sua publicação.
+B.2 Considerações gerais
+a) O Anexo B é exemplificativo e não abrange todas as configurações e materiais passíveis de uso.
+b) Outros materiais/sistemas não listados nas Tabelas deste Anexo podem ser considerados, desde que seu uso siga as normas técnicas
+específicas e os métodos de ensaio reconhecidos pelas legislações e normativas vigentes, independentemente de publicação na Biblioteca do
+PBQP-H, sem gerar exigência de detalhamento adicional ao CBMMG, permanecendo a responsabilidade técnica com os responsáveis pelo
+projeto e pela execução dos elementos.
+c) Para especificações completas, detalhes construtivos, condições de aplicação e limitações de uso, deverão ser consultadas as respectivas
+FADs na Biblioteca do Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H), ou relatórios de ensaio correspondentes,
+conforme o caso.
+d) O traço das argamassas deve ser determinado de acordo com as normas NBR 13281-1 (ABNT, 2023), que trata das argamassas para
+revestimento de paredes e tetos, e NBR 13281-2 (ABNT, 2023), que regulamenta as argamassas para assentamento e fixação de alvenaria.
+Essas normas estabelecem os requisitos e métodos de ensaio necessários para garantir a qualidade e o desempenho do material. O sistema
+completo deve ter sua resistência ao fogo testada segundo a versão mais atual da ABNT NBR 10636 e deve ser classificado segundo a
+ABNT NBR 16945:2021.
+e ) Parte das classificações deste Anexo B correspondem às apresentadas na ABNT NBR 10636:1989, nas quais os materiais são
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 2
+
+--- PÁGINA 3 ---
+categorizados em diferentes graus de corta-fogo e pára-chamas, de acordo com os critérios de estabilidade, estanqueidade e isolamento
+térmico. Isso ocorre, pois a indústria ainda se encontra em processo de adaptação à nova ABNT NBR 10636:2022 e à ABNT NBR
+16945:2021.
+B.3 Critérios de desempenho
+a) Capacidade Portante (R): Capacidade do elemento construtivo de manter sua função estrutural quando exposto ao fogo, suportando as
+cargas e solicitações a que está sujeito.
+b) Integridade (E): Capacidade do elemento construtivo em impedir a passagem de chamas e gases quentes para o lado não exposto ao fogo,
+através de fissuras, aberturas ou da própria estrutura do elemento.
+c) Isolação Térmica (I): Capacidade do elemento construtivo em reduzir a transferência de calor para o lado não exposto ao fogo. Este
+critério garante que a temperatura na face não exposta se mantenha abaixo de limites seguros.
+d) Ação Mecânica (M): Capacidade do elemento construtivo de resistir a impactos, além da exposição ao fogo, sem comprometer os outros
+critérios de desempenho.
+Tabela B.1 – Resistência ao fogo para alvenarias e sistemas estruturais
+Elemento
+Carga
+aplicada
+no
+ensaio
+Duração
+do
+ensaio
+(min)
+Tempo de atendimento aos critérios de avaliação (min)
+Resistência
+ao fogo no
+grau corta-
+fogo (min)
+(ABNT
+NBR
+10636:1989)
+Classificação
+(ABNT NBR
+16945:2021)
+FAD
+Nº
+Integridade
+(E)
+Capacidade
+Portante
+(R)
+Isolação
+térmica
+(I)
+Estanqueidade
+Estabilidade
+Parede
+estrutural de
+alvenaria de
+blocos
+cerâmicos de
+furo vertical
+(vedação
+vertical
+externa), 14 x
+19 x 29 cm.
+Revestimento
+de argamassa
+(2,5 cm) na
+face externa e
+de gesso (1 cm)
+na interna.
+100
+kN/m
+150
+150
+150
+150
+-
+-
+-
+REI-150
+62
+Parede
+estrutural em
+alvenaria de
+blocos
+cerâmicos
+(vedação
+interna e
+externa),
+19 x 19 x 29
+cm.
+Revestimento
+de gesso (1 cm)
+em ambas as
+faces.
+10 tf/m
+120
+120
+-
+120
+120
+-
+120
+-
+48
+Parede
+estrutural em
+alvenaria de
+blocos de
+concreto
+(Classe B), 14
+x 19 x 39 cm.
+Revestimento
+de argamassa
+(2,5 cm) na
+face exposta ao
+fogo.
+10 tf/m
+120
+-
+-
+101
+120
+120
+90
+-
+33
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 3
+
+--- PÁGINA 4 ---
+Parede
+estrutural em
+alvenaria de
+blocos de
+concreto
+(Classe B -
+vedação
+estrutural
+interna), 14 x
+19 x 39 cm.
+Revestimento
+de gesso (0,5
+cm) em ambas
+as faces.
+10 tf/m
+120
+-
+-
+120
+120
+120
+120
+-
+34
+Parede
+estrutural em
+alvenaria de
+blocos de
+concreto
+(Classe B -
+vedação
+estrutural
+externa ou
+interna), 14 x
+19 x 39 cm.
+Revestimento
+de argamassa
+(1,5 cm) em
+ambas as faces.
+10 tf/m
+120
+-
+-
+107
+120
+120
+90
+-
+39
+Parede
+estrutural em
+alvenaria de
+blocos
+cerâmicos de
+11,5 x 19 x 39
+cm.
+Revestimento
+de argamassa
+(2,5 cm) na
+face externa e
+de gesso (1,0
+cm) na interna.
+1 tf/m
+60
+60
+-
+60
+60
+-
+60
+-
+45
+Sistema
+estrutural de
+paredes
+moldadas in
+loco de
+concreto
+reforçado com
+fibras (CRF) de
+poliamida
+(600g/m³) e de
+vidro
+(6000g/m³).
+Espessura da
+parede de 100
+mm.
+Resistência à
+compressão do
+concreto (fck)
+de 25MPa.
+Densidade do
+CRF de
+2400kg/m.
+9,07
+tf/m
+75
+-
+60
+75
+75
+-
+60
+-
+55
+Rev01
+ 
+ 
+Tabela B.1 – Resistência ao fogo para alvenarias e sistemas estruturais (CONTINUAÇÃO)
+Elemento
+Carga
+aplicada
+no
+ensaio
+Duração
+do
+ensaio
+(min)
+Tempo de atendimento aos critérios de avaliação (min)
+Resistência
+ao fogo no
+grau corta-
+fogo (min)
+(ABNT
+NBR
+10636:1989)
+Classificação
+(ABNT NBR
+16945:2021)
+FAD
+Nº
+ 
+Integridade
+(E)
+Capacidade
+Portante
+(R)
+Isolação
+térmica
+(I)
+Estanqueidade
+Estabilidade
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 4
+
+--- PÁGINA 5 ---
+Sistema de
+vedação
+vertical em
+painéis pré-
+fabricados de
+light steel
+frame
+formados por
+quadros de
+perfis
+estruturais de
+aço zincado
+conformado a
+frio (perfis
+leves de aço)
+de 0,8 mm,
+chapas de
+OSB em
+ambas as faces
+de 11,1 mm,
+chapas
+cimentícias na
+face externa e
+chapas de
+gesso para
+drywall
+standard de
+12,5 mm na
+face interna
+das paredes de
+áreas secas e
+molháveis e
+chapas de
+gesso para
+drywall
+resistente à
+umidade (RU)
+de 12,5 mm na
+face interna
+das paredes.
+1,5 tf/m
+30
+30
+30
+30
+-
+-
+-
+REI-30
+70
+Sistema
+construtivo de
+paredes em
+light steel
+framing (LSF)
+com função
+estrutural, com
+fechamento
+interno em
+chapa de gesso
+para drywall e
+fechamento
+externo em
+chapa
+cimentícia ou
+chapa de gesso
+reforçada com
+véu de fibra de
+vidro, com
+revestimento
+externo
+Basecoat
+(conforme
+configuração
+ensaiada).
+0,6 tf/m
+30
+30
+30
+30
+-
+-
+-
+REI-30
+72
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 5
+
+--- PÁGINA 6 ---
+Sistema de
+vedação
+vertical
+interna e
+externa em
+light wood
+frame,
+estruturado em
+peças de
+madeira
+maciça serrada
+com
+fechamento
+em chapas
+cimentícias,
+chapas de
+OSB e chapas
+de gesso para
+drywall, com
+função
+estrutural.
+Madeira de
+pinus
+autoclavado,
+290 kg/m³ e
+núcleo sem
+preenchimento
+com espessura
+de 90 mm.
+0,79
+tf/m
+30
+30
+30
+30
+-
+-
+-
+REI-30
+69
+ 
+ 
+Tabela B.2 – Resistência ao fogo para alvenarias de vedação
+Elemento
+Duração
+do
+ensaio
+(min)
+Tempo de atendimento aos critérios de avaliação (min)
+Resistência
+ao fogo no
+grau corta-
+fogo (min)
+(ABNT
+NBR
+10636:1989)
+Classificação
+(ABNT NBR
+16945:2021)
+FAD
+Nº
+Integridade
+(E)
+Isolação
+térmica
+(I)
+Ação
+mecânica
+(M)
+Estanqueidade
+Estabilidade
+Parede de vedação em
+alvenaria de blocos
+cerâmicos de furo horizontal
+(vedação vertical externa),
+11,5 x 19 x 29 cm.
+Revestimento de argamassa
+(2,5 cm) na face externa e de
+gesso (1 cm) na interna.
+150
+150
+120
+150
+-
+-
+-
+EI-M-120 e
+EM-150
+63
+Parede de vedação em
+alvenaria de blocos
+cerâmicos (Classe EST40 -
+vedação vertical interna -
+geminação), 14 x 19 x 39
+cm.
+Revestimento de argamassa
+(2,5 cm) em ambas as faces.
+240
+240
+223
+-
+240
+-
+180
+-
+31
+Parede de vedação em
+alvenaria de blocos de
+concreto (Classe C),
+14 x 19 x 39 cm.
+Revestimento de argamassa
+(1,5 cm) na face exposta ao
+fogo.
+120
+-
+106
+-
+120
+120
+90
+-
+38
+Parede de vedação em
+alvenaria de blocos
+cerâmicos (Classe EST40 -
+vedação vertical interna e
+externa), 14 x 19 x 39 cm.
+Revestimento de gesso (1
+cm) em ambas as faces.
+120
+120
+90
+-
+120
+-
+90
+-
+36
+Parede de vedação em
+alvenaria de blocos
+cerâmicos (Classe EST40 -
+vedação vertical interna e
+externa), 19 x 19 x 39 cm.
+Revestimento de gesso (1
+cm) em uma das faces.
+180
+180
+165
+-
+180
+-
+120
+-
+40
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 6
+
+--- PÁGINA 7 ---
+Parede de vedação em
+alvenaria de blocos
+cerâmicos (Classe EST 40 -
+vedação vertical interna e
+externa), 11,5 x 19 x 39 cm.
+Revestimento de argamassa
+(2 cm) na face externa e de
+gesso (1,5 cm) na interna.
+170
+120
+111
+-
+120
+-
+90
+-
+44
+Parede de vedação em
+alvenaria de blocos
+cerâmicos (VED15 - vedação
+vertical interna e externa), 14
+x 19 x 29 cm.
+Revestimento de gesso (0,5
+cm) em ambas as faces.
+120
+120
+90
+-
+120
+-
+90
+-
+43
+Parede de vedação em
+alvenaria de blocos de
+concreto celular autoclavado,
+10 x 30 x 60 cm (Classe C25
+– NBR 13.438:2021).
+Sem revestimentos.
+240
+240
+240
+180
+-
+-
+-
+EI-M-180 e
+EI-240
+64
+Nota: Conforme estabelecido pela ABNT NBR 16945:2021, o aumento da espessura das paredes e do revestimento aumenta a sua
+resistência ao fogo. Dessa forma, pode-se inferir que, ao ampliar a espessura ou o revestimento de uma parede, sua nova classificação é
+igual ou superior à anterior.
+ 
+ 
+Tabela B.3 – Resistência ao fogo para sistemas de vedação vertical interna (SVVI) em chapas de gesso para drywall.
+Estrutura
+dos
+montantes
+Tipologia
+do
+montante
+Altura máxima
+da parede (m)
+Montante
+simples
+Distância eixo a eixo
+entre montantes (mm)
+Quantidade total
+chapas de gesso
+Espessura das
+chapas de gesso
+(mm)
+Resistência ao fogo (min)
+(ABNT NBR 10636:1989)
+FAD
+Nº
+Chapa de
+gesso ST ou
+RU
+Chapa de
+gesso RF
+Estrutura
+Simples
+48
+2,50
+600
+2
+12,5
+CF30
+CF30
+30
+2,50
+15,0
+CF30
+CF60
+2,70
+400
+12,5
+CF30
+CF30
+2,70
+15,0
+CF30
+CF60
+2,90
+600
+4
+12,5
+CF60
+CF60
+3,00
+15,0
+CF60
+CF120
+3,20
+400
+12,5
+CF60
+CF60
+3,30
+15,0
+CF60
+CF120
+70
+3,00
+600
+2
+12,5
+CF30
+CF30
+3,00
+15,0
+CF30
+CF60
+3,30
+400
+12,5
+CF30
+CF30
+3,30
+15,0
+CF30
+CF60
+3,70
+600
+4
+12,5
+CF60
+CF90
+3,80
+15,0
+CF60
+CF120
+4,10
+400
+12,5
+CF60
+CF90
+4,20
+15,0
+CF60
+CF120
+Dupla
+Estrutura
+48
+4,90
+600
+5
+12,5
+CF60
+CF60
+5,50
+400
+70
+4,90
+600
+6
+15,0
+CF60
+CF120
+5,50
+400
+Notas:
+1. Para a determinação da altura máxima da parede, utilizou-se como referência a Instrução Técnica nº 08/2019 – Segurança Estrutural
+Contra Incêndio, do Corpo de Bombeiros, do Estado de São Paulo.
+2. O ensaio de verificação da resistência ao fogo é realizado conforme a norma ABNT NBR 10636, definindo a resistência ao fogo, no grau
+corta-fogo.
+3. Os resultados obtidos para resistência ao fogo pelos sistemas avaliados podem ser adotados como referência para os outros sistemas
+detalhados na FAD 30, considerando-se que:
+a) A alteração da tipologia da chapa de gesso ST (standard) para RU (resistente à umidade) ou RF (resistente ao fogo), desde
+que apresentem, ao menos, a espessura da chapa do SVVI ensaiado, não reduz o desempenho final do SVVI. No entanto, se o sistema foi
+avaliado com a chapa RF (resistente ao fogo), o resultado é válido somente para esta tipologia de chapa de gesso;
+b) O desempenho de um SVVI com menor espaçamento entre montantes, maior largura de montantes e com maior
+quantidade de chapas de gesso da mesma tipologia e espessura será, ao menos, igual ao desempenho do SVVI ensaiado;
+c)A instalação de material isolante não altera o desempenho final do SVVI.
+ 
+ 
+ANEXO C (normativo)
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 7
+
+--- PÁGINA 8 ---
+Método do tempo equivalente de resistência ao fogo
+O tempo equivalente a ser determinado de acordo com a formulação abaixo não poderá ter valores menores de TRRF conforme o
+especificado no item 5.3 desta instrução técnica:
+teq=0,07·W·qfi,k·γn·γs
+Nota: Se qfi,k·γn·γs≤300 MJ/m², adotar qfi,k·γn·γs=300 MJ/m².
+ 
+Onde:
+teq – tempo equivalente (minutos).
+qfi,k – carga de incêndio (MJ/m²).
+W – fator que considera a influência da ventilação e da altura do compartimento, conforme a seguinte equação:
+W=(6/H)
+0,3·[0,62+90·(0,4-Av/Af)
+4] ≥ 0,5 , para Av/Af ≤ 0,3
+Nota: Limites de aplicação para a equação de W: 0,025 ≤ Av/Af ≤ 0,30.
+Onde Av é a área de ventilação vertical para o ambiente externo do compartimento, admitindo que os vidros das janelas se quebrarão durante
+um incêndio, Af é a área do piso do compartimento, e H é a altura do compartimento, isto é, a distância do piso ao teto, expresso em metros
+(m).
+γn=γn1·γn2·γn3 – coeficiente adimensional que leva em conta a presença de medidas de proteção ativa da edificação, determinado conforme a
+Tabela C.1.
+Tabela C.1 - Fatores das medidas de segurança contra incêndio
+Valores de ϓn1ϓn2ϓn3
+Existência de chuveiros automáticos
+ϓn1
+Brigada contra incêndio
+ϓn2
+Existência de detecção automática
+ϓn3
+0,60
+0,90
+0,90
+Na ausência de algum meio de proteção indicado na tabela C.1, deve ser adotado o respectivo γn igual a 1.
+γs=γs1·γs2 – coeficiente de segurança que depende do risco de incêndio e das consequências do colapso da edificação, determinado conforme
+Tabela C.2.
+ 
+Tabela C.2 - Risco de ativação
+Valores de ϓs1
+γs1=1+Af+(hp+3)/10
+5
+ 
+Onde Af é a área do piso do compartimento analisado, expresso em metros quadrados (m²) e hp é a altura da edificação, conforme definido pelo
+Anexo E da Instrução Técnica nº 01.
+Valores de gs2
+Risco de ativação do incêndio
+Exemplos de ocupação
+0,85
+Pequena
+biblioteca, correio, escola, galeria de arte, igreja, museu, livraria, frigorífico, escritório,
+venda de acessórios de automóveis, depósitos em geral
+1,0
+Normal
+cinema, consultório médico, farmácia, hotel, hospital, laboratório fotográfico, indústria
+de papel, oficina elétrica ou mecânica, residência, restaurante, teatro, depósitos de:
+produtos farmacêuticos, bebidas alcoólicas
+1,2
+Média
+Montagem de automóveis, hangar, indústria mecânica
+1,5
+Alta
+Laboratório químico, oficina de pintura de automóveis
+Nota: O valor de TRRF poderá ser substituído se:
+· teq ≤ TRRF - 30 min→ o valor do TRRF pode ser reduzido para TRRF - 30 min, mas nunca inferior a 15 min;
+· TRRF - 30 min < teq ≤ TRRF→ o valor do TRRF pode ser substituído pelo teq;
+· teq > TRRF→ o valor do TRRF não pode ser reduzido e nem necessita ser aumentado.
+ 
+ 
+ 
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 11/08/2026, às 15:32, conforme horário oficial de
+Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017 .
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 8
+
+--- PÁGINA 9 ---
+A autenticidade deste documento pode ser conferida no site http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 145724477 e o código CRC FED7B9C8.
+Referência: Processo nº 1400.01.0037380/2026-94
+SEI nº 145724477
+CBMMG - Emenda 3 (145724477)         SEI 1400.01.0037380/2026-94 / pg. 9

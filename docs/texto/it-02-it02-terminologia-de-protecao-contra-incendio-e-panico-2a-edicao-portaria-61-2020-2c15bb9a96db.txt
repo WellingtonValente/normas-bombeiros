@@ -549,11 +549,11 @@ compartimentado à divisão do lote, ao eixo da rua ou a uma linha imaginária e
 ou áreas compartimentadas do mesmo lote, medida perpendicularmente à face exposta da 
 edificação.  
 4.141 Distância máxima a ser percorrida: Distância máxima real, em metros, a ser percorrida 
-pelo operador, do ponto de fixação do extintor a qualquer ponto da área protegida por ele.  
+pelo operador, do ponto de fixação do extintor a qualquer ponto da área protegida por ele. 
 4.142 Distância máxima horizontal de caminhamento: Afastamento máximo a ser percorrido 
 pelo usuário para alcançar um acesso.  
 4.143 Distância mínima de segurança: Afastamento mínimo entre a área de armazenamento de 
-recipientes transportáveis de gás liquefeito de petróleo (GLP) e outra instalação necessária para  
+recipientes transportáveis de gás liquefeito de petróleo (GLP) e outra instalação necessária para 
 a segurança do usuário, do manipulador, de edificação e do público em geral, estabelecida a partir 
 do limite de área de armazenamento.  
 4.144 Distribuição de GNL a granel: Compreende as atividades de aquisição ou recepção, 
@@ -1214,7 +1214,7 @@ edificação.
 detalhar o projeto do sistema de hidrantes e mangotinhos de uma edificação, desde a concepção 
 até a sua implantação e manutenção. É composto de parte descritiva, cálculos, ábacos e tabelas.  
 4.337 Mezanino: Estrutura que subdivide parcialmente um pavimento em dois pisos, sendo 
-considerado pavimento a estrutura que possuir área superior à metade da área do pavimento  
+considerado pavimento a estrutura que possuir área superior à metade da área do pavimento 
 subdividido ou superior a 200m².
 
 --- PÁGINA 27 ---
@@ -1619,7 +1619,7 @@ dimensionamento das saídas de emergências.
 4.457 Rolagem: Movimento do helicóptero de um ponto para outro, realizado na superfície ou 
 pouco acima desta, conforme o tipo de trem de pouso do helicóptero.  
 4.458 Rota de fuga: Trajeto que deve ser percorrido pelos ocupantes da edificação a partir de 
-qualquer ponto, de qualquer pavimento, até um local seguro completamente livre dos efeitos de  
+qualquer ponto, de qualquer pavimento, até um local seguro completamente livre dos efeitos de 
 um incêndio. 
 4.459 Rota de Retirada de Acervo: Caminho destinado para retirada de acervos de edificações. 
 4.460 Saída de emergência: Caminho contínuo, devidamente protegido e sinalizado, 

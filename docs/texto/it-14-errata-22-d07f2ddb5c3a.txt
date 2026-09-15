@@ -1,0 +1,156 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22362890 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26221881&infra_sist…
+1/4
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 27 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 22/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 14 – 2ª
+Edição (Sistemas de detecção e alarme de incêndio):
+ 
+1. ALTERAR o item 1.2
+Onde se lê: 
+"1.2 Adequar ao texto da NBR 17240 – Sistema de detecção e alarme de incêndio – Projeto,
+instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio, para aplicação na
+análise e vistoria dos Processos de Segurança Contra Incêndio e Pânico (PSCIP) submeƟdos ao Corpo de
+Bombeiros Militar do Estado de Minas Gerais (CBMMG), atendendo ao previsto no Regulamento de
+Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"1.2 Adequar ao texto da NBR 17240 – Sistema de detecção e alarme de incêndio – Projeto,
+instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio, para aplicação na
+análise e vistoria dos Processos de Segurança Contra Incêndio e Pânico (PSCIP) submeƟdos ao Corpo de
+Bombeiros Militar do Estado de Minas Gerais (CBMMG), atendendo ao previsto no Regulamento de
+Segurança Contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 2.1
+Onde se lê: 
+"2.1 Esta Instrução Técnica (IT) se aplica a todas as ediﬁcações onde se exigem os sistemas de
+detecção e alarme de incêndio, conforme Regulamento de Segurança Contra Incêndio e Pânico nas
+ediﬁcações e áreas de risco do Estado de Minas Gerais."
+Leia-se:
+"2.1 Esta Instrução Técnica (IT) aplica-se a todas as ediﬁcações onde se exigem os sistemas de
+detecção e alarme de incêndio, conforme previsão da legislação de segurança contra incêndio e pânico do
+Estado de Minas Gerais."
+ 
+3. ALTERAR o item 4
+Onde se lê: 
+"4 DEFINIÇÕES'
+Para os efeitos desta Instrução são adotadas as deﬁnições da NBR 17240, do Regulamento de
+Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco no Estado de Minas Gerais e da IT 02
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22362890 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26221881&infra_sist…
+2/4
+(Terminologia de Proteção Contra Incêndio e Pânico)."
+Leia-se:
+"4 DEFINIÇÕES
+Para os efeitos desta Instrução são adotadas as deﬁnições da NBR 17240, do Regulamento de
+Segurança Contra Incêndio e Pânico do Estado de Minas Gerais e da IT 02 (Terminologia de Proteção Contra
+Incêndio e Pânico)."
+ 
+4. ALTERAR o item 5.2
+Onde se lê: 
+"5.2 Os detalhes para execução gráﬁca do Processo de Segurança Contra Incêndio e Pânico
+devem atender aos procedimentos exigidos pelo Corpo de Bombeiros (CBMMG), conforme IT 03 (Símbolos
+Gráﬁcos para Projeto de Segurança Contra Incêndio)."
+Leia-se:
+"5.2 Os detalhes para execução gráﬁca do Processo de Segurança Contra Incêndio e Pânico
+devem atender aos procedimentos exigidos pelo Corpo de Bombeiros (CBMMG), conforme IT 03
+(Composição do Processo de Segurança Contra Incêndio e Pânico)."
+ 
+5. ALTERAR o item 5.7.3
+Onde se lê: 
+"5.7.3 Nos locais de reunião de público, divisão F-6 (Boates, salões de baile, restaurantes
+dançantes e casas de show) onde se tem alta intensidade sonora, será obrigatória também a instalação de
+avisadores visuais, quando houver a exigência de sistema de Alarme de Incêndio."
+Leia-se:
+"5.7.3 Nos locais de reunião de público, divisão F-6 (Casas de show, casas noturnas, boates,
+restaurantes dançantes, salões de festa com palco e assemelhados) onde se tem alta intensidade sonora,
+será obrigatória também a instalação de avisadores visuais, quando houver a exigência de sistema de Alarme
+de Incêndio."
+ 
+6. ALTERAR o item 5.19
+Onde se lê: 
+"5.19 É admiƟda a uƟlização do sistema de detecção e alarme de incêndio com o uso de
+disposiƟvos por radiofrequência e sem uƟlização de ﬁação analógica, para aplicação nas ediﬁcações e demais
+áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"5.19 É admiƟda a uƟlização do sistema de detecção e alarme de incêndio com o uso de
+disposiƟvos por radiofrequência e sem uƟlização de ﬁação analógica, para aplicação nas ediﬁcações do
+Estado de Minas Gerais."
+ 
+7. ALTERAR o item 5.19.1
+Onde se lê:
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 22362890 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26221881&infra_sist…
+3/4
+"5.19.1 Para o disposiƟvo anterior, poderá ser observado o disposto na NFPA 72 em seu
+Capítulo VI ou outra (s) literatura (s) internacional (is) cienơﬁca (s) perƟnente (s) consagrada (s), desde que
+atenda ao disposiƟvo proposto, para ﬁns de uƟlização do sistema referenciado, além do conƟdo nesta
+Instrução, no que for perƟnente e demais normas correlatas constantes no Regulamento de Segurança
+Contra Incêndio e Pânico para as Ediﬁcações e Áreas de Risco no Estado de Minas Gerais."
+Leia-se:
+"5.19.1 Para o disposiƟvo anterior, poderá ser observado o disposto na NFPA 72 em seu
+Capítulo VI ou outra(s) literatura(s) internacional(is) cienơﬁca(s) perƟnente(s) consagrada(s), desde que
+atenda ao disposiƟvo proposto, para ﬁns de uƟlização do sistema referenciado, além do conƟdo nesta
+Instrução, no que for perƟnente e demais normas correlatas constantes no Regulamento de Segurança
+Contra Incêndio e Pânico para as ediﬁcações e espaços desƟnados ao uso coleƟvo no Estado de Minas
+Gerais."
+ 
+8. ALTERAR o item 5.19.2
+Onde se lê: 
+"5.19.2 Devem ser emiƟdo o Laudo Técnico e a respecƟva Anotação de Responsabilidade
+Técnica – ART, assinados pelo Responsável Técnico pela empresa que detém a responsabilidade técnica pelo
+sistema de detecção e alarme de incêndio com o uso de disposiƟvo por radiofrequência e sem uƟlização de
+ﬁação analógica, de forma a respaldar a eﬁciência do sistema referenciado frente a possíveis situações que
+possam inviabilizar o seu funcionamento, a exemplo ações de eletroímãs e interferências causadas por
+outros disposiƟvos por radiofrequência."
+Leia-se:
+"5.19.2 Devem ser emiƟdo o Laudo Técnico e o respecƟvo documento de Responsabilidade
+Técnica, assinados pelo Responsável Técnico pela empresa que detém a responsabilidade técnica pelo
+sistema de detecção e alarme de incêndio com o uso de disposiƟvo por radiofrequência e sem uƟlização de
+ﬁação analógica, de forma a respaldar a eﬁciência do sistema referenciado frente a possíveis situações que
+possam inviabilizar o seu funcionamento, a exemplo ações de eletroímãs e interferências causadas por
+outros disposiƟvos por radiofrequência."
+ 
+9. ALTERAR o item 5.20
+Onde se lê: 
+"5.20 Quando da apresentação do PSCIP deverá constar descrição do Sistema Detecção e
+Alarme de Incêndio com as seguintes informações:
+a) Ɵpo de sistema de detecção e alarme;
+b) fonte de alimentação e autonomia;
+c) esquema de ligação e idenƟﬁcação dos disposiƟvos (isométrico);
+d) especiﬁcação dos equipamentos e caracterísƟcas;
+e) quanƟdade, Ɵpo de detectores e parâmetro para escolha, conforme item 5.15;
+f) número de acionadores manuais;
+g) interligação com outros sistemas prevenƟvos."
+Leia-se:
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 22362890 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26221881&infra_sist…
+4/4
+"5.20 Quando da apresentação do PSCIP, deverá constar descrição do Sistema de Detecção e
+Alarme de Incêndio com as informações previstas no item A.10 da IT 03."
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:13, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22362890 e o
+código CRC 568C82E6.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22362890

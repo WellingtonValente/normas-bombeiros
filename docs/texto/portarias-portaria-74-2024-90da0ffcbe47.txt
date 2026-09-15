@@ -1,0 +1,74 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+ PORTARIA Nº 74, DE __ DE FEVEREIRO DE 2024
+                                             
+Estabelece procedimentos a serem adotados quanto à compartimentação vertical das
+edificações e aprova a emenda nº 1/2024, que altera a IT 07/1ª edição, e a emenda nº 2/2024,
+que altera a IT 03/2ª edição.
+ 
+O CORONEL BM COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR DE
+MINAS GERAIS, no uso das atribuições que lhe são conferidas pelo art. 6º e § 1º do art. 12, ambos da
+Lei Complementar nº 54, de 13 de dezembro de 1999, e considerando: 
+I - que ao longo dos anos, varandas, sacadas e balcões das edificações residenciais vêm tendo sua forma
+de utilização alterada, tornando-se uma extensão dos ambientes internos, inclusive com possibilidade de
+fechamento total. Com isso, o que antes era um espaço ventilado e livre do risco de incêndio, passou a ser
+um local com existência de material combustível e fontes de ignição, como rede/tela de proteção, cortinas,
+sofás, poltronas, mesas e cadeiras, churrasqueiras, aparelhos eletroeletrônicos, dentre outros;
+II - que durante o processo de mudança na utilização desses espaços, alguns analistas e vistoriadores ainda
+adotavam a interpretação, com base no item 5.2.2.1, alínea ‘c’, da IT 07, de que as varandas, sacadas e
+balcões poderiam ser considerados como prolongamento do entrepiso (aba horizontal), e, portanto,
+amoldando-se ao exigido para compartimentação vertical na envoltória da edificação; 
+III - que foi realizado pela Diretoria de Atividades Técnicas teste no simulador PyroSim, obtendo-se
+resultado que corrobora o incremento de risco na propagação vertical do incêndio decorrente das novas
+formas de utilização das varandas, sacadas e balcões;
+IV - o disposto no Decreto Estadual 47.998, Art. 9º, § 6º, em que as medidas de segurança contra incêndio
+e pânico somente deverão ser executadas após a aprovação do PSCIP;
+V - o disposto no Decreto Estadual 47.998, Art. 33, em que, na ausência de normas, omissão de regras
+gerais e específicas, impossibilidade técnica do cumprimento das exigências e em casos especiais, será
+designado corpo técnico do CBMMG para analisar e emitir parecer;
+VI - o disposto no Decreto Estadual 47.998, Art. 25, § 2º, inciso V, em que caberá ao profissional
+habilitado toda a responsabilidade técnica e civil pelo projeto por ele elaborado, ou pelas obras e
+instalações por ele executadas, devendo assumir a responsabilidade por sinistro, acidente ou dano
+decorrente de falha técnica de projeto ou de execução, dentro de sua esfera de responsabilidade;
+VII - a necessidade de atualização da legislação de prevenção contra incêndio e pânico, visando
+acompanhar o desenvolvimento da sociedade mineira.
+ 
+RESOLVE: 
+Art. 1º - Aprovar a EMENDA CBMMG/DAT Nº. 01/2024, que altera a Instrução Técnica 07 – 1ª Edição
+(Compartimentação Horizontal e Compartimentação Vertical), acrescentando a alínea g) ao item 5.2.2.1,
+acrescentando os itens 5.2.2.1.2, 5.2.2.1.2.1, 5.2.2.1.2.2 e 5.2.2.1.2.3, ajustando as Figuras 2 e 3 do Anexo
+- A, e acrescentando as Figuras 3.a e 5 ao Anexo - A, que estará disponível para acesso no sítio eletrônico
+https://www.bombeiros.mg.gov.br/normastecnicas.
+Portaria 74 (67174528)         SEI 1400.01.0031592/2023-15 / pg. 1
+
+--- PÁGINA 2 ---
+Art. 2º - Aprovar a EMENDA CBMMG/DAT Nº. 02/2024, que altera a Instrução Técnica 03 - 2ª Edição
+(Composição do Processo de Segurança Contra Incêndio e Pânico - PSCIP), acrescentando os itens A.4.2 e
+C.2.6, e acrescentando o Anexo E.6.9, que estará disponível para acesso no sítio eletrônico
+https://www.bombeiros.mg.gov.br/normastecnicas.
+Art. 3º - Os PSCIP que já se encontrem aprovados até a data de publicação desta Portaria, e se encontrem
+dentro do seu período de validade, com a medida Compartimentação Vertical, permanecerão com seu
+direito de aprovação, independente da interpretação adotada em relação ao item 5.2.2.1, alínea ‘c’, da IT
+07, atendidas as demais exigências da referida Instrução Técnica.
+Parágrafo único - Casos especiais e de impossibilidade técnica poderão ser submetidos à apreciação de
+Corpo Técnico, devendo, para tanto, ser comprovada a eficácia da compartimentação vertical por meio de
+estudos técnicos, cálculos ou ensaios, podendo-se fazer uso de softwares computacionais, mediante
+apresentação de laudo e documento de responsabilidade técnica.
+Art. 4º - Esta Portaria entra em vigor na data de sua publicação.
+ 
+ 
+Erlon Dias do Nascimento Botelho, Coronel BM
+Comandante-Geral
+ 
+Documento assinado eletronicamente por Erlon Dias do Nascimento Botelho, Comandante-Geral do
+Corpo de Bombeiros Militar de Minas Gerais, em 29/02/2024, às 14:05, conforme horário oficial de
+Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017 .
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 67174528 e o
+código CRC 163B859E.
+Referência: Processo nº 1400.01.0031592/2023-15
+SEI nº 67174528
+Portaria 74 (67174528)         SEI 1400.01.0031592/2023-15 / pg. 2

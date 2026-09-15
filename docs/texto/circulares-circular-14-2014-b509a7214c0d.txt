@@ -1,0 +1,69 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+Circular nº 14/2014 – DAT 
+Dispõe sobre a apresentação de modificação 
+de projetos que já possuem cadastro no 
+INFOSCIP. 
+O Coronel BM Diretor de Atividades Técnicas, no uso de suas atribuições 
+regulamentares previstas no inciso I, Artigo 6º da Resolução 169/2005, que trata da 
+competência e estrutura da Diretoria de Atividades Técnicas, combinado com o 
+disposto no inciso III, Artigo 2º da Lei 14.130/2001, que dispõe sobre a prevenção 
+contra incêndio e pânico no Estado de Minas Gerais, 
+ 
+CONSIDERANDO, a necessidade de transferir a tramitação dos projetos em papel 
+para a forma digital com o intuito de facilitar a consulta e a tramitação de Processos 
+de Segurança Contra Incêndio e Pânico (PSCIP), dar maior agilidade, encurtar 
+prazos de análise e vistoria e avançar para a próxima etapa da informatização do 
+Serviço de Segurança Contra Incêndio e Pânico do CBMMG; 
+ 
+RESOLVE: 
+1. Os projetos em status “Em Análise (incluindo Reconsideração de Ato, 
+Recurso 1º/2º e Corpo Técnico)”, “Aprovados em análise”, “AVCB” ou 
+“AVCB vencido” que possuam documentação em papel (documentos e 
+plantas impressas) e registro digital no INFOSCIP, quando da modificação 
+de projeto devem apresentar a documentação somente no sistema 
+INFOSCIP, orientado pelo previsto na Circular 23/2013 - DAT. Independente 
+de ser “substituição parcial” ou “substituição total” deverá ser apresentado
+
+--- PÁGINA 2 ---
+apenas um único arquivo DWG contemplando todas as plantas (tanto do 
+pavimento/área de risco modificado quanto os demais pavimentos/área de 
+risco onde não houve modificação, ou seja, toda a edificação), bem como a 
+reapresentação de todos os documentos (memoriais, declaração de 
+existência, quadros resumos, ARTs, etc.). 
+2. Deverá ser informado no campo “Descrição da Modificação” (botão Modificar 
+Projeto) que o processo que está sendo substituído possui pastas físicas, 
+com a seguinte frase: “ESTE PSCIP POSSUI PASTAS FÍSICAS”. A 
+descrição das modificações no projeto deverá ser redigida também no 
+mesmo campo. 
+3. Deverão ser reapresentados todos os documentos necessários à análise do 
+processo (cálculo de saída de emergência, quadro resumos, memoriais 
+diversos, etc.). A ART poderá ser a imagem (escaneada) da ART 
+apresentada no processo anterior aprovado desde que não haja mudança de 
+Responsável Técnico. Os demais documentos complementares não 
+precisam ser imagem (escaneados). Devem apenas conter os mesmos 
+dados técnicos apresentados no processo anterior aprovado, salvo as 
+alterações que provocaram a substituição. 
+4. Não é necessária a apresentação das plantas físicas aprovadas e 
+documentos do processo anterior. 
+5. Os processos que tenham status “AVCB” ou “AVCB VENCIDO” deverão 
+reapresentar os memoriais e ART da vistoria anterior (ART de execução 
+escaneada, laudos, etc.) no momento da inserção das plantas a fim de 
+tornar mais ágil o novo pedido vistoria. Caso as modificações propostas 
+ensejem modificação nos laudos ou ART de execução, deverão ser 
+apresentados novos laudos e ART. 
+6. Os processos que não possuem nenhum trâmite no INFOSCIP não estão 
+sujeitos a esta Circular. Estes terão a respectiva apresentação mantida na 
+forma física (plantas e documentos impressos) e não na forma digital 
+(INFOSCIP).
+
+--- PÁGINA 3 ---
+Esta circular entra em vigor na data de sua publicação, ficando revogadas as 
+disposições contrárias. 
+ 
+Belo Horizonte, 17 de outubro de 2014. 
+ 
+ 
+ 
+SEBASTIÃO CARLOS FERNANDES REIS, CORONEL BM 
+DIRETOR DE ATIVIDADES TÉCNICAS

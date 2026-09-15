@@ -1,0 +1,79 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22587424 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26472391&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 02 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 32/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 11 – 1ª
+Edição (Plano de intervenção de incêndio):
+ 
+1. ALTERAR o item 2
+Onde se lê: 
+"2 APLICAÇÃO
+Esta Instrução Técnica aplica-se às ediﬁcações e áreas de risco onde, de acordo com as tabelas
+de exigências do Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco no
+Estado de Minas Gerais é necessária a elaboração de um Plano de Intervenção de Incêndio."
+Leia-se:
+"2 APLICAÇÃO
+Esta Instrução Técnica aplica-se às ediﬁcações e espaços desƟnado ao uso coleƟvo onde, de
+acordo com a legislação de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais, é necessária a
+elaboração de um Plano de Intervenção de Incêndio."
+ 
+2. ALTERAR o item 5.2.4
+Onde se lê: 
+"5.2.4 Em conjunto com a planilha de levantamento de dados da ediﬁcação deve ser
+apresentada uma Planta de Risco, cujo modelo encontra-se na IT 01 (Procedimentos AdministraƟvos)."
+Leia-se:
+"5.2.4 Em conjunto com a planilha de levantamento de dados da ediﬁcação, deve ser
+apresentada uma Planta de Risco, cujo modelo encontra-se no Anexo E.8 da IT 03 (Composição do Processo
+de Segurança Contra Incêndio e Pânico)."
+ 
+3. ALTERAR o item 5.2.4.1
+Onde se lê: 
+"5.2.4.1 A Planta de Risco acima citada é a mesma elaborada no processo de segurança contra
+incêndio e pânico, aprovado no Corpo de Bombeiros."
+Leia-se:
+"5.2.4.1 A Planta de Risco acima citada é a mesma elaborada no processo de segurança contra
+incêndio e pânico, aprovado no Corpo de Bombeiros, devendo possuir as informações indicadas no item
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22587424 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26472391&infra_sist…
+2/2
+C.6.3.1 da IT 03."
+ 
+4. ALTERAR o item 5.2.4.2
+Onde se lê: 
+"5.2.4.2 A Planta de Risco deve ser elaborada no formato A-2, A-3 ou A-4, em escala
+padronizada, podendo ser em mais de uma folha, indicando:
+a) Principais riscos;
+b) paredes corta-fogo e de comparƟmentação;
+c) hidrantes internos e externos;
+d) número de pavimentos;
+e) hidrante de recalque;
+f) reserva de incêndio;
+g) armazenamento de produtos perigosos, Ɵpo e quanƟdade;
+h) vias de acesso às Viaturas do Corpo de Bombeiros;
+i) hidrantes públicos próximos da ediﬁcação (se houver);
+j) acrescentar Ɵpo de escada.
+Leia-se:
+"5.2.4.2 A Planta de Risco a ser aﬁxada na ediﬁcação deve ser elaborada no formato A0, A1,
+A2, A3 ou A4, em escala padronizada, podendo ser em mais de uma folha/ prancha."
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:20, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22587424 e o
+código CRC 1041AE99.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22587424

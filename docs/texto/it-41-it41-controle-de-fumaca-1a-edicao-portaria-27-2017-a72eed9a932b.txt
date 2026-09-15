@@ -5812,7 +5812,7 @@ PUBLICADA NO DOEMG Nº 80, ANO 125, PÁGINA 25.
 a equação 5: 
 𝒛𝟏= 𝟎, 𝟏𝟔𝟔× 𝑸𝒄
 𝟐𝟓
-⁄  
+⁄ 
  
 Onde: 
  
@@ -6765,7 +6765,7 @@ Equação 5 – Altura da chama
  
 𝒛𝟏= 𝟎, 𝟏𝟔𝟔× 𝑸𝒄
 𝟐𝟓
-⁄  , onde: 
+⁄ , onde: 
  
 z1= limite de elevação da chama (m) 
 Qc= porção convectiva da taxa de liberação de calor (kW) 

@@ -1,0 +1,239 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais​
+Diretoria de Atividades Técnicas
+ 
+Parecer n° 01/2024 - CBMMG/DAT                                                                                                             
+     
+Belo Horizonte, 20 de dezembro de 2024.
+  
+PARECER NORMATIVO Nº 01/2024 - CBMMG/DAT
+ 
+ASSUNTO: 
+REGULARIZAÇÃO 
+DE 
+GALPÕES 
+QUE 
+COMPARTILHAM/VINCULAM
+ELEMENTOS ESTRUTURAIS
+ 
+1 MOTIVAÇÃO
+Tem aportado nesta Diretoria de Atividades Técnicas questionamentos a respeito de galpões que
+compartilham elementos estruturais, considerando que o item 6.1.3.1 da IT 01/10ª edição exige o
+licenciamento em PSCIP único, existindo histórico de edificações situadas em lotes distintos licenciadas
+separadamente, mesmo havendo o compartilhamento.
+ 
+2 REFERÊNCIAS LEGAIS E NORMATIVAS
+2.1 Lei 14.130 de 19 de dezembro de 2001.
+2.2 Decreto 47.998 de 01 de julho de 2020.
+2.3 Instrução Técnica (IT) 01 (10ª edição) - Procedimentos Administrativos.
+2.4 Instrução Técnica (IT) 01 (9ª edição) - Procedimentos Administrativos.
+2.5 Instrução Técnica (IT) 01 (8ª edição) - Procedimentos Administrativos.
+2.6 Instrução Técnica (IT) 02 (2ª edição) - Terminologia de Proteção Contra Incêndio e Pânico.
+2.7 Instrução Técnica (IT) 05 - Separação entre Edificações.
+2.8 Instrução Técnica (IT) 06 - Segurança Estrutural das Edificações.
+2.9 ABNT NBR 14432:2001 - Exigências de resistência ao fogo de elementos construtivos de edificações
+- Procedimento.
+2.10 ABNT NBR 14323:2013 - Projeto de estruturas de aço e de estruturas mistas de aço e concreto de
+edifícios em situação de incêndio.
+          
+3 CONSIDERAÇÕES
+3.1 A IT 06 estabelece condições a serem atendidas pelos elementos estruturais e de compartimentação
+das edificações, para evitar que, em situação de incêndio, a estrutura venha a colapsar antes que sejam
+tomadas providências relativas à evacuação e combate a incêndio.
+3.1.1 Essa Instrução Técnica, no entanto, não estabelece nenhum parâmetro específico para os projetos de
+edificações que compartilhem elementos estruturais ou possuam suas estruturas vinculadas, sendo que o
+próprio conceito de elemento estrutural não consta na IT 06, mas no item 4.175 da IT 02.
+Parecer n° 01/2024 (104339228)         SEI 1400.01.0063264/2024-20 / pg. 1
+
+--- PÁGINA 2 ---
+Instrução Técnica 02/10ª edição - Terminologia de Proteção Contra Incêndio e
+Pânico
+4.175 Elemento estrutural: Todo e qualquer elemento de construção do qual
+dependa a resistência e a estabilidade total ou parcial da edificação.
+ 
+3.2 Definições similares para o termo "elemento estrutural" podem ser observadas em algumas das NBRs
+de referência citadas no item 3 da IT 06, como a ABNT NBR 14432 e a ABNT NBR 14323:
+ 
+ABNT NBR 14432:2001 - Exigências de resistência ao fogo de elementos
+construtivos de edificações - Procedimento
+3.11 elemento estrutural: Todo e qualquer elemento construtivo do qual dependa a
+resistência e a estabilidade total ou parcial da edificação.
+ 
+ABNT NBR 14323:2013 - Projeto de estruturas de aço e de estruturas mistas
+de aço e concreto de edifícios em situação de incêndio
+3 . 2 elementos estruturais: elementos com capacidade de resistir a esforços
+solicitantes e que fazem parte da estrutura, incluindo o contraventamento.
+ 
+3.3 O item 6.1.3.1 da IT 01/9ª edição, vigente até 30/08/2023, assim estabelecia, ipsis litteris:
+ 
+Instrução Técnica 01/ 9ª edição - Procedimentos Administrativos
+6.1.3.1 Havendo qualquer tipo de comunicação (interligação por área coberta)
+entre edificações, compartilhamento e/ou vinculação de elementos estruturais, será
+necessária a apresentação de PSCIP único, ainda que as edificações estejam
+situadas em propriedades (lote/terreno) distintas. (grifo nosso)
+ 
+3.4 O texto supracitado encontra-se claramente expresso nas normas do CBMMG desde a publicação da
+Portaria nº 61, de 28 de dezembro de 2020, que aprovou a 9ª edição da IT 01, a qual passou a ter validade
+a partir de 1º de janeiro de 2021. A redação do mesmo item 6.1.3.1 na 10ª edição da IT 01 traz equivalente
+exigência, adicionando-se um maior detalhamento sobre situações que configuram a comunicação entre
+edificações.
+ 
+Instrução Técnica 01/10ª edição - Procedimentos Administrativos
+6.1.3.1 Havendo qualquer tipo de comunicação (interligação por área
+coberta, aberturas de ventilação, janelas, etc.) entre edificações, compartilhamento
+e/ou vinculação de elementos estruturais, será necessária a apresentação de PSCIP
+único, ainda que as edificações estejam situadas em propriedades (lote/terreno)
+distintas.
+6.1.3.1.1 Configura-se comunicação entre edificações:
+a) interligação por área coberta, exceto quando se enquadrarem no item 6.1.6 da
+IT 05;
+b) rotas de fuga compartilhadas;
+c) aberturas de ventilação ou janelas nas áreas cobertas das edificações;
+d) edificações contíguas em que não haja vedação (TRRF conforme IT 06) entre si. 
+ 
+3.5 Observa-se que nenhuma das edições da IT 01, citadas anteriormente, apresentou definição específica
+Parecer n° 01/2024 (104339228)         SEI 1400.01.0063264/2024-20 / pg. 2
+
+--- PÁGINA 3 ---
+do que seria o compartilhamento ou a vinculação de elementos estruturais.
+3.5.1 Considerando as definições de elemento estrutural estabelecidas em normas, conclui-se que quando
+os elementos de construção, que formam a estrutura e influenciam na resistência e na estabilidade de uma
+edificação/galpão (pilares, vigas, lajes, alvenarias estruturais, contraventamentos, etc.), forem partilhados
+com a edificação (galpão) vizinha, ou seja, pertencem conjuntamente às duas partes, havendo associação
+entre esses elementos, o licenciamento deverá ocorrer em um único PSCIP.  
+3.5.2 Não deverão ser considerados os compartilhamentos de estruturas responsáveis por transmitir as
+cargas das construções ao solo (fundação ou alicerce).
+ 
+3.6 Anteriormente à publicação da portaria nº 61 de 28dez2020, que estabeleceu de forma taxativa essa
+previsão na 9ª edição da IT 01, havia divergência, por parte de responsáveis técnicos e também de
+bombeiros militares, no entendimento do que configuraria situação de obrigatoriedade de regularização
+dos galpões por meio de um único PSCIP. Dessa forma, foram surgindo situações em que galpões com
+elementos estruturais compartilhados eram aceitos em projetos distintos, enquanto em outros casos eram
+obrigados a se regularizar conjuntamente, pois a IT 01/ 8ª edição, aprovada pela portaria n.31, de
+19set2017, exigia a apresentação de PSCIP único somente quando as edificações eram interligadas por
+escadas ou outras passagens:
+ 
+Instrução Técnica 01/8ª edição - Procedimentos Administrativos
+6.2.2.3 Quando houver ligação entre as edificações por meio de escada ou outras
+passagens será necessária à apresentação de PSCIP único.
+  
+3.7 É importante destacar que há, na IT 01, definição de medidas de segurança para todos os tipos de
+edificação, de acordo com parâmetros a serem considerados em cada projeto, dentre eles, a área, a altura e
+a ocupação de cada construção. Nesse contexto, observa-se que o item 6.2.2.3 da IT 01/ 8ª edição e o item
+6.1.3.1 das edições mais recentes da IT 01 estabelecem critérios para garantir que as medidas projetadas
+sejam proporcionais aos riscos existentes e às áreas a serem protegidas nas edificações e espaços
+destinados ao uso coletivo.
+3.7.1 Com essa finalidade, esses itens definem parâmetros para assegurar que sejam regularizadas por
+meio de um único PSCIP as edificações que estejam interligadas, e que, devido a determinadas
+características construtivas, sejam afetadas como uma única área de risco em situações de incêndio ou
+pânico.
+3.7.2 Exceção se faz no item 6.1.3.2, em que há a possibilidade de apresentação de PSCIPs independentes
+para uma mesma edificação, sendo demandadas, contudo, algumas condições que buscam garantir a
+segurança das diferentes partes do imóvel, exigindo-se inclusive medidas de segurança em função da área
+total da edificação.
+ 
+Instrução Técnica 01/10ª edição - Procedimentos Administrativos
+6.1.3.2 Será permitida a apresentação de PSCIPs independentes para uma mesma
+edificação, desde que sejam atendidas simultaneamente as seguintes condições:
+a) cada parte da edificação possua saídas independentes e não estejam
+posicionadas uma sobre a outra;
+b) haja separação por paredes com resistência ao fogo conforme Tabela A da IT
+06, e sem aberturas;
+b.1) a parede de compartimentação deve ultrapassar um metro (1,0 m) acima dos
+telhados ou das coberturas dos riscos;
+b.2) a resistência da parede deverá seguir o parâmetro mais rigoroso dentre as
+ocupações que a compartilham;
+c) cada parte da edificação possua as medidas de segurança previstas para a área
+total da edificação.
+Parecer n° 01/2024 (104339228)         SEI 1400.01.0063264/2024-20 / pg. 3
+
+--- PÁGINA 4 ---
+3.8 No que concerne à análise da possibilidade de se isolar os riscos entre duas edificações, é interessante
+destacar que, no caso de edificações contíguas (geminadas), a IT 05 prevê o isolamento por meio de
+parede corta-fogo, porém exige que a estrutura desta parede deve ser desvinculada das estruturas das
+edificações adjacentes. Tal situação expõe mais uma vez preocupação da norma relacionada ao
+compartilhamento ou à vinculação de elementos estruturais. 
+ 
+Instrução Técnica 05/1ª edição - Separação Entre Edificações (Isolamento de
+Risco)
+6.1.5.4 A estrutura da parede corta-fogo deve ser desvinculada da estrutura das
+edificações adjacentes (incluindo lajes e telhados ou qualquer outro elemento
+estrutural).
+ 
+3.9 Ainda em relação à preocupação com compartilhamento ou vinculação de estruturas, é válido observar
+o disposto nos itens 6 e 10 da ABNT NBR 14432:2001, in verbis:
+ 
+ABNT NBR 14432:2001 - Exigências de resistência ao fogo de elementos
+construtivos de edificações - Procedimento
+6 Elementos estruturais livres da ação do incêndio
+6.1 Os elementos estruturais podem ser construídos sem a resistência ao fogo
+exigida nesta Norma, desde que se demonstre que estejam livres da ação do
+incêndio.
+6.2 O elemento estrutural situado no exterior do edifício pode ser considerado livre
+da ação do incêndio, quando o seu afastamento das aberturas existentes na fachada
+for suficiente para garantir que a sua elevação de temperatura não o conduzirá ao
+colapso.
+6.3 O elemento estrutural confinado está livre da ação do incêndio, desde que o
+confinamento tenha resistência ao fogo pelo menos igual à que seria exigida para o
+elemento.
+(...)
+10 Elementos estruturais de cobertura
+10.1 Os elementos estruturais de cobertura, cujo colapso não comprometa a
+estabilidade da estrutura principal, a critério do responsável técnico pelo projeto
+estrutural, estão isentos de requisitos de resistência ao fogo. A isenção não se
+aplica a coberturas que tenham função de piso, mesmo que seja apenas para saída
+de emergência.
+10.2 Entende-se por elementos estruturais de cobertura exclusivamente aquelas
+peças estruturais que têm por função básica suportá-la, tais como tesouras, vigas
+de cobertura, terças, etc., além das lajes e contraventamentos no plano da
+cobertura, não incluindo outros elementos tais como pilares e contraventamentos
+verticais.
+ 
+4 PARECER
+4.1 Do exposto, constata-se que, nos casos de incêndio em duas edificações que compartilham/vinculam
+elementos estruturais, os efeitos de um incêndio podem comprometer a resistência e a estabilidade de
+ambas.
+4.1.1 Assim sendo, faz-se necessária a regularização por meio de um único PSCIP, ainda que as
+edificações estejam em lotes ou propriedades distintas, conforme passou a ser exigido a partir de
+01jan2021, quando entrou em vigência a redação do item 6.1.3 da IT 01/9ª edição, dada pela portaria nº
+61, de 28dez2020.
+Parecer n° 01/2024 (104339228)         SEI 1400.01.0063264/2024-20 / pg. 4
+
+--- PÁGINA 5 ---
+4.1.2 Ficam ressalvadas as possibilidades previstas na própria IT 01 (10ª edição), para apresentação de
+processos separados.
+4.2 As edificações que possuam elementos estruturais compartilhados/vinculados, mas que foram
+licenciadas junto ao CBMMG ou que possuam PSCIP aprovado (válido) antes da vigência da portaria
+61/2020, por meio de projetos independentes, poderão permanecer com projetos distintos.
+ 
+ 
+ 
+Gabriel Patrocínio de Andrade, Maj BM
+Chefe da Divisão de Pesquisa - DAT/2
+Evandro Maroni Mascarenhas, Cap BM
+Chefe da Adjuntoria de Normalização - DAT/2
+ 
+ 
+( x ) Homologo
+ 
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+ 
+ 
+Documento assinado eletronicamente por Evandro Maroni Mascarenhas, Capitão, em 20/12/2024, às
+12:20, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+Documento assinado eletronicamente por Gabriel Patrocinio de Andrade, Major, em 20/12/2024, às
+12:21, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 20/12/2024, às
+15:26, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 104339228 e
+o código CRC 24430E82.
+Referência: Processo nº 1400.01.0063264/2024-20
+SEI nº 104339228
+Parecer n° 01/2024 (104339228)         SEI 1400.01.0063264/2024-20 / pg. 5

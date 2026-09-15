@@ -1,0 +1,825 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22197938 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26034209&infra_sist…
+1/5
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 24 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 18/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 06 – 1ªEdição (Segurança Estrutural das
+Ediﬁcações):
+ 
+1. ALTERAR o item 1 
+Onde se lê: 
+"1 OBJETIVO 
+Esta Instrução Técnica estabelece as condições a serem atendidas pelos elementos estruturais e de comparƟmentação que
+integram as ediﬁcações para que, em situação de incêndio, seja evitado o colapso estrutural por tempo suﬁciente para possibilitar o
+atendimento das prescrições conƟdas nas disposições preliminares do Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e
+áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"1 OBJETIVO 
+Esta Instrução Técnica estabelece as condições a serem atendidas pelos elementos estruturais e de comparƟmentação que
+integram as ediﬁcações para que, em situação de incêndio, seja evitado o colapso estrutural por tempo suﬁciente para possibilitar o
+atendimento das prescrições conƟdas nas disposições preliminares do Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas
+Gerais."
+ 
+2. ALTERAR o item 2.1
+Onde se lê: 
+"2.1 Esta Instrução Técnica se aplica a todas as ediﬁcações e áreas de risco onde for exigida a segurança estrutural contra
+incêndio, conforme exigências do Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco no Estado de Minas
+Gerais."
+Leia-se:
+"2.1 Esta Instrução Técnica aplica-se a todas as ediﬁcações onde for exigida a segurança estrutural contra incêndio, conforme
+previsão da legislação de Segurança contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+3. ALTERAR a alínea "b" do item 5.3.4 
+Onde se lê: 
+"b) ediﬁcações de divisões M-1 (túneis); M-2 (parques de tanques) e M-3 (centrais de comunicação e energia);"
+Leia-se:
+"b) ediﬁcações de divisões M-1 (Túnel); M-2 (Líquido ou gás inﬂamável ou combusơvel) e M-3 (Central de comunicação e
+energia);"
+ 
+4. ALTERAR o item 5.3.5
+Onde se lê: 
+"5.3.5 No dimensionamento desse método, adotar módulos de no máximo 500 m² de área de piso. Módulos maiores podem ser
+uƟlizados, quando o espaço analisado possuir caracterísƟcas construƟvas e cargas de incêndio uniformes. Será considerado o TRRF de maior
+valor obƟdo (observar item 5.15 desta IT, quando se tratar de ocupação mista)."
+Leia-se:
+"5.3.5 No dimensionamento desse método, adotar módulos de no máximo 1000 m² de área de piso. Módulos maiores podem ser
+uƟlizados, quando o espaço analisado possuir caracterísƟcas construƟvas e cargas de incêndio uniformes. Será considerado o TRRF de maior
+valor obƟdo (observar item 5.15 desta IT, quando se tratar de ocupação mista)."
+ 
+5. ALTERAR a alínea "e" do item 5.18
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22197938 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26034209&infra_sist…
+2/5
+Onde se lê: 
+"e) termo de Responsabilidade Técnica pela execução do projeto de segurança da estrutura em situação de incêndio."
+Leia-se:
+"e) declaração de Responsabilidade Técnica pela execução do projeto de segurança estrutural."
+ 
+6. ALTERAR o item A1 do Anexo A
+Onde se lê: 
+"A1 Os tempos entre parênteses podem ser usados em subsolo nos quais a área bruta de cada pavimento seja menor ou igual a
+500 m² e em ediﬁcações nas quais cada pavimento acima do solo tenha área menor ou igual a 750 m²."
+Leia-se:
+"A.1 Os tempos entre parênteses podem ser usados em subsolo nos quais a área bruta de cada pavimento seja menor ou igual a
+500 m² e em ediﬁcações nas quais cada pavimento acima do solo tenha área menor ou igual a 930 m²."
+ 
+7. ALTERAR a alínea ''c" do item A2.2 do Anexo A
+Onde se lê: 
+"c) às ediﬁcações do grupo L (explosivos) e das divisões M-1 (túneis); M-2 (parques de tanques) e M3 (centrais de comunicação e
+energia)."
+Leia-se:
+"c) às ediﬁcações do grupo L (explosivos) e das divisões M-1 (Túnel); M-2 (Líquido ou gás inﬂamável ou combusơvel) e M-3
+(Central de comunicação e energia);"
+ 
+8. ALTERAR o item A2.3.1 do Anexo A
+Onde se lê: 
+"A2.3.1 Ediﬁcações de classe P1 e P2 com área menor ou igual a 750 m²."
+Leia-se:
+"A.2.3.1 Ediﬁcações de classe P1 e P2 com área menor ou igual a 930 m²."
+ 
+9. ALTERAR o item A2.3.5 do Anexo A
+Onde se lê: 
+"A2.3.5 Os mezaninos que apresentem área inferior a 750 m² cuja estrutura não dependa da estrutura principal do ediİcio."
+Leia-se:
+"A.2.3.5 Os mezaninos cuja estrutura não dependa da estrutura principal do ediİcio."
+ 
+10. ALTERAR a Tabela A – Tempos requeridos de resistência ao fogo (TRRF) 
+Onde se lê: 
+Tabela A – Tempos requeridos de resistência ao fogo (TRRF)
+Para a classiﬁcação detalhada das ocupações (grupo e divisão) consultar Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e
+áreas de risco no Estado de Minas Gerais.
+Grupo
+Ocupação/Uso
+Divisão
+Profundidade do
+Subsolo h
+Altura da ediﬁcação h
+Classe
+S2h
+>10m
+Classe S1h
+≤10m
+Ediﬁcação Baixa
+Ediﬁcação Média Altura
+Medianamente
+Alta
+Alta
+Classe
+P1
+h
+≤6m
+Classe P2
+6m <h ≤12m
+ClasseP3
+12m <h
+≤23m
+ClasseP4
+23m <h
+≤30m
+ClasseP5
+30m <h  ≤54m
+ 
+h
+>54m
+A
+Residencial
+A-1 a A-3
+90
+60
+30
+30
+60
+90
+120
+CT
+B
+Serviços de
+hospedagem
+B-1 e B-2
+90
+60
+30
+60 (30)
+60
+90
+120
+CT
+C
+Comercial varejista
+C-1
+90
+60
+60
+(30)
+60(30)
+60
+90
+120
+CT
+C-2 e C-3
+90
+60
+60
+60(30)
+60
+90
+120
+CT
+D
+Serviços
+D-1 aD-3
+90
+60
+30
+60 (30)
+60
+90
+120
+CT
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 22197938 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26034209&infra_sist…
+3/5
+proﬁssionais,
+pessoais e técnicos
+E
+Educacional e
+cultura İsica
+E-1 a E-6
+90
+60
+30
+30
+60
+90
+120
+CT
+F
+Locais de reunião de
+público
+F-1, F-2, F-5e
+F-6,8,10,11
+90
+60
+60
+(30)
+60
+60
+90
+120
+CT
+F-3, F-4 eF-7
+90
+60
+60
+60
+30
+30
+CT
+CT
+F-9
+CT
+G
+Serviços
+automoƟvos
+G-1 e G-2 não
+abertos lateralmente
+e G-3 a G-6
+90
+60 (30)
+30
+60 (30)
+60
+90
+120
+CT
+G-1 e G-2 abertos
+lateralmente
+90
+60 (30)
+30
+30
+30
+30
+60
+120
+H
+Serviços de saúde e
+insƟtucionais
+H-1 eH-4
+90
+60
+30
+60
+60
+90
+120
+CT
+H-2, H-3 eH-5
+90
+60
+30
+60
+60
+90
+120
+CT
+I
+Industrial
+I-1
+90 (60)
+60 (30)
+30
+30
+30
+60
+120
+CT
+I-2
+120
+90
+30
+30
+60 (30)
+90
+120
+CT
+I-3
+120
+90
+60
+(30)
+60 (30)
+90 (60)
+120 (90)
+120
+CT
+J
+Depósitos
+J-1
+60
+30
+30
+30
+30
+30
+60
+CT
+J-2
+90
+60 (30)
+30
+30
+30
+30
+60
+CT
+J-3
+90
+60 (30)
+30
+60
+60
+120 (90)
+120
+CT
+J-4
+120
+90
+60
+60
+90 (60)
+120 (90)
+120
+CT
+L
+Explosivos
+L-1, L-2 e L-3
+120
+120
+120
+CT
+CT
+ 
+ 
+ 
+M
+Especial
+M-1
+150
+150
+150
+CT
+M-2
+CT
+M-3
+120
+90
+90
+90
+120
+CT
+NOTAS da TABELA A: 
+1. CT = Consultar Corpo Técnico junto ao Corpo de Bombeiros Militar de Minas Gerais. 
+2. Os tempos entre parênteses podem ser usados nas ediﬁcações nas quais cada pavimento tenha área menor ou igual a 750,0 m², desde que
+haja comparƟmentação verƟcal entre os pavimentos. 
+3. O TRRF dos subsolos não pode ser inferior ao TRRF dos pavimentos situados acima do solo (ver item 5.10)
+4. Para ediﬁcações com altura entre 54m a 80m, poderão ser exigidos os mesmos TRRF das ediﬁcações da Classe P5, sem necessidade de
+consulta ao CT.
+ 
+Leia-se:
+ 
+Tabela A – Tempos requeridos de resistência ao fogo (TRRF)
+Para a classiﬁcação detalhada das ocupações (grupo e divisão) consultar Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e
+espaços desƟnados ao uso coleƟvo do Estado de Minas Gerais.
+Grupo
+Ocupação/Uso
+Divisão
+Profundidade do
+Subsolo h
+Altura da ediﬁcação h
+Classe S2
+h >10m
+Classe S1
+h ≤10m
+Ediﬁcação Baixa
+Ediﬁcação Média Altura
+Medianamente
+Alta
+Alta
+Classe P1
+h ≤6m
+Classe P2
+6m <h ≤12m
+ClasseP3
+12m <h
+≤23m
+ClasseP4
+23m <h
+≤30m
+ClasseP5
+30m <h ≤54m
+ 
+h
+>54m
+A
+Residencial
+A-1 a A-3
+90
+60
+30
+30
+60
+90
+120
+CT
+B
+Serviço de
+hospedagem
+B-1 e B-2
+90
+60
+30
+60 (30)
+60
+90
+120
+CT
+C
+Comercial
+C-1
+90
+60
+60 (30)
+60(30)
+60
+90
+120
+CT
+C-2 e C-3
+90
+60
+60 (30)
+60(30)
+60
+90
+120
+CT
+D
+Serviço proﬁssional
+D-1 a D-4
+90
+60
+30
+60 (30)
+60
+90
+120
+CT
+E
+Educacional e
+cultura İsica
+E-1 a E-6
+90
+60
+30
+30
+60
+90
+120
+CT
+F
+Local de reunião de
+público
+F-1, F-2, F-5,
+F-6, F-8, F-10 e F-11
+90
+60
+60 (30)
+60
+60
+90
+120
+CT
+F-3 e F-4
+90
+60
+60
+60
+60
+60
+CT
+CT
+F-9
+CT
+G
+Serviço automoƟvo
+e assemelhados
+G-1 e G-2 não
+abertos lateralmente
+90
+60 (30)
+30
+60 (30)
+60
+90
+120
+CT
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 22197938 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26034209&infra_sist…
+4/5
+e G-3 a G-5
+G-1 e G-2 abertos
+lateralmente
+90
+60 (30)
+30
+30
+30
+30
+60
+120
+H
+Serviço de saúde e
+insƟtucional
+H-1 a H-6
+90
+60
+30
+60
+60
+90
+120
+CT
+I
+Indústria
+I-1
+90 (60)
+60 (30)
+30
+30
+30
+60
+120
+CT
+I-2
+120
+90
+30
+30
+60 (30)
+90
+120
+CT
+I-3
+120
+90
+60 (30)
+60 (30)
+90 (60)
+120 (90)
+120
+CT
+J
+Depósito
+J-1
+60
+30
+30
+30
+30
+30
+60
+CT
+J-2
+90
+60 (30)
+30
+30
+30
+30
+60
+CT
+J-3
+90
+60 (30)
+30
+60
+60
+120 (90)
+120
+CT
+J-4
+120
+90
+60
+60
+90 (60)
+120 (90)
+120
+CT
+L
+Explosivos
+L-1, L-2 e L-3
+120
+120
+120
+CT
+CT
+CT
+CT
+CT
+M
+Especial
+M-1
+150
+150
+150
+CT
+M-2
+CT
+M-3
+120
+90
+90
+90
+120
+CT
+M-5
+Ver Instrução Técnica especíﬁca
+M-8
+Ver Instrução Técnica especíﬁca
+NOTAS da TABELA A:
+1. CT = Consultar Corpo Técnico junto ao Corpo de Bombeiros Militar de Minas Gerais. 
+2. Os tempos entre parênteses podem ser usados nas ediﬁcações nas quais cada pavimento tenha área menor ou igual a 930,0 m², desde que
+haja comparƟmentação verƟcal entre os pavimentos. 
+3. O TRRF dos subsolos não pode ser inferior ao TRRF dos pavimentos situados acima do solo (ver item 5.10).
+4. Para ediﬁcações com altura entre 54m a 80m, serão exigidos os mesmos TRRF das ediﬁcações da Classe P5, sem necessidade de consulta ao
+CT.
+ 
+11. ALTERAR a Tabela C3 - CaracterísƟca da ediﬁcação 
+Onde se lê: 
+Tabela C3 - CaracterísƟca da ediﬁcação
+ 
+Área do comparƟmento (m²)
+Altura da ediﬁcação (m) –ϓs1
+ 
+Térrea
+h ≤ 6
+6 < h ≤ 12
+12 < h ≤ 23
+23 < h ≤ 30
+30 < h ≤ 80
+H > 80
+≤ 750
+1.00
+1.00
+1.10
+1.20
+1.25
+1.45
+1.60
+≤ 1000
+1.05
+1.10
+1.15
+1.25
+1.35
+1.65
+1.85
+≤  2500
+1.10
+1.25
+1.40
+1.70
+1.85
+2.60
+3.00
+≤ 5000
+1.15
+1.45
+1.75
+2.35
+2.65
+3.00
+3.00
+≤7500
+1.25
+1.70
+2.15
+3.00
+3.00
+3.00
+3.00
+≤ 10000
+1.30
+1.90
+2.50
+3.00
+3.00
+3.00
+3.00
+≤ 20000
+1.60
+2.80
+3.00
+3.00
+3.00
+3.00
+3.00
+≤ 65000
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+ 
+Leia-se:
+ 
+Tabela C3 - CaracterísƟca da ediﬁcação
+ 
+Área do comparƟmento (m²)
+Altura da ediﬁcação (m) –ϓs1
+ 
+Térrea
+h ≤ 6
+6 < h ≤ 12
+12 < h ≤ 23
+23 < h ≤ 30
+30 < h ≤ 80
+H > 80
+≤ 930
+1.00
+1.00
+1.10
+1.20
+1.25
+1.45
+1.60
+≤ 1000
+1.05
+1.10
+1.15
+1.25
+1.35
+1.65
+1.85
+≤  2500
+1.10
+1.25
+1.40
+1.70
+1.85
+2.60
+3.00
+≤ 5000
+1.15
+1.45
+1.75
+2.35
+2.65
+3.00
+3.00
+≤7500
+1.25
+1.70
+2.15
+3.00
+3.00
+3.00
+3.00
+≤ 10000
+1.30
+1.90
+2.50
+3.00
+3.00
+3.00
+3.00
+≤ 20000
+1.60
+2.80
+3.00
+3.00
+3.00
+3.00
+3.00
+≤ 65000
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+
+--- PÁGINA 5 ---
+04/01/2021
+SEI/GOVMG - 22197938 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26034209&infra_sist…
+5/5
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às 07:12, conforme horário oﬁcial de Brasília,
+com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22197938 e o código CRC D74C7043.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22197938

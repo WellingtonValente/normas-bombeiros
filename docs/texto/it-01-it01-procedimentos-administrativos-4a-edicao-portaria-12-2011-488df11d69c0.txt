@@ -7536,7 +7536,7 @@ CLASSE I ou II-A
 TRANSPORTE
 DE MATERIAL
 ED. 01
-1- E +  4
+1- E + 4
 ADMINISTRAÇÃO
 PLANTA DE RISCO DE INCÊNDIO 
 ESTACIONAMENTO
@@ -7555,8 +7555,8 @@ ED. 2
 AQUECEDOR
 ÁREA SOCIAL
 CANTINA
-1 - E+  2
-1 - E+  2
+1 - E+ 2
+1 - E+ 2
 Assunto:
 Resp. Técnico:
 Desenhista:
@@ -7572,10 +7572,10 @@ Esc. - 1:750
 Projeto Completo
 ²
 ²
-X-T-Y (X =  pavimento  abaixo do térreo; T=  térreo; 
+X-T-Y (X = pavimento  abaixo do térreo; T= térreo; 
 C
 GELADOS
-Y=  pavimento acima do térreo)
+Y= pavimento acima do térreo)
 Entrada para o  CB Combate a  Incêndio
 Vaso sob pressão (caldeira)
 Escada c/resistência 90min

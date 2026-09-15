@@ -1,0 +1,77 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+CIRCULAR – 08/2013 – DAT  
+Esclarece procedimentos para a apresentação de 
+projetos em formato digital através do sistema 
+INFOSCIP.  
+ 
+O Coronel BM Diretor de Atividades Técnicas, no uso de suas atribuições legais 
+consoante ao disposto no inciso I, artigo 6º da Resolução 169/2005, que trata da 
+competência e estrutura da Diretoria de Atividades Técnicas, combinado com o disposto 
+no inciso III, artigo 2º da Lei 14.130/2001, que dispõe sobre a prevenção contra incêndio e 
+pânico no Estado de Minas Gerais, 
+ 
+CONSIDERANDO QUE: 
+1. O sistema INFOSCIP visa à otimização de recursos e à modernização do serviço de 
+prevenção contra incêndio e pânico;  
+2. Com a implantação do INFOSCIP, tornou-se necessária a padronização de 
+procedimentos e da forma de apresentação de PSCIP, para garantir maior agilidade 
+nos serviços de análise e vistoria. 
+ 
+RESOLVE: 
+1. As plantas do PSCIP devem ser apresentadas para análise através do INFOSCIP em 
+arquivo único, em formato dwg; 
+2. Os documentos complementares devem ser apresentados em formato pdf; 
+3. As plantas dos pavimentos devem ser apresentadas de forma organizada, sendo 
+vedada a divisão de pavimentos em dois ou mais layouts. Os nomes das abas em cada 
+layout devem remeter ao resumo de seu conteúdo (ex. Detalhes); 
+4. O arquivo que contem o projeto deve apresentar somente aquilo que for pertinente ao 
+Regulamento de Segurança Contra Incêndio e Pânico, podendo ser utilizados os 
+comandos “purge”, “overkill” e outros, a fim de se evitar dados em excesso. 
+5. Os projetos devem estar em escala real (1:1);
+
+--- PÁGINA 2 ---
+6. Nos layouts, todos os elementos construtivos devem estar na cor preta, com exceção 
+dos elementos das medidas de segurança contra incêndio e pânico, que devem ser 
+apresentadas na cor vermelha; 
+7. Os nomes dos arquivos dos projetos (DWG) devem seguir ao prescrito na tabela 
+abaixo, para todas as formas de apresentação de PSCIP (PT, PTS ou PET): 
+ 
+DATA DE ENVIO 
+DESCRIÇÃO 
+NOME DO ARQUIVO 
+01/01/13 
+ENTRADA 
+ENT-01-01-13 
+15/01/13 
+RETORNO 
+RET-15-01-13 
+01/02/13 
+RECONSIDERAÇÃO DE ATO 
+RDA-01-02-13 
+15/02/13 
+RECURSO 1º GRAU 
+REC1-15-02-13 
+21/03/13 
+RECURSO 2º GRAU 
+REC2-21-03-13 
+ 
+7.1 Os demais documentos devem ser nomeados constando seu conteúdo, tendo como 
+base o exemplo acima; 
+8. Os anexos “B”, “C”, “D”, “I”, “J”, “K”, da IT 01, ficam dispensados de apresentação, 
+tendo em vista que as informações serão inseridas diretamente INFOSCIP; 
+9. Não será exigida a assinatura nos documentos de responsabilidade do RT do PSCIP. 
+10. Não será exigida assinatura das plantas; 
+11. Os demais documentos deverão ser apresentados constando a assinatura dos 
+responsáveis (proprietário e/ou outro RT), inclusive ART.  
+ 
+ 
+Esta Circular entra em vigor na data de sua publicação, para os municípios que 
+adotam o sistema INFOSCIP. 
+Publique-se e cumpra-se. 
+ 
+Belo Horizonte, 06 de março de 2013. 
+ 
+MIGUEL NOVAIS BORGES, CORONEL BM 
+DIRETOR

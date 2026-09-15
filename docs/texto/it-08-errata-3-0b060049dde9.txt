@@ -1,0 +1,122 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 12536214 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14573390&infra…
+1/3
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 19 de março de 2020.
+  
+ERRATA CBMMG/DAT Nº. 3/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 08 – 2ª Edição (Saídas
+de Emergência em Ediﬁcações):
+ 
+1. ALTERAR o item 3.3.4
+Onde se lê:
+3.3.4 Exclusivamente para o cálculo da população, as áreas de sanitários, corredores e elevadores nas
+ocupações C, D, E e F, são excluídas das áreas de pavimento.
+Leia-se: 
+5.3.4 Exclusivamente para o cálculo da população, as áreas de sanitários, corredores e elevadores nas
+ocupações C, D, E e F, são excluídas das áreas de pavimento.
+ 
+2. ALTERAR a Figura 1 – Medida da largura em corredores e passagens
+ 
+Onde se lê:
+ 
+Figura 1 – Medida da largura em corredores e passagens
+ 
+Leia-se:
+Figura 1 – Medida da largura em corredores e passagens
+
+--- PÁGINA 2 ---
+09/10/2020
+SEI/GOVMG - 12536214 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14573390&infra…
+2/3
+ 
+ 
+3. ALTERAR o item 5.5.4.3
+Onde se lê:
+5.5.4.3 A largura, vão livre ou “luz” das portas, comuns ou corta-fogo, uƟlizadas nas rotas de saída, deve
+ser dimensionada como estabelecido em 5.4, admiƟndo-se uma redução no vão de luz, isto é, no livre,
+das portas em até 75,0 mm de cada lado (golas), para o contramarco e alizares. As dimensões mínimas de
+luz deve ser as especiﬁcadas abaixo considerando o resultado do cálculo das unidades de passagem: 
+Leia-se: 
+5.5.4.3 A largura, vão livre ou “luz” das portas, comuns ou corta-fogo, uƟlizadas nas rotas de saída, deve
+ser dimensionada como estabelecido em 5.4, admiƟndo-se as dimensões mínimas de luz especiﬁcadas
+abaixo, considerando o resultado do cálculo das unidades de passagem:
+ 
+4. ALTERAR a alínea 'i' do item 5.7.1.1 
+Onde se lê: 
+i) ter pé direito mínimo de 2,0 m (ver Figura 4). 
+Leia-se: 
+i) ter pé direito mínimo de 2,0 m (ver Figura 4), medido verƟcalmente da parte inferior do teto ou similar
+a uma linha que una as pontas dos bocéis ou quinas dos degraus. 
+ 
+5. ALTERAR o item 5.7.4.2 
+Onde se lê: 
+5.7.4.2 As caixas de escadas não podem ser uƟlizadas como depósitos, mesmo por curto espaço de
+tempo, nem para a localização de quaisquer móveis ou equipamentos, exceto os previstos
+especiﬁcamente nesta Instrução Técnica. 
+Leia-se: 
+5.7.4.2 As caixas de escadas não podem ser uƟlizadas como depósitos, mesmo por curto espaço de
+tempo, nem para a localização de quaisquer móveis ou equipamentos, exceto os expressamente
+previstos nesta Instrução Técnica e em Instrução Técnica especíﬁca. 
+ 
+6. ALTERAR a alínea 'b' do item 5.7.8.3 
+Onde se lê: 
+b) ter sua ligação com a caixa da escada por meio de antecâmaras venƟladas, executadas nos moldes do
+especiﬁcado em 5.7.10 ou 5.7.12; e, 
+Leia-se: 
+b) ter sua ligação com a caixa da escada por meio de antecâmaras venƟladas, executadas nos moldes do
+especiﬁcado em 5.7.10 ou 5.7.12; ou 
+ 
+7. ALTERAR a alínea 'b' do item 5.7.9.1 
+Onde se lê: 
+b) ter ingresso por antecâmaras venƟladas, terraços ou balcões, atendendo as primeiras ao prescrito em
+5.7.10 e os úlƟmos em 5.7.12; 
+Leia-se:
+
+--- PÁGINA 3 ---
+09/10/2020
+SEI/GOVMG - 12536214 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14573390&infra…
+3/3
+b) ter ingresso por antecâmaras venƟladas, balcões, varandas ou terraços, atendendo ao prescrito nos
+itens 5.7.10 e 5.7.12; 
+ 
+8. ALTERAR a alínea 'a' do item 5.7.10.1 
+Onde se lê: 
+a) ter comprimento mínimo de 1,80 m; 
+Leia-se: 
+a) ter comprimento mínimo de 1,80 m, medido no senƟdo de saída; 
+ 
+9. ALTERAR a alínea 'd' do item 5.7.14.1 
+Onde se lê: 
+d) entre a escada aberta e a fachada da ediﬁcação deverá ser interposta outra parede com TRRF mínimo
+de 02 (duas) horas; 
+Leia-se: 
+d) possuir parede com TRRF de 120 min na face da ediﬁcação em que se situa escada aberta externa; 
+ 
+10. ALTERAR a alínea 'a' do item 5.9.1.1 
+Onde se lê: 
+a) em todas as ediﬁcações residenciais A-2 e A-3 com altura superior a 80,0 m e nas demais ocupações
+com altura superior a 60 (sessenta) m, exceto monumentais de ocupação G-1 e em torres monumentais
+de ocupação F-2; 
+Leia-se: 
+a) em todas as ediﬁcações residenciais A-2 e A-3 com altura superior a 80,0 m e nas demais ocupações
+com altura superior a 60 (sessenta) m, exceto nas de ocupação G-1 e em torres exclusivamente
+monumentais de ocupação F-2;
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 23/03/2020, às
+15:15, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 12536214
+e o código CRC 613FAB96.
+Referência: Processo nº 1400.01.0016459/2020-51
+SEI nº 12536214

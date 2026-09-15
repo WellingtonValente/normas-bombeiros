@@ -1,0 +1,67 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22389056 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26251448&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 27 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 24/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 18 – 1ª
+Edição (Sistema de Chuveiros AutomáƟcos):
+ 
+1. ALTERAR o item 1
+Onde se lê: 
+"1 OBJETIVO
+Esta Instrução Técnica visa a adequar o texto da norma NBR 10.897 – Proteção contra incêndio
+por chuveiro automáƟco para aplicação na análise e vistoria de processos submeƟdos ao Corpo de
+Bombeiros, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e
+áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"1 OBJETIVO 
+Esta Instrução Técnica visa a adequar o texto da norma NBR 10.897 – Proteção contra incêndio
+por chuveiro automáƟco para aplicação na análise e vistoria de processos submeƟdos ao Corpo de
+Bombeiros, atendendo ao previsto no Regulamento de Segurança Contra Incêndio e Pânico do Estado de
+Minas Gerais."
+ 
+2. ALTERAR o item 2.1
+Onde se lê: 
+"2.1 Esta Instrução Técnica se aplica a todas as ediﬁcações onde é exigida a instalação de
+chuveiros automáƟcos, de acordo com o Regulamento de Segurança Contra Incêndio e Pânico nas
+ediﬁcações e áreas de risco no Estado de Minas Gerais."
+Leia-se:
+"2.1 Esta Instrução Técnica aplica-se a todas as ediﬁcações onde é exigida a instalação de
+chuveiros automáƟcos para atendimento da legislação de segurança contra incêndio e pânico do Estado de
+Minas Gerais."
+ 
+3. ALTERAR o item 5.4
+Onde se lê: 
+"5.4 Nas ediﬁcações, onde houver exigência da instalação do sistema de chuveiros
+automáƟcos, deve-se atender a toda área de ediﬁcação, podendo deixar de abranger certas áreas, como
+espaços ocultos, conforme estabelece a NBR 10897, suas atualizações ou outra norma que vier subsƟtuí-la."
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22389056 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26251448&infra_sist…
+2/2
+Leia-se:
+"5.4 Nas ediﬁcações onde houver exigência da instalação do sistema de chuveiros
+automáƟcos, salvo quando houver comparƟmentação entre as ocupações, deve-se atender a toda área da
+ediﬁcação, podendo deixar de abranger certas áreas, como espaços ocultos, conforme estabelece a NBR
+10897, suas atualizações ou outra norma que vier subsƟtuí-la."
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:15, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22389056 e o
+código CRC A41653B3.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22389056

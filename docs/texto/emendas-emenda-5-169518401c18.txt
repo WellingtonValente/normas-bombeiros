@@ -1,0 +1,411 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 04 de agosto de 2026.
+  
+EMENDA CBMMG/DAT Nº. 5/2026
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 03 - 2ª Edição
+(Composição do Processo de Segurança contra Incêndio e Pânico - PSCIP):
+ 
+1 ACRESCENTAR o item B.18 e subitens:
+ 
+B.18 Sistemas de Alimentação de Veículos Elétricos (SAVEs)
+B.18.1 Elementos que devem ser apresentados em arquivo DWG:
+a) Indicar localização de cada estação de recarga, conforme simbologia do Anexo D;
+b) constar, em planta ou detalhe, a potência máxima de projeto de cada estação de recarga;
+c ) indicar a localização do ponto de desligamento manual individual, em relação a cada estação de
+recarga, conforme simbologia do Anexo D;
+d) indicar a localização do ponto de desligamento manual geral do pavimento, conforme simbologia do
+Anexo D;
+e) indicar a localização do ponto de desligamento manual geral da edificação, conforme simbologia do
+Anexo D;
+f) identificar as vagas proibidas de uso de estações de recarga, caso haja;
+g) representar em planta e apresentar detalhamento das sinalizações previstas na norma específica.
+h) inserir nota em planta informando que os SAVEs atendem às NBRs 5410 e 17019.
+B.18.2 Informações que devem ser apresentadas em arquivo PDF:
+a) apresentar memorial do sistema de alimentação de veículos elétricos (SAVE), conforme Anexo E.4.6;
+b) no ato de solicitação de vistoria:
+b.1) apresentar Laudo de Conformidade dos Sistemas de Alimentação de Veículos Elétricos (SAVEs) para
+cada estação ou conjunto de estações de recarga instaladas, conforme Anexo E.5.6, acompanhado do(s)
+respectivo(s) documento(s) de responsabilidade técnica.
+ 
+2 RENUMERAR os itens C.4.9 e C.4.9.1 para C.4.10 e C.4.10.1:
+C.4.10 Memorial descritivo complementar
+C.4.10.1 Memorial descritivo complementar solicitado pelo serviço de segurança contra incêndio e pânico
+do CBMMG, a fim de subsidiar a avaliação do PSCIP quando as características da edificação e/ou espaço
+destinado ao uso coletivo o exigirem.
+ 
+3 ACRESCENTAR os itens C.4.9 e C.4.9.1, com a seguinte redação:
+C.4.9 Memorial do Sistema de Alimentação de Veículos Elétricos (SAVE)
+CBMMG - Emenda 5 (146010507)         SEI 1400.01.0047054/2026-20 / pg. 1
+
+--- PÁGINA 2 ---
+C.4.9.1 Obrigatório em PSCIP com presença de SAVE. Contém a descrição das quantidades, tipos e locais
+de instalação das estações de recarga, atestando que todas elas se encontram em conformidade com o
+projeto elétrico único elaborado para a edificação.
+ 
+4 ACRESCENTAR o item C.7.6:
+C.7.6 Laudo de Conformidade dos Sistemas de Alimentação de Veículos Elétricos (SAVEs)
+Laudo técnico de profissional habilitado, acompanhado do respectivo documento de responsabilidade
+técnica, contendo checklist das características e componentes da instalação elétrica dos SAVEs, conforme
+Anexo E.5.6.
+ 
+5 ACRESCENTAR o item D.20 no Anexo D:
+ 
+6 
+ACRESCENTAR o Anexo E.4.6 - MEMORIAL DO SISTEMA DE ALIMENTAÇÃO DE
+VEÍCULOS ELÉTRICOS (SAVE):
+ 
+7 ACRESCENTAR o Anexo E.5.6 - Laudo de Conformidade dos Sistemas de Alimentação de Veículos
+Elétricos (SAVEs):
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+ 
+ 
+D.20 Sistema de alimentação de veículos elétricos (SAVE)
+SISTEMA DE ALIMENTAÇÃO DE VEÍCULOS ELÉTRICOS (SAVE)
+PONTO DE DESLIGAMENTO MANUAL
+(ESTAÇÃO DE CARREGAMENTO)
+PONTO DE DESLIGAMENTO MANUAL
+(PAVIMENTO)
+PONTO DE DESLIGAMENTO MANUAL
+(QUADRO DE ENERGIA PRINCIPAL)
+CBMMG - Emenda 5 (146010507)         SEI 1400.01.0047054/2026-20 / pg. 2
+
+--- PÁGINA 3 ---
+ESTAÇÃO DE RECARGA
+ 
+ 
+E.4.6 MEMORIAL DO SISTEMA DE ALIMENTAÇÃO DE VEÍCULOS ELÉTRICOS (SAVE)
+(Nome)_______________________________________, registrado no ____ (inserir o Conselho Profissional)
+sob o n° ____________, atendendo o disposto no item 8.2.1.1 da IT 30, declara, para fins de aprovação do
+PSCIP junto ao CBMMG, que o presente memorial se baseia em projeto elétrico único que engloba toda a
+edificação, cuja elaboração contemplou infraestrutura, padrões técnicos e estudo de carga global, em sua
+condição de máxima simultaneidade ou controlada por Sistema de Controle de Recarga, conforme a NBR
+17019:
+ 
+MEMORIAL DO SISTEMA DE ALIMENTAÇÃO DE VEÍCULOS ELÉTRICOS (SAVE)
+ 
+1
+ 
+Capacidade Nominal de Potência do Padrão de Entrada da Edificação
+(kW):
+ 
+Exemplo:
+300 kW
+2
+ 
+Potência elétrica total disponível para a instalação de SAVEs (em kW,
+já deduzidas as margens de segurança calculadas pelo RT):
+ 
+Folga elétrica real medida na edificação em horário de pico.
+ 
+Exemplo:
+100 kW
+ 
+3
+ 
+Uso de Sistema de Controle de Recarga (sistema de gerenciamento
+dinâmico de carga - DLM):
+ 
+O projeto prevê o uso de gerenciamento dinâmico ativo conforme a ABNT
+NBR 17019?
+ 
+[ ] Sim [ ] Não
+CBMMG - Emenda 5 (146010507)         SEI 1400.01.0047054/2026-20 / pg. 3
+
+--- PÁGINA 4 ---
+4
+ 
+ 
+Potência limite projetada exclusivamente para a instalação de SAVEs
+(kW):
+ 
+ 
+Potência máxima absoluta que a infraestrutura e/ou o DLM foram
+dimensionados para operar com segurança.
+ 
+Exemplo:
+ 
+150 kW
+ 
+Notas:
+- Se o item 3 for ‘Não’, o valor
+deve ser igual ou menor que o
+item 2.
+- Se o item 3 for ‘Sim’, o valor
+pode ser maior que o item 2.
+NOTA GENÉRICA:
+1) Atender a Instrução Técnica nº 30 (IT 30) - Instalações e equipamentos elétricos.
+2 ) Caso se deseje instalar novas estações de recarga que ultrapassem a potência limite projetada
+exclusivamente para a instalação de SAVEs (item 4), um novo projeto elétrico único deverá ser executado,
+com a consequente apresentação de um novo Memorial do SAVE para fins de atualização do PSCIP.
+_________________________________________
+Ass. Responsável Técnico - CREA / CAU / CRT nº _________
+OBS: Caso o responsável técnico pelo memorial do SAVE seja diferente do RT do PSCIP, anexar documento de
+responsabilidade técnica do profissional.
+ 
+E.5.6 LAUDO DE CONFORMIDADE DO SISTEMA DE ALIMENTAÇÃO DE VEÍCULOS ELÉTRICOS
+(SAVE)
+ 
+ 
+Laudo de Conformidade do Sistema de Alimentação de Veículos Elétricos (SAVE)
+1. IDENTIFICAÇÃO DA EDIFICAÇÃO
+Razão social:
+CNPJ:
+Logradouro:
+Nº:
+Complemento:
+Bairro:
+Cidade:
+CEP:
+Proprietário/Resp. pelo uso:
+CPF/CNPJ:
+Uso, divisão e descrição:
+Nº PSCIP:
+Altura da edificação:
+2. PARÂMETROS HOMOLOGADOS NO MEMORIAL DO SAVE
+2.1
+Capacidade Nominal de Potência do Padrão de Entrada da Edificação (em kW, conforme
+projeto elétrico único) - item 1 do Memorial:
+ 
+2.2
+Potência elétrica total disponível para a instalação de SAVEs (em kW, já deduzidas as
+margens de segurança calculadas pelo RT) - item 2 do Memorial:
+ 
+2.3
+Uso de Sistema de Controle de Recarga (sistema de gerenciamento dinâmico de carga -
+DLM) - item 3 do Memorial:
+ 
+2.4
+Potência limite projetada exclusivamente para a instalação de SAVEs (kW) - item 4 do
+Memorial:
+ 
+CBMMG - Emenda 5 (146010507)         SEI 1400.01.0047054/2026-20 / pg. 4
+
+--- PÁGINA 5 ---
+3. IDENTIFICAÇÃO DAS ESTAÇÕES INSTALADAS (INSERIR APENAS OS SAVEs CONTEMPLADOS POR ESTE LAUDO)
+Identificação da estação
+(seguir a numeração das
+instalações anteriores,
+se houver)
+Tipo de
+SAVE
+Localização
+Tipo de alimentação (CA/CC),
+corrente (A), tensão (V) e
+potência nominal (kW)
+máximas previstas para a
+estação.
+(ex.: Estação 8)
+(ex.:
+modo 3)
+(ex.: vaga 23 da garagem do 1º pavimento)
+ 
+(ex.: Estação 9)
+(ex.:
+modo 3)
+(ex.: vaga 38 da garagem do 2º pavimento)
+ 
+…
+…
+…
+ 
+4. DADOS GERAIS DAS ESTAÇÕES DE RECARGA INSTALADAS (CONSIDERAR TODOS OS SAVEs - AQUELES
+INSTALADOS ANTERIORMENTE, SE HOUVER, E AQUELES CONTEMPLADOS POR ESTE LAUDO):
+4.1
+Número total de estações de recarga instaladas (somatório dos carregadores novos com os
+que já existiam):
+ 
+4.2
+Potência nominal instalada nesta fase (apenas os carregadores novos, em kW):
+ 
+4.3
+Potência nominal total acumulada (somatório dos carregadores novos com os que já existiam,
+em kW):
+ 
+4.4
+Potência residual restante disponível para a instalação de SAVEs (subtração do item 2.4 pelo
+item 4.3, em kW):
+ 
+5. SEGURANÇA CONTRA INCÊNDIO
+5.1 INSTALAÇÕES ELÉTRICAS:
+SIM
+NÃO
+NA
+5.1.1
+Foi elaborado projeto elétrico único, contemplando a solução de infraestrutura, os
+padrões técnicos e o estudo de carga global de toda a edificação?
+ 
+ 
+ 
+5.1.2
+A curva de carga da instalação existente, conforme previsto no projeto elétrico único,
+comporta a instalação do(s) SAVE(s)?
+Obs: levar em consideração eventual acréscimo de demanda realizada após a
+elaboração do Projeto Elétrico Único (Memorial do SAVE - Anexo E.4.6)
+ 
+ 
+ 
+5.1.3
+O transformador comporta o acréscimo de carga demandado pela instalação do(s)
+SAVE(s), dentro dos limites estabelecidos pelo estudo de carga global da edificação?
+ 
+ 
+ 
+5.1.4
+O Sistema de Controle de Recarga foi devidamente instalado, configurado e encontra-se
+totalmente operacional?
+ 
+ 
+ 
+5.1.5
+As prumadas e a fiação comportam o acréscimo de carga demandado pela instalação de
+SAVE(s)?
+ 
+ 
+ 
+5.1.6
+Os quadros de proteção e distribuição comportam o acréscimo de carga demandado pela
+instalação do(s) SAVE(s)?
+ 
+ 
+ 
+5.1.7
+As estações de recarga modo 2 foram instaladas exclusivamente em áreas externas?
+ 
+ 
+ 
+5.1.8
+Foi instalado ponto de desligamento manual no quadro de energia principal da
+edificação ou no quadro de distribuição exclusivo para os SAVEs, com a função de
+desligar todas as estações de recarga da edificação?
+ 
+ 
+ 
+5.1.9
+Foram instalados pontos de desligamento manual em cada pavimento que possua
+SAVE, a uma distância máxima de 5,0 metros do acesso principal do pavimento, com a
+função de desligar todas as estações de recarga daquele pavimento?
+ 
+ 
+ 
+CBMMG - Emenda 5 (146010507)         SEI 1400.01.0047054/2026-20 / pg. 5
+
+--- PÁGINA 6 ---
+5.1.10
+Foram instalados pontos de desligamento manual/disjuntores a uma distância máxima (5
+metros) de cada estação de recarga, com a função de desligar aquela estação
+específica?
+ 
+ 
+ 
+5.1.11
+As estações de recarga foram dimensionadas com circuito exclusivo para suas
+instalações?
+ 
+ 
+ 
+5.1.12
+Os circuitos das estações de recarga possuem proteção contra sobrecorrentes, choques
+elétricos por dispositivo diferencial residual (DR) e proteção contra surtos?
+ 
+ 
+ 
+5.1.13
+Os quadros de alimentação destinados aos SAVE estão com os disjuntores devidamente
+identificados?
+ 
+ 
+ 
+5.1.14
+Os quadros de alimentação destinados aos SAVE contêm dispositivos de proteção
+contra surtos (DPS)?
+ 
+ 
+ 
+5.1.15
+Todos os SAVE dispõem de condutor de aterramento de proteção adequado, de forma a
+garantir a segurança elétrica das instalações e dos usuários?
+ 
+ 
+ 
+5.1.16
+Foi instalado sistema de sinalização nas vagas que possuam SAVE, bem como junto aos
+pontos de desligamento/disjuntor(es), nos quadros de distribuição, conforme a IT 30?
+ 
+ 
+ 
+5.1.17
+As estações de carregamento foram instaladas fora de corredores e rotas de fuga da
+edificação?
+ 
+ 
+ 
+5.1.18
+As estações de carregamento foram instaladas observando os afastamentos mínimos,
+conforme IT 30?
+ 
+ 
+ 
+5.1.19
+O sistema de alarme de detecção de incêndio da edificação está interligado aos pontos
+de desligamento, garantindo o desligamento automático do carregador imediatamente
+após o acionamento, seja este originado pela detecção ou pelo acionamento manual?
+ 
+ 
+ 
+5.1.20
+A instalação foi executada em conformidade com o projeto elétrico único da edificação,
+respeitando os padrões técnicos e os limites de carga globais estabelecidos para a
+infraestrutura de recarga, conforme IT 30?
+ 
+ 
+ 
+6. DECLARAÇÃO E IDENTIFICAÇÃO DO RESPONSÁVEL PELO LAUDO
+Declaro, sob pena de incorrer no art. 299 do Decreto-Lei 2.848, de 07 de dezembro de 1940 (Código Penal Brasileiro), sem
+prejuízo das demais sanções penais, civis e administrativas cabíveis, que o(s) Sistema(s) de Alimentação de Veículos Elétricos
+(SAVEs) foi(ram) instalado(s) e verificado(s) em conformidade com a IT 30 e demais normas técnicas aplicáveis, e em
+observância ao projeto elétrico único da edificação.
+Nome:
+CREA / CAU / CRT nº:
+Endereço:
+Nº
+Complemento:
+Bairro:
+Cidade:
+CEP:
+E-mail:
+Fone:
+Nº do documento de responsabilidade técnica:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Obs: O Laudo deve ser acompanhado por documento de responsabilidade técnica.
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 11/08/2026, às
+15:26, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+CBMMG - Emenda 5 (146010507)         SEI 1400.01.0047054/2026-20 / pg. 6
+
+--- PÁGINA 7 ---
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 146010507 e
+o código CRC F2EEDD9D.
+Referência: Processo nº 1400.01.0047054/2026-20
+SEI nº 146010507
+CBMMG - Emenda 5 (146010507)         SEI 1400.01.0047054/2026-20 / pg. 7

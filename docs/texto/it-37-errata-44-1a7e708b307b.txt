@@ -1,0 +1,53 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 23605939 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27612645&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 23 de dezembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 44/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 37 – 2ª
+Edição (Centros EsporƟvos e de Exibição: Requisitos de Segurança Contra Incêndio e Pânico):
+ 
+1. ALTERAR o item 2.1
+Onde se lê: 
+"2.1 Esta Instrução Técnica se aplica às ediﬁcações enquadradas nas Divisões F-3 (estádios,
+ginásios, rodeios, arenas e similares) e F-7 (construções provisórias para público, circos, arquibancadas e
+similares), permanentes ou não, fechadas ou abertas, cobertas ou ao ar livre."
+Leia-se:
+"2.1 Esta Instrução Técnica aplica-se:
+a) às ediﬁcações enquadradas nas Divisões F-3 (arenas em geral, estádios, ginásios e piscinas,
+rodeios, autódromos, sambódromos, pistas de paƟnação e assemelhados, todos com arquibancada); e
+b) de forma subsidiária, às ocupações F-7 (circos, eventos temporários, feiras em geral, shows
+e assemelhados) fechadas ou abertas, cobertas ou ao ar livre, nas matérias não tratadas pela IT 33."
+ 
+2. ALTERAR o item 5.8.1.2
+Onde se lê: 
+"5.8.1.2 Para as ediﬁcações ou áreas de risco que apresentarem uma ou mais das
+caracterísƟcas listadas abaixo, o tempo máximo de saída não poderá ser superior a 2,5 minutos:"
+Leia-se:
+"5.8.1.2 Para as ediﬁcações ou espaços desƟnados ao uso coleƟvo que apresentarem uma ou
+mais das caracterísƟcas listadas abaixo, o tempo máximo de saída não poderá ser superior a 2,5 minutos:"
+ 
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 28/12/2020, às
+21:50, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 23605939 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27612645&infra_sist…
+2/2
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 23605939 e o
+código CRC 7BEE9751.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 23605939

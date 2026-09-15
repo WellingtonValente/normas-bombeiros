@@ -1,27 +1,82 @@
 {
   "ok": false,
   "status": "falha",
-  "ultima_tentativa": "2026-09-14T13:16:21+00:00",
+  "ultima_tentativa": "2026-09-15T04:57:32+00:00",
   "ultima_coleta_bem_sucedida": null,
   "data_coleta_base": "2026-05-04T20:36:47+00:00",
-  "fonte_url": null,
-  "motivo": "Nenhum link candidato válido na origem oficial. A base publicada foi preservada.",
+  "fonte_url": "https://www.bombeiros.mg.gov.br/normastecnicas",
+  "motivo": "Coleta parcial: PDFs obtidos foram atualizados individualmente; documentos ausentes ou com erro e a data da última coleta geral foram preservados. Ausência não indica revogação.",
   "contagens": {
-    "links_detectados": 0
+    "links_detectados": 497,
+    "pdfs": 462,
+    "nao_pdf": 35,
+    "erros": 0,
+    "documentos_anteriores": 458,
+    "documentos_anteriores_ausentes": 8,
+    "documentos_preservados": 8
   },
   "diagnostico": {
     "tentativas": [
       {
         "url_solicitada": "https://www.bombeiros.mg.gov.br/normastecnicas",
-        "erro": "Falha ao baixar https://www.bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7fe130d20890>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=10)'))"
+        "url_final": "https://www.bombeiros.mg.gov.br/normastecnicas",
+        "status_code": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "html_length": 1069273,
+        "links_candidatos": 497,
+        "sha256_html": "2ad58a595ffc701652c7356c841392f49f4caea2dec7dd2a242a276d98e64dee",
+        "data_acesso": "2026-09-15T04:57:36+00:00",
+        "requisicoes": [
+          {
+            "tentativa": 1,
+            "segundos": 4.5,
+            "status_code": 200,
+            "url_final": "https://www.bombeiros.mg.gov.br/normastecnicas"
+          }
+        ]
       },
       {
         "url_solicitada": "https://bombeiros.mg.gov.br/normastecnicas",
-        "erro": "Falha ao baixar https://bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7fe130d0b690>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=10)'))"
+        "url_final": "https://bombeiros.mg.gov.br/normastecnicas",
+        "status_code": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "html_length": 1069221,
+        "links_candidatos": 497,
+        "sha256_html": "625c7731400be5325958d635537d4d06926f5bcafd8b226064911114255fbb38",
+        "data_acesso": "2026-09-15T04:57:41+00:00",
+        "requisicoes": [
+          {
+            "tentativa": 1,
+            "segundos": 4.135,
+            "status_code": 200,
+            "url_final": "https://bombeiros.mg.gov.br/normastecnicas"
+          }
+        ]
       }
     ],
-    "melhor_total_links": -1
+    "melhor_total_links": 497,
+    "timeout_conexao_segundos": 60,
+    "timeout_leitura_segundos": 90
   },
   "erros": [],
-  "concluida_em": "2026-09-14T13:17:06+00:00"
+  "fase": "promocao",
+  "ambiente": {
+    "python": "3.11.16",
+    "requests": "2.34.2",
+    "sistema": "Linux",
+    "github_run_id": "34930795910",
+    "github_sha": "5ce94f6498a954da3f0b51f63bb01cb91a80d54f"
+  },
+  "documentos_anteriores_ausentes": [
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/anexo%20a%20-%20it39_blocos%20de%20carnaval.pdf",
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/it%20036.pdf",
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_01_8edicao_errata_01_2018_portaria_32_2018.pdf",
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_01_revisada_pelas_portarias_12_e_17.pdf",
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_08_2_edicao_errata_portaria_n_30_2017.pdf",
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_08_2a_edicao.pdf",
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_12_2a_edicao.pdf",
+    "https://bombeiros.mg.gov.br/images/stories/dat/it/it_22_armazenamento_de_liquidos_inflamaveis_e_combustiveis.pdf"
+  ],
+  "promocao_parcial": true,
+  "concluida_em": "2026-09-15T05:00:07+00:00"
 }

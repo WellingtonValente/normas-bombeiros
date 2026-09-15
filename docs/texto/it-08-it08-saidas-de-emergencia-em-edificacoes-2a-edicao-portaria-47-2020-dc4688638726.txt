@@ -2417,10 +2417,10 @@ PF = Escada à prova de fumaça.
 (C) Outros símbolos e abreviaturas usados nesta tabela: 
 Nºs = Números de saídas mínimos obrigatórios, em qualquer caso; 
 Tipo esc. = Tipo de escada; 
-Gr.= Grupo de ocupação (uso)-conforme a  t abela de classificação das edificações e áreas de 
+Gr.= Grupo de ocupação (uso)-conforme a t abela de classificação das edificações e áreas de 
 risco quanto à ocupação do Regulamento de Segurança Contra Incêndio e Pânico nas 
 edificações e áreas de risco do Estado de Minas Gerais. 
-Div. = Subdivisão do grupo de ocupação - conforme a  t abela de classificação das edificações e 
+Div. = Subdivisão do grupo de ocupação - conforme a t abela de classificação das edificações e 
 áreas de risco quanto à ocupação do Regulamento de Segurança Contra Incêndio e Pânico nas 
 edificações e áreas de risco do Estado de Minas Gerais. 
 *= Admite saída única nas habitações multifamiliares (A-2), não havendo mais de quatro 

@@ -1,0 +1,62 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22196004 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26032003&infra_sist…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 24 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 17/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 05 – 1ª
+Edição (Separação entre Ediﬁcações - Isolamento de Risco):
+ 
+1. ALTERAR o item 2.3
+Onde se lê: 
+"2.3 As ediﬁcações situadas no mesmo lote que não atenderem as exigências de isolamento
+de risco serão consideradas como uma única ediﬁcação para o dimensionamento das medidas de proteção
+previstas no Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco do Estado
+de Minas Gerais."
+Leia-se:
+"2.3 As ediﬁcações situadas no mesmo lote que não atenderem as exigências de isolamento
+de risco serão consideradas como uma única ediﬁcação para o dimensionamento das medidas de segurança
+previstas na legislação de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+2. ALTERAR o item 4.1
+Onde se lê: 
+"4.1 Para os efeitos desta Instrução Técnica aplicam-se as deﬁnições constantes da IT 02
+(Terminologia de Proteção Contra Incêndio e Pânico) e arƟgo 3º do Regulamento de Segurança Contra
+Incêndio e Pânico nas ediﬁcações e áreas de risco do Estado de Minas Gerais."
+Leia-se:
+"4.1 Para os efeitos desta Instrução Técnica, aplicam-se as deﬁnições constantes da IT 02
+(Terminologia de Proteção Contra Incêndio e Pânico) e arƟgo 3º do Regulamento de Segurança Contra
+Incêndio e Pânico do Estado de Minas Gerais."
+ 
+3. ALTERAR o item 6.1.7.1
+Onde se lê: 
+"6.1.7.1 No caso de ediİcios residenciais, consƟtuídos por duas torres, com altura máxima de
+12 m e com área úƟl de construção até 750 m² em cada torre (incluindo-se a área da escada,
+proporcionalmente), serão consideradas isoladas quando atenderem aos requisitos abaixo:"
+Leia-se:
+"6.1.7.1 No caso de ediİcios residenciais, consƟtuídos por duas torres, com altura máxima de
+12 m e com área úƟl de construção até 930 m² em cada torre (incluindo-se a área da escada,
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22196004 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26032003&infra_sist…
+2/2
+proporcionalmente), serão consideradas isoladas quando atenderem aos requisitos abaixo:"
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às
+07:10, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22196004 e o
+código CRC 826053BB.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22196004

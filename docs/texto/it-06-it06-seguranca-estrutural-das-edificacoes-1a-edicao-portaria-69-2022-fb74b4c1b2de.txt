@@ -1,0 +1,1192 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 06 
+1ª edição 
+SEGURANÇA ESTRUTURAL DAS 
+EDIFICAÇÕES 
+ 
+Aprovada pela portaria n. 05, de 25out2005. 
+Alterada pela portaria n. 47, de 23abr2020, publicada no DOEMG n. 87, ano 128, p.8. 
+Alterada pela portaria n. 61, de 28dez2020, publicada no DOEMG n. 260, ano 128, pp. 06 e 07. 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+SUMÁRIO 
+1 – Objetivo  
+2 – Aplicação  
+3 – Referências 
+4 – Definições 
+5 – Procedimentos 
+ANEXOS 
+A – Tempos requeridos de resistência ao 
+fogo (TRRF) 
+B – Tabela de resistência ao fogo para 
+alvenarias 
+C – Método do tempo equivalente de 
+resistência ao fogo
+
+--- PÁGINA 2 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+2/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+1 OBJETIVO 
+Esta Instrução Técnica estabelece as condições a serem atendidas pelos elementos estruturais 
+e de compartimentação que integram as edificações para que, em situação de incêndio, seja 
+evitado o colapso estrutural por tempo suficiente para possibilitar o atendimento das prescrições 
+contidas nas disposições preliminares do Regulamento de Segurança Contra Incêndio e Pânico 
+do Estado de Minas Gerais. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica aplica-se a todas as edificações onde for exigida a segurança 
+estrutural contra incêndio, conforme previsão da legislação de Segurança contra Incêndio e 
+Pânico do Estado de Minas Gerais. 
+2.2 Na ausência de Norma Nacional sobre dimensionamento das estruturas em situação de 
+incêndio adota-se o Eurocode em sua última edição, ou norma similar reconhecida 
+internacionalmente. No momento da publicação de norma nacional sobre o assunto, esta 
+passará a ser adotada nos termos desta IT. 
+3 REFERÊNCIAS 
+Para compreensão desta Instrução Técnica é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual n. 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 44.270/2006 – Regulamento de Segurança Contra Incêndio e Pânico nas 
+edificações e áreas de risco no Estado de Minas Gerais. 
+3.2 Normas 
+NBR 5628 – Componentes construtivos estruturais – Determinação da resistência ao fogo. 
+NBR 6118 – Projeto e execução de obras de concreto – Procedimento. 
+NBR 6120 – Cargas para cálculo de estruturas de edifícios – Procedimento. 
+NBR 6479 – Portas e vedadores – Determinação da resistência ao fogo – Método de ensaio. 
+NBR 8681 – Ações e segurança nas estruturas – Procedimento. 
+NBR 8800 – Projeto e execução de estruturas de aço de edifícios – Procedimento. 
+NBR 9062 – Projeto e execução de estruturas de concreto pré-moldado – Procedimento. 
+NBR 9077 – Saídas de emergência em edifícios – Procedimento. 
+NBR 10636 – Paredes divisórias sem função estrutural – Determinação da resistência ao fogo – 
+Método de ensaio. 
+NBR 11711 – Porta e vedadores corta-fogo com núcleo de madeira para isolamento de riscos 
+em ambientes comerciais e industriais – Especificação.
+
+--- PÁGINA 3 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+3/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+NBR 11742 – Porta corta-fogo para saída de emergência – Especificação. 
+NBR 14323 – Dimensionamento de estrutura de aço em situação de incêndio –Procedimento. 
+NBR 14432/2001 – Exigência de resistência ao fogo de elementos de construção de edificações 
+– Procedimento. 
+NBR 14762/2001 – Dimensionamento de estruturas de aço construídas por perfis formados a frio 
+– Procedimento. 
+NBR 15200/2004 – Projeto de estrutura de concreto em situação de incêndio – Procedimento. 
+Regulamentação de MARGARET LAW and TURLOGH O’BRIEN – “Fire Safety of Bare External 
+Structure Steel”. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção Contra Incêndio e Pânico). 
+5 PROCEDIMENTOS 
+5.1 Os tempos requeridos de resistência ao fogo (TRRF) são aplicados aos elementos 
+estruturais e de compartimentação, conforme os critérios estabelecidos nesta Instrução Técnica 
+e em seu Anexo A. 
+5.2 Para comprovar os TRRF constantes desta Instrução Técnica são aceitas as seguintes 
+metodologias: 
+a) execução de ensaios específicos de resistência ao fogo em laboratórios; 
+b) atendimento as tabelas elaboradas a partir de resultados obtidos em ensaios de resistência 
+ao fogo; 
+c) modelos matemáticos (analíticos) devidamente normalizados ou internacionalmente 
+reconhecidos. 
+5.3 Método do Tempo Equivalente 
+5.3.1 Para edificação com altura menor ou igual a 6,0 m, admite-se o uso do método do tempo 
+equivalente de resistência ao fogo em substituição aos TRRF estabelecidos nesta instrução, 
+conforme metodologia descrita no Anexo C. 
+5.3.2 Para edificação com altura superior a 6,0 m, admite-se o uso do método acima descrito, 
+contudo, fica limitada a redução de 30 (trinta) min dos valores dos TRRF constantes da Tabela A 
+do Anexo A, desta IT. 
+5.3.3 Na utilização do método do tempo equivalente, os TRRF resultantes dos cálculos não 
+poderão ter valores inferiores a 30 (trinta) minutos: 
+5.3.4 O método do tempo equivalente não pode ser empregado nas condições abaixo: 
+a) edificações do grupo L (explosivos); 
+b) edificações de divisões M-1 (Túnel); M-2 (Líquido ou gás inflamável ou combustível) e M-3
+
+--- PÁGINA 4 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+4/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+(Central de comunicação e energia); 
+c) edificações com estruturas de madeira. 
+5.3.5 No dimensionamento desse método, adotar módulos de no máximo 1000 m² de área de 
+piso. Módulos maiores podem ser utilizados, quando o espaço analisado possuir características 
+construtivas e cargas de incêndio uniformes. Será considerado o TRRF de maior valor obtido 
+(observar item 5.15 desta IT, quando se tratar de ocupação mista). 
+5.4 Ensaios 
+Os ensaios devem ser realizados em laboratórios reconhecidos, de acordo com as normas 
+técnicas nacionais ou, na ausência destas, de acordo com normas ou especificações 
+estrangeiras internacionalmente reconhecidas. 
+5.5 Dimensionamento de elementos estruturais em situação de incêndio 
+5.5.1 Elementos estruturais de aço e elementos estruturais mistos de aço e concreto. 
+Devem ser calculados de acordo com a NBR 14323 - Dimensionamento de estruturas de aço de 
+edifícios em situação de incêndio – Procedimento. 
+5.5.2 Elementos estruturais de concreto 
+Devem ser calculados de acordo com a NBR15200 – Projeto de estruturas de concreto em 
+situação de Incêndio – Procedimento. 
+5.5.3 Outros materiais estruturais 
+Na ausência de normas nacionais, poderão ser utilizadas normas ou especificações estrangeiras 
+internacionalmente reconhecidas. 
+5.5.4 Materiais de revestimento contra fogo 
+A escolha, o dimensionamento e a aplicação de materiais de revestimento contra fogo são de 
+responsabilidade do(s) responsável(is) técnico(s). 
+5.6 Cobertura 
+As estruturas das coberturas que não atendam aos requisitos de isenção do Anexo A devem ter, 
+no mínimo, o mesmo TRRF das estruturas principais da edificação. 
+5.7  Elementos de Compartimentação 
+5.7.1 Para as escadas e elevadores de segurança, os elementos de compartimentação, 
+constituídos pelo sistema estrutural das compartimentações e vedações das caixas, dutos e 
+antecâmaras, devem atender, no mínimo, ao TRRF igual ao estabelecido no Anexo A desta 
+Instrução Técnica, porém, não podendo ser inferior a 120 (cento e vinte) minutos. 
+5.7.2 Os elementos de compartimentação (externa e internamente à edificação, incluindo as 
+lajes, as fachadas, paredes externas e as selagens dos shafts e dutos de instalações) e os 
+elementos estruturais essenciais à estabilidade destes elementos, devem ter, no mínimo, o 
+mesmo TRRF da estrutura principal da edificação, sendo que o TRRF mínimo para as selagens 
+dos shafts e dutos de instalações serão de 60 (sessenta) minutos.
+
+--- PÁGINA 5 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+5/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+5.7.3 As paredes divisórias entre unidades autônomas, para as ocupações dos grupos A (A-2e 
+A-3), B, E e H (H-2, H-3, H-5 e H-6) devem possuir TRRF mínimo de 60 (sessenta) minutos, 
+independente do TRRF da edificação. Esta regra pode ser dispensada para as ocupações que 
+possuam sistemas de chuveiros automáticos, projetados conforme normas técnicas. 
+5.7.3.1 Havendo exigência da medida de segurança “compartimentação horizontal”, as portas 
+das unidades autônomas que dão acesso aos corredores e/ou hall de entrada das Divisões B-1, 
+B-2, H-2, H-3 e H-5, excetuando-se edificações térreas e prisões em geral, devem ser do tipo 
+resistente ao fogo (30 min), ensaiadas de acordo com a ABNT NBR 6479 e atendendo às 
+prescrições da NBR 15281. As edificações que possuem chuveiros automáticos projetados 
+conforme Norma Técnica específica ficam isentas dessa exigência. 
+Nota: São consideradas unidades autônomas os apartamentos residenciais; os apartamentos de 
+hotéis, motéis e flats; as salas de aula; as enfermarias e quartos de hospitais; as celas dos 
+presídios e assemelhados. 
+5.7.4 Os elementos de compartimentação usados como isolamento de riscos e os elementos 
+estruturais essenciais à estabilidade desta compartimentação devem ter, no mínimo, TRRF de 
+120 (cento e vinte minutos). 
+5.8 Mezaninos 
+5.8.1 Os mezaninos que não atendam aos requisitos de isenção do Anexo A, devem ter os 
+TRRF conforme estabelecido nesta Instrução Técnica, de acordo com a respectiva ocupação. 
+5.9 Materiais de proteção térmica 
+5.9.1 A escolha, dimensionamento e aplicação de materiais de proteção térmica são de 
+responsabilidade exclusiva do (s) responsável (eis) técnico (s) pelo projeto. 
+5.9.2 As propriedades térmicas e o desempenho dos materiais de proteção térmica quanto à 
+aderência, combustibilidade, estanqueidade, toxidade e outras propriedades, devem ser 
+determinados por ensaios realizados em laboratório nacional ou estrangeiro reconhecido 
+internacionalmente, de acordo com norma técnica nacional ou, na ausência desta, de acordo 
+com norma estrangeira reconhecida internacionalmente. 
+5.9.3 As propriedades dos materiais que variem com a temperatura devem ser por meio da 
+função de variação correspondente ou deve ser adotado o valor característico a 600ºC. 
+5.10 Subsolo 
+Os subsolos das edificações devem ter o TRRF estabelecido em função do TRRF da ocupação 
+a que pertencer, conforme Anexo A, não podendo ser inferior ao TRRF dos pavimentos situados 
+acima do solo. 
+5.11 Isenção de TRRF 
+5.11.1 As edificações isentas de TRRF, conforme Anexo A, devem ser projetadas (considerando 
+medidas ativas e passivas) visando atender aos objetivos do Regulamento de Segurança Contra 
+Incêndio do Corpo de Bombeiros. Caso contrário, as isenções não são admitidas. 
+5.12 Estruturas externas 
+5.12.1 O elemento estrutural situado no exterior da edificação pode ser considerado livre da 
+ação do incêndio, quando o seu afastamento das aberturas existentes na fachada for suficiente
+
+--- PÁGINA 6 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+6/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+para garantir que a sua elevação de temperatura não superará a temperatura crítica 
+considerada. Tal situação deve ser tecnicamente comprovada pelo responsável técnico pelo 
+projeto estrutural. 
+5.12.2 Para estruturas de aço, o procedimento para a verificação da possibilidade de aceitação 
+do item anterior deve ser analítico, envolvendo os seguintes passos: 
+a) definição das dimensões do setor que pode ser afetado pelo incêndio; 
+b) determinação da carga de incêndio específica; 
+c) determinação da temperatura atingida pelo incêndio; 
+d) determinação da altura, profundidade e largura das chamas emitidas para o exterior da 
+edificação; 
+e) determinação da temperatura das chamas nas proximidades dos elementos estruturais; 
+f) cálculo da transferência de calor para os elementos estruturais; 
+g) determinação da temperatura do aço no ponto mais crítico. 
+5.12.2.1 
+Para atender aos itens 5.12.1 e 5.12.2, usar a regulamentação de MARGARET LAW 
+and TURLOGH O’BRIEN - “Fire Safety of Bare External Structure Steel” ou regulamento similar. 
+5.12.2.2 Caso a temperatura determinada de acordo com o item 5.12.2 seja superior à 
+temperatura crítica das estruturas calculadas, essas devem ter o TRRF conforme o estabelecido 
+nesta Instrução Técnica. 
+5.12.3 Para outros materiais estruturais, aceita-se método analítico internacionalmente 
+reconhecido. 
+5.13 Estruturas encapsuladas 
+5.13.1 Os elementos estruturais encapsulados estarão livres da ação de incêndio desde que o 
+encapsulamento tenha o TRRF no mínimo igual ao que seria exigido para o elemento 
+considerado. 
+5.13.2 Considera-se forro resistente ao fogo o conjunto envolvendo as placas, perfis, suportes e 
+selagens das aberturas, devidamente ensaiado (conjunto), atendendo ao TRRF mínimo igual ao 
+que seria exigido para o elemento protegido considerado. O ensaio de resistência ao fogo deve 
+mencionar as soluções adotadas para as selagens das aberturas (penetrações) no forro (tais 
+como: iluminação, ar-condicionado e outras). 
+5.14 Edificação aberta lateralmente 
+5.14.1 Será considerada aberta lateralmente a edificação ou parte de edificação que, em cada 
+pavimento: 
+a) tenha ventilação permanente em duas ou mais fachadas externas, providas por aberturas que 
+possam ser consideradas uniformemente distribuídas e que tenham comprimentos em planta 
+que somados atinjam pelo menos 40% do perímetro da edificação e áreas que somadas 
+correspondam a pelo menos 20% da superfície total das fachadas externas; 
+b) tenha ventilação permanente em duas ou mais fachadas externas, provida por aberturas cujas
+
+--- PÁGINA 7 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+7/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+áreas somadas correspondam a pelo menos 1/3 da superfície total das fachadas externas, e 
+pelo menos 50% destas áreas abertas situadas em duas fachadas opostas. 
+5.14.2 Em qualquer caso, as áreas das aberturas nas laterais externas somadas devem possuir 
+ventilação direta para o meio externo e devem corresponder a pelo menos 5% da área do piso 
+no pavimento e as obstruções internas eventualmente existentes devem ter pelo menos 20% de 
+suas áreas abertas, com aberturas dispostas de forma que possam ser consideradas 
+uniformemente distribuídas, para permitir a ventilação. 
+5.15 Ocupação mista 
+A edificação que possuir ocupação mista, havendo ou não compartimentação entre as 
+ocupações, adotará o Tempo Requerido de Resistência ao Fogo (TRRF) da ocupação que 
+possuir a exigência mais rigorosa, observando-se a altura específica da ocupação. 
+5.16 Vigas principais 
+Considerar, para efeito desta instrução, como sendo todas as vigas cuja ruína pode provocar o 
+colapso de toda a edificação ou de parte da mesma. 
+5.17 Vigas secundárias 
+São as vigas cuja ruína tem efeito apenas localizado, ou seja, não provoca o colapso de 
+outras partes da edificação. 
+5.18 Memorial de Segurança da Estrutura 
+Quando da solicitação da Vistoria junto ao CBMMG, deverá ser anexado um Memorial de 
+Proteção dos Elementos Construtivos, com os seguintes dados: 
+a) método empregado para se atingir os TRRF dos elementos estruturais da edificação; 
+b) os TRRF para os diversos elementos construtivos; 
+c) especificações e condições de isenções e/ou reduções de TRRF; 
+d) tipo e espessuras de materiais de proteção térmica utilizados nos elementos 
+construtivos, quando for o caso, nas estruturas de aço, ou requisitos de dimensões e 
+cobrimento de armadura nas estruturas de concreto. Para outros materiais estruturais, 
+detalhar a solução adotada; 
+e) declaração de Responsabilidade Técnica pela conformidade da execução da segurança 
+estrutural.
+
+--- PÁGINA 8 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+8/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+ANEXO A (normativo) 
+Tempos requeridos de resistência ao fogo 
+A.1 Os tempos requeridos de resistência ao fogo (TRRF) devem ser determinados conforme a 
+Tabela A deste anexo, obedecendo-se às recomendações contidas nesta instrução e nas 
+considerações a seguir: 
+A.2 Condições de isenção e redução dos TRRF. 
+A.2.1 As edificações desta seção para obterem o benefício de isenção ou redução dos TRRF 
+devem atender aos objetivos do Regulamento de Segurança contra Incêndio do CBMMG e 
+possuírem as saídas de emergência, as rotas de fuga e as condições de ventilação 
+dimensionadas conforme regulamentações vigentes. 
+A.2.2 As isenções e reduções abaixo não se aplicam: 
+a) aos subsolos com área superior a 500m²; 
+b) a estrutura e paredes de vedação das escadas e elevadores de segurança, de isolamento de 
+riscos e de compartimentação, descritos em 5.7.1, 5.7.2, 5.7.3; 
+c) às edificações do grupo L (explosivos) e das divisões M-1 (Túnel); M-2 (Líquido ou gás 
+inflamável ou combustível) e M-3 (Central de comunicação e energia); 
+A.2.3 Edificações ISENTAS de TRRF, nas condições do item A.2.1, sendo que as áreas abaixo 
+referem-se à área total construída da edificação: 
+A.2.3.1 Edificações de classe P1 e P2 com área menor ou igual a 930 m². 
+A.2.3.2 Edificações térreas pertencentes às divisões F-5, G-5, H-5, I-3, quando: 
+a) a cobertura da edificação não tiver função de piso ou não for usada como rotas de fuga para 
+saídas de emergência; 
+b) a estrutura considerada da edificação, a critério do responsável técnico pelo projeto estrutural, 
+comprovado através de estudos técnicos, não for essencial à estabilidade de um elemento de 
+compartimentação; 
+c) a edificação possuir carga de incêndio específica menor ou igual a 500 MJ/m². 
+A.2.3.3 Edificações pertencentes às divisões G-1 e G-2, de classes P3 a P4, quando abertos 
+lateralmente conforme item 5.14 desta instrução e com as estruturas dimensionadas conforme 
+Anexo D da NBR14432/2001. 
+A.2.3.4 As coberturas das edificações que atendam aos requisitos abaixo: 
+a) não tiverem função de piso; 
+b) não forem usadas como rotas de fuga para saídas de emergência; 
+c) os elementos estruturais de cobertura cujo colapso, a critério do responsável técnico pelo 
+projeto estrutural, comprovado através de estudos técnicos, não comprometa a estabilidade 
+da estrutura principal da edificação.
+
+--- PÁGINA 9 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+9/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+A.2.3.5 Os mezaninos cuja estrutura não dependa da estrutura principal do edifício. 
+A.2.3.6 As escadas abertas (escadas simples), desde que não possuam materiais combustíveis 
+incorporados em suas estruturas, acabamentos ou revestimentos. 
+A.2.4 As edificações térreas pertencentes às divisões F-5, G-5, H-5, I-3 podem ter os TRRF 
+constantes da Tabela A reduzidos em 30 (trinta) minutos, caso atendam um dos seguintes 
+requisitos abaixo: 
+a) forem providas de chuveiros automáticos, conforme instrução técnica a respeito; 
+b) possuírem área total menor ou igual a 5.000m² e que atendam à IT 04 (Acesso de Viaturas 
+nas Edificações e Áreas de Risco); 
+c) forem consideradas lateralmente abertas, conforme item 5.14 desta instrução. 
+A.2.5 O TRRF das vigas secundárias, conforme item 5.17 desta instrução, não necessita ser 
+maior que: 
+a) 60 minutos para as edificações de classes P1 a P4; 
+b) 90 minutos para as edificações de classe P5. 
+A.2.5.1 Estas condições não se aplicam às edificações com altura superior a 80 (oitenta) metros. 
+A.2.6 A opção de escolha para determinação do TRRF conforme item 5.3 (tempo 
+equivalente) fica a critério do responsável técnico, não podendo haverem qualquer 
+hipótese e sobreposições de isenções, em função do item A.2 e subitens ou em função de 
+aços não convencionais.
+
+--- PÁGINA 10 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+10/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+Tabela A – Tempos requeridos de resistência ao fogo (TRRF) 
+Para a classificação detalhada das ocupações (grupo e divisão) consultar Regulamento de Segurança Contra Incêndio e Pânico nas edificações e espaços destinados ao uso coletivo do Estado de Minas Gerais. 
+Grupo Ocupação/Uso 
+Divisão 
+Profundidade do 
+Subsolo h 
+Altura da edificação h 
+Classe S2 
+h >10m 
+Classe S1 
+h ≤10m 
+Edificação Baixa 
+Edificação Média Altura 
+Medianamente 
+Alta 
+Alta 
+Classe P1 
+h ≤6m 
+Classe P2 
+6m <h ≤12m 
+ClasseP3 
+12m <h ≤23m 
+ClasseP4 
+23m <h ≤30m 
+ClasseP5 
+30m < h ≤ 80m 
+Classe P6 
+80m < h ≤ 120m 
+Classe P7 
+120 < h ≤ 150m 
+Classe P8 
+150m < h ≤ 250m 
+A 
+Residencial 
+A-1 a A-3 
+90 
+60 
+30 
+30 
+60 
+90 
+120 
+120 
+150 
+180 
+B 
+Serviço de 
+hospedagem 
+B-1 e B-2 
+90 
+60 
+30 
+60 
+60 
+90 
+120 
+150 
+180 
+180 
+C 
+Comercial 
+C-1 
+90 
+60 
+60 
+60 
+60 
+90 
+120 
+150 
+150 
+180 
+C-2 e C-3 
+90 
+60 
+60 
+60 
+60 
+90 
+120 
+150 
+150 
+180 
+D 
+Serviço 
+profissional 
+D-1 a D-4 
+90 
+60 
+30 
+60 
+60 
+90 
+120 
+150 
+150 
+180 
+E 
+Educacional e 
+cultura física 
+E-1 a E-6 
+90 
+60 
+30 
+30 
+60 
+90 
+120 
+120 
+150 
+150 
+F 
+Local de reunião 
+de público 
+F-1, F-2, F-5, F-6, F-
+8, F-10 e F-11 
+90 
+60 
+60 
+60 
+60 
+90 
+120 
+150 
+180 
+CT 
+F-3 e F-4 
+90 
+60 
+60 
+60 
+60 
+60 
+90 
+90 
+120 
+CT 
+F-9 
+90 
+60 
+30 
+60 
+60 
+90 
+120 
+CT 
+CT 
+CT 
+G 
+Serviço 
+automotivo e 
+assemelhados 
+G-1 e G-2 não abertos 
+lateralmente e G-3 a 
+G-5 
+90 
+60 
+30 
+60 
+60 
+90 
+120 
+120 
+150 
+180 
+G-1 e G-2 abertos 
+lateralmente 
+90 
+60 
+30 
+30 
+30 
+30 
+60 
+120 
+120 
+150 
+H 
+Serviço de saúde 
+e institucional 
+H-1 a H-6 
+90 
+60 
+30 
+60 
+60 
+90 
+120 
+150 
+180 
+180 
+I 
+Indústria 
+I-1 
+90 
+60 
+30 
+30 
+30 
+60 
+120 
+CT 
+CT 
+CT 
+I-2 
+120 
+90 
+30 
+30 
+60 
+90 
+120 
+CT 
+CT 
+CT 
+I-3 
+120 
+90 
+60 
+60 
+90 
+120 
+120 
+CT 
+CT 
+CT 
+J 
+Depósito 
+J-1 
+60 
+30 
+30 
+30 
+30 
+30 
+60 
+CT 
+CT 
+CT 
+J-2 
+90 
+60 
+30 
+30 
+60 
+60 
+90 
+CT 
+CT 
+CT 
+J-3 
+90 
+60 
+30 
+60 
+60 
+120 
+120 
+CT 
+CT 
+CT 
+J-4 
+120 
+90 
+60 
+60 
+90 
+120 
+120 
+CT 
+CT 
+CT 
+L 
+Explosivos 
+L-1, L-2 e L-3 
+120 
+120 
+120 
+CT 
+M 
+Especial 
+M-1 
+150 
+150 
+150 
+CT 
+M-2 
+CT                  
+120 
+120 
+CT 
+M-3 
+120 
+90 
+90 
+90 
+120 
+120 
+CT 
+M-5 
+Ver Instrução Técnica específica 
+M-8 
+Ver Instrução Técnica específica 
+NOTAS da TABELA A: 
+1. CT = Consultar Corpo Técnico junto ao Corpo de Bombeiros Militar de Minas Gerais. 
+2. O TRRF dos subsolos não pode ser inferior ao TRRF dos pavimentos situados acima do solo (ver item 5.10). 
+3. Para edificações com altura > 250 m = Consultar Corpo Técnico junto ao Corpo de Bombeiros Militar de Minas Gerais.
+
+--- PÁGINA 11 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n.184, ano 130, p. 05. 
+ 
+Anexo B (informativo) 
+Tabela de resistência ao fogo para alvenarias 
+Paredes ensaiadas(*) 
+Características das paredes 
+Resultado dos ensaios 
+Traço em volume da 
+argamassa do 
+assentamento 
+Espessura média 
+da argamassa de 
+assentamento(cm)
+Traço em volume de argamassa 
+de revestimento 
+Espessura 
+de 
+argamassa 
+de 
+revestimento 
+(cada face) 
+(cm) 
+Espessura 
+total da 
+parede 
+(cm) 
+Duração do 
+ensaio(min)
+Tempo de atendimento aos critérios 
+de avaliação(horas) 
+Resistência 
+ao fogo 
+(horas) 
+Chapisco 
+Emboço 
+Cimento Cal 
+Areia 
+Cimento Areia Cimento Cal Areia 
+Integridade Estanqueidade Isolação 
+térmica 
+ 
+Parede de tijolos de 
+barro cozido 
+(dimensões nominais 
+dos tijolos). 
+ 
+5 cm x 10 cm x 20cm: 
+Massa: 1,5kg 
+Meio - tijolo 
+sem 
+revestimento 
+- 
+1 
+5 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+10 
+120 
+≥2 
+≥2 
+1½ 
+1½ 
+Um tijolo 
+sem 
+revestimento 
+- 
+1 
+5 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+20 
+395 (**) 
+≥6 
+≥6 
+≥6 
+≥6 
+Meio - tijolo 
+com 
+revestimento 
+- 
+1 
+5 
+1 
+1 
+3 
+1 
+2 
+9 
+2,5 
+15 
+300 
+≥4 
+≥4 
+4 
+4 
+Um tijolo 
+com 
+revestimento 
+- 
+1 
+5 
+1 
+1 
+3 
+1 
+2 
+9 
+2,5 
+25 
+300 (**) 
+≥6 
+≥6 
+≥5 
+> 6 
+Parede de blocos 
+vazados de concreto 
+(2 furos) (blocos com 
+dimensões nominais): 
+14 cm x 19 cm x 39 cm 
+e 
+19 cm x 19 cm x 39 cm; 
+e massas de 13 kg e 
+ 17 kg respectivamente 
+Bloco de 14 
+cm sem 
+revestimento 
+1 
+1 
+8 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+14 
+100 
+≥1½ 
+≥1½ 
+1½ 
+1½ 
+Bloco de 19 
+cm sem 
+revestimento 
+1 
+1 
+8 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+19 
+120 
+≥2 
+≥2 
+1½ 
+1½ 
+Bloco de 14 
+cm com 
+revestimento 
+1 
+1 
+8 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+17 
+150 
+≥2 
+≥2 
+2 
+2 
+Bloco de 19 
+cm com 
+revestimento 
+1 
+1 
+8 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+22 
+185 
+≥3 
+≥3 
+3 
+3 
+Paredes de tijolos 
+cerâmicos de oito 
+furos (dimensões 
+nominais dos tijolos 
+10 cm x 20 cm x 20 
+cm (massa 2,9Kg) 
+Meio - tijolo 
+com 
+revestimento 
+- 
+1 
+4 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+13 
+150 
+≥2 
+≥2 
+2 
+2 
+Um tijolo 
+com 
+revestimento 
+- 
+1 
+4 
+1 
+1 
+3 
+1 
+2 
+9 
+1,5 
+23 
+300 (**) 
+≥4 
+≥4 
+≥4 
+> 4 
+Paredes de 
+concreto armado 
+monolítico sem 
+revestimento 
+Traço do concreto em volume, 1 cimento: 2,5 areia média: 3,5 agregado graúdo (granito pedra n. 3): 
+armadura simples posicionada à meia espessura das paredes, possuindo malha de lados 15 cm, de 
+aço CA- 50A diâmetro ¼polegada 
+11,5 
+150 
+2 
+2 
+1 
+1½ 
+16 
+210 
+3 
+3 
+3 
+3 
+(*) Paredes sem função estrutural ensaiadas totalmente vinculadas dentro da estrutura de concreto armado, com dimensões 2,8m x 2,8m totalmente expostas ao fogo (em uma face)  
+(**) Ensaio encerrado sem ocorrência de falência em nenhum dos três critérios de avaliação.
+
+--- PÁGINA 12 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+12/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+Anexo C (normativo) 
+Método do tempo equivalente de resistência ao fogo 
+O tempo equivalente a ser determinado de acordo com a formulação abaixo não poderá ter 
+valores menores de TRRF conforme o especificado no item 5.3.3 desta instrução técnica: 
+𝐭𝐞𝐪= 𝐪𝐟𝐢𝛄𝐧𝛄𝐬 𝐊 𝐖 𝐄 
+Onde: 
+teq– tempo equivalente (minutos).  
+qfi– carga de incêndio(MJ/m²). 
+n=n1n2n3–coeficiente adimensional que leva em conta a presença de medidas de proteção 
+ativa da edificação, determinado conforme a tabelaC2. 
+s=s1 s2– coeficiente de segurança que depende do risco de incêndio e das consequências do 
+colapso da edificação, determinado conforme tabelas C3 eC4. 
+K – fator determinado conforme tabela C1. 
+W – fator associado à ventilação do ambiente. 
+E – fator de correção que depende do material da estrutura, determinado conforme Tabela C5. 
+Tabela C1 – Fator K 
+𝐛= √𝛒 𝐜 𝛌 
+(J/m2s1/2ºC) 
+K 
+(min.M²/MJ) 
+√ρ c λ>2500 
+0,040 
+720 ≤√ρ c λ≤2500 
+0,055 
+√ρ c λ<720 
+0,070 
+– massa específica do elemento de vedação do compartimento (kg/m³) 
+c – calor específico do elemento de vedação do compartimento(J/kg ºC) 
+– condutividade térmica do elemento de vedação (W/m ºC) 
+Notas: 
+1) Quando houver elementos de compartimentação com diferentes camadas de material, pode 
+ser utilizado o menor valor de 𝐛= √𝛒 𝐜 𝛌, a favor da segurança. 
+2) Quando houver diferentes valores de b em paredes, pisos e tetos, este valor é determinado 
+conforme a expressão abaixo: 
+𝒃= 𝚺𝐛𝐢 𝐀𝐢
+𝐀𝐭 −𝐀𝐯
+ 
+ 
+Onde: 
+bi–é o fator  b do elemento de compartimentação 
+Ai –Área do elemento de compartimentação i (m²) 
+At – Área total do compartimento (piso, teto e paredes) (m²)
+
+--- PÁGINA 13 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+13/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+Av – Área de ventilação vertical (janelas, portas e similares) (m²) 
+Obs.: Não computar forros e revestimentos que possam ser destruídos pela ação do 
+incêndio. 
+ 
+𝐖= (𝟔
+𝐇)
+𝟎,𝟑
+[𝟎, 𝟔𝟐+
+𝟗𝟎 (𝟎, 𝟒−
+𝐀𝐯
+𝐀𝐟)
+𝟒
+𝟏+ 𝟏𝟐, 𝟓(𝟏+ 𝟏𝟎
+𝐀𝐯
+𝐀𝐟)
+𝐀𝐡
+𝐀𝐟
+] ≥𝟎, 𝟓 
+ 
+H – altura do compartimento (m) 
+Av– área de ventilação vertical – janelas (m²) 
+Ah– área de ventilação horizontal -piso (m²)  
+Af– área de piso (m²) 
+Tabela C2 - Fatores das medidas de segurança contra incêndio 
+Valores de n1n2n3  
+Existência de chuveiros 
+automáticos(n1) 
+Brigada contra incêndio(n2) 
+Existência de detecção 
+automática (n3) 
+0,60 
+Não profissional 
+Profissional 
+0,9 
+0,90 
+0,60 
+Na ausência de algum meio de proteção indicado na tabela C2, deve ser adotado o respectivo n 
+igual a 1. 
+Tabela C3 - Característica da edificação 
+Área do 
+compartimento (m²) 
+Altura da edificação (m) –s1 
+Térrea 
+h 6 
+6 < h 12 
+12 < h 23 
+23 < h 30 
+30 < h 80 
+H > 80 
+930 
+1.00 
+1.00 
+1.10 
+1.20 
+1.25 
+1.45 
+1.60 
+1000 
+1.05 
+1.10 
+1.15 
+1.25 
+1.35 
+1.65 
+1.85 
+2500 
+1.10 
+1.25 
+1.40 
+1.70 
+1.85 
+2.60 
+3.00 
+5000 
+1.15 
+1.45 
+1.75 
+2.35 
+2.65 
+3.00 
+3.00 
+7500 
+1.25 
+1.70 
+2.15 
+3.00 
+3.00 
+3.00 
+3.00 
+10000 
+1.30 
+1.90 
+2.50 
+3.00 
+3.00 
+3.00 
+3.00 
+ 
+1.60 
+2.80 
+3.00 
+3.00 
+3.00 
+3.00 
+3.00 
+65000 
+3.00 
+3.00 
+3.00 
+3.00 
+3.00 
+3.00 
+3.00
+
+--- PÁGINA 14 ---
+CBMMG IT 06 – Segurança Estrutural das Edificações 
+ 
+1ª edição  
+ 
+14/14 
+Alterada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p. 05. 
+ 
+Tabela C4 - Risco de ativação 
+Valores des2 
+risco de ativação do 
+incêndio 
+Exemplos de ocupação 
+0,85 
+Pequena 
+biblioteca, correio, escola, galeria de arte, igreja, museu, livraria, 
+frigorífico, escritório, venda de acessórios de automóveis, depósitos 
+em geral 
+1,0 
+Normal 
+cinema, 
+consultório 
+médico, 
+farmácia, 
+hotel, 
+hospital, 
+laboratório fotográfico, indústria de papel, oficina elétrica ou 
+mecânica, residência, restaurante, teatro, depósitos de: 
+produtos farmacêuticos, bebidas alcoólicas 
+1,2 
+Média 
+Montagem de automóveis, hangar, indústria mecânica 
+1,45 
+Alta 
+Laboratório químico, oficina de pintura de automóveis 
+Tabela C5 – Valores do Fator E 
+Material da estrutura 
+Fator E 
+Concreto armado 
+1,0 
+Aço revestido termicamente 
+1,0 
+Aço sem revestimento térmico 
+13,7 V 
+Nota: No caso de estruturas mistas de aço e concreto, utilizar, onde aplicável, o valor mais 
+desfavorável de E. 
+Onde: 
+V – grau de ventilação do compartimento calculado, conforme a seguinte expressão: 
+𝐕=
+𝐀𝐯√𝐡𝐞𝐪
+𝐀𝐭
+ 
+Nota: Limites de aplicação: 0,02 m½≤ V ≤ 0,20 m½ 
+𝐴𝑣= Área total de aberturas verticais (m²); 
+ℎ𝑒𝑞= Altura média das janelas, em metro (m); 
+𝐴𝑡= Área total do compartimento (paredes, teto e piso, incluindo aberturas).

@@ -1,0 +1,308 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+CIRCULAR – 15/2013 – DAT  
+Esclarece procedimentos para a apresentação de projetos em 
+formato digital através do sistema INFOSCIP.  
+ 
+O Coronel BM Diretor de Atividades Técnicas, no uso de suas atribuições legais consoante ao disposto 
+no inciso I, artigo 6º da Resolução 169/2005, que trata da competência e estrutura da Diretoria de 
+Atividades Técnicas, combinado com o disposto no inciso III, artigo 2º da Lei 14.130/2001, que dispõe 
+sobre a prevenção contra incêndio e pânico no Estado de Minas Gerais, 
+ 
+CONSIDERANDO QUE: 
+1. O Sistema de Informações do Serviço de Segurança Contra Incêndio e Pânico (INFOSCIP) visa a 
+otimização de recursos e a modernização do serviço de prevenção contra incêndio e pânico;  
+2. Com a implantação do INFOSCIP, tornou-se necessária a padronização de procedimentos e da 
+forma de apresentação do Processo de Segurança Contra Incêndio e Pânico (PSCIP), para 
+garantir maior agilidade nos serviços de análise e vistoria; 
+3. Há a necessidade de suplementação da Circular 08/2013 – DAT – para atender de forma versátil e 
+prática os públicos interno e externo quanto à padronização da apresentação de projetos em 
+formato dwg. 
+ 
+RESOLVE: 
+1. 
+As plantas do PSCIP devem ser apresentadas para análise através do INFOSCIP em arquivo 
+único, em formato dwg; 
+2. 
+Os demais documentos devem ser apresentados em formato pdf; 
+3. 
+As plantas dos pavimentos devem ser apresentadas de forma organizada no Model, sendo 
+vedada a apresentação para análise somente no layout; 
+4. 
+O arquivo que contiver o projeto deve apresentar somente aquilo que for pertinente ao 
+Regulamento de Segurança Contra Incêndio e Pânico, podendo ser utilizados os comandos “purge”, 
+“overkill” e outros, a fim de se evitar dados em excesso; 
+5. 
+As plantas que contiverem as medidas de segurança devem estar em escala 1/1 ou 1/100; os 
+cortes e fachadas em 1/100; planta de situação em 1/200 ou 1/500 e, quando for o caso, planta de 
+localização em 1/1000 ou 1/2000. É vedado o uso de escalas intermediárias como 1/50, 1/75, 1/125, 
+1/250, 1/750 etc; 
+6. 
+No Model, todos os layers (camadas), cores, tipos de linhas, blocos, hachuras e demais 
+configurações, devem obedecer ao seguinte padrão apresentado na tabela abaixo:
+
+--- PÁGINA 2 ---
+Notas: 
+i As Portas Corta fogo devem estar na camada coerente à representatividade dela no desenho. Ex.: Caso a porta corta fogo faça parte de escada enclausurada deverá estar na camada “3 – INC_IT_08”, 
+caso esteja em uma escada pressurizada na camada “3 – INC_IT_10” e caso seja uma porta de compartimentação na camada “3 – INC_IT_07”. 
+ii O desenho deverá estar limpo e livre de blocos que não auxiliem a análise (projeto elétrico, hidráulico e estrutural que não fazem parte das medidas de segurança). 
+iii Deverá ser cotado tudo o que subsidiar a análise, seja em corte, planta e detalhes. 
+iv Os textos que fizerem parte da sinalização de emergência deverão estar na camada “3 – INC_IT_15”. 
+GRUPOS 
+CAMADAS 
+ATIVADO 
+CONGELAR 
+NAS VP’S 
+COR 
+PENA 
+TIPO DE LINHA 
+USO EM ELEMENTOS (Exemplos) 
+1 – Projeto 
+1 – Hachura 
+Sim 
+Não 
+8 
+0.1 
+Contínua 
+Hachuras em geral tais como: concreto em corte, 
+terreno em corte etc. 
+1 – P01 
+Sim 
+Não 
+8 
+0.1 
+Contínua 
+Portas em corte e em planta que não sejam corta 
+fogoi, esquadria em vista, linhas auxiliares em 
+corte etc. 
+1 – P02 
+Sim 
+Não 
+2 
+0.2 
+Contínua 
+Esquadrias em corte, degraus, corrimão (que 
+não seja de saída de emergência) etc. 
+1 – P03 
+Sim 
+Não 
+3 
+0.3 
+Continua 
+Alvenaria em vista, alvenaria em planta a meia 
+altura (h=150cm ou inferior), divisórias, guarda-
+corpo em corte ou planta (que não seja de saída 
+de emergência) e blocos representativosii para o 
+advento da análise que não façam parte das 
+medidas de segurança. 
+1 – P04 
+Sim 
+Não 
+4 
+0.4 
+Contínua 
+Pilares em madeira, metal em vista ou em corte, 
+alvenaria ou concreto em vista, muros externos 
+etc. 
+1 – P05 
+Sim 
+Não 
+5 
+0.5 
+Contínua 
+Alvenaria em corte ou planta. 
+1 – P06 
+Sim 
+Não 
+6 
+0.6 
+Contínua 
+Parede, pilares e laje de concreto em corte ou 
+em planta. 
+1 – P07 
+Sim 
+Não 
+7 
+0.7 
+Traço – Ponto 
+Linha de Corte. 
+1 – Projeção 
+Sim 
+Não 
+2 
+0.2 
+Tracejada 
+Projeções em geral. 
+2 – Informações 
+2 – Cotas  
+Sim 
+Não 
+2 
+0.2 
+Contínua 
+Cotas em corte, planta e nível.iii 
+2 – Textos 
+Sim 
+Não 
+2 
+0.2 
+Contínua 
+Textos em Geral.iv 
+3 – Medidas de Segurança 
+ 
+3 – INC_IT_07 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que 
+fizerem 
+parte 
+da 
+compartimentação 
+horizontal e vertical, conforme IT-03 e IT-07. 
+3 – INC_IT_08 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte das saídas de emergência, 
+conforme IT-03 e IT-08. Ex.: Corrimão e guarda-
+corpo em escadas e rampas que forem saídas 
+de emergência.
+
+--- PÁGINA 3 ---
+3 – INC_IT_10 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema de pressurização 
+de escadas de segurança, conforme IT-03 e IT-
+10. 
+3 – INC _IT_13 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema de iluminação de 
+emergência, conforme IT-03 e IT-13. 
+3 – INC_IT_14 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema de alarme e 
+detecção de incêndio, conforme IT-03 e IT-13. 
+3 – INC_IT_15 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte da sinalização de emergência, 
+conforme IT-03 e IT-15. 
+3 – INC_IT_16 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema de proteção por 
+extintores, conforme IT-03 e IT-16. 
+3 – INC_IT_17 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema de proteção por 
+hidrantes, conforme IT-03 e IT-17. 
+3 – INC_IT_18 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema de proteção por 
+chuveiros automáticos, conforme IT-03 e IT-18. 
+3 – INC_IT_20 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema de proteção por 
+espuma, conforme IT-03 e IT-20. 
+3 – INC_IT_21 
+Sim 
+Não 
+1 
+0.2 
+Contínua 
+Todos os blocos, hachuras, linhas e polilinhas 
+que fizerem parte do sistema fixo de gases para 
+combate a incêndio, conforme IT-03 e IT-21.
+
+--- PÁGINA 4 ---
+7. 
+ Os nomes dos arquivos dos projetos (dwg) devem seguir ao prescrito na tabela abaixo, para 
+todas as formas de apresentação de PSCIP (PT, PTS ou PET): 
+ 
+DATA DE ENVIO 
+(Exemplo) 
+DESCRIÇÃO 
+NOME DO ARQUIVO 
+01/01/13 
+ENTRADA 
+ENT-01-01-13 
+15/01/13 
+RETORNO 
+RET-15-01-13 
+01/02/13 
+RECONSIDERAÇÃO DE ATO 
+RDA-01-02-13 
+15/02/13 
+RECURSO 1º GRAU 
+REC1-15-02-13 
+21/03/13 
+RECURSO 2º GRAU 
+REC2-21-03-13 
+ 
+7.1. Os demais documentos devem ser nomeados constando seu conteúdo, tendo como base o 
+exemplo acima (Ex: ART_PALCO-10-06-13, DEC_PÚBLICO-10-06-13); 
+8. 
+Os anexos “B”, “C”, “D”, “I”, “J”, “K”, da IT 01, ficam dispensados de apresentação, tendo em vista 
+que as informações serão inseridas diretamente no INFOSCIP; 
+8.1. Não será exigida a assinatura nos documentos de responsabilidade do Responsável Técnico 
+no PSCIP; 
+8.2. Não será exigida assinatura das plantas; 
+8.3. Os demais documentos deverão ser apresentados constando a assinatura dos responsáveis 
+(proprietário e/ou outro RT), inclusive a ART.  
+ 
+Esta Circular entra em vigor na data de sua publicação, para os municípios que adotam o sistema 
+INFOSCIP, ficando revogada a Circular 08/2013-DAT, de 06 de março de 2013. 
+ 
+Publique-se e cumpra-se. 
+ 
+Belo Horizonte, 19 de junho de 2013. 
+ 
+ 
+MIGUEL NOVAIS BORGES, CORONEL BM 
+DIRETOR DE ATIVIDADES TÉCNICAS

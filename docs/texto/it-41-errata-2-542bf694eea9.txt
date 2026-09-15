@@ -1,0 +1,858 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+1/13
+GOVERNO DO ESTADO DE MINAS GERAIS
+ 
+EMENDA 01/2019 - DAT e ERRATA 02/2019 - DAT
+ 
+ 
+O CORONEL BM CHEFE DO ESTADO-MAIOR DO CORPO DE BOMBEIROS MILITAR DE
+MINAS GERAIS, no uso das atribuições prescritas no inciso XIII, do arƟgo 1º, da Resolução nº 01, de 21 de
+janeiro de 2000, RESOLVE:
+I - TORNAR SEM EFEITO a publicação conƟda no BGBM nº 10, de 07 de março de 2019 e
+da Separata nº 10, de 07 de março de 2019, referentes à Emenda 01/2019 - DAT e Errata 02/2019 - DAT; 
+II - PUBLICAR a Emenda 01/2019 - DAT e Errata 02/2019 - DAT:
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS
+EMENDA 01/2018 DA INSTRUÇÃO TÉCNICA Nº 17/2005 – 1ª Edição
+SISTEMA DE HIDRANTES E MANGOTINHOS PARA COMBATE A INCÊNDIO
+Esta Emenda nº 01/2019 tem por objeƟvo ALTERAR os seguintes itens, tabelas e anexos da Instrução
+Técnica 17 (sistema de hidrantes e mangoƟnhos para combate a incêndio) 1ª edição/2005:
+A. ALTERA o subitem 5.8.8:
+Onde se lê:
+Cada sistema deve ser dimensionado de modo que as pressões dinâmicas nas entradas dos esguichos
+não ultrapassem o dobro daquela obƟda no esguicho mais desfavorável considerado no cálculo. Pode-se
+uƟlizar quaisquer disposiƟvos para redução de pressão, desde que comprovadas as suas adequações
+técnicas.
+ 
+Leia-se
+Cada sistema deve ser dimensionado de modo que as pressões dinâmicas nas entradas dos esguichos
+não ultrapassem o triplo daquela obƟda no esguicho mais desfavorável considerado no cálculo. Sendo
+que em ediﬁcações que não possuem brigada de incêndio de nível intermediário a pressão não pode
+ultrapassar 50 mca. Pode-se uƟlizar quaisquer disposiƟvos para redução de pressão, desde que
+comprovadas as suas adequações técnicas.
+ 
+B. ALTERA o item 5.16.2
+Onde se lê:
+Para sistemas Ɵpo 1 ou 2 pode ser uƟlizada tubulação com diâmetro nominal DN50 (2”), desde que
+comprovado tecnicamente o desempenho hidráulico dos componentes e do sistema, através de Laudo de
+laboratório oﬁcial competente.
+ 
+Leia-se
+
+--- PÁGINA 2 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+2/13
+Para sistemas Ɵpo 1 ou 2 pode ser uƟlizada tubulação com diâmetro nominal DN50mm para aço
+galvanizado e tubulação com diâmetro nominal DN54mm para cobre, devendo ser manƟda a eﬁciência
+das ações e possibilitando a aƟvidade de recalque. Poderá ser uƟlizada tubulação com diâmetro
+nominal inferior a DN65 (2½”), desde que comprovado tecnicamente o desempenho hidráulico dos
+componentes e do sistema, através de Laudo de laboratório oﬁcial competente.
+ 
+C. Altera a tabela 04
+Onde se lê:
+Área das
+edificações e
+áreas de risco
+(m2)
+Grupo/Divisão
+A-2, A-3, C-1, D-2, E-1, E-2,
+E-
+3, E-4, E-5, E-6, F-2, F-3, F-4,
+F-8, G-1, G-2, G-3, G-4, H1,
+H-2, H-3, H-5, H-6; I-1, J-1, J-
+2 e M-3
+--------------------------------------
+---
+Carga Incêndio até 300 MJ/m2
+D-1, D-3, D-4 , F-1
+B-1; B-2, C-3, F-5, F-6,
+F-7, F-9 e H-4
+----------------------
+Carga Incêndio > 300
+MJ/ m2
+D-1, D-3, D-4
+----------------------
+Carga Incêndio acima de
+300 até 800 MJ/m2
+C-2, I-2 e J-3
+F-10, G-5, L-1 e
+M-1
+----------------------
+--
+Carga Incêndio >
+800 MJ/m2
+C-2, I-2, J-3
+------------------
+> 300 MJ/m² F-1
+I-3, J-4,
+L-2 e  L-3
+Até 3.000
+Tipo 1
+R.I. 6 m³
+Tipo 2
+R.I. 8 m³
+Tipo 3
+R.I. 12 m³
+Tipo 3
+R.I. 20 m³
+Tipo 3
+R.I. 20 m³
+De 3.001
+até 6.000
+Tipo 1
+R.I. 8 m³
+Tipo 2
+R.I. 12 m³
+Tipo 3
+R.I. 18 m³
+Tipo 4
+R.I. 20 m³
+Tipo 4
+R.I. 30 m³
+De 6.001
+até 10.000
+Tipo 1
+R.I. 12 m³
+Tipo 2
+R.I. 16 m³
+Tipo 3
+R.I. 25 m³
+Tipo 4
+R.I. 30 m³
+Tipo 5
+R.I. 50 m³
+De 10.001
+até 15.000
+Tipo 1
+R.I. 16 m³
+Tipo 2
+R.I. 20 m³
+Tipo 3
+R.I. 30 m³
+Tipo 5
+R.I. 45 m³
+Tipo 5
+R.I. 80 m³
+De 15.001
+até 30.000
+Tipo 1
+R.I. 25 m³
+Tipo 2
+R.I. 35 m³
+Tipo 3
+R.I. 40 m³
+Tipo 5
+R.I. 50 m³
+Tipo 5
+R.I. 110 m³
+Acima de 30.000
+Tipo 1
+Tipo 2
+Tipo 3
+Tipo 5
+Tipo 5
+
+--- PÁGINA 3 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+3/13
+R.I. 35 m³
+R.I. 47 m³
+R.I. 60 m³
+R.I. 90 m³
+R.I. 140 m³
+ 
+Leia-se:
+ 
+Área das
+edificações e
+áreas de risco
+(m2)
+Grupo/Divisão
+A-2, A-3, C-1, D-2, E-1, E-2,
+E-
+3, E-4, E-5, E-6, F-2, F-3, F-4,
+F-8, G-1, G-2, G-3, G-4, H1,
+H-2, H-3, H-5, H-6; I-1, J-1, J-
+2 e M-3
+--------------------------------------
+---
+Carga Incêndio até 300 MJ/m2
+D-1, D-3, D-4 , F-1
+B-1; B-2, C-3, F-5, F-6,
+F-7, F-9, F-11 e H-4
+----------------------
+Carga Incêndio > 300
+MJ/ m2
+D-1, D-3, D-4
+----------------------
+Carga Incêndio acima de
+300 até 800 MJ/m2
+C-2, I-2 e J-3
+F-10, G-5, L-1 e
+M-1
+--------------------
+Carga Incêndio >
+800 MJ/m2
+C-2, I-2, J-3
+----------------------
+> 300 MJ/m² F-1
+I-3, J-4,
+L-2 e  L-3
+Até 3.000
+Tipo 1
+R.I. 6 m³
+Tipo 2
+R.I. 8 m³
+Tipo 3
+R.I. 12 m³
+Tipo 3
+R.I. 20 m³
+Tipo 3
+R.I. 20 m³
+De 3.001
+até 6.000
+Tipo 1
+R.I. 8 m³
+Tipo 2
+R.I. 12 m³
+Tipo 3
+R.I. 18 m³
+Tipo 4
+R.I. 20 m³
+Tipo 4
+R.I. 30 m³
+De 6.001
+até 10.000
+Tipo 1
+R.I. 12 m³
+Tipo 2
+R.I. 16 m³
+Tipo 3
+R.I. 25 m³
+Tipo 4
+R.I. 30 m³
+Tipo 5
+R.I. 50 m³
+De 10.001
+até 15.000
+Tipo 1
+R.I. 16 m³
+Tipo 2
+R.I. 20 m³
+Tipo 3
+R.I. 30 m³
+Tipo 5
+R.I. 45 m³
+Tipo 5
+R.I. 80 m³
+De 15.001
+até 30.000
+Tipo 1
+R.I. 25 m³
+Tipo 2
+R.I. 35 m³
+Tipo 3
+R.I. 40 m³
+Tipo 5
+R.I. 50 m³
+Tipo 5
+R.I. 110 m³
+Acima de 30.000
+Tipo 1
+R.I. 35 m³
+Tipo 2
+R.I. 47 m³
+Tipo 3
+R.I. 60 m³
+Tipo 5
+R.I. 90 m³
+Tipo 5
+R.I. 140 m³
+
+--- PÁGINA 4 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+4/13
+ 
+D. Altera o item D.1.1
+Onde se lê:
+D.1.1 Áreas exclusivamente desƟnadas a processos industriais com carga de incêndio igual ou inferior a
+100 MJ/ m2;
+ 
+Leia-se:
+D.1.1 Áreas exclusivamente desƟnadas a processos industriais com carga de incêndio igual ou inferior a
+200 MJ/ m2;
+ 
+ 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS
+ERRATA 02/2018 DA INSTRUÇÃO TÉCNICA Nº 41/2017 – 1ª Edição
+CONTROLE de FUMAÇA
+Esta Errata nº 02/2019 tem por objeƟvo ALTERAR os seguintes itens e tabelas da Instrução Técnica 41
+(Controle de Fumaça) 1ª edição/2017:
+A. ALTERA o item 9.6.2.3
+Onde se lê:
+9.6.2.3 Em ediﬁcações sem proteção por chuveiros automáƟcos, para ﬁns de consideração de queima
+estável, será aceita a instalação parcial de sistema de chuveiros automáƟcos para a proteção de
+pavimentos sem janelas com ocupação disƟnta de estacionamento de veículos nas ediﬁcações onde este
+sistema (chuveiros automáƟcos) não é obrigatório.
+Leia-se:
+9.6.2.3 Em ediﬁcações sem proteção por chuveiros automáƟcos o tamanho do incêndio será deﬁnido
+através da Tabela 8 e as equações para dimensionamento do sistema deverão ser aquelas previstas para
+condição instável (queima instável).
+9.6.2.3.1 Em ediﬁcações sem proteção por chuveiros automáƟcos, para ﬁns de consideração de queima
+estável, será aceita a instalação parcial de sistema de chuveiros automáƟcos para a proteção de
+pavimentos sem janelas com ocupação disƟnta de estacionamento de veículos nas ediﬁcações onde este
+sistema (chuveiros automáƟcos) não é obrigatório.
+ 
+2. ALTERA a tabela 2
+Onde se lê:
+TABELA 2: ÁREAS A SEREM PROTEGIDAS E TIPOS DE SISTEMA POR OCUPAÇÃO
+Ocupação
+Tipo de sistema
+Exigência (1)
+Áreas onde a medida deve ser
+instalada
+
+--- PÁGINA 5 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+5/13
+Grupo Divisão
+A
+A-2*
+A-3
+-
+Não se aplica.
+-
+B
+B-1
+B-2
+2 ou 3
+Altura > 54 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2.
+C
+C-1
+C-2
+C-3
+2 ou 3
+Altura > 54 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2 e depósitos com carga incêndio
+superior a 300 MJ/m2.
+D
+D-1
+D-2
+D-3
+D-4
+2 ou 3
+Altura > 54 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2.
+E
+E-1
+E-2
+E-3
+E-4
+E-5
+E-6
+2 ou 3
+Altura > 54 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2.
+F(3)
+F-1
+F-2
+F-3
+F-4
+F-7
+F-8
+F-9
+F-10
+2 ou 3
+Altura > 54 metros.
+Áreas de concentração de público,
+áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2.
+
+--- PÁGINA 6 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+6/13
+F-5
+F-6
+F-11
+1, 2 ou 3(2)
+População > 500
+pessoas ou
+Altura > 30 metros.
+G
+G-1
+G-2
+G-3
+G-4
+G-5
+-
+Não se aplica.
+-
+H(3)
+H-1
+H-4
+H-6
+-
+Não se aplica.
+-
+H-2
+H-5
+1, 2 ou 3(2)
+Altura> 12 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2.
+H-3
+1, 2 ou 3(2)
+Altura> 30metros.
+I
+I-1
+I-2
+2 ou 3
+Altura > 54 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2.
+I-3
+1, 2 ou 3(2)
+Altura> 12 metros.
+J
+J-1
+-
+Não se aplica.
+-
+J-2
+2 ou 3
+Altura > 54 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2, área utilizada como depósito.
+J-3
+J-4
+1, 2 ou 3(2)
+Todasedificações
+L
+L-1
+L-2
+L-3
+-
+Não se aplica.
+-
+M
+M-1
+-
+Não se aplica.
+-
+
+--- PÁGINA 7 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+7/13
+M-2
+M-4
+M-5
+M-3
+1, 2 ou 3(2)
+Altura> 30 metros.
+Áreas de circulação, áreas comuns,
+corredores, átrios, unidades
+autônomas com área superior a 300
+m2.
+ 
+Notas:
+1. Ediﬁcações com áreas superiores a 750 m2.
+2. Para alturas superiores a 54 metros deverão ser projetados sistemas Ɵpo 2 ou 3.
+3.  A isenção prevista no Item 11.1.1 não se aplica às ediﬁcações dos grupos/ocupação F e H.
+Leia-se:
+TABELA 2: ÁREAS A SEREM PROTEGIDAS E TIPOS DE SISTEMA POR OCUPAÇÃO
+Ocupação
+Tipo de
+sistema
+Áreas onde a medida deve ser instalada
+Grupo
+Divisão
+A
+A-2, A-3
+-
+-
+B
+B-1, B-2
+2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2.
+C
+C-1, C-2
+-
+-
+C-3
+1(1), 2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2 e
+depósitos com carga incêndio superior a 300 MJ/m2.
+D
+D-1, D-2,
+D-3, D-4
+2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2.
+E
+E-1, E-2,
+E-3, E-4,
+E-5, E-6
+2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2.
+F(2)
+F-1, F-2,
+2 ou 3
+Áreas de concentração de público, áreas de circulação,
+áreas comuns, corredores, átrios, unidades autônomas
+
+--- PÁGINA 8 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+8/13
+F-3, F-4,
+F-8, F-9,
+F-10
+com área superior a 300 m2.
+F-5, F-6,
+F-11
+1(1), 2 ou 3
+G
+G-1, G-2,
+G-3, G-4,
+G-5
+-
+-
+H(2)
+H-1, H-4,
+H-6
+-
+-
+H-2, H-5,
+H-3
+1(1), 2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2.
+I
+I-1, I-2,
+I-3
+1(1), 2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2.
+J
+J-1
+-
+-
+J-2, J-3,
+J-4
+1(1), 2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2, área
+utilizada como depósito.
+L
+L-1, L-2,
+L-3
+-
+-
+M
+M-1, M-
+2,
+M-4, M-5
+-
+-
+M-3
+1(1), 2 ou 3
+Áreas de circulação, áreas comuns, corredores, átrios,
+unidades autônomas com área superior a 300 m2.
+Notas:
+1. Para alturas superiores a 54 metros deverão ser projetados sistemas Ɵpo 2 ou 3.
+2. A isenção prevista no Item 11.1.1 não se aplica às ediﬁcações dos grupos/ocupação F e H.
+
+--- PÁGINA 9 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infra…
+9/13
+ 
+3. ALTERA a tabela 12
+Onde se lê:
+Tabela 12 – Resumo de dimensionamento do sistema de controle de fumaça
+ 
+TIPO DE SISTEMA DE CONTROLE DE FUMAÇA
+PARAMETRO A
+DIMENSIONAR
+TIPO 01
+(NATURAL)
+TIPO 02(4)
+(MECÂNICO)
+TIPO 03
+(COMBINADO)
+Altura de referência (H)
+Item 4.4
+Não se aplica
+ 
+Dimensionar conforme
+metodologia do
+Sistema Tipo 1
+(Item 10.2.2)
+Altura livre de fumaça
+(H’)
+Item 4.5
+Classificação do risco
+Tabela 3
+(Ocupações C, I e J)
+Item 8.5.1 “a”
+Tabela 6
+(Demais ocupações)
+Item 8.5.2 “b”
+Grupo de risco
+Tabela 4
+(Ocupações C, I e J)
+Item 8.5.1 “b”
+% de abertura (%a)
+Tabela 5
+(Ocupações C, I e J)
+Item 8.5.1 “c”
+Tabela 7
+(Demais ocupações)
+Item 8.5.2 “c”
+Área de Extração (Ae)(³)
+Equação 1
+
+--- PÁGINA 10 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infr…
+10/13
+Item 8.5.1 “d”
+Anexo A
+Tamanho do incêndio (Ia)
+Não se aplica
+ 
+Tabela 8
+Item 9.6.2.2
+Dimensionar conforme
+metodologia do
+Sistema Tipo 2
+(Item 10.3.1)
+Taxa de liberação de calor
+(Q’)
+Tabela 9
+Item 9.6.3.2
+Altura da camada de
+fumaça
+Item 8.8
+Taxa total de liberação de
+calor (Qt)
+Equação 3
+Item 9.6.3.2
+Anexo B
+Tempo para a camada de
+fumaça descer(1)
+Equação 4.a ou 4.b
+Item 9.6.5.2
+Anexo B
+Altura da chama
+Equação 5
+Item 9.6.6.1
+Anexo B
+Massa de fumaça a ser
+extraída(2)
+Equação 6.a ou 6.b
+Item 9.6.7.2
+Anexo B
+Extração/Volume de
+fumaça produzida (EXF)
+Equação 7
+Item 9.6.8.1
+Anexo B
+Exaustores/vazão (VEX)
+VEX= EXF x 1,25
+(Item 9.6.8.2)
+Entrada de ar
+Igual a Ae
+ENTar= EXF x 0,6
+A abertura deve
+
+--- PÁGINA 11 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infr…
+11/13
+(Item 9.4.4)
+possibilitar o fluxo
+constante de ar
+(Item 10.2.2)
+Nota:
+1) Avaliar possibilidade da extração mecânica entrar em funcionamento (Item 9.6.5.3) e veriﬁcar a necessidade de uƟlizar a Tabela 10.
+2) No caso de mezaninos e balcões deve ser uƟlizada a equação 8 (Item 9.7.4).
+3)  Atender ao item 6.4.2.5.
+4) Atender o item 9.6.13.3.
+ 
+Leia-se:
+TABELA 12 – RESUMO DE DIMENSIONAMENTO DO SISTEMA DE CONTROLE DE FUMAÇA
+ 
+TIPO DE SISTEMA DE CONTROLE DE FUMAÇA
+PARAMETRO A
+DIMENSIONAR
+TIPO 01
+(NATURAL)
+TIPO 02(4)
+(MECÂNICO)
+TIPO 03
+(COMBINADO)
+Altura de referência (H)
+Item 4.4
+Não se aplica
+ 
+Dimensionar conforme
+metodologia do
+Sistema Tipo 1
+(Item 10.2.2)
+Altura livre de fumaça
+(H’)
+Item 4.5
+Classificação do risco
+Tabela 3
+(Ocupações C, I e J)
+Item 8.5.1 “a”
+Tabela 6
+(Demais ocupações)
+Item 8.5.2 “b”
+Grupo de risco
+Tabela 4
+(Ocupações C, I e J)
+Item 8.5.1 “b”
+% de abertura (%a)
+Tabela 5
+(Ocupações C, I e J)
+Item 8.5.1 “c”
+
+--- PÁGINA 12 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infr…
+12/13
+Tabela 7
+(Demais ocupações)
+Item 8.5.2 “c”
+Área de Extração (Ae)(³)
+Equação 1
+Item 8.5.1 “d”
+Anexo A
+Tamanho do incêndio (Ia)
+Não se aplica
+ 
+Tabela 8
+Item 9.6.2.2
+Dimensionar conforme
+metodologia do
+Sistema Tipo 2
+(Item 10.3.1)
+Taxa de liberação de calor
+(Q’)
+Tabela 9
+Item 9.6.3.2
+Altura da camada de
+fumaça
+Item 9.6.4
+Taxa total de liberação de
+calor (Qt)
+Equação 3
+Item 9.6.3.2
+Anexo B
+Tempo para a camada de
+fumaça descer(1)
+Equação 4.a ou 4.b
+Item 9.6.5.2
+Anexo B
+Altura da chama
+Equação 5
+Item 9.6.6.1
+Anexo B
+Massa de fumaça a ser
+extraída(2)
+Equação 6.a ou 6.b
+Item 9.6.7.2
+Anexo B
+Extração/Volume de
+fumaça produzida (EXF)
+Equação 7
+Item 9.6.8.1
+
+--- PÁGINA 13 ---
+09/10/2020
+SEI/GOVMG - 3780173 - Ato
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=4542399&infr…
+13/13
+Anexo B
+Exaustores/vazão (VEX)
+VEX= EXF x 1,25
+(Item 9.6.8.2)
+Entrada de ar
+Igual a Ae
+ENTar= EXF x 0,6
+(Item 9.4.4)
+A abertura deve
+possibilitar o fluxo
+constante de ar
+(Item 10.2.2)
+Nota genérica:
+A) No cálculo dos parâmetros para dimensionamento do sistema, o Ɵpo de queima (estável ou instável) deﬁnirá as equações que serão uƟlizadas.
+ 
+Notas especíﬁcas:
+1) Avaliar possibilidade da extração mecânica entrar em funcionamento (Item 9.6.5.3) e veriﬁcar a necessidade de uƟlizar a Tabela 10.
+2) No caso de mezaninos e balcões deve ser uƟlizada a equação 8 (Item 9.7.4).
+3)  Atender ao item 6.4.2.5.
+4) Atender o item 9.6.13.3.
+ 
+Publique-se, registre-se e cumpra-se.
+Estado-Maior em Belo Horizonte, 14 de março de 2019.
+ 
+(a) ERLON DO NASCIMENTO DIAS BOTELHO, CORONEL BM
+CHEFE DO ESTADO-MAIOR
+Documento assinado eletronicamente por Erlon Dias do Nascimento Botelho, Coronel BM, em
+15/03/2019, às 15:08, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 47.222, de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 3780173 e
+o código CRC E5F56ABE.
+Referência: Processo nº 1400.01.0011115/2019-06
+SEI nº 3780173

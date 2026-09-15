@@ -1,0 +1,154 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 23 de agosto de 2024.
+  
+EMENDA CBMMG/DAT Nº. 3/2024
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 01 - 10ª Edição
+(Procedimentos Administrativos):
+ 
+1. ALTERAR a alínea “c” do item 5.4.4.2, que passa a vigorar com a seguinte redação:
+c) houver acréscimo de estrutura provisória ou tenda destinadas à recepção de público, que implique na
+mudança da classificação para risco alto, conforme Quadro 01 da IT 33;
+ 
+2. REVOGAR os itens 6.1.2, 6.1.2.1, 6.1.2.1.1 e 6.1.2.1.2.
+ 
+3. ALTERAR o caput e a alínea "a.1" do item 6.1.2.2, que passam a vigorar com a seguinte redação:
+6.1.2.2 Os PSCIP impressos que necessitem dar continuidade a sua tramitação deverão ser migrados,
+obedecendo-se aos seguintes critérios:
+(...)
+a.1) Caso exista PSCIP anterior, as notificações e modificações em andamento serão desconsideradas.
+ 
+4. ALTERAR a alínea “e” do item 6.3.5.2, que passa a vigorar com a seguinte redação:
+e) Havendo “AVCB vencido” referente à área liberada pelo CBMMG, será necessária a apresentação de
+Laudo de Convalidação de Área Liberada (Anexo E.5.4 da IT 03), acompanhado do documento de
+responsabilidade técnica registrado junto ao respectivo órgão profissional.
+ 
+5. ACRESCENTAR a alínea “b.1” ao item 6.4.2:
+b.1) para atualização de dados relativos à carga de incêndio e/ou ocupação/divisão que não implique em
+acréscimo de medidas ou adoção de parâmetros mais rigorosos, o RT deverá enviar um FAT atestando
+que as alterações efetuadas não implicam em adição de risco ao imóvel.
+ 
+6. ALTERAR a alínea “e” do item 6.4.2, que passa a vigorar com a seguinte redação:
+e) quando houver acréscimo de risco especial, com exceção do disposto em 6.4.2.2, alíneas ‘c’ e ‘g’;
+ 
+7. ACRESCENTAR a alínea “g” ao item 6.4.2.2:
+g) instalação de painéis fotovoltaicos na edificação, devendo ser atendidos os requisitos da IT-30.
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 1
+
+--- PÁGINA 2 ---
+8. ALTERAR as alíneas “a” e “c” do item 6.5.2, que passam a vigorar com a seguinte redação:
+a) Em PTD, em qualquer situação, devendo o RT atestar a segurança dos ocupantes da edificação em caso
+de incêndio ou pânico, mediante preenchimento de laudo próprio (Anexo E.5.2 da IT 03), sem avaliação
+de mérito pelo CBMMG;
+(...)
+c) Em PTS para tratar de impossibilidade técnica que não tenham adaptações e medidas mitigadoras
+expressamente previstas na IT 40, devendo o RT atestar a segurança dos ocupantes da edificação em caso
+de incêndio ou pânico, mediante preenchimento de laudo próprio (Anexo E.5.2 da IT 03), sem avaliação
+de mérito pelo CBMMG, cabendo ao vistoriador a conferência da documentação exigida (comprovante de
+existência/construção, Laudo Técnico e documento de responsabilidade técnica registrado junto ao
+respectivo conselho profissional);
+ 
+9. ALTERAR o item A.1.1.5, que passa a vigorar com a seguinte redação:
+A.1.1.5 Desde que não interfiram no dimensionamento dos demais sistemas, medidas de segurança
+suplementares que atendam integralmente ou não às instruções técnicas aplicáveis poderão constar no
+projeto, porém não serão objeto de aprovação e liberação pelo CBMMG. As medidas suplementares
+deverão ser apresentadas no mesmo arquivo DWG das medidas obrigatórias, porém em plantas separadas.
+ 
+10. ACRESCENTAR o item A.1.2.2:
+A.1.2.2 Para as áreas externas descobertas, de qualquer ocupação, utilizadas como reunião de público
+(grupo F) deverão ser acrescentadas as exigências complementares previstas no Quadro 02 da IT 33,
+quando em funcionamento e conforme público presente.
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 2
+
+--- PÁGINA 3 ---
+11. ALTERAR a Tabela 1, que passa a vigorar com a seguinte redação:
+ 
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 3
+
+--- PÁGINA 4 ---
+12. ALTERAR a Tabela 3, que passa a vigorar com a seguinte redação:
+ 
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 4
+
+--- PÁGINA 5 ---
+13. ALTERAR a Tabela 8, que passa a vigorar com a seguinte redação:
+ 
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 5
+
+--- PÁGINA 6 ---
+14. ALTERAR a Tabela 12, que passa a vigorar com a seguinte redação:
+ 
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 6
+
+--- PÁGINA 7 ---
+15. ALTERAR a Tabela 13, que passa a vigorar com a seguinte redação:
+ 
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 7
+
+--- PÁGINA 8 ---
+16. ALTERAR o item B.2.2 e acrescentar os itens B.2.2.1, B.2.2.1.1, B.2.2.2, B.2.2.2.1 e B.2.2.3:
+B.2.2 O evento temporário que tenha duração superior a 1 (um) ano e a construção provisória (estrutura
+desmontável) que permaneça montada por tempo superior a 01 (um) ano no mesmo local deverão se
+regularizar como edificação ou espaço destinado ao uso coletivo permanente, deixando de ser classificados
+como F-7.
+B.2.2.1 A duração do evento é compreendida pelo período contabilizado entre sua data inicial e final,
+conforme respectivos campos do Infoscip.
+B.2.2.1.1 Caso deseje permanecer se regularizando como evento temporário após um ano de realização,
+deverá observar o período mínimo de 06 (seis) meses, entre sua data final e a nova data de início.
+B.2.2.2 A contabilização do tempo de permanência da montagem da construção provisória (estrutura
+desmontável) considerará todo o período em que a estrutura estiver montada, independente da duração dos
+licenciamentos dos eventos realizados no local.
+B.2.2.2.1 Caso deseje utilizar a mesma estrutura após um ano de realização de eventos (divisão F-7),
+deverá observar o período mínimo de 06 (seis) meses sem a utilização da estrutura.
+B.2.2.3 Quando se tratar de local descoberto, poderá permanecer se regularizando como evento
+temporário, ainda que permaneça no mesmo local. Neste caso, o licenciamento deverá ser refeito,
+observando o prazo máximo de 1 (um) ano por licenciamento.
+ 
+17. ALTERAR a Tabela C.1, que passa a vigorar com a seguinte redação:
+ 
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 8
+
+--- PÁGINA 9 ---
+18. ACRESCENTAR os itens E.2.3.2 e E.2.3.2.1:
+E.2.3.2 Quando houver um conjunto de atividades, porém sem a configuração de ocupação mista, a
+ocupação principal será definida de acordo com o risco predominante existente.
+E.2.3.2.1 O risco predominante será o risco principal existente no imóvel, ou o que predomina sobre os
+demais, ou ainda o maior nível de risco, desde que na ocorrência de um sinistro ele contribua de alguma
+forma para o agravamento da situação de forma significativa e em termos proporcionais.
+Notas:
+a) ocorrendo equivalência na somatória da carga de incêndio, adotar-se-á para efeito da classificação do
+maior risco, a ocupação que possuir maior carga de incêndio pôr m²;
+b) ocorrendo concentração de público, prevalecerá como sendo o maior risco, para o dimensionamento das
+saídas de emergências.
+ 
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 9
+
+--- PÁGINA 10 ---
+19. ALTERAR o Quadro E.10, que passa a vigorar com a seguinte redação:
+Quadro E.10 – Critérios para aplicação de legislação em PSCIP
+ 
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 26/08/2024, às
+15:28, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 10
+
+--- PÁGINA 11 ---
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 95639130 e o
+código CRC 2806C14C.
+Referência: Processo nº 1400.01.0059560/2024-21
+SEI nº 95639130
+CBMMG - Emenda 3 (95639130)         SEI 1400.01.0059560/2024-21 / pg. 11

@@ -1,0 +1,2222 @@
+--- PÁGINA 1 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+1/12
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 26 de novembro de 2020.
+  
+ERRATA CBMMG/DAT Nº. 21/2020
+Esta Errata tem por objeƟvo promover as seguintes correções na Instrução Técnica 08 – 2ªEdição (Saídas de
+Emergência em Ediﬁcações ):
+ 
+1. ALTERAR a alínea "a" do item 5.1.1
+Onde se lê: 
+"a) quanto à ocupação, de acordo com o anexo do Regulamento de Segurança Contra Incêndio e Pânico nas
+ediﬁcações e áreas de risco no Estado de Minas Gerais;"
+Leia-se:
+"a) quanto à ocupação, de acordo com o anexo do Regulamento de Segurança Contra Incêndio e Pânico do Estado
+de Minas Gerais; "
+ 
+2. ALTERAR o item 5.3.2
+Onde se lê: 
+"5.3.2 O cálculo da população de cada pavimento da ediﬁcação é de acordo com os coeﬁcientes da Tabela 4,
+considerando sua ocupação, dada no anexo do Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de
+risco no Estado de Minas Gerais."
+Leia-se:
+"5.3.2 O cálculo da população de cada pavimento da ediﬁcação é de acordo com os coeﬁcientes da Tabela 4,
+considerando sua ocupação, dada no anexo do Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais."
+ 
+3. ALTERAR o item 5.5.2.3
+Onde se lê: 
+"5.5.2.3 No caso das distâncias máximas a percorrer para as rotas de fuga que não forem deﬁnidas no projeto
+arquitetônico, como, por exemplo, escritório de plano espacial aberto e galpão sem o arranjo İsico interno (leiaute), devem ser
+consideradas as distâncias diretas comparadas aos limites da tabela 5, nota “a”, reduzidas em 30% (trinta porcento)."
+Leia-se:
+"5.5.2.3 No caso das distâncias máximas a percorrer para as rotas de fuga que não forem deﬁnidas no projeto
+arquitetônico, como, por exemplo, escritório de plano espacial aberto e galpão sem o arranjo İsico interno (leiaute), devem ser
+consideradas as distâncias diretas comparadas aos limites da tabela 5, reduzidas em 30% (trinta porcento)."
+ 
+4. ALTERAR o item 5.5.3.1
+Onde se lê: 
+"5.5.3.1 O número de saídas exigido para os diversos Ɵpos de ocupação, em função da altura, dimensões em
+planta e caracterísƟcas construƟvas de cada ediﬁcação, encontra- se na tabela 6."
+Leia-se:
+"5.5.3.1 O número de saídas exigido para os diversos Ɵpos de ocupação, em função da altura e caracterísƟcas
+construƟvas de cada ediﬁcação, encontra-se na Tabela 6."
+
+--- PÁGINA 2 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+2/12
+5. ALTERAR os itens 5.15 e 5.15.1
+Onde se lê: 
+"5.15 Exigências para ediﬁcações ou áreas de risco em que sejam feitas modiﬁcações quanto ao Ɵpo de
+ocupação
+5.15.1 As ediﬁcações e/ou áreas de risco que, por qualquer moƟvo, vierem a ser, em parte, ou totalmente,
+modiﬁcadas quanto ao seu Ɵpo de ocupação deverão atender as exigências desta Instrução Técnica."
+Leia-se:
+"5.15 Exigências para ediﬁcações ou espaços desƟnados ao uso coleƟvo em que sejam feitas modiﬁcações
+quanto ao Ɵpo de ocupação
+5.15.1 As ediﬁcações e/ou espaços desƟnados ao uso coleƟvo que, por qualquer moƟvo, vierem a ser, em parte ou
+totalmente, modiﬁcadas quanto ao seu Ɵpo de ocupação, deverão atender às exigências desta Instrução Técnica."
+ 
+6. ALTERAR a Tabela 2
+Onde se lê: 
+Tabela 2: Classiﬁcação das ediﬁcações quanto às suas dimensões em planta
+ 
+Natureza do Enfoque
+Código
+Classe da ediﬁcação
+Parâmetros de área
+Quanto à área do maior Pavimento (Sp)
+N
+De pequeno
+pavimento
+Sp< 750 m²
+O
+De grande pavimento
+Sp> 750 m²
+Quanto à área dos pavimentos situados abaixo da soleira de
+Entrada (Ss)
+P
+Com pequeno subsolo
+Ss< 500 m²
+Q
+Com grande subsolo
+Ss> 500 m²
+Quanto à área total St (soma das áreas de todos os Pavimentos
+da ediﬁcação)
+R
+Ediﬁcações pequenas
+St< 750 m²
+S
+Ediﬁcações médias
+750 m <St< 1500 m²
+T
+Ediﬁcações grandes
+1500 m² < St< 5000 m²
+U
+Ediﬁcações muito
+grandes
+At > 5000 m²
+ 
+Leia-se:
+ Tabela 2: Classiﬁcação das ediﬁcações quanto às suas dimensões em planta
+ 
+Natureza do Enfoque
+Código
+Classe da ediﬁcação
+Parâmetros de área
+Quanto à área do maior Pavimento (Sp)
+N
+De pequeno
+pavimento
+Sp< 930 m²
+O
+De grande pavimento
+Sp> 930 m²
+Quanto à área dos pavimentos situados abaixo da soleira de
+Entrada (Ss)
+P
+Com pequeno subsolo
+Ss< 500 m²
+Q
+Com grande subsolo
+Ss> 500 m²
+Quanto à área total St (soma das áreas de todos os Pavimentos
+da ediﬁcação)
+R
+Ediﬁcações pequenas
+St< 930 m²
+S
+Ediﬁcações médias
+930 m <St< 1500 m²
+T
+Ediﬁcações grandes
+1500 m² < St< 5000 m²
+U
+Ediﬁcações muito
+grandes
+At > 5000 m²
+ 
+7. ALTERAR a Tabela 3
+Onde se lê: 
+ 
+Tabela 3: Classiﬁcação das ediﬁcações quanto às suas caracterísƟcas construƟvas
+ 
+Código
+Tipo
+Especiﬁcação
+
+--- PÁGINA 3 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+3/12
+X
+Ediﬁcações em que o crescimento e a
+propagação do incêndio podem ser
+fáceis e onde a estabilidade pode ser
+ameaçada pelo incêndio
+Ediİcios em que estão presentes as seguintes condições:
+a)  Não possuam TRRF, mesmo que existam condições de isenção na IT06
+b)   Não possuam comparƟmentação verƟcal completa, de acordo com a
+IT 07, mesmo que existam condições de isenção no Regulamento de
+Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco do
+Estado de Minas Gerais.
+Y
+Ediﬁcações onde um dos três eventos é
+provável:
+a) Rápido crescimento do incêndio;
+b) propagação verƟcal do incêndio;
+c) colapso estrutural.
+Ediİcios onde apenas uma das duas condições está presente:
+a) Possuam TRRF, mesmo que existam condições de isenção na IT06
+b) Possuam comparƟmentação verƟcal completa, de acordo com a IT 07,
+mesmo que existam condições de isenção no Regulamento de Segurança
+Contra Incêndio e Pânico nas ediﬁcações e áreas de risco do Estado de
+Minas Gerais.
+Z
+Ediﬁcações concebidas para limitar:
+a) O rápido crescimento do incêndio;
+b) propagação verƟcal do incêndio;
+c) colapso estrutural.
+Ediİcios onde as duas condições abaixo estão presentes:
+a)   Possuam TRRF, mesmo que existam condições de isenção na IT06
+b) Possuam comparƟmentação verƟcal completa, de acordo com a IT 07,
+mesmo que existam condições de isenção no Regulamento de Segurança
+Contra Incêndio e Pânico nas ediﬁcações e áreas de risco do Estado de
+Minas Gerais.
+ 
+Leia-se:
+ 
+ 
+Tabela 3: Classiﬁcação das ediﬁcações quanto às suas caracterísƟcas construƟvas
+ 
+Código
+Tipo
+Especiﬁcação
+X
+Ediﬁcações em que o crescimento e a
+propagação do incêndio podem ser
+fáceis e onde a estabilidade pode ser
+ameaçada pelo incêndio
+Ediİcios em que estão presentes as seguintes condições:
+a) Não possuam TRRF, mesmo que existam condições de isenção na IT 06; 
+b)  Não possuam comparƟmentação verƟcal completa, de acordo com a IT
+07, mesmo que existam condições de isenção na legislação de Segurança
+Contra Incêndio e Pânico do Estado de Minas Gerais.
+Y
+Ediﬁcações onde um dos três eventos
+é provável:
+a) rápido crescimento do incêndio;
+b) propagação verƟcal do incêndio;
+c) colapso estrutural.
+Ediİcios onde apenas uma das duas condições está presente:
+a) Possuam TRRF, mesmo que existam condições de isenção na IT 06;
+b) Possuam comparƟmentação verƟcal completa, de acordo com a IT 07,
+mesmo que existam condições de isenção na legislação de Segurança
+Contra Incêndio e Pânico do Estado de Minas Gerais.
+Z
+Ediﬁcações concebidas para limitar:
+a) o rápido crescimento do incêndio;
+b) propagação verƟcal do incêndio;
+c) colapso estrutural.
+Ediİcios onde as duas condições abaixo estão presentes:
+a) Possuam TRRF, mesmo que existam condições de isenção na IT 06;
+b) Possuam comparƟmentação verƟcal completa, de acordo com a IT 07,
+mesmo que existam condições de isenção na legislação de Segurança
+Contra Incêndio e Pânico do Estado de Minas Gerais.
+ 
+ 
+8. ALTERAR a Tabela 4
+Onde se lê: 
+Tabela 4: Dados para o dimensionamento das saídas
+
+--- PÁGINA 4 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+4/12
+Ocupação
+População (A)
+Capacidade da U de passagem(B)
+Grupo
+Divisão
+Acesso e
+descargas
+Escadas
+e rampas
+Portas
+A
+A-1 e A-2
+Duas pessoas por dormitório (C)
+60
+45
+100
+A-3
+Duas pessoas por dormitório e uma pessoa
+por 4 m² de área de alojamento (D)
+B
+-
+Uma pessoa por 15,0 m² de área (E) (G)
+C
+-
+Uma pessoa por 3,0 m² de área (E) (J)
+100
+60
+100
+D
+-
+Uma pessoa por 7,0 m² de área (E) (L)
+E
+E-1 a E-4
+Uma pessoa por 1,50 m² de área de sala de
+aula (F)
+E-5 e E-6
+Uma pessoa por 1,50 m² de área de sala de
+aula (F)
+30
+22
+30
+F
+F-1 e F-10
+Uma pessoa por 3,0 m²de área
+100
+75
+100
+F-2, F-5, F-8, F-9 e F-11
+Uma pessoa por m² de área (E) (G)
+F-3, F-6 e F-7
+Duas pessoas por m² de área (E) (G)  (1:0,5
+m²)
+F-4
+Uma pessoa por 3,0 m² de área
+G
+G-1 e G-6
+Uma pessoa por 40 vagas de veículo
+100
+60
+100
+G2, G-3, G-4 e G-5
+Uma pessoa por 20 m² de área (E)
+H
+H-1 e H-6
+Uma pessoa por 7 m² de área (E)
+60
+45
+100
+H-2
+Duas pessoas por dormitório (C) e uma
+pessoa por 4 m² de área de alojamento (E)
+30
+22
+30
+H-3
+Uma pessoa e meia por leito + uma pessoa
+por 7,0 m² de área de ambulatório (H)
+H-4
+Uma pessoa por 7,0 m² de área (E) (L) (M)
+100
+60
+100
+H-5
++ (I)  (N)
+60
+45
+100
+I
+-
+Uma pessoa por 10,0 m² de área
+100
+60
+100
+J
+-
+Uma pessoa por 30,0 m² de área(J)
+L
+L-1
+Uma pessoa por 3,0 m² de área
+100
+60
+100
+L-2 e L-3
+Uma pessoa por 10,0 m² de área
+M
+M-1 e M-6
++ (I)
+100
+75
+100
+M-3, M-5 e M-7
+Uma pessoa por 10,0 m² de área
+100
+60
+100
+
+--- PÁGINA 5 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+5/12
+M-4
+Uma pessoa por 4,0 m² de área
+60
+45
+100
+ 
+Leia-se:
+Tabela 4: Dados para o dimensionamento das saídas
+ 
+Ocupação
+População (A)
+Capacidade da U de
+passagem(B)
+Grupo
+Divisão
+Acesso
+e
+descargas
+Escadas
+e rampas Portas
+A
+A-1 e A-2
+Duas pessoas por dormitório (C)
+60
+45
+100
+A-3
+Duas pessoas por dormitório e uma pessoa por 4 m² de área
+de alojamento (D)
+B
+-
+Uma pessoa por 15,0 m² de área (E) (G)
+C
+-
+Uma pessoa por 3,0 m² de área (E) (J)
+100
+60
+100
+D
+-
+Uma pessoa por 7,0 m² de área (E) (K)
+E
+E-1 a E-4
+Uma pessoa por 1,50 m² de área de sala de aula (F)
+E-5 e E-6
+Uma pessoa por 1,50 m² de área de sala de aula (F)
+30
+22
+30
+F
+F-1 e F-10
+Uma pessoa por 3,0 m² de área
+100
+75
+100
+F-2, F-5, F-8, F-9 e F-11
+Uma pessoa por m² de área (E) (G)
+F-3, F-6 e F-7
+Duas pessoas por m² de área (E) (G)  (1:0,5 m²)
+F-4
+Uma pessoa por 3,0 m² de área
+G
+G-1
+Uma pessoa por 40 vagas de veículo
+100
+60
+100
+G2, G-3, G-4 e G-5
+Uma pessoa por 20 m² de área (E)
+H
+H-1 e H-6
+Uma pessoa por 7 m² de área (E)
+60
+45
+100
+H-2
+Duas pessoas por dormitório (C) e uma pessoa por 4 m² de
+área de alojamento (E)
+30
+22
+30
+H-3
+Uma pessoa e meia por leito + uma pessoa por 7,0 m² de área
+de ambulatório (H)
+H-4
+Uma pessoa por 7,0 m² de área (E) (K) (L)
+100
+60
+100
+H-5
++ (I)  (M)
+60
+45
+100
+I
+-
+Uma pessoa por 10,0 m² de área
+100
+60
+100
+J
+-
+Uma pessoa por 30,0 m² de área (J)
+L
+L-1
+Uma pessoa por 3,0 m² de área
+100
+60
+100
+
+--- PÁGINA 6 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+6/12
+L-2 e L-3
+Uma pessoa por 10,0 m² de área
+M
+M-1 e M-6
++ (I)
+100
+75
+100
+M-3 e M-7
+Uma pessoa por 10,0 m² de área
+100
+60
+100
+M-4
+Uma pessoa por 4,0 m² de área
+60
+45
+100
+M-5
++ (I)
++ (I)
++ (I)
++ (I)
+M-8
++ (I)
++ (I)
++ (I)
++ (I)
+ 
+ 
+9. ALTERAR as Notas da Tabela 4
+Onde se lê: 
+Notas:
+(A) Os parâmetros dados nesta Tabela são os mínimos aceitáveis para o cálculo da população. Em projetos especíﬁcos, devem
+ser cotejados com os obƟdos em função da localização de assentos, máquinas, arquibancadas e outros, e adotados os mais
+exigentes, para maior segurança.
+(B) As capacidades das unidades de passagem (número de pessoas que passa em 1 minuto) em escadas e rampas estendem-
+se para lanços retos e saída descendente. Nos demais casos devem sofrer redução como abaixo especiﬁcado. Estas
+percentagens de redução são cumulaƟvas, quando for o caso.
+(B.1) Lanços ascendentes de escadas, com degraus até 17,0 cm de altura: redução de 10%.
+(B.2) Lanços ascendentes de escada com degraus até 17,5 cm de altura: redução de 15%.
+(B.3) Lanços ascendentes de escadas com degraus até 18,0 cm de altura: redução de 20%.
+(B.4) Rampas ascendentes, declividade até 10%: redução de 1% por grau percentual de inclinação (1% a10%).
+(B.5) Rampas ascendentes de mais de 10% (máximo: 12,5%): redução de20%.
+(C) Em apartamentos de até dois dormitórios, a sala deve ser considerada como dormitório; em apartamentos maiores (três e
+mais dormitórios), as salas de costura, gabinetes e outras dependências que possam ser usadas como dormitórios (inclusive
+para empregadas) são considerados como tais. Em apartamentos mínimos, sem divisões em planta, considera-se uma pessoa
+para cada 6,0 m² de área de pavimento.
+(D) Alojamento = dormitório coleƟvo, com mais de 10,0m².
+(E) Por “Área” entende-se a “Área do pavimento” que abriga a população em foco, exceto as áreas de sanitários, escadas,
+rampas e corredores; quando discriminado o Ɵpo de área (por ex.: área do alojamento), é a área úƟl interna da dependência
+emquestão.
+(F) Auditórios e assemelhados, em escolas, bem como salões de festas e centros de convenções em hotéis são considerados
+nos grupos de ocupação F-2, F-6 e outros, conforme ocaso.
+(G) As cozinhas e suas áreas de apoio, nas ocupações F-6 e F-8, têm sua ocupação admiƟda como no grupo D, isto é, uma
+pessoa por 7,0 m² de área.
+(H) Em hospitais e clínicas com internamento (H-3), que tenham pacientes ambulatoriais, acresce-se à área calculada por leito,
+a área de pavimento correspondente ao ambulatório, na base de uma pessoa por 7,0 m².
+(I) O símbolo “+” indica necessidade de consultar normas e regulamentos especíﬁcos (não cobertos por esta Instrução
+Técnica).
+(J) A parte de atendimento ao público de comércio atacadista deve ser considerada como do grupoC.
+(L) Em ediﬁcações com áreas desƟnadas aos serviços de tele atendimento e similares deverá ser levado em consideração o
+leiaute da ediﬁcação e a previsão do número de funcionários que permanecerão no ambiente. Quando não for possível a
+apresentação do leiaute, deverá ser considerada a proporção de 2 (duas) pessoas/m².
+(L.1) Para as demais áreas da ediﬁcação deverão ser aplicados os critérios estabelecidos na tabela           .
+(M) Havendo ocupações secundárias tais como depósitos, fábricas, locais de reunião de público, dentre outras, no PSCIP
+referente à divisão principal H-4, deverão ser adotados os parâmetros especíﬁcos para cada ocupação secundária para cálculo
+
+--- PÁGINA 7 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+7/12
+de população.
+(N) O dimensionamento das saídas de emergência em divisões H-5 deverá ser feito com base na população informada pelo
+responsável pela ediﬁcação, sendo este cálculo de responsabilidade do Responsável Técnico. Neste caso, deverá constar no
+PSCIP declaração informando que o dimensionamento atende às normas especíﬁcas do sistema prisional.
+(O) Quanto à densidade populacional, as ediﬁcações poderão apresentar coeﬁcientes superiores ao previsto, desde que seja
+observado o limite de 02 (duas) pessoas por m² e as saídas sejam dimensionadas em quanƟdade e largura suﬁcientes para
+atender à populaçãoprevista.
+(P) Para salões de festa, caracterizados como ocupação secundária, pertencentes a ediİcios residenciais, poderá ser admiƟda
+a limitação de público para ﬁns de dimensionamento das saídas de emergência, com redução de, no máximo, 02 UP,
+respeitando-se a largura mínima prevista em 5.4.2 desta IT.
+ 
+Leia-se:
+Notas:
+(A) Os parâmetros dados nesta Tabela são os mínimos aceitáveis para o cálculo da população. Em projetos especíﬁcos, devem
+ser cotejados com os obƟdos em função da localização de assentos, máquinas, arquibancadas e outros, e adotados os mais
+exigentes, para maior segurança.
+(B) As capacidades das unidades de passagem (número de pessoas que passa em 1 minuto) em escadas e rampas estendem-
+se para lanços retos e saída descendente. Nos demais casos, devem sofrer redução como abaixo especiﬁcado. Estas
+percentagens de redução são cumulaƟvas, quando for o caso.
+(B.1) Lanços ascendentes de escadas, com degraus até 17,0 cm de altura: redução de 10%.
+(B.2) Lanços ascendentes de escada com degraus até 17,5 cm de altura: redução de 15%.
+(B.3) Lanços ascendentes de escadas com degraus até 18,0 cm de altura: redução de 20%.
+(B.4) Rampas ascendentes, declividade até 10%: redução de 1% por grau percentual de inclinação (1% a10%).
+(B.5) Rampas ascendentes de mais de 10% (máximo: 12,5%): redução de20%.
+(C) Em apartamentos de até dois dormitórios, a sala deve ser considerada como dormitório; em apartamentos maiores (três e
+mais dormitórios), as salas de costura, gabinetes e outras dependências que possam ser usadas como dormitórios (inclusive
+para empregadas) são considerados como tais. Em apartamentos mínimos, sem divisões em planta, considera-se uma pessoa
+para cada 6,0 m² de área de pavimento.
+(D) Alojamento = dormitório coleƟvo, com mais de 10,0m².
+(E) Por “Área” entende-se a “Área do pavimento” que abriga a população em foco, exceto as áreas de sanitários, escadas,
+rampas e corredores; quando discriminado o Ɵpo de área (por ex.: área do alojamento), é a área úƟl interna da dependência
+em questão.
+(F) Auditórios e assemelhados, em escolas, bem como salões de festas e centros de convenções em hotéis são considerados
+nos grupos de ocupação F-2, F-6 e outros, conforme o caso.
+(G) As cozinhas e suas áreas de apoio, nas ocupações F-6, F-8 e F-11, têm sua ocupação admiƟda como no grupo D, isto é, uma
+pessoa por 7,0 m² de área.
+(H) Em hospitais e clínicas com internação (H-3), que tenham pacientes ambulatoriais, acresce-se à área calculada por leito, a
+área de pavimento correspondente ao ambulatório, na base de uma pessoa por 7,0 m².
+(I) O símbolo “+” indica necessidade de consultar normas e regulamentos especíﬁcos (não cobertos por esta Instrução
+Técnica).
+(J) A parte de atendimento ao público de comércio atacadista deve ser considerada como do grupo C.
+(K) Em ediﬁcações com áreas desƟnadas aos serviços de tele atendimento e similares deverá ser levado em consideração o
+leiaute da ediﬁcação e a previsão do número de funcionários que permanecerão no ambiente. Quando não for possível a
+apresentação do leiaute, deverá ser considerada a proporção de 2 (duas) pessoas/m².
+(K.1) Para as demais áreas da ediﬁcação deverão ser aplicados os critérios estabelecidos na tabela           .
+(L) Havendo ocupações secundárias tais como depósitos, fábricas, locais de reunião de público, dentre outras, no PSCIP
+referente à divisão principal H-4, deverão ser adotados os parâmetros especíﬁcos para cada ocupação secundária para cálculo
+de população.
+
+--- PÁGINA 8 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+8/12
+(M) O dimensionamento das saídas de emergência em divisões H-5 deverá ser feito com base na população informada pelo
+responsável pela ediﬁcação, sendo este cálculo de responsabilidade do Responsável Técnico. Neste caso, deverá constar no
+PSCIP declaração informando que o dimensionamento atende às normas especíﬁcas do sistema prisional.
+(N) Quanto à densidade populacional, as ediﬁcações poderão apresentar coeﬁcientes superiores ao previsto, desde que seja
+observado o limite de 02 (duas) pessoas por m² e as saídas sejam dimensionadas em quanƟdade e largura suﬁcientes para
+atender à população prevista.
+(O) Para salões de festa, caracterizados como ocupação secundária, pertencentes a ediİcios residenciais, poderá ser admiƟda
+a limitação de público para ﬁns de dimensionamento das saídas de emergência, com redução de, no máximo, 02 UP,
+respeitando-se a largura mínima prevista em 5.4.2 desta IT.
+ 
+10. ALTERAR a Tabela 5 
+Onde se lê:
+Tabela 5: Distâncias máximas a serem percorridas
+ 
+Tipo de
+ediﬁcação
+Grupo e divisão de
+ocupação
+Sem chuveiros automáƟcos
+Com chuveiros automáƟcos
+Saída única
+Mais de uma saída
+Saída única
+Mais de uma saída
+Detecção automáƟca
+de fumaça
+Detecção automáƟca de
+fumaça
+Detecção automáƟca de
+fumaça
+Detecção automáƟca de
+fumaça
+SEM
+COM
+SEM
+COM
+SEM
+COM
+SEM
+COM
+X
+Qualquer
+25,0 m
+40,0 m
+35,0 m
+50,0 m
+40,0 m
+55,0 m
+50,0 m
+65,0 m
+Y
+Qualquer
+35,0 m
+50,0 m
+45,0 m
+60,0 m
+50,0 m
+65,0 m
+60,0 m
+75,0 m
+Z
+C, D, E, F,
+G-3, G-4, H, I, L e
+M
+50,0 m
+65,0 m
+60,0 m
+75,0 m
+65,0 m
+80,0 m
+75,0 m
+90,0 m
+A, B, G-1,
+G-2 e J
+55,0 m
+70,0 m
+65,0 m
+80,0 m
+70,0 m
+85,0 m
+80,0 m
+95,0 m
+ 
+ 
+Leia-se:
+Tabela 5: Distâncias máximas a serem percorridas
+ 
+Tipo de
+ediﬁcação
+Grupo e divisão
+de ocupação
+Sem chuveiros automáƟcos
+Com chuveiros automáƟcos
+Saída única
+Mais de uma saída
+Saída única
+Mais de uma saída
+Detecção automáƟca
+de incêndio
+Detecção automáƟca de
+incêndio
+Detecção automáƟca de
+incêndio
+Detecção automáƟca de
+incêndio
+SEM
+COM
+SEM
+COM
+SEM
+COM
+SEM
+COM
+X
+Qualquer
+25,0 m
+40,0 m
+35,0 m
+50,0 m
+40,0 m
+55,0 m
+50,0 m
+65,0 m
+Y
+Qualquer
+35,0 m
+50,0 m
+45,0 m
+60,0 m
+50,0 m
+65,0 m
+60,0 m
+75,0 m
+Z
+C, D, E, F,
+G-3, G-4, G-5, H,
+I, L e M
+50,0 m
+65,0 m
+60,0 m
+75,0 m
+65,0 m
+80,0 m
+75,0 m
+90,0 m
+A, B, G-1,
+G-2 e J
+55,0 m
+70,0 m
+65,0 m
+80,0 m
+70,0 m
+85,0 m
+80,0 m
+95,0 m
+ 
+ 
+11. ALTERAR a Nota da Tabela 5
+Onde se lê: 
+"Notas: Para que ocorram as distâncias previstas na tabela 5, é necessária a apresentação de leiaute deﬁnido em
+planta baixa (de salão aberto, sala de eventos, escritório panorâmico e outros). Do contrário, as distâncias deﬁnidas acima serão
+reduzidas a 30% (trinta por cento)."
+
+--- PÁGINA 9 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_sis…
+9/12
+Leia-se:
+"Nota: Para que ocorram as distâncias previstas na tabela 5, é necessária a apresentação de leiaute deﬁnido em
+planta baixa (de salão aberto, sala de eventos, escritório panorâmico e outros). Do contrário, as distâncias deﬁnidas acima serão
+reduzidas em 30% (trinta por cento)."
+ 
+ 
+ 
+12. ALTERAR a Tabela 6
+Onde se lê:
+Tabela 6: Número de saídas e Ɵpos de escada
+ 
+Dimensão
+N (área de pavimentos < ou igual a 750 m²)
+O (área de pavimento> 750 m²)
+Altura
+(metros)
+H ≤ 12
+12 < H≤ 30 30 < H≤ 54 Acima de 54
+H ≤ 12
+12 < H≤ 30 30 < H≤ 54 Acima de 54
+Ocupação Nº Tipo
+Esc
+Nº
+Tipo
+Esc
+Nº
+Tipo
+Esc
+Nº
+Tipo
+Esc
+Nº Tipo
+Esc
+Nº
+Tipo
+Esc
+Nº
+Tipo
+Esc
+Nº
+Tipo
+Esc
+Gr.
+Div.
+ 
+A
+A-2*
+A-3
+1
+1
+NE
+NE
+1
+1
+EP
+EP
+1
+2
+PF
+PF
+1
+2
+PF
+PF
+1
+1
+NE
+NE
+2*
+2
+EP
+EP
+2*
+2
+PF
+PF
+2*
+2
+PF
+PF
+B
+B-1
+B-2
+1
+1
+NE
+NE
+1
+1
+PF
+PF
+2
+2
+PF
+PF
+2
+2
+PF
+PF
+2
+2
+NE
+NE
+2
+2
+PF
+PF
+2
+2
+PF
+PF
+2
+2
+PF
+PF
+C
+C-1
+C-2
+C-3
+1
+1
+1
+NE
+NE
+NE
+1
+1
+2
+EP
+EP
+PF
+2
+2
+2
+EP 
+PF 
+PF
+2
+2
+2
+EP 
+PF 
+PF
+2
+2
+2
+NE
+NE
+NE
+2
+2
+3
+PF
+PF
+PF
+2
+3
+3
+PF
+PF
+PF
+2
+3
+3
+PF
+PF
+PF
+D
+-
+1
+NE
+1
+EP
+1
+PF
+1
+PF
+2
+NE
+2
+PF
+2
+PF
+2
+PF
+E
+E-1
+E-2
+E-3
+E-4
+E-5
+E-6
+1
+1
+1
+1
+1
+2
+NE
+NE
+NE
+NE
+NE
+NE
+1
+1
+1
+1
+1
+2
+EP
+EP
+EP
+EP
+EP
+EP
+2
+2
+2
+3
+2
+2
+PF
+PF
+PF
+PF
+PF
+PF
+2
+2
+2
+3
+2
+2
+PF
+PF
+PF
+PF
+PF
+PF
+2
+2
+2
+2
+2
+2
+NE
+NE
+NE
+NE
+NE
+NE
+2
+2
+2
+2
+2
+2
+PF
+PF
+PF
+PF
+PF
+PF
+3
+3
+3
+3
+3
+3
+PF
+PF
+PF
+PF
+PF
+PF
+3
+3
+3
+3
+3
+3
+PF
+PF
+PF
+PF
+PF
+PF
+F
+F-1
+F-2
+F-3
+F-4
+F-5
+F-6
+F-7
+F-8
+F-9
+F-10
+F-11
+1
+1
+2
+2
+2
+2
+2
+1
+2
+1
+1
+NE 
+NE 
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+2
+2
+2
++
+2
+2
+-
+2
+2
+2
+2
+EP
+PF
+NE
++
+PF
+PF
+-
+PF
+EP
+EP
+EP
+2
+2
+2
++
+2
+2
+-
+2
+2
+2
+2
+PF
+PF
+PF
++
+PF
+PF
+-
+PF
+PF
+PF
+PF
+2
+2
+2
++
+2
+2
+-
+2
+2
+2
+2
+PF
+PF
+PF
++
+PF
+PF
+-
+PF
+PF
+PF
+PF
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+2
+2
+2
++
+2
+2
+-
+2
+2
+2
+2
+PF
+PF
+PF
++
+PF
+PF
+-
+PF
+PF
+PF
+EP
+2
+2
+2
++
+3
+2
+-
+2
+2
+2
+2
+PF
+PF
+PF
++
+PF
+PF
+-
+PF
+PF
+PF
+PF
+2
+2
+2
++
+3
+2
+-
+2
+2
+2
+2
+PF
+PF
+PF
++
+PF
+PF
+-
+PF
+PF
+PF
+PF
+ 
+G
+G-1
+G-2
+G-3
+G-4
+G-5
+1
+1
+1
+1
+1
+NE
+NE
+NE
+NE
+NE
+1
+1
+1
+1
+1
+NE
+EP
+PF
+EP
+NE
+1
+1
+1
+1
+-
+EP
+EP
+PF
+PF
+-
+1
+1
+1
+1
+-
+EP
+EP
+PF
+PF
+-
+2
+2
+2
+2
+2
+NE
+NE
+NE
+NE
+NE
+2
+2
+2
+2
+2
+NE
+EP
+PF
+PF
+EP
+2
+2
+2
+2
+2
+EP
+PF
+PF
+PF
+PF
+2
+2
+2
+2
+2
+EP
+PF
+PF
+PF
+PF
+H
+H-1
+H-2
+H-3
+H-4
+H-5
+H-6
+1
+1
+2
+2
+2
+1
+NE
+NE
+NE
+NE
+NE
+NE
+1
+1
+2
+2
++
+1
+EP
+PF
+PF
+EP
++
+PF
+-
+1
+2
+2
++
+1
+-
+PF
+PF
+PF
++
+PF
+-
+1
+2
+2
++
+1
+-
+PF
+PF
+PF
++
+PF
+2
+2
+2
+2
+2
+2
+NE
+NE
+NE
+NE
+NE
+NE
+2
+2
+2
+2
++
+2
+EP
+PF
+PF
+PF
++
+PF
+-
+2
+3
+2
++
+2
+-
+PF
+PF
+PF
++
+PF
+-
+2
+3
+2
++
+2
+-
+PF
+PF
+PF
++
+PF
+I
+I-1
+I-2
+I-3
+2
+2
+2
+NE
+NE
+NE
+1
+1
+1
+EP
+EP
+PF
+2
+2
+2
+EP
+PF
+PF
+2
+2
+2
+EP
+PF
+PF
+2
+2
+2
+NE
+NE
+NE
+2
+2
+3
+PF
+PF
+PF
+2
+2
+3
+PF
+PF
+PF
+2
+2
+3
+PF
+PF
+PF
+J
+-
+1
+NE
+1
+NE
+1
+NE
+1
+NE
+2
+NE
+2
+PF
+2
+PF
+2
+PF
+L
+L-1
+L-2
+1
+2
+-
+NE
+-
+2
+-
+PF
+-
+3
+-
+PF
+-
+3
+-
+PF
+-
+2
+-
+NE
+-
+3
+-
+PF
+-
+3
+-
+PF
+-
+3
+-
+PF
+
+--- PÁGINA 10 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_si…
+10/12
+L-3
+2
+NE
+2
+PF
+3
+PF
+3
+PF
+2
+NE
+3
+PF
+3
+PF
+3
+PF
+M
+M-1
+M-2
+M-3
+M-4
+M-5
+1
+2
+2
+1
+2
+NE
+EP
+NE
+NE
+NE
++
+2
+2
+1
+2
++
+PF
+PF
+NE
+PF
++
+3
+2
+1
+2
++
+PF
+PF
+NE
+PF
++
+3
+2
+1
+2
++
+PF
+PF
+NE
+PF
+2
+2
+2
+1
+2
+NE
+NE
+NE
+NE
+NE
++
+3
+2
+2
+2
++
+PF
+PF
+NE
+PF
++
+3
+2
+2
+2
++
+PF
+PF
+NE
+PF
++
+3
+2
+2
+2
++
+PF
+PF
+NE
+PF
+ 
+ 
+Leia-se:
+Tabela 6: Número de saídas e Ɵpos de escada
+Altura
+(metros)
+H ≤ 12
+12 < H≤ 30
+30 < H ≤ 54
+Acima de 54
+Ocupação
+Nº
+Tipo
+Esc
+Nº
+Tipo
+Esc
+Nº
+Tipo
+Esc
+Nº
+Tipo
+Esc
+Gr.
+Div.
+A
+A-2*
+A-3
+1
+1
+NE
+NE
+1
+1
+EP
+EP
+1
+2
+PF
+PF
+1
+2
+PF
+PF
+B
+B-1
+B-2
+1
+1
+NE
+NE
+1
+1
+PF
+PF
+2
+2
+PF
+PF
+2
+2
+PF
+PF
+C
+C-1
+C-2
+C-3
+1
+1
+1
+NE
+NE
+NE
+1
+1
+2
+EP
+EP
+PF
+2
+2
+2
+EP 
+PF 
+PF
+2
+2
+2
+EP
+PF
+PF
+D
+-
+1
+NE
+1
+EP
+1
+PF
+1
+PF
+E
+E-1
+E-2
+E-3
+E-4
+E-5
+E-6
+1
+1
+1
+1
+1
+2
+NE
+NE
+NE
+NE
+NE
+NE
+1
+1
+1
+1
+1
+2
+EP
+EP
+EP
+EP
+EP
+EP
+2
+2
+2
+3
+2
+2
+PF
+PF
+PF
+PF
+PF
+PF
+2
+2
+2
+3
+2
+2
+PF
+PF
+PF
+PF
+PF
+PF
+F
+F-1
+F-2
+F-3
+F-4
+F-5
+F-6
+F-7
+F-8
+F-9
+F-10
+F-11
+1
+1
+2
+2
+2
+2
+2
+1
+2
+1
+2
+NE 
+NE 
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+2
+2
+2
++
+2
+2
+-
+2
+2
+2
+2
+EP
+PF
+NE
++
+PF
+PF
+-
+PF
+EP
+EP
+EP
+2
+2
+2
++
+2
+2
+-
+2
+2
+2
+2
+PF
+PF
+PF
++
+PF
+PF
+-
+PF
+PF
+PF
+PF
+2
+2
+2
++
+2
+2
+-
+2
+2
+2
+2
+PF
+PF
+PF
++
+PF
+PF
+-
+PF
+PF
+PF
+PF
+ 
+G
+G-1
+G-2
+G-3
+G-4
+G-5
+1
+1
+1
+1
+1
+NE
+NE
+NE
+NE
+NE
+1
+1
+1
+1
+1
+NE
+EP
+PF
+EP
+NE
+1
+1
+1
+1
+-
+EP
+EP
+PF
+PF
+-
+1
+1
+1
+1
+-
+EP
+EP
+PF
+PF
+-
+H
+H-1
+H-2
+H-3
+H-4
+H-5
+H-6
+1
+1
+2
+2
+2
+1
+NE
+NE
+NE
+NE
+NE
+NE
+1
+1
+2
+2
++
+1
+EP
+PF
+PF
+EP
++
+PF
+-
+1
+2
+2
++
+1
+-
+PF
+PF
+PF
++
+PF
+-
+1
+2
+2
++
+1
+-
+PF
+PF
+PF
++
+PF
+I
+I-1
+I-2
+I-3
+2
+2
+2
+NE
+NE
+NE
+2
+2
+2
+EP
+EP
+PF
+2
+2
+2
+EP
+PF
+PF
+2
+2
+2
+EP
+PF
+PF
+J
+-
+1
+NE
+1
+NE
+1
+NE
+1
+NE
+L
+L-1
+L-2
+L-3
+1
+2
+2
+-
+NE
+NE
+-
+2
+2
+-
+PF
+PF
+-
+3
+3
+-
+PF
+PF
+-
+3
+3
+-
+PF
+PF
+M
+M-1
+M-2
+1
+2
+NE
+EP
++
+2
++
+PF
++
+3
++
+PF
++
+3
++
+PF
+
+--- PÁGINA 11 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_si…
+11/12
+M-3
+M-4
+M-5
+M-8
+2
+1
++
++
+NE
+NE
++
++
+2
+1
++
++
+PF
+NE
++
++
+2
+1
++
++
+PF
+NE
++
++
+2
+1
++
++
+PF
+NE
++
++
+ 
+ 
+13. ALTERAR as Notas da Tabela 6
+Onde se lê:
+(A) Para o uso desta tabela, devem ser consultadas as tabelas anteriores, onde são dadas as signiﬁcações dos códigos
+alfabéƟcos e alfanuméricos uƟlizados.
+(B) Abreviatura dos Ɵpos deescada:
+NE = Escada não enclausurada (escada comum);
+EP = Escada enclausurada protegida (escada protegida);
+PF = Escada à prova de fumaça.
+(C) Outros símbolos e abreviaturas usados nesta tabela:
+Nºs = Números de saídas mínimos obrigatórios, em qualquer caso;
+Tipo esc. = Tipo de escada;
+Gr.=   Grupo de ocupação (uso)-conforme a tabela de classiﬁcação das ediﬁcações e áreas de risco quanto à ocupação do
+Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco do Estado de Minas Gerais.
+Div. = Subdivisão do grupo de ocupação - conforme a tabela de classiﬁcação das ediﬁcações e áreas de risco quanto à
+ocupação do Regulamento de Segurança Contra Incêndio e Pânico nas ediﬁcações e áreas de risco do Estado de Minas Gerais.
+*= Admite saída única nas habitações mulƟfamiliares (A-2), não havendo mais de quatro unidades autônomas por pavimento.
+- = Não se aplica.
++ =Símbolo que indica necessidade de consultar normas e regulamentos especíﬁcos (ocupação não coberta por esta IT);
+(D) Grupo H-2 e H-3:
+(D.1) Altura até 12,0 m = havendo exigência de mais de uma saída para emergência, no mínimo uma deve ser por rampa.
+(D.2) Altura superior a 12,0 m = além das saídas de emergências por escadas (tabela 6), deve possuir elevador de emergência
+(ver ﬁgura 12) e áreas de refúgio (ver ﬁgura 21). As áreas de refúgio quando situada somente em alguns pavimentos de níveis
+diferentes deve ter seus acessos ligados por rampa (5.6.1 alíneas “a”). As ediﬁcações que possuam área de refúgio em todos
+os pavimentos (exceto pavimento térreo) não há necessidade de rampa interligando os diferentes níveis em acessos às áreas
+de refúgio.
+(E) Havendo necessidade de 2 (duas) ou mais escadas de segurança, uma delas poderá ser do Ɵpo Aberta Externa, atendendo
+ao item 5.7.14 desta Instrução Técnica.
+(F) A quanƟdade mínima de saídas (escadas e/ou portas) previstas nesta tabela pode ser desconsiderada, exceto para
+ediﬁcações das divisões F-6, H-2 e H-3, desde que a ediﬁcação possua até 36,0 m de altura e sejam atendidos os parâmetros
+de distância máxima a percorrer (tabela 5) e quanƟdade mínima de unidades de passagem para a lotação prevista na tabela 4.
+(G) O número de saídas de emergência depende também do dimensionamento pelo cálculo da população e das distâncias a
+serem percorridas.
+ 
+Leia-se:
+ 
+(A) Para o uso desta tabela, devem ser consultadas as tabelas anteriores, onde são dadas as signiﬁcações dos códigos
+alfabéƟcos e alfanuméricos uƟlizados.
+(B) Abreviatura dos Ɵpos de escada:
+NE = Escada não enclausurada (escada comum);
+EP = Escada enclausurada protegida (escada protegida);
+
+--- PÁGINA 12 ---
+04/01/2021
+SEI/GOVMG - 22316540 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=26169185&infra_si…
+12/12
+PF = Escada à prova de fumaça.
+(C) Outros símbolos e abreviaturas usados nesta tabela:
+Nºs = Números de saídas mínimos obrigatórios, em qualquer caso;
+Tipo esc. = Tipo de escada;
+Gr.=   Grupo de ocupação (uso) - conforme a tabela de classiﬁcação das ediﬁcações e espaços desƟnados ao uso coleƟvo
+quanto à ocupação do Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais.
+Div. = Subdivisão do grupo de ocupação - conforme a tabela de classiﬁcação das ediﬁcações e espaços desƟnados ao uso
+coleƟvo quanto à ocupação do Regulamento de Segurança Contra Incêndio e Pânico do Estado de Minas Gerais.
+*= Admite saída única nas habitações mulƟfamiliares (A-2), não havendo mais de quatro unidades autônomas por pavimento.
+- = Não se aplica.
++ =Símbolo que indica necessidade de consultar normas e regulamentos especíﬁcos (ocupação não coberta por esta IT);
+(D) Divisões H-2 e H-3:
+(D.1) Altura até 12,0 m = havendo exigência de mais de uma saída para emergência, no mínimo uma deve ser por rampa.
+(D.2) Altura superior a 12,0 m = além das saídas de emergências por escadas (Tabela 6), deve possuir elevador de emergência
+(ver ﬁgura 12) e áreas de refúgio (ver ﬁgura 21). As áreas de refúgio quando situadas somente em alguns pavimentos de níveis
+diferentes devem ter seus acessos ligados por rampa (5.6.1 alínea “a”). As ediﬁcações que possuam área de refúgio em todos
+os pavimentos (exceto pavimento térreo) não há necessidade de rampa interligando os diferentes níveis em acessos às áreas
+de refúgio.
+(E) Havendo necessidade de 2 (duas) ou mais escadas de segurança, uma delas poderá ser do Ɵpo Aberta Externa, atendendo
+ao item 5.7.14 desta Instrução Técnica.
+(F) A quanƟdade mínima de saídas (escadas e/ou portas) previstas nesta tabela pode ser desconsiderada, exceto para
+ediﬁcações das divisões F-6, H-2 e H-3, desde que a ediﬁcação possua até 36,0 m de altura e sejam atendidos os parâmetros
+de distância máxima a percorrer (tabela 5) e quanƟdade mínima de unidades de passagem para a lotação prevista na tabela 4.
+(G) O número de saídas de emergência depende também do dimensionamento pelo cálculo da população e das distâncias a
+serem percorridas.
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 29/12/2020, às 07:13, conforme horário
+oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 22316540 e o código CRC E65E2814.
+Referência: Processo nº 1400.01.0057028/2020-12
+SEI nº 22316540

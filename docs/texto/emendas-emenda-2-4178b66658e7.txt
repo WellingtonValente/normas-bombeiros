@@ -1,0 +1,192 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 31 de julho de 2026.
+  
+EMENDA CBMMG/DAT Nº. 2/2026
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 03 - 2ª Edição
+(Composição do Processo de Segurança contra Incêndio e Pânico (PSCIP)):
+ 
+1. ACRESCENTAR a alínea ‘b.1’ ao item A.3.2 do Anexo A, com a seguinte redação:
+ 
+b.1) nos casos de edificação já construída, as declarações solicitadas em vistoria poderão ser substituídas
+por laudo técnico de verificação das condições de segurança estrutural contra incêndio, acompanhado do
+respectivo documento de responsabilidade técnica, emitido por profissional legalmente habilitado, que
+ateste, mediante avaliação técnica de sua responsabilidade, o tempo de resistência ao fogo dos elementos
+estruturais da edificação e o atendimento às exigências da IT 06.
+ 
+2. ACRESCENTAR a alínea ‘b.1’ ao item A.5.1 do Anexo A, com a seguinte redação:
+ 
+b.1) indicar, em planta, a declividade das rampas que correspondam ao fluxo de saída, em %;
+ 
+3. ACRESCENTAR as alíneas ‘a.1’, ‘h’ e ‘i’ ao item B.2.1 do Anexo B, com a seguinte redação:
+ 
+a.1) apresentar, em planta, a localização e a quantidade prevista de botijões (recipientes de até 13 kg) no
+interior das unidades autônomas, se houver;
+[...]
+h) representar, em planta, a localização dos abrigos de medidores de gás;
+i) apresentar detalhe de ventilação nos abrigos de medidores de gás.
+ 
+4. REVOGAR a alínea ‘c’ do item B.4.1 do Anexo B.
+ 
+5. RENUMERAR a alínea ‘d’ do item B.4.1 do Anexo B para alínea ‘c’.
+ 
+6. ACRESCENTAR as alíneas ‘d’ e ‘e’ ao item B.4.1 do Anexo B, com a seguinte redação:
+ 
+d) representar, em planta, a localização dos abrigos de medidores de gás;
+e) apresentar detalhe de ventilação nos abrigos de medidores de gás.
+ 
+7. ALTERAR a alínea a.3) do item C.1.3 do Anexo C, que passa a vigorar com a seguinte redação:
+CBMMG - Emenda 2 (145724371)         SEI 1400.01.0037380/2026-94 / pg. 1
+
+--- PÁGINA 2 ---
+a.3) Referente à confecção de Laudos de interesse do PSCIP (renovação de AVCB, impossibilidade
+técnica, etc.), deverá ser anotada, além da atividade referente à elaboração do laudo, a atividade relativa à
+vistoria da edificação/instalação/sistema preventivo objeto do laudo, conforme se segue:
+ 
+8. ACRESCENTAR o item C.1.3.2 ao Anexo C, com a seguinte redação:
+ 
+C.1.3.2 Os documentos de responsabilidade técnica referentes à elaboração da medida de segurança
+estrutural, à execução da medida de segurança estrutural, aos laudos de estanqueidade de instalações de
+GLP ou GN, à pressurização de escadas, ao sistema fixo de gases, às instalações fotovoltaicas, aos grupos
+geradores de energia e aos vasos sob pressão estão desobrigados a reproduzir exatamente as atividades
+descritas neste item C.1.3, cabendo ao responsável técnico selecionar as atividades compatíveis com suas
+atribuições, nos termos estabelecidos pelo respectivo Conselho Profissional.
+ 
+9. ALTERAR o Anexo E.4.2.
+ 
+10. ALTERAR o Anexo E.6.5.
+ 
+ 
+ 
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+ 
+E.4.2 MEMORIAL DE SEGURANÇA CONTRA INCÊNDIO DAS ESTRUTURAS
+MEMORIAL DE SEGURANÇA ESTRUTURAL
+(Nome)_______________________________________, 
+registrado 
+no 
+CREA/CAU 
+sob 
+o 
+n°
+____________, atendendo o disposto no item 5.18 da IT 06, declara, para fins de aprovação do PSCIP
+junto ao CBMMG, que a edificação em questão será projetada em conformidade com as informações
+abaixo:
+Edificação: (Nome da Edificação) Logradouro Público/n°: (Endereço) Responsável pelo Uso: (nome)
+Altura da Edificação (m): _____ Ocupação: Data: ____/_____/_______.
+Estrutura: (Concreto armado, aço, mista, alvenaria estrutural)
+METODOLOGIA PARA SE ATINGIR OS TRRF DOS ELEMENTOS ESTRUTURAIS
+[citar norma(s)empregada(s)]
+A metodologia adotada foi... [descrever a metodologia, seja por ensaios, cartas de coberturas, métodos
+analíticos etc e norma(s)] ... Os ensaios de resistência ao fogo adotados foram o Relatório (IPT nº, ou UL
+nº etc – citar os ensaios, e especificar se é para pilares, vigas etc.).
+DETERMINAÇÃO DO TEMPO REQUERIDO DE RESISTÊNCIA AO FOGO (TRRF)
+CRITÉRIOS PARA DETERMINAÇÃO DO TRRF:
+Para a definição do TRRF foi adotada (por exemplo: Tabela A da IT 06, conforme o item “5.
+Procedimentos” da referida Instrução Técnica; ou método do tempo equivalente ou outros devidamente
+comprovados, tudo conforme Instrução Técnica n°06), observando-se, ainda, o critério de desempenho
+aplicável ao elemento construtivo, conforme item A.3 do Anexo A da IT 06, de acordo com sua função.
+Tempo Requerido de Resistência ao Fogo (TRRF):
+CBMMG - Emenda 2 (145724371)         SEI 1400.01.0037380/2026-94 / pg. 2
+
+--- PÁGINA 3 ---
+Critério(s) de desempenho aplicável(is), conforme item A.3 do Anexo A da IT 06: ________ .
+Exemplos: As estruturas principais terão TRRF de 90 min, com critério de desempenho R, para colunas,
+contraventamentos e vigas principais conforme Tabela A, Grupo D, Classe P4 da IT 06.
+As vigas secundárias terão TRRF de 60 min, com critério de desempenho R, conforme Anexo A, da
+Instrução Técnica n°06.
+As compartimentações, escadas de segurança, selagens de shafts e divisórias entre unidades autônomas
+serão executadas conforme segue: ______ , com os seguintes TRRF: ______, com os seguintes critérios
+de desempenho: ______, tudo conforme item 5.7 e Anexo A da Instrução Técnica n°06.
+Observações: ____________________________ .
+ISENÇÕES OU REDUÇÕES DE TRRF
+Exemplos: (Não foi adotada nenhuma condição para redução ou isenção de TRRF na presente
+edificação... Ou isenção de TRRF para os pilares externos protegidos por alvenaria cega... Ou isenção
+dos perfis confinados em área fria, conforme folhas...).
+MATERIAIS DE PROTEÇÃO CONTRA FOGO E RESPECTIVAS ESPESSURAS DE
+PROTEÇÃO E/OU DIMENSIONAMENTO DOS ELEMENTOS ESTRUTURAIS:
+Para fins de dimensionamento dos elementos estruturais e dos revestimentos para proteção passiva das
+estruturas, será contratado especialista em estruturas, que deverá seguir as normas prescritas na IT 06, ou
+outras que surgirem ou que vierem a substituí-las, conforme TRRF previsto neste Memorial.
+No ato da vistoria, serão apresentados Documentos de Responsabilidade Técnica referentes ao Projeto de
+Estruturas e execução, juntamente com as respectivas declarações de que o projeto e execução foram
+realizados conforme o prescrito na IT 06.
+ 
+___________________________________
+Nome:
+Resp. Técnico pelo PSCIP – CREA/CAU
+___________________________________
+Nome:
+Proprietário ou responsável pela Edificação
+ 
+ 
+ 
+E.6.5 DECLARAÇÃO DE CONFORMIDADE DO DIMENSIONAMENTO ESTRUTURAL
+EM RELAÇÃO ÀS NORMAS BRASILEIRAS E IT 06 DO CBMMG
+DECLARAÇÃO
+ 
+Declaro 
+para 
+os 
+devidos 
+fins 
+que 
+as 
+estruturas 
+da 
+edificação 
+localizada 
+na
+rua________________________________, nº _________, bairro ________________________, na cidade
+________________/MG foram dimensionadas em conformidade com a Instrução Técnica nº 06 do Corpo
+de Bombeiros Militar de Minas Gerais, sendo previstas as devidas medidas de segurança para as estruturas
+com as seguintes características:
+Estrutura de aço/mista:
+Procedimento adotado: Foi adotado o método de cálculo previsto na NBR14.323 / Eurocode.
+Critério(s) de desempenho considerado(s): (Citar os critérios de desempenho, conforme item A.3 do
+Anexo A da IT 06).
+Materiais Utilizados: (Citar todos materiais utilizados na proteção dos elementos estruturais, se for
+ocaso).
+CBMMG - Emenda 2 (145724371)         SEI 1400.01.0037380/2026-94 / pg. 3
+
+--- PÁGINA 4 ---
+Espessuras Adotadas: As espessuras foram calculadas com base nos seguintes ensaios laboratoriais / de
+acordo com os procedimentos da Norma________/ conforme carta de cobertura em anexo...
+Estrutura de Concreto:
+Procedimento adotado: Foi adotado o método tabular / método simplificado de cálculo/método
+experimental/outros métodos, conforme norma____________.
+Critério(s) de desempenho considerado(s): (Citar os critérios de desempenho, conforme item A.3 do
+Anexo A da IT 06).
+Dimensões adotadas: Para vigas/pilares/outros foram adotadas as seguintes dimensões.
+Outras estruturas:
+Procedimento adotado: Foi adotado o método conforme norma .
+Critério(s) de desempenho considerado(s): (Citar os critérios de desempenho, conforme item A.3 do
+Anexo A da IT 06).
+Dimensões adotadas: Para vigas/pilares/outros foram adotadas as seguintes dimensões.
+Materiais Utilizados: (Citar todos materiais utilizados na proteção dos elementos estruturais, se for
+ocaso).
+TRRF e critério de desempenho: Foram adotados os TRRF previstos no PSCIP, observando-se o(s)
+critério(s) de desempenho aplicável(is) ao(s) elemento(s) construtivo(s), conforme item A.3 do Anexo A da
+IT 06, de acordo com a função do elemento e com o método construtivo utilizado; ou os TRRF foram
+redimensionados adotando-se o método _______________________________, cujo memorial segue em
+anexo.
+ 
+_______________________________________________
+Nome: CREA/CAU nº
+Resp. Técnico pela Declaração
+ 
+Obs.: A presente declaração deverá ser acompanhada do respectivo documento de responsabilidade
+técnica.
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 11/08/2026, às
+15:30, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 145724371 e
+o código CRC 0FFB43CF.
+Referência: Processo nº 1400.01.0037380/2026-94
+SEI nº 145724371
+CBMMG - Emenda 2 (145724371)         SEI 1400.01.0037380/2026-94 / pg. 4

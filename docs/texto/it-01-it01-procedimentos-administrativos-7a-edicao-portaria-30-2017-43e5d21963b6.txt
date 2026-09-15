@@ -5770,7 +5770,7 @@ CORTE B-B
  
  
  
-Folha 1 /5  
+Folha 1 /5 
  
  
  
@@ -5805,12 +5805,12 @@ Proprietário:
  
 COMPLEMENTARES 
  
-Resp . Técnico:  
+Resp . Técnico: 
  
  
  
  
-Área do Terre no:  
+Área do Terre no: 
  
  
 ² 

@@ -1,0 +1,173 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+Circular Nº 23/2013 – DAT 
+ 
+Dispõe 
+sobre 
+a 
+apresentação 
+de 
+Processo de Segurança Contra Incêndio 
+e 
+Pânico 
+através 
+do 
+Sistema 
+de 
+Informações do Serviço de Segurança 
+Contra Incêndio e Pânico – INFOSCIP, 
+no Centro de Atividades Técnicas (CAT).  
+ 
+O Coronel BM Diretor de Atividades Técnicas, no uso de suas atribuições 
+legais consoante ao disposto no inciso I, artigo 6º da Resolução169/2005, que 
+trata da competência e estrutura da Diretoria de Atividades Técnicas, inciso I 
+do item 6.1 da IT 01, combinado com o disposto no inciso III, artigo 2º da Lei 
+14.130/2001, que dispõe sobre a prevenção contra incêndio e pânico no 
+Estado de Minas de Gerais, 
+ 
+CONSIDERANDO: 
+1) A necessidade de padronização de procedimentos quanto ao trâmite de 
+PSCIP e emissão de AVCB via INFOSCIP; 
+2) Que a utilização do INFOSCIP visa proporcionar informação em tempo real 
+da tramitação do PSCIP, processo de emissão do AVCB, bem como maior 
+controle e transparência dos procedimentos; 
+3) Que os responsáveis técnicos cadastrados no CREA-MG têm acesso a 
+todas as funcionalidades do INFOSCIP necessárias para o trâmite de um 
+PSCIP; 
+4) A premente necessidade de arquivar os projetos em banco de dados digital 
+para reduzir gastos, facilitar a consulta e evitar a perda de espaço físico das 
+Unidades do CBMMG;
+
+--- PÁGINA 2 ---
+5) A necessidade de aprimoramento da Circular 15/2013. 
+ 
+RESOLVE:       
+1) Suspender a apresentação de PSCIP com parte física (pasta) a partir de 01 
+de janeiro de 2014, sendo obrigatória a apresentação de Projeto Técnico (PT), 
+Projeto Técnico Simplificado (PTS) e Projeto de Evento Temporário (PET) pelo 
+sistema INFOSCIP, de modo que os projetos efetivados no INFOSCIP após 
+31/12/2013 tramitarão somente por meio digital; 
+2) A apresentação física do projeto será permitida apenas para os 
+responsáveis técnicos cadastrados no Conselho de Arquitetura e Urbanismo 
+(CAU), pelo único motivo destes profissionais ainda não possuírem acesso ao 
+INFOSCIP;  
+3) Temporariamente, as renovações de AVCB e as modificações de PSCIP 
+antigos (sem cadastro no INFOSCIP), arquivados fisicamente, continuarão a 
+ser feitas por meio de tramitação de pastas, ou seja, fora do INFOSCIP; 
+4) Quando da solicitação de vistoria, deverá ser apresentada cópia completa 
+do PSCIP na recepção do CAT, com plantas idênticas às inseridas no 
+INFOSCIP e com todos os documentos exigidos na Instrução Técnica 01, sob 
+pena de não liberação e consequente notificação do projeto. O novo trâmite se 
+dará da seguinte forma: 
+4.1) O vistoriador deverá conferir a cópia do PSCIP apresentado com as 
+informações e plantas cadastradas no INFOSCIP; 
+4.2) A vistoria será feita com base na cópia apresentada pelo responsável 
+técnico; 
+4.3) Após a vistoria, o PSCIP deverá ser entregue ao responsável técnico 
+ou proprietário/responsável pelo uso, devendo o vistoriador carimbar e 
+rubricar todas as plantas; 
+4.4) Os PSCIP utilizados na vistoria não serão, de maneira alguma, 
+arquivados no CBMMG, devendo a cópia utilizada em vistoria permanecer 
+na edificação; 
+4.5) Quando da necessidade de solicitação de nova vistoria por motivo de 
+notificação ou modificação/substituição do PSCIP, deverá ser apresentada 
+na recepção do CAT, após a devida solicitação no INFOSCIP, o PSCIP
+
+--- PÁGINA 3 ---
+rubricado pelo vistoriador, o respectivo REDS de Liberação/Notificação, 
+bem como as novas pranchas. 
+5) Não serão mais carimbadas cópias de PSCIP digitais no CAT, 
+considerando que a cópia utilizada na vistoria é idêntica à do INFOSCIP; 
+6) Não deverão ser apresentadas cópias dos PSCIP cadastrados no 
+INFOSCIP em CD; 
+7) Para os PSCIP que tramitarem pelo INFOSCIP, os respectivos 
+Documentos de Arrecadação Estadual (DAE) a serem pagos deverão ser 
+aqueles emitidos pelo próprio sistema. Para os PSCIP que tramitarem de forma 
+física (PSCIP elaborado por arquiteto, renovações de AVCB e modificações de 
+PSCIP antigos) os DAE continuarão a ser emitidos pelo sitio da Secretaria de 
+Estado de Fazenda de Minas Gerais (SEF); 
+8) Os documentos para a análise deverão ser inseridos no INFOSCIP já na 
+etapa de pré-cadastro do PSCIP, pois uma vez confirmado o pagamento e a 
+compensação bancária do DAE, o pré-cadastro será automaticamente 
+efetivado e encaminhado ao setor de análise, estando sujeito a notificações; 
+9) Os anexos “B”, “C”, “D”, “I”, “J”, “K”, da IT 01, ficam dispensados de 
+apresentação no INFOSCIP, tendo em vista que as informações serão 
+inseridas diretamente no sistema. 
+9.1) Não será exigida a assinatura nos documentos de responsabilidade 
+do Responsável Técnico no PSCIP; 
+9.2) Não será exigida assinatura das plantas; 
+9.3) Os demais documentos deverão ser apresentados constando a 
+assinatura dos responsáveis (proprietário e/ou outro RT), inclusive a ART. 
+10) Revogar a Circular 15/2013, de modo que a apresentação de projetos em 
+formato digital por meio do sistema INFOSCIP deverá obedecer aos seguintes 
+padrões: 
+10.1) As plantas do PSCIP devem ser apresentadas para análise através 
+do INFOSCIP em arquivo único, em formato dwg; 
+10.2) Os demais documentos devem ser apresentados em formato pdf; 
+10.3) As plantas dos pavimentos devem ser apresentadas de forma 
+organizada, no Model, sendo vedada a apresentação para análise somente 
+no Layout;
+
+--- PÁGINA 4 ---
+10.4) O arquivo que contiver o projeto deve apresentar somente aquilo que 
+for pertinente ao Regulamento de Segurança Contra Incêndio e Pânico, 
+podendo ser utilizados os comandos “purge”, “overkill” e outros, a fim de se 
+evitar dados em excesso; 
+10.5) As plantas que contiverem as medidas de segurança devem estar em 
+escala 1/1 ou 1/100; os cortes e fachadas em 1/100; planta de situação em 
+1/200 ou 1/500 e, quando for o caso, planta de localização em 1/1000 ou 
+1/2000. É vedado o uso de escalas intermediárias como 1/50, 1/75, 1/125, 
+1/250, 1/750 etc; 
+10.6) No Model, não serão obrigatórias layers (camadas) distintas, 
+entretanto o seguinte padrão será exigido: 
+10.6.1) As medidas de segurança contra incêndio e pânico deverão 
+estar na cor vermelha (Vermelho “1” do Autocad); 
+10.6.2) Os detalhes da sinalização poderão ser nas cores 
+correspondentes aos exigidos na Instrução Técnica (IT) 15;  
+10.6.3) As demais linhas representativas que não estejam 
+relacionadas com as medidas de segurança contra incêndio e pânico 
+deverão estar na cor branca ou cinza (Branco “7” ou Cinza “9” do 
+Autocad); 
+10.6.4) Os tipos de linha do desenho (tracejada, traço-ponto etc) 
+devem atender ao previsto na NBR 6492/94, de modo a facilitar a 
+interpretação das representações gráficas; 
+10.6.5) Por motivo de licenças de uso, os arquivos dwg deverão ser 
+salvos na versão 2012 ou anterior do Autocad. 
+11) Os nomes dos arquivos dos projetos (dwg) devem seguir ao prescrito na 
+tabela abaixo, para todas as formas de apresentação de PSCIP (PT, PTS ou 
+PET): 
+DATA DE ENVIO 
+(Exemplo) 
+DESCRIÇÃO 
+NOME DO ARQUIVO 
+01/01/13 
+ENTRADA 
+ENT-01-01-13 
+15/01/13 
+RETORNO 
+RET-15-01-13 
+01/02/13 
+RECONSIDERAÇÃO DE ATO 
+RDA-01-02-13 
+15/02/13 
+RECURSO 1º GRAU 
+REC1-15-02-13 
+21/03/13 
+RECURSO 2º GRAU 
+REC2-21-03-13
+
+--- PÁGINA 5 ---
+11.1) Os demais documentos devem ser nomeados constando seu 
+conteúdo, tendo como base o exemplo dos arquivos dos projetos (Ex: 
+ART_PALCO-10-06-13, DEC_PÚBLICO-10-06-13). 
+12) Os PSCIP pré-cadastrados no INFOSCIP que forem efetivados em data 
+anterior à vigência desta circular poderão seguir os procedimentos válidos até 
+31/12/2013. 
+13) Esta circular entra em vigor a partir do dia 01/01/2014, ficando revogadas 
+as disposições contrárias. 
+ 
+Belo Horizonte, 06 de dezembro de 2013. 
+ 
+ 
+(a) MIGUEL NOVAIS BORGES, CORONEL BM 
+DIRETOR DE ATIVIDADES TÉCNICAS

@@ -1,0 +1,60 @@
+--- PÁGINA 1 ---
+01/09/22, 15:56
+SEI/GOVMG - 50896588 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58343093&infra…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 04 de agosto de 2022.
+  
+EMENDA CBMMG/DAT Nº. 8/2022
+Esta Emenda tem por objetivo promover as seguintes alterações na  Instrução Técnica 07 - 1ª Edição
+(Compartimentação Horizontal e Compartimentação Vertical): 
+ 
+1. ALTERAR o item 5.3, que passa a vigorar com a seguinte redação:
+5.3 Áreas máximas de compartimentação
+Sempre que houver exigência de compartimentação horizontal (de áreas), deve-se restringir as áreas dos
+compartimentos de acordo com o Anexo B.
+ 
+2. ACRESCENTAR o item 5.3.1:
+5.3.1 Para o atendimento da área máxima de compartimentação, conforme o Anexo B desta IT, deve-se
+levar em consideração a área de todos os pavimentos e mezaninos interligados com o pavimento
+considerado no cálculo.
+ 
+3. ALTERAR o item 5.4, que passa a vigorar com a seguinte redação:
+5.4 Quando exigida a compartimentação vertical, será permitida a interligação de, no máximo, três
+pavimentos consecutivos (nos pisos acima do térreo), por intermédio de átrios, escadas, rampas de
+circulação ou escadas rolantes, desde que o somatório de áreas desses pavimentos não ultrapasse os
+valores estabelecidos para a compartimentação de áreas, conforme Anexo B. Esta exceção não se aplica
+para as compartimentações das fachadas, selagens dos shafts e dutos de instalações.
+ 
+4. ALTERAR a Nota Específica 1 da Tabela do Anexo B, que passa a vigorar com a seguinte redação:
+(1)   A área de compartimentação pode ser aumentada em 100%, caso haja sistema de detecção de
+incêndio (IT 14).
+ 
+5. ALTERAR a Nota Genérica ‘c’ da Tabela do Anexo B, que passa a vigorar com a seguinte redação:
+c) A inexistência de compartimentação vertical implica na somatória das áreas dos pavimentos para fins
+de cálculo da área máxima compartimentada.
+ 
+6. ACRESCENTAR a Nota Genérica ‘f’ na Tabela do Anexo B:
+f) Havendo compartimentação vertical, a altura a ser considerada para aplicação desta tabela será a
+altura específica da ocupação.
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+
+--- PÁGINA 2 ---
+01/09/22, 15:56
+SEI/GOVMG - 50896588 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58343093&infra…
+2/2
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Diretor(a), em 29/08/2022,
+às 15:49, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 50896588
+e o código CRC 2404B5F1.
+Referência: Processo nº 1400.01.0045935/2022-78
+SEI nº 50896588

@@ -1,0 +1,1493 @@
+--- PÁGINA 1 ---
+Disponível em: www.bombeiros.mg.gov.br 
+Bombeiro: o amigo certo nas horas incertas. 
+ 
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+INSTRUÇÃO TÉCNICA N. 30 
+2ª edição 
+INSTALAÇÕES E EQUIPAMENTOS 
+ELÉTRICOS: SUBESTAÇÕES, 
+PAINÉIS FOTOVOLTAICOS E 
+GRUPOS GERADORES DE ENERGIA 
+ 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+SUMÁRIO 
+1 Objetivo  
+2 Aplicação  
+3 Referências  
+4 Definições  
+5 Subestações  
+6 Instalações fotovoltaicas 
+7 Grupos geradores 
+8 Prescrições diversas  
+ANEXOS 
+A – Aspectos da Análise de Risco de Incêndio 
+da Subestação
+
+--- PÁGINA 2 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+2/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+1 OBJETIVO 
+Estabelecer medidas de segurança contra incêndio para subestações elétricas, instalações com 
+painéis fotovoltaicos e grupos geradores de energia, atendendo ao Regulamento de Segurança 
+Contra Incêndio das edificações e espaços destinados ao uso coletivo do Estado de Minas 
+Gerais. 
+2 APLICAÇÃO 
+2.1 Esta Instrução Técnica se aplica: 
+a) às subestações elétricas, conforme seu tipo; 
+b) às edificações e espaços destinados ao uso coletivo onde haja a instalação de painel 
+fotovoltaico;  
+c) às edificações e espaços destinados ao uso coletivo onde haja a instalação de grupo gerador 
+de energia abastecido por óleo diesel. 
+2.1.1 Esta norma se aplica de forma recomendativa às residências unifamiliares (A-1), no que 
+diz respeito ao item 6 Instalações Fotovoltaicas. 
+2.2 Para subestações pertencentes aos sistemas de geração, transmissão e distribuição de 
+energia, deve-se adotar a NBR 13231 de forma complementar, naquilo que não contrariar esta 
+IT. 
+2.3 Esta Instrução Técnica não se aplica a: 
+a) Transformadores aéreos (em postes), seja em via pública ou interno à propriedade; 
+b) Câmaras subterrâneas pertencentes à concessionária (estas devem seguir os critérios 
+técnicos da concessionária); 
+c) Torres de geração eólica; 
+d) Painéis, equipamentos e transformadores pertencentes às concessionárias de fornecimento 
+de energia e de acesso restrito a elas, instalados em vias públicas. 
+ 
+Transformador em pedestal 
+Fonte: 
+https://www.ibipora.pr.gov.br/noticiasView/28110_
+Samae-readequa-sistema-eletrico-de-alta-tensao-
+em-sua-sede.html 
+Rede de Distribuição Subterrânea 
+Fonte: ENCEL Engenharia de Construções 
+Elétricas Ltda.
+
+--- PÁGINA 3 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+3/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+ 
+REFERÊNCIAS  
+Para compreensão desta Instrução Técnica, é necessário consultar as seguintes normas, 
+levando em consideração todas as suas atualizações e outras que vierem substituí-las: 
+3.1 Legislação 
+Lei Estadual nº 14.130/2001 – Dispõe sobre a prevenção contra incêndio e pânico no Estado de 
+Minas Gerais. 
+Decreto Estadual n. 47.998/2020 – Regulamenta a Lei n. 14.130/2001. 
+3.2 Normas 
+Instrução Técnica n. 01 – Procedimentos Administrativos, CBMMG; 
+Instrução Técnica n. 02 – Terminologia de Proteção contra Incêndio e Pânico, CBMMG. 
+Instrução Técnica n. 03 – Composição do Processo de Segurança Contra Incêndio e Pânico 
+(PSCIP), CBMMG. 
+Instrução Técnica n. 06 – Segurança Estrutural das Edificações, CBMMG. 
+Instrução Técnica n. 07 – Compartimentação Horizontal e Compartimentação Vertical, CBMMG. 
+Instrução Técnica n. 10 – Pressurização de Escada de Segurança, CBMMG. 
+Instrução Técnica n. 14 – Sistemas de Detecção e Alarme de Incêndio, CBMMG. 
+Instrução Técnica n. 15 – Sinalização de Emergência, CBMMG. 
+Instrução Técnica n. 18 – Sistema de Chuveiros Automáticos, CBMMG. 
+Instrução Técnica n. 21 – Sistema Fixo de Gases para Combate a Incêndio, CBMMG. 
+Instrução Técnica n. 23 – Manipulação, Armazenamento, Comercialização e Utilização de Gás 
+Liquefeito de Petróleo (GLP), CBMMG. 
+Instrução Técnica n. 24 – Comercialização, Distribuição e Utilização de Gás Natural, CBMMG. 
+Instrução Técnica n. 33 – Eventos Temporários, CBMMG. 
+Instrução Técnica n. 37 – Subestação Elétrica, CB-PMESP. 
+Instrução Técnica n. 41 – Controle de fumaça, CBMMG. 
+NBR 5410 – Instalações Elétricas de Baixa Tensão. 
+NBR 5419 – Proteção Contra Descargas Atmosféricas. 
+NBR 5460 – Sistemas Elétricos de Potência. 
+NBR 7821 – Tanques soldados para armazenamento de petróleo e derivados – procedimento. 
+NBR 10897 – Sistemas de proteção contra incêndio por chuveiros automáticos.
+
+--- PÁGINA 4 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+4/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+NBR 10898 – Sistema de iluminação de emergência. 
+NBR 10899 – Energia Solar Fotovoltáica – Terminologia. 
+NBR 11341 – Derivados de petróleo – Determinação dos pontos de fulgor e de combustão em 
+vaso aberto Cleveland. 
+NBR 12232 – Execução de sistemas fixos automáticos de proteção contra incêndio com gás 
+carbônico (CO2) em transformadores e reatores de potência contendo óleo isolante. 
+NBR 12615 – Sistema de combate a incêndio por espuma – Espuma de baixa expansão. 
+NBR 13231 – Proteção contra incêndio em subestações elétricas. 
+NBR 14039 – Instalações elétricas de média tensão de 1,0 kv a 36,2 kv. 
+NBR 14432 – Exigências de resistência ao fogo de elementos construtivos de edificações – 
+Procedimento. 
+NBR 16149 – Sistemas Fotovoltaicos (FV) – Características da interface de conexão com a rede 
+elétrica de distribuição. 
+NBR 16150 – Sistemas Fotovoltaicos (FV) – Características da interface de conexão com a rede 
+elétrica de distribuição – Procedimento de ensaio de conformidade. 
+NBR 16274 – Sistemas fotovoltaicos conectados à rede – Requisitos mínimos para 
+documentação, ensaios de comissionamento, inspeção e avaliação de desempenho. 
+NBR 16557 – Espaço confinado – Prevenção de acidentes, procedimentos e medidas de 
+proteção. 
+NBR 16684 - 1 – Tanque de consumo aéreo para grupos geradores alimentados por diesel ou 
+biodiesel Parte 1: Requisitos de instalação e segurança em edificações. 
+NBR 16690 – Instalações elétricas de arranjos fotovoltaicos – Requisitos de projeto. 
+NBR 17505 – Armazenamento de líquidos inflamáveis e combustíveis. 
+NBR IEC 60079-14 – Atmosferas explosivas – Parte 14: Projeto, seleção e montagem de 
+instalações elétricas. 
+NR 10 – Segurança em Instalações e Serviços em Eletricidade. 
+NR 23 – Proteção Contra Incêndios. 
+NR 33 – Medidas de Segurança em Espaços Confinados. 
+Portaria Inmetro nº 140, de 21 de março de 2022. 
+Resolução Normativa ANEEL n. 482, de 17 de abril de 2012. 
+Resolução Normativa ANEEL n. 674, de 11 de agosto de 2015. 
+ANSI/IEEE 979 – Guide for substation fre protection.
+
+--- PÁGINA 5 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+5/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+ISO 1182 – Reaction to fire tests for products – Non-combustibility test. 
+NFPA 12 – Standard on Carbon Dioxide Extinguishing Systems. 
+NFPA 13 – Standard for the Installation of Sprinkler Systems. 
+NFPA 15 – Standard for Water Spray Fixed Systems for Fire Protection. 
+NFPA 30 – Flammable and Combustible Liquids Code. 
+NFPA 37 – Standard for the Installation and Use of Stationary Combustion Engines and Gas 
+Turbines. 
+NFPA 50A – Standard for Gaseous Hydrogen Systems at Consumer Sites. 
+NFPA 70 – National Electrical Code (NEC). 
+NFPA 70E – Standard for Electrical Safety in the Workplace. 
+NFPA 110 – Standard for Emergency and Standby Power Systems. 
+NFPA 111 – Standard on Stored Electrical Energy Emergency and Standby Power Systems. 
+NFPA 750 – Standard on Water Mist Fire Protection Systems. 
+NFPA – 850 Recommended Practice for Fire Protection for Electric Generating Plants and High 
+Voltage Direct Current Converter Stations. 
+NFPA 2001 – Standard on Clean Agent Fire Extinguishing Systems. 
+4 DEFINIÇÕES 
+Para os efeitos desta Instrução Técnica, aplicam-se as definições constantes da IT 02 
+(Terminologia de Proteção contra Incêndio e Pânico), além das seguintes: 
+4.1 Arco elétrico: Circulação de corrente através do ar, provocada por qualquer 
+descontinuidade nos condutores ou falhas de isolamento em condutores adjacentes que 
+transportam corrente. 
+4.2 Bacia coletora: Dispositivo ou sistema com finalidade de coletar e drenar para a bacia ou 
+caixa de contenção o óleo do equipamento em eventual vazamento. 
+4.3 Bacia de contenção: Região delimitada por uma depressão do terreno ou diques destinada 
+a conter integralmente o vazamento de produtos líquidos dos tanques. 
+4.4 Caixa de contenção: Dispositivo ou sistema fechado com tampa, com a mesma finalidade 
+da bacia de contenção. 
+4.5 Compensadores síncronos: Equipamento que compensa reativos do sistema, trabalhando 
+como carga quando o sistema está com a tensão alta, e trabalhando como gerador quando o 
+sistema está com a tensão baixa. 
+4.6 Desligamento rápido: é um requisito de segurança elétrica (sigla em inglês RSD) definido 
+para sistemas de painéis solares pelo Código Elétrico Nacional Americano (NEC 2017 - National 
+Electrical Code) incorporado pela Associação Nacional de Proteção contra Incêndios americana
+
+--- PÁGINA 6 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+6/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+(NFPA - National Fire Protection Association). Ele fornece uma maneira de desenergizar 
+rapidamente um sistema de painel solar no telhado reduzindo a tensão da ligação em série de 
+painéis fotovoltaicos para níveis seguros (próximo ou igual a zero volts - 0V). 
+4.7 Dique de contenção de líquidos: Construção de concreto, alvenaria ou outro material 
+quimicamente compatível com os produtos armazenados nos tanques/equipamentos, com a 
+finalidade de represar o líquido oriundo de eventuais vazamentos. 
+4.8 Dispositivo ou caixa de separação água-óleo: Dispositivo ou sistema com a finalidade de 
+separar e drenar a água do óleo emulsionado proveniente das bacias coletoras ou de contenção. 
+4.9 Distância elétrica: Distância mínima em linha reta entre partes energizadas expostas de um 
+equipamento e partes metálicas da instalação. 
+4.10 Edificação incombustível: Edificação composta por materiais incombustíveis. 
+4.11 Edificação ou material resistente ao fogo: Material de construção com propriedades de 
+resistir à ação do fogo por determinado período, mantendo sua segurança estrutural, 
+estanqueidade e isolamento, onde aplicável. 
+4.12 Equipamento de proteção de falha de arco elétrico: Combinação de funcionalidades de 
+detecção (sigla em inglês AFD) e interrupção de falhas de arco elétrico (sigla em inglês AFI), em 
+inglês representado pela sigla AFPE (arc fault protection equipment) que consiste em um 
+dispositivo que interrompe o fluxo de corrente em caso de detecção de arco elétrico. 
+4.13 Fluidos de alto ponto de combustão ou classe K: Líquidos isolantes para uso em 
+transformadores ou outros equipamentos, que possuem ponto de combustão mínimo de 300 °C 
+pelo método de ensaio “vaso aberto Cleveland”. Anteriormente eram denominados “fluidos 
+resistentes ao fogo”. Exemplos: óleo vegetal isolante (éster natural), éster sintético, 
+hidrocarbonetos de alto peso molecular, silicone. 
+4.14 Geração distribuída: centrais geradoras de energia elétrica, de qualquer potência, com 
+instalações conectadas diretamente no sistema elétrico de distribuição ou por meio de 
+instalações de consumidores, podendo operar em paralelo ou de forma isolada e despachadas – 
+ou não – pelo Operador Nacional do Sistema Elétrico (ONS). 
+4.15 Grupo gerador: Equipamento cuja força provém da explosão do combustível 
+misturado ao ar, com a finalidade de gerar energia elétrica. 
+4.16 Grupo gerador aberto: grupo gerador que não possui invólucro, geralmente instalado em 
+um ambiente fechado ou coberto, não sendo exposto a intempéries. 
+4.17 Grupo gerador cabinado ou carenado: grupo gerador coberto por invólucro, com a 
+finalidade de proteger contra os efeitos das intempéries, podendo possuir ou não tratamento 
+acústico. Geralmente instalado nas áreas externas das edificações. 
+4.18 Grupo gerador móvel: configuração aplicável aos grupos geradores que são 
+transportáveis ou móveis, ou seja, que ficam instalados por um período não maior que seis 
+meses, como, por exemplo, grupo gerador para locação. 
+4.19 
+Instalação 
+fotovoltaica: 
+instalação 
+composta 
+por 
+equipamentos 
+de 
+geração, 
+condicionamento e armazenamento de energia elétrica em sistemas fotovoltaicos.
+
+--- PÁGINA 7 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+7/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+4.20 Inversores: inversores com potência nominal até 75 kW (setenta e cinco quilowatts), de 
+uso em sistemas fotovoltaicos conectados à rede elétrica; com ou sem armazenamento de 
+energia. 
+4.21 Material incombustível: Todo material de construção, incluindo revestimento, forros, 
+coberturas, subcoberturas e isolantes termoacústicos que, nas condições esperadas de uso, não 
+auxiliam a combustão nem adicionam calor a um ambiente em caso de sinistro e que, quando 
+ensaiado conforme a ISO 1182, é considerado não combustível. 
+4.22 Microgeração distribuída de energia: Central geradora de energia elétrica, com potência 
+instalada menor ou igual a 75 kW (setenta e cinco quilowatts) conforme regulamentação da 
+Agência Nacional de Energia Elétrica (ANEEL), conectada na rede de distribuição de energia 
+elétrica por meio de instalações de unidades consumidoras. 
+4.23 Minigeração distribuída: central geradora de energia elétrica, com potência instalada 
+superior a 75 kW (setenta e cinco quilowatts) e menor ou igual a 5MW (cinco megawatts) 
+conforme regulamentação da ANEEL, conectada na rede de distribuição por meio de instalações 
+de unidades consumidoras. 
+4.24 Óleo mineral: Líquido isolante de uso predominante em transformadores e outros 
+equipamentos elétricos, que constitui um dos principais riscos de incêndio em uma subestação. 
+Com base na massa e potencial de liberação de energia, um equipamento isolado em óleo 
+mineral é normalmente a maior fonte de combustível presente na maioria das subestações. O 
+óleo mineral isolante possui ponto de fulgor de 145 °C e ponto de combustão de 160 °C. 
+4.25 Óleo vegetal isolante: Éster natural. Líquido isolante de alto ponto de combustão, 
+formulado a partir de óleo extraído de sementes/grãos e aditivos para melhoria de desempenho. 
+4.26 Painel corta-fogo: Sistema de placas de aço galvanizado permitindo a asfixia do fogo 
+dentro do sistema de contenção de óleo isolante. 
+4.27 Painel fotovoltaico: módulo fotovoltaico com potência nominal igual ou superior a 5 Wp 
+(cinco watt-pico), de células de silício, de camadas semicondutoras de filmes finos ou híbridas 
+(heterojunção); de tipos com ou sem moldura; de tipos monofacial ou bifacial; de tipos rígido, 
+flexível ou semiflexível; de tipos independente, aplicado ou integrado a edificações. 
+4.28 Sala Elétrica: Instalação cujos equipamentos são utilizados no Sistema Elétrico de 
+Consumo e não possui transformador, a não ser em casos específicos. 
+4.29 Sala de gerador: Ambiente onde estão instalados os geradores e os tanques ou 
+recipientes de óleo diesel empregados no consumo diário dos geradores da edificação ou 
+espaço destinado ao uso coletivo. 
+4.30 Sistema de contenção de líquido isolante: Sistema capaz de prover, em um eventual 
+vazamento, a coleta do óleo de cada equipamento, a drenagem do óleo e/ou água, a separação 
+água-óleo, a contenção de todo óleo derramado e drenagem da água separada para fora do 
+Sistema. 
+4.31 Sistema Elétrico: Circuito ou circuitos elétricos inter-relacionados destinados a atingir um 
+determinado objetivo. 
+4.32 Sistema Elétrico de Consumo (SEC): Conjunto das instalações e equipamentos 
+destinados ao consumo de energia elétrica que se inicia após a medição de energia ou ponto de 
+entrega, feita pela concessionária de energia.
+
+--- PÁGINA 8 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+8/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+4.33 Sistema Elétrico de Potência (SEP): Conjunto das instalações e equipamentos destinados 
+à geração, transmissão e distribuição de energia elétrica até a medição, inclusive. 
+4.34 Sistema de Distribuição de Média Tensão (SDMT): Conjunto de linhas de distribuição e 
+de equipamentos associados em tensões típicas superiores a 1 kV e inferiores a 69 kV, na 
+maioria das vezes com função primordial de atendimento a Unidades consumidoras, podendo 
+conter geração distribuída 
+4.35 Sistema de Distribuição de Alta Tensão (SDAT): Conjunto de linhas e subestações que 
+conectam as barras da rede básica ou de centrais geradoras às subestações de distribuição em 
+tensões típicas iguais ou superiores a 69 kV e inferiores a 230 kV, ou instalações em tensão 
+igual ou superior a 230 kV quando especificamente definidas pela ANEEL. 
+4.36 Subestação assistida ou atendida: Instalação operada localmente e que dispõe de 
+pessoas permanentes ou estacionadas. 
+4.37 Subestação compacta blindada: Instalação isolada a gás cujos equipamentos são 
+montados em compartimentos metálicos blindados. 
+4.38 Subestação compacta convencional: Instalação isolada a ar cujos equipamentos são 
+montados em compartimentos metálicos (como por exemplo, eletrocentro). 
+4.39 Subestação consumidora: Subestação para atendimento à unidade consumidora atendida 
+em média ou alta tensão de distribuição.  
+4.40 Subestação convencional: Instalação de pátio, isolada a ar (ao ar livre), cujos 
+equipamentos estão distantes de qualquer construção limítrofe, podendo os transformadores 
+permanecer ou não enclausurados.  
+4.41 Subestação de distribuição: Subestação conectada ao sistema de distribuição de alta 
+tensão, interligando as redes de distribuição, contendo transformadores de força. Tem como 
+função reduzir a tensão no sistema de distribuição. 
+4.42 Subestação elétrica: Parte do sistema de potência que compreende os dispositivos de 
+manobra, controle, proteção, transformação e demais equipamentos, condutores e acessórios, 
+abrangendo as obras civis e estruturas de montagem. 
+4.43 Subestação externa: Instalação cujos equipamentos estão expostos ao tempo e sujeitos à 
+ação das intempéries. 
+4.44 Subestação interna, abrigada ou subterrânea: Instalação cujos equipamentos estão ao 
+abrigo das intempéries, podendo tal abrigo consistir em uma edificação ou câmara subterrânea 
+(abaixo do nível do solo). 
+4.45 Subestação não-atendida: Instalação tele controlada ou operada localmente por pessoas 
+não permanentes ou não estacionadas. 
+4.46 Subestação teleassistida: Instalação supervisionada e operada a distância, a partir de um 
+centro de operação ou por outra instalação, independentemente de contar com pessoas 
+habilitadas para a operação local. 
+4.47 Tanque de armazenamento: Qualquer vaso destinado ao armazenamento de líquidos 
+combustíveis no exterior da edificação, excluídos os tanques de consumo.
+
+--- PÁGINA 9 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+9/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+4.48 Tanque de consumo diário: Tanque diretamente ligado ao equipamento ou às suas 
+proximidades, visando a sua alimentação imediata ou por curto espaço de tempo.  
+4.49 Transformador: Equipamento com função de transformar a energia elétrica (alterar o nível 
+de tensão ou corrente). São classificados em função do líquido isolante em contato com o 
+enrolamento e o método de refrigeração utilizado. 
+4.50 Transformador a óleo: Transformador que possui óleo isolante (mineral ou classe K). 
+4.51 Transformador a seco: Transformador isolado por resina. Não utiliza óleo isolante. 
+5 SUBESTAÇÕES  
+5.1 Análise de Risco de Incêndio da Subestação 
+5.1.1 A aplicação da presente instrução técnica deve ser precedida de uma análise de risco de 
+incêndio da subestação, a fim de se verificar os principais riscos envolvidos e eventuais 
+providências necessárias para se controlar ou eliminar fontes de ignição, prevenir incêndios, 
+extinguir incêndios, proteger contra exposição e controlar a propagação e danos do incêndio. 
+5.1.2 O Anexo A traz aspectos a serem considerados quando da análise de risco de incêndio da 
+subestação. 
+5.1.3 O processo de análise e identificação dos riscos de incêndio deve ser usado em 
+subestações novas e existentes para determinar o nível apropriado de proteção contra incêndio 
+para mitigar as consequências do incêndio. A análise dos riscos de incêndio deve ser realizada 
+por profissionais ligados à subestação, (projetistas da subestação, especialistas na proteção 
+contra incêndio e pessoal de operação), de forma que todas as perspectivas estejam incluídas 
+no processo. 
+5.1.4 Em função da análise de risco de incêndio e da importância da subestação no sistema de 
+energia elétrica, estas podem ter sistemas de proteção contra incêndios complementares para a 
+sua proteção, de acordo com as exigências das normas referenciadas na seção 3. 
+5.1.5 A análise de risco de incêndio da subestação será de inteira responsabilidade do RT, não 
+sendo objeto de análise e vistoria pelo Corpo de Bombeiros Militar de Minas Gerais (CBMMG). 
+5.2 Requisitos gerais de proteção contra incêndio em subestações elétricas   
+5.2.1 Arranjo físico 
+5.2.1.1 Deve ser prevista separação física entre equipamentos e edificações, e entre 
+equipamentos que apresentam considerável risco de incêndio e explosão, atendendo às 
+condições de isolamento e compartimentação previstas nesta instrução técnica. 
+5.2.1.2 Os ambientes da casa de controle e das edificações de apoio operacional devem ser 
+protegidos contra risco de incêndio de acordo com sua área e altura, atendendo à legislação de 
+Segurança contra Incêndio do CBMMG. 
+5.2.1.3 Para subestações pertencentes aos sistemas de geração, transmissão e distribuição de 
+energia, todas as edificações de apoio operacional devem ser previstas em áreas separadas 
+fisicamente da casa de controle e das instalações de pátio ou de instalações que apresentem 
+risco de explosão ou incêndio. 
+5.2.1.4 Quando exigida a medida de segurança de Acesso de Viaturas, além de atender ao 
+disposto na IT 04, as vias de acesso devem ser projetadas de forma a permitir a manobra de
+
+--- PÁGINA 10 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+10/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+veículos de emergência. 
+5.2.2 Requisitos construtivos 
+5.2.2.1 As edificações devem ser construídas em materiais incombustíveis. 
+5.2.2.2 As instalações elétricas, cabos, eletrodutos, bandejas, canaletas e aberturas para 
+passagem dos cabos, além das galerias, salas e túneis de cabos deverão atender ao disposto 
+na NBR 13231 (Figuras 1, 2 e 3). 
+ 
+Figura 1: Exemplo de vedação de abertura para passagem de cabos entre ambientes 
+compartimentados. 
+Fonte: ABNT NBR 13231 
+ 
+Figura 2: Exemplo de vedação em canaletas de cabos. 
+Fonte: ABNT NBR 13231
+
+--- PÁGINA 11 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+11/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+ 
+ 
+Figura 3: Exemplo de barreira de cabos posicionados em bandejas  dentro de galerias, salas ou 
+túneis. 
+Fonte: ABNT NBR 13231 
+5.2.2.3 As aberturas em paredes, pisos e tetos que sejam de compartimentação devem ser 
+devidamente protegidas por elementos corta-fogo, conforme IT 07, de forma a não comprometer 
+suas características de resistência ao fogo. 
+5.2.2.3.1 Portas podem apresentar tempo requerido de resistência ao fogo (TRRF) 30 min 
+menor que a resistência das paredes, porém nunca inferior a 60 min. 
+5.2.2.4 Em salas elétricas, devem ser empregados móveis e utensílios fabricados com materiais 
+incombustíveis ou, no mínimo, auto extinguíveis. 
+5.2.2.5 O projeto dos sistemas de climatização (ar-condicionado, ventilação, aquecimento e 
+exaustão) deve levar em consideração os riscos de incêndio nas áreas específicas servidas 
+pelos sistemas de climatização.  
+5.2.2.6 A área de instalação de baterias deve ser construída de forma a limitar o acúmulo de 
+hidrogênio a menos de 1 % do volume total da área, levando em consideração o tipo de bateria 
+utilizada. O ar transportado da área de instalação das baterias deve ser emitido para a parte 
+externa do edifício ao ar livre. Quando o ambiente for considerado uma atmosfera explosiva, a 
+instalação elétrica deve atender aos requisitos da NBR IEC 60079-14. 
+5.2.2.7 A casa de bombas, contendo bombas de incêndio acionadas por motores de combustão 
+interna, deve possuir características semelhantes àquelas destinadas a geradores. 
+5.2.2.8 O arranjo físico da casa de compensadores síncronos deve prever as possibilidades de 
+entrada de um homem equipado com aparelho de respiração autônoma, a desocupação
+
+--- PÁGINA 12 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+12/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+imediata e a extinção de incêndio com a utilização de extintores portáteis. 
+5.2.2.9 Quando os compensadores síncronos forem do tipo resfriamento a hidrogênio (H2), os 
+ambientes onde estiverem instalados os recipientes de H2 e aqueles onde existem 
+equipamentos ou passagem de tubulações de gás devem ser providos de meios de detecção de 
+vazamentos. As instalações devem atender aos requisitos da NFPA 50A. 
+5.2.2.10 O local de armazenamento de cilindros de hidrogênio deve ser protegido contra 
+intempéries, ventilado adequadamente e sinalizado, alertando-se sobre o risco de explosão. 
+5.2.2.11 Os quadros de supervisão e comando dos sistemas fixos de proteção contra incêndio 
+da subestação devem estar localizados na sala de controle ou em área de supervisão contínua. 
+A sinalização, luminosa e sonora, de funcionamento dos quadros deve ser diferente de outras 
+existentes no local. 
+5.2.2.12 Quando o risco de incêndio existente na casa de controle orientar para a necessidade 
+da utilização de sistema fixo de proteção por gases, este sistema deve estar dimensionado 
+conforme a NBR 12232, quando da utilização de CO2, observando-se ainda a IT 21. Poderão 
+ainda ser utilizadas normas internacionais, enquanto não existirem normas nacionais específicas 
+para outros gases. 
+5.2.3 Extintores de incêndio em subestações e equipamentos de subestações  
+5.2.3.1 Os conjuntos de equipamentos que utilizam óleo isolante, como transformadores, 
+reatores de potência e reguladores de tensão, bem como unidades individuais destes 
+equipamentos, deverão ser protegidos por extintores de incêndio conforme Tabela 1. 
+5.2.3.2 Os extintores de incêndio devem ser instalados a uma distância mínima de 5 metros e 
+máxima de 15 metros da borda interna da bacia de contenção dos transformadores a óleo. 
+Quando o transformador não possuir bacia de contenção, essa distância deve ser cotada a partir 
+do equipamento.  
+5.2.3.3 Para bacias de contenção à distância, é prevista proteção por extintores, levando-se em 
+conta a proporção de 20-B de capacidade extintora para cada 4,65 m2 de superfície da bacia de 
+contenção. 
+5.2.3.4 Em transformadores, reatores de potência, reguladores de tensão, bem como unidades 
+individuais destes equipamentos, todos em áreas externas, admite-se a proteção por extintores 
+por meio de bateria de unidades extintoras, com distância máxima a ser percorrida de 50 metros. 
+Tabela 1 - Proteção por extintores de incêndio para subestações 
+Capacidade de armazenagem 
+Quantidade e capacidade extintora mínima 
+Até 500 L 
+02 extintores de pó 20-B:C. 
+Acima de 500 até 2.500 L 
+02 extintores de pó 40-B:C. 
+Acima de 2.500 até 5.000 L 
+01 extintor de pó 40-B:C; e 
+01 extintor de sobrerrodas de pó 80-B:C.
+
+--- PÁGINA 13 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+13/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+Acima de 5.000 até 10.000 L 
+02 extintores de pó 40-B:C; e 
+01 extintor de sobrerrodas de pó 80-B:C. 
+Acima de 10.000 até 20.000 L 
+01 extintor de pó 80-B:C; e 
+01 extintor de sobrerrodas de pó 80-B:C. 
+ou 
+04 extintores de pó 40-B:C; e 
+01 extintor de sobrerrodas de pó 80-B:C. 
+Acima de 20.000 até 100.000 L 
+02 extintores de pó 80-B:C; e 
+02 extintores de sobrerrodas de pó 80-B:C. 
+ou 
+01 extintor de pó 80-B:C; e 
+03 extintores sobrerrodas de pó 80-B:C. 
+Superior a 100.000 L 
+02 extintores de pó 80-B:C; e 
+04 extintores sobrerrodas de pó 80-B:C. 
+Notas 
+1) O dimensionamento dos extintores deve considerar o volume de óleo de cada transformador 
+isolado ou o somatório dos volumes de óleo dos transformadores envolvidos no risco. 
+5.2.3.5 Os extintores sobre rodas devem ser equipados com rodas especiais para o 
+deslocamento sobre superfícies irregulares, por exemplo, locais com brita, possuindo diâmetro e 
+largura dimensionados para esta finalidade. 
+5.2.3.6 Transformadores à seco podem ser protegidos por extintores de incêndio portáteis de 
+capacidade extintora mínima de 20-B:C. A quantidade de extintores a serem instalados ficará a 
+critério do RT, em função do risco existente. 
+5.2.4 Parede tipo corta-fogo  
+5.2.4.1 A interposição de parede corta-fogo é necessária quando a distância livre de separação 
+física não atender as Tabelas 2 e 3. 
+5.2.4.2 As distâncias contidas nas Tabelas 2 e 3 e a utilização de parede corta-fogo devem ser 
+consideradas como fatores de isolamento de risco. 
+5.2.4.3 A parede tipo corta-fogo deve ser resistente ao fogo por 2 h e apresentar as seguintes 
+dimensões e características para transformadores, reatores de potência, reguladores de tensão 
+e outros equipamentos, onde aplicável (ver Figura 5):  
+a) dimensão estendida em 0,3 m (altura) e 0,6 m (comprimento) além dos componentes do 
+transformador que podem ser pressurizados devido a uma falha elétrica, incluindo buchas, 
+tanque conservador do líquido isolante, válvulas de alívio de pressão, radiadores e tanque do 
+comutador;  
+b) distância livre mínima de separação física, entre a parede e o equipamento protegido, deve 
+ser de 0,5 m;
+
+--- PÁGINA 14 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+14/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+c) ser executada de forma que a parede, sofrendo colapso estrutural e caindo, parcial ou 
+totalmente, não atinja equipamentos, edificações ou bloqueie rotas de fuga;  
+d) ser executada de forma que a parede não permita a passagem de calor e chamas para locais 
+próximos. 
+Tabela 2 - Distâncias mínimas de separação entre transformadores e edificações  
+(Ver Figura 4) 
+Tipo do líquido isolante 
+do  transformador 
+Volume de líquido 
+isolante 
+(L) 
+Distância horizontal mínima 
+(Dimensão X ou K da Figura 4) 
+Edificação 
+resistente ao fogo 
+por 2 h 
+(m) 
+Edificação 
+incombustível 
+ (m) 
+Edificação 
+combustível 
+(m) 
+Óleo mineral 
+Até 2.000 
+1,5 
+4,6 
+7,6 
+Acima de 2.000  
+até 20.000 
+4,6 
+7,6 
+15,2 
+Acima de 20.000 
+7,6 
+15,2 
+30,5 
+Fluido de alto ponto de  
+combustão (classe K) 
+Até 38.000 
+1,5 
+7,6 
+Acima de 38.000 
+4,6 
+15,2 
+NOTA: 
+1) Detalhes construtivos sobre edificação resistente ao fogo ou incombustível são apresentados na ABNT
+NBR 14432 e IT 06  
+ 
+Tabela 3 - Distâncias mínimas de separação entre transformadores e equipamentos adjacentes 
+(Ver Figura 4) 
+ 
+Tipo do líquido isolante do 
+transformador 
+Volume de líquido isolante 
+(L) 
+Distância 
+ (m) 
+Óleo mineral 
+Até 2.000 
+1,5 
+Acima de 2.000 até 20.000 
+7,6 
+Acima de 20.000 
+15,2 
+Fluido de alto ponto de combustão 
+(classe K) 
+Até 38.000 
+1,5 
+Acima de 38.000 
+7,6
+
+--- PÁGINA 15 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+15/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+≥0,6 m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Distância de separação mínima (ver Tabela 2) 
+X =Óleo mineral => distância a partir da borda interna do sistema de contenção 
+K =Fluido de alto ponto de combustão (classe K) => distância a partir dos componentes do 
+transformador que podem ser pressurizados devido a uma falha elétrica, incluindo buchas, tanque 
+conservador do líquido isolante, válvulas de alívio de pressão, radiadores e tanque do comutador. 
+ 
+ 
+Figura 4: Distância de separação mínima entre transformador imerso em líquido isolante instalado 
+externamente a edificação  
+Fonte: ABNT NBR 13231 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 5: Separação por parede tipo corta-fogo entre equipamentos e edificação 
+Fonte: ABNT NBR 13231 
+ 
+Parede da edificação 
+Contenção 
+Edificação 
+importante 
+K
+X
+Vista da elevação 
+Vista superior 
+Edificação 
+importante 
+Transformador 
+X
+K
+≥0,6 m
+Y2 
+Edificação 
+Parede corta-fogo 
+Sistema de contenção de óleo 
+Equipamento 
+Vista superior 
+Vista da elevação 
+≥ 0,50 m 
+≥ 0,50 m 
+Y1 
+Y1≥ 0,3 m => Bucha em porcelana => distância a partir do topo da bucha do transformador 
+Y2≥ 0,3 m => Bucha polimérica => distância a partir do conservador de óleo
+
+--- PÁGINA 16 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+16/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+5.2.5 Sistema de contenção de líquido isolante 
+5.2.5.1 Deverá ser conforme previsto nos itens 5.3.2.3 ou 5.3.3.2, dependendo do tipo de 
+instalação do transformador (interna ou externa). 
+5.2.6 Sistemas fixos automáticos para proteção contra incêndios  
+5.2.6.1 Áreas específicas devem ser previstas para instalação dos dispositivos de comando e 
+acionamento dos sistemas fixos de proteção contra incêndios. A supervisão do sistema de 
+controle deve estar disponível preferencialmente na sala de controle ou em área supervisionada.  
+5.2.6.1.1 Sistemas fixos automáticos são apresentados nos itens 5.2.6.2, 5.2.6.3, 5.2.6.4, 
+5.2.6.5 e 5.2.6.6. Outros sistemas não apresentados podem ser utilizados, desde que estejam 
+em conformidade com suas respectivas normas específicas. 
+5.2.6.2 Sistemas de proteção contra incêndio por chuveiros automáticos (sprinklers). 
+5.2.6.2.1 Quando projetado, deve atender a IT 18 e NBR 10897. 
+5.2.6.3 Sistema fixo automático por água nebulizada. 
+5.2.6.3.1 Quando projetado, deve ser de acordo com a NFPA 15. 
+5.2.6.4 Sistema fixo automático por água nebulizada sob alta pressão (water mist). 
+5.2.6.4.1 Quando projetado, deve ser de acordo com a NFPA 750. 
+5.2.6.5 Sistema fixo automático por gás pelo método de inundação total. 
+5.2.6.5.1 Quando projetado com CO2, deve ser de acordo com a NBR 12232 e NFPA 12, 
+conforme aplicável. 
+5.2.6.5.2 Quando projetado com gases limpos, deve ser de acordo com a NFPA 2001, pelo 
+método de inundação total. 
+5.2.6.6 Conjunto hidrante e líquido gerador de espuma sintética. 
+5.2.6.6.1 Quando projetado, deve ser de acordo com a NBR 12615. 
+5.2.6.7 O sistema fixo à base de água que possa gerar algum dano a equipamentos elétricos 
+energizados, quando do seu acionamento precoce, deverá ser substituído por sistema fixo de 
+gases. 
+5.2.6.7.1 Alternativamente, o sistema fixo à base de água instalado em compartimentos 
+ocupados exclusivamente com equipamentos elétricos energizados e que possuam área máxima 
+de 200 m2, a critério do RT, poderá ser substituído por detectores de incêndio ligados ao sistema 
+de alarme do empreendimento, desde que sejam atendidas as questões de resistência ao fogo 
+da edificação. 
+5.2.6.7.1.1 O RT deverá registrar, por meio de nota em planta, os parâmetros adotados para a 
+substituição da medida de segurança, de acordo com sua responsabilidade técnica.
+
+--- PÁGINA 17 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+17/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+5.2.7 Sistema manual de resfriamento 
+5.2.7.1 Quando projetado sistema de resfriamento por linhas manuais, os esguichos devem ser 
+do tipo regulável, e deve-se atender aos parâmetros de linhas de resfriamento da Tabela 4. 
+Tabela 4 - Linhas de resfriamento 
+ 
+Volume de líquidos combustíveis e inflamáveis 
+(m³) 
+Acima de 20 até 60 
+Acima de 60 até 120 
+Exigências mínimas 
+Vazão por linha (L/min) 
+250 
+700 
+Pressão (mca) 
+35,0 
+35,0 
+Nº de linhas 
+2 
+2 
+Tempo (min) 
+60 
+60 
+5.3 Transformadores 
+5.3.1 Considerações gerais para transformadores 
+5.3.1.1 O termo transformadores se refere a transformadores, reatores, reguladores de tensão e 
+outros equipamentos, onde aplicável. 
+5.3.1.2 Os transformadores imersos em fluidos isolantes devem ser instalados, de preferência, 
+externamente às edificações, sobre sistemas de contenção, quando aplicável, atendendo às 
+condições de separação de riscos de incêndio às edificações ou equipamentos adjacentes, 
+conforme Tabelas 2 e 3. 
+5.3.1.3 Não há necessidade de separação física, por isolamento ou paredes corta-fogo, em 
+instalações com transformadores a seco. 
+5.3.2 Transformadores – Instalação externa 
+5.3.2.1 Os seguintes meios de proteção contra incêndio devem ser considerados nas instalações 
+externas de transformadores que utilizam líquido isolante: 
+a) Distâncias de separação mínimas entre transformadores e edificações (Tabela 2) ou outros 
+equipamentos (Tabela 3), como exemplificado na Figura 4; 
+b) Caso não seja possível aplicar as distâncias de separação mínimas, deve ser providenciado o 
+uso de paredes tipo corta-fogo, nos termos do item 5.2.4; 
+c) para transformadores imersos em líquido isolante onde o tanque ou o conjunto de tanques, de 
+cada transformador, possua capacidade volumétrica de até 20 m3 de óleo mineral ou até 38 m3 
+de classe K, se indicado como necessário pela análise de risco de incêndio, deve ainda ser
+
+--- PÁGINA 18 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+18/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+providenciada a proteção adicional por linhas manuais (de acordo com a Tabela 4) ou sistemas 
+fixos automáticos, instalados conforme item 5.2.6; 
+d) para transformadores imersos em líquido isolante onde o tanque ou o conjunto de tanques, de 
+cada transformador, possua capacidade volumétrica superior a 20 m3 de óleo mineral ou maior 
+que 38 m3 de classe K, deverá ser projetado sistema de resfriamento, no mínimo, por linhas 
+manuais (de acordo com a Tabela 4); 
+d.1) Caso se trate de subestação não-atendida (sem população fixa permanente), o RT poderá, 
+com base na análise de risco de incêndio, projetar proteção por sistema fixo automático que 
+independa de ação local para o combate ao incêndio, instalado conforme item 5.2.6; 
+d.2) Na hipótese de a análise de risco de incêndio indicar como necessário sistema diverso 
+daquele mencionado na alínea d), poderá, em substituição, ser providenciada a proteção por 
+sistema(s) fixo(s) automático(s) listado(s) no item 5.2.6. 
+5.3.2.2 Material de recobrimento do pátio da subestação: 
+5.3.2.2.1 O tipo de material a ser utilizado no recobrimento do pátio da subestação pode 
+impactar o risco de incêndio criado pelo nivelamento do terreno. O uso de materiais duros ou 
+asfaltos (superfície impermeável) pode permitir que a chama de óleo mineral se alastre por 
+grandes distâncias. O uso de uma camada de pedra britada como recobrimento é uma prática 
+comum e pode ajudar a suprimir ou minimizar um incêndio (ver item 5.3.4). 
+5.3.2.2.2 A pedra britada utilizada no pátio da subestação deve ter diâmetro entre 18 mm e 38 
+mm. A profundidade típica da camada de brita usada no pátio da subestação varia entre 100 mm 
+e 150 mm, e os seguintes fatores devem ser considerados no uso de pedras britadas como 
+recobrimento do pátio da subestação: 
+a) A camada de brita deve atender aos requisitos do sistema de aterramento da subestação 
+quanto à tensão de passo e de toque, conforme normas aplicáveis; 
+b) A camada de brita deve receber manutenção periódica para remoção de materiais estranhos 
+que reduzam sua efetividade, como materiais orgânicos, ervas daninhas etc. 
+5.3.2.2.3 Outros materiais podem ser utilizados, desde que comprovada sua efetividade e seja 
+devidamente justificado pelo Responsável Técnico. 
+5.3.2.3 Sistema de contenção de líquido isolante 
+Sistemas de contenção para equipamentos imersos em líquido isolante, instalados 
+externamente, devem ser providenciados para todos os equipamentos com volume de líquido 
+isolante igual ou maior que 2 500 L para um único equipamento, ou quando o volume total de 
+conjuntos de equipamentos for maior que 5 000 L. 
+5.3.2.3.1 O sistema de contenção para equipamentos imersos em óleo mineral isolante, 
+instalados externamente, deve atender aos seguintes requisitos: 
+a) Ser impermeável (incluindo tubulação, dutos, interligações e caixas); 
+b) Ser projetado de forma que o fogo de um equipamento não se alastre para outro; 
+c) Ser constituído de materiais que suportem as altas temperaturas de ignição de óleos minerais 
+em chamas, mantendo sua estanqueidade e segurança estrutural;
+
+--- PÁGINA 19 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+19/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+d) A bacia de contenção exemplificada nas Figuras 6 e 7, seja no transformador, seja a 
+distância, deve estar dimensionada para conter no mínimo 110% do volume de óleo do 
+transformador a que é dedicada ou do volume total de óleo do maior equipamento e drenar 
+eventual contribuição das águas de chuva, de sistemas de supressão de incêndio ou de 
+atividades manuais de combate a incêndio, conforme aplicável; 
+ 
+Figura 6: Exemplo da contenção do óleo do transformador, com bacia no transformador 
+Fonte: Adaptação da ABNT NBR 13231 
+ 
+ 
+Figura 7: Exemplo de contenção do óleo do transformador, com bacia a distância 
+Fonte: Adaptação da ABNT NBR 13231 
+e) O arranjo físico do sistema de contenção deve conter no mínimo as seguintes funções, 
+podendo essas funções estar integradas em um único dispositivo ou separadas fisicamente para 
+atender aos critérios específicos de uma instalação: 
+e.1) Coleta do óleo derramado através de bacias coletoras, integradas ou múltiplas, com largura 
+e comprimento cujas dimensões excedam em 0,5 m no mínimo a projeção do equipamento. 
+Dimensionadas com volume útil mínimo para atender 20% do volume de líquido isolante do 
+equipamento e adequadas para coletar e drenar para a bacia ou caixa de contenção o volume 
+total de óleo do equipamento;
+
+--- PÁGINA 20 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+20/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+e.2) Drenagem do óleo derramado, das águas que aportam no sistema, da mistura água mais 
+óleo e da água separada do óleo; 
+e.3) Contenção do óleo derramado em bacia ou caixa de contenção, integrada à bacia coletora 
+ou interligada a uma ou mais bacias coletoras, com possibilidade de inspeção interna. Em caso 
+de espaços confinados, o projeto deve considerar os requisitos da NR 33; 
+e.4) Separação do óleo da água em dispositivo ou caixa separadora água-óleo com resistência à 
+corrosão pela água ou líquido isolante, com possibilidade de inspeção interna. Em caso de 
+espaços confinados, o projeto deve considerar os requisitos da NR 33; 
+e.5) Dispositivos de supressão de chamas. 
+5.3.2.3.2 O sistema de contenção para equipamentos imersos em fluidos de alto ponto de 
+combustão (classe K), instalados externamente, deve atender aos seguintes requisitos: 
+a) Ser impermeável (incluindo tubulação, dutos, interligações e caixas); 
+b) Ser constituído de materiais que suportem as temperaturas de trabalho de óleos vegetais, 
+mantendo sua estanqueidade e segurança estrutural; 
+c) Ter coleta e contenção do óleo derramado através de diques ou bacia de contenção com 
+capacidade suficiente para o volume de líquido isolante do maior transformador, mais água de 
+chuva e mais 50 mm de altura, porém não menor que 100 mm de altura ou profundidade total; 
+c.1) Nos casos em que for previsto sistema de supressão/combate a incêndio que envolva a 
+utilização de água, o conjunto deve ser dimensionado para conter no mínimo 110% do volume 
+total de óleo do maior equipamento e drenar eventual contribuição das águas de chuva além 
+daquela oriunda dos sistemas preventivos instalados. 
+d) Ter sistema de drenagem para retirada da água através de válvulas manuais ou drenagem 
+automática, com disposição em caixa separadora água-óleo ou outros dispositivos que atendam 
+à legislação local, observando-se o disposto para equipamentos imersos em óleo mineral 
+isolante. 
+5.3.3 Transformadores – Instalação interna  
+5.3.3.1 Os seguintes meios de proteção contra incêndio devem ser previstos na instalação de 
+transformadores internos à edificação: 
+a) Projetar edificação ou sala dedicada somente para transformadores, com meios de proteção 
+contra incêndio conforme Tabela 5; 
+b) O arranjo da sala ou edificação deve considerar aberturas normalmente fechadas e com 
+mesmo TRRF do restante da edificação; 
+c) Quando a edificação for exclusiva para transformadores ou quando se tratar de 
+transformadores 
+instalados 
+em 
+compartimentos 
+anexos 
+à 
+edificação, 
+com 
+acessos 
+independentes e pelo lado externo, os portões de acesso não precisam ser resistentes ao fogo, 
+podendo ser de telas ou grades vazadas, desde que a parede compartilhada com a edificação 
+anexa não possua abertura e seja resistente ao fogo pelo tempo determinado na Tabela 5. 
+Neste caso, a distância entre as telas ou grades vazadas e qualquer abertura da edificação 
+anexa deverá ser de, no mínimo, dois metros (2 m).
+
+--- PÁGINA 21 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+21/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+c.1) Na hipótese de se trabalhar com separação entre edificações, deve-se levar em 
+consideração a tabela de isolamento para transformadores externos (Tabela 2) e o cálculo de 
+isolamento de risco estabelecido pela IT 05, sendo o isolamento definido pela maior distância 
+dentre as duas encontradas. 
+d) Quando a edificação for exclusiva para transformadores ou quando se tratar de 
+transformadores 
+instalados 
+em 
+compartimentos 
+anexos 
+à 
+edificação, 
+com 
+acessos 
+independentes e pelo lado externo, a cobertura não precisa ser resistente ao fogo, desde que a 
+parede compartilhada com a edificação anexa não possua abertura e seja resistente ao fogo 
+pelo tempo determinado na Tabela 5. 
+Tabela 5 - Exigências mínimas para transformadores em instalações internas (ver nota 1) 
+Tipo de transformador ou do 
+líquido  isolante 
+Volume de líquido  isolante 
+do maior transformador 
+(L) 
+Meios de proteção contra incêndio 
+Óleo mineral 
+Até 400 
+Edificação resistente ao fogo por 1 h 
+Acima de 400  
+até 20.000 
+(ver nota 2) 
+Transformador único: 
+edificação resistente ao fogo por 1 h e sistema 
+fixo de combate ao incêndio por água ou gases 
+conforme item 5.2.6 ou edificação resistente ao
+fogo por 3 h 
+Transformadores múltiplos: 
+- edificação resistente ao fogo por 3 h, subdivida 
+para cada transformador, ou 
+- edificação resistente ao fogo por 3 h e sistema 
+fixo de combate ao incêndio por água ou gases, 
+conforme item 5.2.6.  
+Acima de 20.000 
+(ver nota 2) 
+- edificação resistente ao fogo por 3 h e sistema 
+fixo de combate ao incêndio por água ou gases 
+conforme item 5.2.6. 
+Fluido de alto ponto de 
+combustão  (classe K) 
+Até 38.000 
+- edificação resistente ao fogo por 1 h, ou  
+- edificação incombustível e sistema fixo de 
+combate ao incêndio por água ou gases, conforme 
+item 5.2.6. 
+Acima de 38.000 
+- edificação resistente ao fogo por 1 h e sistema 
+fixo de combate ao incêndio por água ou gases, 
+conforme item 5.2.6. 
+Tipo seco (sem qualquer 
+acessório  imerso em 
+óleo como: buchas, 
+comutadores, etc.) 
+N/A 
+- edificação Incombustível
+
+--- PÁGINA 22 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+22/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+Tipo de transformador ou do 
+líquido  isolante 
+Volume de líquido  isolante 
+do maior transformador 
+(L) 
+Meios de proteção contra incêndio 
+NOTA 
+1) Detalhes construtivos sobre edificação resistente ao fogo ou incombustível são apresentados na 
+ABNT NBR 14432 e IT 06. 
+2) Onde recomendada construção resistente ao fogo por 3 h para transformadores imersos em óleo 
+mineral, também proteger o aço estrutural exposto com proteção resistente ao fogo por 3 h. 
+e) Edificações exclusivas para baias de transformadores não necessitam possuir medidas de 
+proteção estabelecidas pela Tabela 5, devendo, contudo, possuir as distâncias mínimas de 
+separação previstas na Tabela 2. 
+f) Transformadores que possuam apenas coberturas contra intempéries deverão atender as 
+exigências para instalações externas (item 5.3.2). 
+g) Distâncias de separação mínima de 0,9 m das paredes. 
+5.3.3.2 Sistema de contenção de líquido isolante 
+5.3.3.2.1 Sistemas de contenção para equipamentos imersos em líquido isolante, instalados 
+internamente, devem ser providenciados para todos os equipamentos com volume de líquido 
+isolante igual ou maior a 400 L. 
+5.3.3.2.2 Sistema de contenção para equipamentos imersos em óleo mineral isolante, instalados 
+internamente, devem atender aos seguintes requisitos: 
+a) Ser impermeável (incluindo paredes, pisos, tubulação, dutos, interligações e caixas); 
+b) Ser constituído de materiais que suportem as altas temperaturas de ignição de óleos minerais 
+em chamas, mantendo sua estanqueidade e segurança estrutural; 
+c) Ter coleta do óleo derramado através de diques ou bacias coletoras individuais, projetados de 
+forma que o fogo de um equipamento não se alastre para outro, dimensionados com volume útil 
+mínimo para atender a 20% do volume de líquido isolante do equipamento e adequados para 
+coletar e drenar para a bacia ou caixa de contenção o volume total de óleo do equipamento; 
+d) Ter drenagem do óleo derramado e água do sistema de proteção fixo automáticos, se 
+providos, para contenção fora da edificação, em uma área reservada, sem colocar em risco 
+outras áreas da edificação; 
+e) Ter contenção de todo líquido derramado em bacia ou caixa de contenção, ou drenado para 
+um dispositivo ou caixa separadora água-óleo, instalados fora da edificação; 
+f) O conjunto contenção + separadora água-óleo, exemplificado nas Figuras A.7 e A.8, seja com 
+bacia junto ao transformador, seja a distância, deve estar dimensionado para conter no mínimo 
+110 % do volume do transformador a que é dedicado ou do volume total de óleo do maior 
+equipamento e drenar eventual contribuição das águas de sistemas de supressão de incêndio ou 
+de atividades manuais de combate a incêndio, conforme aplicável; 
+g) Ter separação do óleo da água em dispositivo ou caixa separadora água-óleo com resistência 
+à corrosão pela água ou líquido isolante, com possibilidade de inspeção interna. Em caso de 
+espaços confinados, o projeto deve considerar os requisitos da NR 33;
+
+--- PÁGINA 23 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+23/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+h) Ter dispositivos de supressão de chamas. 
+5.3.3.2.3 O sistema de contenção para equipamentos imersos em fluidos de alto ponto de 
+combustão (classe K), instalados internamente, devem atender aos seguintes requisitos: 
+a) O líquido isolante pode ser retido diretamente no interior do dique ou bacia de coleta 
+(individuais ou não), com capacidade para 110% do volume de óleo do maior equipamento e 
+eventual contribuição das águas de sistemas de supressão de incêndio ou atividades manuais 
+de combate ao incêndio, conforme aplicável; 
+b) Pode dispensar o dispositivo de supressão de chamas e a drenagem para fora da edificação; 
+c) Respeitar demais requisitos exigidos para equipamentos imersos em óleo mineral isolante. 
+5.3.4 Dispositivos de supressão de chama 
+5.3.4.1 A pedra britada pode ser usada como dispositivo de supressão de chama nos sistemas 
+de contenção de óleo. Testes referenciados na IEEE 979 demonstram que uma camada de 
+pedra britada com 150 mm de profundidade, utilizando britas de 18 mm de diâmetro, pode 
+suprimir a chama do óleo mineral pela diminuição da temperatura da chama e controle do ar de 
+combustão. A combustão da chama pode ocorrer quando o nível de óleo mineral estiver a 40 
+mm do topo da camada de brita. A Figura 8 exemplifica o sistema de supressão de chamas. O 
+sistema deve atender às seguintes condições: 
+ 
+Figura 8: Exemplos de bacia coletora e de contenção 
+Fonte: ABNT NBR 13231 
+a) A pedra britada utilizada nos sistemas de contenção deve ter diâmetro entre 25 mm e 50 mm; 
+b) As bacias coletoras devem ser projetadas de forma que o nível máximo de óleo (assumindo 
+uma descarga total) fique no mínimo 100 mm abaixo do topo da camada de pedra britada, e a 
+profundidade da camada de pedra britada deve ser no mínimo de 300 mm. 
+c) A camada de pedra britada deve ser instalada sobre um sistema de grelha;
+
+--- PÁGINA 24 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+24/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+d) O índice de vazios da pedra britada deve ser considerado na determinação do volume de 
+contenção (incluindo óleo, água de chuva, etc.). 
+5.3.4.2 Como alternativa para dispositivo de supressão de chama, podem ser utilizados painéis 
+corta-fogo ou outra solução ativa ou passiva, a ser avaliada por CT. 
+5.3.4.3 Em locais sujeitos a incidência de pó de qualquer natureza, que possam vir a se 
+acumular sobre os dispositivos de supressão de chamas, as instalações devem ser 
+periodicamente inspecionadas e limpas. 
+6 INSTALAÇÕES FOTOVOLTAICAS 
+6.1 Requisitos gerais 
+6.1.1 Para instalação e manutenção dos equipamentos e acessórios que compõem as 
+instalações fotovoltaicas, deverão ser observadas as NBRs de referência, em especial a NBR 
+16690 e NBR 5410 ou outras que vierem a substituí-las, ou, na sua falta, normas internacionais 
+consagradas. 
+6.1.2 As instalações fotovoltaicas de geração distribuída de energia deverão ser compostas por 
+painéis fotovoltaicos, inversores e demais aparelhos/equipamentos, componentes e acessórios 
+necessários à geração de energia elétrica, que atendam aos requisitos do INMETRO. 
+6.1.2.1 Deverão também ser instalados equipamento de proteção de falha de arco elétrico e 
+dispositivo de desligamento rápido. Enquanto não houver regulamentação pelo INMETRO para 
+os referidos equipamentos, poderá ser seguida norma internacional consagrada ou 
+especificação do fabricante.  
+6.1.3 Todos os cuidados adotados em relação à instalação dos painéis fotovoltaicos previstos 
+nas normas de referência terão o seu dimensionamento e execução de inteira responsabilidade 
+do RT, não sendo objeto de análise e vistoria pelo CBMMG. 
+6.1.4 Na solicitação da vistoria, deverá ser apresentado o documento de responsabilidade 
+técnica das instalações fotovoltaicas. 
+6.2 Painéis Fotovoltaicos 
+6.2.1 Os painéis fotovoltaicos não devem ser instalados sobre telhados/coberturas combustíveis. 
+6.2.1.1 Alternativamente, caso o telhado/cobertura onde o painel será instalado seja de material 
+combustível, poderá ser aceita a aplicação de produtos retardantes e/ou intumescentes, 
+mediante apresentação de laudo do responsável técnico pela aplicação do produto e do 
+respectivo documento de responsabilidade técnica. 
+6.2.2 Nas edificações e espaços destinados ao uso coletivo que possuam painéis fotovoltaicos 
+instalados, deverão ser atendidos os seguintes requisitos: 
+a) deverão ser projetados dispositivos de desligamento rápido, os quais devem ser instalados 
+em local seguro da edificação e que permita fácil acesso. O dispositivo deve vir acompanhado 
+de sinalização complementar por meio de mensagem escrita com os seguintes dizeres: 
+“DISPOSITIVO DE DESLIGAMENTO RÁPIDO PARA SISTEMA FOTOVOLTAICO”. A 
+sinalização deve ser reflexiva, com todas as letras maiúsculas e com altura mínima de 10 mm 
+(dez milímetros), na cor branca sobre fundo vermelho (Figura 9);
+
+--- PÁGINA 25 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+25/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+b) caso seja obrigatória a projeção de medida de segurança de Brigada de Incêndio, os 
+brigadistas devem conhecer o local de instalação dos painéis, de baterias e do dispositivo de 
+desligamento rápido dos painéis fotovoltaicos; 
+b.1) caso não haja Brigada de Incêndio, recomenda-se que a população tenha conhecimento do 
+local de instalação dos painéis, de baterias e do dispositivo de desligamento rápido dos painéis 
+fotovoltaicos; 
+ 
+ 
+Figura 9: Exemplo de dispositivo de desligamento rápido 
+Fonte: Article 690 Solar Photovoltaic (PV) Systems – NFPA 70 
+c) em local de fácil acesso, como portaria, por exemplo, devem ser fornecidas para as equipes 
+de resgate, informações que constem o leiaute do local, com a localização dos painéis 
+fotovoltaicos e de seu dispositivo de desligamento rápido, inclusive com informações de como 
+procedê-lo, além de detalhes de contato do responsável pelo sistema; 
+c.1) além dos locais já especificados na NBR 16690, deverá ser instalada, junto à placa M1, 
+sinalização para a identificação da existência de sistema fotovoltaico na edificação, nos moldes 
+do previsto na Figura 10, devendo ser acompanhada ainda de sinalização complementar por 
+meio de mensagem escrita com os seguintes dizeres: “ESTA EDIFICAÇÃO POSSUI 
+INSTALADO SISTEMA FOTOVOLTAICO”. A sinalização ilustrada na Figura 10 deverá possuir 
+dimensão mínima de 100 mm de largura e 150 mm de altura, na cor preta sobre fundo amarelo, 
+e a sinalização com a mensagem escrita deve ser reflexiva, com todas as letras maiúsculas e 
+com altura mínima de 10 mm (dez milímetros), na cor branca sobre fundo vermelho. Em todos os 
+locais em que haja risco de choque elétrico deverá ser alocada sinalização de alerta A5, 
+conforme estabelece a IT 15;
+
+--- PÁGINA 26 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+26/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+ 
+Figura 10: Exemplo de sinalização para a identificação da existência de 
+sistema fotovoltaico em uma edificação 
+Fonte: ABNT NBR 16690 
+c.2) Junto às sinalizações descritas em c.1, deverá ser instalada ainda sinalização que indique 
+claramente a existência do dispositivo de desligamento rápido na edificação, nos moldes da 
+Figura 11. O título “SISTEMA FOTOVOLTAICO EQUIPADO COM DISPOSITIVO DE 
+DESLIGAMENTO RÁPIDO” deve utilizar letras maiúsculas, com altura mínima de 10 mm (dez 
+milímetros) em preto sobre fundo amarelo, e o texto “AJUSTE O INTERRUPTOR DE 
+DESLIGAMENTO RÁPIDO PARA A POSIÇÃO ‘DESLIGADO’ (‘OFF’) PARA DESLIGAR O 
+SISTEMA FOTOVOLTAICO E REDUZIR O RISCO DE CHOQUE” deve ser em letras 
+maiúsculas, com altura mínima de 5 mm (cinco milímetros) em preto sobre fundo branco. 
+ 
+ 
+Figura 11: Exemplo de sinalização de indicação de existência do dispositivo de desligamento rápido na 
+edificação. 
+Fonte: Adaptação de Article 690 Solar Photovoltaic (PV) Systems – NFPA 70 
+d) o Plano de Intervenção, caso seja medida de segurança obrigatória para a edificação/ espaço 
+destinado ao uso coletivo, deve prever as ações a serem tomadas junto aos painéis e seus 
+equipamentos, antes do início do combate ao incêndio propriamente dito; 
+e) para painéis instalados sobre telhados/coberturas, para inversores e salas de baterias 
+poderão ser utilizados os extintores de incêndio previstos para a edificação, desde que 
+contemplem o incêndio Classe C, respeitadas as distâncias de caminhamento previstas na IT 16.  
+e.1) Quando não for possível a instalação de extintor ao nível dos painéis, poderá ser instalado 
+em nível diverso, a uma distância máxima de 5 m (cinco metros) da escada (ou outro meio) de 
+acesso ao telhado/cobertura. A quantidade de extintores a serem instalados ficará a critério do 
+RT, em função da quantidade de painéis existentes.
+
+--- PÁGINA 27 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+27/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+e.2) no caso de painéis instalados diretamente sobre o solo, onde o risco é eminentemente 
+patrimonial, como no caso das fazendas solares, não há necessidade de instalação de extintores 
+de incêndio para a proteção da área destinada aos painéis, ficando esta a critério do proprietário 
+ou responsável técnico; 
+6.2.3 As áreas de instalação de painéis fotovoltaicos deverão ser devidamente representadas 
+em planta, não sendo, contudo, computadas como áreas construídas para fins de: 
+a) definição da área total do PSCIP; 
+b) definição de medidas de segurança; 
+c) definição do tipo de PSCIP; 
+d) cálculo de cobrança da TSP, para fins de análise e vistoria; 
+e) área a ser informada no AVCB. 
+6.2.3.1 Nas áreas de instalação de baterias, devem ser projetadas as medidas de segurança 
+previstas para a edificação/espaço destinado ao uso coletivo, devendo ser avaliada, a critério do 
+RT, a pertinência de atendimento ao disposto no item 6.10.2 da NBR 13231 ou outro que vier a 
+substituí-lo. 
+6.2.4 A proteção dos transformadores destinados ao sistema de painéis fotovoltaicos deverá 
+observar as exigências do item 5.3 desta instrução técnica. 
+7 GRUPOS GERADORES 
+7.1 Requisitos gerais  
+7.1.1 Deve-se realizar uma avaliação do risco de incêndio para cada instalação de gerador, 
+incluindo seus equipamentos auxiliares, em relação ao seguinte: 
+a) Projeto; 
+b) Layout; 
+c) Requisitos de operação. 
+7.1.2 Os parâmetros trazidos por esta IT se aplicam a todo grupo gerador.  
+7.1.2.1 Os grupos geradores destinados ao suprimento de energia para sistemas preventivos 
+(elevadores de emergência, iluminação de emergência, etc.) deverão atender às características 
+específicas de suas respectivas normas, naquilo que forem mais exigentes que o previsto nesta 
+IT. 
+7.1.3 As salas de geradores destinados ao suprimento de energia para sistemas preventivos 
+localizados no interior da edificação deverão, preferencialmente, estar posicionadas no 
+pavimento térreo ou próximo deste, e atender aos seguintes critérios: 
+a) serem constituídas por paredes com requisitos de tempo requerido de resistência ao fogo 
+(TRRF) de no mínimo 2 (duas) horas; 
+b) possuir acesso através de porta corta fogo (PCF) com resistência de no mínimo 90 (noventa) 
+minutos ao fogo;
+
+--- PÁGINA 28 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+28/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+c) possuir instalações elétricas a prova de explosão e fiação elétrica feita em eletrodutos; 
+d) possuir ventilação forçada ou natural, garantindo que a tomada de ar frio seja realizada 
+próxima ao pavimento térreo e sem o risco de se captar a fumaça oriunda de um incêndio, de 
+forma a ser evitada a concentração explosiva; 
+d.1) quando a tomada de ar externa for realizada por meio de duto, este deve ser construído ou 
+protegido por material resistente ao fogo por 2 (duas) horas; 
+d.2) cuidados especiais, quanto ao isolamento térmico e/ou de resistência ao fogo, devem ser 
+tomados para os dutos de saída do ar aquecido e dutos de escape de gases da combustão, 
+também com resistência ao fogo de, no mínimo, 2 (duas) horas. 
+7.1.3.1 Os geradores destinados a suprimento de energia para sistemas preventivos (elevadores 
+de emergência, iluminação de emergência, etc.), mesmo que instalados em edificação diversa 
+da principal, deverão atender às características previstas em 7.1.3. 
+7.1.3.1.2 Os geradores destinados a suprimento de energia para sistemas preventivos que forem 
+instalados em ambiente externo deverão possuir proteção contra intempéries, caso não sejam 
+cabinados, além do disposto no item 7.1.12.  
+7.1.4 Os ambientes onde se encontram os geradores destinados a suprimento de energia para 
+sistemas preventivos não devem ser usados para fins de armazenamento, nem poderão abrigar 
+qualquer outro tipo de máquina ou motor diferente de geradores. 
+7.1.5 Em todos os recipientes e dutos deverão ser afixados rótulos ou placas, em locais visíveis, 
+indicando a natureza do produto contido. 
+7.1.6 A localização e o volume do tanque de consumo diário empregado para a alimentação de 
+cada gerador deverão ser representados no projeto. 
+7.1.7 Quando o grupo gerador se encontrar no interior da edificação, o tanque de consumo diário 
+deverá estar localizado dentro da sala do gerador e possuir um volume máximo de 2.500 (dois 
+mil e quinhentos) litros. 
+7.1.7.1 Poderá haver mais de um gerador na mesma sala, desde que o volume máximo 
+acondicionado em seus respectivos tanques de consumo diário não ultrapasse 2.500 (dois mil e 
+quinhentos) litros. 
+7.1.8 Caso o(s) grupo(s) gerador(es) se encontre(m) instalado(s) em prédio independente, 
+exclusivo para acondicionar os equipamentos, com isolamento de risco (conforme IT 05) para as 
+demais edificações no entorno, poderá ser aceito volume total máximo de 5.000 litros de 
+combustível nos tanques de consumo diário. 
+7.1.9 Qualquer volume de combustível superior àqueles especificados em 7.1.7 e 7.1.8 deverá 
+ser acondicionado por meio de tanques de armazenamento, os quais devem ser instalados 
+sempre no exterior das edificações, conforme NBR 17505 ou outra norma que vier substituí-la. 
+7.1.9.1 A critério do Responsável Técnico, poderá ser adotada a NFPA 30, ocasião em que as 
+medidas de segurança serão analisadas por Corpo Técnico, conforme prevê a IT 01 
+(Procedimentos Administrativos). 
+7.1.10 Deve ser prevista distância de separação das paredes em relação aos geradores e aos 
+tanques, com, no mínimo, 1 m (um metro) de largura.
+
+--- PÁGINA 29 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+29/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+7.1.11 Para os tanques de consumo aéreo, deve-se adotar a NBR 16684-1 de forma 
+complementar, naquilo que não contrariar esta IT. 
+7.1.12 Os geradores instalados externamente e os sistemas de bombeamento de óleo diesel 
+deverão atender às seguintes características: 
+a) isolamento por gradil ou elemento construtivo e placas de restrição de acesso a pessoas não 
+autorizadas, instaladas em locais de fácil visualização; 
+b) quando localizada junto à passagem de veículos, deve possuir obstáculo de proteção 
+mecânica com altura mínima de 0,6 m situado à distância não inferior a 1,0 m.; 
+7.1.13 Para geradores instalados em eventos temporários ou construções provisórias, devem ser 
+observados os critérios da IT 33, podendo ser complementados pelas exigências desta IT, 
+naquilo que for aplicável, a critério do RT. 
+7.1.14 Para evitar os riscos da eletricidade estática, os tanques metálicos deverão estar 
+aterrados de acordo com a ABNT NBR 5419, sendo o seu dimensionamento e execução de 
+inteira responsabilidade do respectivo RT, não sendo objeto de análise e vistoria pelo CBMMG. 
+7.2 Sistema de contenção de líquido combustível 
+7.2.1 Os tanques de consumo deverão possuir sistema de contenção com as seguintes 
+características: 
+a) deve haver uma distância mínima entre a parede da bacia de contenção e o costado do 
+tanque (em todos os lados), para evitar que, em caso de derramamento de líquido, este escorra 
+para fora da bacia de contenção; 
+b) os diques ou muros de contenção deverão comportar volume no mínimo igual ao volume do 
+tanque que contiverem, acrescida de 10% da capacidade do tanque, para conter as 
+movimentações do líquido e água de combate a incêndio; 
+c) se houver mais de um tanque numa área, o sistema de contenção poderá ser único, desde 
+que a sua capacidade seja no mínimo igual a capacidade do maior tanque, acrescida de 10% da 
+soma das capacidades dos demais tanques inseridos no sistema; 
+d) a área interna dos diques deverá permanecer livre e desimpedida, não se admitindo a 
+existência de qualquer material estranho à mesma; 
+e) aspectos construtivos devem seguir o disposto no Anexo A da NBR 16684-1. 
+7.2.2 Para os geradores cabinados ou carenados que não possuam sistema de contenção 
+acoplados em sua estrutura, deve-se atender o previsto em 7.2.1. 
+7.3 Sistema de proteção e combate a incêndio para os grupos geradores 
+7.3.1 Nas salas de armazenamento de combustível e salas de geradores, deverá haver placas 
+com os dizeres PERIGO - PROIBIDO FUMAR, além das placas de alerta e proibição pertinentes, 
+em quantidade tal que possam ser visualizados de qualquer direção, de acordo com o que 
+prescreve a IT 15 – Sinalização de Emergência. 
+7.3.2 Nas edificações e nos espaços destinados a uso coletivo em que for necessária a projeção 
+do Sistema de detecção e Alarme de incêndios, deverão ser instalados sistemas de botoeiras de
+
+--- PÁGINA 30 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+30/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+emergência e alarmes sonoros, conforme a IT 14, nos acessos próximos às portas das salas que 
+abrigam os geradores. 
+7.3.3 Nas edificações e nos espaços destinados a uso coletivo dotados de sistema de hidrantes, 
+deverão ser instalados pontos de hidrante afastados no mínimo 15 m (quinze metros) das 
+paredes dos diques ou da bacia de contenção, da porta do cômodo do gerador ou do gerador 
+cabinado, respeitando-se os parâmetros previstos na IT 17. 
+7.3.4 Deverão ser instalados aparelhos extintores em conformidade com a Tabela 6, 
+observando-se os critérios previstos na IT 16. 
+7.3.5 Os tanques enterrados devem ter a proteção de no mínimo dois extintores de incêndio 
+portáteis, com capacidade extintora 20-B, próximos do local de enchimento e/ou saída (bomba). 
+7.3.6 Para bacias de contenção à distância, é prevista proteção por extintores, levando-se em 
+conta a proporção de 20-B de capacidade extintora para cada 4,65 m2 de superfície da bacia de 
+contenção. 
+Tabela 6 - Proteção por extintores de incêndio para grupos geradores de energia 
+Capacidade de armazenagem 
+Quantidade e capacidade extintora mínima 
+Até 500 L 
+02 extintores de pó 20-B:C 
+Acima de 500 até 5.000 L 
+02 extintores de pó 40-B;C; 
+01 extintor de espuma mecânica 10-B. 
+Acima de 5.000 até 10.000 L 
+02 extintores de pó 80-B:C; 
+02 extintores de espuma mecânica 10-B. 
+ou 
+01 extintor de pó 40-B:C; 
+01 extintor de sobrerrodas de pó 80-B:C; 
+02 extintores de espuma mecânica 10-B. 
+Acima de 10.000 até 20.000 L 
+01 extintor de pó 80-B:C; 
+01 extintor de sobrerrodas de pó 80-B:C; 
+01 extintor de espuma mecânica 10-B; 
+01 extintor de espuma mecânica sobrerrodas 40-B. 
+ou 
+04 extintores de pó 40-B:C; 
+01 extintor de sobrerrodas de pó 80-B:C; 
+01 extintor de espuma mecânica 10-B; 
+01 extintor de espuma mecânica sobrerrodas 40-B. 
+Acima de 20.000 até 100.000 L 
+02 extintores de pó 80-B:C; 
+02 extintores de sobrerrodas de pó 80-B:C; 
+02 extintores de espuma mecânica 10-B; 
+02 extintores de espuma mecânica sobrerrodas 40-B.
+
+--- PÁGINA 31 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+31/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+ou 
+01 extintor de pó 80-B:C; 
+03 extintores sobrerrodas de pó 80-B:C; 
+02 extintores de espuma mecânica 10-B; 
+02 extintores sobrerrodas de espuma mecânica 40-B. 
+Superior a 100.000 L 
+02 extintores de pó 80-B:C; 
+04 extintores sobrerrodas de pó 80-B:C; 
+03 extintores sobrerrodas de espuma mecânica 40-B. 
+Notas 
+1) O dimensionamento dos extintores deve considerar o volume de óleo diesel presente nos tanques 
+de armazenamento e nos tanques de consumo diário (integrado ou separado do grupo gerador) 
+isolados ou o somatório dos volumes de óleo diesel dos tanques envolvidos no risco. 
+8 PRESCRIÇÕES DIVERSAS  
+8.1 O proprietário e/ou responsável pelo uso deve promover a manutenção e a proteção proativa 
+das máquinas e equipamentos presentes na edificação ou instalação, a fim de reduzir a 
+probabilidade de incêndios e explosões. 
+8.2 Para geradores e painéis fotovoltaicos, deverão ser observadas as instruções do fabricante, 
+quando da instalação, manutenção e operação. 
+8.3 Os casos omissos serão solucionados pelo Diretor de Atividades Técnicas.
+
+--- PÁGINA 32 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+32/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+ANEXO A 
+ASPECTOS DA ANÁLISE DE RISCO DE INCÊNDIO DA SUBESTAÇÃO 
+A.1 A análise dos riscos de incêndio deve levar em consideração: 
+A.1.1 Riscos de incêndio - Óleo mineral. 
+A.1.1.1 Com base na massa e potencial de liberação de energia, um equipamento isolado em 
+óleo mineral é normalmente a maior fonte de combustível presente na maioria das subestações, 
+incluindo: 
+a) transformadores e reatores: tanques principais, buchas, radiadores, conservadores, 
+comutadores de derivação em carga e bombas de resfriamento; 
+b) transformadores de instrumentos; 
+c) reguladores de tensão; 
+d) disjuntores; 
+e) cabos: isolados a óleo, tubulares, caixas e juntas de transição; 
+f) capacitores; 
+g) sistemas de óleo lubrificantes (por exemplo, para compensadores síncronos); 
+h) casas de bomba e plantas processadoras de óleo. 
+A.1.1.2 Redução de risco de incêndios – Líquidos isolantes alternativos (alto ponto de 
+combustão ou classe K). 
+A.1.1.2.1 Existem vários líquidos isolantes alternativos com melhores propriedades de 
+segurança contra incêndio, desenvolvidos com pontos de fulgor e combustão mais altos, que são 
+reconhecidos como ﬂuidos dielétricos que reduzem os riscos de incêndios em relação ao óleo 
+mineral. Esses ﬂuidos são classificados como ﬂuidos de alto ponto de combustão ou classe K, e 
+são um meio eficaz de reduzir o risco de incêndio em uma subestação. 
+A.1.1.2.2 Fluidos de alto ponto de combustão ou classe K são líquidos isolantes para uso em 
+transformadores ou outros equipamentos, que possuem ponto de combustão mínimo de 300 °C 
+(método de ensaio “vaso aberto Cleveland”, conforme NBR 11341). 
+A.1.2 Riscos de incêndio – Líquidos e gases inﬂamáveis e combustíveis. 
+A.1.2.1 Outras fontes de combustível que podem ser encontradas em subestações incluem:  
+a) compensadores síncronos refrigerados a hidrogênio; 
+b) oxiacetileno para fins de manutenção e construção; 
+c) casa de baterias; 
+d) gás hidrogênio gerado no carregamento de baterias; 
+e) aquecimento gerado por curtos-circuitos ou avalanches térmicas;
+
+--- PÁGINA 33 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+33/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+f) geradores a diesel ou gás, e células combustíveis para energia elétrica de emergência; 
+g) células de aquecimento a gás; 
+h) armazenamento, manuseio e distribuição de líquidos inﬂamáveis e combustíveis. 
+A.1.3 Riscos de exposição ao fogo. 
+A.1.3.1 Equipamentos de subestação e outros ativos críticos também podem ficar 
+comprometidos devido à exposição ao fogo proveniente de outras fontes, como, por exemplo: 
+a) estruturas auxiliares: áreas de escritório, armazenamento, lojas, edificações para grupos 
+geradores, área de armazenamento de materiais perigosos; 
+b) qualquer edificação, sala ou estrutura de suporte de construção combustível; 
+c) armazenamento de materiais combustíveis; 
+d) vegetação (ﬂorestas, cercas vivas e arbustos próximos). 
+A.1.4 Riscos em subestação interna. 
+A.1.4.1 Subestações internas apresentam um conjunto único de riscos que requerem um nível 
+maior de proteção ao fogo devido às seguintes razões: 
+a) qualquer fumaça e outros subprodutos de combustão encerrados na edificação podem criar 
+um risco de exposição aos ocupantes do edifício, pessoal de emergência e possivelmente uma 
+exposição corrosiva aos equipamentos críticos da subestação; 
+b) calor (incidência de chama, exposições radiativas e convectivas) e rajadas de pressão 
+provenientes de fogo e explosões contidos dentro da estrutura podem expor ao dano a estrutura 
+e/ou o equipamento; 
+c) a saída dos ocupantes da edificação, acesso ao pessoal de emergência para combate manual 
+ao incêndio e operações de resgate podem ficar comprometidos devido à fumaça, calor, dano 
+estrutural e distâncias de percurso. 
+A.1.5 Perda de ativos críticos. 
+A.1.5.1 Os seguintes componentes são elementos críticos que, se destruídos ou danificados, 
+podem impactar o funcionamento da subestação: 
+a) salas e equipamentos de controle, proteção, comunicação, automação e chaveamento; 
+b) áreas de distribuição de cabos, canaletas, galerias e túneis; 
+c) geradores a diesel ou gás, e células combustíveis para energia elétrica de emergência; 
+d) baterias e sistemas de carregamento; 
+e) estações de serviço de transformadores (seco e a óleo); 
+f) transformadores e reatores de potência; 
+g) disjuntores;
+
+--- PÁGINA 34 ---
+IT 30 – Instalações e equipamentos elétricos: subestações, painéis fotovoltaicos e grupos 
+geradores de energia 
+2ª Edição 
+34/34 
+Aprovada pela portaria n. 69, de 25ago2022, publicada no DOEMG n. 184, ano 130, p.05. 
+ 
+h) compensadores; 
+i) estruturas de barramento e equipamento auxiliar. 
+A.1.6 Manutenção e construção. 
+A.1.6.1 Atividades de manutenção e construção podem criar condições adicionais de risco em 
+uma subestação. Os seguintes equipamentos e atividades podem apresentar condições e alto 
+risco: 
+a) equipamentos de processamento de óleo; 
+b) transformadores e subestação móveis; 
+c) obras e reformas da subestação e/ou equipamentos; 
+d) pintura, trabalho a quente (operações de corte e solda); 
+e) atividades de manutenção; 
+f) maior exposição ao fogo e a cargas de combustível como: construção temporária ou 
+permanente, cargas combustíveis e inﬂamáveis provisórias (tambores de combustível, trapos, 
+madeiras), armazenamento de materiais e equipamentos, escritórios móveis e veículos 
+estacionados.

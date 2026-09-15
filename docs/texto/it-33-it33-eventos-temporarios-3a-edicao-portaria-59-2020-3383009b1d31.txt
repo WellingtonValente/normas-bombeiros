@@ -951,7 +951,7 @@ a) Para os setores de público com cadeiras ou poltronas (rebatíveis ou não), 
 considerado o número total de assentos demarcados;  
 b) Arquibancadas sem cadeiras ou poltronas será conforme a Equação A.2.2.3: 
 Equação A.2.2.3: Cálculo de público em arquibancadas 
-𝐏=  𝟐× 𝐄 × 𝐧 
+𝐏= 𝟐× 𝐄 × 𝐧 
 Onde: 
 P = população máxima 
 E = extensão da arquibancada em metros (proporção de 0,5 m linear de arquibancada por pessoa) 

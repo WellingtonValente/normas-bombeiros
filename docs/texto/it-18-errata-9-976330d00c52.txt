@@ -1,0 +1,37 @@
+--- PÁGINA 1 ---
+09/10/2020
+SEI/GOVMG - 12546519 - CBMMG - Errata
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=14585181&infra…
+1/1
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 19 de março de 2020.
+  
+ERRATA CBMMG/DAT Nº. 9/2020
+Esta Errata tem por objeƟvo promover a seguinte correção na Instrução Técnica 18 – 1ª Edição (Sistema
+de Chuveiros AutomáƟcos):
+ 
+1. ALTERAR o item o item 5.10 
+Onde se lê: 
+5.10 O dimensionamento do sistema pode ser feito por tabelas, tabelas e cálculo hidráulico ou cálculo
+total, de acordo com o risco e a norma adotada. 
+5.10.1 Quando for feito o dimensionamento por cálculo hidráulico, deve constar no projeto enviado ao
+Corpo de Bombeiros a planilha de cálculo hidráulico conforme o anexo C desta IT. 
+Leia-se:  
+5.10 Os procedimentos de cálculo e seu conteúdo são de responsabilidade exclusiva do Responsável
+Técnico. 
+5.10.1 O sistema de Hidrantes e MangoƟnhos para combate a incêndio deve ser apresentado seguindo os
+critérios deﬁnidos em instrução técnica especíﬁca. 
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 20/03/2020, às
+16:27, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 12546519
+e o código CRC 109D9B46.
+Referência: Processo nº 1400.01.0016459/2020-51
+SEI nº 12546519

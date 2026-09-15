@@ -5516,7 +5516,7 @@ Alterada pela portaria n. 37, de 25fev2019, publicada no DOEMG n. 45, ano 127, p
 equação 5: 
 𝐳𝟏= 𝟎, 𝟏𝟔𝟔× 𝐐𝐜
 𝟐𝟓
-⁄  
+⁄ 
 Onde: 
 z1= limite de elevação da chama (m) 
 Qc= porção convectiva da taxa de liberação de calor, estimada em 70% da taxa de liberação de 
@@ -6383,7 +6383,7 @@ os cálculos abrangem z/H > 1,0.
 Equação 5 – Altura da chama 
 𝐳𝟏= 𝟎,𝟏𝟔𝟔× 𝐐𝐜
 𝟐𝟓
-⁄  , 
+⁄ , 
 onde: 
 z1= limite de elevação da chama (m) 
 Qc= porção convectiva da taxa de liberação de calor (kW) 

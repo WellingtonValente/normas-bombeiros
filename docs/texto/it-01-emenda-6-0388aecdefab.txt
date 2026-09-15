@@ -1,0 +1,119 @@
+--- PÁGINA 1 ---
+05/11/2020
+SEI/GOVMG - 18990216 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=22402753&infra_sist…
+1/3
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 02 de setembro de 2020.
+  
+EMENDA CBMMG/DAT Nº. 6/2020
+Esta Emenda tem por objeƟvo promover as seguintes alterações na Instrução Técnica 01 - 8ª Edição
+(Procedimentos AdministraƟvos): 
+ 
+1. ACRESCENTAR os itens 6.5.10 e 6.5.10.1:
+6.5.10 Variações entre o projeto e a execução/instalação das medidas de segurança contra incêndio e pânico,
+idenƟﬁcadas durante a vistoria, não serão impediƟvas para emissão do AVCB, quando:
+a) os parâmetros de dimensionamento das medidas de segurança contra incêndio e pânico estejam
+conforme a IT especíﬁca;
+b) medidas de segurança contra incêndio e pânico não projetadas sejam instaladas de forma que não
+interﬁram na cobertura e eﬁciência das medidas previstas no projeto aprovado;
+c) as variações de leiaute não impliquem prejuízo à cobertura e eﬁciência das medidas de segurança contra
+incêndio e pânico previstas no projeto.
+6.5.10.1 As variações citadas no item 6.5.10 serão registradas no REDS da vistoria e em campo próprio no
+Infoscip.
+ 
+2. ACRESCENTAR os  itens E.1.3.1 e E.1.3.2:
+E.1.3.1 Para preenchimento da ART/RRT, deverão ser seguidas as seguintes orientações:
+a) Para a ART:
+a.1) Referente à elaboração de projeto do PSCIP:
+a.1.1) No campo “Nível de atuação”(campo 4) , anotar "ELABORAÇÃO", "EXECUÇÃO" ou "CONCEPÇÃO", a
+critério do RT;
+a.1.2 ) No campo “AƟvidade proﬁssional”(campo 4) , anotar "PROJETO" (código 43);
+a.1.3) No campo “Observação” (campo 5), poderão ser inseridas informações complementares para detalhar
+as aƟvidades descritas no campo 4;
+a.1.4) No Campo “Área de atuação” (campo 9), anotar o código 72 - "SEGURANÇA DO
+TRABALHO" (Engenheiro de Segurança) ou o código 50 - "PREVENÇÃO INCÊNDIO" (Engenheiro Civil e
+Mecânico);
+a.1.5) Os demais campos serão uƟlizados pelo Responsável Técnico para relacionar o documento ao
+respecƟvo PSCIP.
+a.2) Referente à execução de medidas de segurança do PSCIP:
+a.2.1) No campo “Nível de atuação”(campo 4) , anotar "EXECUÇÃO";
+
+--- PÁGINA 2 ---
+05/11/2020
+SEI/GOVMG - 18990216 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=22402753&infra_sist…
+2/3
+a.2.2 ) No campo “AƟvidade proﬁssional”(campo 4) , anotar "EXECUÇÃO DE OBRA/SERVIÇO" (código 26);
+a.2.3) No campo “Observação” (campo 5), poderão ser inseridas informações complementares para detalhar
+as aƟvidades descritas no campo 4;
+a.2.4) No Campo “Área de atuação” (campo 9), anotar o código 72 - "SEGURANÇA DO
+TRABALHO" (Engenheiro de Segurança) ou o código 50 - "PREVENÇÃO INCÊNDIO" (Engenheiro Civil e
+Mecânico);
+a.2.5) Os demais campos serão uƟlizados pelo Responsável Técnico para relacionar o documento ao
+respecƟvo PSCIP.
+a.3) Referente à confecção de Laudos de interesse do PSCIP (renovação de AVCB, teste de estanqueidade,
+impossibilidade técnica, etc.):
+a.3.1) No campo “Nível de atuação”(campo 4) , anotar "ELABORAÇÃO" ou "EXECUÇÃO", a critério do RT;
+a.3.2 ) No campo “AƟvidade proﬁssional”(campo 4) , anotar "LAUDO" (código 31);
+a.3.3) No campo “Observação” (campo 5), poderão ser inseridas informações complementares para detalhar
+as aƟvidades descritas no campo 4;
+a.3.4) No Campo “Área de atuação” (campo 9), anotar o código 72 - "SEGURANÇA DO
+TRABALHO" (Engenheiro de Segurança) ou o código 50 - "PREVENÇÃO INCÊNDIO" (Engenheiro Civil e
+Mecânico);
+a.3.5) Os demais campos serão uƟlizados pelo Responsável Técnico para relacionar o documento ao
+respecƟvo PSCIP.
+a.4) Referente a outros serviços especíﬁcos no âmbito do PSCIP:
+a.4.1) Poderá, ainda, ser apresentada ART disƟnta das supracitadas, quando o serviço se referir a uma
+aƟvidade especíﬁca no âmbito do PSCIP, a exemplo de projeto elétrico ou execução de sistema elétrico, afeta
+às medidas de segurança.
+a.4.1.1) Neste caso, o campo “Observação” (campo 5) deverá ser uƟlizado para especiﬁcar e relacionar o
+serviço realizado ao PSCIP.
+b) Para o RRT:
+b.1) No campo “AƟvidades técnicas” (campo 4), anotar as seguintes aƟvidades, conforme o caso:
+b.1.1) Projeto de instalações prediais de prevenção e combate a incêndio;
+b.1.2) Projeto de sistemas prediais de proteção contra incêndios e catástrofes;
+b.1.3) Execução de instalações prediais de prevenção e combate a incêndio;
+b.1.4) Execução de sistemas prediais de proteção contra incêndios e catástrofes;
+b.1.5) Laudo Técnico;
+b.2) No campo "Descrição" (campo 5), poderão ser inseridas informações complementares para detalhar a
+aƟvidade descrita no campo “AƟvidades técnicas” (campo 4). 
+E.1.3.2 Deverão ser, ainda, respeitadas as seguintes prescrições:
+a) O endereço da obra/serviço deverá corresponder ao endereço da ediﬁcação ou espaço desƟnado ao uso
+coleƟvo informado junto ao Infoscip;
+b) A quanƟdade indicada no documento deverá reﬂeƟr a área total do PSCIP, a parcela da área sob
+responsabilidade do proﬁssional ou o serviço submeƟdo ao CBMMG;
+
+--- PÁGINA 3 ---
+05/11/2020
+SEI/GOVMG - 18990216 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=22402753&infra_sist…
+3/3
+b.1) Quando a área indicada em campo próprio da ART/RRT divergir da área total informada no Infoscip ou
+quando for uƟlizada outra unidade de medida para deﬁnir a quanƟdade, a área total do PSCIP ou a área sob
+responsabilidade do proﬁssional deverá ser especiﬁcada e expressamente indicada, em metros quadrados,
+no campo "Observação" (campo 5) da ART ou no campo "Descrição" (campo 5) do RRT;
+b.1.1) Quando o serviço sob responsabilidade do proﬁssional se referir a laudo, em que não seja possível
+especiﬁcar a área, a quanƟdade indicada no campo 5 poderá ser em "unidades" ou outra medida autorizada
+pelo respecƟvo Conselho Proﬁssional;
+c) Os documentos deverão estar datados e assinados pelo contratante e pelo RT no caso da ART e apenas
+pelo RT, no caso do RRT;
+c.1) Será admiƟda a assinatura eletrônica, caso a funcionalidade encontre-se disponível e passível de
+validação por meio de endereço eletrônico.
+d) A ART/RRT poderá se referir a mais de um serviço, devendo o preenchimento do documento contemplar
+todos os serviços prestados.
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM 
+Diretor de AƟvidades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Coronel, em 09/10/2020, às
+15:20, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de 26
+de julho de 2017.
+A autenƟcidade deste documento pode ser conferida no site
+hƩp://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código veriﬁcador 18990216 e o
+código CRC F1C72D3B.
+Referência: Processo nº 1400.01.0046206/2020-42
+SEI nº 18990216

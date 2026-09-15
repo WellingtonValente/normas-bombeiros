@@ -740,7 +740,7 @@ LANÇO DA ESCADA
 PATAMAR
 Comprimento 
 do patamar
-P =  (2h +  b)n +  b
+P = (2h + b)n + b
 a) ocupações A até G: h = 20 cm 
 b) ocupações H: h = 19 cm 
 c) ocupações I até M: h = 23 cm 

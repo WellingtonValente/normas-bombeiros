@@ -1,0 +1,90 @@
+--- PÁGINA 1 ---
+DIRETORIA DE ATIVIDADES TÉCNICAS 
+ 
+CIRCULAR – 01/2013 – DAT  
+ 
+Esclarece os requisitos quanto às exigências para 
+descargas em edifícios, conforme item 5.11 da IT 08.  
+ 
+O Coronel BM Diretor de Atividades Técnicas, no uso de suas atribuições legais 
+consoante ao disposto no inciso I, artigo 6º da Resolução 169/2005, que trata da 
+competência e estrutura da Diretoria de Atividades Técnicas, combinado com o disposto 
+no inciso III, artigo 2º da Lei 14.130/2001, que dispõe sobre a prevenção contra incêndio e 
+pânico no Estado de Minas Gerais, 
+ 
+CONSIDERANDO QUE: 
+1. Há necessidade de padronização dos procedimentos relativos à exigência dos itens 
+5.11.1.1 a 5.11.1.4 da IT 08: 
+5.11 Descarga  
+5.11.1 Tipos  
+5.11.1.1 A descarga, parte da saída de emergência de uma edificação, que fica entre a 
+escada e a via pública ou área externa em comunicação com a via pública, pode ser 
+constituída por:  
+a) corredor ou átrio enclausurado;  
+b) área em pilotis;  
+c) corredor a céu aberto. 
+[...] 
+5.11.1.4 A área em pilotis que servir como descarga deve:  
+a) não ser utilizável como estacionamento de veículos de qualquer natureza, sendo, 
+quando necessário, dotada de divisores físicos que impeçam tal utilização;  
+b) ser mantida livre e desimpedida, não podendo ser utilizada como depósito de 
+qualquer natureza.  
+2. De acordo com a IT 02, define-se como pilotis o local edificado de uso comum, aberto 
+em pelo menos três lados, bem como o local coberto, aberto em pelo menos duas faces 
+opostas, cujo perímetro aberto tenha, no mínimo, 70% do perímetro total. 
+3. O corredor ou átrio enclausurado, quando utilizado como descarga, deverá atender ao 
+previsto no item 5.11.1.2 da IT 08. 
+4. A área em pilotis que servir como descarga deverá atender ao previsto no item 
+5.11.1.4 da IT 08.
+
+--- PÁGINA 2 ---
+5. Para as escadas comuns (NE) não existe exigência de compartimentação em relação 
+a outras áreas da edificação. 
+6. A IT 08, para escadas de emergência (exceto NE), em seu item 5.11.1.3, não admite 
+a existência de compartimentos em comunicação com a descarga, exceto salão de 
+festas, sala de espera, sala de estar e portaria. 
+7. O conceito de compartimentação inserido na IT 02: 
+Compartimentação: Característica construtiva, concebida pelo arquiteto ou 
+engenheiro, na qual se tem a divisão em nível (cômodos) ou vão vertical (pé 
+direito), cujas características básicas são a vedação térmica e a estanqueidade à 
+fumaça, onde o elemento construtivo estrutural e de vedação, possui resistência 
+mecânica à variação térmica no tempo requerido de resistência ao fogo - TRRF, 
+determinado pela norma correspondente, impedindo a passagem de calor ou 
+fumaça, conferida à edificação em relação às suas divisões internas. (grifo 
+nosso) 
+  
+RESOLVE: 
+1. Nas edificações com escada do tipo não enclausurada (NE), com altura até 12 m, a 
+descarga poderá ocorrer em ambiente destinado a estacionamento de veículos, 
+observando-se a nota do item 5.11.1.4 da IT 08.  
+1.1 Quando na descarga de escadas NE houver divisores físicos separando-a de locais 
+de estacionamento, será aceita a largura de 1,10 m, conforme item 5.11.2.2 da IT 08. 
+1.2 A descarga de escadas NE em edificações com altura até 12 m poderá ter 
+comunicação 
+com 
+outros 
+compartimentos 
+como 
+apartamentos, 
+depósitos, 
+estacionamento, etc., sem a necessidade de compartimentação ou projeção de corredor 
+ou átrio enclausurado. 
+2. Nas edificações com escada do tipo enclausurada protegida (EP), do tipo à prova de 
+fumaça (PF), pressurizada ou não, bem como do tipo aberta externa, o pilotis somente 
+poderá ser utilizado como descarga quando não for utilizado como estacionamento de 
+veículo de qualquer natureza, devendo ser observado o item 5.11.1.4 da IT 08.   
+3. Quando houver área no nível de descarga utilizada como estacionamento de 
+veículos, apartamentos ou outro tipo de compartimento (exceto aqueles admitidos no 
+item 5.11.1.3 da IT 08), a descarga da escada de emergência (exceto NE) deverá ser 
+compartimentada, e deverá ocorrer por meio de corredor ou átrio enclausurado, 
+observando os requisitos estabelecidos no item 5.11.1.2 da IT 08. 
+3.1 A compartimentação de ambientes em comunicação com a descarga (como 
+garagens, apartamentos, etc.)  deverá ser feita de forma que o uso do sistema de 
+hidrantes, durante o combate ao incêndio, não permita a passagem de fumaça e calor 
+destes ambientes para o interior da descarga.  
+ 
+Belo Horizonte, 04 de janeiro de 2013. 
+ 
+ 
+MIGUEL NOVAIS BORGES, CORONEL BM 
+DIRETOR

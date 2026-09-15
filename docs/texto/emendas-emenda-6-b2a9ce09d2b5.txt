@@ -1,0 +1,55 @@
+--- PÁGINA 1 ---
+01/09/22, 15:55
+SEI/GOVMG - 50888637 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58334322&infra…
+1/2
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 04 de agosto de 2022.
+  
+EMENDA CBMMG/DAT Nº. 6/2022
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica 05 - 1ª Edição
+(Separação entre edificações – Isolamento de risco):
+ 
+1. ALTERAR o item 4.1.1, que passa a vigorar com a seguinte redação:
+4.1.1 Edificação expositora: Construção na qual o incêndio está ocorrendo, responsável pela radiação de
+calor, convecção de gases quentes e/ou transmissão direta das chamas.
+ 
+2. ALTERAR o item 6.1.3.4, que passa a vigorar com a seguinte redação:
+6.1.3.4 O distanciamento horizontal previsto na Tabela 3 pode ser desconsiderado quando a fachada da
+edificação adjacente for “cega”, e considerando a resistência de acordo com a Tabela A da IT 06.
+ 
+3. ALTERAR o item 6.1.5.5, que passa a vigorar com a seguinte redação:
+6.1.5.5 As armações dos telhados ou das coberturas não devem ser engastadas na parede de isolamento
+de risco, mas podem ficar apoiadas em consolos (suportes) fixados na parede e, para o caso de dilatação
+da armação da cobertura decorrente de um incêndio, deve ser prevista a distância necessária a essa
+dilatação, de modo que a integridade da parede não seja comprometida.
+ 
+4. ACRESCENTAR o item 6.1.5.5.1:
+6.1.5.5.1 A parede corta-fogo deve ser capaz de permanecer estável quando a estrutura do telhado
+entrar em colapso.
+ 
+5. ACRESCENTAR o 6º passo e o 7º passo no Anexo C:
+6º passo: Refazer todos os cálculos para o edifício do qual se pretende isolar o risco, obtendo-se uma
+nova distância “D” de separação;
+7º passo: A maior distância encontrada deverá ser empregada para o isolamento do risco, podendo-se
+aplicar os fatores de redução de distância de separação, conforme Anexo B.
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Diretor(a), em 29/08/2022,
+às 15:48, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+
+--- PÁGINA 2 ---
+01/09/22, 15:55
+SEI/GOVMG - 50888637 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58334322&infra…
+2/2
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 50888637
+e o código CRC B4C4E3A5.
+Referência: Processo nº 1400.01.0045935/2022-78
+SEI nº 50888637

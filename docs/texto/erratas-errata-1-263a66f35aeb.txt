@@ -1,0 +1,901 @@
+--- PÁGINA 1 ---
+GOVERNO DO ESTADO DE MINAS GERAIS
+CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS
+Diretoria de Atividades Técnicas
+ 
+ERRATA
+Belo Horizonte, 19 de dezembro de 2024.
+ 
+CBMMG/DAT - Nº 01/2024
+Esta Errata tem por objetivo promover as seguintes correções na Instrução Técnica 01 – 10ª Edição
+(Procedimentos Administrativos):
+ 
+1. EXCLUIR a alínea "e" do item 5.4.4.2
+e) alterações de leiaute que resultem em redução na largura das saídas de emergências.
+ 
+2. ALTERAR o item 5.4.4.3
+Onde se lê:
+5.4.4.3 Quando da realização de eventos em edificações permanentes, estas deverão atender a todas as
+exigências da legislação, incluindo AVCB válido, além das exigências para as atividades temporárias que
+se pretendam desenvolver em seu interior, nos termos da IT 33.
+Leia-se:
+5.4.4.3 Quando da realização de eventos em edificações permanentes, deverão ser observadas as condições
+específicas previstas na IT 33.
+ 
+3. EXCLUIR o item 6.2.5
+6.2.5 Será cancelado o PSCIP que, ainda sem aprovação ou AVCB, permaneça sem qualquer tramitação
+por período superior a 5 (cinco) anos após a última movimentação. Após esse período, caso o RT deseje
+retomar a tramitação, deverá ser protocolado novo processo.
+ 
+4. ALTERAR o item 6.4.6
+Onde se lê:
+6.4.6 Modificações em PET serão aceitas somente até a emissão do AVCB.
+Leia-se:
+6.4.6 Modificações em PET poderão ocorrer conforme previsto na IT 33.
+ 
+5. ALTERAR o item 8.2.1
+Onde se lê:
+8.2.1 O FAT de dúvida técnica destina-se a esclarecer informações sobre a tramitação de PSCIP,
+interpretação de itens de norma e avaliação de casos especiais ou omissos.
+Leia-se:
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 1
+
+--- PÁGINA 2 ---
+8.2.1 O FAT de dúvida técnica destina-se a esclarecer informações sobre a tramitação de PSCIP e
+interpretação de itens de norma.
+ 
+6. ALTERAR o item 8.2.3
+Onde se lê:
+8.2.3 A resposta da dúvida técnica que se refira a um PSCIP específico será providenciada pela Unidade
+onde foi protocolado o FAT, sendo encaminhado para instância superior quando a complexidade da
+resposta assim o exigir, ocasião em que se reinicia o prazo para a resposta.
+Leia-se:
+8.2.3 O FAT de dúvida técnica deverá ser encaminhado à Unidade responsável pelo PSCIP, que poderá
+enviá-lo à instância superior se a complexidade assim o exigir, ocasião em que se reinicia o prazo de
+resposta.
+ 
+7. EXCLUIR o item 9.4.2
+9.4.2 O PSCIP que, ainda sem aprovação ou AVCB, permanecer sem qualquer tramitação por período
+superior a 5 (cinco) anos, contados da última movimentação, será cancelado. Após esse período, caso o
+RT deseje retomar a tramitação, deverá ser protocolado novo processo.
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 2
+
+--- PÁGINA 3 ---
+8. CORRIGIR a Tabela 1
+Onde se lê:
+TABELA 1
+GRUPO A
+(RESIDENCIAL)
+Divisão
+A-2 e A-3
+Medidas de Segurança contra Incêndio e Pânico
+Classificação quanto à altura (em metros)
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+Acesso de Viaturas
+X(1)
+X
+X
+X
+Segurança Estrutural contra Incêndio
+-
+X
+X
+X
+Compartimentação Vertical
+-
+-
+X
+X
+Saídas de Emergência
+X
+X
+X
+X
+Brigada de Incêndio
+-
+-
+-
+X
+Iluminação de Emergência
+X
+X
+X
+X
+Alarme de Incêndio
+-
+-
+X
+X
+Sinalização de Emergência
+X
+X
+X
+X
+Extintores
+X
+X
+X
+X
+Hidrantes e Mangotinhos
+X(1)
+X
+X
+X
+Controle de Materiais de Acabamento e de
+Revestimento
+X(2)
+X
+X
+X
+NOTAS:
+1 - Exigido para condomínios com arruamento interno, independente da área; e para prédios residenciais com
+área total superior a 1200 m².
+2 - Exigida nos salões de festas e auditórios com previsão de população superior a 200 pessoas.
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 3
+
+--- PÁGINA 4 ---
+Leia-se:
+ 
+TABELA 1
+GRUPO A
+(RESIDENCIAL)
+ 
+Divisão
+A-2 e A-3
+Medidas de Segurança contra Incêndio e Pânico
+Classificação quanto à altura (em metros)
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+Acesso de Viaturas
+X(1)
+X
+X
+X
+Segurança Estrutural contra Incêndio
+-
+X
+X
+X
+Compartimentação Vertical
+-
+-
+X
+X
+Saídas de Emergência
+X
+X
+X
+X
+Brigada de Incêndio
+-
+-
+-
+X
+Iluminação de Emergência
+X
+X
+X
+X
+Alarme de Incêndio
+-
+-
+X
+X
+Sinalização de Emergência
+X
+X
+X
+X
+Extintores
+X
+X
+X
+X
+Hidrantes e Mangotinhos
+X(3)
+X
+X
+X
+Controle de Materiais de Acabamento e de
+Revestimento
+X(2)
+X
+X
+X
+NOTAS:
+1 - Exigido quando a área total for superior a 1200 m² e para condomínios com arruamento interno,
+independente da área.
+2 - Exigida nos salões de festas e auditórios com previsão de população superior a 200 pessoas.
+3 - Exigido quando a área total for superior a 1200 m².
+ 
+ 
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 4
+
+--- PÁGINA 5 ---
+9. CORRIGIR a Tabela 3
+Onde se lê:
+ 
+TABELA 3
+GRUPO C
+(COMERCIAL)
+Divisão
+C-1(9), C-2(9) e C-3(9)
+Medidas de Segurança contra Incêndio e Pânico
+Classificação quanto à altura (em metros)
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+Acesso de Viaturas
+X(8)
+X
+X
+X
+Segurança Estrutural contra Incêndio
+X(2)
+X
+X
+X
+Compartimentação Horizontal
+X(2) (6)
+X(6)
+X
+X
+Compartimentação Vertical
+-
+X(7)
+X
+X
+Saídas de Emergência
+X
+X
+X
+X
+Plano de Intervenção de Incêndio
+X(4)
+X
+X
+X
+Brigada de Incêndio
+X(3)
+X
+X
+X
+Iluminação de Emergência
+X
+X
+X
+X
+Detecção de Incêndio
+-
+X
+X
+X
+Alarme de Incêndio
+X(3)
+X
+X
+X
+Sinalização de Emergência
+X
+X
+X
+X
+Extintores
+X
+X
+X
+X
+Hidrantes e Mangotinhos
+X(1)
+X
+X
+X
+Chuveiros Automáticos
+-
+X(10)
+X
+X
+Controle de Materiais de Acabamento e de Revestimento
+X(4)
+X
+X
+X
+Controle de Fumaça
+X(5)
+X(4)
+X
+X
+NOTAS:
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de
+2005, onde será considerada, para fins de exigência, área total superior a 1.200m².
+2 - Exigido quando área total for superior a 930 m².
+3 - Quando área total for superior a 2.000m².
+4 - Quando a área total do Grupo C for superior a 2.000m².
+5 - Somente para divisão C-3 que possuir divisão F-5, F- 6 ou F-11 com população superior a 500 pessoas.
+6 - Pode ser substituída por chuveiros automáticos.
+7 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e
+selagens dos shafts e dutos de instalações.
+8 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno,
+independentemente da área.
+9 - A área de armazenamento de mercadorias, no salão de vendas, com altura de armazenamento superior a
+3,70m (Atacado/Atacarejo) será classificada como depósito, resultando na classificação de ocupação mista
+(C/J) para a edificação.
+10 - Somente para divisão C-3 que possuir divisão F-5, F- 6 ou F-11
+ 
+ 
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 5
+
+--- PÁGINA 6 ---
+Leia-se:
+ 
+TABELA 3
+GRUPO C
+(COMERCIAL)
+Divisão
+C-1(9), C-2(9) e C-3(9)
+Medidas de Segurança contra Incêndio e Pânico
+Classificação quanto à altura (em metros)
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+Acesso de Viaturas
+X(8)
+X
+X
+X
+Segurança Estrutural contra Incêndio
+X(2)
+X
+X
+X
+Compartimentação Horizontal
+X(2) (6)
+X(6)
+X
+X
+Compartimentação Vertical
+-
+X(7)
+X
+X
+Saídas de Emergência
+X
+X
+X
+X
+Plano de Intervenção de Incêndio
+X(4)
+X
+X
+X
+Brigada de Incêndio
+X(3)
+X
+X
+X
+Iluminação de Emergência
+X
+X
+X
+X
+Detecção de Incêndio
+X(5)
+X
+X
+X
+Alarme de Incêndio
+X(3)
+X
+X
+X
+Sinalização de Emergência
+X
+X
+X
+X
+Extintores
+X
+X
+X
+X
+Hidrantes e Mangotinhos
+X(1)
+X
+X
+X
+Chuveiros Automáticos
+-
+X(10)
+X
+X
+Controle de Materiais de Acabamento e de Revestimento
+X (4)
+X
+X
+X
+Controle de Fumaça
+X(5)
+X(4)
+X
+X
+NOTAS:
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de
+2005, onde será considerada, para fins de exigência, área total superior a 1.200m².
+2 - Exigido quando área total for superior a 930 m².
+3 - Quando área total do Grupo C for superior a 2.000m².
+4 - Quando a área total do Grupo C for superior a 2.000m².
+5 - Somente para divisão C-3 que possuir divisão F-5, F- 6 ou F-11 com população superior a 500 pessoas. A
+medida poderá ser projetada somente na área destinada ao grupo F.
+6 - Pode ser substituída por chuveiros automáticos.
+7 - Pode ser substituída por chuveiros automáticos, exceto para as compartimentações das fachadas e
+selagens dos shafts e dutos de instalações.
+8 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno,
+independentemente da área.
+9 - A área de armazenamento de mercadorias, no salão de vendas, com altura de armazenamento superior a
+3,70m (Atacado/Atacarejo) será classificada como depósito, resultando na classificação de ocupação mista
+(C/J) para a edificação.
+10 - Somente para divisão C-3 que possuir divisão F-5, F- 6 ou F-11. A medida poderá ser projetada somente
+na área destinada ao grupo F. 
+ 
+ 
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 6
+
+--- PÁGINA 7 ---
+10. CORRIGIR a Tabela 15
+Onde se lê:
+TABELA 15
+GRUPO J
+(DEPÓSITO)
+Divisão
+J-1 e J-2
+J-3 e J-4
+Medidas de Segurança contra
+Incêndio e Pânico
+Classificação quanto à altura (em metros)
+Classificação quanto à altura (em metros)
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+Acesso de viaturas
+X (9)
+X
+X
+X
+X (9)
+X
+X
+X
+Segurança Estrutural contra
+Incêndio
+-
+X
+X
+X
+X(2)
+X
+X
+X
+Compartimentação
+Horizontal
+X(2) (3) (7)
+X(3) (7)
+X(3) (7)
+X(3)
+X(2) (7)
+X
+X
+X
+Compartimentação Vertical
+-
+-
+X
+X
+-
+X
+X
+X
+Saídas de Emergência
+X
+X
+X
+X
+X
+X
+X
+X
+Plano de Intervenção de
+Incêndio
+-
+-
+X
+X
+X(1)
+X
+X
+X
+Brigada de Incêndio
+X(3) (5)
+X(3)
+X(3)
+X(3)
+X(1)
+X
+X
+X
+Iluminação de Emergência
+X
+X
+X
+X
+X
+X
+X
+X
+Detecção de Incêndio
+-
+-
+X(3)
+X(3)
+X(1) (4)
+X
+X
+X
+Alarme de Incêndio
+X(3) (5)
+X
+X
+X
+X(1)
+X
+X
+X
+Sinalização de Emergência
+X
+X
+X
+X
+X
+X
+X
+X
+Extintores
+X(8)
+X(8)
+X(8)
+X(8)
+X
+X
+X
+X
+Hidrantes e Mangotinhos
+X(1)
+X
+X
+X
+X(1)
+X
+X
+X
+Chuveiros Automáticos
+-
+-
+-
+X(3)
+X(6)
+X
+X
+X
+Controle de Materiais de
+Acabamento e de
+Revestimento
+-
+X(3)
+X(3)
+X(3)
+-
+X
+X
+X
+Controle de Fumaça
+-
+-
+-
+X(3)
+-
+X
+X
+X
+NOTAS:
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de
+2005, onde será considerada, para fins de exigência, área total superior a 1.200m².
+2 - Exigido quando a área total for superior a 930 m².
+3 - Somente para divisão J-2.
+4 - Somente para divisão J-4.
+5 - Quando a área total for superior a 2.000m².
+6 - Apenas para divisão J-4. A medida deverá ser exigida quando a área utilizada como depósito for superior a
+3.000 m² e poderá ser instalada apenas nessa área. Quando projetada em substituição à compartimentação
+horizontal, deverá ser instalada em toda a edificação, ficando a edificação isenta da compartimentação
+horizontal.
+7 - Pode ser substituída por chuveiros automáticos.
+8 - Para a divisão J-1, não será exigida a cobertura por extintores nos locais destinados exclusivamente ao
+armazenamento de materiais incombustíveis, desde que não embalados.
+9 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno,
+independentemente da área.
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 7
+
+--- PÁGINA 8 ---
+Leia-se:
+TABELA 15
+GRUPO J
+(DEPÓSITO)
+Divisão
+J-1 e J-2
+J-3 e J-4
+Medidas de Segurança contra
+Incêndio e Pânico
+Classificação quanto à altura (em metros)
+Classificação quanto à altura (em metros)
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+H ≤ 12
+12 < H ≤ 30
+30 < H ≤ 54
+H > 54
+Acesso de viaturas
+X (9)
+X
+X
+X
+X (9)
+X
+X
+X
+Segurança Estrutural contra
+Incêndio
+-
+X
+X
+X
+X(2)
+X
+X
+X
+Compartimentação
+Horizontal
+X(2) (3) (7)
+X(3) (7)
+X(3) (7)
+X(3)
+X(2) (7)
+X
+X
+X
+Compartimentação Vertical
+-
+-
+X
+X
+-
+X
+X
+X
+Saídas de Emergência
+X
+X
+X
+X
+X
+X
+X
+X
+Plano de Intervenção de
+Incêndio
+-
+-
+X
+X
+X(1)
+X
+X
+X
+Brigada de Incêndio
+X(3) (5)
+X(3)
+X(3)
+X(3)
+X(1)
+X
+X
+X
+Iluminação de Emergência
+X
+X
+X
+X
+X
+X
+X
+X
+Detecção de Incêndio
+-
+-
+X(3)
+X(3)
+X(1) (4)
+X
+X
+X
+Alarme de Incêndio
+X(3) (5)
+X
+X
+X
+X(1)
+X
+X
+X
+Sinalização de Emergência
+X
+X
+X
+X
+X
+X
+X
+X
+Extintores
+X(8)
+X(8)
+X(8)
+X(8)
+X
+X
+X
+X
+Hidrantes e Mangotinhos
+X(1)
+X
+X
+X
+X(1)
+X
+X
+X
+Chuveiros Automáticos
+-
+-
+-
+X(3)
+X(6)
+X
+X
+X
+Controle de Materiais de
+Acabamento e de
+Revestimento
+-
+X(3)
+X(3)
+X(3)
+-
+X
+X
+X
+Controle de Fumaça
+-
+-
+-
+X(3)
+-
+X
+X
+X
+NOTAS:
+1 - Exigido quando a área total for superior a 930 m², exceto para as construções concluídas até 01 de julho de
+2005, onde será considerada, para fins de exigência, área total superior a 1.200m².
+2 - Exigido quando a área total for superior a 930 m².
+3 - Somente para divisão J-2.
+4 - Somente para divisão J-4.
+5 - Quando a área total for superior a 2.000m².
+6 - Apenas para divisão J-4. A medida deverá ser exigida quando a área utilizada como depósito for superior a
+3.000 m², independente de compartimentação, e poderá ser instalada apenas nessa área. Quando projetada em
+toda a edificação, substituirá a medida compartimentação horizontal.
+7 - Pode ser substituída por chuveiros automáticos, devendo ser projetada em toda a edificação.
+8 - Para a divisão J-1, não será exigida a cobertura por extintores nos locais destinados exclusivamente ao
+armazenamento de materiais incombustíveis, desde que não embalados.
+9 - Exigido quando a área total for superior a 930 m² e para condomínios com arruamento interno,
+independentemente da área.
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 8
+
+--- PÁGINA 9 ---
+11. ALTERAR o item E.2.5
+Onde se lê:
+E.2.5 Para distinguir galerias comerciais (C-2) de shopping centers (C-3), deve-se observar os seguintes
+critérios:
+a) Caso haja, na edificação, apenas atividade comercial (grupo C), o enquadramento será em C-2;
+b) Caso, além das atividades comerciais, estejam presentes atividades diversas, como por exemplo
+agências bancárias, escritórios e cabeleireiros, deverá haver o enquadramento em C-3 ou, ainda, em
+ocupação mista (C-2 e F-8, por exemplo, caso haja uma galeria comercial com lanchonetes, visto que
+nenhuma dessas atividades destina-se à concretização da outra), a critério do RT.
+Leia-se:
+E.2.5 Para distinguir galerias comerciais (C-2) de shopping centers (C-3), deve-se observar os seguintes
+critérios:
+a) Caso haja, na edificação, apenas atividade comercial (grupo C) e ocupações secundárias, o
+enquadramento será em C-2;
+b) Caso, além das atividades comerciais, estejam presentes atividades diversas, como por exemplo
+academia, agências bancárias, boliche, cabeleireiros, casas noturnas, cinema, salão de festas, teatro, entre
+outras, deverá haver o enquadramento em C-3.
+ 
+12. ALTERAR o item E.4.4.2
+Onde se lê:
+E.4.4.2 O último pavimento será aquele que possua área comum, devendo possuir saída de emergência
+conforme IT 08, sendo vedada a saída exclusiva pelo interior da unidade autônoma.
+Leia-se:
+E.4.4.2 Os pavimentos superiores da cobertura e assemelhados que disponham de área comum deverão
+possuir escada de emergência em conformidade com a IT 08.
+E.4.4.2.1 Ainda que possuam área comum, esses pavimentos não serão computados para definição de
+altura da edificação, caso exista a opção de saída pelo interior da unidade autônoma.
+ 
+13. ALTERAR os itens E.6.1, E.6.1.1 e EXCLUIR o item E.6.1.2
+Onde se lê:
+E.6.1 Será considerada mezanino a estrutura que subdivide parcialmente um pavimento em dois pisos,
+desde que a estrutura não possua área superior à metade da área do pavimento subdividido ou superior a
+200m².
+E.6.1.1 Quando a estrutura possuir área superior a 200 m² e inferior à metade do pavimento subdividido,
+será considerada um novo pavimento, sendo que as exigências de medidas de segurança decorrentes de
+sua desqualificação como mezanino se aplicarão exclusivamente à referida estrutura.
+E.6.1.2 Quando a estrutura possuir área superior à metade do pavimento subdividido, será considerada um
+novo pavimento, sendo que as exigências de medidas de segurança decorrentes da desqualificação como
+mezanino se aplicarão a toda a edificação.
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 9
+
+--- PÁGINA 10 ---
+Leia-se:
+E.6.1 A estrutura, com até 200 m², que subdividir parcialmente um pavimento em dois pisos será
+considerada mezanino, desde que não possua área superior à metade da área do pavimento subdividido.
+E.6.1.1 A estrutura destinada a atividades de apoio (secundárias), tais como administração, áreas técnicas,
+depósito e almoxarifado, que possuir área superior a 200 m² e inferior ou igual a 930 m² (não superior à
+metade do pavimento subdividido) não será contabilizada para definição de altura ou quantidade de
+pavimentos, aplicando-se as demais exigências previstas para um pavimento.
+ 
+ 
+ 
+ 
+Luiz Frederico Barreto Pascoal, Coronel BM
+Diretor de Atividades Técnicas
+ 
+Documento assinado eletronicamente por Luiz Frederico Barreto Pascoal, Coronel, em 30/12/2024, às
+13:11, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222, de
+26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 104270034 e
+o código CRC 48B106B7.
+ 
+Diretoria de Atividades Técnicas - Corpo de Bombeiros Militar de Minas Gerais - Rodovia Papa João Paulo
+II, 4143 - Bairro Serra Verde - CEP 31630-900 - Belo Horizonte - MG
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 1400.01.0077789/2024-16
+SEI nº 104270034
+ 
+Errata nº 01 (104270034)         SEI 1400.01.0077789/2024-16 / pg. 10

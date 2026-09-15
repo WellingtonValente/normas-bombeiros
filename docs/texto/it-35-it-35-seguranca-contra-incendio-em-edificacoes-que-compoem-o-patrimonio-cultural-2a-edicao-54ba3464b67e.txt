@@ -1067,7 +1067,7 @@ B.2 Determinação do Risco Global de Incêndio
 B.2.1 O Risco Global de Incêndio (R), associado à edificação ou conjunto de edificações, será 
 determinado pelo produto da Exposição ao Risco de Incêndio (E) pelo fator de Risco de Ativação 
 de Incêndio (A) dada pela seguinte equação: 
-𝐑= 𝐄 ×  𝐀
+𝐑= 𝐄 × 𝐀
 
 --- PÁGINA 23 ---
 CBMMG IT 35 – Segurança Contra Incêndio em Edificações que Compõem o Patrimônio Cultural 

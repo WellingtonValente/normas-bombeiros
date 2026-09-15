@@ -1,0 +1,105 @@
+--- PÁGINA 1 ---
+01/09/22, 15:59
+SEI/GOVMG - 50960506 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58414347&infra…
+1/3
+GOVERNO DO ESTADO DE MINAS GERAIS
+Corpo de Bombeiros Militar de Minas Gerais
+Diretoria de Atividades Técnicas
+Belo Horizonte, 05 de agosto de 2022.
+  
+EMENDA CBMMG/DAT Nº. 16/2022
+Esta Emenda tem por objetivo promover as seguintes alterações na Instrução Técnica  35 - 2ª Edição
+(Segurança contra Incêndio em Edificações que compõem o Patrimônio Cultural):
+1. ACRESCENTAR o item 2.1.1:
+2.1.1 A aplicação desta IT se dará mediante a apresentação do documento público (lei, decreto, ato
+administrativo, certidão, inscrição em livro do tombo, dentre outros) que comprove o tombamento da
+edificação.
+ 
+2. ALTERAR a alínea ‘a’ do item 2.2, que passa a vigorar com a seguinte redação:
+a) Edificações residenciais unifamiliares que compõem um conjunto urbano protegido formado pelo
+menos por uma edificação tombada pelo patrimônio histórico;
+ 
+3. ALTERAR o item 5.3.1, que passa a vigorar com a seguinte redação:
+5.3.1 Na impossibilidade de realizar intervenções, caberá ao RT apresentar Parecer Técnico (ou similar),
+emitido pelo órgão de preservação responsável pelo tombamento, indicando as limitações de adequação
+da edificação em virtude de seu tombamento, bem como esclarecimentos que justifiquem a metodologia
+e as medidas mitigadoras adotadas para fins de avaliação do Corpo Técnico do Corpo de Bombeiros
+Militar de Minas Gerais (CBMMG).
+ 
+4. ALTERAR o item 5.7.2, que passa a vigorar com a seguinte redação:
+5.7.2 As edificações descritas no item 5.7 não darão, por si só, causa à constituição de conjunto urbano
+protegido.
+ 
+5. ALTERAR o item 6.1.1, que passa a vigorar com a seguinte redação:
+6.1.1 As medidas de segurança contra incêndio e pânico nas edificações devem ser apresentadas ao
+CBMMG conforme definido na IT03 (Composição do Processo de Segurança contra Incêndio e Pânico -
+PSCIP).
+ 
+6. ALTERAR o item 6.2.2.2, que passa a vigorar com a seguinte redação:
+6.2.2.2 As edificações, considerando sua ocupação, deverão dispor de pelo menos de uma medida
+sinalizadora de incêndio (alarme ou detecção, conforme Tabela 11A), uma medida extintiva (extintores,
+hidrantes, brigada de incêndio ou chuveiros automáticos, conforme tabela 11B) e saída de emergência
+compatível com o público previsto para a edificação, excetuados os casos de isenção previstos nas notas
+das tabelas do Anexo A desta IT.
+ 
+7. ALTERAR os itens 6.2.4, 6.2.4.1 e 6.2.4.2, que passam a vigorar com a seguinte redação:
+
+--- PÁGINA 2 ---
+01/09/22, 15:59
+SEI/GOVMG - 50960506 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58414347&infra…
+2/3
+6.2.4  As edificações que não apresentarem isolamento de risco conforme o procedimento para
+dimensionamento da distância de separação previsto na IT 05 (Separação entre Edificações) serão
+consideradas como parte do conjunto urbano protegido.
+6.2.4.1 Para fins de definição de conjunto urbano protegido, deverá ser adotada, para efeito de cálculo,
+a distância de separação entre a fachada da edificação e a divisa do terreno, considerando como distância
+de afastamento a metade do valor calculado.
+6.2.4.2 As medidas de segurança contra incêndio e pânico para edificações que fazem parte de conjunto
+urbano protegido serão as previstas para cada edificação, conforme exigências desta norma, acrescidas
+de:
+a) Compartimentação horizontal entre as edificações contíguas, que poderá se dar por meio de
+tratamento dos elementos construtivos limítrofes da edificação por produtos intumescentes que
+garantam tal condição, mediante apresentação de laudo e ART;
+b) Laudo de inspeção de instalações elétricas de baixa tensão, atestando a conformidade das instalações
+à NBR 5410, e respectivo documento de responsabilidade técnica, emitido por profissional legalmente
+habilitado; e
+c) Informação, no plano de intervenção de incêndio, de que as definições contidas no plano serão
+compartilhadas com as demais edificações que compõem o conjunto urbano protegido.
+8. ACRESCENTAR o item 6.2.4.3:
+6.2.4.3 Não sendo possível o cumprimento de alguma alínea do item 6.2.4.2, as medidas de
+segurança contra incêndio e pânico para as edificações que fazem parte do conjunto urbano protegido
+serão definidas pelo Corpo Técnico.
+ 
+9. ACRESCENTAR o item 6.2.4.4:
+6.2.4.4 As unidades do CBMMG responsáveis pelas áreas onde se localizam tais imóveis deverão manter
+contato com as administrações locais a fim de que sejam asseguradas vias de acesso adequadas aos
+veículos de combate a incêndio e de que sejam instalados e mantidos pontos de abastecimento de água
+(hidrantes urbanos) operativos.
+ 
+10. ACRESCENTAR o item B.1.4:
+B.1.4 A metodologia descrita neste Anexo aplica-se somente às edificações cujas características
+associadas à grandeza da carga incêndio (Tabela 4), posição da carga incêndio (Tabela 5), acesso à
+edificação (Tabela 7) e ocupação da edificação (Tabela 8) estejam contempladas nas respectivas tabelas.
+ 
+11. ALTERAR a Tabela 5, que passa a vigorar com a seguinte redação:
+ 
+ 
+Alexandre Gomes Rodrigues, Coronel BM
+Diretor de Atividades Técnicas
+Documento assinado eletronicamente por Alexandre Gomes Rodrigues, Diretor(a), em 29/08/2022,
+
+--- PÁGINA 3 ---
+01/09/22, 15:59
+SEI/GOVMG - 50960506 - CBMMG - Emenda
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=58414347&infra…
+3/3
+às 15:51, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 50960506
+e o código CRC EB7C235E.
+Referência: Processo nº 1400.01.0045935/2022-78
+SEI nº 50960506

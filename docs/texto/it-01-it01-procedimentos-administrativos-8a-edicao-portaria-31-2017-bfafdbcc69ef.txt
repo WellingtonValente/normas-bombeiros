@@ -251,7 +251,7 @@ contendo as medidas de segurança que atendam a toda a área da edificação.
 6.2.5 Para edificações e áreas de risco as plantas do projeto deverão conter somente 
 informações pertinentes ao Regulamento de Segurança Contra Incêndio e Pânico, a fim de se 
 evitar dados em excesso, tais como mobiliário e outros que não prejudicam as rotas de fuga. 
-6.2.6 É permitida a projeção de medidas de segurança contra incêndio e pânico interligadas  em 
+6.2.6 É permitida a projeção de medidas de segurança contra incêndio e pânico interligadas em 
 edificações distintas, desde que contidas em um mesmo PSCIP. 
 6.2.7 Para regularização de edificações utilizadas como galeria comercial ou shopping center
 
@@ -371,7 +371,7 @@ do recurso nas fases de análise ou vistoria de liberação com fins de emissão
 constatado que as medidas de segurança estão instaladas adequadamente conforme Instruções 
 Técnicas ou PSCIP aprovado. 
 7.1.1 Para os PSCIP digitais a emissão será conforme o Anexo C. 
-7.1.2 Será emitido AVCB parcial nas edificações em construção, desde que a área em obras não  
+7.1.2 Será emitido AVCB parcial nas edificações em construção, desde que a área em obras não 
 esteja ocupada, bem como não interfira nas rotas de fuga. 
 7.1.3 Havendo mais de 01 (uma) edificação e área de risco projetadas em 01 (um) único PSCIP 
 impresso, poderá ser emitido AVCB específico para cada edificação e /ou área de risco desde 
@@ -1207,7 +1207,7 @@ selagens dos shafts e dutos de instalações.
 NOTAS GENÉRICAS: 
 A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências 
 previstas será superiora 1.200m². 
-B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo  ser 
+B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser 
 subdividida se os riscos forem isolados. 
 C – As saídas de emergência de edificações construídas até 01 de julho de 2005 poderão atender à Norm a 
 Brasileira vigente à época da construção. 
@@ -1576,7 +1576,7 @@ Brasileira vigente à época da construção.
 D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incêndio”, “Compartimentação Vertical”, 
 “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho 
 de 2005. 
-E – Os locais destinados a laboratórios devem ter proteção em função dos produtos  utilizados.
+E – Os locais destinados a laboratórios devem ter proteção em função dos produtos utilizados.
 
 --- PÁGINA 27 ---
 IT 01 – Procedimentos administrativos 
@@ -1813,7 +1813,7 @@ D – As medidas “Acesso de Viaturas”, “Segurança Estrutural contra Incê
 “Chuveiros Automáticos” e “Controle de Fumaça” não se aplicam às edificações construídas até 01 de julho de 
 2005. 
 E – As edificações classificadas como F-11, com população superior a 200 pessoas, que possuam PSCIP 
-apenas aprovado ou que já possuam AVCB (projeto aprovado e liberado) deverão se adequar às exigências  
+apenas aprovado ou que já possuam AVCB (projeto aprovado e liberado) deverão se adequar às exigências 
 de “Controle de Materiais de Acabamento e de Revestimento”.
 
 --- PÁGINA 29 ---
@@ -1855,7 +1855,7 @@ específica).
 NOTAS GENÉRICAS: 
 A – Para eventos temporários deve ser observada a Instrução Técnica específica. 
 B – A altura máxima para construções provisórias é de 12,0 m. 
-C – Para eventos realizados no interior de edificações devem ser observadas as condições de aprovação do  
+C – Para eventos realizados no interior de edificações devem ser observadas as condições de aprovação do 
 PSCIP.
 
 --- PÁGINA 30 ---
@@ -2575,7 +2575,7 @@ X
 NOTAS ESPECÍFICAS: 
 1 – Pode ser substituída por chuveiros automáticos. 
 NOTAS GENÉRICAS: 
-A – Para as edificações construídas até 01 de julho de 2005, a área considerada  para fins de exigências 
+A – Para as edificações construídas até 01 de julho de 2005, a área considerada para fins de exigências 
 previstas será superior a 1.200 m². 
 B – A área a ser considerada para definição de exigências é a “área total da edificação”, podendo ser 
 subdividida se os riscos forem isolados. 
@@ -3081,7 +3081,7 @@ B – As saídas de emergência de edificações construídas até 01 de julho d
 Brasileira vigente à época da construção. 
 C – A medida “Acesso de Viaturas” não se aplica às edificações construídas até 01 de julho de 2005. 
 D – As edificações do grupo L deverão atender à Instrução Técnica específica e às prescrições normativas do 
-Exército Brasileiro e da Polícia Civil do Estado de Minas  Gerais. 
+Exército Brasileiro e da Polícia Civil do Estado de Minas Gerais. 
 E – As edificações que fazem parte de indústria ou depósito, mas que não armazenam ou produzam material 
 explosivo, como alojamentos, refeitórios e outras áreas industriais, atenderão às medidas de segurança 
 exigidas pela ocupação específica.
@@ -3098,18 +3098,18 @@ EDIFICAÇÕES E ÁREAS DE RISCO DO GRUPO M
 Divisão 
 M-1 
 Para definição das medidas de segurança é necessário consultar as seguintes normas, levando -se em 
-consideração todas as suas atualizações e outras que vierem  substituí-las: 
+consideração todas as suas atualizações e outras que vierem substituí-las: 
 NBR 15.661 - Proteção contra incêndio em túneis; 
 NBR 15.981 - Sistemas de proteção contra incêndio em túneis - Sistemas de sinalização e de comunicação de 
 emergência em túneis. 
 Divisão 
 M-2 
 1) Para definição das medidas de segurança das áreas de risco que abriguem tanques, cilindros ou produtos 
-acondicionados, GLP, ou GN será necessário consultar as seguintes normas, levando-se em  cons ideração 
+acondicionados, GLP, ou GN será necessário consultar as seguintes normas, levando-se em cons ideração 
 todas as suas atualizações e outras que vierem substituí-las, bem como demais documentos por elas citados: 
 a) IT23 - Manipulação, armazenamento, comercialização e utilização de gás liquefeito de petróleo (GLP); 
 b) IT 24 - Comercialização, distribuição e utilização de gás natural; 
-c) NBR 17.505 - Armazenagem de líquidos inflamáveis e combustíveis (todas as  partes). 
+c) NBR 17.505 - Armazenagem de líquidos inflamáveis e combustíveis (todas as partes). 
 2) Quando houver a previsão de sistema hidráulico por parte das normas supracitadas, será obrigatória a 
 previsão das medidas de segurança “Alarme de Incêndio”, “Brigada de Incêndio” e “Acesso de Viaturas”, 
 sendo o acesso de viaturas recomendado para as edificações construídas até 1 de julho de 2005. 
@@ -3290,7 +3290,7 @@ documentos pelo setor específico do CBMMG.
 B.3 Análise do PSCIP impresso 
 B.3.1 O PSCIP (PT ou PET) deverá ser apresentado com documentos constantes nos Anexos E 
 e F desta IT. 
-B.3.2 Verificado em análise que o PSCIP atende às exigências previstas na legislação e normas  
+B.3.2 Verificado em análise que o PSCIP atende às exigências previstas na legislação e normas 
 técnicas, será emitida a aprovação. 
 B.3.3 Verificado em análise, que ocorreram falhas na elaboração do PSCIP, a documentação 
 será devolvida ao interessado, na forma de notificação impressa, com a capitulação do(s) item(s) 
@@ -5182,7 +5182,7 @@ TRRF:. Tudo conforme item 5.7 da Instrução Técnica n°06. Observações:
  
 ISENÇÕES OU REDUÇÕES DETRRF 
 Exemplos: (Não foi adotada nenhuma condição para redução ou isenção de TRRF na presente edificação... Ou 
-isenção de TRRF para os pilares externos protegidos por alvenaria cega... Ou Isenção dos perfis confinados em  
+isenção de TRRF para os pilares externos protegidos por alvenaria cega... Ou Isenção dos perfis confinados em 
 área fria, conforme folhas...). 
 MATERIAIS 
 DE 
@@ -6119,7 +6119,7 @@ do item H.1.1;
 c) as atividades sejam exercidas em imóvel que compõe o Patrimônio Histórico e Cultural; 
 d) demande a comercialização ou armazenamento de líquido inflamável ou combustível acima 
 de 1000 L (mil litros); 
-e) demande a utilização ou armazenamento de gás liquefeito de petróleo (GLP) acima de 190 kg  
+e) demande a utilização ou armazenamento de gás liquefeito de petróleo (GLP) acima de 190 kg 
 (cento e noventa quilogramas). 
 f) demande a comercialização ou armazenamento de produtos explosivos ou substâncias com 
 alto potencial lesivo à saúde humana, ao meio ambiente ou ao patrimônio. 
