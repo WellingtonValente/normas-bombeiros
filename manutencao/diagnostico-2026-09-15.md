@@ -34,3 +34,58 @@ vigentes; data de publicação e regras de transição precisam de conferência 
 O resultado da coleta posterior deve ser conferido no `docs/data/sync_status.json`
 e na execução GitHub correspondente. Este diagnóstico, por si só, não declara
 atualização integral nem certificação de vigência normativa.
+
+## Resultado observado após a correção
+
+O código foi aplicado em `main` pelo commit
+[`5ce94f6`](https://github.com/WellingtonValente/normas-bombeiros/commit/5ce94f6498a954da3f0b51f63bb01cb91a80d54f).
+A [execução 34930795910](https://github.com/WellingtonValente/normas-bombeiros/actions/runs/34930795910)
+começou a coleta em 15/09/2026 às 04:57:32 UTC e concluiu às 05:00:07 UTC.
+Os dois hosts oficiais responderam HTTP 200 na primeira tentativa, em 4,500 e
+4,135 segundos. Como esses tempos ficaram abaixo de 10 segundos, a recuperação
+não demonstra que o limite antigo era a única causa: o timeout de 14/09 é
+comprovado, mas uma indisponibilidade intermitente de origem ou rota também é
+compatível com as evidências. Não foi comprovado bloqueio por IP ou geografia.
+
+| Verificação | Resultado |
+|---|---:|
+| Links distintos no índice | 497 |
+| PDFs baixados e processados | 462 |
+| Links não PDF | 35 |
+| Erros de download | 0 |
+| Documentos novos em relação ao acervo anterior | 12 |
+| Documentos antigos ausentes do índice e preservados | 8 |
+| Documentos no catálogo publicado | 470 |
+| Testes aprovados no runner GitHub | 39 |
+| Respostas JSON geradas | 3.541 |
+| Maior resposta JSON | 8.762 bytes (limite: 24.000) |
+
+A construção e a publicação terminaram com sucesso. O job de resultado ficou
+em falha porque o sincronizador retornou **código 4: coleta parcial**. Isso é
+intencional: os oito documentos históricos abaixo continuam preservados, sem
+nova coleta nem confirmação de revogação. Os arquivos em `/images/stories/dat/it/`
+não aparecem como âncoras do índice consultado:
+
+- `it_01_8edicao_errata_01_2018_portaria_32_2018.pdf`
+- `it_01_revisada_pelas_portarias_12_e_17.pdf`
+- `it_08_2_edicao_errata_portaria_n_30_2017.pdf`
+- `it_08_2a_edicao.pdf`
+- `it_12_2a_edicao.pdf`
+- `it_22_armazenamento_de_liquidos_inflamaveis_e_combustiveis.pdf`
+- `it%20036.pdf`
+- `anexo%20a%20-%20it39_blocos%20de%20carnaval.pdf`
+
+O [status público](https://wellingtonvalente.github.io/normas-bombeiros/api/v1/status.json)
+foi consultado por HTTP após a publicação e confirmou:
+
+- `sha256_base`: `12366918a044d22cd5a6f5b10bac5a4b569fe7cd1a48627ae5559052ded9b53a`;
+- `ultima_coleta_parcial`: `2026-09-15T05:00:06+00:00`;
+- `erros_coleta_base`, `erros_acesso_indice_ultima_tentativa` e `erros_documentos_ultima_tentativa`: **0**;
+- `promocao_parcial`: **true**, `base_coleta_completa`: **false**;
+- data global anterior preservada: `2026-05-04T20:36:47+00:00`;
+- `atualidade_normativa`: **nao_garantida**, por não equivaler à certificação jurídica de vigência.
+
+Os 462 documentos recoletados possuem data individual de 15/09/2026. A data
+global antiga e o sinal de falha parcial não significam que esses documentos
+continuam congelados em maio. Os oito históricos devem ser reconciliados com
+evidência oficial antes de se declarar uma coleta integral.
