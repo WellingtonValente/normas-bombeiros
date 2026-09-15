@@ -57,3 +57,44 @@ uma coleta geral anterior bem-sucedida.
 O resultado operacional deve ser comprovado pela execução GitHub e pelo status
 público após a publicação. A verificação inicial dos oito PDFs, isoladamente,
 não declara a conclusão da coleta completa.
+
+## Resultado final verificado
+
+A correção foi aplicada no commit
+[`21c33aa`](https://github.com/WellingtonValente/normas-bombeiros/commit/21c33aa4a2a65652762f851187590d87748e8dc0).
+A [execução 34932586711](https://github.com/WellingtonValente/normas-bombeiros/actions/runs/34932586711)
+concluiu com sucesso os jobs de coleta, publicação e resultado final. Os dados
+foram versionados no commit
+[`31ae735`](https://github.com/WellingtonValente/normas-bombeiros/commit/31ae73512bd5cc3f95b2765bf543f2fbf6b6f187).
+
+| Verificação da execução | Resultado |
+|---|---:|
+| Links do índice oficial | 497 |
+| Históricos suplementares | 8 |
+| Candidatos totais | 505 |
+| PDFs baixados e processados | 470 |
+| Históricos baixados novamente com hash esperado | 8 |
+| Links não PDF | 35 |
+| Erros de coleta | 0 |
+| Documentos anteriores ausentes | 0 |
+| Documentos preservados sem nova coleta | 0 |
+| Testes aprovados localmente e no GitHub | 48 |
+| Respostas JSON geradas | 3.541 |
+| Maior resposta JSON | 9.507 bytes (limite: 24.000) |
+
+O [status público](https://wellingtonvalente.github.io/normas-bombeiros/api/v1/status.json),
+o manifesto e os oito endpoints individuais foram conferidos por HTTP após a
+publicação, com término da conferência em **15/09/2026 às 05:29:01 UTC**:
+
+- `data_coleta` e `ultima_coleta_bem_sucedida`: `2026-09-15T05:27:24+00:00`;
+- `coleta_ok` e `base_coleta_completa`: **true**;
+- `promocao_parcial`: **false**; `ultima_coleta_parcial`: **null**;
+- `documentos_anteriores_ausentes`: **0**;
+- `sha256_base`: `edae967b67b493171ea7700f0759bd555ffecd5fb80e81af7509ece38904c600`;
+- todos os 470 registros têm estado `coletado` e data individual de 15/09/2026;
+- os oito endpoints originais continuam disponíveis, com os mesmos identificadores,
+  URLs e hashes, agora com data de coleta nova e evidência histórica explícita.
+
+As oito pendências de coleta estão resolvidas. O campo `atualidade_normativa`
+permanece `nao_garantida`: uma coleta integral e verificável não certifica a
+vigência ou a aplicabilidade jurídica de cada documento.
