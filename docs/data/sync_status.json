@@ -1,23 +1,16 @@
 {
-  "ok": true,
-  "status": "ok",
-  "ultima_tentativa": "2026-09-15T05:24:27+00:00",
+  "ok": false,
+  "status": "falha",
+  "ultima_tentativa": "2026-09-15T12:02:34+00:00",
   "ultima_coleta_bem_sucedida": "2026-09-15T05:27:24+00:00",
   "data_coleta_base": "2026-09-15T05:27:24+00:00",
   "fonte_url": "https://www.bombeiros.mg.gov.br/normastecnicas",
-  "motivo": "Coleta completa promovida; vigência normativa deve ser confirmada por documento.",
+  "motivo": "Coleta iniciada; promoção ainda não concluída.",
   "contagens": {
     "links_detectados": 497,
     "historicos_cadastrados": 8,
     "historicos_fora_indice": 8,
-    "candidatos_totais": 505,
-    "pdfs": 470,
-    "nao_pdf": 35,
-    "erros": 0,
-    "historicos_recoletados": 8,
-    "documentos_anteriores": 470,
-    "documentos_anteriores_ausentes": 0,
-    "documentos_preservados": 0
+    "candidatos_totais": 505
   },
   "diagnostico": {
     "tentativas": [
@@ -28,12 +21,12 @@
         "content_type": "text/html; charset=UTF-8",
         "html_length": 1069273,
         "links_candidatos": 497,
-        "sha256_html": "df2911e27283eb7a1ac6c02d08c5250928def45de30f4edf3556147e485a5f74",
-        "data_acesso": "2026-09-15T05:24:33+00:00",
+        "sha256_html": "e1e4fdb779825ca285d8a6d54b969f84f359c5bf1d411ec245f33190983b868e",
+        "data_acesso": "2026-09-15T12:02:37+00:00",
         "requisicoes": [
           {
             "tentativa": 1,
-            "segundos": 5.59,
+            "segundos": 3.244,
             "status_code": 200,
             "url_final": "https://www.bombeiros.mg.gov.br/normastecnicas"
           }
@@ -46,12 +39,12 @@
         "content_type": "text/html; charset=UTF-8",
         "html_length": 1069221,
         "links_candidatos": 497,
-        "sha256_html": "8595f41edd83d617a88e70099abe7039b894dbb03717a90774ee6a5f2c113e9a",
-        "data_acesso": "2026-09-15T05:24:39+00:00",
+        "sha256_html": "1f821df0f9f2caae92888f3480421494e88e99c7902e904c8bd927e4bca13dec",
+        "data_acesso": "2026-09-15T12:02:39+00:00",
         "requisicoes": [
           {
             "tentativa": 1,
-            "segundos": 5.05,
+            "segundos": 1.686,
             "status_code": 200,
             "url_final": "https://bombeiros.mg.gov.br/normastecnicas"
           }
@@ -69,15 +62,12 @@
     }
   },
   "erros": [],
-  "fase": "concluida",
+  "fase": "download_documentos",
   "ambiente": {
     "python": "3.11.16",
     "requests": "2.34.2",
     "sistema": "Linux",
-    "github_run_id": "34932586711",
-    "github_sha": "21c33aa4a2a65652762f851187590d87748e8dc0"
-  },
-  "documentos_anteriores_ausentes": [],
-  "promocao_parcial": false,
-  "concluida_em": "2026-09-15T05:27:25+00:00"
+    "github_run_id": "34966556937",
+    "github_sha": "5f20d8b620747f6c8bcaf493cd141c7adfe29f87"
+  }
 }
