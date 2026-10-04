@@ -1,7 +1,7 @@
 {
   "ok": false,
   "status": "falha",
-  "ultima_tentativa": "2026-10-03T11:57:36+00:00",
+  "ultima_tentativa": "2026-10-04T12:49:16+00:00",
   "ultima_coleta_bem_sucedida": "2026-09-15T05:27:24+00:00",
   "data_coleta_base": "2026-09-15T05:27:24+00:00",
   "fonte_url": null,
@@ -13,46 +13,46 @@
     "tentativas": [
       {
         "url_solicitada": "https://www.bombeiros.mg.gov.br/normastecnicas",
-        "erro": "Falha ao baixar https://www.bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7f02a30e78d0>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
+        "erro": "Falha ao baixar https://www.bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7f8e9d22b090>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
         "fase": "timeout_conexao",
         "requisicoes": [
           {
             "tentativa": 1,
-            "segundos": 63.398,
+            "segundos": 62.916,
             "tipo": "ConnectTimeout",
             "fase": "timeout_conexao",
-            "erro": "HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7f02a44b5d90>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
+            "erro": "HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7f8e9d229a50>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
             "status_code": null
           },
           {
             "tentativa": 2,
-            "segundos": 61.026,
+            "segundos": 60.536,
             "tipo": "ConnectTimeout",
             "fase": "timeout_conexao",
-            "erro": "HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7f02a30e78d0>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
+            "erro": "HTTPSConnectionPool(host='www.bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bombeiros.mg.gov.br', port=443) at 0x7f8e9d22b090>, 'Connection to www.bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
             "status_code": null
           }
         ]
       },
       {
         "url_solicitada": "https://bombeiros.mg.gov.br/normastecnicas",
-        "erro": "Falha ao baixar https://bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7f02a30e7910>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
+        "erro": "Falha ao baixar https://bombeiros.mg.gov.br/normastecnicas: HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7f8e9d22b510>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
         "fase": "timeout_conexao",
         "requisicoes": [
           {
             "tentativa": 1,
-            "segundos": 60.359,
+            "segundos": 60.306,
             "tipo": "ConnectTimeout",
             "fase": "timeout_conexao",
-            "erro": "HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7f02a30f4d90>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
+            "erro": "HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7f8e9d0345d0>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
             "status_code": null
           },
           {
             "tentativa": 2,
-            "segundos": 60.317,
+            "segundos": 62.925,
             "tipo": "ConnectTimeout",
             "fase": "timeout_conexao",
-            "erro": "HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7f02a30e7910>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
+            "erro": "HTTPSConnectionPool(host='bombeiros.mg.gov.br', port=443): Max retries exceeded with url: /normastecnicas (Caused by ConnectTimeoutError(<HTTPSConnection(host='bombeiros.mg.gov.br', port=443) at 0x7f8e9d22b510>, 'Connection to bombeiros.mg.gov.br timed out. (connect timeout=60)'))",
             "status_code": null
           }
         ]
@@ -68,8 +68,8 @@
     "python": "3.11.16",
     "requests": "2.34.2",
     "sistema": "Linux",
-    "github_run_id": "37121292232",
-    "github_sha": "28f84257f08591160c31bdf25d5f847edcadee65"
+    "github_run_id": "37203410766",
+    "github_sha": "7f6204dbd903e65fff4f161ab00c132f99234527"
   },
-  "concluida_em": "2026-10-03T12:01:45+00:00"
+  "concluida_em": "2026-10-04T12:53:27+00:00"
 }
