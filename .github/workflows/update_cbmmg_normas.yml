@@ -1,26 +1,9 @@
 name: Atualizar normas CBMMG
 
+# Atualizações automáticas suspensas por solicitação do proprietário em 2026-11-04.
+# A execução manual exige uma decisão explícita; não reativar agendas ou push sem autorização.
 on:
   workflow_dispatch:
-  # schedule:
-    # Diariamente às 06:37 UTC (03:37 em Brasília); o GitHub pode atrasar a fila.
-    # - cron: '37 6 * * *'
-  push:
-    branches: [main]
-    paths:
-      - 'scripts/**'
-      - 'gpt/**'
-      - 'tests/**'
-      - 'config/**'
-      - 'requirements*.txt'
-      - 'pyproject.toml'
-      - 'openapi*.yaml'
-      - 'gpt_instrucoes_atualizadas.md'
-      - '.github/workflows/update_cbmmg_normas.yml'
-      - 'docs/privacy-policy.*'
-      - 'docs/templates/**'
-      - 'docs/CNAME'
-      - 'docs/.nojekyll'
 
 # Serializa coleta, commit e publicação. Não interrompe uma publicação em curso.
 concurrency:
