@@ -2,9 +2,9 @@ name: Atualizar normas CBMMG
 
 on:
   workflow_dispatch:
-  schedule:
+  # schedule:
     # Diariamente às 06:37 UTC (03:37 em Brasília); o GitHub pode atrasar a fila.
-    - cron: '37 6 * * *'
+    # - cron: '37 6 * * *'
   push:
     branches: [main]
     paths:
